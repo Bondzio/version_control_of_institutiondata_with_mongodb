@@ -1,0 +1,144 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Enhanced cleavage of type II collagen by collagenases in osteoarthritic articular cartilage</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">RC</namePart>
+  <namePart type="family">Billinghurst</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">L</namePart>
+  <namePart type="family">Dahlberg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Ionescu</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Reiner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">R</namePart>
+  <namePart type="family">Bourne</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">C</namePart>
+  <namePart type="family">Rorabeck</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">P</namePart>
+  <namePart type="family">Mitchell</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J</namePart>
+  <namePart type="family">Hambor</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">O</namePart>
+  <namePart type="family">Diekmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Harald</namePart>
+  <namePart type="family">Tschesche</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">19406</identifier></name>
+<name type="personal">
+  <namePart type="given">J</namePart>
+  <namePart type="family">Chen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">H</namePart>
+  <namePart type="family">VanWart</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">AR</namePart>
+  <namePart type="family">Poole</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Biochemie I</namePart>
+  <identifier type="unibi">17967</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We demonstrate the direct involvement of increased collagenase activity in the cleavage of type II collagen in osteoarthritic human femoral condylar cartilage by developing and using antibodies reactive to carboxy-terminal (COL2-3/4C(short)) and amino-terminal (COL2-1/4N1) neoepitopes general ed by cleavage of native human type II collagen by collagenase matrix metalloproteinase (MMP)-1 (collagenase-1), MMP-8 (collagenase-2), and MMP-13 (collagenase-3). A secondary cleavage followed the initial cleavage produced by these recombinant collagenases. This generated neoepitope COL2-1/4N2. There was significantly more COL2-3/4C(short) neoepitope in osteoarthritis (OA) compared to adult nonarthritic cartilages as determined by immunoassay of cartilage extracts. A synthetic preferential inhibitor of MMP-13 significantly reduced the unstimulated release in culture of neoepitope COL2-3/4C(short) from human osteoarthritic cartilage explants. These data suggest that collagenase(s) produced by chondrocytes is (are) involved in the cleavage and denaturation of type II collagen in articular cartilage, that this is increased in OA, and that MMP-13 may play a significant role in this process.</abstract>
+
+<originInfo><publisher>ROCKEFELLER UNIV PRESS</publisher><dateIssued encoding="w3cdtf">1997</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>matrix metalloproteinases</topic><topic>chondrocytes</topic><topic>antibodies</topic><topic>arthritis</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF CLINICAL INVESTIGATION</title></titleInfo>
+  <identifier type="issn">0021-9738</identifier>
+  <identifier type="MEDLINE">9119997</identifier>
+  <identifier type="ISI">A1997WT44400012</identifier><identifier type="doi">10.1172/JCI119316</identifier>
+<part><detail type="volume"><number>99</number></detail><detail type="issue"><number>7</number></detail><extent unit="pages">1534-1545</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Billinghurst, R. C., Dahlberg, L., Ionescu, M., Reiner, A., Bourne, R., Rorabeck, C., Mitchell, P., et al. (1997). Enhanced cleavage of type II collagen by collagenases in osteoarthritic articular cartilage. &lt;em&gt;JOURNAL OF CLINICAL INVESTIGATION&lt;/em&gt;, &lt;em&gt;99&lt;/em&gt;(7), 1534-1545.&lt;/div&gt;</apa_indent>
+<mla>Billinghurst, RC, Dahlberg, L, Ionescu, M, Reiner, A, Bourne, R, Rorabeck, C, Mitchell, P, Hambor, J, Diekmann, O, Tschesche, Harald, Chen, J, VanWart, H, and Poole, AR. “Enhanced cleavage of type II collagen by collagenases in osteoarthritic articular cartilage”. &lt;em&gt;JOURNAL OF CLINICAL INVESTIGATION&lt;/em&gt; 99.7 (1997): 1534-1545.</mla>
+<lncs>Billinghurst, R.C., Dahlberg, L., Ionescu, M., Reiner, A., Bourne, R., Rorabeck, C., Mitchell, P., Hambor, J., Diekmann, O., Tschesche, H., Chen, J., VanWart, H., Poole, A.R.: Enhanced cleavage of type II collagen by collagenases in osteoarthritic articular cartilage. JOURNAL OF CLINICAL INVESTIGATION. 99, 1534-1545 (1997).</lncs>
+<ieee>R.C. Billinghurst, et al., “Enhanced cleavage of type II collagen by collagenases in osteoarthritic articular cartilage”, &lt;em&gt;JOURNAL OF CLINICAL INVESTIGATION&lt;/em&gt;,  vol. 99, 1997,  pp. 1534-1545.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Billinghurst, RC, Dahlberg, L, Ionescu, M, Reiner, A, Bourne, R, Rorabeck, C, Mitchell, P, et al. 1997. “Enhanced cleavage of type II collagen by collagenases in osteoarthritic articular cartilage”. &lt;em&gt;JOURNAL OF CLINICAL INVESTIGATION&lt;/em&gt; 99 (7): 1534-1545.&lt;/div&gt;</chicago>
+<frontiers>Billinghurst, R. C., Dahlberg, L., Ionescu, M., Reiner, A., Bourne, R., Rorabeck, C., Mitchell, P., Hambor, J., Diekmann, O., Tschesche, H., et al. (1997). Enhanced cleavage of type II collagen by collagenases in osteoarthritic articular cartilage. &lt;em&gt;JOURNAL OF CLINICAL INVESTIGATION&lt;/em&gt; 99, 1534-1545.</frontiers>
+<angewandte-chemie>R. C.  Billinghurst, L.  Dahlberg, M.  Ionescu, A.  Reiner, R.  Bourne, C.  Rorabeck, P.  Mitchell, J.  Hambor, O.  Diekmann, H.  Tschesche, et al., “Enhanced cleavage of type II collagen by collagenases in osteoarthritic articular cartilage”, &lt;em&gt;JOURNAL OF CLINICAL INVESTIGATION&lt;/em&gt;, &lt;strong&gt;1997&lt;/strong&gt;, &lt;em&gt;99&lt;/em&gt;, 1534-1545.</angewandte-chemie>
+<apa>Billinghurst, R. C., Dahlberg, L., Ionescu, M., Reiner, A., Bourne, R., Rorabeck, C., Mitchell, P., et al. (1997). Enhanced cleavage of type II collagen by collagenases in osteoarthritic articular cartilage. &lt;em&gt;JOURNAL OF CLINICAL INVESTIGATION&lt;/em&gt;, &lt;em&gt;99&lt;/em&gt;(7), 1534-1545.</apa>
+<aps>R. C.  Billinghurst, et al., Enhanced cleavage of type II collagen by collagenases in osteoarthritic articular cartilage, JOURNAL OF CLINICAL INVESTIGATION &lt;strong&gt;99&lt;/strong&gt;, 1534-1545 (1997).</aps>
+<bio1>Billinghurst RC, Dahlberg L, Ionescu M, Reiner A, Bourne R, Rorabeck C, Mitchell P, Hambor J, Diekmann O, Tschesche H, Chen J, VanWart H, Poole AR (1997) &lt;br /&gt;Enhanced cleavage of type II collagen by collagenases in osteoarthritic articular cartilage.&lt;br /&gt;JOURNAL OF CLINICAL INVESTIGATION 99(7): 1534-1545.</bio1>
+<ama>Billinghurst RC, Dahlberg L, Ionescu M, et al. Enhanced cleavage of type II collagen by collagenases in osteoarthritic articular cartilage. &lt;em&gt;JOURNAL OF CLINICAL INVESTIGATION&lt;/em&gt;. 1997;99(7):1534-1545.</ama>
+<harvard1>Billinghurst, R.C., et al., 1997. Enhanced cleavage of type II collagen by collagenases in osteoarthritic articular cartilage. &lt;em&gt;JOURNAL OF CLINICAL INVESTIGATION&lt;/em&gt;, 99(7), p 1534-1545.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Billinghurst, R.C., Dahlberg, L., Ionescu, M., Reiner, A., Bourne, R., Rorabeck, C., Mitchell, P., Hambor, J., Diekmann, O., Tschesche, H., Chen, J., VanWart, H. &amp;amp; Poole, A.R. (1997). Enhanced cleavage of type II collagen by collagenases in osteoarthritic articular cartilage. &lt;em&gt;JOURNAL OF CLINICAL INVESTIGATION&lt;/em&gt;, &lt;em&gt;99&lt;/em&gt;(7), 1534-1545. ROCKEFELLER UNIV PRESS. doi:10.1172/JCI119316.&lt;/div&gt;</dgps>
+<default>Billinghurst RC, Dahlberg L, Ionescu M, Reiner A, Bourne R, Rorabeck C, Mitchell P, Hambor J, Diekmann O, Tschesche H, Chen J, et al. (1997) &lt;br /&gt;JOURNAL OF CLINICAL INVESTIGATION 99(7): 1534-1545.</default>
+<wels>Billinghurst, R. C.; Dahlberg, L.; Ionescu, M.; Reiner, A.; Bourne, R.; Rorabeck, C.; Mitchell, P.; Hambor, J.; Diekmann, O.; Tschesche, H.; Chen, J.; VanWart, H.; Poole, A. R. (1997): Enhanced cleavage of type II collagen by collagenases in osteoarthritic articular cartilage &lt;em&gt;JOURNAL OF CLINICAL INVESTIGATION&lt;/em&gt;,99:(7): 1534-1545.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1637425</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:14:13Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-12-08T11:49:25Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1637425</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1637425</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

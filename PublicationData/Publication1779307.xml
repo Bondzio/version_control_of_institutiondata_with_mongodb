@@ -1,0 +1,105 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Bericht von der 1985er PME-Tagung</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Ipke</namePart>
+  <namePart type="family">Wachsmuth</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">73476</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Technische Fakultät</namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Wissensbasierte Systeme</namePart>
+  <identifier type="unibi">10044</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Wachsmuth_50.pdf">https://pub.uni-bielefeld.de/download/1779307/2312653</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1986</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Zentralblatt für Didaktik der Mathematik</title></titleInfo>
+  <identifier type="issn">0044-4103</identifier><identifier type="urn">urn:nbn:de:0070-bipr-18281</identifier>
+<part><detail type="volume"><number>18</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">69-71</extent>
+</part>
+</relatedItem>
+
+<note type="nonBielefeld">yes</note>
+<extension>
+<bibliographicCitation>
+<wels>Wachsmuth, I. (1986): Bericht von der 1985er PME-Tagung &lt;em&gt;Zentralblatt für Didaktik der Mathematik&lt;/em&gt;,18:(2): 69-71.</wels>
+<default>Wachsmuth I (1986) &lt;br /&gt;Zentralblatt für Didaktik der Mathematik 18(2): 69-71.</default>
+<ama>Wachsmuth I. Bericht von der 1985er PME-Tagung. &lt;em&gt;Zentralblatt für Didaktik der Mathematik&lt;/em&gt;. 1986;18(2):69-71.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wachsmuth, I. (1986). Bericht von der 1985er PME-Tagung. &lt;em&gt;Zentralblatt für Didaktik der Mathematik&lt;/em&gt;, &lt;em&gt;18&lt;/em&gt;(2), 69-71.&lt;/div&gt;</dgps>
+<harvard1>Wachsmuth, I., 1986. Bericht von der 1985er PME-Tagung. &lt;em&gt;Zentralblatt für Didaktik der Mathematik&lt;/em&gt;, 18(2), p 69-71.</harvard1>
+<bio1>Wachsmuth I (1986) &lt;br /&gt;Bericht von der 1985er PME-Tagung.&lt;br /&gt;Zentralblatt für Didaktik der Mathematik 18(2): 69-71.</bio1>
+<aps>I.  Wachsmuth, Bericht von der 1985er PME-Tagung, Zentralblatt für Didaktik der Mathematik &lt;strong&gt;18&lt;/strong&gt;, 69-71 (1986).</aps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wachsmuth, Ipke. 1986. “Bericht von der 1985er PME-Tagung”. &lt;em&gt;Zentralblatt für Didaktik der Mathematik&lt;/em&gt; 18 (2): 69-71.&lt;/div&gt;</chicago>
+<angewandte-chemie>I.  Wachsmuth, “Bericht von der 1985er PME-Tagung”, &lt;em&gt;Zentralblatt für Didaktik der Mathematik&lt;/em&gt;, &lt;strong&gt;1986&lt;/strong&gt;, &lt;em&gt;18&lt;/em&gt;, 69-71.</angewandte-chemie>
+<apa>Wachsmuth, I. (1986). Bericht von der 1985er PME-Tagung. &lt;em&gt;Zentralblatt für Didaktik der Mathematik&lt;/em&gt;, &lt;em&gt;18&lt;/em&gt;(2), 69-71.</apa>
+<frontiers>Wachsmuth, I. (1986). Bericht von der 1985er PME-Tagung. &lt;em&gt;Zentralblatt für Didaktik der Mathematik&lt;/em&gt; 18, 69-71.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wachsmuth, I. (1986). Bericht von der 1985er PME-Tagung. &lt;em&gt;Zentralblatt für Didaktik der Mathematik&lt;/em&gt;, &lt;em&gt;18&lt;/em&gt;(2), 69-71.&lt;/div&gt;</apa_indent>
+<ieee>I. Wachsmuth, “Bericht von der 1985er PME-Tagung”, &lt;em&gt;Zentralblatt für Didaktik der Mathematik&lt;/em&gt;,  vol. 18, 1986,  pp. 69-71.</ieee>
+<lncs>Wachsmuth, I.: Bericht von der 1985er PME-Tagung. Zentralblatt für Didaktik der Mathematik. 18, 69-71 (1986).</lncs>
+<mla>Wachsmuth, Ipke. “Bericht von der 1985er PME-Tagung”. &lt;em&gt;Zentralblatt für Didaktik der Mathematik&lt;/em&gt; 18.2 (1986): 69-71.</mla>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1779307</recordIdentifier><recordChangeDate encoding="w3cdtf">2013-12-15T17:30:28Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1779307</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1779307</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,108 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Preparation of doped spinel cobalt oxide thin films and evaluation of their thermal stability</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Naoufal</namePart>
+  <namePart type="family">Bahlawane</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">71184</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0003-1094-2512</description></name>
+<name type="personal">
+  <namePart type="given">Peter Antony</namePart>
+  <namePart type="family">Premkumar</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Janine</namePart>
+  <namePart type="family">Feldmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Katharina</namePart>
+  <namePart type="family">Kohse-Höinghaus</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20770</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">17978</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Spinel cobalt oxide doped with nickel and zinc are deposited using a CVD reactor equipped with a pulsed spray evaporation system. This process allows easy control of the film composition through the adjustment of the composition of the liquid feed-stock; a linear dependence is observed in both cases. Doped spinels with atomic ratios of doping-metal to Co ranging from 0 to 0.5 are deposited and subjected to various surface characterization methods. Zinc as a doping metal, which nonselectively occupies the octahedral and the tetrahedral sites, preserves the cubic spinel structure; in contrast, nickel, which preferably occupies the octahedral sites, preserves the cubic structure only up to Ni/Co = 0.14 and then induces a tetragonal distortion. This disordered structure allows more polarons, and therefore presents a conductivity which increases substantially with the concentration of nickel in the deposited films. The thermal stability of cobalt oxide is maintained in the case of nickel doping as long as the cubic structure is preserved, and then decreases continuously with the concentration of nickel doping once the tetragonal deformation is induced. An upper thermal stability limit as low as 350 degrees C is observed for films with Ni/Co = 0.33. In contrast, zinc steadily improved the thermal stability with increased doping concentration, and reaches -850 degrees C, which is 200 degrees C higher than that of pure cobalt oxide.</abstract>
+
+<originInfo><publisher>WILEY-V C H VERLAG GMBH</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>emission IR</topic><topic>doped spinel</topic><topic>metal acetylacetonates</topic><topic>thermal</topic><topic>pulsed CVD</topic><topic>stability</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>CHEMICAL VAPOR DEPOSITION</title></titleInfo>
+  <identifier type="issn">0948-1907</identifier>
+  <identifier type="eIssn">1521-3862</identifier>
+  <identifier type="ISI">000245394900009</identifier><identifier type="doi">10.1002/cvde.200606517</identifier>
+<part><detail type="volume"><number>13</number></detail><detail type="issue"><number>2-3</number></detail><extent unit="pages">118-122</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Bahlawane, N., Premkumar, P. A., Feldmann, J., and Kohse-Höinghaus, K. (2007). Preparation of doped spinel cobalt oxide thin films and evaluation of their thermal stability. &lt;em&gt;CHEMICAL VAPOR DEPOSITION&lt;/em&gt; 13, 118-122.</frontiers>
+<apa>Bahlawane, N., Premkumar, P. A., Feldmann, J., &amp;amp; Kohse-Höinghaus, K. (2007). Preparation of doped spinel cobalt oxide thin films and evaluation of their thermal stability. &lt;em&gt;CHEMICAL VAPOR DEPOSITION&lt;/em&gt;, &lt;em&gt;13&lt;/em&gt;(2-3), 118-122.</apa>
+<angewandte-chemie>N.  Bahlawane, P. A.  Premkumar, J.  Feldmann, and K.  Kohse-Höinghaus, “Preparation of doped spinel cobalt oxide thin films and evaluation of their thermal stability”, &lt;em&gt;CHEMICAL VAPOR DEPOSITION&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;13&lt;/em&gt;, 118-122.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bahlawane, Naoufal, Premkumar, Peter Antony, Feldmann, Janine, and Kohse-Höinghaus, Katharina. 2007. “Preparation of doped spinel cobalt oxide thin films and evaluation of their thermal stability”. &lt;em&gt;CHEMICAL VAPOR DEPOSITION&lt;/em&gt; 13 (2-3): 118-122.&lt;/div&gt;</chicago>
+<lncs> Bahlawane, N., Premkumar, P.A., Feldmann, J., Kohse-Höinghaus, K.: Preparation of doped spinel cobalt oxide thin films and evaluation of their thermal stability. CHEMICAL VAPOR DEPOSITION. 13, 118-122 (2007).</lncs>
+<mla>Bahlawane, Naoufal, Premkumar, Peter Antony, Feldmann, Janine, and Kohse-Höinghaus, Katharina. “Preparation of doped spinel cobalt oxide thin films and evaluation of their thermal stability”. &lt;em&gt;CHEMICAL VAPOR DEPOSITION&lt;/em&gt; 13.2-3 (2007): 118-122.</mla>
+<ieee> N. Bahlawane, et al., “Preparation of doped spinel cobalt oxide thin films and evaluation of their thermal stability”, &lt;em&gt;CHEMICAL VAPOR DEPOSITION&lt;/em&gt;,  vol. 13, 2007,  pp. 118-122.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bahlawane, N., Premkumar, P. A., Feldmann, J., &amp;amp; Kohse-Höinghaus, K. (2007). Preparation of doped spinel cobalt oxide thin films and evaluation of their thermal stability. &lt;em&gt;CHEMICAL VAPOR DEPOSITION&lt;/em&gt;, &lt;em&gt;13&lt;/em&gt;(2-3), 118-122.&lt;/div&gt;</apa_indent>
+<default>Bahlawane N, Premkumar PA, Feldmann J, Kohse-Höinghaus K (2007) &lt;br /&gt;CHEMICAL VAPOR DEPOSITION 13(2-3): 118-122.</default>
+<wels>Bahlawane, N.; Premkumar, P. A.; Feldmann, J.; Kohse-Höinghaus, K. (2007): Preparation of doped spinel cobalt oxide thin films and evaluation of their thermal stability &lt;em&gt;CHEMICAL VAPOR DEPOSITION&lt;/em&gt;,13:(2-3): 118-122.</wels>
+<bio1>Bahlawane N, Premkumar PA, Feldmann J, Kohse-Höinghaus K (2007) &lt;br /&gt;Preparation of doped spinel cobalt oxide thin films and evaluation of their thermal stability.&lt;br /&gt;CHEMICAL VAPOR DEPOSITION 13(2-3): 118-122.</bio1>
+<aps> N.  Bahlawane, et al., Preparation of doped spinel cobalt oxide thin films and evaluation of their thermal stability, CHEMICAL VAPOR DEPOSITION &lt;strong&gt;13&lt;/strong&gt;, 118-122 (2007).</aps>
+<harvard1>Bahlawane, N., et al., 2007. Preparation of doped spinel cobalt oxide thin films and evaluation of their thermal stability. &lt;em&gt;CHEMICAL VAPOR DEPOSITION&lt;/em&gt;, 13(2-3), p 118-122.</harvard1>
+<ama>Bahlawane N, Premkumar PA, Feldmann J, Kohse-Höinghaus K. Preparation of doped spinel cobalt oxide thin films and evaluation of their thermal stability. &lt;em&gt;CHEMICAL VAPOR DEPOSITION&lt;/em&gt;. 2007;13(2-3):118-122.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bahlawane, N., Premkumar, P.A., Feldmann, J. &amp;amp; Kohse-Höinghaus, K. (2007). Preparation of doped spinel cobalt oxide thin films and evaluation of their thermal stability. &lt;em&gt;CHEMICAL VAPOR DEPOSITION&lt;/em&gt;, &lt;em&gt;13&lt;/em&gt;(2-3), 118-122. WILEY-V C H VERLAG GMBH. doi:10.1002/cvde.200606517.&lt;/div&gt;</dgps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1595053</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:32Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-20T09:31:38Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1595053</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1595053</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

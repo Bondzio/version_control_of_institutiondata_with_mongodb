@@ -1,0 +1,104 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Isomerization and fragmentation reactions of gaseous dimethyl phenylarsane radical cations and methyl phenylarsenium cations. A study by tandem mass spectrometry and density functional theory calculations</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Dirk</namePart>
+  <namePart type="family">Kirchhoff</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Hans-Friedrich</namePart>
+  <namePart type="family">Grützmacher</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">41603</identifier></name>
+<name type="personal">
+  <namePart type="given">Hansjörg</namePart>
+  <namePart type="family">Grützmacher</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Chemie</namePart>
+  <identifier type="unibi">10018</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The unimolecular reactions of the radical cation of dimethyl phenylarsane, C6H5As(CH3)(2), 1(.+), and of the methyl phenylarsenium cation, C6H5As+CH3, 2(+), in the gas phase were investigated using deuterium labeling and methods of tandem mass spectrometry. Additionally, the rearrangement and fragmentation processes were analyzed by density functional theory (DFT) calculations at the level UBHLYP/6-311+G(2d,p)//UBHLYP/5-31+G(d). The molecular ion 1(.+) decomposes by loss of a center dot CH3, radical from the As atom without any rearrangement, in contrast to the behavior of the phenylarsane radical cation. In particular, no positional exchange of the H atoms of the CH3 group and at the phenyl ring is observed. The results of DFT calculations show that a rearrangement of 1(.+) by reductive elimination of As and shift of the CH3 group is indeed obstructed by a large activation barrier. The mass-analyzed kinetic energy spectrum of 2(+) shows that this arsenium cation fragments by losses of H-2 and AsH. The fragmentation of the trideuteromethyl derivative 2-d(3)(+) proves that all H atoms of the neutral fragments originate specifically from the methyl ligand. Identical fragmentation behavior is observed for metastable m-tolyl arsenium cation, m-CH3-C6H4As+H, 2tol(+). The loss of AsH generates ions C7H7+ which requires rearrangement in 2(+) and bond formation between the phenyl and methyl ligands prior to fragmentation. The DFT calculations confirm that the precursor of this fragmentation is the benzyl methylarsenium cation, 2bzl(+), and that 2bzl(+) is also the precursor ion fo the elimination of H-2. The analysis of the pathways for rearrangements of 2(+) to the key intermediate, 2bzl(+), by DFT calculations show that the preferred route corresponds to a 1,2-H shift of a H atom from the CH3 ligand to the As atom and a shift of the phenyl group in the reverse direction. The expected rearrangement by a reductive elimination of the As atom, which is observed for the phenylarsenium cation and for halogeno phenyl arsenium cations, requires much more activation enthalpy.</abstract>
+
+<originInfo><publisher>IM PUBLICATIONS</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>deuteration</topic><topic>organoarsenic compounds</topic><topic>skeletal rearrangements</topic><topic>calculations</topic><topic>fragmentation mechanisms</topic><topic>tandem mass spectrometry</topic><topic>DFT</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>EUROPEAN JOURNAL OF MASS SPECTROMETRY</title></titleInfo>
+  <identifier type="issn">1356-1049</identifier>
+  <identifier type="MEDLINE">16819108</identifier>
+  <identifier type="ISI">000241823100004</identifier><identifier type="doi">10.1255/ejms.802</identifier>
+<part><detail type="volume"><number>12</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">171-180</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kirchhoff, D., Grützmacher, H. - F., &amp;amp; Grützmacher, H. (2006). Isomerization and fragmentation reactions of gaseous dimethyl phenylarsane radical cations and methyl phenylarsenium cations. A study by tandem mass spectrometry and density functional theory calculations. &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;, &lt;em&gt;12&lt;/em&gt;(1), 171-180.&lt;/div&gt;</apa_indent>
+<mla>Kirchhoff, Dirk, Grützmacher, Hans-Friedrich, and Grützmacher, Hansjörg. “Isomerization and fragmentation reactions of gaseous dimethyl phenylarsane radical cations and methyl phenylarsenium cations. A study by tandem mass spectrometry and density functional theory calculations”. &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt; 12.1 (2006): 171-180.</mla>
+<lncs>Kirchhoff, D., Grützmacher, H.-F., Grützmacher, H.: Isomerization and fragmentation reactions of gaseous dimethyl phenylarsane radical cations and methyl phenylarsenium cations. A study by tandem mass spectrometry and density functional theory calculations. EUROPEAN JOURNAL OF MASS SPECTROMETRY. 12, 171-180 (2006).</lncs>
+<ieee>D. Kirchhoff, H.-F. Grützmacher, and H. Grützmacher, “Isomerization and fragmentation reactions of gaseous dimethyl phenylarsane radical cations and methyl phenylarsenium cations. A study by tandem mass spectrometry and density functional theory calculations”, &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;,  vol. 12, 2006,  pp. 171-180.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kirchhoff, Dirk, Grützmacher, Hans-Friedrich, and Grützmacher, Hansjörg. 2006. “Isomerization and fragmentation reactions of gaseous dimethyl phenylarsane radical cations and methyl phenylarsenium cations. A study by tandem mass spectrometry and density functional theory calculations”. &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt; 12 (1): 171-180.&lt;/div&gt;</chicago>
+<frontiers>Kirchhoff, D., Grützmacher, H. - F., and Grützmacher, H. (2006). Isomerization and fragmentation reactions of gaseous dimethyl phenylarsane radical cations and methyl phenylarsenium cations. A study by tandem mass spectrometry and density functional theory calculations. &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt; 12, 171-180.</frontiers>
+<apa>Kirchhoff, D., Grützmacher, H. - F., &amp;amp; Grützmacher, H. (2006). Isomerization and fragmentation reactions of gaseous dimethyl phenylarsane radical cations and methyl phenylarsenium cations. A study by tandem mass spectrometry and density functional theory calculations. &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;, &lt;em&gt;12&lt;/em&gt;(1), 171-180.</apa>
+<angewandte-chemie>D.  Kirchhoff, H. - F.  Grützmacher, and H.  Grützmacher, “Isomerization and fragmentation reactions of gaseous dimethyl phenylarsane radical cations and methyl phenylarsenium cations. A study by tandem mass spectrometry and density functional theory calculations”, &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;12&lt;/em&gt;, 171-180.</angewandte-chemie>
+<bio1>Kirchhoff D, Grützmacher H-F, Grützmacher H (2006) &lt;br /&gt;Isomerization and fragmentation reactions of gaseous dimethyl phenylarsane radical cations and methyl phenylarsenium cations. A study by tandem mass spectrometry and density functional theory calculations.&lt;br /&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY 12(1): 171-180.</bio1>
+<aps>D.  Kirchhoff, H. - F.  Grützmacher, and H.  Grützmacher, Isomerization and fragmentation reactions of gaseous dimethyl phenylarsane radical cations and methyl phenylarsenium cations. A study by tandem mass spectrometry and density functional theory calculations, EUROPEAN JOURNAL OF MASS SPECTROMETRY &lt;strong&gt;12&lt;/strong&gt;, 171-180 (2006).</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kirchhoff, D., Grützmacher, H.-F. &amp;amp; Grützmacher, H. (2006). Isomerization and fragmentation reactions of gaseous dimethyl phenylarsane radical cations and methyl phenylarsenium cations. A study by tandem mass spectrometry and density functional theory calculations. &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;, &lt;em&gt;12&lt;/em&gt;(1), 171-180. IM PUBLICATIONS. doi:10.1255/ejms.802.&lt;/div&gt;</dgps>
+<ama>Kirchhoff D, Grützmacher H-F, Grützmacher H. Isomerization and fragmentation reactions of gaseous dimethyl phenylarsane radical cations and methyl phenylarsenium cations. A study by tandem mass spectrometry and density functional theory calculations. &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;. 2006;12(1):171-180.</ama>
+<harvard1>Kirchhoff, D., Grützmacher, H.-F., &amp;amp; Grützmacher, H., 2006. Isomerization and fragmentation reactions of gaseous dimethyl phenylarsane radical cations and methyl phenylarsenium cations. A study by tandem mass spectrometry and density functional theory calculations. &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;, 12(1), p 171-180.</harvard1>
+<default>Kirchhoff D, Grützmacher H-F, Grützmacher H (2006) &lt;br /&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY 12(1): 171-180.</default>
+<wels>Kirchhoff, D.; Grützmacher, H. - F.; Grützmacher, H. (2006): Isomerization and fragmentation reactions of gaseous dimethyl phenylarsane radical cations and methyl phenylarsenium cations. A study by tandem mass spectrometry and density functional theory calculations &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;,12:(1): 171-180.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1597218</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:18:44Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-10T14:36:58Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1597218</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1597218</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

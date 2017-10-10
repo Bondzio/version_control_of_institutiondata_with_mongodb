@@ -1,0 +1,104 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>THE AMYGDALA AND EMOTIONAL MEMORY</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">L</namePart>
+  <namePart type="family">CAHILL</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">R</namePart>
+  <namePart type="family">BABINSKY</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Hans J.</namePart>
+  <namePart type="family">Markowitsch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">59726756</identifier></name>
+<name type="personal">
+  <namePart type="given">JL</namePart>
+  <namePart type="family">MCGAUGH</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Abteilung für Psychologie</namePart>
+  <identifier type="unibi">10026</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>MACMILLAN MAGAZINES LTD</publisher><dateIssued encoding="w3cdtf">1995</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>NATURE</title></titleInfo>
+  <identifier type="issn">0028-0836</identifier>
+  <identifier type="MEDLINE">7566084</identifier>
+  <identifier type="ISI">A1995RX11100036</identifier><identifier type="doi">10.1038/377295a0</identifier>
+<part><detail type="volume"><number>377</number></detail><detail type="issue"><number>6547</number></detail><extent unit="pages">295-296</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>L.  CAHILL, et al., THE AMYGDALA AND EMOTIONAL MEMORY, NATURE &lt;strong&gt;377&lt;/strong&gt;, 295-296 (1995).</aps>
+<bio1>CAHILL L, BABINSKY R, Markowitsch HJ, MCGAUGH JL (1995) &lt;br /&gt;THE AMYGDALA AND EMOTIONAL MEMORY.&lt;br /&gt;NATURE 377(6547): 295-296.</bio1>
+<harvard1>CAHILL, L., et al., 1995. THE AMYGDALA AND EMOTIONAL MEMORY. &lt;em&gt;NATURE&lt;/em&gt;, 377(6547), p 295-296.</harvard1>
+<ama>CAHILL L, BABINSKY R, Markowitsch HJ, MCGAUGH JL. THE AMYGDALA AND EMOTIONAL MEMORY. &lt;em&gt;NATURE&lt;/em&gt;. 1995;377(6547):295-296.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;CAHILL, L., BABINSKY, R., Markowitsch, H.J. &amp;amp; MCGAUGH, J.L. (1995). THE AMYGDALA AND EMOTIONAL MEMORY. &lt;em&gt;NATURE&lt;/em&gt;, &lt;em&gt;377&lt;/em&gt;(6547), 295-296. MACMILLAN MAGAZINES LTD. doi:10.1038/377295a0.&lt;/div&gt;</dgps>
+<default>CAHILL L, BABINSKY R, Markowitsch HJ, MCGAUGH JL (1995) &lt;br /&gt;NATURE 377(6547): 295-296.</default>
+<wels>CAHILL, L.; BABINSKY, R.; Markowitsch, H. J.; MCGAUGH, J. L. (1995): THE AMYGDALA AND EMOTIONAL MEMORY &lt;em&gt;NATURE&lt;/em&gt;,377:(6547): 295-296.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;CAHILL, L., BABINSKY, R., Markowitsch, H. J., &amp;amp; MCGAUGH, J. L. (1995). THE AMYGDALA AND EMOTIONAL MEMORY. &lt;em&gt;NATURE&lt;/em&gt;, &lt;em&gt;377&lt;/em&gt;(6547), 295-296.&lt;/div&gt;</apa_indent>
+<lncs>CAHILL, L., BABINSKY, R., Markowitsch, H.J., MCGAUGH, J.L.: THE AMYGDALA AND EMOTIONAL MEMORY. NATURE. 377, 295-296 (1995).</lncs>
+<mla>CAHILL, L, BABINSKY, R, Markowitsch, Hans J., and MCGAUGH, JL. “THE AMYGDALA AND EMOTIONAL MEMORY”. &lt;em&gt;NATURE&lt;/em&gt; 377.6547 (1995): 295-296.</mla>
+<ieee>L. CAHILL, et al., “THE AMYGDALA AND EMOTIONAL MEMORY”, &lt;em&gt;NATURE&lt;/em&gt;,  vol. 377, 1995,  pp. 295-296.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;CAHILL, L, BABINSKY, R, Markowitsch, Hans J., and MCGAUGH, JL. 1995. “THE AMYGDALA AND EMOTIONAL MEMORY”. &lt;em&gt;NATURE&lt;/em&gt; 377 (6547): 295-296.&lt;/div&gt;</chicago>
+<frontiers>CAHILL, L., BABINSKY, R., Markowitsch, H. J., and MCGAUGH, J. L. (1995). THE AMYGDALA AND EMOTIONAL MEMORY. &lt;em&gt;NATURE&lt;/em&gt; 377, 295-296.</frontiers>
+<apa>CAHILL, L., BABINSKY, R., Markowitsch, H. J., &amp;amp; MCGAUGH, J. L. (1995). THE AMYGDALA AND EMOTIONAL MEMORY. &lt;em&gt;NATURE&lt;/em&gt;, &lt;em&gt;377&lt;/em&gt;(6547), 295-296.</apa>
+<angewandte-chemie>L.  CAHILL, R.  BABINSKY, H. J.  Markowitsch, and J. L.  MCGAUGH, “THE AMYGDALA AND EMOTIONAL MEMORY”, &lt;em&gt;NATURE&lt;/em&gt;, &lt;strong&gt;1995&lt;/strong&gt;, &lt;em&gt;377&lt;/em&gt;, 295-296.</angewandte-chemie>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1640097</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:15:42Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-05T16:05:48Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1640097</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1640097</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

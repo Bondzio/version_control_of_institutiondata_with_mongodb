@@ -1,0 +1,108 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Web-based information retrieval system for the prediction of metabolic pathways</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Chen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ralf</namePart>
+  <namePart type="family">Hofestädt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">161045</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Research Group R. Hofestädt</namePart>
+  <identifier type="unibi">33067184</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Technische Fakultät</namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Analysis of metabolic pathways is a central topic in understanding the relationship between genotype and phenotype. The rapid accumulation of biological data provides the possibility of studying metabolic pathways both at the genomic and metabolic levels. Our motivation is to develop a conceptual framework and computational system that will allow retrieval of metabolic information and prediction of metabolic pathways. In this paper, we introduce a metabolic pathway prediction framework that extracts metabolic information from biological databases via the Internet, and builds metabolic pathways with data sources of genes, sequences, enzymes, metabolites, etc. It provides an easy-to-use interface to retrieve, display, and manipulate metabolic information. The system has been implemented into PathAligner, available at http://bibiserv.techfak.uni-bielefeld. de/pathaligner/.</abstract>
+
+<originInfo><publisher>IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC</publisher><dateIssued encoding="w3cdtf">2004</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>information retrieval</topic><topic>PathAligner</topic><topic>prediction</topic><topic>web-based</topic><topic>metabolic pathway</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>IEEE TRANSACTIONS ON NANOBIOSCIENCE</title></titleInfo>
+  <identifier type="issn">1536-1241</identifier>
+  <identifier type="MEDLINE">15473071</identifier>
+  <identifier type="ISI">000223797900007</identifier><identifier type="doi">10.1109/TNB.2004.833691</identifier>
+<part><detail type="volume"><number>3</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">192-199</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Chen M, Hofestädt R (2004) &lt;br /&gt;IEEE TRANSACTIONS ON NANOBIOSCIENCE 3(3): 192-199.</default>
+<wels>Chen, M.; Hofestädt, R. (2004): Web-based information retrieval system for the prediction of metabolic pathways &lt;em&gt;IEEE TRANSACTIONS ON NANOBIOSCIENCE&lt;/em&gt;,3:(3): 192-199.</wels>
+<aps>M.  Chen and R.  Hofestädt, Web-based information retrieval system for the prediction of metabolic pathways, IEEE TRANSACTIONS ON NANOBIOSCIENCE &lt;strong&gt;3&lt;/strong&gt;, 192-199 (2004).</aps>
+<bio1>Chen M, Hofestädt R (2004) &lt;br /&gt;Web-based information retrieval system for the prediction of metabolic pathways.&lt;br /&gt;IEEE TRANSACTIONS ON NANOBIOSCIENCE 3(3): 192-199.</bio1>
+<harvard1>Chen, M., &amp;amp; Hofestädt, R., 2004. Web-based information retrieval system for the prediction of metabolic pathways. &lt;em&gt;IEEE TRANSACTIONS ON NANOBIOSCIENCE&lt;/em&gt;, 3(3), p 192-199.</harvard1>
+<ama>Chen M, Hofestädt R. Web-based information retrieval system for the prediction of metabolic pathways. &lt;em&gt;IEEE TRANSACTIONS ON NANOBIOSCIENCE&lt;/em&gt;. 2004;3(3):192-199.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Chen, M. &amp;amp; Hofestädt, R. (2004). Web-based information retrieval system for the prediction of metabolic pathways. &lt;em&gt;IEEE TRANSACTIONS ON NANOBIOSCIENCE&lt;/em&gt;, &lt;em&gt;3&lt;/em&gt;(3), 192-199. IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC. doi:10.1109/TNB.2004.833691.&lt;/div&gt;</dgps>
+<frontiers>Chen, M., and Hofestädt, R. (2004). Web-based information retrieval system for the prediction of metabolic pathways. &lt;em&gt;IEEE TRANSACTIONS ON NANOBIOSCIENCE&lt;/em&gt; 3, 192-199.</frontiers>
+<apa>Chen, M., &amp;amp; Hofestädt, R. (2004). Web-based information retrieval system for the prediction of metabolic pathways. &lt;em&gt;IEEE TRANSACTIONS ON NANOBIOSCIENCE&lt;/em&gt;, &lt;em&gt;3&lt;/em&gt;(3), 192-199.</apa>
+<angewandte-chemie>M.  Chen, and R.  Hofestädt, “Web-based information retrieval system for the prediction of metabolic pathways”, &lt;em&gt;IEEE TRANSACTIONS ON NANOBIOSCIENCE&lt;/em&gt;, &lt;strong&gt;2004&lt;/strong&gt;, &lt;em&gt;3&lt;/em&gt;, 192-199.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Chen, M, and Hofestädt, Ralf. 2004. “Web-based information retrieval system for the prediction of metabolic pathways”. &lt;em&gt;IEEE TRANSACTIONS ON NANOBIOSCIENCE&lt;/em&gt; 3 (3): 192-199.&lt;/div&gt;</chicago>
+<lncs>Chen, M., Hofestädt, R.: Web-based information retrieval system for the prediction of metabolic pathways. IEEE TRANSACTIONS ON NANOBIOSCIENCE. 3, 192-199 (2004).</lncs>
+<mla>Chen, M, and Hofestädt, Ralf. “Web-based information retrieval system for the prediction of metabolic pathways”. &lt;em&gt;IEEE TRANSACTIONS ON NANOBIOSCIENCE&lt;/em&gt; 3.3 (2004): 192-199.</mla>
+<ieee>M. Chen and R. Hofestädt, “Web-based information retrieval system for the prediction of metabolic pathways”, &lt;em&gt;IEEE TRANSACTIONS ON NANOBIOSCIENCE&lt;/em&gt;,  vol. 3, 2004,  pp. 192-199.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Chen, M., &amp;amp; Hofestädt, R. (2004). Web-based information retrieval system for the prediction of metabolic pathways. &lt;em&gt;IEEE TRANSACTIONS ON NANOBIOSCIENCE&lt;/em&gt;, &lt;em&gt;3&lt;/em&gt;(3), 192-199.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1606526</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:57:05Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-10T10:55:40Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1606526</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1606526</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

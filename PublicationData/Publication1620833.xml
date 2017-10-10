@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Numerical electronic structure calculations for atoms. II. Generalized variable transformation and relativistic calculations</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Dirk</namePart>
+  <namePart type="family">Andrae</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20327</identifier></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Reiher</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J</namePart>
+  <namePart type="family">Hinze</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Theoretische Chemie</namePart>
+  <identifier type="unibi">17982</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The pairs of radial functions P-i and Q(i), which are part of the four-component single-particle spinors in the relativistic description of the electronic structure of bound states of atoms, are usually determined as solutions of eigenvalue problems. The latter constitute two-point boundary value problems which involve coupled pairs of first-order ordinary radial differential equations. To introduce a suitable notation, the theory involved in relativistic electronic structure calculations for atoms is briefly reviewed, including a general treatment of arbitrary transformations for the radial variable. Such variable transformations must be specified then, either explicitly (by a transformation function) or implicitly (by the solution method itself), for any actual calculation, though initially the variable transformation is almost completely independent of the numerical method to be applied. We consider suitable transformation functions out of which an actual choice can be made within wide limits. In our approach the resulting transformed radial differential equations are discretized then with finite-difference methods. Since the accuracy and efficiency of these methods is increased when a constant step size h between contiguous points tin the transformed variable) is used, it is only here where the careful choice of the variable transformation is important. The resulting system of linear equations is solved for the radial functions with standard linear algebra methods rather than &quot;shooting&quot; methods. The present work extends the general study of variable transformations, given recently for nonrelativistic electronic structure calculations in Part I, to the relativistic case, important results following from the present work are (i) a discretization scheme for first-order ordinary differential equations similar to the well-known standard Numerov scheme used within the nonrelativistic framework, (ii) a consistent numerical algorithm with an overall truncation error of order h(4), (iii) a method for handling effective potentials behaving singularly like r(-1) at the origin las encountered, e.s., when the atomic nucleus is represented by a pointlike charge density distribution), and, in connection with this last point, (iv) the avoidance of nonanalytic short-range behavior of the solutions to be obtained from the differential equations. (C) 2000 John Wiley &amp; Sons, Inc.</abstract>
+
+<originInfo><publisher>JOHN WILEY &amp; SONS INC</publisher><dateIssued encoding="w3cdtf">2000</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>methods</topic><topic>linear ordinary first-order differential equations</topic><topic>coupled</topic><topic>finite-difference</topic><topic>relativistic electronic structure calculations for atoms</topic><topic>models</topic><topic>nuclear charge density distribution</topic><topic>variable transformation</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY</title></titleInfo>
+  <identifier type="issn">0020-7608</identifier>
+  <identifier type="ISI">000084802900001</identifier><identifier type="doi">10.1002/(SICI)1097-461X(2000)76:4&lt;473::AID-QUA1&gt;3.0.CO;2-#</identifier>
+<part><detail type="volume"><number>76</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">473-499</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Andrae D, Reiher M, Hinze J (2000) &lt;br /&gt;INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY 76(4): 473-499.</default>
+<wels>Andrae, D.; Reiher, M.; Hinze, J. (2000): Numerical electronic structure calculations for atoms. II. Generalized variable transformation and relativistic calculations &lt;em&gt;INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY&lt;/em&gt;,76:(4): 473-499.</wels>
+<bio1>Andrae D, Reiher M, Hinze J (2000) &lt;br /&gt;Numerical electronic structure calculations for atoms. II. Generalized variable transformation and relativistic calculations.&lt;br /&gt;INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY 76(4): 473-499.</bio1>
+<aps>D.  Andrae, M.  Reiher, and J.  Hinze, Numerical electronic structure calculations for atoms. II. Generalized variable transformation and relativistic calculations, INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY &lt;strong&gt;76&lt;/strong&gt;, 473-499 (2000).</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Andrae, D., Reiher, M. &amp;amp; Hinze, J. (2000). Numerical electronic structure calculations for atoms. II. Generalized variable transformation and relativistic calculations. &lt;em&gt;INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY&lt;/em&gt;, &lt;em&gt;76&lt;/em&gt;(4), 473-499. JOHN WILEY &amp;amp; SONS INC. doi:10.1002/(SICI)1097-461X(2000)76:4&amp;lt;473::AID-QUA1&amp;gt;3.0.CO;2-#.&lt;/div&gt;</dgps>
+<harvard1>Andrae, D., Reiher, M., &amp;amp; Hinze, J., 2000. Numerical electronic structure calculations for atoms. II. Generalized variable transformation and relativistic calculations. &lt;em&gt;INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY&lt;/em&gt;, 76(4), p 473-499.</harvard1>
+<ama>Andrae D, Reiher M, Hinze J. Numerical electronic structure calculations for atoms. II. Generalized variable transformation and relativistic calculations. &lt;em&gt;INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY&lt;/em&gt;. 2000;76(4):473-499.</ama>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Andrae, Dirk, Reiher, M, and Hinze, J. 2000. “Numerical electronic structure calculations for atoms. II. Generalized variable transformation and relativistic calculations”. &lt;em&gt;INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY&lt;/em&gt; 76 (4): 473-499.&lt;/div&gt;</chicago>
+<frontiers>Andrae, D., Reiher, M., and Hinze, J. (2000). Numerical electronic structure calculations for atoms. II. Generalized variable transformation and relativistic calculations. &lt;em&gt;INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY&lt;/em&gt; 76, 473-499.</frontiers>
+<apa>Andrae, D., Reiher, M., &amp;amp; Hinze, J. (2000). Numerical electronic structure calculations for atoms. II. Generalized variable transformation and relativistic calculations. &lt;em&gt;INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY&lt;/em&gt;, &lt;em&gt;76&lt;/em&gt;(4), 473-499.</apa>
+<angewandte-chemie>D.  Andrae, M.  Reiher, and J.  Hinze, “Numerical electronic structure calculations for atoms. II. Generalized variable transformation and relativistic calculations”, &lt;em&gt;INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY&lt;/em&gt;, &lt;strong&gt;2000&lt;/strong&gt;, &lt;em&gt;76&lt;/em&gt;, 473-499.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Andrae, D., Reiher, M., &amp;amp; Hinze, J. (2000). Numerical electronic structure calculations for atoms. II. Generalized variable transformation and relativistic calculations. &lt;em&gt;INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY&lt;/em&gt;, &lt;em&gt;76&lt;/em&gt;(4), 473-499.&lt;/div&gt;</apa_indent>
+<mla>Andrae, Dirk, Reiher, M, and Hinze, J. “Numerical electronic structure calculations for atoms. II. Generalized variable transformation and relativistic calculations”. &lt;em&gt;INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY&lt;/em&gt; 76.4 (2000): 473-499.</mla>
+<lncs>Andrae, D., Reiher, M., Hinze, J.: Numerical electronic structure calculations for atoms. II. Generalized variable transformation and relativistic calculations. INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY. 76, 473-499 (2000).</lncs>
+<ieee>D. Andrae, M. Reiher, and J. Hinze, “Numerical electronic structure calculations for atoms. II. Generalized variable transformation and relativistic calculations”, &lt;em&gt;INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY&lt;/em&gt;,  vol. 76, 2000,  pp. 473-499.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1620833</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:04:57Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-07T16:48:27Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1620833</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1620833</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,99 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>On lossless quantum data compression with a classical helper</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Rudolf</namePart>
+  <namePart type="family">Ahlswede</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10479</identifier></name>
+<name type="personal">
+  <namePart type="given">N</namePart>
+  <namePart type="family">Cai</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">After K. Bostrom and T. Felbinger observed that lossless quantum data compression does not exist unless decoders know the lengths of codewords, they introduced a classical noiseless channel to inform the decoder of a quantum source about the lengths of codewords. In this paper we analyze their codes and present 1) a sufficient and necessary condition for the existence of such codes for given lists of lengths of codes; 2) a characterization of the optimal compression rate for their codes. However our main contribution is a more efficient way to use the classical channel. We propose a more general coding scheme. It turned out that the optimal compression can always be achieved by a code obtained by this scheme. A von Neumann entropy lower bound to rates of our codes and a necessary and sufficient condition to achieve the bound are obtained. The gap between this lower bound and the compression rates is also well analyzed. For a special family of quantum sources we provide a sharper lower bound in terms of Shannon entropy. Finally, we propose some problems for further research.</abstract>
+
+<originInfo><publisher>IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC</publisher><dateIssued encoding="w3cdtf">2004</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>quantum-variable-length codes</topic><topic>quantum source</topic><topic>von Neumann entropy bound</topic><topic>lossless data compression</topic><topic>classical helper</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>IEEE TRANSACTIONS ON INFORMATION THEORY</title></titleInfo>
+  <identifier type="issn">0018-9448</identifier>
+  <identifier type="ISI">000221803300017</identifier><identifier type="doi">10.1109/TIT.2004.828071</identifier>
+<part><detail type="volume"><number>50</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">1208-1219</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<lncs>Ahlswede, R., Cai, N.: On lossless quantum data compression with a classical helper. IEEE TRANSACTIONS ON INFORMATION THEORY. 50, 1208-1219 (2004).</lncs>
+<mla>Ahlswede, Rudolf, and Cai, N. “On lossless quantum data compression with a classical helper”. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt; 50.6 (2004): 1208-1219.</mla>
+<ieee>R. Ahlswede and N. Cai, “On lossless quantum data compression with a classical helper”, &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;,  vol. 50, 2004,  pp. 1208-1219.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R., &amp;amp; Cai, N. (2004). On lossless quantum data compression with a classical helper. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, &lt;em&gt;50&lt;/em&gt;(6), 1208-1219.&lt;/div&gt;</apa_indent>
+<frontiers>Ahlswede, R., and Cai, N. (2004). On lossless quantum data compression with a classical helper. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt; 50, 1208-1219.</frontiers>
+<angewandte-chemie>R.  Ahlswede, and N.  Cai, “On lossless quantum data compression with a classical helper”, &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, &lt;strong&gt;2004&lt;/strong&gt;, &lt;em&gt;50&lt;/em&gt;, 1208-1219.</angewandte-chemie>
+<apa>Ahlswede, R., &amp;amp; Cai, N. (2004). On lossless quantum data compression with a classical helper. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, &lt;em&gt;50&lt;/em&gt;(6), 1208-1219.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, Rudolf, and Cai, N. 2004. “On lossless quantum data compression with a classical helper”. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt; 50 (6): 1208-1219.&lt;/div&gt;</chicago>
+<aps>R.  Ahlswede and N.  Cai, On lossless quantum data compression with a classical helper, IEEE TRANSACTIONS ON INFORMATION THEORY &lt;strong&gt;50&lt;/strong&gt;, 1208-1219 (2004).</aps>
+<bio1>Ahlswede R, Cai N (2004) &lt;br /&gt;On lossless quantum data compression with a classical helper.&lt;br /&gt;IEEE TRANSACTIONS ON INFORMATION THEORY 50(6): 1208-1219.</bio1>
+<harvard1>Ahlswede, R., &amp;amp; Cai, N., 2004. On lossless quantum data compression with a classical helper. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, 50(6), p 1208-1219.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R. &amp;amp; Cai, N. (2004). On lossless quantum data compression with a classical helper. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, &lt;em&gt;50&lt;/em&gt;(6), 1208-1219. IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC. doi:10.1109/TIT.2004.828071.&lt;/div&gt;</dgps>
+<ama>Ahlswede R, Cai N. On lossless quantum data compression with a classical helper. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;. 2004;50(6):1208-1219.</ama>
+<default>Ahlswede R, Cai N (2004) &lt;br /&gt;IEEE TRANSACTIONS ON INFORMATION THEORY 50(6): 1208-1219.</default>
+<wels>Ahlswede, R.; Cai, N. (2004): On lossless quantum data compression with a classical helper &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;,50:(6): 1208-1219.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1607764</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:57:34Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-11-11T12:03:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1607764</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1607764</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

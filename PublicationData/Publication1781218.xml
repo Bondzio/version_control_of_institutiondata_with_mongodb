@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Küstenschutz und Naturschutz im Konflikt: das Beispiel Nordstrander Bucht in Schleswig-Holstein</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Axel</namePart>
+  <namePart type="family">Braun</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40409</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Frank Norbert</namePart><namePart type="family">Nagel</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Arbeitsbereich 9 - Didaktik der Sozialwissenschaften</namePart>
+  <identifier type="unibi">5656122</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Abteilung Geographie</namePart>
+  <identifier type="unibi">10033</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Braun_006.pdf">https://pub.uni-bielefeld.de/download/1781218/2313229</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Steiner</publisher><dateIssued encoding="w3cdtf">1990</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Der nordatlantische Raum: Festschrift für Gerhard Oberbeck</title></titleInfo>
+  <identifier type="isbn">3-515-05866-4</identifier><identifier type="urn">urn:nbn:de:0070-bipr-24221</identifier>
+<part><extent unit="pages">485-504</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Braun, A. (1990): Küstenschutz und Naturschutz im Konflikt: das Beispiel Nordstrander Bucht in Schleswig-Holstein. In: Frank Norbert Nagel (Hrsg.):  Der nordatlantische Raum: Festschrift für Gerhard Oberbeck. Stuttgart: Steiner. (Mitteilungen der Geographischen Gesellschaft in Hamburg ; 80, ).  S. 485-504.</wels>
+<default>Braun A (1990)  &lt;br /&gt;In:  Der nordatlantische Raum: Festschrift für Gerhard Oberbeck. Nagel FN (Ed); Mitteilungen der Geographischen Gesellschaft in Hamburg ; 80, . Stuttgart: Steiner:  485-504.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Braun, A. (1990). Küstenschutz und Naturschutz im Konflikt: das Beispiel Nordstrander Bucht in Schleswig-Holstein (Mitteilungen der Geographischen Gesellschaft in Hamburg ; 80). &lt;em&gt;Der nordatlantische Raum: Festschrift für Gerhard Oberbeck&lt;/em&gt; (S. 485-504). Stuttgart: Steiner.&lt;/div&gt;</dgps>
+<harvard1>Braun, A., 1990. Küstenschutz und Naturschutz im Konflikt: das Beispiel Nordstrander Bucht in Schleswig-Holstein. In F. N.  Nagel, ed. &lt;em&gt;Der nordatlantische Raum: Festschrift für Gerhard Oberbeck&lt;/em&gt;. Mitteilungen der Geographischen Gesellschaft in Hamburg ; 80.  Stuttgart: Steiner, pp. 485-504.</harvard1>
+<ama>Braun A. Küstenschutz und Naturschutz im Konflikt: das Beispiel Nordstrander Bucht in Schleswig-Holstein. In: Nagel FN, ed. &lt;em&gt;Der nordatlantische Raum: Festschrift für Gerhard Oberbeck&lt;/em&gt;. Mitteilungen der Geographischen Gesellschaft in Hamburg ; 80. Stuttgart: Steiner;  1990: 485-504.</ama>
+<bio1>Braun A (1990) &lt;br /&gt;Küstenschutz und Naturschutz im Konflikt: das Beispiel Nordstrander Bucht in Schleswig-Holstein. &lt;br /&gt;In:  Der nordatlantische Raum: Festschrift für Gerhard Oberbeck. Nagel FN (Ed); Mitteilungen der Geographischen Gesellschaft in Hamburg ; 80,  Stuttgart: Steiner:  485-504.</bio1>
+<aps>A.  Braun, Küstenschutz und Naturschutz im Konflikt: das Beispiel Nordstrander Bucht in Schleswig-Holstein, in &lt;em&gt;Der nordatlantische Raum: Festschrift für Gerhard Oberbeck&lt;/em&gt;, edited by F. N.  Nagel, Mitteilungen der Geographischen Gesellschaft in Hamburg ; 80 (Steiner, Stuttgart, 1990), p. 485-504.</aps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Braun, Axel. 1990. “Küstenschutz und Naturschutz im Konflikt: das Beispiel Nordstrander Bucht in Schleswig-Holstein”. In &lt;em&gt;Der nordatlantische Raum: Festschrift für Gerhard Oberbeck&lt;/em&gt;, ed. Frank Norbert Nagel, 485-504. Mitteilungen der Geographischen Gesellschaft in Hamburg ; 80. Stuttgart: Steiner.&lt;/div&gt;</chicago>
+<apa>Braun, A. (1990). Küstenschutz und Naturschutz im Konflikt: das Beispiel Nordstrander Bucht in Schleswig-Holstein. In F. N.  Nagel (Ed.), &lt;em&gt;Mitteilungen der Geographischen Gesellschaft in Hamburg ; 80&lt;/em&gt;&lt;em&gt;. Der nordatlantische Raum: Festschrift für Gerhard Oberbeck&lt;/em&gt; (pp. 485-504). Stuttgart: Steiner.</apa>
+<angewandte-chemie>A.  Braun, in &lt;em&gt;Der nordatlantische Raum: Festschrift für Gerhard Oberbeck&lt;/em&gt; (Ed.: F.N. Nagel), Steiner, Stuttgart, &lt;strong&gt;1990&lt;/strong&gt;, p. 485-504.</angewandte-chemie>
+<frontiers>Braun, A. (1990). “Küstenschutz und Naturschutz im Konflikt: das Beispiel Nordstrander Bucht in Schleswig-Holstein” in &lt;em&gt;Der nordatlantische Raum: Festschrift für Gerhard Oberbeck&lt;/em&gt;, ed. F. N.  Nagel Mitteilungen der Geographischen Gesellschaft in Hamburg ; 80 (Stuttgart: Steiner), 485-504.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Braun, A. (1990). Küstenschutz und Naturschutz im Konflikt: das Beispiel Nordstrander Bucht in Schleswig-Holstein. In F. N.  Nagel (Ed.), &lt;em&gt;Mitteilungen der Geographischen Gesellschaft in Hamburg ; 80&lt;/em&gt;&lt;em&gt;. Der nordatlantische Raum: Festschrift für Gerhard Oberbeck&lt;/em&gt; (pp. 485-504). Stuttgart: Steiner.&lt;/div&gt;</apa_indent>
+<ieee>A. Braun, “Küstenschutz und Naturschutz im Konflikt: das Beispiel Nordstrander Bucht in Schleswig-Holstein”, &lt;em&gt;Der nordatlantische Raum: Festschrift für Gerhard Oberbeck&lt;/em&gt;, F.N. Nagel, ed., Mitteilungen der Geographischen Gesellschaft in Hamburg ; 80,  Stuttgart: Steiner, 1990,  pp.485-504.</ieee>
+<lncs>Braun, A.: Küstenschutz und Naturschutz im Konflikt: das Beispiel Nordstrander Bucht in Schleswig-Holstein. In: Nagel, F.N. (ed.) Der nordatlantische Raum: Festschrift für Gerhard Oberbeck. Mitteilungen der Geographischen Gesellschaft in Hamburg ; 80. p. 485-504. Steiner, Stuttgart (1990).</lncs>
+<mla>Braun, Axel. “Küstenschutz und Naturschutz im Konflikt: das Beispiel Nordstrander Bucht in Schleswig-Holstein”. &lt;em&gt;Der nordatlantische Raum: Festschrift für Gerhard Oberbeck&lt;/em&gt;. Ed. Frank Norbert Nagel. Stuttgart: Steiner, 1990. Mitteilungen der Geographischen Gesellschaft in Hamburg ; 80. 485-504.</mla>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781218</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781218</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781218</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

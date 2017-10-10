@@ -1,0 +1,129 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The Saccharomyces cerevisiae protein Ccz1p interacts with components of the endosomal fusion machinery</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Roza</namePart>
+  <namePart type="family">Kucharczyk</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Marta</namePart>
+  <namePart type="family">Hoffman-Sommer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Iga</namePart>
+  <namePart type="family">Piekarska</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Gabriele</namePart>
+  <namePart type="family">Fischer von Mollard</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">154158</identifier></name>
+<name type="personal">
+  <namePart type="given">Joanna</namePart>
+  <namePart type="family">Rytka</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Biochemie und Biotechnik</namePart>
+  <identifier type="unibi">4838684</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  G. Fischer von Mollard</namePart>
+  <identifier type="unibi">33086484</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Biochemie III</namePart>
+  <identifier type="unibi">288445</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The yeast protein Ccz1p is necessary for vacuolar protein trafficking and biogenesis. In a complex with Mon1p, it mediates fusion of transport intermediates with the vacuole membrane by activating the small GTPase Ypt7p. Additionally, genetic data suggest a role of Ccz1p in earlier transport steps, in the Golgi. In a search for further proteins interacting with Ccz1p, we identified the endosomal soluble N-ethylmaleimide-sensitive factor attachment protein receptor Pep12p as an interaction partner of Ccz1p. Combining the ccz1 Delta mutation with deletions of PEP12 or other genes encoding components of the endosomal fusion machinery, VPS21, VPS9 or VPS45, results in synthetic growth phenotypes. The genes MON1 and YPT7 also interact genetically with PEP12. These results suggest that the Ccz1p-Mon1p-Ypt7p complex is involved in fusion of transport vesicles to multiple target membranes in yeast cells.</abstract>
+
+<originInfo><publisher>Oxford University Press (OUP)</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>vesicular transport</topic><topic>yeast</topic><topic>Ccz1p</topic><topic>late endosome</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>FEMS YEAST RESEARCH</title></titleInfo>
+  <identifier type="issn">1567-1356</identifier>
+  <identifier type="eIssn">1567-1364</identifier>
+  <identifier type="MEDLINE">19456873</identifier>
+  <identifier type="ISI">000265934800005</identifier><identifier type="doi">10.1111/j.1567-1364.2009.00515.x</identifier>
+<part><detail type="volume"><number>9</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">565-573</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Kucharczyk R, Hoffman-Sommer M, Piekarska I, Fischer von Mollard G, Rytka J. The Saccharomyces cerevisiae protein Ccz1p interacts with components of the endosomal fusion machinery. &lt;em&gt;FEMS YEAST RESEARCH&lt;/em&gt;. 2009;9(4):565-573.</ama>
+<harvard1>Kucharczyk, R., et al., 2009. The Saccharomyces cerevisiae protein Ccz1p interacts with components of the endosomal fusion machinery. &lt;em&gt;FEMS YEAST RESEARCH&lt;/em&gt;, 9(4), p 565-573.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kucharczyk, R., Hoffman-Sommer, M., Piekarska, I., Fischer von Mollard, G. &amp;amp; Rytka, J. (2009). The Saccharomyces cerevisiae protein Ccz1p interacts with components of the endosomal fusion machinery. &lt;em&gt;FEMS YEAST RESEARCH&lt;/em&gt;, &lt;em&gt;9&lt;/em&gt;(4), 565-573. Oxford University Press (OUP). doi:10.1111/j.1567-1364.2009.00515.x.&lt;/div&gt;</dgps>
+<bio1>Kucharczyk R, Hoffman-Sommer M, Piekarska I, Fischer von Mollard G, Rytka J (2009) &lt;br /&gt;The Saccharomyces cerevisiae protein Ccz1p interacts with components of the endosomal fusion machinery.&lt;br /&gt;FEMS YEAST RESEARCH 9(4): 565-573.</bio1>
+<aps>R.  Kucharczyk, et al., The Saccharomyces cerevisiae protein Ccz1p interacts with components of the endosomal fusion machinery, FEMS YEAST RESEARCH &lt;strong&gt;9&lt;/strong&gt;, 565-573 (2009).</aps>
+<wels>Kucharczyk, R.; Hoffman-Sommer, M.; Piekarska, I.; Fischer von Mollard, G.; Rytka, J. (2009): The Saccharomyces cerevisiae protein Ccz1p interacts with components of the endosomal fusion machinery &lt;em&gt;FEMS YEAST RESEARCH&lt;/em&gt;,9:(4): 565-573.</wels>
+<default>Kucharczyk R, Hoffman-Sommer M, Piekarska I, Fischer von Mollard G, Rytka J (2009) &lt;br /&gt;FEMS YEAST RESEARCH 9(4): 565-573.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kucharczyk, R., Hoffman-Sommer, M., Piekarska, I., Fischer von Mollard, G., &amp;amp; Rytka, J. (2009). The Saccharomyces cerevisiae protein Ccz1p interacts with components of the endosomal fusion machinery. &lt;em&gt;FEMS YEAST RESEARCH&lt;/em&gt;, &lt;em&gt;9&lt;/em&gt;(4), 565-573.&lt;/div&gt;</apa_indent>
+<ieee>R. Kucharczyk, et al., “The Saccharomyces cerevisiae protein Ccz1p interacts with components of the endosomal fusion machinery”, &lt;em&gt;FEMS YEAST RESEARCH&lt;/em&gt;,  vol. 9, 2009,  pp. 565-573.</ieee>
+<mla>Kucharczyk, Roza, Hoffman-Sommer, Marta, Piekarska, Iga, Fischer von Mollard, Gabriele, and Rytka, Joanna. “The Saccharomyces cerevisiae protein Ccz1p interacts with components of the endosomal fusion machinery”. &lt;em&gt;FEMS YEAST RESEARCH&lt;/em&gt; 9.4 (2009): 565-573.</mla>
+<lncs>Kucharczyk, R., Hoffman-Sommer, M., Piekarska, I., Fischer von Mollard, G., Rytka, J.: The Saccharomyces cerevisiae protein Ccz1p interacts with components of the endosomal fusion machinery. FEMS YEAST RESEARCH. 9, 565-573 (2009).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kucharczyk, Roza, Hoffman-Sommer, Marta, Piekarska, Iga, Fischer von Mollard, Gabriele, and Rytka, Joanna. 2009. “The Saccharomyces cerevisiae protein Ccz1p interacts with components of the endosomal fusion machinery”. &lt;em&gt;FEMS YEAST RESEARCH&lt;/em&gt; 9 (4): 565-573.&lt;/div&gt;</chicago>
+<apa>Kucharczyk, R., Hoffman-Sommer, M., Piekarska, I., Fischer von Mollard, G., &amp;amp; Rytka, J. (2009). The Saccharomyces cerevisiae protein Ccz1p interacts with components of the endosomal fusion machinery. &lt;em&gt;FEMS YEAST RESEARCH&lt;/em&gt;, &lt;em&gt;9&lt;/em&gt;(4), 565-573.</apa>
+<angewandte-chemie>R.  Kucharczyk, M.  Hoffman-Sommer, I.  Piekarska, G.  Fischer von Mollard, and J.  Rytka, “The Saccharomyces cerevisiae protein Ccz1p interacts with components of the endosomal fusion machinery”, &lt;em&gt;FEMS YEAST RESEARCH&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;9&lt;/em&gt;, 565-573.</angewandte-chemie>
+<frontiers>Kucharczyk, R., Hoffman-Sommer, M., Piekarska, I., Fischer von Mollard, G., and Rytka, J. (2009). The Saccharomyces cerevisiae protein Ccz1p interacts with components of the endosomal fusion machinery. &lt;em&gt;FEMS YEAST RESEARCH&lt;/em&gt; 9, 565-573.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1633891</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:03Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-11-08T13:06:25Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1633891</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1633891</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

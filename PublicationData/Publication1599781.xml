@@ -1,0 +1,124 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Isentropic equation of state of 2-flavor QCD</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">S</namePart>
+  <namePart type="family">Ejiri</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Frithjof</namePart>
+  <namePart type="family">Karsch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40326</identifier></name>
+<name type="personal">
+  <namePart type="given">Edwin</namePart>
+  <namePart type="family">Laermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40621</identifier></name>
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">Schmidt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">3793169</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Fakultät für Chemie</namePart>
+  <identifier type="unibi">10018</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Using Taylor expansions of the pressure obtained previously in studies of 2-flavor QCD at nonzero chemical potential we calculate expansion coefficients for the energy and entropy densities up to O(mu(6)(q)) in the quark chemical potential. We use these series in mu(q)/T to determine lines of constant entropy per baryon number (S/N-B) that characterize the expansion of dense matter created in heavy ion collisions. In the high temperature regime these lines are found to be well approximated by lines of constant mu(q)/T. In the low temperature phase, however, the quark chemical potential is found to increase with decreasing temperature. This is in accordance with resonance gas model calculations. Along the lines of constant S/N-B we calculate the energy density and pressure. Within the accuracy of our present analysis we find that the ratio p/epsilon for T &gt; T-0 as well as the softest point of the equation of state, (p/epsilon)(min)similar or equal to 0.075, show no significant dependence on S/N-B.</abstract>
+
+<originInfo><publisher>AMERICAN PHYSICAL SOC</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>PHYSICAL REVIEW D</title></titleInfo>
+  <identifier type="issn">1550-7998</identifier>
+  <identifier type="eIssn">1550-2368</identifier>
+  <identifier type="arXiv">hep-lat/0512040</identifier>
+  <identifier type="INSPIRE">701430</identifier>
+  <identifier type="ISI">000236465800066</identifier><identifier type="doi">10.1103/PhysRevD.73.054506</identifier>
+<part><detail type="volume"><number>73</number></detail><detail type="issue"><number>5</number></detail>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ejiri, S, Karsch, Frithjof, Laermann, Edwin, and Schmidt, Christian. 2006. “Isentropic equation of state of 2-flavor QCD”. &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt; 73 (5).&lt;/div&gt;</chicago>
+<angewandte-chemie>S.  Ejiri, F.  Karsch, E.  Laermann, and C.  Schmidt, “Isentropic equation of state of 2-flavor QCD”, &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;73&lt;/em&gt;.</angewandte-chemie>
+<apa>Ejiri, S., Karsch, F., Laermann, E., &amp;amp; Schmidt, C. (2006). Isentropic equation of state of 2-flavor QCD. &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt;, &lt;em&gt;73&lt;/em&gt;(5).</apa>
+<frontiers>Ejiri, S., Karsch, F., Laermann, E., and Schmidt, C. (2006). Isentropic equation of state of 2-flavor QCD. &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt; 73.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ejiri, S., Karsch, F., Laermann, E., &amp;amp; Schmidt, C. (2006). Isentropic equation of state of 2-flavor QCD. &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt;, &lt;em&gt;73&lt;/em&gt;(5).&lt;/div&gt;</apa_indent>
+<ieee>S. Ejiri, et al., “Isentropic equation of state of 2-flavor QCD”, &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt;,  vol. 73, 2006.</ieee>
+<mla>Ejiri, S, Karsch, Frithjof, Laermann, Edwin, and Schmidt, Christian. “Isentropic equation of state of 2-flavor QCD”. &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt; 73.5 (2006).</mla>
+<lncs>Ejiri, S., Karsch, F., Laermann, E., Schmidt, C.: Isentropic equation of state of 2-flavor QCD. PHYSICAL REVIEW D. 73, (2006).</lncs>
+<wels>Ejiri, S.; Karsch, F.; Laermann, E.; Schmidt, C. (2006): Isentropic equation of state of 2-flavor QCD &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt;,73:(5)</wels>
+<default>Ejiri S, Karsch F, Laermann E, Schmidt C (2006) &lt;br /&gt;PHYSICAL REVIEW D 73(5).</default>
+<ama>Ejiri S, Karsch F, Laermann E, Schmidt C. Isentropic equation of state of 2-flavor QCD. &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt;. 2006;73(5).</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ejiri, S., Karsch, F., Laermann, E. &amp;amp; Schmidt, C. (2006). Isentropic equation of state of 2-flavor QCD. &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt;, &lt;em&gt;73&lt;/em&gt;(5). AMERICAN PHYSICAL SOC. doi:10.1103/PhysRevD.73.054506.&lt;/div&gt;</dgps>
+<harvard1>Ejiri, S., et al., 2006. Isentropic equation of state of 2-flavor QCD. &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt;, 73(5).</harvard1>
+<bio1>Ejiri S, Karsch F, Laermann E, Schmidt C (2006) &lt;br /&gt;Isentropic equation of state of 2-flavor QCD.&lt;br /&gt;PHYSICAL REVIEW D 73(5).</bio1>
+<aps>S.  Ejiri, et al., Isentropic equation of state of 2-flavor QCD, PHYSICAL REVIEW D &lt;strong&gt;73&lt;/strong&gt;, (2006).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1599781</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:30:53Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-29T05:52:03Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1599781</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1599781</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

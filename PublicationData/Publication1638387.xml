@@ -1,0 +1,104 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>A physical and genetic map of the Corynebacterium glutamicum ATCC 13032 chromosome</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">B.</namePart>
+  <namePart type="family">Bathe</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jörn</namePart>
+  <namePart type="family">Kalinowski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">147567</identifier></name>
+<name type="personal">
+  <namePart type="given">Alfred</namePart>
+  <namePart type="family">Pühler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21937</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">A combined physical and genetic map of the Corynebacterium glutamicum ATCC 13032 chromosome was constructed using pulsed-field gel electrophoresis (PFGE) and hybridizations with cloned gene probes. Total genomic DNA was digested with the meganucleases (5&apos;-ATTTAAAT-3&apos;), PacI SwaI (5&apos;-TTAATTAA-3&apos;) and PmeI (5&apos;-GTTTAAAC-3&apos;) yielding 26,27, and 23 fragments, respectively. The chromosomal restriction fragments were then separated by PFGE. By summing up the lengths of the fragments generated with each of the three enzymes, a genome size of 3082 +/- 20 kb was determined. To identify adjacent SwaI fragments, a genomic cosmid library of C. glutamicum was screened for chromosomal inserts containing SwaI sites. Southern blots of the PFGE gels were hybridized with these linking clones to connect the SwaI fragments in their natural order. By this method, about 90% of the genome could be ordered into three contigs. Two of the remaining gaps were closed by cross-hybridization of blotted SwaI digests using as probes PacI and PmeI fragments isolated from PFGE gels. The last gap in the chromosomal map was closed by hybridization experiments using partial SwaI digestions, thereby proving the circularity of the chromosome. By hybridization of gene probes to SwaI fragments separated by PFGE about 30 genes; including rRNA operons, IS element and transposon insertions were localized on the physical map.</abstract>
+
+<originInfo><publisher>SPRINGER VERLAG</publisher><dateIssued encoding="w3cdtf">1996</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Corynebacterium</topic><topic>pulsed-field gel electrophoresis</topic><topic>glutamicum</topic><topic>genomic mapping</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>MOLECULAR &amp; GENERAL GENETICS</title></titleInfo>
+  <identifier type="issn">0026-8925</identifier>
+  <identifier type="MEDLINE">8842145</identifier>
+  <identifier type="ISI">A1996VL33500005</identifier>
+<part><detail type="volume"><number>252</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">255-265</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bathe, B., Kalinowski, Jörn, and Pühler, Alfred. 1996. “A physical and genetic map of the Corynebacterium glutamicum ATCC 13032 chromosome”. &lt;em&gt;MOLECULAR &amp;amp; GENERAL GENETICS&lt;/em&gt; 252 (3): 255-265.&lt;/div&gt;</chicago>
+<apa>Bathe, B., Kalinowski, J., &amp;amp; Pühler, A. (1996). A physical and genetic map of the Corynebacterium glutamicum ATCC 13032 chromosome. &lt;em&gt;MOLECULAR &amp;amp; GENERAL GENETICS&lt;/em&gt;, &lt;em&gt;252&lt;/em&gt;(3), 255-265.</apa>
+<angewandte-chemie>B.  Bathe, J.  Kalinowski, and A.  Pühler, “A physical and genetic map of the Corynebacterium glutamicum ATCC 13032 chromosome”, &lt;em&gt;MOLECULAR &amp;amp; GENERAL GENETICS&lt;/em&gt;, &lt;strong&gt;1996&lt;/strong&gt;, &lt;em&gt;252&lt;/em&gt;, 255-265.</angewandte-chemie>
+<frontiers>Bathe, B., Kalinowski, J., and Pühler, A. (1996). A physical and genetic map of the Corynebacterium glutamicum ATCC 13032 chromosome. &lt;em&gt;MOLECULAR &amp;amp; GENERAL GENETICS&lt;/em&gt; 252, 255-265.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bathe, B., Kalinowski, J., &amp;amp; Pühler, A. (1996). A physical and genetic map of the Corynebacterium glutamicum ATCC 13032 chromosome. &lt;em&gt;MOLECULAR &amp;amp; GENERAL GENETICS&lt;/em&gt;, &lt;em&gt;252&lt;/em&gt;(3), 255-265.&lt;/div&gt;</apa_indent>
+<ieee> B. Bathe, J. Kalinowski, and A. Pühler, “A physical and genetic map of the Corynebacterium glutamicum ATCC 13032 chromosome”, &lt;em&gt;MOLECULAR &amp;amp; GENERAL GENETICS&lt;/em&gt;,  vol. 252, 1996,  pp. 255-265.</ieee>
+<mla>Bathe, B., Kalinowski, Jörn, and Pühler, Alfred. “A physical and genetic map of the Corynebacterium glutamicum ATCC 13032 chromosome”. &lt;em&gt;MOLECULAR &amp;amp; GENERAL GENETICS&lt;/em&gt; 252.3 (1996): 255-265.</mla>
+<lncs> Bathe, B., Kalinowski, J., Pühler, A.: A physical and genetic map of the Corynebacterium glutamicum ATCC 13032 chromosome. MOLECULAR &amp;amp; GENERAL GENETICS. 252, 255-265 (1996).</lncs>
+<wels>Bathe, B.; Kalinowski, J.; Pühler, A. (1996): A physical and genetic map of the Corynebacterium glutamicum ATCC 13032 chromosome &lt;em&gt;MOLECULAR &amp;amp; GENERAL GENETICS&lt;/em&gt;,252:(3): 255-265.</wels>
+<default>Bathe B, Kalinowski J, Pühler A (1996) &lt;br /&gt;MOLECULAR &amp;amp; GENERAL GENETICS 252(3): 255-265.</default>
+<harvard1>Bathe, B., Kalinowski, J., &amp;amp; Pühler, A., 1996. A physical and genetic map of the Corynebacterium glutamicum ATCC 13032 chromosome. &lt;em&gt;MOLECULAR &amp;amp; GENERAL GENETICS&lt;/em&gt;, 252(3), p 255-265.</harvard1>
+<ama>Bathe B, Kalinowski J, Pühler A. A physical and genetic map of the Corynebacterium glutamicum ATCC 13032 chromosome. &lt;em&gt;MOLECULAR &amp;amp; GENERAL GENETICS&lt;/em&gt;. 1996;252(3):255-265.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bathe, B., Kalinowski, J. &amp;amp; Pühler, A. (1996). A physical and genetic map of the Corynebacterium glutamicum ATCC 13032 chromosome. &lt;em&gt;MOLECULAR &amp;amp; GENERAL GENETICS&lt;/em&gt;, &lt;em&gt;252&lt;/em&gt;(3), 255-265. SPRINGER VERLAG.&lt;/div&gt;</dgps>
+<aps> B.  Bathe, J.  Kalinowski, and A.  Pühler, A physical and genetic map of the Corynebacterium glutamicum ATCC 13032 chromosome, MOLECULAR &amp;amp; GENERAL GENETICS &lt;strong&gt;252&lt;/strong&gt;, 255-265 (1996).</aps>
+<bio1>Bathe B, Kalinowski J, Pühler A (1996) &lt;br /&gt;A physical and genetic map of the Corynebacterium glutamicum ATCC 13032 chromosome.&lt;br /&gt;MOLECULAR &amp;amp; GENERAL GENETICS 252(3): 255-265.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1638387</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:14:45Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-09-14T08:34:30Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1638387</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1638387</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

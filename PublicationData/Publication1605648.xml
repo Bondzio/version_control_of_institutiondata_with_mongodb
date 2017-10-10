@@ -1,0 +1,131 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The complete sequences of plasmids pB2 and pB3 provide evidence for a recent ancestor of the IncP-1 beta group without any accessory genes</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">H</namePart>
+  <namePart type="family">Heuer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Rafael</namePart>
+  <namePart type="family">Szczepanowski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">112271</identifier></name>
+<name type="personal">
+  <namePart type="given">Susanne</namePart>
+  <namePart type="family">Schneiker-Bekel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">113931</identifier></name>
+<name type="personal">
+  <namePart type="given">Alfred</namePart>
+  <namePart type="family">Pühler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21937</identifier></name>
+<name type="personal">
+  <namePart type="given">EM</namePart>
+  <namePart type="family">Top</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Schlüter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">55545</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0003-4830-310X</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070639</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The nucleoticle sequences of the broad-host-range antibiotic resistance plasmids pB2 (61 kb) and pB3 (56 kb), which were isolated from a wastewater treatment plant, were determined and analysed. Both have a nearly identical IncP-1beta backbone, which diverged early from the sequenced IncP-1beta plasmids R751, pB10, pJP4, pADP1 and pUO1. In contrast to the latter plasmids, the pB2 and pB3 backbone does not seem to have undergone any deletions. The complete partition gene parA is located downstream of the mating pair formation (trb) module. A 14(.)4 kb or 19(.)0 kb mobile genetic element is present between traC and parA of pB3 and pB2, respectively. This region is typical for insertions in IncP-1beta plasmids, but the insertion site is unique. Both elements differ only by a duplication in pB2 of a tetA(C)-tetR-tnpA1S26 fragment. The 5 bp target site duplication and the 26 bp inverted repeats flanking the mobile genetic elements are still intact, indicating that the insertion occurred recently. The element consists of three nested transposable elements: (i) a relict of a Tn402-like transposon with a gene for a new class D beta-lactamase (bla(NPS-2)); (ii) within that, another Tn402-like element with a class 1 integron harbouring the gene cassettes cm/A1 for a chloramphenicol efflux protein and aadA2 encoding a streptomycin/spectinomycin adenylyltransferase, and a copy of IS6100; (iii) into the integrase gene intl1 a tetracycline resistance module tetA(C)-tetR flanked by copies of IS26 is inserted. Interestingly, in contrast to all other IncP-1beta plasmids analysed so far, the oriV region between trfA and klcA is not interrupted by accessory genes, and there is no indication that previously inserted accessory genes have subsequently been deleted. The genes kluAB are also missing in that region and should thus be considered acquired genes. These findings, together with the fact that IncP-1beta plasmids acquired accessory elements at various positions in the backbone, suggest that IncIP-1beta plasmids without any accessory genes exist in microbial communities. They must occasionally acquire accessory genes by transposition events, resulting in those plasmids that have been found based on selectable phenotypic traits.</abstract>
+
+<originInfo><publisher>SOC GENERAL MICROBIOLOGY</publisher><dateIssued encoding="w3cdtf">2004</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Microbiology</title></titleInfo>
+  <identifier type="issn">1350-0872</identifier>
+  <identifier type="eIssn">1465-2080</identifier>
+  <identifier type="MEDLINE">15528648</identifier>
+  <identifier type="ISI">000225372700009</identifier><identifier type="doi">10.1099/mic.0.27304-0</identifier>
+<part><detail type="volume"><number>150</number></detail><detail type="issue"><number>11</number></detail><extent unit="pages">3591-3599</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Heuer, H.; Szczepanowski, R.; Schneiker-Bekel, S.; Pühler, A.; Top, E. M.; Schlüter, A. (2004): The complete sequences of plasmids pB2 and pB3 provide evidence for a recent ancestor of the IncP-1 beta group without any accessory genes &lt;em&gt;Microbiology&lt;/em&gt;,150:(11): 3591-3599.</wels>
+<default>Heuer H, Szczepanowski R, Schneiker-Bekel S, Pühler A, Top EM, Schlüter A (2004) &lt;br /&gt;Microbiology 150(11): 3591-3599.</default>
+<harvard1>Heuer, H., et al., 2004. The complete sequences of plasmids pB2 and pB3 provide evidence for a recent ancestor of the IncP-1 beta group without any accessory genes. &lt;em&gt;Microbiology&lt;/em&gt;, 150(11), p 3591-3599.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heuer, H., Szczepanowski, R., Schneiker-Bekel, S., Pühler, A., Top, E.M. &amp;amp; Schlüter, A. (2004). The complete sequences of plasmids pB2 and pB3 provide evidence for a recent ancestor of the IncP-1 beta group without any accessory genes. &lt;em&gt;Microbiology&lt;/em&gt;, &lt;em&gt;150&lt;/em&gt;(11), 3591-3599. SOC GENERAL MICROBIOLOGY. doi:10.1099/mic.0.27304-0.&lt;/div&gt;</dgps>
+<ama>Heuer H, Szczepanowski R, Schneiker-Bekel S, Pühler A, Top EM, Schlüter A. The complete sequences of plasmids pB2 and pB3 provide evidence for a recent ancestor of the IncP-1 beta group without any accessory genes. &lt;em&gt;Microbiology&lt;/em&gt;. 2004;150(11):3591-3599.</ama>
+<bio1>Heuer H, Szczepanowski R, Schneiker-Bekel S, Pühler A, Top EM, Schlüter A (2004) &lt;br /&gt;The complete sequences of plasmids pB2 and pB3 provide evidence for a recent ancestor of the IncP-1 beta group without any accessory genes.&lt;br /&gt;Microbiology 150(11): 3591-3599.</bio1>
+<aps> H.  Heuer, et al., The complete sequences of plasmids pB2 and pB3 provide evidence for a recent ancestor of the IncP-1 beta group without any accessory genes, Microbiology &lt;strong&gt;150&lt;/strong&gt;, 3591-3599 (2004).</aps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heuer, H, Szczepanowski, Rafael, Schneiker-Bekel, Susanne, Pühler, Alfred, Top, EM, and Schlüter, Andreas. 2004. “The complete sequences of plasmids pB2 and pB3 provide evidence for a recent ancestor of the IncP-1 beta group without any accessory genes”. &lt;em&gt;Microbiology&lt;/em&gt; 150 (11): 3591-3599.&lt;/div&gt;</chicago>
+<apa>Heuer, H., Szczepanowski, R., Schneiker-Bekel, S., Pühler, A., Top, E. M., &amp;amp; Schlüter, A. (2004). The complete sequences of plasmids pB2 and pB3 provide evidence for a recent ancestor of the IncP-1 beta group without any accessory genes. &lt;em&gt;Microbiology&lt;/em&gt;, &lt;em&gt;150&lt;/em&gt;(11), 3591-3599.</apa>
+<angewandte-chemie>H.  Heuer, R.  Szczepanowski, S.  Schneiker-Bekel, A.  Pühler, E. M.  Top, and A.  Schlüter, “The complete sequences of plasmids pB2 and pB3 provide evidence for a recent ancestor of the IncP-1 beta group without any accessory genes”, &lt;em&gt;Microbiology&lt;/em&gt;, &lt;strong&gt;2004&lt;/strong&gt;, &lt;em&gt;150&lt;/em&gt;, 3591-3599.</angewandte-chemie>
+<frontiers>Heuer, H., Szczepanowski, R., Schneiker-Bekel, S., Pühler, A., Top, E. M., and Schlüter, A. (2004). The complete sequences of plasmids pB2 and pB3 provide evidence for a recent ancestor of the IncP-1 beta group without any accessory genes. &lt;em&gt;Microbiology&lt;/em&gt; 150, 3591-3599.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heuer, H., Szczepanowski, R., Schneiker-Bekel, S., Pühler, A., Top, E. M., &amp;amp; Schlüter, A. (2004). The complete sequences of plasmids pB2 and pB3 provide evidence for a recent ancestor of the IncP-1 beta group without any accessory genes. &lt;em&gt;Microbiology&lt;/em&gt;, &lt;em&gt;150&lt;/em&gt;(11), 3591-3599.&lt;/div&gt;</apa_indent>
+<ieee> H. Heuer, et al., “The complete sequences of plasmids pB2 and pB3 provide evidence for a recent ancestor of the IncP-1 beta group without any accessory genes”, &lt;em&gt;Microbiology&lt;/em&gt;,  vol. 150, 2004,  pp. 3591-3599.</ieee>
+<lncs> Heuer, H., Szczepanowski, R., Schneiker-Bekel, S., Pühler, A., Top, E.M., Schlüter, A.: The complete sequences of plasmids pB2 and pB3 provide evidence for a recent ancestor of the IncP-1 beta group without any accessory genes. Microbiology. 150, 3591-3599 (2004).</lncs>
+<mla>Heuer, H, Szczepanowski, Rafael, Schneiker-Bekel, Susanne, Pühler, Alfred, Top, EM, and Schlüter, Andreas. “The complete sequences of plasmids pB2 and pB3 provide evidence for a recent ancestor of the IncP-1 beta group without any accessory genes”. &lt;em&gt;Microbiology&lt;/em&gt; 150.11 (2004): 3591-3599.</mla>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1605648</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:40:53Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-09-27T07:02:01Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1605648</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1605648</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

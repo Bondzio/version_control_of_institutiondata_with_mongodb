@@ -1,0 +1,97 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Soziale Probleme und Sozialpathologie</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Günter</namePart>
+  <namePart type="family">Albrecht</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">13192</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Günther</namePart><namePart type="family">Kaiser</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Soziologie</namePart>
+  <identifier type="unibi">10030</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Albrecht_38.pdf">https://pub.uni-bielefeld.de/download/1780999/2313135</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Müller, Jur. Verl.</publisher><dateIssued encoding="w3cdtf">1991</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Kleines kriminologisches Wörterbuch</title></titleInfo><identifier type="urn">urn:nbn:de:0070-bipr-23276</identifier>
+<part><extent unit="pages">484-490</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<mla>Albrecht, Günter. “Soziale Probleme und Sozialpathologie”. &lt;em&gt;Kleines kriminologisches Wörterbuch&lt;/em&gt;. Ed. Günther Kaiser. 3., völlig neubearb. u. erw. Aufl. Heidelberg: Müller, Jur. Verl., 1991. Uni-Taschenbücher ; 1274 : Rechtswissenschaft, Sozialwissenschaft. 484-490.</mla>
+<lncs>Albrecht, G.: Soziale Probleme und Sozialpathologie. In: Kaiser, G. (ed.) Kleines kriminologisches Wörterbuch. Uni-Taschenbücher ; 1274 : Rechtswissenschaft, Sozialwissenschaft. 3., völlig neubearb. u. erw. Aufl. p. 484-490. Müller, Jur. Verl., Heidelberg (1991).</lncs>
+<ieee>G. Albrecht, “Soziale Probleme und Sozialpathologie”, &lt;em&gt;Kleines kriminologisches Wörterbuch&lt;/em&gt;, G. Kaiser, ed., Uni-Taschenbücher ; 1274 : Rechtswissenschaft, Sozialwissenschaft, 3., völlig neubearb. u. erw. Aufl.,  Heidelberg: Müller, Jur. Verl., 1991,  pp.484-490.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Albrecht, G. (1991). Soziale Probleme und Sozialpathologie. In G.  Kaiser (Ed.), &lt;em&gt;Uni-Taschenbücher ; 1274 : Rechtswissenschaft, Sozialwissenschaft&lt;/em&gt;&lt;em&gt;. Kleines kriminologisches Wörterbuch&lt;/em&gt; (3., völlig neubearb. u. erw. Aufl., pp. 484-490). Heidelberg: Müller, Jur. Verl.&lt;/div&gt;</apa_indent>
+<frontiers>Albrecht, G. (1991). “Soziale Probleme und Sozialpathologie” in &lt;em&gt;Kleines kriminologisches Wörterbuch&lt;/em&gt;, ed. G.  Kaiser Uni-Taschenbücher ; 1274 : Rechtswissenschaft, Sozialwissenschaft 3., völlig neubearb. u. erw. Aufl. (Heidelberg: Müller, Jur. Verl.), 484-490.</frontiers>
+<apa>Albrecht, G. (1991). Soziale Probleme und Sozialpathologie. In G.  Kaiser (Ed.), &lt;em&gt;Uni-Taschenbücher ; 1274 : Rechtswissenschaft, Sozialwissenschaft&lt;/em&gt;&lt;em&gt;. Kleines kriminologisches Wörterbuch&lt;/em&gt; (3., völlig neubearb. u. erw. Aufl., pp. 484-490). Heidelberg: Müller, Jur. Verl.</apa>
+<angewandte-chemie>G.  Albrecht, in &lt;em&gt;Kleines kriminologisches Wörterbuch&lt;/em&gt; (Ed.: G. Kaiser), Müller, Jur. Verl., Heidelberg, &lt;strong&gt;1991&lt;/strong&gt;, p. 484-490.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Albrecht, Günter. 1991. “Soziale Probleme und Sozialpathologie”. In &lt;em&gt;Kleines kriminologisches Wörterbuch&lt;/em&gt;, ed. Günther Kaiser, 3., völlig neubearb. u. erw. Aufl., 484-490. Uni-Taschenbücher ; 1274 : Rechtswissenschaft, Sozialwissenschaft. Heidelberg: Müller, Jur. Verl.&lt;/div&gt;</chicago>
+<bio1>Albrecht G (1991) &lt;br /&gt;Soziale Probleme und Sozialpathologie. &lt;br /&gt;In:  Kleines kriminologisches Wörterbuch. Kaiser G (Ed); Uni-Taschenbücher ; 1274 : Rechtswissenschaft, Sozialwissenschaft,  3., völlig neubearb. u. erw. Aufl. Heidelberg: Müller, Jur. Verl.:  484-490.</bio1>
+<aps>G.  Albrecht, Soziale Probleme und Sozialpathologie, in &lt;em&gt;Kleines kriminologisches Wörterbuch&lt;/em&gt;, edited by G.  Kaiser, Uni-Taschenbücher ; 1274 : Rechtswissenschaft, Sozialwissenschaft, 3., völlig neubearb. u. erw. Aufl. (Müller, Jur. Verl., Heidelberg, 1991), p. 484-490.</aps>
+<harvard1>Albrecht, G., 1991. Soziale Probleme und Sozialpathologie. In G.  Kaiser, ed. &lt;em&gt;Kleines kriminologisches Wörterbuch&lt;/em&gt;. Uni-Taschenbücher ; 1274 : Rechtswissenschaft, Sozialwissenschaft. 3., völlig neubearb. u. erw. Aufl.  Heidelberg: Müller, Jur. Verl., pp. 484-490.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Albrecht, G. (1991). Soziale Probleme und Sozialpathologie (Uni-Taschenbücher ; 1274 : Rechtswissenschaft, Sozialwissenschaft). &lt;em&gt;Kleines kriminologisches Wörterbuch&lt;/em&gt; (3., völlig neubearb. u. erw. Aufl., S. 484-490). Heidelberg: Müller, Jur. Verl.&lt;/div&gt;</dgps>
+<ama>Albrecht G. Soziale Probleme und Sozialpathologie. In: Kaiser G, ed. &lt;em&gt;Kleines kriminologisches Wörterbuch&lt;/em&gt;. Uni-Taschenbücher ; 1274 : Rechtswissenschaft, Sozialwissenschaft. 3., völlig neubearb. u. erw. Aufl. Heidelberg: Müller, Jur. Verl.;  1991: 484-490.</ama>
+<default>Albrecht G (1991)  &lt;br /&gt;In:  Kleines kriminologisches Wörterbuch. Kaiser G (Ed); Uni-Taschenbücher ; 1274 : Rechtswissenschaft, Sozialwissenschaft,  3., völlig neubearb. u. erw. Aufl. Heidelberg: Müller, Jur. Verl.:  484-490.</default>
+<wels>Albrecht, G. (1991): Soziale Probleme und Sozialpathologie. In: Günther Kaiser (Hrsg.):  Kleines kriminologisches Wörterbuch. 3., völlig neubearb. u. erw. Aufl. Heidelberg: Müller, Jur. Verl. (Uni-Taschenbücher ; 1274 : Rechtswissenschaft, Sozialwissenschaft, ).  S. 484-490.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780999</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780999</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780999</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

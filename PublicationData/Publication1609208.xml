@@ -1,0 +1,113 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Learning human-like opponent behavior for interactive computer games</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">Bauckhage</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">4361661</identifier></name>
+<name type="personal">
+  <namePart type="given">C.</namePart>
+  <namePart type="family">Thurau</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Gerhard</namePart>
+  <namePart type="family">Sagerer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10375</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">B.</namePart><namePart type="family">Michaelis</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">G.</namePart><namePart type="family">Krell</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>AG Angewandte Informatik</namePart>
+  <identifier type="unibi">18304588</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Institute for Cognition and Robotics</namePart>
+  <identifier type="unibi">5408013</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Compared to their ancestors in the early 1970s, present day computer games are of incredible complexity and show magnificent graphical performance. However, in programming intelligent opponents, the game industry still applies techniques developed some 30 years ago. In this paper, we investigate whether opponent programming can be treated as a problem of behavior learning. To this end, we assume the behavior of game characters to be a function that maps the current game state onto a reaction. We will show that neural networks architectures are well suited to learn such functions and by means of a popular commercial game we demonstrate that agent behaviors can be learned from observation.</abstract>
+
+<originInfo><publisher>Springer</publisher><dateIssued encoding="w3cdtf">2003</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Pattern Recognition, Proceedings</title></titleInfo>
+  <identifier type="issn">0302-9743</identifier>
+  <identifier type="ISI">000187294800020</identifier>
+<part><extent unit="pages">148-155</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<harvard1>Bauckhage, C., Thurau, C., &amp;amp; Sagerer, G., 2003. Learning human-like opponent behavior for interactive computer games. In B.  Michaelis &amp;amp; G.  Krell, eds. &lt;em&gt;Pattern Recognition, Proceedings&lt;/em&gt;. Lecture Notes in Computer Science, 2781.  Berlin: Springer, pp. 148-155.</harvard1>
+<ama>Bauckhage C, Thurau C, Sagerer G. Learning human-like opponent behavior for interactive computer games. In: Michaelis B, Krell G, eds. &lt;em&gt;Pattern Recognition, Proceedings&lt;/em&gt;. Lecture Notes in Computer Science, 2781. Berlin: Springer;  2003: 148-155.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bauckhage, C., Thurau, C. &amp;amp; Sagerer, G. (2003). Learning human-like opponent behavior for interactive computer games (Lecture Notes in Computer Science, 2781). &lt;em&gt;Pattern Recognition, Proceedings&lt;/em&gt; (S. 148-155). Berlin: Springer.&lt;/div&gt;</dgps>
+<aps>C.  Bauckhage, C.  Thurau, and G.  Sagerer, Learning human-like opponent behavior for interactive computer games, in &lt;em&gt;Pattern Recognition, Proceedings&lt;/em&gt;, edited by B.  Michaelis and G.  Krell, Lecture Notes in Computer Science, 2781 (Springer, Berlin, 2003), p. 148-155.</aps>
+<bio1>Bauckhage C, Thurau C, Sagerer G (2003) &lt;br /&gt;Learning human-like opponent behavior for interactive computer games. &lt;br /&gt;In:  Pattern Recognition, Proceedings. Michaelis B, Krell G (Eds); Lecture Notes in Computer Science, 2781,  Berlin: Springer:  148-155.</bio1>
+<wels>Bauckhage, C.; Thurau, C.; Sagerer, G. (2003): Learning human-like opponent behavior for interactive computer games. In: B. Michaelis; G. Krell (Hrsg.):  Pattern Recognition, Proceedings. Berlin: Springer. (Lecture Notes in Computer Science, 2781, ).  S. 148-155.</wels>
+<default>Bauckhage C, Thurau C, Sagerer G (2003)  &lt;br /&gt;In:  Pattern Recognition, Proceedings. Michaelis B, Krell G (Eds); Lecture Notes in Computer Science, 2781, . Berlin: Springer:  148-155.</default>
+<ieee>C. Bauckhage, C. Thurau, and G. Sagerer, “Learning human-like opponent behavior for interactive computer games”, &lt;em&gt;Pattern Recognition, Proceedings&lt;/em&gt;, B. Michaelis and G. Krell, eds., Lecture Notes in Computer Science, 2781,  Berlin: Springer, 2003,  pp.148-155.</ieee>
+<lncs>Bauckhage, C., Thurau, C., Sagerer, G.: Learning human-like opponent behavior for interactive computer games. In: Michaelis, B. and Krell, G. (eds.) Pattern Recognition, Proceedings. Lecture Notes in Computer Science, 2781. p. 148-155. Springer, Berlin (2003).</lncs>
+<mla>Bauckhage, Christian, Thurau, C., and Sagerer, Gerhard. “Learning human-like opponent behavior for interactive computer games”. &lt;em&gt;Pattern Recognition, Proceedings&lt;/em&gt;. Ed. B. Michaelis and G. Krell. Berlin: Springer, 2003. Lecture Notes in Computer Science, 2781. 148-155.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bauckhage, C., Thurau, C., &amp;amp; Sagerer, G. (2003). Learning human-like opponent behavior for interactive computer games. In B.  Michaelis &amp;amp; G.  Krell (Eds.), &lt;em&gt;Lecture Notes in Computer Science, 2781&lt;/em&gt;&lt;em&gt;. Pattern Recognition, Proceedings&lt;/em&gt; (pp. 148-155). Berlin: Springer.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>C.  Bauckhage, C.  Thurau, and G.  Sagerer, in &lt;em&gt;Pattern Recognition, Proceedings&lt;/em&gt; (Eds.: B. Michaelis, G. Krell), Springer, Berlin, &lt;strong&gt;2003&lt;/strong&gt;, p. 148-155.</angewandte-chemie>
+<apa>Bauckhage, C., Thurau, C., &amp;amp; Sagerer, G. (2003). Learning human-like opponent behavior for interactive computer games. In B.  Michaelis &amp;amp; G.  Krell (Eds.), &lt;em&gt;Lecture Notes in Computer Science, 2781&lt;/em&gt;&lt;em&gt;. Pattern Recognition, Proceedings&lt;/em&gt; (pp. 148-155). Berlin: Springer.</apa>
+<frontiers>Bauckhage, C., Thurau, C., and Sagerer, G. (2003). “Learning human-like opponent behavior for interactive computer games” in &lt;em&gt;Pattern Recognition, Proceedings&lt;/em&gt;, ed. B.  Michaelis and G.  Krell Lecture Notes in Computer Science, 2781 (Berlin: Springer), 148-155.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bauckhage, Christian, Thurau, C., and Sagerer, Gerhard. 2003. “Learning human-like opponent behavior for interactive computer games”. In &lt;em&gt;Pattern Recognition, Proceedings&lt;/em&gt;, ed. B. Michaelis and G. Krell, 148-155. Lecture Notes in Computer Science, 2781. Berlin: Springer.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1609208</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:58:32Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2013-09-25T13:55:51Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1609208</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1609208</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,132 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>A speech understanding and dialog system with a homogeneous linguistic knowledge base</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Marion</namePart>
+  <namePart type="family">Mast</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Franz</namePart>
+  <namePart type="family">Kummert</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10372</identifier></name>
+<name type="personal">
+  <namePart type="given">Ute</namePart>
+  <namePart type="family">Ehrlich</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Gernot A.</namePart>
+  <namePart type="family">Fink</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Thomas</namePart>
+  <namePart type="family">Kuhn</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Heinrich</namePart>
+  <namePart type="family">Niemann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Gerhard</namePart>
+  <namePart type="family">Sagerer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10375</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Angewandte Informatik</namePart>
+  <identifier type="unibi">18304588</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Institute for Cognition and Robotics</namePart>
+  <identifier type="unibi">5408013</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">This article presents the speech understanding and dialog system EVAR. All levels of linguistic knowledge are used both to control the analysis process and for the interpretation of an utterance. All kinds of knowledge are integrated in a homogeneous knowledge base. The control algorithm used for the analysis is defined within the representation scheme and does not depend on the application. &lt;p&gt; One of the aims of EVAR is to develop a system structure where linguistic and non-linguistic expectations could be used not only for the interpretation but also as predictions for the recognition process.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Kummert_019.pdf">https://pub.uni-bielefeld.de/download/1780610/2312971</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1994</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>syntactic and semantic analysis</topic><topic>dialog system</topic><topic>semantic networks</topic><topic>speech understanding</topic><topic>dialog model</topic><topic>problem-independent control</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>IEEE transactions on pattern analysis and machine intelligence</title></titleInfo>
+  <identifier type="issn">0162-8828</identifier>
+  <identifier type="ISI">A1994NA63100005</identifier><identifier type="urn">urn:nbn:de:0070-pub-17806109</identifier><identifier type="doi">10.1109/34.273733</identifier>
+<part><detail type="volume"><number>16</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">179-194</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>M. Mast, et al., “A speech understanding and dialog system with a homogeneous linguistic knowledge base”, &lt;em&gt;IEEE transactions on pattern analysis and machine intelligence&lt;/em&gt;,  vol. 16, 1994,  pp. 179-194.</ieee>
+<lncs>Mast, M., Kummert, F., Ehrlich, U., Fink, G.A., Kuhn, T., Niemann, H., Sagerer, G.: A speech understanding and dialog system with a homogeneous linguistic knowledge base. IEEE transactions on pattern analysis and machine intelligence. 16, 179-194 (1994).</lncs>
+<mla>Mast, Marion, Kummert, Franz, Ehrlich, Ute, Fink, Gernot A., Kuhn, Thomas, Niemann, Heinrich, and Sagerer, Gerhard. “A speech understanding and dialog system with a homogeneous linguistic knowledge base”. &lt;em&gt;IEEE transactions on pattern analysis and machine intelligence&lt;/em&gt; 16.2 (1994): 179-194.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Mast, M., Kummert, F., Ehrlich, U., Fink, G. A., Kuhn, T., Niemann, H., &amp;amp; Sagerer, G. (1994). A speech understanding and dialog system with a homogeneous linguistic knowledge base. &lt;em&gt;IEEE transactions on pattern analysis and machine intelligence&lt;/em&gt;, &lt;em&gt;16&lt;/em&gt;(2), 179-194.&lt;/div&gt;</apa_indent>
+<apa>Mast, M., Kummert, F., Ehrlich, U., Fink, G. A., Kuhn, T., Niemann, H., &amp;amp; Sagerer, G. (1994). A speech understanding and dialog system with a homogeneous linguistic knowledge base. &lt;em&gt;IEEE transactions on pattern analysis and machine intelligence&lt;/em&gt;, &lt;em&gt;16&lt;/em&gt;(2), 179-194.</apa>
+<angewandte-chemie>M.  Mast, F.  Kummert, U.  Ehrlich, G. A.  Fink, T.  Kuhn, H.  Niemann, and G.  Sagerer, “A speech understanding and dialog system with a homogeneous linguistic knowledge base”, &lt;em&gt;IEEE transactions on pattern analysis and machine intelligence&lt;/em&gt;, &lt;strong&gt;1994&lt;/strong&gt;, &lt;em&gt;16&lt;/em&gt;, 179-194.</angewandte-chemie>
+<frontiers>Mast, M., Kummert, F., Ehrlich, U., Fink, G. A., Kuhn, T., Niemann, H., and Sagerer, G. (1994). A speech understanding and dialog system with a homogeneous linguistic knowledge base. &lt;em&gt;IEEE transactions on pattern analysis and machine intelligence&lt;/em&gt; 16, 179-194.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Mast, Marion, Kummert, Franz, Ehrlich, Ute, Fink, Gernot A., Kuhn, Thomas, Niemann, Heinrich, and Sagerer, Gerhard. 1994. “A speech understanding and dialog system with a homogeneous linguistic knowledge base”. &lt;em&gt;IEEE transactions on pattern analysis and machine intelligence&lt;/em&gt; 16 (2): 179-194.&lt;/div&gt;</chicago>
+<ama>Mast M, Kummert F, Ehrlich U, et al. A speech understanding and dialog system with a homogeneous linguistic knowledge base. &lt;em&gt;IEEE transactions on pattern analysis and machine intelligence&lt;/em&gt;. 1994;16(2):179-194.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Mast, M., Kummert, F., Ehrlich, U., Fink, G.A., Kuhn, T., Niemann, H. &amp;amp; Sagerer, G. (1994). A speech understanding and dialog system with a homogeneous linguistic knowledge base. &lt;em&gt;IEEE transactions on pattern analysis and machine intelligence&lt;/em&gt;, &lt;em&gt;16&lt;/em&gt;(2), 179-194. doi:10.1109/34.273733.&lt;/div&gt;</dgps>
+<harvard1>Mast, M., et al., 1994. A speech understanding and dialog system with a homogeneous linguistic knowledge base. &lt;em&gt;IEEE transactions on pattern analysis and machine intelligence&lt;/em&gt;, 16(2), p 179-194.</harvard1>
+<aps>M.  Mast, et al., A speech understanding and dialog system with a homogeneous linguistic knowledge base, IEEE transactions on pattern analysis and machine intelligence &lt;strong&gt;16&lt;/strong&gt;, 179-194 (1994).</aps>
+<bio1>Mast M, Kummert F, Ehrlich U, Fink GA, Kuhn T, Niemann H, Sagerer G (1994) &lt;br /&gt;A speech understanding and dialog system with a homogeneous linguistic knowledge base.&lt;br /&gt;IEEE transactions on pattern analysis and machine intelligence 16(2): 179-194.</bio1>
+<wels>Mast, M.; Kummert, F.; Ehrlich, U.; Fink, G. A.; Kuhn, T.; Niemann, H.; Sagerer, G. (1994): A speech understanding and dialog system with a homogeneous linguistic knowledge base &lt;em&gt;IEEE transactions on pattern analysis and machine intelligence&lt;/em&gt;,16:(2): 179-194.</wels>
+<default>Mast M, Kummert F, Ehrlich U, Fink GA, Kuhn T, Niemann H, Sagerer G (1994) &lt;br /&gt;IEEE transactions on pattern analysis and machine intelligence 16(2): 179-194.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780610</recordIdentifier><recordChangeDate encoding="w3cdtf">2013-06-27T12:36:55Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780610</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780610</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

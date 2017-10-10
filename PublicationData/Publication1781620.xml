@@ -1,0 +1,104 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Changes in the student role</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ludwig</namePart>
+  <namePart type="family">Huber</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">172028</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10061</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10021</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT2607.pdf">https://pub.uni-bielefeld.de/download/1781620/2313378</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1987</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Studies in higher education</title></titleInfo>
+  <identifier type="issn">0307-5079</identifier><identifier type="urn">urn:nbn:de:0070-bipr-26071</identifier>
+<part><detail type="volume"><number>12</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">157-168</extent>
+</part>
+</relatedItem>
+
+<note type="nonBielefeld">yes</note>
+<extension>
+<bibliographicCitation>
+<frontiers>Huber, L. (1987). Changes in the student role. &lt;em&gt;Studies in higher education&lt;/em&gt; 12, 157-168.</frontiers>
+<angewandte-chemie>L.  Huber, “Changes in the student role”, &lt;em&gt;Studies in higher education&lt;/em&gt;, &lt;strong&gt;1987&lt;/strong&gt;, &lt;em&gt;12&lt;/em&gt;, 157-168.</angewandte-chemie>
+<apa>Huber, L. (1987). Changes in the student role. &lt;em&gt;Studies in higher education&lt;/em&gt;, &lt;em&gt;12&lt;/em&gt;(2), 157-168.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Huber, Ludwig. 1987. “Changes in the student role”. &lt;em&gt;Studies in higher education&lt;/em&gt; 12 (2): 157-168.&lt;/div&gt;</chicago>
+<mla>Huber, Ludwig. “Changes in the student role”. &lt;em&gt;Studies in higher education&lt;/em&gt; 12.2 (1987): 157-168.</mla>
+<lncs> Huber, L.: Changes in the student role. Studies in higher education. 12, 157-168 (1987).</lncs>
+<ieee> L. Huber, “Changes in the student role”, &lt;em&gt;Studies in higher education&lt;/em&gt;,  vol. 12, 1987,  pp. 157-168.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Huber, L. (1987). Changes in the student role. &lt;em&gt;Studies in higher education&lt;/em&gt;, &lt;em&gt;12&lt;/em&gt;(2), 157-168.&lt;/div&gt;</apa_indent>
+<default>Huber L (1987) &lt;br /&gt;Studies in higher education 12(2): 157-168.</default>
+<wels>Huber, L. (1987): Changes in the student role &lt;em&gt;Studies in higher education&lt;/em&gt;,12:(2): 157-168.</wels>
+<bio1>Huber L (1987) &lt;br /&gt;Changes in the student role.&lt;br /&gt;Studies in higher education 12(2): 157-168.</bio1>
+<aps> L.  Huber, Changes in the student role, Studies in higher education &lt;strong&gt;12&lt;/strong&gt;, 157-168 (1987).</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Huber, L. (1987). Changes in the student role. &lt;em&gt;Studies in higher education&lt;/em&gt;, &lt;em&gt;12&lt;/em&gt;(2), 157-168.&lt;/div&gt;</dgps>
+<ama>Huber L. Changes in the student role. &lt;em&gt;Studies in higher education&lt;/em&gt;. 1987;12(2):157-168.</ama>
+<harvard1>Huber, L., 1987. Changes in the student role. &lt;em&gt;Studies in higher education&lt;/em&gt;, 12(2), p 157-168.</harvard1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781620</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-08-11T10:39:43Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-08-11T10:39:43Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781620</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781620</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

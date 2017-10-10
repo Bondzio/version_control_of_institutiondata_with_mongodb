@@ -1,0 +1,99 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Perfect minimally adaptive q-ary search with unreliable tests</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Ferdinando</namePart>
+  <namePart type="family">Cicalese</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">Deppe</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10503</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We consider the problem of determining the minimum number of queries to find an unknown number in a finite set when up to a finite number e of the answers may be erroneous. In the vast literature regarding this problem, mostly the classical case of binary search is considered, i.e., when only yes-no questions are allowed. In this paper we consider a generalization of the problem which arises when questions with q many possible answers are allowed, q fixed and known beforehand. We prove that at most one question more than the information theoretic lower bound is sufficient to successfully find the unknown number. Moreover, we prove that there are infinitely many cases when the information theoretic lower bound is exactly attained and so-called perfect strategies exist. Our results are constructive and the search strategies are provided. An important issue in the area of combinatorial search is reducing adaptiveness in search strategies. We prove that the above bounds are attainable by strategies which use adaptiveness only once, a fundamental property in many practical situations. In terms of minimization of adaptiveness, this is the best possible result, since complete elimination of adaptiveness is impossible in general without significantly increasing the strategy length. (c) 2005 Elsevier B.V. All rights reserved.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>error-correcting codes</topic><topic>adaptiveness</topic><topic>Ulam-Renyi game</topic><topic>lies</topic><topic>search algorithms</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF STATISTICAL PLANNING AND INFERENCE</title></titleInfo>
+  <identifier type="issn">0378-3758</identifier>
+  <identifier type="ISI">000241099000014</identifier><identifier type="doi">10.1016/j.jspi.2005.10.005</identifier>
+<part><detail type="volume"><number>137</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">162-175</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cicalese, Ferdinando, and Deppe, Christian. 2007. “Perfect minimally adaptive q-ary search with unreliable tests”. &lt;em&gt;JOURNAL OF STATISTICAL PLANNING AND INFERENCE&lt;/em&gt; 137 (1): 162-175.&lt;/div&gt;</chicago>
+<apa>Cicalese, F., &amp;amp; Deppe, C. (2007). Perfect minimally adaptive q-ary search with unreliable tests. &lt;em&gt;JOURNAL OF STATISTICAL PLANNING AND INFERENCE&lt;/em&gt;, &lt;em&gt;137&lt;/em&gt;(1), 162-175.</apa>
+<angewandte-chemie>F.  Cicalese, and C.  Deppe, “Perfect minimally adaptive q-ary search with unreliable tests”, &lt;em&gt;JOURNAL OF STATISTICAL PLANNING AND INFERENCE&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;137&lt;/em&gt;, 162-175.</angewandte-chemie>
+<frontiers>Cicalese, F., and Deppe, C. (2007). Perfect minimally adaptive q-ary search with unreliable tests. &lt;em&gt;JOURNAL OF STATISTICAL PLANNING AND INFERENCE&lt;/em&gt; 137, 162-175.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cicalese, F., &amp;amp; Deppe, C. (2007). Perfect minimally adaptive q-ary search with unreliable tests. &lt;em&gt;JOURNAL OF STATISTICAL PLANNING AND INFERENCE&lt;/em&gt;, &lt;em&gt;137&lt;/em&gt;(1), 162-175.&lt;/div&gt;</apa_indent>
+<ieee> F. Cicalese and C. Deppe, “Perfect minimally adaptive q-ary search with unreliable tests”, &lt;em&gt;JOURNAL OF STATISTICAL PLANNING AND INFERENCE&lt;/em&gt;,  vol. 137, 2007,  pp. 162-175.</ieee>
+<lncs> Cicalese, F., Deppe, C.: Perfect minimally adaptive q-ary search with unreliable tests. JOURNAL OF STATISTICAL PLANNING AND INFERENCE. 137, 162-175 (2007).</lncs>
+<mla>Cicalese, Ferdinando, and Deppe, Christian. “Perfect minimally adaptive q-ary search with unreliable tests”. &lt;em&gt;JOURNAL OF STATISTICAL PLANNING AND INFERENCE&lt;/em&gt; 137.1 (2007): 162-175.</mla>
+<wels>Cicalese, F.; Deppe, C. (2007): Perfect minimally adaptive q-ary search with unreliable tests &lt;em&gt;JOURNAL OF STATISTICAL PLANNING AND INFERENCE&lt;/em&gt;,137:(1): 162-175.</wels>
+<default>Cicalese F, Deppe C (2007) &lt;br /&gt;JOURNAL OF STATISTICAL PLANNING AND INFERENCE 137(1): 162-175.</default>
+<ama>Cicalese F, Deppe C. Perfect minimally adaptive q-ary search with unreliable tests. &lt;em&gt;JOURNAL OF STATISTICAL PLANNING AND INFERENCE&lt;/em&gt;. 2007;137(1):162-175.</ama>
+<harvard1>Cicalese, F., &amp;amp; Deppe, C., 2007. Perfect minimally adaptive q-ary search with unreliable tests. &lt;em&gt;JOURNAL OF STATISTICAL PLANNING AND INFERENCE&lt;/em&gt;, 137(1), p 162-175.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cicalese, F. &amp;amp; Deppe, C. (2007). Perfect minimally adaptive q-ary search with unreliable tests. &lt;em&gt;JOURNAL OF STATISTICAL PLANNING AND INFERENCE&lt;/em&gt;, &lt;em&gt;137&lt;/em&gt;(1), 162-175. ELSEVIER SCIENCE BV. doi:10.1016/j.jspi.2005.10.005.&lt;/div&gt;</dgps>
+<bio1>Cicalese F, Deppe C (2007) &lt;br /&gt;Perfect minimally adaptive q-ary search with unreliable tests.&lt;br /&gt;JOURNAL OF STATISTICAL PLANNING AND INFERENCE 137(1): 162-175.</bio1>
+<aps> F.  Cicalese and C.  Deppe, Perfect minimally adaptive q-ary search with unreliable tests, JOURNAL OF STATISTICAL PLANNING AND INFERENCE &lt;strong&gt;137&lt;/strong&gt;, 162-175 (2007).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1597509</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:18:54Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-12T11:44:02Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1597509</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1597509</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

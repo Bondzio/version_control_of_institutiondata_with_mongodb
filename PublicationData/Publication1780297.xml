@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Obdachlose in Köln: Bericht über eine Längsschnittstudie</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Günter</namePart>
+  <namePart type="family">Albrecht</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">13192</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für interdisziplinäre Konflikt- und Gewaltforschung</namePart>
+  <identifier type="unibi">10058</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Albrecht_007.pdf">https://pub.uni-bielefeld.de/download/1780297/2312857</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Juventa-Verl.</publisher><dateIssued encoding="w3cdtf">1973</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+<subject><topic>Randgruppenarbeit</topic><topic>Obdachlosenarbeit</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Randgruppenarbeit: Analysen und Projekte aus der Arbeit mit Obdachlosen</title></titleInfo>
+  <identifier type="isbn">3-7799-0609-0</identifier><identifier type="urn">urn:nbn:de:0070-bipr-20425</identifier>
+<part><extent unit="pages">29-58</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>G. Albrecht, “Obdachlose in Köln: Bericht über eine Längsschnittstudie”, &lt;em&gt;Randgruppenarbeit: Analysen und Projekte aus der Arbeit mit Obdachlosen&lt;/em&gt;, Juventa-Materialien ; 9,  München: Juventa-Verl., 1973,  pp.29-58.</ieee>
+<lncs>Albrecht, G.: Obdachlose in Köln: Bericht über eine Längsschnittstudie. Randgruppenarbeit: Analysen und Projekte aus der Arbeit mit Obdachlosen. Juventa-Materialien ; 9. p. 29-58. Juventa-Verl., München (1973).</lncs>
+<mla>Albrecht, Günter. “Obdachlose in Köln: Bericht über eine Längsschnittstudie”. &lt;em&gt;Randgruppenarbeit: Analysen und Projekte aus der Arbeit mit Obdachlosen&lt;/em&gt;. München: Juventa-Verl., 1973. Juventa-Materialien ; 9. 29-58.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Albrecht, G. (1973). Obdachlose in Köln: Bericht über eine Längsschnittstudie. &lt;em&gt;Randgruppenarbeit: Analysen und Projekte aus der Arbeit mit Obdachlosen&lt;/em&gt;, 29-58.&lt;/div&gt;</apa_indent>
+<apa>Albrecht, G. (1973). Obdachlose in Köln: Bericht über eine Längsschnittstudie. &lt;em&gt;Randgruppenarbeit: Analysen und Projekte aus der Arbeit mit Obdachlosen&lt;/em&gt;, 29-58.</apa>
+<angewandte-chemie>G.  Albrecht, in &lt;em&gt;Randgruppenarbeit: Analysen und Projekte aus der Arbeit mit Obdachlosen&lt;/em&gt;, Juventa-Verl., München, &lt;strong&gt;1973&lt;/strong&gt;, p. 29-58.</angewandte-chemie>
+<frontiers>Albrecht, G. (1973). “Obdachlose in Köln: Bericht über eine Längsschnittstudie” in &lt;em&gt;Randgruppenarbeit: Analysen und Projekte aus der Arbeit mit Obdachlosen&lt;/em&gt; Juventa-Materialien ; 9 (München: Juventa-Verl.), 29-58.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Albrecht, Günter. 1973. “Obdachlose in Köln: Bericht über eine Längsschnittstudie”. In &lt;em&gt;Randgruppenarbeit: Analysen und Projekte aus der Arbeit mit Obdachlosen&lt;/em&gt;, 29-58. Juventa-Materialien ; 9. München: Juventa-Verl.&lt;/div&gt;</chicago>
+<harvard1>Albrecht, G., 1973. Obdachlose in Köln: Bericht über eine Längsschnittstudie. In &lt;em&gt;Randgruppenarbeit: Analysen und Projekte aus der Arbeit mit Obdachlosen&lt;/em&gt;. Juventa-Materialien ; 9.  München: Juventa-Verl., pp. 29-58.</harvard1>
+<ama>Albrecht G. Obdachlose in Köln: Bericht über eine Längsschnittstudie. In:  &lt;em&gt;Randgruppenarbeit: Analysen und Projekte aus der Arbeit mit Obdachlosen&lt;/em&gt;. Juventa-Materialien ; 9. München: Juventa-Verl.;  1973: 29-58.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Albrecht, G. (1973). Obdachlose in Köln: Bericht über eine Längsschnittstudie (Juventa-Materialien ; 9). &lt;em&gt;Randgruppenarbeit: Analysen und Projekte aus der Arbeit mit Obdachlosen&lt;/em&gt; (S. 29-58). München: Juventa-Verl.&lt;/div&gt;</dgps>
+<bio1>Albrecht G (1973) &lt;br /&gt;Obdachlose in Köln: Bericht über eine Längsschnittstudie. &lt;br /&gt;In:  Randgruppenarbeit: Analysen und Projekte aus der Arbeit mit Obdachlosen.  Juventa-Materialien ; 9,  München: Juventa-Verl.:  29-58.</bio1>
+<aps>G.  Albrecht, Obdachlose in Köln: Bericht über eine Längsschnittstudie, in &lt;em&gt;Randgruppenarbeit: Analysen und Projekte aus der Arbeit mit Obdachlosen&lt;/em&gt;, Juventa-Materialien ; 9 (Juventa-Verl., München, 1973), p. 29-58.</aps>
+<wels>Albrecht, G. (1973): Obdachlose in Köln: Bericht über eine Längsschnittstudie. In: Randgruppenarbeit: Analysen und Projekte aus der Arbeit mit Obdachlosen. München: Juventa-Verl. (Juventa-Materialien ; 9, ).  S. 29-58.</wels>
+<default>Albrecht G (1973)  &lt;br /&gt;In:  Randgruppenarbeit: Analysen und Projekte aus der Arbeit mit Obdachlosen.  Juventa-Materialien ; 9, . München: Juventa-Verl.:  29-58.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780297</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780297</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780297</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

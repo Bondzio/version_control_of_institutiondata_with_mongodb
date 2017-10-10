@@ -1,0 +1,125 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Human vs. machine: evaluation of fluorescence micrographs</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Tim Wilhelm</namePart>
+  <namePart type="family">Nattkemper</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11602</identifier></name>
+<name type="personal">
+  <namePart type="given">Thorsten</namePart>
+  <namePart type="family">Twellmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">177120</identifier></name>
+<name type="personal">
+  <namePart type="given">Helge</namePart>
+  <namePart type="family">Ritter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">91130</identifier></name>
+<name type="personal">
+  <namePart type="given">Walter</namePart>
+  <namePart type="family">Schubert</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10038</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33067409</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">To enable high-throughput screening of molecular phenotypes, multi-parameter fluorescence microscopy is applied. Object of our study is lymphocytes which invade human tissue. One important basis for our collaborative project is the development of methods for automatic and accurate evaluation of fluorescence micrographs. As a part of this, we focus on the question of how to measure the accuracy of microscope image interpretation, by human experts or a computer system. Following standard practice we use methods motivated by receiver operator characteristics to discuss the accuracies of human experts and of neural network-based algorithms. For images of good quality the algorithms achieve the accuracy of the medium-skilled experts. In images with increased noise, the classifiers are outperformed by some of the experts. Furthermore, the neural network-based cell detection is much faster than the human experts.</abstract>
+
+<originInfo><publisher>Pergamon-Elsevier</publisher><dateIssued encoding="w3cdtf">2003</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>screening (HTS)</topic><topic>(ROC)</topic><topic>high-throughput</topic><topic>receiver operator characteristics</topic><topic>neural networks</topic><topic>fluorescence microscopy</topic><topic>functional proteomics</topic>
+</subject>
+
+<relatedItem type="host"><location><url>http://www.computersinbiologyandmedicine.com/article/S0010-4825(02)00060-4/abstract</url></location></relatedItem>
+
+<relatedItem type="host"><titleInfo><title>Computers in Biology and Medicine</title></titleInfo>
+  <identifier type="issn">0010-4825</identifier>
+  <identifier type="MEDLINE">12485628</identifier>
+  <identifier type="ISI">000180493700003</identifier><identifier type="doi">10.1016/S0010-4825(02)00060-4</identifier>
+<part><detail type="volume"><number>33</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">31-43</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Nattkemper, Tim Wilhelm, Twellmann, Thorsten, Ritter, Helge, and Schubert, Walter. 2003. “Human vs. machine: evaluation of fluorescence micrographs”. &lt;em&gt;Computers in Biology and Medicine&lt;/em&gt; 33 (1): 31-43.&lt;/div&gt;</chicago>
+<apa>Nattkemper, T. W., Twellmann, T., Ritter, H., &amp;amp; Schubert, W. (2003). Human vs. machine: evaluation of fluorescence micrographs. &lt;em&gt;Computers in Biology and Medicine&lt;/em&gt;, &lt;em&gt;33&lt;/em&gt;(1), 31-43.</apa>
+<angewandte-chemie>T. W.  Nattkemper, T.  Twellmann, H.  Ritter, and W.  Schubert, “Human vs. machine: evaluation of fluorescence micrographs”, &lt;em&gt;Computers in Biology and Medicine&lt;/em&gt;, &lt;strong&gt;2003&lt;/strong&gt;, &lt;em&gt;33&lt;/em&gt;, 31-43.</angewandte-chemie>
+<frontiers>Nattkemper, T. W., Twellmann, T., Ritter, H., and Schubert, W. (2003). Human vs. machine: evaluation of fluorescence micrographs. &lt;em&gt;Computers in Biology and Medicine&lt;/em&gt; 33, 31-43.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Nattkemper, T. W., Twellmann, T., Ritter, H., &amp;amp; Schubert, W. (2003). Human vs. machine: evaluation of fluorescence micrographs. &lt;em&gt;Computers in Biology and Medicine&lt;/em&gt;, &lt;em&gt;33&lt;/em&gt;(1), 31-43.&lt;/div&gt;</apa_indent>
+<ieee>T.W. Nattkemper, et al., “Human vs. machine: evaluation of fluorescence micrographs”, &lt;em&gt;Computers in Biology and Medicine&lt;/em&gt;,  vol. 33, 2003,  pp. 31-43.</ieee>
+<lncs>Nattkemper, T.W., Twellmann, T., Ritter, H., Schubert, W.: Human vs. machine: evaluation of fluorescence micrographs. Computers in Biology and Medicine. 33, 31-43 (2003).</lncs>
+<mla>Nattkemper, Tim Wilhelm, Twellmann, Thorsten, Ritter, Helge, and Schubert, Walter. “Human vs. machine: evaluation of fluorescence micrographs”. &lt;em&gt;Computers in Biology and Medicine&lt;/em&gt; 33.1 (2003): 31-43.</mla>
+<wels>Nattkemper, T. W.; Twellmann, T.; Ritter, H.; Schubert, W. (2003): Human vs. machine: evaluation of fluorescence micrographs &lt;em&gt;Computers in Biology and Medicine&lt;/em&gt;,33:(1): 31-43.</wels>
+<default>Nattkemper TW, Twellmann T, Ritter H, Schubert W (2003) &lt;br /&gt;Computers in Biology and Medicine 33(1): 31-43.</default>
+<harvard1>Nattkemper, T.W., et al., 2003. Human vs. machine: evaluation of fluorescence micrographs. &lt;em&gt;Computers in Biology and Medicine&lt;/em&gt;, 33(1), p 31-43.</harvard1>
+<ama>Nattkemper TW, Twellmann T, Ritter H, Schubert W. Human vs. machine: evaluation of fluorescence micrographs. &lt;em&gt;Computers in Biology and Medicine&lt;/em&gt;. 2003;33(1):31-43.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Nattkemper, T.W., Twellmann, T., Ritter, H. &amp;amp; Schubert, W. (2003). Human vs. machine: evaluation of fluorescence micrographs. &lt;em&gt;Computers in Biology and Medicine&lt;/em&gt;, &lt;em&gt;33&lt;/em&gt;(1), 31-43. Pergamon-Elsevier. doi:10.1016/S0010-4825(02)00060-4.&lt;/div&gt;</dgps>
+<bio1>Nattkemper TW, Twellmann T, Ritter H, Schubert W (2003) &lt;br /&gt;Human vs. machine: evaluation of fluorescence micrographs.&lt;br /&gt;Computers in Biology and Medicine 33(1): 31-43.</bio1>
+<aps>T. W.  Nattkemper, et al., Human vs. machine: evaluation of fluorescence micrographs, Computers in Biology and Medicine &lt;strong&gt;33&lt;/strong&gt;, 31-43 (2003).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1612741</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:00:16Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-06-01T07:42:58Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1612741</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1612741</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,104 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Isotope selection in distance measurements between nitroxides</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">G</namePart>
+  <namePart type="family">Jeschke</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">H</namePart>
+  <namePart type="family">Zimmermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Adelheid</namePart>
+  <namePart type="family">Godt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">101324</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Organische Chemie II</namePart>
+  <identifier type="unibi">17976</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Self-assembly of spin-labeled synthetic macromolecules or biomacrornolecules can lead to structures that contain more than two nitroxide radicals. Label-to-label distance distributions are then poorly resolved since established electron paramagnetic resonance techniques for distance measurements cannot select between the different pairs of nitroxides. A separation into different contributions can be achieved by partially labeling the nitroxide radicals by N-15 or by deuterium and applying pulse electron electron double resonance techniques. With N-15 labeling, strong suppression of either the N-14 or the N-15 contribution can be achieved by Suitable choices of the excitation bandwidths and frequencies of the observer subsequence and pump pulse and linear combination of data sets. With deuterium labeling, interactions between only the isotope-labeled nitroxides can be selected by a two-dimensional version of the four-pulse double electron electron resonance experiment. This selection is based on the deep electron spin echo envelope modulation of deuterated nitroxides. (c) 2006 Elsevier Inc. All rights reserved.</abstract>
+
+<originInfo><publisher>ACADEMIC PRESS INC ELSEVIER SCIENCE</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>EPR</topic><topic>spin labeling</topic><topic>protein structure</topic><topic>ESEEM</topic><topic>ELDOR</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF MAGNETIC RESONANCE</title></titleInfo>
+  <identifier type="issn">1090-7807</identifier>
+  <identifier type="MEDLINE">16495097</identifier>
+  <identifier type="ISI">000236978400015</identifier><identifier type="doi">10.1016/j.jmr.2006.02.002</identifier>
+<part><detail type="volume"><number>180</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">137-146</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<harvard1>Jeschke, G., Zimmermann, H., &amp;amp; Godt, A., 2006. Isotope selection in distance measurements between nitroxides. &lt;em&gt;JOURNAL OF MAGNETIC RESONANCE&lt;/em&gt;, 180(1), p 137-146.</harvard1>
+<ama>Jeschke G, Zimmermann H, Godt A. Isotope selection in distance measurements between nitroxides. &lt;em&gt;JOURNAL OF MAGNETIC RESONANCE&lt;/em&gt;. 2006;180(1):137-146.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Jeschke, G., Zimmermann, H. &amp;amp; Godt, A. (2006). Isotope selection in distance measurements between nitroxides. &lt;em&gt;JOURNAL OF MAGNETIC RESONANCE&lt;/em&gt;, &lt;em&gt;180&lt;/em&gt;(1), 137-146. ACADEMIC PRESS INC ELSEVIER SCIENCE. doi:10.1016/j.jmr.2006.02.002.&lt;/div&gt;</dgps>
+<aps>G.  Jeschke, H.  Zimmermann, and A.  Godt, Isotope selection in distance measurements between nitroxides, JOURNAL OF MAGNETIC RESONANCE &lt;strong&gt;180&lt;/strong&gt;, 137-146 (2006).</aps>
+<bio1>Jeschke G, Zimmermann H, Godt A (2006) &lt;br /&gt;Isotope selection in distance measurements between nitroxides.&lt;br /&gt;JOURNAL OF MAGNETIC RESONANCE 180(1): 137-146.</bio1>
+<wels>Jeschke, G.; Zimmermann, H.; Godt, A. (2006): Isotope selection in distance measurements between nitroxides &lt;em&gt;JOURNAL OF MAGNETIC RESONANCE&lt;/em&gt;,180:(1): 137-146.</wels>
+<default>Jeschke G, Zimmermann H, Godt A (2006) &lt;br /&gt;JOURNAL OF MAGNETIC RESONANCE 180(1): 137-146.</default>
+<ieee>G. Jeschke, H. Zimmermann, and A. Godt, “Isotope selection in distance measurements between nitroxides”, &lt;em&gt;JOURNAL OF MAGNETIC RESONANCE&lt;/em&gt;,  vol. 180, 2006,  pp. 137-146.</ieee>
+<lncs>Jeschke, G., Zimmermann, H., Godt, A.: Isotope selection in distance measurements between nitroxides. JOURNAL OF MAGNETIC RESONANCE. 180, 137-146 (2006).</lncs>
+<mla>Jeschke, G, Zimmermann, H, and Godt, Adelheid. “Isotope selection in distance measurements between nitroxides”. &lt;em&gt;JOURNAL OF MAGNETIC RESONANCE&lt;/em&gt; 180.1 (2006): 137-146.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Jeschke, G., Zimmermann, H., &amp;amp; Godt, A. (2006). Isotope selection in distance measurements between nitroxides. &lt;em&gt;JOURNAL OF MAGNETIC RESONANCE&lt;/em&gt;, &lt;em&gt;180&lt;/em&gt;(1), 137-146.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>G.  Jeschke, H.  Zimmermann, and A.  Godt, “Isotope selection in distance measurements between nitroxides”, &lt;em&gt;JOURNAL OF MAGNETIC RESONANCE&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;180&lt;/em&gt;, 137-146.</angewandte-chemie>
+<apa>Jeschke, G., Zimmermann, H., &amp;amp; Godt, A. (2006). Isotope selection in distance measurements between nitroxides. &lt;em&gt;JOURNAL OF MAGNETIC RESONANCE&lt;/em&gt;, &lt;em&gt;180&lt;/em&gt;(1), 137-146.</apa>
+<frontiers>Jeschke, G., Zimmermann, H., and Godt, A. (2006). Isotope selection in distance measurements between nitroxides. &lt;em&gt;JOURNAL OF MAGNETIC RESONANCE&lt;/em&gt; 180, 137-146.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Jeschke, G, Zimmermann, H, and Godt, Adelheid. 2006. “Isotope selection in distance measurements between nitroxides”. &lt;em&gt;JOURNAL OF MAGNETIC RESONANCE&lt;/em&gt; 180 (1): 137-146.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1599559</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:30:49Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-07T08:31:02Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1599559</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1599559</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

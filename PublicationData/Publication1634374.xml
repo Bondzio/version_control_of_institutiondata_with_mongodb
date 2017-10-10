@@ -1,0 +1,123 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>mkESA: enhanced suffix array construction tool</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Robert</namePart>
+  <namePart type="family">Homann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">174590</identifier></name>
+<name type="personal">
+  <namePart type="given">David</namePart>
+  <namePart type="family">Fleer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">16192163</identifier></name>
+<name type="personal">
+  <namePart type="given">Robert</namePart>
+  <namePart type="family">Giegerich</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">147565</identifier></name>
+<name type="personal">
+  <namePart type="given">Marc</namePart>
+  <namePart type="family">Rehmsmeier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11601931</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Research Group R. Giegerich</namePart>
+  <identifier type="unibi">33067120</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Praktische Informatik</namePart>
+  <identifier type="unibi">10039</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We introduce the tool mkESA, an open source program for constructing enhanced suffix arrays (ESAs), striving for low memory consumption, yet high practical speed. mkESA is a user-friendly program written in portable C99, based on a parallelized version of the Deep-Shallow suffix array construction algorithm, which is known for its high speed and small memory usage. The tool handles large FASTA files with multiple sequences, and computes suffix arrays and various additional tables, such as the LCP table (longest common prefix) or the inverse suffix array, from given sequence data.</abstract>
+
+<originInfo><publisher>Oxford University Press (OUP)</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Bioinformatics</title></titleInfo>
+  <identifier type="issn">1367-4803</identifier>
+  <identifier type="eIssn">1460-2059</identifier>
+  <identifier type="MEDLINE">19246510</identifier>
+  <identifier type="ISI">000265094400018</identifier><identifier type="doi">10.1093/bioinformatics/btp112</identifier>
+<part><detail type="volume"><number>25</number></detail><detail type="issue"><number>8</number></detail><extent unit="pages">1084-1085</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Homann, R., Fleer, D., Giegerich, R. &amp;amp; Rehmsmeier, M. (2009). mkESA: enhanced suffix array construction tool. &lt;em&gt;Bioinformatics&lt;/em&gt;, &lt;em&gt;25&lt;/em&gt;(8), 1084-1085. Oxford University Press (OUP). doi:10.1093/bioinformatics/btp112.&lt;/div&gt;</dgps>
+<harvard1>Homann, R., et al., 2009. mkESA: enhanced suffix array construction tool. &lt;em&gt;Bioinformatics&lt;/em&gt;, 25(8), p 1084-1085.</harvard1>
+<ama>Homann R, Fleer D, Giegerich R, Rehmsmeier M. mkESA: enhanced suffix array construction tool. &lt;em&gt;Bioinformatics&lt;/em&gt;. 2009;25(8):1084-1085.</ama>
+<bio1>Homann R, Fleer D, Giegerich R, Rehmsmeier M (2009) &lt;br /&gt;mkESA: enhanced suffix array construction tool.&lt;br /&gt;Bioinformatics 25(8): 1084-1085.</bio1>
+<aps>R.  Homann, et al., mkESA: enhanced suffix array construction tool, Bioinformatics &lt;strong&gt;25&lt;/strong&gt;, 1084-1085 (2009).</aps>
+<wels>Homann, R.; Fleer, D.; Giegerich, R.; Rehmsmeier, M. (2009): mkESA: enhanced suffix array construction tool &lt;em&gt;Bioinformatics&lt;/em&gt;,25:(8): 1084-1085.</wels>
+<default>Homann R, Fleer D, Giegerich R, Rehmsmeier M (2009) &lt;br /&gt;Bioinformatics 25(8): 1084-1085.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Homann, R., Fleer, D., Giegerich, R., &amp;amp; Rehmsmeier, M. (2009). mkESA: enhanced suffix array construction tool. &lt;em&gt;Bioinformatics&lt;/em&gt;, &lt;em&gt;25&lt;/em&gt;(8), 1084-1085.&lt;/div&gt;</apa_indent>
+<ieee>R. Homann, et al., “mkESA: enhanced suffix array construction tool”, &lt;em&gt;Bioinformatics&lt;/em&gt;,  vol. 25, 2009,  pp. 1084-1085.</ieee>
+<lncs>Homann, R., Fleer, D., Giegerich, R., Rehmsmeier, M.: mkESA: enhanced suffix array construction tool. Bioinformatics. 25, 1084-1085 (2009).</lncs>
+<mla>Homann, Robert, Fleer, David, Giegerich, Robert, and Rehmsmeier, Marc. “mkESA: enhanced suffix array construction tool”. &lt;em&gt;Bioinformatics&lt;/em&gt; 25.8 (2009): 1084-1085.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Homann, Robert, Fleer, David, Giegerich, Robert, and Rehmsmeier, Marc. 2009. “mkESA: enhanced suffix array construction tool”. &lt;em&gt;Bioinformatics&lt;/em&gt; 25 (8): 1084-1085.&lt;/div&gt;</chicago>
+<angewandte-chemie>R.  Homann, D.  Fleer, R.  Giegerich, and M.  Rehmsmeier, “mkESA: enhanced suffix array construction tool”, &lt;em&gt;Bioinformatics&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;25&lt;/em&gt;, 1084-1085.</angewandte-chemie>
+<apa>Homann, R., Fleer, D., Giegerich, R., &amp;amp; Rehmsmeier, M. (2009). mkESA: enhanced suffix array construction tool. &lt;em&gt;Bioinformatics&lt;/em&gt;, &lt;em&gt;25&lt;/em&gt;(8), 1084-1085.</apa>
+<frontiers>Homann, R., Fleer, D., Giegerich, R., and Rehmsmeier, M. (2009). mkESA: enhanced suffix array construction tool. &lt;em&gt;Bioinformatics&lt;/em&gt; 25, 1084-1085.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1634374</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:17Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-10-06T13:56:29Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1634374</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1634374</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

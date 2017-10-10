@@ -1,0 +1,102 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Humboldt im Ranking</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Peter</namePart>
+  <namePart type="family">Weingart</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">76942</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Andreas</namePart><namePart type="family">Schlüter</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Peter</namePart><namePart type="family">Strohschneider</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10061</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">5656064</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Berlin-Verlag</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Bildung? Bildung! 26 Thesen zur Bildungs als Herausforderung im 21. Jahrhundert</title></titleInfo>
+  <identifier type="isbn">978-3-8270-0849-7</identifier>
+<part><extent unit="pages">249</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Weingart P. Humboldt im Ranking. In: Schlüter A, Strohschneider P, eds. &lt;em&gt;Bildung? Bildung! 26 Thesen zur Bildungs als Herausforderung im 21. Jahrhundert&lt;/em&gt;. Berlin: Berlin-Verlag;  2009.</ama>
+<harvard1>Weingart, P., 2009. Humboldt im Ranking. In A.  Schlüter &amp;amp; P.   Strohschneider, eds. &lt;em&gt;Bildung? Bildung! 26 Thesen zur Bildungs als Herausforderung im 21. Jahrhundert&lt;/em&gt;.  Berlin: Berlin-Verlag.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Weingart, P. (2009). Humboldt im Ranking. &lt;em&gt;Bildung? Bildung! 26 Thesen zur Bildungs als Herausforderung im 21. Jahrhundert&lt;/em&gt;. Berlin: Berlin-Verlag.&lt;/div&gt;</dgps>
+<bio1>Weingart P (2009) &lt;br /&gt;Humboldt im Ranking. &lt;br /&gt;In:  Bildung? Bildung! 26 Thesen zur Bildungs als Herausforderung im 21. Jahrhundert. Schlüter A, Strohschneider P (Eds); Berlin: Berlin-Verlag.</bio1>
+<aps>P.  Weingart, Humboldt im Ranking, in &lt;em&gt;Bildung? Bildung! 26 Thesen zur Bildungs als Herausforderung im 21. Jahrhundert&lt;/em&gt;, edited by A.  Schlüter and P.   Strohschneider (Berlin-Verlag, Berlin, 2009).</aps>
+<wels>Weingart, P. (2009): Humboldt im Ranking. In: Andreas Schlüter; Peter  Strohschneider (Hrsg.):  Bildung? Bildung! 26 Thesen zur Bildungs als Herausforderung im 21. Jahrhundert. Berlin: Berlin-Verlag.</wels>
+<default>Weingart P (2009)  &lt;br /&gt;In:  Bildung? Bildung! 26 Thesen zur Bildungs als Herausforderung im 21. Jahrhundert. Schlüter A, Strohschneider P (Eds);Berlin: Berlin-Verlag.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Weingart, P. (2009). Humboldt im Ranking. In A.  Schlüter &amp;amp; P.   Strohschneider (Eds.), &lt;em&gt;Bildung? Bildung! 26 Thesen zur Bildungs als Herausforderung im 21. Jahrhundert&lt;/em&gt; Berlin: Berlin-Verlag.&lt;/div&gt;</apa_indent>
+<ieee>P. Weingart, “Humboldt im Ranking”, &lt;em&gt;Bildung? Bildung! 26 Thesen zur Bildungs als Herausforderung im 21. Jahrhundert&lt;/em&gt;, A. Schlüter and P.  Strohschneider, eds.,  Berlin: Berlin-Verlag, 2009.</ieee>
+<lncs>Weingart, P.: Humboldt im Ranking. In: Schlüter, A. and Strohschneider, P. (eds.) Bildung? Bildung! 26 Thesen zur Bildungs als Herausforderung im 21. Jahrhundert.  Berlin-Verlag, Berlin (2009).</lncs>
+<mla>Weingart, Peter. “Humboldt im Ranking”. &lt;em&gt;Bildung? Bildung! 26 Thesen zur Bildungs als Herausforderung im 21. Jahrhundert&lt;/em&gt;. Ed. Andreas Schlüter and Peter  Strohschneider. Berlin: Berlin-Verlag, 2009.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Weingart, Peter. 2009. “Humboldt im Ranking”. In &lt;em&gt;Bildung? Bildung! 26 Thesen zur Bildungs als Herausforderung im 21. Jahrhundert&lt;/em&gt;, ed. Andreas Schlüter and Peter  Strohschneider. Berlin: Berlin-Verlag.&lt;/div&gt;</chicago>
+<apa>Weingart, P. (2009). Humboldt im Ranking. In A.  Schlüter &amp;amp; P.   Strohschneider (Eds.), &lt;em&gt;Bildung? Bildung! 26 Thesen zur Bildungs als Herausforderung im 21. Jahrhundert&lt;/em&gt; Berlin: Berlin-Verlag.</apa>
+<angewandte-chemie>P.  Weingart, in &lt;em&gt;Bildung? Bildung! 26 Thesen zur Bildungs als Herausforderung im 21. Jahrhundert&lt;/em&gt; (Eds.: A. Schlüter, P.  Strohschneider), Berlin-Verlag, Berlin, &lt;strong&gt;2009&lt;/strong&gt;.</angewandte-chemie>
+<frontiers>Weingart, P. (2009). “Humboldt im Ranking” in &lt;em&gt;Bildung? Bildung! 26 Thesen zur Bildungs als Herausforderung im 21. Jahrhundert&lt;/em&gt;, ed. A.  Schlüter and P.   Strohschneider (Berlin: Berlin-Verlag).</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1860469</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-02-11T11:02:01Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-02-11T11:10:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1860469</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1860469</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

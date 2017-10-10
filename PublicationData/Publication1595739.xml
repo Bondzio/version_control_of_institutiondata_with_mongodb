@@ -1,0 +1,161 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>In situ dark field microscopy for on-line monitoring of yeast cultures</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Ning</namePart>
+  <namePart type="family">Wei</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jia</namePart>
+  <namePart type="family">You</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Karl</namePart>
+  <namePart type="family">Friehs</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11015</identifier></name>
+<name type="personal">
+  <namePart type="given">Erwin</namePart>
+  <namePart type="family">Flaschel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11014</identifier></name>
+<name type="personal">
+  <namePart type="given">Tim Wilhelm</namePart>
+  <namePart type="family">Nattkemper</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11602</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Biodata Mining</namePart>
+  <identifier type="unibi">29610175</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  E. Flaschel</namePart>
+  <identifier type="unibi">33086526</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Fermentationstechnik</namePart>
+  <identifier type="unibi">10042</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group T. Nattkemper</namePart>
+  <identifier type="unibi">33067409</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Biochemie und Biotechnik</namePart>
+  <identifier type="unibi">4838684</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Graduate Center</namePart>
+  <identifier type="unibi">16941123</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">A new-type in situ probe has been developed to acquire dark field images of yeast in bioreactors. It has been derived from an in situ bright field microscope that is able to measure cell density in bioreactors during fermentation processes. The illumination part of the probe has been replaced with a dark field device, in which an aspheric condenser is used, so that high contrast dark field images can be obtained. The technique of second imaging is implemented to improve the sharpness of the images by means of a relay lens. This new in situ probe is expected to enable the evaluation of the cell viability without staining owing to modern image processing.</abstract>
+
+<originInfo><publisher>SPRINGER</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>aspheric lens</topic><topic>biomass</topic><topic>density</topic><topic>viability</topic><topic>cell</topic><topic>yeast</topic><topic>dark field microscopy</topic><topic>fermentation</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>BIOTECHNOLOGY LETTERS</title></titleInfo>
+  <identifier type="issn">0141-5492</identifier>
+  <identifier type="eIssn">1573-6776</identifier>
+  <identifier type="MEDLINE">17186133</identifier>
+  <identifier type="ISI">000244293000006</identifier><identifier type="doi">10.1007/s10529-006-9245-x</identifier>
+<part><detail type="volume"><number>29</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">373-378</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<lncs>Wei, N., You, J., Friehs, K., Flaschel, E., Nattkemper, T.W.: In situ dark field microscopy for on-line monitoring of yeast cultures. BIOTECHNOLOGY LETTERS. 29, 373-378 (2007).</lncs>
+<mla>Wei, Ning, You, Jia, Friehs, Karl, Flaschel, Erwin, and Nattkemper, Tim Wilhelm. “In situ dark field microscopy for on-line monitoring of yeast cultures”. &lt;em&gt;BIOTECHNOLOGY LETTERS&lt;/em&gt; 29.3 (2007): 373-378.</mla>
+<ieee>N. Wei, et al., “In situ dark field microscopy for on-line monitoring of yeast cultures”, &lt;em&gt;BIOTECHNOLOGY LETTERS&lt;/em&gt;,  vol. 29, 2007,  pp. 373-378.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wei, N., You, J., Friehs, K., Flaschel, E., &amp;amp; Nattkemper, T. W. (2007). In situ dark field microscopy for on-line monitoring of yeast cultures. &lt;em&gt;BIOTECHNOLOGY LETTERS&lt;/em&gt;, &lt;em&gt;29&lt;/em&gt;(3), 373-378.&lt;/div&gt;</apa_indent>
+<frontiers>Wei, N., You, J., Friehs, K., Flaschel, E., and Nattkemper, T. W. (2007). In situ dark field microscopy for on-line monitoring of yeast cultures. &lt;em&gt;BIOTECHNOLOGY LETTERS&lt;/em&gt; 29, 373-378.</frontiers>
+<apa>Wei, N., You, J., Friehs, K., Flaschel, E., &amp;amp; Nattkemper, T. W. (2007). In situ dark field microscopy for on-line monitoring of yeast cultures. &lt;em&gt;BIOTECHNOLOGY LETTERS&lt;/em&gt;, &lt;em&gt;29&lt;/em&gt;(3), 373-378.</apa>
+<angewandte-chemie>N.  Wei, J.  You, K.  Friehs, E.  Flaschel, and T. W.  Nattkemper, “In situ dark field microscopy for on-line monitoring of yeast cultures”, &lt;em&gt;BIOTECHNOLOGY LETTERS&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;29&lt;/em&gt;, 373-378.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wei, Ning, You, Jia, Friehs, Karl, Flaschel, Erwin, and Nattkemper, Tim Wilhelm. 2007. “In situ dark field microscopy for on-line monitoring of yeast cultures”. &lt;em&gt;BIOTECHNOLOGY LETTERS&lt;/em&gt; 29 (3): 373-378.&lt;/div&gt;</chicago>
+<aps>N.  Wei, et al., In situ dark field microscopy for on-line monitoring of yeast cultures, BIOTECHNOLOGY LETTERS &lt;strong&gt;29&lt;/strong&gt;, 373-378 (2007).</aps>
+<bio1>Wei N, You J, Friehs K, Flaschel E, Nattkemper TW (2007) &lt;br /&gt;In situ dark field microscopy for on-line monitoring of yeast cultures.&lt;br /&gt;BIOTECHNOLOGY LETTERS 29(3): 373-378.</bio1>
+<ama>Wei N, You J, Friehs K, Flaschel E, Nattkemper TW. In situ dark field microscopy for on-line monitoring of yeast cultures. &lt;em&gt;BIOTECHNOLOGY LETTERS&lt;/em&gt;. 2007;29(3):373-378.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wei, N., You, J., Friehs, K., Flaschel, E. &amp;amp; Nattkemper, T.W. (2007). In situ dark field microscopy for on-line monitoring of yeast cultures. &lt;em&gt;BIOTECHNOLOGY LETTERS&lt;/em&gt;, &lt;em&gt;29&lt;/em&gt;(3), 373-378. SPRINGER. doi:10.1007/s10529-006-9245-x.&lt;/div&gt;</dgps>
+<harvard1>Wei, N., et al., 2007. In situ dark field microscopy for on-line monitoring of yeast cultures. &lt;em&gt;BIOTECHNOLOGY LETTERS&lt;/em&gt;, 29(3), p 373-378.</harvard1>
+<default>Wei N, You J, Friehs K, Flaschel E, Nattkemper TW (2007) &lt;br /&gt;BIOTECHNOLOGY LETTERS 29(3): 373-378.</default>
+<wels>Wei, N.; You, J.; Friehs, K.; Flaschel, E.; Nattkemper, T. W. (2007): In situ dark field microscopy for on-line monitoring of yeast cultures &lt;em&gt;BIOTECHNOLOGY LETTERS&lt;/em&gt;,29:(3): 373-378.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1595739</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:47Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2012-01-24T18:19:06Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1595739</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1595739</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

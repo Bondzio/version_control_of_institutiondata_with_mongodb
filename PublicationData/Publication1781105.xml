@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Projekt &quot;Aktion - Reaktion: die Wirklichkeit - das unbekannte Wesen&quot;</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Hans</namePart>
+  <namePart type="family">Hermsen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Elisabeth</namePart><namePart type="family">Hillebrandt</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Wissenschaftliche Einrichtung Oberstufenkolleg</namePart>
+  <identifier type="unibi">11292831</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT2357.pdf">https://pub.uni-bielefeld.de/download/1781105/2313164</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1989</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Die Region im Unterricht: ein Lesebuch zur Öffnung von Schule</title></titleInfo>
+  <identifier type="isbn">3-921912-96-2</identifier><identifier type="urn">urn:nbn:de:0070-bipr-23572</identifier>
+<part><extent unit="pages">255-264</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hermsen, H. (1989). Projekt &quot;Aktion - Reaktion: die Wirklichkeit - das unbekannte Wesen&quot;. &lt;em&gt;Die Region im Unterricht: ein Lesebuch zur Öffnung von Schule&lt;/em&gt; (S. 255-264). Bielefeld.&lt;/div&gt;</dgps>
+<harvard1>Hermsen, H., 1989. Projekt &quot;Aktion - Reaktion: die Wirklichkeit - das unbekannte Wesen&quot;. In E.  Hillebrandt, ed. &lt;em&gt;Die Region im Unterricht: ein Lesebuch zur Öffnung von Schule&lt;/em&gt;.  Bielefeld, pp. 255-264.</harvard1>
+<ama>Hermsen H. Projekt &quot;Aktion - Reaktion: die Wirklichkeit - das unbekannte Wesen&quot;. In: Hillebrandt E, ed. &lt;em&gt;Die Region im Unterricht: ein Lesebuch zur Öffnung von Schule&lt;/em&gt;. Bielefeld;  1989: 255-264.</ama>
+<bio1>Hermsen H (1989) &lt;br /&gt;Projekt &quot;Aktion - Reaktion: die Wirklichkeit - das unbekannte Wesen&quot;. &lt;br /&gt;In:  Die Region im Unterricht: ein Lesebuch zur Öffnung von Schule. Hillebrandt E (Ed); Bielefeld:  255-264.</bio1>
+<aps>H.  Hermsen, Projekt &quot;Aktion - Reaktion: die Wirklichkeit - das unbekannte Wesen&quot;, in &lt;em&gt;Die Region im Unterricht: ein Lesebuch zur Öffnung von Schule&lt;/em&gt;, edited by E.  Hillebrandt (Bielefeld, 1989), p. 255-264.</aps>
+<wels>Hermsen, H. (1989): Projekt &quot;Aktion - Reaktion: die Wirklichkeit - das unbekannte Wesen&quot;. In: Elisabeth Hillebrandt (Hrsg.):  Die Region im Unterricht: ein Lesebuch zur Öffnung von Schule. Bielefeld.  S. 255-264.</wels>
+<default>Hermsen H (1989)  &lt;br /&gt;In:  Die Region im Unterricht: ein Lesebuch zur Öffnung von Schule. Hillebrandt E (Ed);Bielefeld:  255-264.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hermsen, H. (1989). Projekt &quot;Aktion - Reaktion: die Wirklichkeit - das unbekannte Wesen&quot;. In E.  Hillebrandt (Ed.), &lt;em&gt;Die Region im Unterricht: ein Lesebuch zur Öffnung von Schule&lt;/em&gt; (pp. 255-264). Bielefeld.&lt;/div&gt;</apa_indent>
+<ieee>H. Hermsen, “Projekt &quot;Aktion - Reaktion: die Wirklichkeit - das unbekannte Wesen&quot;”, &lt;em&gt;Die Region im Unterricht: ein Lesebuch zur Öffnung von Schule&lt;/em&gt;, E. Hillebrandt, ed.,  Bielefeld: 1989,  pp.255-264.</ieee>
+<mla>Hermsen, Hans. “Projekt &quot;Aktion - Reaktion: die Wirklichkeit - das unbekannte Wesen&quot;”. &lt;em&gt;Die Region im Unterricht: ein Lesebuch zur Öffnung von Schule&lt;/em&gt;. Ed. Elisabeth Hillebrandt. Bielefeld, 1989. 255-264.</mla>
+<lncs>Hermsen, H.: Projekt &quot;Aktion - Reaktion: die Wirklichkeit - das unbekannte Wesen&quot;. In: Hillebrandt, E. (ed.) Die Region im Unterricht: ein Lesebuch zur Öffnung von Schule. p. 255-264. Bielefeld (1989).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hermsen, Hans. 1989. “Projekt &quot;Aktion - Reaktion: die Wirklichkeit - das unbekannte Wesen&quot;”. In &lt;em&gt;Die Region im Unterricht: ein Lesebuch zur Öffnung von Schule&lt;/em&gt;, ed. Elisabeth Hillebrandt, 255-264. Bielefeld.&lt;/div&gt;</chicago>
+<angewandte-chemie>H.  Hermsen, in &lt;em&gt;Die Region im Unterricht: ein Lesebuch zur Öffnung von Schule&lt;/em&gt; (Ed.: E. Hillebrandt), Bielefeld, &lt;strong&gt;1989&lt;/strong&gt;, p. 255-264.</angewandte-chemie>
+<apa>Hermsen, H. (1989). Projekt &quot;Aktion - Reaktion: die Wirklichkeit - das unbekannte Wesen&quot;. In E.  Hillebrandt (Ed.), &lt;em&gt;Die Region im Unterricht: ein Lesebuch zur Öffnung von Schule&lt;/em&gt; (pp. 255-264). Bielefeld.</apa>
+<frontiers>Hermsen, H. (1989). “Projekt &quot;Aktion - Reaktion: die Wirklichkeit - das unbekannte Wesen&quot;” in &lt;em&gt;Die Region im Unterricht: ein Lesebuch zur Öffnung von Schule&lt;/em&gt;, ed. E.  Hillebrandt (Bielefeld), 255-264.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781105</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781105</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781105</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

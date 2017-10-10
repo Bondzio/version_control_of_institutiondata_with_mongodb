@@ -1,0 +1,112 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Corynebacterium glutamicum DNA is subjected to methylation-restriction in Escherichia coli</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Tauch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">22082</identifier></name>
+<name type="personal">
+  <namePart type="given">O</namePart>
+  <namePart type="family">Kirchner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">L</namePart>
+  <namePart type="family">Wehmeier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jörn</namePart>
+  <namePart type="family">Kalinowski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">147567</identifier></name>
+<name type="personal">
+  <namePart type="given">Alfred</namePart>
+  <namePart type="family">Pühler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21937</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Efficient electroporation of Escherichia coli with plasmid DNA isolated from Corynebacterium glutamicum depends on the use of Mcr-deficient E. coli strains. The transformation frequency increased nearly 800-fold when the Mcr-deficient E. coli DH5 alpha MCR was used instead of E. coli DH5 alpha. We used E. coil strains with different mutations in the methyl-specific restriction systems to show that McrBC-deficiency is sufficient to generate this effect. The results imply that C. glutamicum DNA contains methylcytosine in specific sequences recognized by the E. coli McrBC system.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">1994</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>ELECTROPORATION</topic><topic>MCR SYSTEM</topic><topic>MODIFICATION</topic><topic>METHYLCYTOSINE</topic><topic>CORYNEBACTERIUM GLUTAMICUM</topic><topic>RESTRICTION</topic><topic>MRR SYSTEM</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>FEMS MICROBIOLOGY LETTERS</title></titleInfo>
+  <identifier type="issn">0378-1097</identifier>
+  <identifier type="MEDLINE">7988915</identifier>
+  <identifier type="ISI">A1994PP04200019</identifier><identifier type="doi">10.1016/0378-1097(94)90216-X</identifier>
+<part><detail type="volume"><number>123</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">343-347</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Tauch, A.; Kirchner, O.; Wehmeier, L.; Kalinowski, J.; Pühler, A. (1994): Corynebacterium glutamicum DNA is subjected to methylation-restriction in Escherichia coli &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt;,123:(3): 343-347.</wels>
+<default>Tauch A, Kirchner O, Wehmeier L, Kalinowski J, Pühler A (1994) &lt;br /&gt;FEMS MICROBIOLOGY LETTERS 123(3): 343-347.</default>
+<ama>Tauch A, Kirchner O, Wehmeier L, Kalinowski J, Pühler A. Corynebacterium glutamicum DNA is subjected to methylation-restriction in Escherichia coli. &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt;. 1994;123(3):343-347.</ama>
+<harvard1>Tauch, A., et al., 1994. Corynebacterium glutamicum DNA is subjected to methylation-restriction in Escherichia coli. &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt;, 123(3), p 343-347.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Tauch, A., Kirchner, O., Wehmeier, L., Kalinowski, J. &amp;amp; Pühler, A. (1994). Corynebacterium glutamicum DNA is subjected to methylation-restriction in Escherichia coli. &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt;, &lt;em&gt;123&lt;/em&gt;(3), 343-347. ELSEVIER SCIENCE BV. doi:10.1016/0378-1097(94)90216-X.&lt;/div&gt;</dgps>
+<bio1>Tauch A, Kirchner O, Wehmeier L, Kalinowski J, Pühler A (1994) &lt;br /&gt;Corynebacterium glutamicum DNA is subjected to methylation-restriction in Escherichia coli.&lt;br /&gt;FEMS MICROBIOLOGY LETTERS 123(3): 343-347.</bio1>
+<aps> A.  Tauch, et al., Corynebacterium glutamicum DNA is subjected to methylation-restriction in Escherichia coli, FEMS MICROBIOLOGY LETTERS &lt;strong&gt;123&lt;/strong&gt;, 343-347 (1994).</aps>
+<apa>Tauch, A., Kirchner, O., Wehmeier, L., Kalinowski, J., &amp;amp; Pühler, A. (1994). Corynebacterium glutamicum DNA is subjected to methylation-restriction in Escherichia coli. &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt;, &lt;em&gt;123&lt;/em&gt;(3), 343-347.</apa>
+<angewandte-chemie>A.  Tauch, O.  Kirchner, L.  Wehmeier, J.  Kalinowski, and A.  Pühler, “Corynebacterium glutamicum DNA is subjected to methylation-restriction in Escherichia coli”, &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt;, &lt;strong&gt;1994&lt;/strong&gt;, &lt;em&gt;123&lt;/em&gt;, 343-347.</angewandte-chemie>
+<frontiers>Tauch, A., Kirchner, O., Wehmeier, L., Kalinowski, J., and Pühler, A. (1994). Corynebacterium glutamicum DNA is subjected to methylation-restriction in Escherichia coli. &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt; 123, 343-347.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Tauch, Andreas, Kirchner, O, Wehmeier, L, Kalinowski, Jörn, and Pühler, Alfred. 1994. “Corynebacterium glutamicum DNA is subjected to methylation-restriction in Escherichia coli”. &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt; 123 (3): 343-347.&lt;/div&gt;</chicago>
+<ieee> A. Tauch, et al., “Corynebacterium glutamicum DNA is subjected to methylation-restriction in Escherichia coli”, &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt;,  vol. 123, 1994,  pp. 343-347.</ieee>
+<mla>Tauch, Andreas, Kirchner, O, Wehmeier, L, Kalinowski, Jörn, and Pühler, Alfred. “Corynebacterium glutamicum DNA is subjected to methylation-restriction in Escherichia coli”. &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt; 123.3 (1994): 343-347.</mla>
+<lncs> Tauch, A., Kirchner, O., Wehmeier, L., Kalinowski, J., Pühler, A.: Corynebacterium glutamicum DNA is subjected to methylation-restriction in Escherichia coli. FEMS MICROBIOLOGY LETTERS. 123, 343-347 (1994).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Tauch, A., Kirchner, O., Wehmeier, L., Kalinowski, J., &amp;amp; Pühler, A. (1994). Corynebacterium glutamicum DNA is subjected to methylation-restriction in Escherichia coli. &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt;, &lt;em&gt;123&lt;/em&gt;(3), 343-347.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1642272</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:27:36Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-09-14T06:11:25Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1642272</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1642272</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

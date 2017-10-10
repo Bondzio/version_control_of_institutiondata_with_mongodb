@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Ionic conductivity of electroporated lipid bilayer membranes</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Sergej</namePart>
+  <namePart type="family">Kakorin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20316</identifier></name>
+<name type="personal">
+  <namePart type="given">Eberhard</namePart>
+  <namePart type="family">Neumann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20317</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Physikalische Chemie III</namePart>
+  <identifier type="unibi">17981</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The ionic conductivity of lipid membrane pores has been theoretically analysed in terms of electrostatic interactions of the transported ions with the low-dielectric pore wall for a commonly encountered case of unequal concentrations of electrolyte on the two sides of curved lipid membranes. Theoretical analysis of the data on the conductivity of the electroporated membrane of lipid vesicles (Lecithin 20%) of radius a=90 nm yields the molar energy of interaction of a small monovalent ion with a pore wall w(0)=9+/-1 RT (or w(0)=22+/-kJ mol(-1)), corresponding to a mean pore radius of (r) over bar (p)=0.56+/-0.05 nm. The proposed theoretical approach provides a tool for the analysis and description of the nonlinear current-voltage dependencies in membrane pores and channels. (C) 2002 Published by Elsevier Science B.V.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE SA</publisher><dateIssued encoding="w3cdtf">2002</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Nernst-Planck equation</topic><topic>LambertW</topic><topic>conductometry</topic><topic>electrooptics</topic><topic>lipid vesicles</topic><topic>electroporation</topic><topic>function</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>BIOELECTROCHEMISTRY</title></titleInfo>
+  <identifier type="issn">1567-5394</identifier>
+  <identifier type="MEDLINE">12009466</identifier>
+  <identifier type="ISI">000176715700036</identifier><identifier type="doi">10.1016/S1567-5394(02)00040-3</identifier>
+<part><detail type="volume"><number>56</number></detail><detail type="issue"><number>1-2</number></detail><extent unit="pages">163-166</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Kakorin S, Neumann E (2002)  &lt;br /&gt;In:  BIOELECTROCHEMISTRY. 56. ELSEVIER SCIENCE SA:  163-166.</default>
+<wels>Kakorin, S.; Neumann, E. (2002): Ionic conductivity of electroporated lipid bilayer membranes. In: BIOELECTROCHEMISTRY. ELSEVIER SCIENCE SA. (56).  S. 163-166.</wels>
+<aps>S.  Kakorin and E.  Neumann, Ionic conductivity of electroporated lipid bilayer membranes, in &lt;em&gt;BIOELECTROCHEMISTRY&lt;/em&gt;, &lt;strong&gt;56&lt;/strong&gt; (ELSEVIER SCIENCE SA, 2002), p. 163-166.</aps>
+<bio1>Kakorin S, Neumann E (2002) &lt;br /&gt;Ionic conductivity of electroporated lipid bilayer membranes. &lt;br /&gt;In:  BIOELECTROCHEMISTRY. 56. ELSEVIER SCIENCE SA:  163-166.</bio1>
+<harvard1>Kakorin, S., &amp;amp; Neumann, E., 2002. Ionic conductivity of electroporated lipid bilayer membranes. In &lt;em&gt;BIOELECTROCHEMISTRY&lt;/em&gt;. no.56  ELSEVIER SCIENCE SA, pp. 163-166.</harvard1>
+<ama>Kakorin S, Neumann E. Ionic conductivity of electroporated lipid bilayer membranes. In:  &lt;em&gt;BIOELECTROCHEMISTRY&lt;/em&gt;. Vol 56. ELSEVIER SCIENCE SA;  2002: 163-166.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kakorin, S. &amp;amp; Neumann, E. (2002). Ionic conductivity of electroporated lipid bilayer membranes. &lt;em&gt;BIOELECTROCHEMISTRY&lt;/em&gt; (S. 163-166). ELSEVIER SCIENCE SA. doi:10.1016/S1567-5394(02)00040-3.&lt;/div&gt;</dgps>
+<frontiers>Kakorin, S., and Neumann, E. (2002). “Ionic conductivity of electroporated lipid bilayer membranes” in &lt;em&gt;BIOELECTROCHEMISTRY&lt;/em&gt;, vol. 56, (ELSEVIER SCIENCE SA), 163-166.</frontiers>
+<angewandte-chemie>S.  Kakorin, and E.  Neumann, in &lt;em&gt;BIOELECTROCHEMISTRY&lt;/em&gt;, Elsevier Science Sa, &lt;strong&gt;2002&lt;/strong&gt;, p. 163-166.</angewandte-chemie>
+<apa>Kakorin, S., &amp;amp; Neumann, E. (2002). Ionic conductivity of electroporated lipid bilayer membranes. &lt;em&gt;BIOELECTROCHEMISTRY&lt;/em&gt;, &lt;em&gt;56&lt;/em&gt;(1-2), 163-166.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kakorin, Sergej, and Neumann, Eberhard. 2002. “Ionic conductivity of electroporated lipid bilayer membranes”. In &lt;em&gt;BIOELECTROCHEMISTRY&lt;/em&gt;, 56:163-166. ELSEVIER SCIENCE SA.&lt;/div&gt;</chicago>
+<lncs>Kakorin, S., Neumann, E.: Ionic conductivity of electroporated lipid bilayer membranes. BIOELECTROCHEMISTRY. 56, p. 163-166. ELSEVIER SCIENCE SA (2002).</lncs>
+<mla>Kakorin, Sergej, and Neumann, Eberhard. “Ionic conductivity of electroporated lipid bilayer membranes”. &lt;em&gt;BIOELECTROCHEMISTRY&lt;/em&gt;. ELSEVIER SCIENCE SA, 2002.Vol. 56. 163-166.</mla>
+<ieee>S. Kakorin and E. Neumann, “Ionic conductivity of electroporated lipid bilayer membranes”, &lt;em&gt;BIOELECTROCHEMISTRY&lt;/em&gt;, vol. 56, ELSEVIER SCIENCE SA, 2002,  pp.163-166.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kakorin, S., &amp;amp; Neumann, E. (2002). Ionic conductivity of electroporated lipid bilayer membranes. &lt;em&gt;BIOELECTROCHEMISTRY&lt;/em&gt;, &lt;em&gt;56&lt;/em&gt;(1-2), 163-166.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1614182</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:00:59Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-14T15:01:32Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1614182</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1614182</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

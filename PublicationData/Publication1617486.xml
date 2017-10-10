@@ -1,0 +1,124 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>FeMo cofactor biosynthesis in a nifE(-) mutant of Rhodobacter capsulatus</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">S</namePart>
+  <namePart type="family">Siemann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Klaus</namePart>
+  <namePart type="family">Schneider</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">179483</identifier></name>
+<name type="personal">
+  <namePart type="given">K</namePart>
+  <namePart type="family">Behrens</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Knochel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">W</namePart>
+  <namePart type="family">Klipp</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Achim</namePart>
+  <namePart type="family">Müller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20118</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0003-0117-4021</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">17967</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">17964</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">In all diazotrophic micro-organisms investigated so far, mutations in nifE, one of the genes involved in the biosynthesis of the FeMo cofactor (FeMoco), resulted in the accumulation of cofactorless inactive dinitrogenase. In this study, we have found that strains of the phototrophic non-sulfur purple bacterium Rhodobacter capsulatus with mutations in nifE, as well as in the operon harbouring the nifE gene, were capable of reducing acetylene and growing diazotrophically, although at distinctly lower rates than the wild-type strain. The diminished rates of substrate reduction were found to correlate with the decreased amounts of the dinitrogenase component (MoFe protein) expressed in R. capsulatus. The in vivo activity, as measured by the routine acetylene-reduction assay, was strictly Mo-dependent. Maximal activity was achieved under diazotrophic growth conditions and by supplementing the growth medium with molybdate (final concentration 20-50 muM) Moreover, in these strains a high proportion of ethane was produced from acetylene (approximate to 10% of ethylene) in vivo. However, in in vitro measurements with cell-free extracts as well as purified dinitrogenase, ethane production was always found to be less than 1%. The isolation and partial purification of the MoFe protein from the nifE mutant strain by Q-Sepharose chromatography and subsequent analysis by EPR spectroscopy and inductively coupled plasma MS revealed that FeMoco is actually incorporated into the protein (1.7 molecules of FeMoco per tetramer). On the basis of the results presented here, the role of NifNE in the biosynthetic pathway of the FeMoco demands reconsideration. It is shown for the first time that NifNE is not essential for biosynthesis of the cofactor, although its presence guarantees formation of a higher content of intact FeMoco-containing MoFe protein molecules. The implications of our findings for the biosynthesis of the FeMoco will be discussed.</abstract>
+
+<originInfo><publisher>BLACKWELL SCIENCE LTD</publisher><dateIssued encoding="w3cdtf">2001</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>nitrogen fixation</topic><topic>EPR spectroscopy</topic><topic>nitrogenase</topic><topic>acetylene reduction</topic><topic>MoFe protein</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>EUROPEAN JOURNAL OF BIOCHEMISTRY</title></titleInfo>
+  <identifier type="issn">0014-2956</identifier>
+  <identifier type="MEDLINE">11277916</identifier>
+  <identifier type="ISI">000168004300005</identifier><identifier type="doi">10.1046/j.1432-1327.2001.02063.x</identifier>
+<part><detail type="volume"><number>268</number></detail><detail type="issue"><number>7</number></detail><extent unit="pages">1940-1952</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Siemann, S.; Schneider, K.; Behrens, K.; Knochel, A.; Klipp, W.; Müller, A. (2001): FeMo cofactor biosynthesis in a nifE(-) mutant of Rhodobacter capsulatus &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt;,268:(7): 1940-1952.</wels>
+<default>Siemann S, Schneider K, Behrens K, Knochel A, Klipp W, Müller A (2001) &lt;br /&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY 268(7): 1940-1952.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Siemann, S., Schneider, K., Behrens, K., Knochel, A., Klipp, W. &amp;amp; Müller, A. (2001). FeMo cofactor biosynthesis in a nifE(-) mutant of Rhodobacter capsulatus. &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt;, &lt;em&gt;268&lt;/em&gt;(7), 1940-1952. BLACKWELL SCIENCE LTD. doi:10.1046/j.1432-1327.2001.02063.x.&lt;/div&gt;</dgps>
+<harvard1>Siemann, S., et al., 2001. FeMo cofactor biosynthesis in a nifE(-) mutant of Rhodobacter capsulatus. &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt;, 268(7), p 1940-1952.</harvard1>
+<ama>Siemann S, Schneider K, Behrens K, Knochel A, Klipp W, Müller A. FeMo cofactor biosynthesis in a nifE(-) mutant of Rhodobacter capsulatus. &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt;. 2001;268(7):1940-1952.</ama>
+<aps> S.  Siemann, et al., FeMo cofactor biosynthesis in a nifE(-) mutant of Rhodobacter capsulatus, EUROPEAN JOURNAL OF BIOCHEMISTRY &lt;strong&gt;268&lt;/strong&gt;, 1940-1952 (2001).</aps>
+<bio1>Siemann S, Schneider K, Behrens K, Knochel A, Klipp W, Müller A (2001) &lt;br /&gt;FeMo cofactor biosynthesis in a nifE(-) mutant of Rhodobacter capsulatus.&lt;br /&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY 268(7): 1940-1952.</bio1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Siemann, S, Schneider, Klaus, Behrens, K, Knochel, A, Klipp, W, and Müller, Achim. 2001. “FeMo cofactor biosynthesis in a nifE(-) mutant of Rhodobacter capsulatus”. &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt; 268 (7): 1940-1952.&lt;/div&gt;</chicago>
+<apa>Siemann, S., Schneider, K., Behrens, K., Knochel, A., Klipp, W., &amp;amp; Müller, A. (2001). FeMo cofactor biosynthesis in a nifE(-) mutant of Rhodobacter capsulatus. &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt;, &lt;em&gt;268&lt;/em&gt;(7), 1940-1952.</apa>
+<angewandte-chemie>S.  Siemann, K.  Schneider, K.  Behrens, A.  Knochel, W.  Klipp, and A.  Müller, “FeMo cofactor biosynthesis in a nifE(-) mutant of Rhodobacter capsulatus”, &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt;, &lt;strong&gt;2001&lt;/strong&gt;, &lt;em&gt;268&lt;/em&gt;, 1940-1952.</angewandte-chemie>
+<frontiers>Siemann, S., Schneider, K., Behrens, K., Knochel, A., Klipp, W., and Müller, A. (2001). FeMo cofactor biosynthesis in a nifE(-) mutant of Rhodobacter capsulatus. &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt; 268, 1940-1952.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Siemann, S., Schneider, K., Behrens, K., Knochel, A., Klipp, W., &amp;amp; Müller, A. (2001). FeMo cofactor biosynthesis in a nifE(-) mutant of Rhodobacter capsulatus. &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt;, &lt;em&gt;268&lt;/em&gt;(7), 1940-1952.&lt;/div&gt;</apa_indent>
+<ieee> S. Siemann, et al., “FeMo cofactor biosynthesis in a nifE(-) mutant of Rhodobacter capsulatus”, &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt;,  vol. 268, 2001,  pp. 1940-1952.</ieee>
+<mla>Siemann, S, Schneider, Klaus, Behrens, K, Knochel, A, Klipp, W, and Müller, Achim. “FeMo cofactor biosynthesis in a nifE(-) mutant of Rhodobacter capsulatus”. &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt; 268.7 (2001): 1940-1952.</mla>
+<lncs> Siemann, S., Schneider, K., Behrens, K., Knochel, A., Klipp, W., Müller, A.: FeMo cofactor biosynthesis in a nifE(-) mutant of Rhodobacter capsulatus. EUROPEAN JOURNAL OF BIOCHEMISTRY. 268, 1940-1952 (2001).</lncs>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1617486</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:03:17Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-09-20T06:26:36Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1617486</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1617486</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

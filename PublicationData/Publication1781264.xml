@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>A quantitative model for pattern discrimination in the honey bee</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Holk</namePart>
+  <namePart type="family">Cruse</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21923</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Rüdiger</namePart><namePart type="family">Wehner</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Biologie</namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT2443.pdf">https://pub.uni-bielefeld.de/download/1781264/2313247</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Springer</publisher><dateIssued encoding="w3cdtf">1972</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Information processing in the visual systems of arthropods</title></titleInfo>
+  <identifier type="isbn">3-540-06020-0</identifier><identifier type="urn">urn:nbn:de:0070-bipr-24432</identifier>
+<part><extent unit="pages">201-206</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Cruse, H. (1972). “A quantitative model for pattern discrimination in the honey bee” in &lt;em&gt;Information processing in the visual systems of arthropods&lt;/em&gt;, ed. R.  Wehner (Berlin [u.a.]: Springer), 201-206.</frontiers>
+<angewandte-chemie>H.  Cruse, in &lt;em&gt;Information processing in the visual systems of arthropods&lt;/em&gt; (Ed.: R. Wehner), Springer, Berlin [u.a.], &lt;strong&gt;1972&lt;/strong&gt;, p. 201-206.</angewandte-chemie>
+<apa>Cruse, H. (1972). A quantitative model for pattern discrimination in the honey bee. In R.  Wehner (Ed.), &lt;em&gt;Information processing in the visual systems of arthropods&lt;/em&gt; (pp. 201-206). Berlin [u.a.]: Springer.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cruse, Holk. 1972. “A quantitative model for pattern discrimination in the honey bee”. In &lt;em&gt;Information processing in the visual systems of arthropods&lt;/em&gt;, ed. Rüdiger Wehner, 201-206. Berlin [u.a.]: Springer.&lt;/div&gt;</chicago>
+<mla>Cruse, Holk. “A quantitative model for pattern discrimination in the honey bee”. &lt;em&gt;Information processing in the visual systems of arthropods&lt;/em&gt;. Ed. Rüdiger Wehner. Berlin [u.a.]: Springer, 1972. 201-206.</mla>
+<lncs>Cruse, H.: A quantitative model for pattern discrimination in the honey bee. In: Wehner, R. (ed.) Information processing in the visual systems of arthropods. p. 201-206. Springer, Berlin [u.a.] (1972).</lncs>
+<ieee>H. Cruse, “A quantitative model for pattern discrimination in the honey bee”, &lt;em&gt;Information processing in the visual systems of arthropods&lt;/em&gt;, R. Wehner, ed.,  Berlin [u.a.]: Springer, 1972,  pp.201-206.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cruse, H. (1972). A quantitative model for pattern discrimination in the honey bee. In R.  Wehner (Ed.), &lt;em&gt;Information processing in the visual systems of arthropods&lt;/em&gt; (pp. 201-206). Berlin [u.a.]: Springer.&lt;/div&gt;</apa_indent>
+<default>Cruse H (1972)  &lt;br /&gt;In:  Information processing in the visual systems of arthropods. Wehner R (Ed);Berlin [u.a.]: Springer:  201-206.</default>
+<wels>Cruse, H. (1972): A quantitative model for pattern discrimination in the honey bee. In: Rüdiger Wehner (Hrsg.):  Information processing in the visual systems of arthropods. Berlin [u.a.]: Springer.  S. 201-206.</wels>
+<aps>H.  Cruse, A quantitative model for pattern discrimination in the honey bee, in &lt;em&gt;Information processing in the visual systems of arthropods&lt;/em&gt;, edited by R.  Wehner (Springer, Berlin [U.a.], 1972), p. 201-206.</aps>
+<bio1>Cruse H (1972) &lt;br /&gt;A quantitative model for pattern discrimination in the honey bee. &lt;br /&gt;In:  Information processing in the visual systems of arthropods. Wehner R (Ed); Berlin [u.a.]: Springer:  201-206.</bio1>
+<ama>Cruse H. A quantitative model for pattern discrimination in the honey bee. In: Wehner R, ed. &lt;em&gt;Information processing in the visual systems of arthropods&lt;/em&gt;. Berlin [u.a.]: Springer;  1972: 201-206.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cruse, H. (1972). A quantitative model for pattern discrimination in the honey bee. &lt;em&gt;Information processing in the visual systems of arthropods&lt;/em&gt; (S. 201-206). Berlin [u.a.]: Springer.&lt;/div&gt;</dgps>
+<harvard1>Cruse, H., 1972. A quantitative model for pattern discrimination in the honey bee. In R.  Wehner, ed. &lt;em&gt;Information processing in the visual systems of arthropods&lt;/em&gt;.  Berlin [u.a.]: Springer, pp. 201-206.</harvard1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781264</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781264</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781264</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

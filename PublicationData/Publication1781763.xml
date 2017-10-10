@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The structure of balanced rings</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Vlastimil</namePart>
+  <namePart type="family">Dlab</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Claus Michael</namePart>
+  <namePart type="family">Ringel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10583</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>SFB 701 Spectral Structures and Topological Methods in Mathematics</namePart>
+  <identifier type="unibi">435978</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Ringel_014.pdf">https://pub.uni-bielefeld.de/download/1781763/2313493</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1973</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Proceedings of the London Mathematical Society</title></titleInfo>
+  <identifier type="issn">1460-244X</identifier><identifier type="urn">urn:nbn:de:0070-bipr-27480</identifier>
+<part><detail type="volume"><number>26</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">446-462</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>Dlab V, Ringel CM (1973) &lt;br /&gt;The structure of balanced rings.&lt;br /&gt;Proceedings of the London Mathematical Society 26(3): 446-462.</bio1>
+<aps>V.  Dlab and C. M.  Ringel, The structure of balanced rings, Proceedings of the London Mathematical Society &lt;strong&gt;26&lt;/strong&gt;, 446-462 (1973).</aps>
+<harvard1>Dlab, V., &amp;amp; Ringel, C.M., 1973. The structure of balanced rings. &lt;em&gt;Proceedings of the London Mathematical Society&lt;/em&gt;, 26(3), p 446-462.</harvard1>
+<ama>Dlab V, Ringel CM. The structure of balanced rings. &lt;em&gt;Proceedings of the London Mathematical Society&lt;/em&gt;. 1973;26(3):446-462.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Dlab, V. &amp;amp; Ringel, C.M. (1973). The structure of balanced rings. &lt;em&gt;Proceedings of the London Mathematical Society&lt;/em&gt;, &lt;em&gt;26&lt;/em&gt;(3), 446-462.&lt;/div&gt;</dgps>
+<default>Dlab V, Ringel CM (1973) &lt;br /&gt;Proceedings of the London Mathematical Society 26(3): 446-462.</default>
+<wels>Dlab, V.; Ringel, C. M. (1973): The structure of balanced rings &lt;em&gt;Proceedings of the London Mathematical Society&lt;/em&gt;,26:(3): 446-462.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Dlab, V., &amp;amp; Ringel, C. M. (1973). The structure of balanced rings. &lt;em&gt;Proceedings of the London Mathematical Society&lt;/em&gt;, &lt;em&gt;26&lt;/em&gt;(3), 446-462.&lt;/div&gt;</apa_indent>
+<lncs>Dlab, V., Ringel, C.M.: The structure of balanced rings. Proceedings of the London Mathematical Society. 26, 446-462 (1973).</lncs>
+<mla>Dlab, Vlastimil, and Ringel, Claus Michael. “The structure of balanced rings”. &lt;em&gt;Proceedings of the London Mathematical Society&lt;/em&gt; 26.3 (1973): 446-462.</mla>
+<ieee>V. Dlab and C.M. Ringel, “The structure of balanced rings”, &lt;em&gt;Proceedings of the London Mathematical Society&lt;/em&gt;,  vol. 26, 1973,  pp. 446-462.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Dlab, Vlastimil, and Ringel, Claus Michael. 1973. “The structure of balanced rings”. &lt;em&gt;Proceedings of the London Mathematical Society&lt;/em&gt; 26 (3): 446-462.&lt;/div&gt;</chicago>
+<frontiers>Dlab, V., and Ringel, C. M. (1973). The structure of balanced rings. &lt;em&gt;Proceedings of the London Mathematical Society&lt;/em&gt; 26, 446-462.</frontiers>
+<angewandte-chemie>V.  Dlab, and C. M.  Ringel, “The structure of balanced rings”, &lt;em&gt;Proceedings of the London Mathematical Society&lt;/em&gt;, &lt;strong&gt;1973&lt;/strong&gt;, &lt;em&gt;26&lt;/em&gt;, 446-462.</angewandte-chemie>
+<apa>Dlab, V., &amp;amp; Ringel, C. M. (1973). The structure of balanced rings. &lt;em&gt;Proceedings of the London Mathematical Society&lt;/em&gt;, &lt;em&gt;26&lt;/em&gt;(3), 446-462.</apa>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781763</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781763</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781763</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

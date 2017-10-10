@@ -1,0 +1,92 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>On the 3/4-conjecture for fix-free codes</title></titleInfo>
+
+
+
+
+
+<name type="personal">
+  <namePart type="given">Holger</namePart>
+  <namePart type="family">Schnettler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">Deppe</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10503</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><dateIssued encoding="w3cdtf">2005</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>DMTC Proceedings</title></titleInfo>
+<part><extent unit="pages">111-116</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schnettler, H., &amp;amp; Deppe, C. (2005). On the 3/4-conjecture for fix-free codes. &lt;em&gt;DMTC Proceedings&lt;/em&gt;, 111-116.&lt;/div&gt;</apa_indent>
+<ieee>H. Schnettler and C. Deppe, “On the 3/4-conjecture for fix-free codes”, &lt;em&gt;DMTC Proceedings&lt;/em&gt;,  Discrete Mathematics &amp;amp; Theoretical Computer Science: 2005,  pp.111-116.</ieee>
+<lncs>Schnettler, H., Deppe, C.: On the 3/4-conjecture for fix-free codes. DMTC Proceedings. p. 111-116. Discrete Mathematics &amp;amp; Theoretical Computer Science (2005).</lncs>
+<mla>Schnettler, Holger, and Deppe, Christian. “On the 3/4-conjecture for fix-free codes”. &lt;em&gt;DMTC Proceedings&lt;/em&gt;. Discrete Mathematics &amp;amp; Theoretical Computer Science, 2005. 111-116.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schnettler, Holger, and Deppe, Christian. 2005. “On the 3/4-conjecture for fix-free codes”. In &lt;em&gt;DMTC Proceedings&lt;/em&gt;, 111-116. Discrete Mathematics &amp;amp; Theoretical Computer Science.&lt;/div&gt;</chicago>
+<angewandte-chemie>H.  Schnettler, and C.  Deppe, in &lt;em&gt;DMTC Proceedings&lt;/em&gt;, Discrete Mathematics &amp;amp; Theoretical Computer Science, &lt;strong&gt;2005&lt;/strong&gt;, p. 111-116.</angewandte-chemie>
+<apa>Schnettler, H., &amp;amp; Deppe, C. (2005). On the 3/4-conjecture for fix-free codes. &lt;em&gt;DMTC Proceedings&lt;/em&gt;, 111-116.</apa>
+<frontiers>Schnettler, H., and Deppe, C. (2005). “On the 3/4-conjecture for fix-free codes” in &lt;em&gt;DMTC Proceedings&lt;/em&gt; (Discrete Mathematics &amp;amp; Theoretical Computer Science), 111-116.</frontiers>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schnettler, H. &amp;amp; Deppe, C. (2005). On the 3/4-conjecture for fix-free codes. &lt;em&gt;DMTC Proceedings&lt;/em&gt; (S. 111-116). Discrete Mathematics &amp;amp; Theoretical Computer Science.&lt;/div&gt;</dgps>
+<ama>Schnettler H, Deppe C. On the 3/4-conjecture for fix-free codes. In:  &lt;em&gt;DMTC Proceedings&lt;/em&gt;. Discrete Mathematics &amp;amp; Theoretical Computer Science;  2005: 111-116.</ama>
+<harvard1>Schnettler, H., &amp;amp; Deppe, C., 2005. On the 3/4-conjecture for fix-free codes. In &lt;em&gt;DMTC Proceedings&lt;/em&gt;.  Discrete Mathematics &amp;amp; Theoretical Computer Science, pp. 111-116.</harvard1>
+<aps>H.  Schnettler and C.  Deppe, On the 3/4-conjecture for fix-free codes, in &lt;em&gt;DMTC Proceedings&lt;/em&gt; (Discrete Mathematics &amp;amp; Theoretical Computer Science, 2005), p. 111-116.</aps>
+<bio1>Schnettler H, Deppe C (2005) &lt;br /&gt;On the 3/4-conjecture for fix-free codes. &lt;br /&gt;In:  DMTC Proceedings.  Discrete Mathematics &amp;amp; Theoretical Computer Science:  111-116.</bio1>
+<wels>Schnettler, H.; Deppe, C. (2005): On the 3/4-conjecture for fix-free codes. In: DMTC Proceedings. Discrete Mathematics &amp;amp; Theoretical Computer Science.  S. 111-116.</wels>
+<default>Schnettler H, Deppe C (2005)  &lt;br /&gt;In:  DMTC Proceedings. Discrete Mathematics &amp;amp; Theoretical Computer Science:  111-116.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1860116</recordIdentifier><recordChangeDate encoding="w3cdtf">2014-02-17T11:48:09Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1860116</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1860116</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

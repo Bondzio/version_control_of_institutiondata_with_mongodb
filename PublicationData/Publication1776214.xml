@@ -1,0 +1,105 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>On Rutishausers approach to selfsimilar flows</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">David S.</namePart>
+  <namePart type="family">Watkins</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ludwig</namePart>
+  <namePart type="family">Elsner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10509</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Certain variants of the Toda flow are continuous analogues of the QR algorithm and other algorithms for calculating eigenvalues of matrices. This was a remarkable discovery of the early eighties. Until very recently contemporary researchers studying this circle of ideas have been unaware that continuous analogues of the quotient- difference and LR algorithms were already known to Rutishauser in the fifties. Rutishauser&apos;s continuous analogue of the quotient- difference algorithm contains the finite, nonperiodic Toda flow as a special case. A nice feature of Rutishauser&apos;s approach is that it leads from the (discrete) eigenvalue algorithm to the (continuous) flow by a limitting process. Thus the connection between the algorithm and the flow does not come as a surprise. In this paper it is shown how Rutishauser&apos;s approach can be generalized to yield large families of flows in a natural manner. The flows derived include continuous analogues of the LR, QR, SR, and HR algorithms.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Elsner_055.pdf">https://pub.uni-bielefeld.de/download/1776214/2312109</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1990</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>LR algorithm</topic><topic>Quotient-difference algorithm</topic><topic>Self-similar flow</topic><topic>Toda flow</topic><topic>QR algorithm</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>SIAM Journal on matrix analysis and applications</title></titleInfo>
+  <identifier type="issn">0895-4798</identifier>
+  <identifier type="eIssn">1095-7162</identifier>
+  <identifier type="ISI">A1990CX24800010</identifier><identifier type="urn">urn:nbn:de:0070-pub-17762147</identifier><identifier type="doi">10.1137/0611020</identifier>
+<part><detail type="volume"><number>11</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">301-311</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>D. S.  Watkins and L.  Elsner, On Rutishausers approach to selfsimilar flows, SIAM Journal on matrix analysis and applications &lt;strong&gt;11&lt;/strong&gt;, 301-311 (1990).</aps>
+<bio1>Watkins DS, Elsner L (1990) &lt;br /&gt;On Rutishausers approach to selfsimilar flows.&lt;br /&gt;SIAM Journal on matrix analysis and applications 11(2): 301-311.</bio1>
+<harvard1>Watkins, D.S., &amp;amp; Elsner, L., 1990. On Rutishausers approach to selfsimilar flows. &lt;em&gt;SIAM Journal on matrix analysis and applications&lt;/em&gt;, 11(2), p 301-311.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Watkins, D.S. &amp;amp; Elsner, L. (1990). On Rutishausers approach to selfsimilar flows. &lt;em&gt;SIAM Journal on matrix analysis and applications&lt;/em&gt;, &lt;em&gt;11&lt;/em&gt;(2), 301-311. doi:10.1137/0611020.&lt;/div&gt;</dgps>
+<ama>Watkins DS, Elsner L. On Rutishausers approach to selfsimilar flows. &lt;em&gt;SIAM Journal on matrix analysis and applications&lt;/em&gt;. 1990;11(2):301-311.</ama>
+<default>Watkins DS, Elsner L (1990) &lt;br /&gt;SIAM Journal on matrix analysis and applications 11(2): 301-311.</default>
+<wels>Watkins, D. S.; Elsner, L. (1990): On Rutishausers approach to selfsimilar flows &lt;em&gt;SIAM Journal on matrix analysis and applications&lt;/em&gt;,11:(2): 301-311.</wels>
+<mla>Watkins, David S., and Elsner, Ludwig. “On Rutishausers approach to selfsimilar flows”. &lt;em&gt;SIAM Journal on matrix analysis and applications&lt;/em&gt; 11.2 (1990): 301-311.</mla>
+<lncs>Watkins, D.S., Elsner, L.: On Rutishausers approach to selfsimilar flows. SIAM Journal on matrix analysis and applications. 11, 301-311 (1990).</lncs>
+<ieee>D.S. Watkins and L. Elsner, “On Rutishausers approach to selfsimilar flows”, &lt;em&gt;SIAM Journal on matrix analysis and applications&lt;/em&gt;,  vol. 11, 1990,  pp. 301-311.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Watkins, D. S., &amp;amp; Elsner, L. (1990). On Rutishausers approach to selfsimilar flows. &lt;em&gt;SIAM Journal on matrix analysis and applications&lt;/em&gt;, &lt;em&gt;11&lt;/em&gt;(2), 301-311.&lt;/div&gt;</apa_indent>
+<frontiers>Watkins, D. S., and Elsner, L. (1990). On Rutishausers approach to selfsimilar flows. &lt;em&gt;SIAM Journal on matrix analysis and applications&lt;/em&gt; 11, 301-311.</frontiers>
+<angewandte-chemie>D. S.  Watkins, and L.  Elsner, “On Rutishausers approach to selfsimilar flows”, &lt;em&gt;SIAM Journal on matrix analysis and applications&lt;/em&gt;, &lt;strong&gt;1990&lt;/strong&gt;, &lt;em&gt;11&lt;/em&gt;, 301-311.</angewandte-chemie>
+<apa>Watkins, D. S., &amp;amp; Elsner, L. (1990). On Rutishausers approach to selfsimilar flows. &lt;em&gt;SIAM Journal on matrix analysis and applications&lt;/em&gt;, &lt;em&gt;11&lt;/em&gt;(2), 301-311.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Watkins, David S., and Elsner, Ludwig. 1990. “On Rutishausers approach to selfsimilar flows”. &lt;em&gt;SIAM Journal on matrix analysis and applications&lt;/em&gt; 11 (2): 301-311.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776214</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776214</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776214</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

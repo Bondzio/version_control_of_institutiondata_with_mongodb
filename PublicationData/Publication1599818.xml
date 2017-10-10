@@ -1,0 +1,108 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Clustering of dependent components: A new paradigm for fMRI signal detection</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Anke</namePart>
+  <namePart type="family">Meyer-Bäse</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Monica K.</namePart>
+  <namePart type="family">Hurdal</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Oliver</namePart>
+  <namePart type="family">Lange</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Helge</namePart>
+  <namePart type="family">Ritter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">91130</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Neuroinformatik</namePart>
+  <identifier type="unibi">10038</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Exploratory data-driven methods such as unsupervised clustering and independent component analysis (ICA) are considered to be hypothesis-generating procedures and are complementary to the hypothesis-led statistical inferential methods in functional magnetic resonance imaging (fMRI). Recently, a new paradigm in ICA emerged, that of finding Ã¢Â€ÂœclustersÃ¢Â€Â of dependent components. This intriguing idea found its implementation into two new ICA algorithms: tree-dependent and topographic ICA. For fMRI, this represents the unifying paradigm of combining two powerful exploratory data analysis methods, ICA and unsupervised clustering techniques. For the fMRI data, a comparative quantitative evaluation between the two methods, tree-dependent and topographic ICA, was performed. The comparative results were evaluated by (1) task-related activation maps, (2) associated time courses, and (3) ROC study. The most important findings in this paper are that (1) both tree-dependent and topographic ICA are able to identify signal components with high correlation to the fMRI stimulus, and that (2) topographic ICA outperforms all other ICA methods including tree-dependent ICA for 8 and 9 ICs. However for 16 ICs, topographic ICA is outperformed by tree-dependent ICA (KGV) using as an approximation of the mutual information the kernel generalized variance. The applicability of the new algorithm is demonstrated on experimental data.</abstract>
+
+<originInfo><publisher>Springer Open</publisher><dateIssued encoding="w3cdtf">2005</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>fMRI</topic><topic>topographic ICA</topic><topic>tree-dependent ICA</topic><topic>dependent component analysis</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>EURASIP Journal on Advances in Signal Processing</title></titleInfo>
+  <identifier type="issn">1687-6172</identifier>
+  <identifier type="eIssn">1687-6180</identifier>
+  <identifier type="ISI">000235836500002</identifier><identifier type="doi">10.1155/ASP.2005.3089</identifier>
+<part><detail type="volume"><number>2005</number></detail><detail type="issue"><number>19</number></detail><extent unit="pages">3089-3102</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa>Meyer-Bäse, A., Hurdal, M. K., Lange, O., &amp;amp; Ritter, H. (2005). Clustering of dependent components: A new paradigm for fMRI signal detection. &lt;em&gt;EURASIP Journal on Advances in Signal Processing&lt;/em&gt;, &lt;em&gt;2005&lt;/em&gt;(19), 3089-3102.</apa>
+<angewandte-chemie>A.  Meyer-Bäse, M. K.  Hurdal, O.  Lange, and H.  Ritter, “Clustering of dependent components: A new paradigm for fMRI signal detection”, &lt;em&gt;EURASIP Journal on Advances in Signal Processing&lt;/em&gt;, &lt;strong&gt;2005&lt;/strong&gt;, &lt;em&gt;2005&lt;/em&gt;, 3089-3102.</angewandte-chemie>
+<frontiers>Meyer-Bäse, A., Hurdal, M. K., Lange, O., and Ritter, H. (2005). Clustering of dependent components: A new paradigm for fMRI signal detection. &lt;em&gt;EURASIP Journal on Advances in Signal Processing&lt;/em&gt; 2005, 3089-3102.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Meyer-Bäse, Anke, Hurdal, Monica K., Lange, Oliver, and Ritter, Helge. 2005. “Clustering of dependent components: A new paradigm for fMRI signal detection”. &lt;em&gt;EURASIP Journal on Advances in Signal Processing&lt;/em&gt; 2005 (19): 3089-3102.&lt;/div&gt;</chicago>
+<ieee>A. Meyer-Bäse, et al., “Clustering of dependent components: A new paradigm for fMRI signal detection”, &lt;em&gt;EURASIP Journal on Advances in Signal Processing&lt;/em&gt;,  vol. 2005, 2005,  pp. 3089-3102.</ieee>
+<mla>Meyer-Bäse, Anke, Hurdal, Monica K., Lange, Oliver, and Ritter, Helge. “Clustering of dependent components: A new paradigm for fMRI signal detection”. &lt;em&gt;EURASIP Journal on Advances in Signal Processing&lt;/em&gt; 2005.19 (2005): 3089-3102.</mla>
+<lncs>Meyer-Bäse, A., Hurdal, M.K., Lange, O., Ritter, H.: Clustering of dependent components: A new paradigm for fMRI signal detection. EURASIP Journal on Advances in Signal Processing. 2005, 3089-3102 (2005).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Meyer-Bäse, A., Hurdal, M. K., Lange, O., &amp;amp; Ritter, H. (2005). Clustering of dependent components: A new paradigm for fMRI signal detection. &lt;em&gt;EURASIP Journal on Advances in Signal Processing&lt;/em&gt;, &lt;em&gt;2005&lt;/em&gt;(19), 3089-3102.&lt;/div&gt;</apa_indent>
+<wels>Meyer-Bäse, A.; Hurdal, M. K.; Lange, O.; Ritter, H. (2005): Clustering of dependent components: A new paradigm for fMRI signal detection &lt;em&gt;EURASIP Journal on Advances in Signal Processing&lt;/em&gt;,2005:(19): 3089-3102.</wels>
+<default>Meyer-Bäse A, Hurdal MK, Lange O, Ritter H (2005) &lt;br /&gt;EURASIP Journal on Advances in Signal Processing 2005(19): 3089-3102.</default>
+<harvard1>Meyer-Bäse, A., et al., 2005. Clustering of dependent components: A new paradigm for fMRI signal detection. &lt;em&gt;EURASIP Journal on Advances in Signal Processing&lt;/em&gt;, 2005(19), p 3089-3102.</harvard1>
+<ama>Meyer-Bäse A, Hurdal MK, Lange O, Ritter H. Clustering of dependent components: A new paradigm for fMRI signal detection. &lt;em&gt;EURASIP Journal on Advances in Signal Processing&lt;/em&gt;. 2005;2005(19):3089-3102.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Meyer-Bäse, A., Hurdal, M.K., Lange, O. &amp;amp; Ritter, H. (2005). Clustering of dependent components: A new paradigm for fMRI signal detection. &lt;em&gt;EURASIP Journal on Advances in Signal Processing&lt;/em&gt;, &lt;em&gt;2005&lt;/em&gt;(19), 3089-3102. Springer Open. doi:10.1155/ASP.2005.3089.&lt;/div&gt;</dgps>
+<bio1>Meyer-Bäse A, Hurdal MK, Lange O, Ritter H (2005) &lt;br /&gt;Clustering of dependent components: A new paradigm for fMRI signal detection.&lt;br /&gt;EURASIP Journal on Advances in Signal Processing 2005(19): 3089-3102.</bio1>
+<aps>A.  Meyer-Bäse, et al., Clustering of dependent components: A new paradigm for fMRI signal detection, EURASIP Journal on Advances in Signal Processing &lt;strong&gt;2005&lt;/strong&gt;, 3089-3102 (2005).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1599818</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:30:56Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2015-05-07T13:18:59Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1599818</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1599818</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

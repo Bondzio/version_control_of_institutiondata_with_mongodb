@@ -1,0 +1,112 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Calculation of Feynman diagrams with zero mass threshold from their small momentum expansion</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Jochem</namePart>
+  <namePart type="family">Fleischer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40323</identifier></name>
+<name type="personal">
+  <namePart type="given">VA</namePart>
+  <namePart type="family">Smirnov</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">OV</namePart>
+  <namePart type="family">Tarasov</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Elektroschwache Wechselwirkungen</namePart>
+  <identifier type="unibi">23470617</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">A method of calculating Feynman diagrams from their small momentum expansion [1] is extended to diagrams with zero mass thresholds. We start from the asymptotic expansion in large masses [2] (applied to the case when all M-i(2) are large compared to all momenta squared). Using dimensional regularization, a finite result is obtained in terms of powers of logarithms (describing the zero-threshold singularity) times power series in the momentum squared. Surprisingly, these latter ones represent functions, which not only have the expected physical &apos;&apos;second threshold&apos;&apos; but have a branchcut singularity as well below threshold at a mirror position. These can be understood as pseudothresholds corresponding to solutions of the Landau equations. In the spacelike region the imaginary parts from the various contributions cancel. For the two-loop examples with one mass M, in the timelike region for q(2) approximate to M-2 we obtain approximations of high precision. This will be of relevance in particular for the calculation of the decay Z --&gt; &lt;b(b)over bar&gt; in the m(b) = 0 approximation.</abstract>
+
+<originInfo><publisher>SPRINGER VERLAG</publisher><dateIssued encoding="w3cdtf">1997</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>ZEITSCHRIFT FUR PHYSIK C-PARTICLES AND FIELDS</title></titleInfo>
+  <identifier type="issn">0170-9739</identifier>
+  <identifier type="eIssn">1431-5858</identifier>
+  <identifier type="arXiv">hep-ph/9605392</identifier>
+  <identifier type="INSPIRE">418964</identifier>
+  <identifier type="ISI">A1997WZ51900018</identifier><identifier type="doi">10.1007/s002880050400</identifier>
+<part><detail type="volume"><number>74</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">379-386</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Fleischer, J.; Smirnov, V. A.; Tarasov, O. V. (1997): Calculation of Feynman diagrams with zero mass threshold from their small momentum expansion &lt;em&gt;ZEITSCHRIFT FUR PHYSIK C-PARTICLES AND FIELDS&lt;/em&gt;,74:(2): 379-386.</wels>
+<default>Fleischer J, Smirnov VA, Tarasov OV (1997) &lt;br /&gt;ZEITSCHRIFT FUR PHYSIK C-PARTICLES AND FIELDS 74(2): 379-386.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fleischer, J., Smirnov, V.A. &amp;amp; Tarasov, O.V. (1997). Calculation of Feynman diagrams with zero mass threshold from their small momentum expansion. &lt;em&gt;ZEITSCHRIFT FUR PHYSIK C-PARTICLES AND FIELDS&lt;/em&gt;, &lt;em&gt;74&lt;/em&gt;(2), 379-386. SPRINGER VERLAG. doi:10.1007/s002880050400.&lt;/div&gt;</dgps>
+<ama>Fleischer J, Smirnov VA, Tarasov OV. Calculation of Feynman diagrams with zero mass threshold from their small momentum expansion. &lt;em&gt;ZEITSCHRIFT FUR PHYSIK C-PARTICLES AND FIELDS&lt;/em&gt;. 1997;74(2):379-386.</ama>
+<harvard1>Fleischer, J., Smirnov, V.A., &amp;amp; Tarasov, O.V., 1997. Calculation of Feynman diagrams with zero mass threshold from their small momentum expansion. &lt;em&gt;ZEITSCHRIFT FUR PHYSIK C-PARTICLES AND FIELDS&lt;/em&gt;, 74(2), p 379-386.</harvard1>
+<aps>J.  Fleischer, V. A.  Smirnov, and O. V.  Tarasov, Calculation of Feynman diagrams with zero mass threshold from their small momentum expansion, ZEITSCHRIFT FUR PHYSIK C-PARTICLES AND FIELDS &lt;strong&gt;74&lt;/strong&gt;, 379-386 (1997).</aps>
+<bio1>Fleischer J, Smirnov VA, Tarasov OV (1997) &lt;br /&gt;Calculation of Feynman diagrams with zero mass threshold from their small momentum expansion.&lt;br /&gt;ZEITSCHRIFT FUR PHYSIK C-PARTICLES AND FIELDS 74(2): 379-386.</bio1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fleischer, Jochem, Smirnov, VA, and Tarasov, OV. 1997. “Calculation of Feynman diagrams with zero mass threshold from their small momentum expansion”. &lt;em&gt;ZEITSCHRIFT FUR PHYSIK C-PARTICLES AND FIELDS&lt;/em&gt; 74 (2): 379-386.&lt;/div&gt;</chicago>
+<angewandte-chemie>J.  Fleischer, V. A.  Smirnov, and O. V.  Tarasov, “Calculation of Feynman diagrams with zero mass threshold from their small momentum expansion”, &lt;em&gt;ZEITSCHRIFT FUR PHYSIK C-PARTICLES AND FIELDS&lt;/em&gt;, &lt;strong&gt;1997&lt;/strong&gt;, &lt;em&gt;74&lt;/em&gt;, 379-386.</angewandte-chemie>
+<apa>Fleischer, J., Smirnov, V. A., &amp;amp; Tarasov, O. V. (1997). Calculation of Feynman diagrams with zero mass threshold from their small momentum expansion. &lt;em&gt;ZEITSCHRIFT FUR PHYSIK C-PARTICLES AND FIELDS&lt;/em&gt;, &lt;em&gt;74&lt;/em&gt;(2), 379-386.</apa>
+<frontiers>Fleischer, J., Smirnov, V. A., and Tarasov, O. V. (1997). Calculation of Feynman diagrams with zero mass threshold from their small momentum expansion. &lt;em&gt;ZEITSCHRIFT FUR PHYSIK C-PARTICLES AND FIELDS&lt;/em&gt; 74, 379-386.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fleischer, J., Smirnov, V. A., &amp;amp; Tarasov, O. V. (1997). Calculation of Feynman diagrams with zero mass threshold from their small momentum expansion. &lt;em&gt;ZEITSCHRIFT FUR PHYSIK C-PARTICLES AND FIELDS&lt;/em&gt;, &lt;em&gt;74&lt;/em&gt;(2), 379-386.&lt;/div&gt;</apa_indent>
+<ieee>J. Fleischer, V.A. Smirnov, and O.V. Tarasov, “Calculation of Feynman diagrams with zero mass threshold from their small momentum expansion”, &lt;em&gt;ZEITSCHRIFT FUR PHYSIK C-PARTICLES AND FIELDS&lt;/em&gt;,  vol. 74, 1997,  pp. 379-386.</ieee>
+<lncs>Fleischer, J., Smirnov, V.A., Tarasov, O.V.: Calculation of Feynman diagrams with zero mass threshold from their small momentum expansion. ZEITSCHRIFT FUR PHYSIK C-PARTICLES AND FIELDS. 74, 379-386 (1997).</lncs>
+<mla>Fleischer, Jochem, Smirnov, VA, and Tarasov, OV. “Calculation of Feynman diagrams with zero mass threshold from their small momentum expansion”. &lt;em&gt;ZEITSCHRIFT FUR PHYSIK C-PARTICLES AND FIELDS&lt;/em&gt; 74.2 (1997): 379-386.</mla>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1637170</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:14:07Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-13T13:30:37Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1637170</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1637170</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

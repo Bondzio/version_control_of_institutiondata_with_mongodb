@@ -1,0 +1,102 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Variation of the discrete eigenvalues of normal operators</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ludwig</namePart>
+  <namePart type="family">Elsner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10509</identifier></name>
+<name type="personal">
+  <namePart type="given">Shmuel</namePart>
+  <namePart type="family">Friedland</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The Hoffman-Wielandt inequality, which gives a bound for the distance between the spectra of two normal matrices, is generalized to normal operators A, B on a separable Hilbert space, such that A - B is Hilbert-Schmidt.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Elsner_080.pdf">https://pub.uni-bielefeld.de/download/1776234/2312116</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1995</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Proceedings of the American Mathematical Society</title></titleInfo>
+  <identifier type="issn">0002-9939</identifier>
+  <identifier type="ISI">A1995RP15100032</identifier><identifier type="urn">urn:nbn:de:0070-bipr-11593</identifier><identifier type="doi">10.2307/2161282</identifier>
+<part><detail type="volume"><number>123</number></detail><detail type="issue"><number>8</number></detail><extent unit="pages">2511-2517</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Elsner, Ludwig, and Friedland, Shmuel. 1995. “Variation of the discrete eigenvalues of normal operators”. &lt;em&gt;Proceedings of the American Mathematical Society&lt;/em&gt; 123 (8): 2511-2517.&lt;/div&gt;</chicago>
+<apa>Elsner, L., &amp;amp; Friedland, S. (1995). Variation of the discrete eigenvalues of normal operators. &lt;em&gt;Proceedings of the American Mathematical Society&lt;/em&gt;, &lt;em&gt;123&lt;/em&gt;(8), 2511-2517.</apa>
+<angewandte-chemie>L.  Elsner, and S.  Friedland, “Variation of the discrete eigenvalues of normal operators”, &lt;em&gt;Proceedings of the American Mathematical Society&lt;/em&gt;, &lt;strong&gt;1995&lt;/strong&gt;, &lt;em&gt;123&lt;/em&gt;, 2511-2517.</angewandte-chemie>
+<frontiers>Elsner, L., and Friedland, S. (1995). Variation of the discrete eigenvalues of normal operators. &lt;em&gt;Proceedings of the American Mathematical Society&lt;/em&gt; 123, 2511-2517.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Elsner, L., &amp;amp; Friedland, S. (1995). Variation of the discrete eigenvalues of normal operators. &lt;em&gt;Proceedings of the American Mathematical Society&lt;/em&gt;, &lt;em&gt;123&lt;/em&gt;(8), 2511-2517.&lt;/div&gt;</apa_indent>
+<ieee>L. Elsner and S. Friedland, “Variation of the discrete eigenvalues of normal operators”, &lt;em&gt;Proceedings of the American Mathematical Society&lt;/em&gt;,  vol. 123, 1995,  pp. 2511-2517.</ieee>
+<lncs>Elsner, L., Friedland, S.: Variation of the discrete eigenvalues of normal operators. Proceedings of the American Mathematical Society. 123, 2511-2517 (1995).</lncs>
+<mla>Elsner, Ludwig, and Friedland, Shmuel. “Variation of the discrete eigenvalues of normal operators”. &lt;em&gt;Proceedings of the American Mathematical Society&lt;/em&gt; 123.8 (1995): 2511-2517.</mla>
+<wels>Elsner, L.; Friedland, S. (1995): Variation of the discrete eigenvalues of normal operators &lt;em&gt;Proceedings of the American Mathematical Society&lt;/em&gt;,123:(8): 2511-2517.</wels>
+<default>Elsner L, Friedland S (1995) &lt;br /&gt;Proceedings of the American Mathematical Society 123(8): 2511-2517.</default>
+<ama>Elsner L, Friedland S. Variation of the discrete eigenvalues of normal operators. &lt;em&gt;Proceedings of the American Mathematical Society&lt;/em&gt;. 1995;123(8):2511-2517.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Elsner, L. &amp;amp; Friedland, S. (1995). Variation of the discrete eigenvalues of normal operators. &lt;em&gt;Proceedings of the American Mathematical Society&lt;/em&gt;, &lt;em&gt;123&lt;/em&gt;(8), 2511-2517. doi:10.2307/2161282.&lt;/div&gt;</dgps>
+<harvard1>Elsner, L., &amp;amp; Friedland, S., 1995. Variation of the discrete eigenvalues of normal operators. &lt;em&gt;Proceedings of the American Mathematical Society&lt;/em&gt;, 123(8), p 2511-2517.</harvard1>
+<aps>L.  Elsner and S.  Friedland, Variation of the discrete eigenvalues of normal operators, Proceedings of the American Mathematical Society &lt;strong&gt;123&lt;/strong&gt;, 2511-2517 (1995).</aps>
+<bio1>Elsner L, Friedland S (1995) &lt;br /&gt;Variation of the discrete eigenvalues of normal operators.&lt;br /&gt;Proceedings of the American Mathematical Society 123(8): 2511-2517.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776234</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776234</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776234</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

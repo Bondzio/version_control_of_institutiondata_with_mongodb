@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Numerical solution of time-dependent Schrodinger equation for multiphoton processes: A matrix iterative method</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Nurhuda</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Farhard</namePart>
+  <namePart type="family">Faisal</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40255</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Theoretische Atom-, Molekül- und Laserphysik</namePart>
+  <identifier type="unibi">23470672</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">An implicit algorithm for integration of the three-dimensional (3D) time-dependent Schrodinger equation of an atomic system interacting with intense laser pulses is developed. It is based on a matrix iteration of the Crank-Nicholson approximant to the short-time propagator using the total Hamiltonian (unsplit) of the system directly. To test the method, 3D Schrodinger wave-packet propagation is carried out, and so-called above-threshold ionization and high-harmonic generation spectra for atomic hydrogen irradiated by intense laser pulses are obtained. They are also compared with that obtained using the popular split-operator method. The present algorithm is shown to provide an alternative to the the split-operator method, and proves to be more efficient in all the cases studied here. A procedure for optimizing the maximum grid size is also given, and its usefulness is illustrated. [S1050-2947(99)06409-4].</abstract>
+
+<originInfo><publisher>AMERICAN PHYSICAL SOC</publisher><dateIssued encoding="w3cdtf">1999</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>PHYSICAL REVIEW A</title></titleInfo>
+  <identifier type="issn">1050-2947</identifier>
+  <identifier type="eIssn">1094-1622</identifier>
+  <identifier type="ISI">000083201000072</identifier><identifier type="doi">10.1103/PhysRevA.60.3125</identifier>
+<part><detail type="volume"><number>60</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">3125-3133</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa>Nurhuda, M., &amp;amp; Faisal, F. (1999). Numerical solution of time-dependent Schrodinger equation for multiphoton processes: A matrix iterative method. &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt;, &lt;em&gt;60&lt;/em&gt;(4), 3125-3133.</apa>
+<angewandte-chemie>M.  Nurhuda, and F.  Faisal, “Numerical solution of time-dependent Schrodinger equation for multiphoton processes: A matrix iterative method”, &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt;, &lt;strong&gt;1999&lt;/strong&gt;, &lt;em&gt;60&lt;/em&gt;, 3125-3133.</angewandte-chemie>
+<frontiers>Nurhuda, M., and Faisal, F. (1999). Numerical solution of time-dependent Schrodinger equation for multiphoton processes: A matrix iterative method. &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt; 60, 3125-3133.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Nurhuda, M, and Faisal, Farhard. 1999. “Numerical solution of time-dependent Schrodinger equation for multiphoton processes: A matrix iterative method”. &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt; 60 (4): 3125-3133.&lt;/div&gt;</chicago>
+<ieee>M. Nurhuda and F. Faisal, “Numerical solution of time-dependent Schrodinger equation for multiphoton processes: A matrix iterative method”, &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt;,  vol. 60, 1999,  pp. 3125-3133.</ieee>
+<lncs>Nurhuda, M., Faisal, F.: Numerical solution of time-dependent Schrodinger equation for multiphoton processes: A matrix iterative method. PHYSICAL REVIEW A. 60, 3125-3133 (1999).</lncs>
+<mla>Nurhuda, M, and Faisal, Farhard. “Numerical solution of time-dependent Schrodinger equation for multiphoton processes: A matrix iterative method”. &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt; 60.4 (1999): 3125-3133.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Nurhuda, M., &amp;amp; Faisal, F. (1999). Numerical solution of time-dependent Schrodinger equation for multiphoton processes: A matrix iterative method. &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt;, &lt;em&gt;60&lt;/em&gt;(4), 3125-3133.&lt;/div&gt;</apa_indent>
+<wels>Nurhuda, M.; Faisal, F. (1999): Numerical solution of time-dependent Schrodinger equation for multiphoton processes: A matrix iterative method &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt;,60:(4): 3125-3133.</wels>
+<default>Nurhuda M, Faisal F (1999) &lt;br /&gt;PHYSICAL REVIEW A 60(4): 3125-3133.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Nurhuda, M. &amp;amp; Faisal, F. (1999). Numerical solution of time-dependent Schrodinger equation for multiphoton processes: A matrix iterative method. &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt;, &lt;em&gt;60&lt;/em&gt;(4), 3125-3133. AMERICAN PHYSICAL SOC. doi:10.1103/PhysRevA.60.3125.&lt;/div&gt;</dgps>
+<ama>Nurhuda M, Faisal F. Numerical solution of time-dependent Schrodinger equation for multiphoton processes: A matrix iterative method. &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt;. 1999;60(4):3125-3133.</ama>
+<harvard1>Nurhuda, M., &amp;amp; Faisal, F., 1999. Numerical solution of time-dependent Schrodinger equation for multiphoton processes: A matrix iterative method. &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt;, 60(4), p 3125-3133.</harvard1>
+<aps>M.  Nurhuda and F.  Faisal, Numerical solution of time-dependent Schrodinger equation for multiphoton processes: A matrix iterative method, PHYSICAL REVIEW A &lt;strong&gt;60&lt;/strong&gt;, 3125-3133 (1999).</aps>
+<bio1>Nurhuda M, Faisal F (1999) &lt;br /&gt;Numerical solution of time-dependent Schrodinger equation for multiphoton processes: A matrix iterative method.&lt;br /&gt;PHYSICAL REVIEW A 60(4): 3125-3133.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1621571</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:05:26Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-11-04T10:03:48Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1621571</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1621571</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

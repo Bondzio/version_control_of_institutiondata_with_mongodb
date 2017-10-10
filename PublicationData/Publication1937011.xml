@@ -1,0 +1,89 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book</genre>
+
+<titleInfo><title>Das Ameisenpatent. Bioroboter und ihre tierischen Vorbilder</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ralf</namePart>
+  <namePart type="family">Möller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">94532</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Technische Informatik</namePart>
+  <identifier type="unibi">10040</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Elsevier / Spektrum Akademi­scher Verlag</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host">
+<part>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<lncs>Möller, R.: Das Ameisenpatent. Bioroboter und ihre tierischen Vorbilder. Elsevier / Spektrum Akademi­scher Verlag (2006).</lncs>
+<mla>Möller, Ralf. &lt;em&gt;Das Ameisenpatent. Bioroboter und ihre tierischen Vorbilder&lt;/em&gt;. Elsevier / Spektrum Akademi­scher Verlag, 2006.</mla>
+<ieee>R. Möller, &lt;em&gt;Das Ameisenpatent. Bioroboter und ihre tierischen Vorbilder&lt;/em&gt;, Elsevier / Spektrum Akademi­scher Verlag, 2006.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Möller, R. (2006).  &lt;em&gt;Das Ameisenpatent. Bioroboter und ihre tierischen Vorbilder&lt;/em&gt;. Elsevier / Spektrum Akademi­scher Verlag.&lt;/div&gt;</apa_indent>
+<frontiers>Möller, R. (2006). Das Ameisenpatent. Bioroboter und ihre tierischen Vorbilder. Elsevier / Spektrum Akademi­scher Verlag.</frontiers>
+<apa>Möller, R. (2006).  &lt;em&gt;Das Ameisenpatent. Bioroboter und ihre tierischen Vorbilder&lt;/em&gt;. Elsevier / Spektrum Akademi­scher Verlag.</apa>
+<angewandte-chemie>R.  Möller, &lt;em&gt;Das Ameisenpatent. Bioroboter und ihre tierischen Vorbilder&lt;/em&gt;, Elsevier / Spektrum Akademi­scher Verlag, &lt;strong&gt;2006&lt;/strong&gt;.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Möller, Ralf. 2006. &lt;em&gt;Das Ameisenpatent. Bioroboter und ihre tierischen Vorbilder&lt;/em&gt;. Elsevier / Spektrum Akademi­scher Verlag.&lt;/div&gt;</chicago>
+<bio1>Möller R (2006) &lt;br /&gt;&lt;em&gt;Das Ameisenpatent. Bioroboter und ihre tierischen Vorbilder&lt;/em&gt;.&lt;br /&gt;Elsevier / Spektrum Akademi­scher Verlag.</bio1>
+<aps>R.  Möller, Das Ameisenpatent. Bioroboter und ihre tierischen Vorbilder, (Elsevier / Spektrum Akademi­scher Verlag, 2006).</aps>
+<ama>Möller R. &lt;em&gt;Das Ameisenpatent. Bioroboter und ihre tierischen Vorbilder&lt;/em&gt;. Elsevier / Spektrum Akademi­scher Verlag; 2006.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Möller, R. (2006). &lt;em&gt;Das Ameisenpatent. Bioroboter und ihre tierischen Vorbilder&lt;/em&gt;. Elsevier / Spektrum Akademi­scher Verlag.&lt;/div&gt;</dgps>
+<harvard1>Möller, R., 2006. &lt;em&gt;Das Ameisenpatent. Bioroboter und ihre tierischen Vorbilder&lt;/em&gt;, Elsevier / Spektrum Akademi­scher Verlag.</harvard1>
+<default>Möller R (2006) &lt;br /&gt;Elsevier / Spektrum Akademi­scher Verlag.</default>
+<wels>Möller, R. (2006): Das Ameisenpatent. Bioroboter und ihre tierischen Vorbilder. Elsevier / Spektrum Akademi­scher Verlag.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1937011</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-12-08T15:36:16Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-09T13:54:22Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1937011</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1937011</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

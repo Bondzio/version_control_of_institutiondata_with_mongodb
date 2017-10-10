@@ -1,0 +1,143 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Fully cross-linked and chemically patterned self-assembled monolayers</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">André</namePart>
+  <namePart type="family">Beyer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">138619</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-9569-0344</description></name>
+<name type="personal">
+  <namePart type="given">Adelheid</namePart>
+  <namePart type="family">Godt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">101324</identifier></name>
+<name type="personal">
+  <namePart type="given">Ihsan</namePart>
+  <namePart type="family">Amin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">177018</identifier></name>
+<name type="personal">
+  <namePart type="given">Christoph T.</namePart>
+  <namePart type="family">Nottbohm</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">Schmidt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">3793169</identifier></name>
+<name type="personal">
+  <namePart type="given">Jinkai</namePart>
+  <namePart type="family">Zhao</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Armin</namePart>
+  <namePart type="family">Gölzhäuser</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">109837</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-0838-9028</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Physik supramolekularer Systeme und Oberflächen</namePart>
+  <identifier type="unibi">29103248</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Organische Chemie II</namePart>
+  <identifier type="unibi">17976</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  A. Gölzhäuser</namePart>
+  <identifier type="unibi">33079548</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Biophysik und Nanowissenschaften</namePart>
+  <identifier type="unibi">2161137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Mechanically stable monolayers with chemically functional patterns are fabricated by the combination of spatially resolved chemical lithography with complete cross-linking of aromatic self-assembled monolayers (SAMs). The process starts with a local electron exposure of a SAM of 4&apos;-nitro-1,1&apos;-biphenyl-4-thiol that converts the nitro into amino groups and, additionally, generates a pattern of cross-linked and non cross-linked regions. In the next step, molecules in the non cross-linked regions are exchanged for 1,1&apos;-biphenyl-4-thiol. A subsequent electron exposure cross-links these regions, yielding a fully cross-linked, chemically patterned SAM. The reverse process that generates chemically complementary patterns is also demonstrated. For both processes, X-ray photoelectron spectroscopy and atomic force microscopy are used to monitor the fabrication steps and to determine the kinetics of the thiol exchange. The functionality of the fully cross-linked, chemically patterned monolayer is tested by the site selective derivatisation with pentanoic acid chloride.</abstract>
+
+<originInfo><publisher>ROYAL SOC CHEMISTRY</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>PHYSICAL CHEMISTRY CHEMICAL PHYSICS</title></titleInfo>
+  <identifier type="issn">1463-9076</identifier>
+  <identifier type="eIssn">1463-9084</identifier>
+  <identifier type="MEDLINE">19060967</identifier>
+  <identifier type="ISI">000261742000005</identifier><identifier type="doi">10.1039/b809787a</identifier>
+<part><detail type="volume"><number>10</number></detail><detail type="issue"><number>48</number></detail><extent unit="pages">7233-7238</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Beyer, A., Godt, A., Amin, I., Nottbohm, C. T., Schmidt, C., Zhao, J., &amp;amp; Gölzhäuser, A. (2008). Fully cross-linked and chemically patterned self-assembled monolayers. &lt;em&gt;PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt;, &lt;em&gt;10&lt;/em&gt;(48), 7233-7238.&lt;/div&gt;</apa_indent>
+<ieee>A. Beyer, et al., “Fully cross-linked and chemically patterned self-assembled monolayers”, &lt;em&gt;PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt;,  vol. 10, 2008,  pp. 7233-7238.</ieee>
+<lncs>Beyer, A., Godt, A., Amin, I., Nottbohm, C.T., Schmidt, C., Zhao, J., Gölzhäuser, A.: Fully cross-linked and chemically patterned self-assembled monolayers. PHYSICAL CHEMISTRY CHEMICAL PHYSICS. 10, 7233-7238 (2008).</lncs>
+<mla>Beyer, André, Godt, Adelheid, Amin, Ihsan, Nottbohm, Christoph T., Schmidt, Christian, Zhao, Jinkai, and Gölzhäuser, Armin. “Fully cross-linked and chemically patterned self-assembled monolayers”. &lt;em&gt;PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt; 10.48 (2008): 7233-7238.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Beyer, André, Godt, Adelheid, Amin, Ihsan, Nottbohm, Christoph T., Schmidt, Christian, Zhao, Jinkai, and Gölzhäuser, Armin. 2008. “Fully cross-linked and chemically patterned self-assembled monolayers”. &lt;em&gt;PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt; 10 (48): 7233-7238.&lt;/div&gt;</chicago>
+<apa>Beyer, A., Godt, A., Amin, I., Nottbohm, C. T., Schmidt, C., Zhao, J., &amp;amp; Gölzhäuser, A. (2008). Fully cross-linked and chemically patterned self-assembled monolayers. &lt;em&gt;PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt;, &lt;em&gt;10&lt;/em&gt;(48), 7233-7238.</apa>
+<angewandte-chemie>A.  Beyer, A.  Godt, I.  Amin, C. T.  Nottbohm, C.  Schmidt, J.  Zhao, and A.  Gölzhäuser, “Fully cross-linked and chemically patterned self-assembled monolayers”, &lt;em&gt;PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt;, &lt;strong&gt;2008&lt;/strong&gt;, &lt;em&gt;10&lt;/em&gt;, 7233-7238.</angewandte-chemie>
+<frontiers>Beyer, A., Godt, A., Amin, I., Nottbohm, C. T., Schmidt, C., Zhao, J., and Gölzhäuser, A. (2008). Fully cross-linked and chemically patterned self-assembled monolayers. &lt;em&gt;PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt; 10, 7233-7238.</frontiers>
+<ama>Beyer A, Godt A, Amin I, et al. Fully cross-linked and chemically patterned self-assembled monolayers. &lt;em&gt;PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt;. 2008;10(48):7233-7238.</ama>
+<harvard1>Beyer, A., et al., 2008. Fully cross-linked and chemically patterned self-assembled monolayers. &lt;em&gt;PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt;, 10(48), p 7233-7238.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Beyer, A., Godt, A., Amin, I., Nottbohm, C.T., Schmidt, C., Zhao, J. &amp;amp; Gölzhäuser, A. (2008). Fully cross-linked and chemically patterned self-assembled monolayers. &lt;em&gt;PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt;, &lt;em&gt;10&lt;/em&gt;(48), 7233-7238. ROYAL SOC CHEMISTRY. doi:10.1039/b809787a.&lt;/div&gt;</dgps>
+<aps>A.  Beyer, et al., Fully cross-linked and chemically patterned self-assembled monolayers, PHYSICAL CHEMISTRY CHEMICAL PHYSICS &lt;strong&gt;10&lt;/strong&gt;, 7233-7238 (2008).</aps>
+<bio1>Beyer A, Godt A, Amin I, Nottbohm CT, Schmidt C, Zhao J, Gölzhäuser A (2008) &lt;br /&gt;Fully cross-linked and chemically patterned self-assembled monolayers.&lt;br /&gt;PHYSICAL CHEMISTRY CHEMICAL PHYSICS 10(48): 7233-7238.</bio1>
+<wels>Beyer, A.; Godt, A.; Amin, I.; Nottbohm, C. T.; Schmidt, C.; Zhao, J.; Gölzhäuser, A. (2008): Fully cross-linked and chemically patterned self-assembled monolayers &lt;em&gt;PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt;,10:(48): 7233-7238.</wels>
+<default>Beyer A, Godt A, Amin I, Nottbohm CT, Schmidt C, Zhao J, Gölzhäuser A (2008) &lt;br /&gt;PHYSICAL CHEMISTRY CHEMICAL PHYSICS 10(48): 7233-7238.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1636415</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:08:04Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-16T16:20:11Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1636415</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1636415</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

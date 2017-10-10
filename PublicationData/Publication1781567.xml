@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Forschung - Lehre - Lernen</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ludwig</namePart>
+  <namePart type="family">Huber</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">172028</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Ludwig</namePart><namePart type="family">Huber</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10061</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10021</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT2574.pdf">https://pub.uni-bielefeld.de/download/1781567/2313345</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Klett-Cotta</publisher><dateIssued encoding="w3cdtf">1983</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Ausbildung und Sozialisation in der Hochschule</title></titleInfo>
+  <identifier type="isbn">3-12-932310-4</identifier><identifier type="urn">urn:nbn:de:0070-bipr-25744</identifier>
+<part><detail type="volume"><number>10</number></detail><extent unit="pages">496-501</extent>
+</part>
+</relatedItem>
+
+<note type="nonBielefeld">yes</note>
+<extension>
+<bibliographicCitation>
+<aps> L.  Huber, Forschung - Lehre - Lernen, in &lt;em&gt;Ausbildung und Sozialisation in der Hochschule&lt;/em&gt;, edited by L.  Huber, Enzyklopädie Erziehungswissenschaft, &lt;strong&gt;10&lt;/strong&gt; (Klett-Cotta, Stuttgart, 1983), p. 496-501.</aps>
+<bio1>Huber L (1983) &lt;br /&gt;Forschung - Lehre - Lernen. &lt;br /&gt;In:  Ausbildung und Sozialisation in der Hochschule. Huber L (Ed); Enzyklopädie Erziehungswissenschaft, 10. Stuttgart: Klett-Cotta:  496-501.</bio1>
+<harvard1>Huber, L., 1983. Forschung - Lehre - Lernen. In L.  Huber, ed. &lt;em&gt;Ausbildung und Sozialisation in der Hochschule&lt;/em&gt;. Enzyklopädie Erziehungswissenschaft. no.10  Stuttgart: Klett-Cotta, pp. 496-501.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Huber, L. (1983). Forschung - Lehre - Lernen (Enzyklopädie Erziehungswissenschaft). &lt;em&gt;Ausbildung und Sozialisation in der Hochschule&lt;/em&gt; (S. 496-501). Stuttgart: Klett-Cotta.&lt;/div&gt;</dgps>
+<ama>Huber L. Forschung - Lehre - Lernen. In: Huber L, ed. &lt;em&gt;Ausbildung und Sozialisation in der Hochschule&lt;/em&gt;. Enzyklopädie Erziehungswissenschaft. Vol 10. Stuttgart: Klett-Cotta;  1983: 496-501.</ama>
+<default>Huber L (1983)  &lt;br /&gt;In:  Ausbildung und Sozialisation in der Hochschule. Huber L (Ed); Enzyklopädie Erziehungswissenschaft, 10. Stuttgart: Klett-Cotta:  496-501.</default>
+<wels>Huber, L. (1983): Forschung - Lehre - Lernen. In: Ludwig Huber (Hrsg.):  Ausbildung und Sozialisation in der Hochschule. Stuttgart: Klett-Cotta. (Enzyklopädie Erziehungswissenschaft, 10).  S. 496-501.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Huber, L. (1983). Forschung - Lehre - Lernen. In L.  Huber (Ed.), &lt;em&gt;Enzyklopädie Erziehungswissenschaft: Vol. 10&lt;/em&gt;&lt;em&gt;. Ausbildung und Sozialisation in der Hochschule&lt;/em&gt; (pp. 496-501). Stuttgart: Klett-Cotta.&lt;/div&gt;</apa_indent>
+<mla>Huber, Ludwig. “Forschung - Lehre - Lernen”. &lt;em&gt;Ausbildung und Sozialisation in der Hochschule&lt;/em&gt;. Ed. Ludwig Huber. Stuttgart: Klett-Cotta, 1983.Vol. 10. Enzyklopädie Erziehungswissenschaft. 496-501.</mla>
+<lncs> Huber, L.: Forschung - Lehre - Lernen. In: Huber, L. (ed.) Ausbildung und Sozialisation in der Hochschule. Enzyklopädie Erziehungswissenschaft. 10, p. 496-501. Klett-Cotta, Stuttgart (1983).</lncs>
+<ieee> L. Huber, “Forschung - Lehre - Lernen”, &lt;em&gt;Ausbildung und Sozialisation in der Hochschule&lt;/em&gt;, L. Huber, ed., Enzyklopädie Erziehungswissenschaft, vol. 10,  Stuttgart: Klett-Cotta, 1983,  pp.496-501.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Huber, Ludwig. 1983. “Forschung - Lehre - Lernen”. In &lt;em&gt;Ausbildung und Sozialisation in der Hochschule&lt;/em&gt;, ed. Ludwig Huber, 10:496-501. Enzyklopädie Erziehungswissenschaft. Stuttgart: Klett-Cotta.&lt;/div&gt;</chicago>
+<frontiers>Huber, L. (1983). “Forschung - Lehre - Lernen” in &lt;em&gt;Ausbildung und Sozialisation in der Hochschule&lt;/em&gt;, Huber, L. ed. Enzyklopädie Erziehungswissenschaft, vol. 10, (Stuttgart: Klett-Cotta), 496-501.</frontiers>
+<apa>Huber, L. (1983). Forschung - Lehre - Lernen. In L.  Huber (Ed.), &lt;em&gt;Enzyklopädie Erziehungswissenschaft: Vol. 10&lt;/em&gt;&lt;em&gt;. Ausbildung und Sozialisation in der Hochschule&lt;/em&gt; (pp. 496-501). Stuttgart: Klett-Cotta.</apa>
+<angewandte-chemie>L.  Huber, in &lt;em&gt;Ausbildung und Sozialisation in der Hochschule&lt;/em&gt; (Ed.: L. Huber), Klett-Cotta, Stuttgart, &lt;strong&gt;1983&lt;/strong&gt;, p. 496-501.</angewandte-chemie>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781567</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-08-11T10:20:56Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-08-11T10:20:56Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781567</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781567</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

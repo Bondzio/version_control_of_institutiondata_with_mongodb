@@ -1,0 +1,121 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Parallel nanolithography in carbon layers with conductive imprint stamps</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">T</namePart>
+  <namePart type="family">Muhl</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J</namePart>
+  <namePart type="family">Kretz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">I</namePart>
+  <namePart type="family">Monch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">CM</namePart>
+  <namePart type="family">Schneider</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">H</namePart>
+  <namePart type="family">Bruckl</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Günter</namePart>
+  <namePart type="family">Reiss</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40207</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-0918-5940</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Dünne Schichten &amp; Physik der Nanostrukturen</namePart>
+  <identifier type="unibi">28536538</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Centrum für Biotechnologie</namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Nanometer-scale lithography in amorphous carbon layers was carried out by locally oxidizing the carbon under the tip of a scanning probe microscope. Although this patterning technique is able to yield very small structures, its speed is severely limited due to the serial character of the writing process. We exploit the potential of local carbon oxidation to give a parallel lithography approach which uses prepatterned stamps for electron-induced parallel structuring of the carbon film. This technique allows the transfer of complex, three-dimensional patterns into a carbon resist layer within a single process step. (C) 2000 American Institute of Physics. [S0003-6951(00)02206-3].</abstract>
+
+<originInfo><publisher>AMER INST PHYSICS</publisher><dateIssued encoding="w3cdtf">2000</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>APPLIED PHYSICS LETTERS</title></titleInfo>
+  <identifier type="issn">0003-6951</identifier>
+  <identifier type="ISI">000085075200043</identifier><identifier type="doi">10.1063/1.125895</identifier>
+<part><detail type="volume"><number>76</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">786-788</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>T. Muhl, et al., “Parallel nanolithography in carbon layers with conductive imprint stamps”, &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;,  vol. 76, 2000,  pp. 786-788.</ieee>
+<mla>Muhl, T, Kretz, J, Monch, I, Schneider, CM, Bruckl, H, and Reiss, Günter. “Parallel nanolithography in carbon layers with conductive imprint stamps”. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt; 76.6 (2000): 786-788.</mla>
+<lncs>Muhl, T., Kretz, J., Monch, I., Schneider, C.M., Bruckl, H., Reiss, G.: Parallel nanolithography in carbon layers with conductive imprint stamps. APPLIED PHYSICS LETTERS. 76, 786-788 (2000).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Muhl, T., Kretz, J., Monch, I., Schneider, C. M., Bruckl, H., &amp;amp; Reiss, G. (2000). Parallel nanolithography in carbon layers with conductive imprint stamps. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, &lt;em&gt;76&lt;/em&gt;(6), 786-788.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>T.  Muhl, J.  Kretz, I.  Monch, C. M.  Schneider, H.  Bruckl, and G.  Reiss, “Parallel nanolithography in carbon layers with conductive imprint stamps”, &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, &lt;strong&gt;2000&lt;/strong&gt;, &lt;em&gt;76&lt;/em&gt;, 786-788.</angewandte-chemie>
+<apa>Muhl, T., Kretz, J., Monch, I., Schneider, C. M., Bruckl, H., &amp;amp; Reiss, G. (2000). Parallel nanolithography in carbon layers with conductive imprint stamps. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, &lt;em&gt;76&lt;/em&gt;(6), 786-788.</apa>
+<frontiers>Muhl, T., Kretz, J., Monch, I., Schneider, C. M., Bruckl, H., and Reiss, G. (2000). Parallel nanolithography in carbon layers with conductive imprint stamps. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt; 76, 786-788.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Muhl, T, Kretz, J, Monch, I, Schneider, CM, Bruckl, H, and Reiss, Günter. 2000. “Parallel nanolithography in carbon layers with conductive imprint stamps”. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt; 76 (6): 786-788.&lt;/div&gt;</chicago>
+<harvard1>Muhl, T., et al., 2000. Parallel nanolithography in carbon layers with conductive imprint stamps. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, 76(6), p 786-788.</harvard1>
+<ama>Muhl T, Kretz J, Monch I, Schneider CM, Bruckl H, Reiss G. Parallel nanolithography in carbon layers with conductive imprint stamps. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;. 2000;76(6):786-788.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Muhl, T., Kretz, J., Monch, I., Schneider, C.M., Bruckl, H. &amp;amp; Reiss, G. (2000). Parallel nanolithography in carbon layers with conductive imprint stamps. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, &lt;em&gt;76&lt;/em&gt;(6), 786-788. AMER INST PHYSICS. doi:10.1063/1.125895.&lt;/div&gt;</dgps>
+<bio1>Muhl T, Kretz J, Monch I, Schneider CM, Bruckl H, Reiss G (2000) &lt;br /&gt;Parallel nanolithography in carbon layers with conductive imprint stamps.&lt;br /&gt;APPLIED PHYSICS LETTERS 76(6): 786-788.</bio1>
+<aps>T.  Muhl, et al., Parallel nanolithography in carbon layers with conductive imprint stamps, APPLIED PHYSICS LETTERS &lt;strong&gt;76&lt;/strong&gt;, 786-788 (2000).</aps>
+<wels>Muhl, T.; Kretz, J.; Monch, I.; Schneider, C. M.; Bruckl, H.; Reiss, G. (2000): Parallel nanolithography in carbon layers with conductive imprint stamps &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;,76:(6): 786-788.</wels>
+<default>Muhl T, Kretz J, Monch I, Schneider CM, Bruckl H, Reiss G (2000) &lt;br /&gt;APPLIED PHYSICS LETTERS 76(6): 786-788.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1620718</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:04:54Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-16T10:23:34Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1620718</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1620718</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

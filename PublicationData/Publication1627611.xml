@@ -1,0 +1,104 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>A dynamical system approach to SOC models of Zhang&apos;s type</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Philippe</namePart>
+  <namePart type="family">Blanchard</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40322</identifier></name>
+<name type="personal">
+  <namePart type="given">B</namePart>
+  <namePart type="family">Cessac</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Tyll</namePart>
+  <namePart type="family">Krüger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">87692</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Mathematische Physik</namePart>
+  <identifier type="unibi">29104678</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We discuss Zhang&apos;s model of SOC in the framework of hyperbolic dynamical systems with singularities. The fractal structure of the invariant energy distribution, correlation decay-like phenomena, and symbolic coding are discussed.</abstract>
+
+<originInfo><publisher>PLENUM PUBL CORP</publisher><dateIssued encoding="w3cdtf">1997</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>hyperbolic dynamical systems with</topic><topic>fractal structure</topic><topic>of the invariant energy distribution</topic><topic>invariant sets and invariant measures</topic><topic>self-organized criticality</topic><topic>singularities</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF STATISTICAL PHYSICS</title></titleInfo>
+  <identifier type="issn">0022-4715</identifier>
+  <identifier type="eIssn">1572-9613</identifier>
+  <identifier type="ISI">A1997XT83300012</identifier><identifier type="doi">10.1007/BF02508473</identifier>
+<part><detail type="volume"><number>88</number></detail><detail type="issue"><number>1-2</number></detail><extent unit="pages">307-318</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Blanchard, P., Cessac, B., &amp;amp; Krüger, T. (1997). A dynamical system approach to SOC models of Zhang&apos;s type. &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt;, &lt;em&gt;88&lt;/em&gt;(1-2), 307-318.&lt;/div&gt;</apa_indent>
+<ieee>P. Blanchard, B. Cessac, and T. Krüger, “A dynamical system approach to SOC models of Zhang&apos;s type”, &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt;,  vol. 88, 1997,  pp. 307-318.</ieee>
+<lncs>Blanchard, P., Cessac, B., Krüger, T.: A dynamical system approach to SOC models of Zhang&apos;s type. JOURNAL OF STATISTICAL PHYSICS. 88, 307-318 (1997).</lncs>
+<mla>Blanchard, Philippe, Cessac, B, and Krüger, Tyll. “A dynamical system approach to SOC models of Zhang&apos;s type”. &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt; 88.1-2 (1997): 307-318.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Blanchard, Philippe, Cessac, B, and Krüger, Tyll. 1997. “A dynamical system approach to SOC models of Zhang&apos;s type”. &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt; 88 (1-2): 307-318.&lt;/div&gt;</chicago>
+<angewandte-chemie>P.  Blanchard, B.  Cessac, and T.  Krüger, “A dynamical system approach to SOC models of Zhang&apos;s type”, &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt;, &lt;strong&gt;1997&lt;/strong&gt;, &lt;em&gt;88&lt;/em&gt;, 307-318.</angewandte-chemie>
+<apa>Blanchard, P., Cessac, B., &amp;amp; Krüger, T. (1997). A dynamical system approach to SOC models of Zhang&apos;s type. &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt;, &lt;em&gt;88&lt;/em&gt;(1-2), 307-318.</apa>
+<frontiers>Blanchard, P., Cessac, B., and Krüger, T. (1997). A dynamical system approach to SOC models of Zhang&apos;s type. &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt; 88, 307-318.</frontiers>
+<harvard1>Blanchard, P., Cessac, B., &amp;amp; Krüger, T., 1997. A dynamical system approach to SOC models of Zhang&apos;s type. &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt;, 88(1-2), p 307-318.</harvard1>
+<ama>Blanchard P, Cessac B, Krüger T. A dynamical system approach to SOC models of Zhang&apos;s type. &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt;. 1997;88(1-2):307-318.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Blanchard, P., Cessac, B. &amp;amp; Krüger, T. (1997). A dynamical system approach to SOC models of Zhang&apos;s type. &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt;, &lt;em&gt;88&lt;/em&gt;(1-2), 307-318. PLENUM PUBL CORP. doi:10.1007/BF02508473.&lt;/div&gt;</dgps>
+<aps>P.  Blanchard, B.  Cessac, and T.  Krüger, A dynamical system approach to SOC models of Zhang&apos;s type, JOURNAL OF STATISTICAL PHYSICS &lt;strong&gt;88&lt;/strong&gt;, 307-318 (1997).</aps>
+<bio1>Blanchard P, Cessac B, Krüger T (1997) &lt;br /&gt;A dynamical system approach to SOC models of Zhang&apos;s type.&lt;br /&gt;JOURNAL OF STATISTICAL PHYSICS 88(1-2): 307-318.</bio1>
+<wels>Blanchard, P.; Cessac, B.; Krüger, T. (1997): A dynamical system approach to SOC models of Zhang&apos;s type &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt;,88:(1-2): 307-318.</wels>
+<default>Blanchard P, Cessac B, Krüger T (1997) &lt;br /&gt;JOURNAL OF STATISTICAL PHYSICS 88(1-2): 307-318.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1627611</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:22:22Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-17T13:53:57Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1627611</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1627611</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

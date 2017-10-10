@@ -1,0 +1,111 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Cellular nonlinear network-based bio-inspired decentralized control of locomotion for hexapod robots</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">P.</namePart>
+  <namePart type="family">Arena</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Holk</namePart>
+  <namePart type="family">Cruse</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21923</identifier></name>
+<name type="personal">
+  <namePart type="given">M.</namePart>
+  <namePart type="family">Frasca</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Biologie</namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Biologische Kybernetik</namePart>
+  <identifier type="unibi">2685507</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">This article introduces a new approach to locomotion control in six-legged robots. The approach is inspired by the model of decentralized locomotion control in the stick insect introduced by one of the authors and makes use of second-order nonlinear systems to realize the neuron-like dynamics of the sub-units of the whole control system. Each of these sub-units controls the behavior of a leg and is coordinated with the others by means of local influences based on the leg status, revealed by contact sensors. The suitability of the approach has been shown by using cellular nonlinear networks (CNNs) to implement the leg controllers. Simulations of the CNN-based locomotion control demonstrate its robustness with respect to different initial conditions and the property of pattern recovery after the external blocking of a leg.</abstract>
+
+<originInfo><publisher>Sage</publisher><dateIssued encoding="w3cdtf">2002</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>dynamical system</topic><topic>locomotion control</topic><topic>gait</topic><topic>bio-robots</topic><topic>cellular nonlinear</topic><topic>networks</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Adaptive Behavior</title></titleInfo>
+  <identifier type="issn">1059-7123</identifier>
+  <identifier type="ISI">000182397900002</identifier>
+<part><detail type="volume"><number>10</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">97-111</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Arena, P., Cruse, H., and Frasca, M. (2002). Cellular nonlinear network-based bio-inspired decentralized control of locomotion for hexapod robots. &lt;em&gt;Adaptive Behavior&lt;/em&gt; 10, 97-111.</frontiers>
+<angewandte-chemie>P.  Arena, H.  Cruse, and M.  Frasca, “Cellular nonlinear network-based bio-inspired decentralized control of locomotion for hexapod robots”, &lt;em&gt;Adaptive Behavior&lt;/em&gt;, &lt;strong&gt;2002&lt;/strong&gt;, &lt;em&gt;10&lt;/em&gt;, 97-111.</angewandte-chemie>
+<apa>Arena, P., Cruse, H., &amp;amp; Frasca, M. (2002). Cellular nonlinear network-based bio-inspired decentralized control of locomotion for hexapod robots. &lt;em&gt;Adaptive Behavior&lt;/em&gt;, &lt;em&gt;10&lt;/em&gt;(2), 97-111.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Arena, P., Cruse, Holk, and Frasca, M. 2002. “Cellular nonlinear network-based bio-inspired decentralized control of locomotion for hexapod robots”. &lt;em&gt;Adaptive Behavior&lt;/em&gt; 10 (2): 97-111.&lt;/div&gt;</chicago>
+<mla>Arena, P., Cruse, Holk, and Frasca, M. “Cellular nonlinear network-based bio-inspired decentralized control of locomotion for hexapod robots”. &lt;em&gt;Adaptive Behavior&lt;/em&gt; 10.2 (2002): 97-111.</mla>
+<lncs>Arena, P., Cruse, H., Frasca, M.: Cellular nonlinear network-based bio-inspired decentralized control of locomotion for hexapod robots. Adaptive Behavior. 10, 97-111 (2002).</lncs>
+<ieee>P. Arena, H. Cruse, and M. Frasca, “Cellular nonlinear network-based bio-inspired decentralized control of locomotion for hexapod robots”, &lt;em&gt;Adaptive Behavior&lt;/em&gt;,  vol. 10, 2002,  pp. 97-111.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Arena, P., Cruse, H., &amp;amp; Frasca, M. (2002). Cellular nonlinear network-based bio-inspired decentralized control of locomotion for hexapod robots. &lt;em&gt;Adaptive Behavior&lt;/em&gt;, &lt;em&gt;10&lt;/em&gt;(2), 97-111.&lt;/div&gt;</apa_indent>
+<default>Arena P, Cruse H, Frasca M (2002) &lt;br /&gt;Adaptive Behavior 10(2): 97-111.</default>
+<wels>Arena, P.; Cruse, H.; Frasca, M. (2002): Cellular nonlinear network-based bio-inspired decentralized control of locomotion for hexapod robots &lt;em&gt;Adaptive Behavior&lt;/em&gt;,10:(2): 97-111.</wels>
+<bio1>Arena P, Cruse H, Frasca M (2002) &lt;br /&gt;Cellular nonlinear network-based bio-inspired decentralized control of locomotion for hexapod robots.&lt;br /&gt;Adaptive Behavior 10(2): 97-111.</bio1>
+<aps>P.  Arena, H.  Cruse, and M.  Frasca, Cellular nonlinear network-based bio-inspired decentralized control of locomotion for hexapod robots, Adaptive Behavior &lt;strong&gt;10&lt;/strong&gt;, 97-111 (2002).</aps>
+<ama>Arena P, Cruse H, Frasca M. Cellular nonlinear network-based bio-inspired decentralized control of locomotion for hexapod robots. &lt;em&gt;Adaptive Behavior&lt;/em&gt;. 2002;10(2):97-111.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Arena, P., Cruse, H. &amp;amp; Frasca, M. (2002). Cellular nonlinear network-based bio-inspired decentralized control of locomotion for hexapod robots. &lt;em&gt;Adaptive Behavior&lt;/em&gt;, &lt;em&gt;10&lt;/em&gt;(2), 97-111. Sage.&lt;/div&gt;</dgps>
+<harvard1>Arena, P., Cruse, H., &amp;amp; Frasca, M., 2002. Cellular nonlinear network-based bio-inspired decentralized control of locomotion for hexapod robots. &lt;em&gt;Adaptive Behavior&lt;/em&gt;, 10(2), p 97-111.</harvard1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1611931</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:59:37Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2014-12-18T14:41:30Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1611931</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1611931</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

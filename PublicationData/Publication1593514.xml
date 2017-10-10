@@ -1,0 +1,159 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Actinic inspection of EUVL mask blank defects by photoemission electron microscopy: Effect of inspection wavelength variation</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Jingquan</namePart>
+  <namePart type="family">Lin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">U.</namePart>
+  <namePart type="family">Neuhaeusler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J.</namePart>
+  <namePart type="family">Slieh</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Armin</namePart>
+  <namePart type="family">Brechling</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40265</identifier></name>
+<name type="personal">
+  <namePart type="given">Ulrich</namePart>
+  <namePart type="family">Heinzmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40276</identifier></name>
+<name type="personal">
+  <namePart type="given">N.</namePart>
+  <namePart type="family">Weber</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M.</namePart>
+  <namePart type="family">Escher</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M.</namePart>
+  <namePart type="family">Merkel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A.</namePart>
+  <namePart type="family">Oelsner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">D.</namePart>
+  <namePart type="family">Valdaitsev</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">G.</namePart>
+  <namePart type="family">Schoenhense</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">E.</namePart>
+  <namePart type="family">Quesnel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">U.</namePart>
+  <namePart type="family">Kleineberg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33079537</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2161137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">29133467</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Extreme ultraviolet (EUV) photoemission electron microscopy (PEEM), which employs standing wave field illumination of a sample, is a potential tool for at-wavelength inspection of phase defects on extreme ultraviolet lithography (EUVL) mask blank. In this paper, we will demonstrate that the contrast of an underneath multilayer programmed defect in EUV-PEEM image is strongly dependent on the inspection wavelength. The observed contrast variation at different inspection wavelengths is in good agreement with the simulation result of a standing wave field on surface of multilayer stack in the mask blank sample. We also observed some native defects on the programmed defect sample, and found that some of them reverse their contrast with varying inspection wavelengths while others do not. (c) 2007 Elsevier B.V. All rights reserved.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>multilayer mask blank</topic><topic>photoemission electron microscopy</topic><topic>actinic defect inspection</topic><topic>EUV lithography</topic>
+</subject>
+
+
+<relatedItem type="host">
+  <identifier type="issn">0167-9317</identifier>
+  <identifier type="ISI">000247182500075</identifier><identifier type="doi">10.1016/j.mee.2007.01.106</identifier>
+<part><detail type="volume"><number>84</number></detail><detail type="issue"><number>5-8</number></detail><extent unit="pages">1011-1014</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee> J. Lin, et al., “Actinic inspection of EUVL mask blank defects by photoemission electron microscopy: Effect of inspection wavelength variation”, ELSEVIER SCIENCE BV, 2007.</ieee>
+<mla>Lin, Jingquan, Neuhaeusler, U., Slieh, J., Brechling, Armin, Heinzmann, Ulrich, Weber, N., Escher, M., Merkel, M., Oelsner, A., Valdaitsev, D., Schoenhense, G., Quesnel, E., and Kleineberg, U. “Actinic inspection of EUVL mask blank defects by photoemission electron microscopy: Effect of inspection wavelength variation”., ELSEVIER SCIENCE BV, 2007.</mla>
+<lncs> Lin, J., Neuhaeusler, U., Slieh, J., Brechling, A., Heinzmann, U., Weber, N., Escher, M., Merkel, M., Oelsner, A., Valdaitsev, D., Schoenhense, G., Quesnel, E., Kleineberg, U.: Actinic inspection of EUVL mask blank defects by photoemission electron microscopy: Effect of inspection wavelength variation. (2007).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lin, J., Neuhaeusler, U., Slieh, J., Brechling, A., Heinzmann, U., Weber, N., Escher, M., et al. (2007). &lt;em&gt;Actinic inspection of EUVL mask blank defects by photoemission electron microscopy: Effect of inspection wavelength variation&lt;/em&gt;. Presented at the .&lt;/div&gt;</apa_indent>
+<apa>Lin, J., Neuhaeusler, U., Slieh, J., Brechling, A., Heinzmann, U., Weber, N., Escher, M., et al. (2007). &lt;em&gt;Actinic inspection of EUVL mask blank defects by photoemission electron microscopy: Effect of inspection wavelength variation&lt;/em&gt;. Presented at the .</apa>
+<angewandte-chemie>J.  Lin, U.  Neuhaeusler, J.  Slieh, A.  Brechling, U.  Heinzmann, N.  Weber, M.  Escher, M.  Merkel, A.  Oelsner, D.  Valdaitsev, et al., Elsevier Science Bv, &lt;strong&gt;2007&lt;/strong&gt;, p. 1011-1014.</angewandte-chemie>
+<frontiers>Lin, J., Neuhaeusler, U., Slieh, J., Brechling, A., Heinzmann, U., Weber, N., Escher, M., Merkel, M., Oelsner, A., Valdaitsev, D., et al. (2007).“Actinic inspection of EUVL mask blank defects by photoemission electron microscopy: Effect of inspection wavelength variation”.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lin, Jingquan, Neuhaeusler, U., Slieh, J., Brechling, Armin, Heinzmann, Ulrich, Weber, N., Escher, M., et al. 2007. “Actinic inspection of EUVL mask blank defects by photoemission electron microscopy: Effect of inspection wavelength variation”. Presented at the , 84:1011-1014. MICROELECTRONIC ENGINEERING. ELSEVIER SCIENCE BV.&lt;/div&gt;</chicago>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lin, J., Neuhaeusler, U., Slieh, J., Brechling, A., Heinzmann, U., Weber, N., Escher, M., Merkel, M., Oelsner, A., Valdaitsev, D., Schoenhense, G., Quesnel, E. &amp;amp; Kleineberg, U. (2007). Actinic inspection of EUVL mask blank defects by photoemission electron microscopy: Effect of inspection wavelength variation (MICROELECTRONIC ENGINEERING) (S. 1011-1014). ELSEVIER SCIENCE BV. doi:10.1016/j.mee.2007.01.106.&lt;/div&gt;</dgps>
+<ama>Lin J, Neuhaeusler U, Slieh J, et al. Actinic inspection of EUVL mask blank defects by photoemission electron microscopy: Effect of inspection wavelength variation.</ama>
+<harvard1>Lin, J., et al., 2007. Actinic inspection of EUVL mask blank defects by photoemission electron microscopy: Effect of inspection wavelength variation.</harvard1>
+<aps> J.  Lin, et al., Actinic inspection of EUVL mask blank defects by photoemission electron microscopy: Effect of inspection wavelength variation, MICROELECTRONIC ENGINEERING, &lt;strong&gt;84&lt;/strong&gt; (ELSEVIER SCIENCE BV, 2007), p. 1011-1014.</aps>
+<bio1>Lin J, Neuhaeusler U, Slieh J, Brechling A, Heinzmann U, Weber N, Escher M, Merkel M, Oelsner A, Valdaitsev D, Schoenhense G, Quesnel E, Kleineberg U (2007) &lt;br /&gt;Actinic inspection of EUVL mask blank defects by photoemission electron microscopy: Effect of inspection wavelength variation.</bio1>
+<wels>Lin, J.; Neuhaeusler, U.; Slieh, J.; Brechling, A.; Heinzmann, U.; Weber, N.; Escher, M.; Merkel, M.; Oelsner, A.; Valdaitsev, D.; Schoenhense, G.; Quesnel, E.; Kleineberg, U. (2007): Actinic inspection of EUVL mask blank defects by photoemission electron microscopy: Effect of inspection wavelength variation. ELSEVIER SCIENCE BV. (MICROELECTRONIC ENGINEERING, 84).  S. 1011-1014.</wels>
+<default>Lin J, Neuhaeusler U, Slieh J, Brechling A, Heinzmann U, Weber N, Escher M, Merkel M, Oelsner A, Valdaitsev D, Schoenhense G, et al. (2007) .</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1593514</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:15:53Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-21T11:59:08Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1593514</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1593514</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

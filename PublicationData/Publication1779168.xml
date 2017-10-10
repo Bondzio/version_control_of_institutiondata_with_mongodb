@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Schulreform als neue Herausforderung der Sozialpädagogik? Ein Beitrag zur aktuellen Diskussion</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Klaus-Jürgen</namePart>
+  <namePart type="family">Tillmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21774</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Klaus-Jürgen</namePart><namePart type="family">Tillmann</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Erziehungswissenschaft</namePart>
+  <identifier type="unibi">10021</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG 4 - Schulentwicklung und Schulforschung</namePart>
+  <identifier type="unibi">7978212</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Tillmann_011.pdf">https://pub.uni-bielefeld.de/download/1779168/2312566</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Juventa-Verl.</publisher><dateIssued encoding="w3cdtf">1976</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Sozialpädagogik in der Schule: neue Ansätze und Modelle</title></titleInfo>
+  <identifier type="isbn">3-7799-0533-7</identifier><identifier type="urn">urn:nbn:de:0070-bipr-17391</identifier>
+<part><extent unit="pages">44-69</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>K.-J. Tillmann, “Schulreform als neue Herausforderung der Sozialpädagogik? Ein Beitrag zur aktuellen Diskussion”, &lt;em&gt;Sozialpädagogik in der Schule: neue Ansätze und Modelle&lt;/em&gt;, K.-J. Tillmann, ed.,  München: Juventa-Verl., 1976,  pp.44-69.</ieee>
+<mla>Tillmann, Klaus-Jürgen. “Schulreform als neue Herausforderung der Sozialpädagogik? Ein Beitrag zur aktuellen Diskussion”. &lt;em&gt;Sozialpädagogik in der Schule: neue Ansätze und Modelle&lt;/em&gt;. Ed. Klaus-Jürgen Tillmann. München: Juventa-Verl., 1976. 44-69.</mla>
+<lncs>Tillmann, K.-J.: Schulreform als neue Herausforderung der Sozialpädagogik? Ein Beitrag zur aktuellen Diskussion. In: Tillmann, K.-J. (ed.) Sozialpädagogik in der Schule: neue Ansätze und Modelle. p. 44-69. Juventa-Verl., München (1976).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Tillmann, K. - J. (1976). Schulreform als neue Herausforderung der Sozialpädagogik? Ein Beitrag zur aktuellen Diskussion. In K. - J.  Tillmann (Ed.), &lt;em&gt;Sozialpädagogik in der Schule: neue Ansätze und Modelle&lt;/em&gt; (pp. 44-69). München: Juventa-Verl.&lt;/div&gt;</apa_indent>
+<apa>Tillmann, K. - J. (1976). Schulreform als neue Herausforderung der Sozialpädagogik? Ein Beitrag zur aktuellen Diskussion. In K. - J.  Tillmann (Ed.), &lt;em&gt;Sozialpädagogik in der Schule: neue Ansätze und Modelle&lt;/em&gt; (pp. 44-69). München: Juventa-Verl.</apa>
+<angewandte-chemie>K. - J.  Tillmann, in &lt;em&gt;Sozialpädagogik in der Schule: neue Ansätze und Modelle&lt;/em&gt; (Ed.: K.-J. Tillmann), Juventa-Verl., München, &lt;strong&gt;1976&lt;/strong&gt;, p. 44-69.</angewandte-chemie>
+<frontiers>Tillmann, K. - J. (1976). “Schulreform als neue Herausforderung der Sozialpädagogik? Ein Beitrag zur aktuellen Diskussion” in &lt;em&gt;Sozialpädagogik in der Schule: neue Ansätze und Modelle&lt;/em&gt;, ed. K. - J.  Tillmann (München: Juventa-Verl.), 44-69.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Tillmann, Klaus-Jürgen. 1976. “Schulreform als neue Herausforderung der Sozialpädagogik? Ein Beitrag zur aktuellen Diskussion”. In &lt;em&gt;Sozialpädagogik in der Schule: neue Ansätze und Modelle&lt;/em&gt;, ed. Klaus-Jürgen Tillmann, 44-69. München: Juventa-Verl.&lt;/div&gt;</chicago>
+<ama>Tillmann K-J. Schulreform als neue Herausforderung der Sozialpädagogik? Ein Beitrag zur aktuellen Diskussion. In: Tillmann K-J, ed. &lt;em&gt;Sozialpädagogik in der Schule: neue Ansätze und Modelle&lt;/em&gt;. München: Juventa-Verl.;  1976: 44-69.</ama>
+<harvard1>Tillmann, K.-J., 1976. Schulreform als neue Herausforderung der Sozialpädagogik? Ein Beitrag zur aktuellen Diskussion. In K. - J.  Tillmann, ed. &lt;em&gt;Sozialpädagogik in der Schule: neue Ansätze und Modelle&lt;/em&gt;.  München: Juventa-Verl., pp. 44-69.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Tillmann, K.-J. (1976). Schulreform als neue Herausforderung der Sozialpädagogik? Ein Beitrag zur aktuellen Diskussion. &lt;em&gt;Sozialpädagogik in der Schule: neue Ansätze und Modelle&lt;/em&gt; (S. 44-69). München: Juventa-Verl.&lt;/div&gt;</dgps>
+<bio1>Tillmann K-J (1976) &lt;br /&gt;Schulreform als neue Herausforderung der Sozialpädagogik? Ein Beitrag zur aktuellen Diskussion. &lt;br /&gt;In:  Sozialpädagogik in der Schule: neue Ansätze und Modelle. Tillmann K-J (Ed); München: Juventa-Verl.:  44-69.</bio1>
+<aps>K. - J.  Tillmann, Schulreform als neue Herausforderung der Sozialpädagogik? Ein Beitrag zur aktuellen Diskussion, in &lt;em&gt;Sozialpädagogik in der Schule: neue Ansätze und Modelle&lt;/em&gt;, edited by K. - J.  Tillmann (Juventa-Verl., München, 1976), p. 44-69.</aps>
+<wels>Tillmann, K. - J. (1976): Schulreform als neue Herausforderung der Sozialpädagogik? Ein Beitrag zur aktuellen Diskussion. In: Klaus-Jürgen Tillmann (Hrsg.):  Sozialpädagogik in der Schule: neue Ansätze und Modelle. München: Juventa-Verl.  S. 44-69.</wels>
+<default>Tillmann K-J (1976)  &lt;br /&gt;In:  Sozialpädagogik in der Schule: neue Ansätze und Modelle. Tillmann K-J (Ed);München: Juventa-Verl.:  44-69.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1779168</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1779168</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1779168</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

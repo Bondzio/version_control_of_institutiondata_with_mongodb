@@ -1,0 +1,111 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Schule im kommunalen Kontext</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Klaus</namePart>
+  <namePart type="family">Klemm</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Klaus-Jürgen</namePart>
+  <namePart type="family">Tillmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21774</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Martin</namePart><namePart type="family">Baethge</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Erziehungswissenschaft</namePart>
+  <identifier type="unibi">10021</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG 4 - Schulentwicklung und Schulforschung</namePart>
+  <identifier type="unibi">7978212</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Der Aufbau eines Schulnetzes, das alle Städte und Gemeinden erfasste, vollzog sich im Verlauf des 19. und 20. Jahrhunderts. Dabei kristallisierten sich unterschiedliche Beziehungsebenen zwischen Schule und Gemeinde heraus: Als Schulträger ist die Gemeinde rechtlich verpflichtet, Schulen zu errichten, zu verwalten und die Sachkosten zu tragen. Durch kommunale Schulentwicklungsplanung nimmt sie begrenzten Einfluss auf die  Struktur des örtlichen Schulangebots. Durch diesen Einfluss wird die Gemeinde zur schulpolitischen Machtarena, denn unterschiedliche lokale Interessengruppen versuchen, Planungen und Entscheidungen der Gemeinde zu beeinflussen. Dies lässt sich am Beispiel der konflikthaften Errichtung von Gesamtschulen präzisieren. Weil Schüler und Lehrer in der Schule und in der Gemeinde leben, durchdringen sich die Erfahrungen wechselseitig, so dass die Gemeinde schließlich auch Sozialisationsumwelt ist. Der Ansatz der sozialökologischen Sozialisationsforschung versucht, diesen Zusammenhang systematisch zu erfassen.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Tillmann_038.pdf">https://pub.uni-bielefeld.de/download/1778006/2312390</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Klett-Cotta</publisher><dateIssued encoding="w3cdtf">1984</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Organisation, Recht und Ökonomie des Bildungswesens</title></titleInfo>
+  <identifier type="isbn">3-12-932250-7</identifier><identifier type="urn">urn:nbn:de:0070-bipr-15089</identifier>
+<part><extent unit="pages">280-297</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Klemm, K., and Tillmann, K. - J. (1984). “Schule im kommunalen Kontext” in &lt;em&gt;Organisation, Recht und Ökonomie des Bildungswesens&lt;/em&gt;, ed. M.  Baethge Enzyklopädie Erziehungswissenschaft ; 5 (Stuttgart: Klett-Cotta), 280-297.</frontiers>
+<angewandte-chemie>K.  Klemm, and K. - J.  Tillmann, in &lt;em&gt;Organisation, Recht und Ökonomie des Bildungswesens&lt;/em&gt; (Ed.: M. Baethge), Klett-Cotta, Stuttgart, &lt;strong&gt;1984&lt;/strong&gt;, p. 280-297.</angewandte-chemie>
+<apa>Klemm, K., &amp;amp; Tillmann, K. - J. (1984). Schule im kommunalen Kontext. In M.  Baethge (Ed.), &lt;em&gt;Enzyklopädie Erziehungswissenschaft ; 5&lt;/em&gt;&lt;em&gt;. Organisation, Recht und Ökonomie des Bildungswesens&lt;/em&gt; (pp. 280-297). Stuttgart: Klett-Cotta.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Klemm, Klaus, and Tillmann, Klaus-Jürgen. 1984. “Schule im kommunalen Kontext”. In &lt;em&gt;Organisation, Recht und Ökonomie des Bildungswesens&lt;/em&gt;, ed. Martin Baethge, 280-297. Enzyklopädie Erziehungswissenschaft ; 5. Stuttgart: Klett-Cotta.&lt;/div&gt;</chicago>
+<mla>Klemm, Klaus, and Tillmann, Klaus-Jürgen. “Schule im kommunalen Kontext”. &lt;em&gt;Organisation, Recht und Ökonomie des Bildungswesens&lt;/em&gt;. Ed. Martin Baethge. Stuttgart: Klett-Cotta, 1984. Enzyklopädie Erziehungswissenschaft ; 5. 280-297.</mla>
+<lncs>Klemm, K., Tillmann, K.-J.: Schule im kommunalen Kontext. In: Baethge, M. (ed.) Organisation, Recht und Ökonomie des Bildungswesens. Enzyklopädie Erziehungswissenschaft ; 5. p. 280-297. Klett-Cotta, Stuttgart (1984).</lncs>
+<ieee>K. Klemm and K.-J. Tillmann, “Schule im kommunalen Kontext”, &lt;em&gt;Organisation, Recht und Ökonomie des Bildungswesens&lt;/em&gt;, M. Baethge, ed., Enzyklopädie Erziehungswissenschaft ; 5,  Stuttgart: Klett-Cotta, 1984,  pp.280-297.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Klemm, K., &amp;amp; Tillmann, K. - J. (1984). Schule im kommunalen Kontext. In M.  Baethge (Ed.), &lt;em&gt;Enzyklopädie Erziehungswissenschaft ; 5&lt;/em&gt;&lt;em&gt;. Organisation, Recht und Ökonomie des Bildungswesens&lt;/em&gt; (pp. 280-297). Stuttgart: Klett-Cotta.&lt;/div&gt;</apa_indent>
+<default>Klemm K, Tillmann K-J (1984)  &lt;br /&gt;In:  Organisation, Recht und Ökonomie des Bildungswesens. Baethge M (Ed); Enzyklopädie Erziehungswissenschaft ; 5, . Stuttgart: Klett-Cotta:  280-297.</default>
+<wels>Klemm, K.; Tillmann, K. - J. (1984): Schule im kommunalen Kontext. In: Martin Baethge (Hrsg.):  Organisation, Recht und Ökonomie des Bildungswesens. Stuttgart: Klett-Cotta. (Enzyklopädie Erziehungswissenschaft ; 5, ).  S. 280-297.</wels>
+<bio1>Klemm K, Tillmann K-J (1984) &lt;br /&gt;Schule im kommunalen Kontext. &lt;br /&gt;In:  Organisation, Recht und Ökonomie des Bildungswesens. Baethge M (Ed); Enzyklopädie Erziehungswissenschaft ; 5,  Stuttgart: Klett-Cotta:  280-297.</bio1>
+<aps>K.  Klemm and K. - J.  Tillmann, Schule im kommunalen Kontext, in &lt;em&gt;Organisation, Recht und Ökonomie des Bildungswesens&lt;/em&gt;, edited by M.  Baethge, Enzyklopädie Erziehungswissenschaft ; 5 (Klett-Cotta, Stuttgart, 1984), p. 280-297.</aps>
+<ama>Klemm K, Tillmann K-J. Schule im kommunalen Kontext. In: Baethge M, ed. &lt;em&gt;Organisation, Recht und Ökonomie des Bildungswesens&lt;/em&gt;. Enzyklopädie Erziehungswissenschaft ; 5. Stuttgart: Klett-Cotta;  1984: 280-297.</ama>
+<harvard1>Klemm, K., &amp;amp; Tillmann, K.-J., 1984. Schule im kommunalen Kontext. In M.  Baethge, ed. &lt;em&gt;Organisation, Recht und Ökonomie des Bildungswesens&lt;/em&gt;. Enzyklopädie Erziehungswissenschaft ; 5.  Stuttgart: Klett-Cotta, pp. 280-297.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Klemm, K. &amp;amp; Tillmann, K.-J. (1984). Schule im kommunalen Kontext (Enzyklopädie Erziehungswissenschaft ; 5). &lt;em&gt;Organisation, Recht und Ökonomie des Bildungswesens&lt;/em&gt; (S. 280-297). Stuttgart: Klett-Cotta.&lt;/div&gt;</dgps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1778006</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1778006</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1778006</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

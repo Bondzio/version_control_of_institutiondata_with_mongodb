@@ -1,0 +1,99 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Chemical electrooptics and linear dichroism of polyelectrolytes and colloids</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Sergej</namePart>
+  <namePart type="family">Kakorin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20316</identifier></name>
+<name type="personal">
+  <namePart type="given">Eberhard</namePart>
+  <namePart type="family">Neumann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20317</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Physikalische Chemie III</namePart>
+  <identifier type="unibi">17981</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Recently the controversial discussion on the reliability of electrooptical relaxation data of polyelectrolyte systems has been revived. It can be shown that chemical-conformational contributions, for instance, to the dichroitic absorbance changes are exactly given by Delta A(CH)=(Delta A(parallel to) +2 .Delta(perpendicular to))/3, where Delta A(parallel to) and Delta A(perpendicular to) are the measured at the light polarization modes sigma=0 degrees (parallel to) and sigma=90 degrees (perpendicular to), respectively. Alternatively, Delta A(CH)=Delta A(sigma)* where sigma*=54.7 degrees is the magic angle (for small absorbance changes). If Delta A(sigma) is measured at the various sigma-polarization modes according to Delta A(sigma)=Delta A(parallel to) cos(2) sigma+Delta A(perpendicular to) sin(2) sigma, the exact value of Delta A(CH) is readily obtained. On the other hand, the linear dichroism Delta A=Delta A(OR)(parallel to) -Delta A(perpendicular to)=Delta A(parallel to) -Delta A(perpendicular to)+(Delta A(CH)(parallel to)-Delta A(CH)(perpendicular to)) can only be determined as an approximation of the difference Delta A(-)=Delta A(perpendicular to), if Delta A(CH)(parallel to) and Delta A(CH)(perpendicular to) are smaller or approximately equal.</abstract>
+
+<originInfo><publisher>VCH PUBLISHERS INC</publisher><dateIssued encoding="w3cdtf">1996</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>membranes</topic><topic>linear dichroism</topic><topic>colloids</topic><topic>absorption</topic><topic>light</topic><topic>magic angle</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>BERICHTE DER BUNSEN-GESELLSCHAFT-PHYSICAL CHEMISTRY CHEMICAL PHYSICS</title></titleInfo>
+  <identifier type="issn">0005-9021</identifier>
+  <identifier type="ISI">A1996UW57500006</identifier><identifier type="doi">10.1002/bbpc.19961000607</identifier>
+<part><detail type="volume"><number>100</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">721-722</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<harvard1>Kakorin, S., &amp;amp; Neumann, E., 1996. Chemical electrooptics and linear dichroism of polyelectrolytes and colloids. In &lt;em&gt;BERICHTE DER BUNSEN-GESELLSCHAFT-PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt;. no.100  VCH PUBLISHERS INC, pp. 721-722.</harvard1>
+<ama>Kakorin S, Neumann E. Chemical electrooptics and linear dichroism of polyelectrolytes and colloids. In:  &lt;em&gt;BERICHTE DER BUNSEN-GESELLSCHAFT-PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt;. Vol 100. VCH PUBLISHERS INC;  1996: 721-722.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kakorin, S. &amp;amp; Neumann, E. (1996). Chemical electrooptics and linear dichroism of polyelectrolytes and colloids. &lt;em&gt;BERICHTE DER BUNSEN-GESELLSCHAFT-PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt; (S. 721-722). VCH PUBLISHERS INC. doi:10.1002/bbpc.19961000607.&lt;/div&gt;</dgps>
+<aps>S.  Kakorin and E.  Neumann, Chemical electrooptics and linear dichroism of polyelectrolytes and colloids, in &lt;em&gt;BERICHTE DER BUNSEN-GESELLSCHAFT-PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt;, &lt;strong&gt;100&lt;/strong&gt; (VCH PUBLISHERS INC, 1996), p. 721-722.</aps>
+<bio1>Kakorin S, Neumann E (1996) &lt;br /&gt;Chemical electrooptics and linear dichroism of polyelectrolytes and colloids. &lt;br /&gt;In:  BERICHTE DER BUNSEN-GESELLSCHAFT-PHYSICAL CHEMISTRY CHEMICAL PHYSICS. 100. VCH PUBLISHERS INC:  721-722.</bio1>
+<wels>Kakorin, S.; Neumann, E. (1996): Chemical electrooptics and linear dichroism of polyelectrolytes and colloids. In: BERICHTE DER BUNSEN-GESELLSCHAFT-PHYSICAL CHEMISTRY CHEMICAL PHYSICS. VCH PUBLISHERS INC. (100).  S. 721-722.</wels>
+<default>Kakorin S, Neumann E (1996)  &lt;br /&gt;In:  BERICHTE DER BUNSEN-GESELLSCHAFT-PHYSICAL CHEMISTRY CHEMICAL PHYSICS. 100. VCH PUBLISHERS INC:  721-722.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kakorin, S., &amp;amp; Neumann, E. (1996). Chemical electrooptics and linear dichroism of polyelectrolytes and colloids. &lt;em&gt;BERICHTE DER BUNSEN-GESELLSCHAFT-PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt;, &lt;em&gt;100&lt;/em&gt;(6), 721-722.&lt;/div&gt;</apa_indent>
+<ieee>S. Kakorin and E. Neumann, “Chemical electrooptics and linear dichroism of polyelectrolytes and colloids”, &lt;em&gt;BERICHTE DER BUNSEN-GESELLSCHAFT-PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt;, vol. 100, VCH PUBLISHERS INC, 1996,  pp.721-722.</ieee>
+<lncs>Kakorin, S., Neumann, E.: Chemical electrooptics and linear dichroism of polyelectrolytes and colloids. BERICHTE DER BUNSEN-GESELLSCHAFT-PHYSICAL CHEMISTRY CHEMICAL PHYSICS. 100, p. 721-722. VCH PUBLISHERS INC (1996).</lncs>
+<mla>Kakorin, Sergej, and Neumann, Eberhard. “Chemical electrooptics and linear dichroism of polyelectrolytes and colloids”. &lt;em&gt;BERICHTE DER BUNSEN-GESELLSCHAFT-PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt;. VCH PUBLISHERS INC, 1996.Vol. 100. 721-722.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kakorin, Sergej, and Neumann, Eberhard. 1996. “Chemical electrooptics and linear dichroism of polyelectrolytes and colloids”. In &lt;em&gt;BERICHTE DER BUNSEN-GESELLSCHAFT-PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt;, 100:721-722. VCH PUBLISHERS INC.&lt;/div&gt;</chicago>
+<angewandte-chemie>S.  Kakorin, and E.  Neumann, in &lt;em&gt;BERICHTE DER BUNSEN-GESELLSCHAFT-PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt;, Vch Publishers Inc, &lt;strong&gt;1996&lt;/strong&gt;, p. 721-722.</angewandte-chemie>
+<apa>Kakorin, S., &amp;amp; Neumann, E. (1996). Chemical electrooptics and linear dichroism of polyelectrolytes and colloids. &lt;em&gt;BERICHTE DER BUNSEN-GESELLSCHAFT-PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt;, &lt;em&gt;100&lt;/em&gt;(6), 721-722.</apa>
+<frontiers>Kakorin, S., and Neumann, E. (1996). “Chemical electrooptics and linear dichroism of polyelectrolytes and colloids” in &lt;em&gt;BERICHTE DER BUNSEN-GESELLSCHAFT-PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt;, vol. 100, (VCH PUBLISHERS INC), 721-722.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1638890</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:15:01Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-14T14:02:20Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1638890</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1638890</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

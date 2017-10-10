@@ -1,0 +1,119 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>A Cognitive Model for the Representation and Processing of Shape-Related Gestures</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">T.</namePart>
+  <namePart type="family">Sowa</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Stefan</namePart>
+  <namePart type="family">Kopp</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">14743</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-4047-9277</description></name>
+
+
+
+<name type="personal"><namePart type="given">Franz</namePart><namePart type="family">Schmalhofer</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Richard</namePart><namePart type="family">Young</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Graham</namePart><namePart type="family">Katz</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Research Institute for Cognition and Robotics</namePart>
+  <identifier type="unibi">5408013</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Sociable Agents</namePart>
+  <identifier type="unibi">24110177</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Wissensbasierte Systeme</namePart>
+  <identifier type="unibi">10044</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+<name type="conference">
+  <namePart>EuroCogSci03</namePart>
+</name>
+
+
+
+
+
+
+
+<originInfo><publisher>Lawrence Erlbaum</publisher><dateIssued encoding="w3cdtf">2003</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Proceedings of the European Cognitive Science Conference</title></titleInfo>
+<part><extent unit="pages">441</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Sowa, T.; Kopp, S. (2003): A Cognitive Model for the Representation and Processing of Shape-Related Gestures. In: Franz Schmalhofer; Richard Young; Graham Katz (Hrsg.):  Proceedings of the European Cognitive Science Conference. New Jersey: Lawrence Erlbaum.</wels>
+<default>Sowa T, Kopp S (2003)  &lt;br /&gt;In:  Proceedings of the European Cognitive Science Conference. Schmalhofer F, Young R, Katz G (Eds);New Jersey: Lawrence Erlbaum.</default>
+<ama>Sowa T, Kopp S. A Cognitive Model for the Representation and Processing of Shape-Related Gestures. In: Schmalhofer F, Young R, Katz G, eds. &lt;em&gt;Proceedings of the European Cognitive Science Conference&lt;/em&gt;. New Jersey: Lawrence Erlbaum;  2003.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sowa, T. &amp;amp; Kopp, S. (2003). A Cognitive Model for the Representation and Processing of Shape-Related Gestures. &lt;em&gt;Proceedings of the European Cognitive Science Conference&lt;/em&gt;. Gehalten auf der EuroCogSci03, New Jersey: Lawrence Erlbaum.&lt;/div&gt;</dgps>
+<harvard1>Sowa, T., &amp;amp; Kopp, S., 2003. A Cognitive Model for the Representation and Processing of Shape-Related Gestures. In F.  Schmalhofer, R.  Young, &amp;amp; G.  Katz, eds. &lt;em&gt;Proceedings of the European Cognitive Science Conference&lt;/em&gt;.  New Jersey: Lawrence Erlbaum.</harvard1>
+<bio1>Sowa T, Kopp S (2003) &lt;br /&gt;A Cognitive Model for the Representation and Processing of Shape-Related Gestures. &lt;br /&gt;In:  Proceedings of the European Cognitive Science Conference. Schmalhofer F, Young R, Katz G (Eds); New Jersey: Lawrence Erlbaum.</bio1>
+<aps>T.  Sowa and S.  Kopp, A Cognitive Model for the Representation and Processing of Shape-Related Gestures, in &lt;em&gt;Proceedings of the European Cognitive Science Conference&lt;/em&gt;, edited by F.  Schmalhofer, et al. (Lawrence Erlbaum, New Jersey, 2003).</aps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sowa, T., and Kopp, Stefan. 2003. “A Cognitive Model for the Representation and Processing of Shape-Related Gestures”. In &lt;em&gt;Proceedings of the European Cognitive Science Conference&lt;/em&gt;, ed. Franz Schmalhofer, Richard Young, and Graham Katz. New Jersey: Lawrence Erlbaum.&lt;/div&gt;</chicago>
+<angewandte-chemie>T.  Sowa, and S.  Kopp, in &lt;em&gt;Proceedings of the European Cognitive Science Conference&lt;/em&gt; (Eds.: F. Schmalhofer, R. Young, G. Katz), Lawrence Erlbaum, New Jersey, &lt;strong&gt;2003&lt;/strong&gt;.</angewandte-chemie>
+<apa>Sowa, T., &amp;amp; Kopp, S. (2003). A Cognitive Model for the Representation and Processing of Shape-Related Gestures. In F.  Schmalhofer, R.  Young, &amp;amp; G.  Katz (Eds.), &lt;em&gt;Proceedings of the European Cognitive Science Conference&lt;/em&gt; New Jersey: Lawrence Erlbaum.</apa>
+<frontiers>Sowa, T., and Kopp, S. (2003). “A Cognitive Model for the Representation and Processing of Shape-Related Gestures” in &lt;em&gt;Proceedings of the European Cognitive Science Conference&lt;/em&gt;, ed. F.  Schmalhofer, R.  Young, and G.  Katz (New Jersey: Lawrence Erlbaum).</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sowa, T., &amp;amp; Kopp, S. (2003). A Cognitive Model for the Representation and Processing of Shape-Related Gestures. In F.  Schmalhofer, R.  Young, &amp;amp; G.  Katz (Eds.), &lt;em&gt;Proceedings of the European Cognitive Science Conference&lt;/em&gt; New Jersey: Lawrence Erlbaum.&lt;/div&gt;</apa_indent>
+<ieee>T. Sowa and S. Kopp, “A Cognitive Model for the Representation and Processing of Shape-Related Gestures”, &lt;em&gt;Proceedings of the European Cognitive Science Conference&lt;/em&gt;, F. Schmalhofer, R. Young, and G. Katz, eds.,  New Jersey: Lawrence Erlbaum, 2003.</ieee>
+<lncs>Sowa, T., Kopp, S.: A Cognitive Model for the Representation and Processing of Shape-Related Gestures. In: Schmalhofer, F., Young, R., and Katz, G. (eds.) Proceedings of the European Cognitive Science Conference.  Lawrence Erlbaum, New Jersey (2003).</lncs>
+<mla>Sowa, T., and Kopp, Stefan. “A Cognitive Model for the Representation and Processing of Shape-Related Gestures”. &lt;em&gt;Proceedings of the European Cognitive Science Conference&lt;/em&gt;. Ed. Franz Schmalhofer, Richard Young, and Graham Katz. New Jersey: Lawrence Erlbaum, 2003.</mla>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1857790</recordIdentifier><recordCreationDate encoding="w3cdtf">2015-12-16T08:08:39Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2015-12-16T08:08:39Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1857790</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1857790</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

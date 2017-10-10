@@ -1,0 +1,141 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The Corynebacterium glutamicum gene pmt encoding a glycosyltransferase related to eukaryotic protein-O-mannosyltransferases is essential for glycosylation of the resuscitation promoting factor (Rpf2) and other secreted proteins</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">M.</namePart>
+  <namePart type="family">Mahne</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Tauch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">22082</identifier></name>
+<name type="personal">
+  <namePart type="given">Alfred</namePart>
+  <namePart type="family">Pühler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21937</identifier></name>
+<name type="personal">
+  <namePart type="given">Jörn</namePart>
+  <namePart type="family">Kalinowski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">147567</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070724</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070741</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070639</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Two-dimensional gel electrophoresis and immunoassays revealed several proteins of the secretory subproteome of Corynebacterium glutamicum to be glycosylated. By genome-wide searches for genes involved in glycosylation, the C. glutamicum gene cg1014 was found to exhibit significant similarity to eukaryotic protein-O-mannosyltransferases (PMTs) and to a recently identified orthologue of Mycobacterium tuberculosis, Rv1002c, which is responsible for protein-O-mannosylation. The putative membrane protein Cg1014 showed the same predicted transmembrane topology as Saccharomyces cerevisiae PMT1 and M. tuberculosis Rv1002c along with conserved amino acid residues responsible for catalytic activity. Deletion of the C. glutamicum pmt gene (cg1014) caused a complete loss of glycosylation of secreted proteins including the resuscitation promoting factor 2 (Rpf2), which is involved in intercellular communication and growth stimulation of C. glutamicum. Because the gene pmt as well as rpf genes are present in the genomes of all actinobacteria sequenced so far, this work provides new insights into bacterial protein glycosylation and new opportunities to elucidate the molecular mechanisms of Rpf activity in pathogenic growth and infection.</abstract>
+
+<originInfo><publisher>BLACKWELL PUBLISHING</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>protein glycosylation</topic><topic>PMT family</topic><topic>Corynebacterium</topic><topic>resuscitation promoting factor</topic><topic>glycosyltransferase</topic><topic>glutamicum</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>FEMS MICROBIOLOGY LETTERS</title></titleInfo>
+  <identifier type="issn">0378-1097</identifier>
+  <identifier type="eIssn">1574-6968</identifier>
+  <identifier type="MEDLINE">16734784</identifier>
+  <identifier type="ISI">000237739500010</identifier><identifier type="doi">10.1111/j.1574-6968.2006.00269.x</identifier>
+<part><detail type="volume"><number>259</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">226-233</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Mahne, M., Tauch, A., Pühler, A. &amp;amp; Kalinowski, J. (2006). The Corynebacterium glutamicum gene pmt encoding a glycosyltransferase related to eukaryotic protein-O-mannosyltransferases is essential for glycosylation of the resuscitation promoting factor (Rpf2) and other secreted proteins. &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt;, &lt;em&gt;259&lt;/em&gt;(2), 226-233. BLACKWELL PUBLISHING. doi:10.1111/j.1574-6968.2006.00269.x.&lt;/div&gt;</dgps>
+<harvard1>Mahne, M., et al., 2006. The Corynebacterium glutamicum gene pmt encoding a glycosyltransferase related to eukaryotic protein-O-mannosyltransferases is essential for glycosylation of the resuscitation promoting factor (Rpf2) and other secreted proteins. &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt;, 259(2), p 226-233.</harvard1>
+<ama>Mahne M, Tauch A, Pühler A, Kalinowski J. The Corynebacterium glutamicum gene pmt encoding a glycosyltransferase related to eukaryotic protein-O-mannosyltransferases is essential for glycosylation of the resuscitation promoting factor (Rpf2) and other secreted proteins. &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt;. 2006;259(2):226-233.</ama>
+<bio1>Mahne M, Tauch A, Pühler A, Kalinowski J (2006) &lt;br /&gt;The Corynebacterium glutamicum gene pmt encoding a glycosyltransferase related to eukaryotic protein-O-mannosyltransferases is essential for glycosylation of the resuscitation promoting factor (Rpf2) and other secreted proteins.&lt;br /&gt;FEMS MICROBIOLOGY LETTERS 259(2): 226-233.</bio1>
+<aps> M.  Mahne, et al., The Corynebacterium glutamicum gene pmt encoding a glycosyltransferase related to eukaryotic protein-O-mannosyltransferases is essential for glycosylation of the resuscitation promoting factor (Rpf2) and other secreted proteins, FEMS MICROBIOLOGY LETTERS &lt;strong&gt;259&lt;/strong&gt;, 226-233 (2006).</aps>
+<wels>Mahne, M.; Tauch, A.; Pühler, A.; Kalinowski, J. (2006): The Corynebacterium glutamicum gene pmt encoding a glycosyltransferase related to eukaryotic protein-O-mannosyltransferases is essential for glycosylation of the resuscitation promoting factor (Rpf2) and other secreted proteins &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt;,259:(2): 226-233.</wels>
+<default>Mahne M, Tauch A, Pühler A, Kalinowski J (2006) &lt;br /&gt;FEMS MICROBIOLOGY LETTERS 259(2): 226-233.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Mahne, M., Tauch, A., Pühler, A., &amp;amp; Kalinowski, J. (2006). The Corynebacterium glutamicum gene pmt encoding a glycosyltransferase related to eukaryotic protein-O-mannosyltransferases is essential for glycosylation of the resuscitation promoting factor (Rpf2) and other secreted proteins. &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt;, &lt;em&gt;259&lt;/em&gt;(2), 226-233.&lt;/div&gt;</apa_indent>
+<ieee> M. Mahne, et al., “The Corynebacterium glutamicum gene pmt encoding a glycosyltransferase related to eukaryotic protein-O-mannosyltransferases is essential for glycosylation of the resuscitation promoting factor (Rpf2) and other secreted proteins”, &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt;,  vol. 259, 2006,  pp. 226-233.</ieee>
+<mla>Mahne, M., Tauch, Andreas, Pühler, Alfred, and Kalinowski, Jörn. “The Corynebacterium glutamicum gene pmt encoding a glycosyltransferase related to eukaryotic protein-O-mannosyltransferases is essential for glycosylation of the resuscitation promoting factor (Rpf2) and other secreted proteins”. &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt; 259.2 (2006): 226-233.</mla>
+<lncs> Mahne, M., Tauch, A., Pühler, A., Kalinowski, J.: The Corynebacterium glutamicum gene pmt encoding a glycosyltransferase related to eukaryotic protein-O-mannosyltransferases is essential for glycosylation of the resuscitation promoting factor (Rpf2) and other secreted proteins. FEMS MICROBIOLOGY LETTERS. 259, 226-233 (2006).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Mahne, M., Tauch, Andreas, Pühler, Alfred, and Kalinowski, Jörn. 2006. “The Corynebacterium glutamicum gene pmt encoding a glycosyltransferase related to eukaryotic protein-O-mannosyltransferases is essential for glycosylation of the resuscitation promoting factor (Rpf2) and other secreted proteins”. &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt; 259 (2): 226-233.&lt;/div&gt;</chicago>
+<angewandte-chemie>M.  Mahne, A.  Tauch, A.  Pühler, and J.  Kalinowski, “The Corynebacterium glutamicum gene pmt encoding a glycosyltransferase related to eukaryotic protein-O-mannosyltransferases is essential for glycosylation of the resuscitation promoting factor (Rpf2) and other secreted proteins”, &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;259&lt;/em&gt;, 226-233.</angewandte-chemie>
+<apa>Mahne, M., Tauch, A., Pühler, A., &amp;amp; Kalinowski, J. (2006). The Corynebacterium glutamicum gene pmt encoding a glycosyltransferase related to eukaryotic protein-O-mannosyltransferases is essential for glycosylation of the resuscitation promoting factor (Rpf2) and other secreted proteins. &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt;, &lt;em&gt;259&lt;/em&gt;(2), 226-233.</apa>
+<frontiers>Mahne, M., Tauch, A., Pühler, A., and Kalinowski, J. (2006). The Corynebacterium glutamicum gene pmt encoding a glycosyltransferase related to eukaryotic protein-O-mannosyltransferases is essential for glycosylation of the resuscitation promoting factor (Rpf2) and other secreted proteins. &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt; 259, 226-233.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1599211</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:19:49Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-11T10:01:02Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1599211</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1599211</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

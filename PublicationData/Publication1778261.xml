@@ -1,0 +1,123 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>39K and 77Se NMR study of the paraelectric-to-incommensurate phase transition of K2SeO4</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">B.</namePart>
+  <namePart type="family">Topic</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A.</namePart>
+  <namePart type="family">von Kienlin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Armin</namePart>
+  <namePart type="family">Gölzhäuser</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">109837</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-0838-9028</description></name>
+<name type="personal">
+  <namePart type="given">U.</namePart>
+  <namePart type="family">Haeberlin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">R.</namePart>
+  <namePart type="family">Blinc</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Physik supramolekularer Systeme und Oberflächen</namePart>
+  <identifier type="unibi">29103248</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Centrum für Biotechnologie</namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The 39K quadrupole-coupling and chemical-shift tensors have been determined from the angular dependences of the 39K line shifts of the 39K±(1/2 ± 1) / 2 central NMR transitions in the paraelectric (P) and incommensurate (I) phases of K2SeO4. The main effect of the P-I phase transition on these tensors is the appearance of nonzero off-diagonal elements Vab and Vbc which reflects the destruction of mirror planes by frozen-in soft-mode displacements along the b axis. From the angular dependences of the 77Se line shifts the 77Se chemical-shift tensor has been determined in the paraelectric phase of K2SeO4. In contrast to the 39K quadrupole-coupling and chemical-shift tensors it remains unaffected on going through TI and changes only slightly at TC.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="goelzhaeuser_001.pdf">https://pub.uni-bielefeld.de/download/1778261/2312427</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1988</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Physical Review, B</title></titleInfo>
+  <identifier type="issn">0163-1829</identifier>
+  <identifier type="MEDLINE">9945636</identifier>
+  <identifier type="ISI">A1988Q803400008</identifier><identifier type="urn">urn:nbn:de:0070-pub-17782614</identifier><identifier type="doi">10.1103/PhysRevB.38.8625</identifier>
+<part><detail type="volume"><number>38</number></detail><detail type="issue"><number>13</number></detail><extent unit="pages">8625-8632</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>B. Topic, et al., “39K and 77Se NMR study of the paraelectric-to-incommensurate phase transition of K2SeO4”, &lt;em&gt;Physical Review, B&lt;/em&gt;,  vol. 38, 1988,  pp. 8625-8632.</ieee>
+<lncs>Topic, B., von Kienlin, A., Gölzhäuser, A., Haeberlin, U., Blinc, R.: 39K and 77Se NMR study of the paraelectric-to-incommensurate phase transition of K2SeO4. Physical Review, B. 38, 8625-8632 (1988).</lncs>
+<mla>Topic, B., von Kienlin, A., Gölzhäuser, Armin, Haeberlin, U., and Blinc, R. “39K and 77Se NMR study of the paraelectric-to-incommensurate phase transition of K2SeO4”. &lt;em&gt;Physical Review, B&lt;/em&gt; 38.13 (1988): 8625-8632.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Topic, B., von Kienlin, A., Gölzhäuser, A., Haeberlin, U., &amp;amp; Blinc, R. (1988). 39K and 77Se NMR study of the paraelectric-to-incommensurate phase transition of K2SeO4. &lt;em&gt;Physical Review, B&lt;/em&gt;, &lt;em&gt;38&lt;/em&gt;(13), 8625-8632.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>B.  Topic, A.   von Kienlin, A.  Gölzhäuser, U.  Haeberlin, and R.  Blinc, “39K and 77Se NMR study of the paraelectric-to-incommensurate phase transition of K2SeO4”, &lt;em&gt;Physical Review, B&lt;/em&gt;, &lt;strong&gt;1988&lt;/strong&gt;, &lt;em&gt;38&lt;/em&gt;, 8625-8632.</angewandte-chemie>
+<apa>Topic, B., von Kienlin, A., Gölzhäuser, A., Haeberlin, U., &amp;amp; Blinc, R. (1988). 39K and 77Se NMR study of the paraelectric-to-incommensurate phase transition of K2SeO4. &lt;em&gt;Physical Review, B&lt;/em&gt;, &lt;em&gt;38&lt;/em&gt;(13), 8625-8632.</apa>
+<frontiers>Topic, B., von Kienlin, A., Gölzhäuser, A., Haeberlin, U., and Blinc, R. (1988). 39K and 77Se NMR study of the paraelectric-to-incommensurate phase transition of K2SeO4. &lt;em&gt;Physical Review, B&lt;/em&gt; 38, 8625-8632.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Topic, B., von Kienlin, A., Gölzhäuser, Armin, Haeberlin, U., and Blinc, R. 1988. “39K and 77Se NMR study of the paraelectric-to-incommensurate phase transition of K2SeO4”. &lt;em&gt;Physical Review, B&lt;/em&gt; 38 (13): 8625-8632.&lt;/div&gt;</chicago>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Topic, B., von Kienlin, A., Gölzhäuser, A., Haeberlin, U. &amp;amp; Blinc, R. (1988). 39K and 77Se NMR study of the paraelectric-to-incommensurate phase transition of K2SeO4. &lt;em&gt;Physical Review, B&lt;/em&gt;, &lt;em&gt;38&lt;/em&gt;(13), 8625-8632. doi:10.1103/PhysRevB.38.8625.&lt;/div&gt;</dgps>
+<harvard1>Topic, B., et al., 1988. 39K and 77Se NMR study of the paraelectric-to-incommensurate phase transition of K2SeO4. &lt;em&gt;Physical Review, B&lt;/em&gt;, 38(13), p 8625-8632.</harvard1>
+<ama>Topic B, von Kienlin A, Gölzhäuser A, Haeberlin U, Blinc R. 39K and 77Se NMR study of the paraelectric-to-incommensurate phase transition of K2SeO4. &lt;em&gt;Physical Review, B&lt;/em&gt;. 1988;38(13):8625-8632.</ama>
+<aps>B.  Topic, et al., 39K and 77Se NMR study of the paraelectric-to-incommensurate phase transition of K2SeO4, Physical Review, B &lt;strong&gt;38&lt;/strong&gt;, 8625-8632 (1988).</aps>
+<bio1>Topic B, von Kienlin A, Gölzhäuser A, Haeberlin U, Blinc R (1988) &lt;br /&gt;39K and 77Se NMR study of the paraelectric-to-incommensurate phase transition of K2SeO4.&lt;br /&gt;Physical Review, B 38(13): 8625-8632.</bio1>
+<wels>Topic, B.; von Kienlin, A.; Gölzhäuser, A.; Haeberlin, U.; Blinc, R. (1988): 39K and 77Se NMR study of the paraelectric-to-incommensurate phase transition of K2SeO4 &lt;em&gt;Physical Review, B&lt;/em&gt;,38:(13): 8625-8632.</wels>
+<default>Topic B, von Kienlin A, Gölzhäuser A, Haeberlin U, Blinc R (1988) &lt;br /&gt;Physical Review, B 38(13): 8625-8632.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1778261</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1778261</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1778261</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,125 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Azotobacter vinelandii metal storage protein: &quot;Classical&quot; inorganic chemistry involved in Mo/W uptake and release processes</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Joerg</namePart>
+  <namePart type="family">Schemberg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Klaus</namePart>
+  <namePart type="family">Schneider</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">179483</identifier></name>
+<name type="personal">
+  <namePart type="given">Dirk</namePart>
+  <namePart type="family">Fenske</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Achim</namePart>
+  <namePart type="family">Müller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20118</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0003-0117-4021</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Biochemie I</namePart>
+  <identifier type="unibi">17967</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Anorganische Chemie I</namePart>
+  <identifier type="unibi">17964</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Biochemie und Biotechnik</namePart>
+  <identifier type="unibi">4838684</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The release of Mo (as molybdate) from the Mo storage protein (MoSto), which is unique among all existing metalloproteins, is strongly influenced by temperature and pH value; other factors (incubation time, protein concentration, degree of purity) hove minor, though significant effects. A detailed pH titration at 12 degrees C revealed that three different steps con be distinguished for the Mo-release process. A proportion of similar to 15% at pH 6.8-7.0, an additional 25 % at pH 7.2-7.5 and ca. 50 % (up to 90 % in total) at pH 7.6-Z8. This triphasic process supports the assumption of the presence of different types of molybdenum-oxide-based clusters that exhibit different pH lability. The complete release of Mo was achieved by increasing the temperature to 30 degrees C and the pH value to &gt; 7.5. The Mo-release process does not require ATP; on the contrary, ATP prevents, or at least reduces the degree of metal release, depending on the concentration of the nucleotide. From this point of view, the intracellular ATP concentration is suggested to play-in addition to the pH value-on indirect but crucial role in controlling the extent of Mo release in the cell. The binding of molybdenum to the apoprotein (reconstitution process) was confirmed to be directly dependent on the presence of a nucleotide (preferably ATP) and MgCl2. Maximal reincorporation of Mo required I mm ATP which could partly be replaced by GTP. When the storage protein was purified in the presence of ATP and MgCl2 (1 mm each), the final preparation contained 80 Mo atoms per protein molecule. Maximal metal loading (110-775 atoms/MoSto molecule) was only achieved, if Mo was first completely released from the native protein and subsequently (re-) bound under optimal reconstitution conditions: 1 h incubation at pH 6.5 and 12 degrees C in the presence of ATP, MgCl2 and excess molybdate. A corresponding tungsten-containing storage protein (&quot;WSto&quot;) could not only be synthesized in vivo by growing cells, but could also be constructed in vitro by a metalate-ion exchange procedure by using the isolated MoSto protein. The high IN content of the isolated cell-made WSto (similar to 110 atoms/protein molecule) and the relatively low amount of tungstate that was released from the protein under optimal &quot;release conditions&quot;, demonstrates that the W-oxide-based clusters are more stable inside the protein cavity than the Mo-oxide analogues, as expected from the corresponding findings in polyoxometalate chemistry. The optimized isolation of the W-loaded protein form allowed us to get single crystals, and to determine the crystal X-ray structure. This proved that the protein contains remarkably different types of polyoxotungstates, the formation of which is templated in an unprecedented process by the different protein pockets.</abstract>
+
+<originInfo><publisher>WILEY-V C H VERLAG GMBH</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Azotobacter vinelandii</topic><topic>metal storage protein</topic><topic>metalloproteins</topic><topic>molybdenum</topic><topic>tungsten</topic><topic>bioinorganic chemistry</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>CHEMBIOCHEM</title></titleInfo>
+  <identifier type="issn">1439-4227</identifier>
+  <identifier type="eIssn">1439-7633</identifier>
+  <identifier type="MEDLINE">18273850</identifier>
+  <identifier type="ISI">000253800300016</identifier><identifier type="doi">10.1002/cbic.200700446</identifier>
+<part><detail type="volume"><number>9</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">595-602</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schemberg, Joerg, Schneider, Klaus, Fenske, Dirk, and Müller, Achim. 2008. “Azotobacter vinelandii metal storage protein: &quot;Classical&quot; inorganic chemistry involved in Mo/W uptake and release processes”. &lt;em&gt;CHEMBIOCHEM&lt;/em&gt; 9 (4): 595-602.&lt;/div&gt;</chicago>
+<apa>Schemberg, J., Schneider, K., Fenske, D., &amp;amp; Müller, A. (2008). Azotobacter vinelandii metal storage protein: &quot;Classical&quot; inorganic chemistry involved in Mo/W uptake and release processes. &lt;em&gt;CHEMBIOCHEM&lt;/em&gt;, &lt;em&gt;9&lt;/em&gt;(4), 595-602.</apa>
+<angewandte-chemie>J.  Schemberg, K.  Schneider, D.  Fenske, and A.  Müller, “Azotobacter vinelandii metal storage protein: &quot;Classical&quot; inorganic chemistry involved in Mo/W uptake and release processes”, &lt;em&gt;CHEMBIOCHEM&lt;/em&gt;, &lt;strong&gt;2008&lt;/strong&gt;, &lt;em&gt;9&lt;/em&gt;, 595-602.</angewandte-chemie>
+<frontiers>Schemberg, J., Schneider, K., Fenske, D., and Müller, A. (2008). Azotobacter vinelandii metal storage protein: &quot;Classical&quot; inorganic chemistry involved in Mo/W uptake and release processes. &lt;em&gt;CHEMBIOCHEM&lt;/em&gt; 9, 595-602.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schemberg, J., Schneider, K., Fenske, D., &amp;amp; Müller, A. (2008). Azotobacter vinelandii metal storage protein: &quot;Classical&quot; inorganic chemistry involved in Mo/W uptake and release processes. &lt;em&gt;CHEMBIOCHEM&lt;/em&gt;, &lt;em&gt;9&lt;/em&gt;(4), 595-602.&lt;/div&gt;</apa_indent>
+<ieee>J. Schemberg, et al., “Azotobacter vinelandii metal storage protein: &quot;Classical&quot; inorganic chemistry involved in Mo/W uptake and release processes”, &lt;em&gt;CHEMBIOCHEM&lt;/em&gt;,  vol. 9, 2008,  pp. 595-602.</ieee>
+<lncs>Schemberg, J., Schneider, K., Fenske, D., Müller, A.: Azotobacter vinelandii metal storage protein: &quot;Classical&quot; inorganic chemistry involved in Mo/W uptake and release processes. CHEMBIOCHEM. 9, 595-602 (2008).</lncs>
+<mla>Schemberg, Joerg, Schneider, Klaus, Fenske, Dirk, and Müller, Achim. “Azotobacter vinelandii metal storage protein: &quot;Classical&quot; inorganic chemistry involved in Mo/W uptake and release processes”. &lt;em&gt;CHEMBIOCHEM&lt;/em&gt; 9.4 (2008): 595-602.</mla>
+<wels>Schemberg, J.; Schneider, K.; Fenske, D.; Müller, A. (2008): Azotobacter vinelandii metal storage protein: &quot;Classical&quot; inorganic chemistry involved in Mo/W uptake and release processes &lt;em&gt;CHEMBIOCHEM&lt;/em&gt;,9:(4): 595-602.</wels>
+<default>Schemberg J, Schneider K, Fenske D, Müller A (2008) &lt;br /&gt;CHEMBIOCHEM 9(4): 595-602.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schemberg, J., Schneider, K., Fenske, D. &amp;amp; Müller, A. (2008). Azotobacter vinelandii metal storage protein: &quot;Classical&quot; inorganic chemistry involved in Mo/W uptake and release processes. &lt;em&gt;CHEMBIOCHEM&lt;/em&gt;, &lt;em&gt;9&lt;/em&gt;(4), 595-602. WILEY-V C H VERLAG GMBH. doi:10.1002/cbic.200700446.&lt;/div&gt;</dgps>
+<harvard1>Schemberg, J., et al., 2008. Azotobacter vinelandii metal storage protein: &quot;Classical&quot; inorganic chemistry involved in Mo/W uptake and release processes. &lt;em&gt;CHEMBIOCHEM&lt;/em&gt;, 9(4), p 595-602.</harvard1>
+<ama>Schemberg J, Schneider K, Fenske D, Müller A. Azotobacter vinelandii metal storage protein: &quot;Classical&quot; inorganic chemistry involved in Mo/W uptake and release processes. &lt;em&gt;CHEMBIOCHEM&lt;/em&gt;. 2008;9(4):595-602.</ama>
+<aps>J.  Schemberg, et al., Azotobacter vinelandii metal storage protein: &quot;Classical&quot; inorganic chemistry involved in Mo/W uptake and release processes, CHEMBIOCHEM &lt;strong&gt;9&lt;/strong&gt;, 595-602 (2008).</aps>
+<bio1>Schemberg J, Schneider K, Fenske D, Müller A (2008) &lt;br /&gt;Azotobacter vinelandii metal storage protein: &quot;Classical&quot; inorganic chemistry involved in Mo/W uptake and release processes.&lt;br /&gt;CHEMBIOCHEM 9(4): 595-602.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1592418</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T11:50:36Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-17T13:40:55Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1592418</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1592418</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

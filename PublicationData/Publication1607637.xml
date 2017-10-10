@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Modeling microarray data using a threshold mixture model</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Göran</namePart>
+  <namePart type="family">Kauermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">91009</identifier></name>
+<name type="personal">
+  <namePart type="given">P</namePart>
+  <namePart type="family">Eilers</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Wirtschaftswissenschaften</namePart>
+  <identifier type="unibi">10031</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">An important goal of microarray studies is the detection of genes that show significant changes in expression when two classes of biological samples are being compared. We present an ANOVA-style mixed model with parameters for array normalization, overall level of gene expression, and change of expression between the classes. For the latter we assume a mixing distribution with a probability mass concentrated at zero, representing genes with no changes, and a normal distribution representing the level of change for the other genes. We estimate the parameters by optimizing the marginal likelihood. To make this practical, Laplace approximations and a backfitting algorithm are used. The performance of the model is studied by simulation and by application to publicly available data sets.</abstract>
+
+<originInfo><publisher>BLACKWELL PUBLISHING LTD</publisher><dateIssued encoding="w3cdtf">2004</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>marginal likelihood</topic><topic>microarray</topic><topic>mixed model</topic><topic>laplace approximation</topic><topic>backfitting</topic><topic>data</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>BIOMETRICS</title></titleInfo>
+  <identifier type="issn">0006-341X</identifier>
+  <identifier type="MEDLINE">15180663</identifier>
+  <identifier type="ISI">000222126400010</identifier><identifier type="doi">10.1111/j.0006-341X.2004.00182.x</identifier>
+<part><detail type="volume"><number>60</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">376-387</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>G. Kauermann and P. Eilers, “Modeling microarray data using a threshold mixture model”, &lt;em&gt;BIOMETRICS&lt;/em&gt;,  vol. 60, 2004,  pp. 376-387.</ieee>
+<mla>Kauermann, Göran, and Eilers, P. “Modeling microarray data using a threshold mixture model”. &lt;em&gt;BIOMETRICS&lt;/em&gt; 60.2 (2004): 376-387.</mla>
+<lncs>Kauermann, G., Eilers, P.: Modeling microarray data using a threshold mixture model. BIOMETRICS. 60, 376-387 (2004).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kauermann, G., &amp;amp; Eilers, P. (2004). Modeling microarray data using a threshold mixture model. &lt;em&gt;BIOMETRICS&lt;/em&gt;, &lt;em&gt;60&lt;/em&gt;(2), 376-387.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>G.  Kauermann, and P.  Eilers, “Modeling microarray data using a threshold mixture model”, &lt;em&gt;BIOMETRICS&lt;/em&gt;, &lt;strong&gt;2004&lt;/strong&gt;, &lt;em&gt;60&lt;/em&gt;, 376-387.</angewandte-chemie>
+<apa>Kauermann, G., &amp;amp; Eilers, P. (2004). Modeling microarray data using a threshold mixture model. &lt;em&gt;BIOMETRICS&lt;/em&gt;, &lt;em&gt;60&lt;/em&gt;(2), 376-387.</apa>
+<frontiers>Kauermann, G., and Eilers, P. (2004). Modeling microarray data using a threshold mixture model. &lt;em&gt;BIOMETRICS&lt;/em&gt; 60, 376-387.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kauermann, Göran, and Eilers, P. 2004. “Modeling microarray data using a threshold mixture model”. &lt;em&gt;BIOMETRICS&lt;/em&gt; 60 (2): 376-387.&lt;/div&gt;</chicago>
+<ama>Kauermann G, Eilers P. Modeling microarray data using a threshold mixture model. &lt;em&gt;BIOMETRICS&lt;/em&gt;. 2004;60(2):376-387.</ama>
+<harvard1>Kauermann, G., &amp;amp; Eilers, P., 2004. Modeling microarray data using a threshold mixture model. &lt;em&gt;BIOMETRICS&lt;/em&gt;, 60(2), p 376-387.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kauermann, G. &amp;amp; Eilers, P. (2004). Modeling microarray data using a threshold mixture model. &lt;em&gt;BIOMETRICS&lt;/em&gt;, &lt;em&gt;60&lt;/em&gt;(2), 376-387. BLACKWELL PUBLISHING LTD. doi:10.1111/j.0006-341X.2004.00182.x.&lt;/div&gt;</dgps>
+<aps>G.  Kauermann and P.  Eilers, Modeling microarray data using a threshold mixture model, BIOMETRICS &lt;strong&gt;60&lt;/strong&gt;, 376-387 (2004).</aps>
+<bio1>Kauermann G, Eilers P (2004) &lt;br /&gt;Modeling microarray data using a threshold mixture model.&lt;br /&gt;BIOMETRICS 60(2): 376-387.</bio1>
+<wels>Kauermann, G.; Eilers, P. (2004): Modeling microarray data using a threshold mixture model &lt;em&gt;BIOMETRICS&lt;/em&gt;,60:(2): 376-387.</wels>
+<default>Kauermann G, Eilers P (2004) &lt;br /&gt;BIOMETRICS 60(2): 376-387.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1607637</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:57:30Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-05T11:15:51Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1607637</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1607637</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

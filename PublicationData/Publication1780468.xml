@@ -1,0 +1,95 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>On code pairs with specified Hamming distances</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Rudolf</namePart>
+  <namePart type="family">Ahlswede</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10479</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Ahlswede_58.pdf">https://pub.uni-bielefeld.de/download/1780468/2312920</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>North Holland Publ. Co. [u.a.]</publisher><dateIssued encoding="w3cdtf">1987</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Combinatorics</title></titleInfo><identifier type="urn">urn:nbn:de:0070-bipr-21068</identifier>
+<part><extent unit="pages">9-47</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Ahlswede R (1987)  &lt;br /&gt;In:  Combinatorics.  Colloquia mathematica Societatis János Bolyai ; 52, . Amsterdam [u.a.]: North Holland Publ. Co. [u.a.]:  9-47.</default>
+<wels>Ahlswede, R. (1987): On code pairs with specified Hamming distances. In: Combinatorics. Amsterdam [u.a.]: North Holland Publ. Co. [u.a.]. (Colloquia mathematica Societatis János Bolyai ; 52, ).  S. 9-47.</wels>
+<aps>R.  Ahlswede, On code pairs with specified Hamming distances, in &lt;em&gt;Combinatorics&lt;/em&gt;, Colloquia mathematica Societatis János Bolyai ; 52 (North Holland Publ. Co. [u.a.], Amsterdam [U.a.], 1987), p. 9-47.</aps>
+<bio1>Ahlswede R (1987) &lt;br /&gt;On code pairs with specified Hamming distances. &lt;br /&gt;In:  Combinatorics.  Colloquia mathematica Societatis János Bolyai ; 52,  Amsterdam [u.a.]: North Holland Publ. Co. [u.a.]:  9-47.</bio1>
+<ama>Ahlswede R. On code pairs with specified Hamming distances. In:  &lt;em&gt;Combinatorics&lt;/em&gt;. Colloquia mathematica Societatis János Bolyai ; 52. Amsterdam [u.a.]: North Holland Publ. Co. [u.a.];  1987: 9-47.</ama>
+<harvard1>Ahlswede, R., 1987. On code pairs with specified Hamming distances. In &lt;em&gt;Combinatorics&lt;/em&gt;. Colloquia mathematica Societatis János Bolyai ; 52.  Amsterdam [u.a.]: North Holland Publ. Co. [u.a.], pp. 9-47.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R. (1987). On code pairs with specified Hamming distances (Colloquia mathematica Societatis János Bolyai ; 52). &lt;em&gt;Combinatorics&lt;/em&gt; (S. 9-47). Amsterdam [u.a.]: North Holland Publ. Co. [u.a.].&lt;/div&gt;</dgps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, Rudolf. 1987. “On code pairs with specified Hamming distances”. In &lt;em&gt;Combinatorics&lt;/em&gt;, 9-47. Colloquia mathematica Societatis János Bolyai ; 52. Amsterdam [u.a.]: North Holland Publ. Co. [u.a.].&lt;/div&gt;</chicago>
+<frontiers>Ahlswede, R. (1987). “On code pairs with specified Hamming distances” in &lt;em&gt;Combinatorics&lt;/em&gt; Colloquia mathematica Societatis János Bolyai ; 52 (Amsterdam [u.a.]: North Holland Publ. Co. [u.a.]), 9-47.</frontiers>
+<angewandte-chemie>R.  Ahlswede, in &lt;em&gt;Combinatorics&lt;/em&gt;, North Holland Publ. Co. [U.a.], Amsterdam [u.a.], &lt;strong&gt;1987&lt;/strong&gt;, p. 9-47.</angewandte-chemie>
+<apa>Ahlswede, R. (1987). On code pairs with specified Hamming distances. &lt;em&gt;Combinatorics&lt;/em&gt;, 9-47.</apa>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R. (1987). On code pairs with specified Hamming distances. &lt;em&gt;Combinatorics&lt;/em&gt;, 9-47.&lt;/div&gt;</apa_indent>
+<lncs>Ahlswede, R.: On code pairs with specified Hamming distances. Combinatorics. Colloquia mathematica Societatis János Bolyai ; 52. p. 9-47. North Holland Publ. Co. [u.a.], Amsterdam [u.a.] (1987).</lncs>
+<mla>Ahlswede, Rudolf. “On code pairs with specified Hamming distances”. &lt;em&gt;Combinatorics&lt;/em&gt;. Amsterdam [u.a.]: North Holland Publ. Co. [u.a.], 1987. Colloquia mathematica Societatis János Bolyai ; 52. 9-47.</mla>
+<ieee>R. Ahlswede, “On code pairs with specified Hamming distances”, &lt;em&gt;Combinatorics&lt;/em&gt;, Colloquia mathematica Societatis János Bolyai ; 52,  Amsterdam [u.a.]: North Holland Publ. Co. [u.a.], 1987,  pp.9-47.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780468</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780468</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780468</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,123 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Microarray studies reveal a &apos;differential response&apos; to moderate or severe heat shock of the HrcA- and HspR-dependent systems in Corynebacterium glutamicum</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Carlos</namePart>
+  <namePart type="family">Barreiro</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Diana</namePart>
+  <namePart type="family">Nakunst</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andrea T.</namePart>
+  <namePart type="family">Hueser</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Hector D.</namePart>
+  <namePart type="family">de Paz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jörn</namePart>
+  <namePart type="family">Kalinowski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">147567</identifier></name>
+<name type="personal">
+  <namePart type="given">Juan F.</namePart>
+  <namePart type="family">Martin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Genomforschung und Systembiologie</namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group J. Kalinowski</namePart>
+  <identifier type="unibi">33070724</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Genome-wide transcription profile analysis of the heat-shocked wild-type strain under moderate (40 degrees C) and severe heat stress (50 degrees C) revealed that a large number of genes are differentially expressed after heat shock. Of these, 358 genes were upregulated and 420 were downregulated in response to moderate heat shock (40 degrees C) in Corynebacterium glutamicum. Our results confirmed the HrcA/controlling inverted repeat of chaperone expression (CIRCE)-dependent and HspR/HspR-associated inverted repeat (HAIR)-dependent upregulation of chaperones following heat shock. Other genes, including clusters of orthologous groups (COG) related to macromolecule biosynthesis and several transcriptional regulators (COG class K), were upregulated, explaining the large number of genes affected by heat shock. Mutants having deletions in the hrcA or hspR regulators were constructed, which allowed the complete identification of the genes controlled by those systems. The up- or downregulation of several genes observed in the microarray experiments was validated by Northern blot analyses and quantitative (real-time) reverse-transcription PCR. These analyses showed a heat-shock intensity-dependent response (&apos;differential response&apos;) in the HspR/HAIR system, in contrast to the non-differential response shown by the HrcA/CIRCE-regulated genes.</abstract>
+
+<originInfo><publisher>Society for General Microbiology</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>MICROBIOLOGY-SGM</title></titleInfo>
+  <identifier type="issn">1350-0872</identifier>
+  <identifier type="eIssn">1465-2080</identifier>
+  <identifier type="MEDLINE">19202085</identifier>
+  <identifier type="ISI">000263428900005</identifier><identifier type="doi">10.1099/mic.0.019299-0</identifier>
+<part><detail type="volume"><number>155</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">359-372</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Barreiro, C., Nakunst, D., Hueser, A. T., de Paz, H. D., Kalinowski, J., &amp;amp; Martin, J. F. (2009). Microarray studies reveal a &apos;differential response&apos; to moderate or severe heat shock of the HrcA- and HspR-dependent systems in Corynebacterium glutamicum. &lt;em&gt;MICROBIOLOGY-SGM&lt;/em&gt;, &lt;em&gt;155&lt;/em&gt;(2), 359-372.&lt;/div&gt;</apa_indent>
+<lncs>Barreiro, C., Nakunst, D., Hueser, A.T., de Paz, H.D., Kalinowski, J., Martin, J.F.: Microarray studies reveal a &apos;differential response&apos; to moderate or severe heat shock of the HrcA- and HspR-dependent systems in Corynebacterium glutamicum. MICROBIOLOGY-SGM. 155, 359-372 (2009).</lncs>
+<mla>Barreiro, Carlos, Nakunst, Diana, Hueser, Andrea T., de Paz, Hector D., Kalinowski, Jörn, and Martin, Juan F. “Microarray studies reveal a &apos;differential response&apos; to moderate or severe heat shock of the HrcA- and HspR-dependent systems in Corynebacterium glutamicum”. &lt;em&gt;MICROBIOLOGY-SGM&lt;/em&gt; 155.2 (2009): 359-372.</mla>
+<ieee>C. Barreiro, et al., “Microarray studies reveal a &apos;differential response&apos; to moderate or severe heat shock of the HrcA- and HspR-dependent systems in Corynebacterium glutamicum”, &lt;em&gt;MICROBIOLOGY-SGM&lt;/em&gt;,  vol. 155, 2009,  pp. 359-372.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Barreiro, Carlos, Nakunst, Diana, Hueser, Andrea T., de Paz, Hector D., Kalinowski, Jörn, and Martin, Juan F. 2009. “Microarray studies reveal a &apos;differential response&apos; to moderate or severe heat shock of the HrcA- and HspR-dependent systems in Corynebacterium glutamicum”. &lt;em&gt;MICROBIOLOGY-SGM&lt;/em&gt; 155 (2): 359-372.&lt;/div&gt;</chicago>
+<frontiers>Barreiro, C., Nakunst, D., Hueser, A. T., de Paz, H. D., Kalinowski, J., and Martin, J. F. (2009). Microarray studies reveal a &apos;differential response&apos; to moderate or severe heat shock of the HrcA- and HspR-dependent systems in Corynebacterium glutamicum. &lt;em&gt;MICROBIOLOGY-SGM&lt;/em&gt; 155, 359-372.</frontiers>
+<angewandte-chemie>C.  Barreiro, D.  Nakunst, A. T.  Hueser, H. D.  de Paz, J.  Kalinowski, and J. F.  Martin, “Microarray studies reveal a &apos;differential response&apos; to moderate or severe heat shock of the HrcA- and HspR-dependent systems in Corynebacterium glutamicum”, &lt;em&gt;MICROBIOLOGY-SGM&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;155&lt;/em&gt;, 359-372.</angewandte-chemie>
+<apa>Barreiro, C., Nakunst, D., Hueser, A. T., de Paz, H. D., Kalinowski, J., &amp;amp; Martin, J. F. (2009). Microarray studies reveal a &apos;differential response&apos; to moderate or severe heat shock of the HrcA- and HspR-dependent systems in Corynebacterium glutamicum. &lt;em&gt;MICROBIOLOGY-SGM&lt;/em&gt;, &lt;em&gt;155&lt;/em&gt;(2), 359-372.</apa>
+<aps>C.  Barreiro, et al., Microarray studies reveal a &apos;differential response&apos; to moderate or severe heat shock of the HrcA- and HspR-dependent systems in Corynebacterium glutamicum, MICROBIOLOGY-SGM &lt;strong&gt;155&lt;/strong&gt;, 359-372 (2009).</aps>
+<bio1>Barreiro C, Nakunst D, Hueser AT, de Paz HD, Kalinowski J, Martin JF (2009) &lt;br /&gt;Microarray studies reveal a &apos;differential response&apos; to moderate or severe heat shock of the HrcA- and HspR-dependent systems in Corynebacterium glutamicum.&lt;br /&gt;MICROBIOLOGY-SGM 155(2): 359-372.</bio1>
+<harvard1>Barreiro, C., et al., 2009. Microarray studies reveal a &apos;differential response&apos; to moderate or severe heat shock of the HrcA- and HspR-dependent systems in Corynebacterium glutamicum. &lt;em&gt;MICROBIOLOGY-SGM&lt;/em&gt;, 155(2), p 359-372.</harvard1>
+<ama>Barreiro C, Nakunst D, Hueser AT, de Paz HD, Kalinowski J, Martin JF. Microarray studies reveal a &apos;differential response&apos; to moderate or severe heat shock of the HrcA- and HspR-dependent systems in Corynebacterium glutamicum. &lt;em&gt;MICROBIOLOGY-SGM&lt;/em&gt;. 2009;155(2):359-372.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Barreiro, C., Nakunst, D., Hueser, A.T., de Paz, H.D., Kalinowski, J. &amp;amp; Martin, J.F. (2009). Microarray studies reveal a &apos;differential response&apos; to moderate or severe heat shock of the HrcA- and HspR-dependent systems in Corynebacterium glutamicum. &lt;em&gt;MICROBIOLOGY-SGM&lt;/em&gt;, &lt;em&gt;155&lt;/em&gt;(2), 359-372. Society for General Microbiology. doi:10.1099/mic.0.019299-0.&lt;/div&gt;</dgps>
+<default>Barreiro C, Nakunst D, Hueser AT, de Paz HD, Kalinowski J, Martin JF (2009) &lt;br /&gt;MICROBIOLOGY-SGM 155(2): 359-372.</default>
+<wels>Barreiro, C.; Nakunst, D.; Hueser, A. T.; de Paz, H. D.; Kalinowski, J.; Martin, J. F. (2009): Microarray studies reveal a &apos;differential response&apos; to moderate or severe heat shock of the HrcA- and HspR-dependent systems in Corynebacterium glutamicum &lt;em&gt;MICROBIOLOGY-SGM&lt;/em&gt;,155:(2): 359-372.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1635517</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:42Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-07T16:39:52Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1635517</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1635517</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

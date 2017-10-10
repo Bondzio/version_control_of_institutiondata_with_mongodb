@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Multikulturalität und Grundrechte - am Beispiel der Religionsfreiheit</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Johannes</namePart>
+  <namePart type="family">Hellermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">77470</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Christoph</namePart><namePart type="family">Grabenwarter</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Rechtswissenschaft</namePart>
+  <identifier type="unibi">10029</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Hellermann_01.pdf">https://pub.uni-bielefeld.de/download/1780285/2312850</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Boorberg</publisher><dateIssued encoding="w3cdtf">1994</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+<subject><topic>Grundrecht</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Allgemeinheit der Grundrechte und Vielfalt der Gesellschaft: 34. Tagung der Wissenschaftlichen Mitarbeiterinnen und Mitarbeiter der Fachrichtung &quot;Öffentliches Recht&quot;</title></titleInfo>
+  <identifier type="isbn">3-415-01974-8</identifier><identifier type="urn">urn:nbn:de:0070-bipr-20331</identifier>
+<part><extent unit="pages">129-144</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Hellermann J. Multikulturalität und Grundrechte - am Beispiel der Religionsfreiheit. In: Grabenwarter C, ed. &lt;em&gt;Allgemeinheit der Grundrechte und Vielfalt der Gesellschaft: 34. Tagung der Wissenschaftlichen Mitarbeiterinnen und Mitarbeiter der Fachrichtung &quot;Öffentliches Recht&quot;&lt;/em&gt;. Stuttgart [u.a.]: Boorberg;  1994: 129-144.</ama>
+<harvard1>Hellermann, J., 1994. Multikulturalität und Grundrechte - am Beispiel der Religionsfreiheit. In C.  Grabenwarter, ed. &lt;em&gt;Allgemeinheit der Grundrechte und Vielfalt der Gesellschaft: 34. Tagung der Wissenschaftlichen Mitarbeiterinnen und Mitarbeiter der Fachrichtung &quot;Öffentliches Recht&quot;&lt;/em&gt;.  Stuttgart [u.a.]: Boorberg, pp. 129-144.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hellermann, J. (1994). Multikulturalität und Grundrechte - am Beispiel der Religionsfreiheit. &lt;em&gt;Allgemeinheit der Grundrechte und Vielfalt der Gesellschaft: 34. Tagung der Wissenschaftlichen Mitarbeiterinnen und Mitarbeiter der Fachrichtung &quot;Öffentliches Recht&quot;&lt;/em&gt; (S. 129-144). Stuttgart [u.a.]: Boorberg.&lt;/div&gt;</dgps>
+<bio1>Hellermann J (1994) &lt;br /&gt;Multikulturalität und Grundrechte - am Beispiel der Religionsfreiheit. &lt;br /&gt;In:  Allgemeinheit der Grundrechte und Vielfalt der Gesellschaft: 34. Tagung der Wissenschaftlichen Mitarbeiterinnen und Mitarbeiter der Fachrichtung &quot;Öffentliches Recht&quot;. Grabenwarter C (Ed); Stuttgart [u.a.]: Boorberg:  129-144.</bio1>
+<aps>J.  Hellermann, Multikulturalität und Grundrechte - am Beispiel der Religionsfreiheit, in &lt;em&gt;Allgemeinheit der Grundrechte und Vielfalt der Gesellschaft: 34. Tagung der Wissenschaftlichen Mitarbeiterinnen und Mitarbeiter der Fachrichtung &quot;Öffentliches Recht&quot;&lt;/em&gt;, edited by C.  Grabenwarter (Boorberg, Stuttgart [U.a.], 1994), p. 129-144.</aps>
+<wels>Hellermann, J. (1994): Multikulturalität und Grundrechte - am Beispiel der Religionsfreiheit. In: Christoph Grabenwarter (Hrsg.):  Allgemeinheit der Grundrechte und Vielfalt der Gesellschaft: 34. Tagung der Wissenschaftlichen Mitarbeiterinnen und Mitarbeiter der Fachrichtung &quot;Öffentliches Recht&quot;. Stuttgart [u.a.]: Boorberg.  S. 129-144.</wels>
+<default>Hellermann J (1994)  &lt;br /&gt;In:  Allgemeinheit der Grundrechte und Vielfalt der Gesellschaft: 34. Tagung der Wissenschaftlichen Mitarbeiterinnen und Mitarbeiter der Fachrichtung &quot;Öffentliches Recht&quot;. Grabenwarter C (Ed);Stuttgart [u.a.]: Boorberg:  129-144.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hellermann, J. (1994). Multikulturalität und Grundrechte - am Beispiel der Religionsfreiheit. In C.  Grabenwarter (Ed.), &lt;em&gt;Allgemeinheit der Grundrechte und Vielfalt der Gesellschaft: 34. Tagung der Wissenschaftlichen Mitarbeiterinnen und Mitarbeiter der Fachrichtung &quot;Öffentliches Recht&quot;&lt;/em&gt; (pp. 129-144). Stuttgart [u.a.]: Boorberg.&lt;/div&gt;</apa_indent>
+<ieee>J. Hellermann, “Multikulturalität und Grundrechte - am Beispiel der Religionsfreiheit”, &lt;em&gt;Allgemeinheit der Grundrechte und Vielfalt der Gesellschaft: 34. Tagung der Wissenschaftlichen Mitarbeiterinnen und Mitarbeiter der Fachrichtung &quot;Öffentliches Recht&quot;&lt;/em&gt;, C. Grabenwarter, ed.,  Stuttgart [u.a.]: Boorberg, 1994,  pp.129-144.</ieee>
+<lncs>Hellermann, J.: Multikulturalität und Grundrechte - am Beispiel der Religionsfreiheit. In: Grabenwarter, C. (ed.) Allgemeinheit der Grundrechte und Vielfalt der Gesellschaft: 34. Tagung der Wissenschaftlichen Mitarbeiterinnen und Mitarbeiter der Fachrichtung &quot;Öffentliches Recht&quot;. p. 129-144. Boorberg, Stuttgart [u.a.] (1994).</lncs>
+<mla>Hellermann, Johannes. “Multikulturalität und Grundrechte - am Beispiel der Religionsfreiheit”. &lt;em&gt;Allgemeinheit der Grundrechte und Vielfalt der Gesellschaft: 34. Tagung der Wissenschaftlichen Mitarbeiterinnen und Mitarbeiter der Fachrichtung &quot;Öffentliches Recht&quot;&lt;/em&gt;. Ed. Christoph Grabenwarter. Stuttgart [u.a.]: Boorberg, 1994. 129-144.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hellermann, Johannes. 1994. “Multikulturalität und Grundrechte - am Beispiel der Religionsfreiheit”. In &lt;em&gt;Allgemeinheit der Grundrechte und Vielfalt der Gesellschaft: 34. Tagung der Wissenschaftlichen Mitarbeiterinnen und Mitarbeiter der Fachrichtung &quot;Öffentliches Recht&quot;&lt;/em&gt;, ed. Christoph Grabenwarter, 129-144. Stuttgart [u.a.]: Boorberg.&lt;/div&gt;</chicago>
+<apa>Hellermann, J. (1994). Multikulturalität und Grundrechte - am Beispiel der Religionsfreiheit. In C.  Grabenwarter (Ed.), &lt;em&gt;Allgemeinheit der Grundrechte und Vielfalt der Gesellschaft: 34. Tagung der Wissenschaftlichen Mitarbeiterinnen und Mitarbeiter der Fachrichtung &quot;Öffentliches Recht&quot;&lt;/em&gt; (pp. 129-144). Stuttgart [u.a.]: Boorberg.</apa>
+<angewandte-chemie>J.  Hellermann, in &lt;em&gt;Allgemeinheit der Grundrechte und Vielfalt der Gesellschaft: 34. Tagung der Wissenschaftlichen Mitarbeiterinnen und Mitarbeiter der Fachrichtung &quot;Öffentliches Recht&quot;&lt;/em&gt; (Ed.: C. Grabenwarter), Boorberg, Stuttgart [u.a.], &lt;strong&gt;1994&lt;/strong&gt;, p. 129-144.</angewandte-chemie>
+<frontiers>Hellermann, J. (1994). “Multikulturalität und Grundrechte - am Beispiel der Religionsfreiheit” in &lt;em&gt;Allgemeinheit der Grundrechte und Vielfalt der Gesellschaft: 34. Tagung der Wissenschaftlichen Mitarbeiterinnen und Mitarbeiter der Fachrichtung &quot;Öffentliches Recht&quot;&lt;/em&gt;, ed. C.  Grabenwarter (Stuttgart [u.a.]: Boorberg), 129-144.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780285</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780285</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780285</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

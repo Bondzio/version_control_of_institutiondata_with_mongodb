@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Das Verhältnis von Theorie und Praxis am Beispiel des Praktikumskonzepts am Oberstufen-Kolleg der Universität Bielefeld: Erfahrungen und Schlußfolgerungen</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Hans</namePart>
+  <namePart type="family">Hermsen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Ulrich</namePart><namePart type="family">Teichler</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Wissenschaftliche Einrichtung Oberstufenkolleg</namePart>
+  <identifier type="unibi">11292831</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Hermsen_06.pdf">https://pub.uni-bielefeld.de/download/1780708/2312997</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Campus</publisher><dateIssued encoding="w3cdtf">1978</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Praxisorientierung des Studiums</title></titleInfo>
+  <identifier type="isbn">3-593-32605-1</identifier><identifier type="urn">urn:nbn:de:0070-bipr-21877</identifier>
+<part><extent unit="pages">135-146</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>H.  Hermsen, Das Verhältnis von Theorie und Praxis am Beispiel des Praktikumskonzepts am Oberstufen-Kolleg der Universität Bielefeld: Erfahrungen und Schlußfolgerungen, in &lt;em&gt;Praxisorientierung des Studiums&lt;/em&gt;, edited by U.  Teichler, Campus : Forschung ; 125 : Schwerpunktreihe Hochschule und Beruf (Campus, Frankfurt [U.a.], 1978), p. 135-146.</aps>
+<bio1>Hermsen H (1978) &lt;br /&gt;Das Verhältnis von Theorie und Praxis am Beispiel des Praktikumskonzepts am Oberstufen-Kolleg der Universität Bielefeld: Erfahrungen und Schlußfolgerungen. &lt;br /&gt;In:  Praxisorientierung des Studiums. Teichler U (Ed); Campus : Forschung ; 125 : Schwerpunktreihe Hochschule und Beruf,  Frankfurt [u.a.]: Campus:  135-146.</bio1>
+<harvard1>Hermsen, H., 1978. Das Verhältnis von Theorie und Praxis am Beispiel des Praktikumskonzepts am Oberstufen-Kolleg der Universität Bielefeld: Erfahrungen und Schlußfolgerungen. In U.  Teichler, ed. &lt;em&gt;Praxisorientierung des Studiums&lt;/em&gt;. Campus : Forschung ; 125 : Schwerpunktreihe Hochschule und Beruf.  Frankfurt [u.a.]: Campus, pp. 135-146.</harvard1>
+<ama>Hermsen H. Das Verhältnis von Theorie und Praxis am Beispiel des Praktikumskonzepts am Oberstufen-Kolleg der Universität Bielefeld: Erfahrungen und Schlußfolgerungen. In: Teichler U, ed. &lt;em&gt;Praxisorientierung des Studiums&lt;/em&gt;. Campus : Forschung ; 125 : Schwerpunktreihe Hochschule und Beruf. Frankfurt [u.a.]: Campus;  1978: 135-146.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hermsen, H. (1978). Das Verhältnis von Theorie und Praxis am Beispiel des Praktikumskonzepts am Oberstufen-Kolleg der Universität Bielefeld: Erfahrungen und Schlußfolgerungen (Campus : Forschung ; 125 : Schwerpunktreihe Hochschule und Beruf). &lt;em&gt;Praxisorientierung des Studiums&lt;/em&gt; (S. 135-146). Frankfurt [u.a.]: Campus.&lt;/div&gt;</dgps>
+<default>Hermsen H (1978)  &lt;br /&gt;In:  Praxisorientierung des Studiums. Teichler U (Ed); Campus : Forschung ; 125 : Schwerpunktreihe Hochschule und Beruf, . Frankfurt [u.a.]: Campus:  135-146.</default>
+<wels>Hermsen, H. (1978): Das Verhältnis von Theorie und Praxis am Beispiel des Praktikumskonzepts am Oberstufen-Kolleg der Universität Bielefeld: Erfahrungen und Schlußfolgerungen. In: Ulrich Teichler (Hrsg.):  Praxisorientierung des Studiums. Frankfurt [u.a.]: Campus. (Campus : Forschung ; 125 : Schwerpunktreihe Hochschule und Beruf, ).  S. 135-146.</wels>
+<lncs>Hermsen, H.: Das Verhältnis von Theorie und Praxis am Beispiel des Praktikumskonzepts am Oberstufen-Kolleg der Universität Bielefeld: Erfahrungen und Schlußfolgerungen. In: Teichler, U. (ed.) Praxisorientierung des Studiums. Campus : Forschung ; 125 : Schwerpunktreihe Hochschule und Beruf. p. 135-146. Campus, Frankfurt [u.a.] (1978).</lncs>
+<mla>Hermsen, Hans. “Das Verhältnis von Theorie und Praxis am Beispiel des Praktikumskonzepts am Oberstufen-Kolleg der Universität Bielefeld: Erfahrungen und Schlußfolgerungen”. &lt;em&gt;Praxisorientierung des Studiums&lt;/em&gt;. Ed. Ulrich Teichler. Frankfurt [u.a.]: Campus, 1978. Campus : Forschung ; 125 : Schwerpunktreihe Hochschule und Beruf. 135-146.</mla>
+<ieee>H. Hermsen, “Das Verhältnis von Theorie und Praxis am Beispiel des Praktikumskonzepts am Oberstufen-Kolleg der Universität Bielefeld: Erfahrungen und Schlußfolgerungen”, &lt;em&gt;Praxisorientierung des Studiums&lt;/em&gt;, U. Teichler, ed., Campus : Forschung ; 125 : Schwerpunktreihe Hochschule und Beruf,  Frankfurt [u.a.]: Campus, 1978,  pp.135-146.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hermsen, H. (1978). Das Verhältnis von Theorie und Praxis am Beispiel des Praktikumskonzepts am Oberstufen-Kolleg der Universität Bielefeld: Erfahrungen und Schlußfolgerungen. In U.  Teichler (Ed.), &lt;em&gt;Campus : Forschung ; 125 : Schwerpunktreihe Hochschule und Beruf&lt;/em&gt;&lt;em&gt;. Praxisorientierung des Studiums&lt;/em&gt; (pp. 135-146). Frankfurt [u.a.]: Campus.&lt;/div&gt;</apa_indent>
+<frontiers>Hermsen, H. (1978). “Das Verhältnis von Theorie und Praxis am Beispiel des Praktikumskonzepts am Oberstufen-Kolleg der Universität Bielefeld: Erfahrungen und Schlußfolgerungen” in &lt;em&gt;Praxisorientierung des Studiums&lt;/em&gt;, ed. U.  Teichler Campus : Forschung ; 125 : Schwerpunktreihe Hochschule und Beruf (Frankfurt [u.a.]: Campus), 135-146.</frontiers>
+<angewandte-chemie>H.  Hermsen, in &lt;em&gt;Praxisorientierung des Studiums&lt;/em&gt; (Ed.: U. Teichler), Campus, Frankfurt [u.a.], &lt;strong&gt;1978&lt;/strong&gt;, p. 135-146.</angewandte-chemie>
+<apa>Hermsen, H. (1978). Das Verhältnis von Theorie und Praxis am Beispiel des Praktikumskonzepts am Oberstufen-Kolleg der Universität Bielefeld: Erfahrungen und Schlußfolgerungen. In U.  Teichler (Ed.), &lt;em&gt;Campus : Forschung ; 125 : Schwerpunktreihe Hochschule und Beruf&lt;/em&gt;&lt;em&gt;. Praxisorientierung des Studiums&lt;/em&gt; (pp. 135-146). Frankfurt [u.a.]: Campus.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hermsen, Hans. 1978. “Das Verhältnis von Theorie und Praxis am Beispiel des Praktikumskonzepts am Oberstufen-Kolleg der Universität Bielefeld: Erfahrungen und Schlußfolgerungen”. In &lt;em&gt;Praxisorientierung des Studiums&lt;/em&gt;, ed. Ulrich Teichler, 135-146. Campus : Forschung ; 125 : Schwerpunktreihe Hochschule und Beruf. Frankfurt [u.a.]: Campus.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780708</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780708</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780708</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

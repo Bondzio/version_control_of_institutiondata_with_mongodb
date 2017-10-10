@@ -1,0 +1,127 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>A level set based approach for modeling oxidation processes of ligand stabilized metallic nanoparticles</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Alexander</namePart>
+  <namePart type="family">Auge</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">3979055</identifier></name>
+<name type="personal">
+  <namePart type="given">Alexander</namePart>
+  <namePart type="family">Weddemann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">182293</identifier></name>
+<name type="personal">
+  <namePart type="given">Britta</namePart>
+  <namePart type="family">Vogel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">171584</identifier></name>
+<name type="personal">
+  <namePart type="given">Frank</namePart>
+  <namePart type="family">Wittbracht</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">4879435</identifier></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Hütten</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40194</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Biophysik und Nanowissenschaften</namePart>
+  <identifier type="unibi">2161137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Dünne Schichten &amp; Physik der Nanostrukturen</namePart>
+  <identifier type="unibi">28536538</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  A. Hütten</namePart>
+  <identifier type="unibi">33079566</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The oxidation behavior of metallic nanoparticles is investigated in respect to ligand influences. The nanoparticle oxidation is modeled in a shell-core approach. The shell represents oxidation of surface atoms modeled by Johnson-Mehl-Avrami-Kolmogorov equations for isothermal growth. The oxidation of the nanoparticle core is described by a model introduced by Cabrera and Mott [Rep. Prog. Phys. 12, 163 (1949)]. In order to investigate the ligand influence one single parameter is introduced for both surface and bulk oxidation. The growth of the oxide layer is simulated in a level set framework via finite element methods. The theoretical results are compared to experimental findings of Kanninen [J. Coll. Interf. Sci. 318, 88 (2008)].</abstract>
+
+<originInfo><publisher>AIP Publishing</publisher><dateIssued encoding="w3cdtf">2010</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>crystal field interactions</topic><topic>isothermal</topic><topic>transformations</topic><topic>oxidation</topic><topic>nanoparticles</topic><topic>finite element analysis</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>APPLIED PHYSICS LETTERS</title></titleInfo>
+  <identifier type="issn">0003-6951</identifier>
+  <identifier type="ISI">000275246200065</identifier><identifier type="doi">10.1063/1.3353957</identifier>
+<part><detail type="volume"><number>96</number></detail><detail type="issue"><number>9</number></detail><extent unit="pages">093111</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Auge, A., Weddemann, A., Vogel, B., Wittbracht, F., and Hütten, A. (2010). A level set based approach for modeling oxidation processes of ligand stabilized metallic nanoparticles. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt; 96.</frontiers>
+<apa>Auge, A., Weddemann, A., Vogel, B., Wittbracht, F., &amp;amp; Hütten, A. (2010). A level set based approach for modeling oxidation processes of ligand stabilized metallic nanoparticles. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, &lt;em&gt;96&lt;/em&gt;(9).</apa>
+<angewandte-chemie>A.  Auge, A.  Weddemann, B.  Vogel, F.  Wittbracht, and A.  Hütten, “A level set based approach for modeling oxidation processes of ligand stabilized metallic nanoparticles”, &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, &lt;strong&gt;2010&lt;/strong&gt;, &lt;em&gt;96&lt;/em&gt;.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Auge, Alexander, Weddemann, Alexander, Vogel, Britta, Wittbracht, Frank, and Hütten, Andreas. 2010. “A level set based approach for modeling oxidation processes of ligand stabilized metallic nanoparticles”. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt; 96 (9).&lt;/div&gt;</chicago>
+<lncs>Auge, A., Weddemann, A., Vogel, B., Wittbracht, F., Hütten, A.: A level set based approach for modeling oxidation processes of ligand stabilized metallic nanoparticles. APPLIED PHYSICS LETTERS. 96, (2010).</lncs>
+<mla>Auge, Alexander, Weddemann, Alexander, Vogel, Britta, Wittbracht, Frank, and Hütten, Andreas. “A level set based approach for modeling oxidation processes of ligand stabilized metallic nanoparticles”. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt; 96.9 (2010).</mla>
+<ieee>A. Auge, et al., “A level set based approach for modeling oxidation processes of ligand stabilized metallic nanoparticles”, &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;,  vol. 96, 2010.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Auge, A., Weddemann, A., Vogel, B., Wittbracht, F., &amp;amp; Hütten, A. (2010). A level set based approach for modeling oxidation processes of ligand stabilized metallic nanoparticles. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, &lt;em&gt;96&lt;/em&gt;(9).&lt;/div&gt;</apa_indent>
+<default>Auge A, Weddemann A, Vogel B, Wittbracht F, Hütten A (2010) &lt;br /&gt;APPLIED PHYSICS LETTERS 96(9).</default>
+<wels>Auge, A.; Weddemann, A.; Vogel, B.; Wittbracht, F.; Hütten, A. (2010): A level set based approach for modeling oxidation processes of ligand stabilized metallic nanoparticles &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;,96:(9)</wels>
+<bio1>Auge A, Weddemann A, Vogel B, Wittbracht F, Hütten A (2010) &lt;br /&gt;A level set based approach for modeling oxidation processes of ligand stabilized metallic nanoparticles.&lt;br /&gt;APPLIED PHYSICS LETTERS 96(9).</bio1>
+<aps>A.  Auge, et al., A level set based approach for modeling oxidation processes of ligand stabilized metallic nanoparticles, APPLIED PHYSICS LETTERS &lt;strong&gt;96&lt;/strong&gt;, (2010).</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Auge, A., Weddemann, A., Vogel, B., Wittbracht, F. &amp;amp; Hütten, A. (2010). A level set based approach for modeling oxidation processes of ligand stabilized metallic nanoparticles. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, &lt;em&gt;96&lt;/em&gt;(9). AIP Publishing. doi:10.1063/1.3353957.&lt;/div&gt;</dgps>
+<ama>Auge A, Weddemann A, Vogel B, Wittbracht F, Hütten A. A level set based approach for modeling oxidation processes of ligand stabilized metallic nanoparticles. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;. 2010;96(9).</ama>
+<harvard1>Auge, A., et al., 2010. A level set based approach for modeling oxidation processes of ligand stabilized metallic nanoparticles. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, 96(9).</harvard1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1796664</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-10-14T09:04:24Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-16T12:34:32Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1796664</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1796664</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

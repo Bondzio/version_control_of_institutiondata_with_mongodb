@@ -1,0 +1,153 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>A comprehensive proteome map of the lipid-requiring nosocomial pathogen Corynebacterium jeikeium K411</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Nicole</namePart>
+  <namePart type="family">Hansmeier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Tzu-Chiao</namePart>
+  <namePart type="family">Chao</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Svenja</namePart>
+  <namePart type="family">Daschkey</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Mathias</namePart>
+  <namePart type="family">Muesken</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jörn</namePart>
+  <namePart type="family">Kalinowski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">147567</identifier></name>
+<name type="personal">
+  <namePart type="given">Alfred</namePart>
+  <namePart type="family">Pühler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21937</identifier></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Tauch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">22082</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070724</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070741</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070639</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Corynebacterium jeikeium is a lipid-requiring pathogen that is considered as part of the normal microflora of the human skin and associated with severe nosocomial infections. Systematic reference maps of the cytoplasmic, cell surface-associated, and extracellular proteome fractions of the clinical isolate C. jeikeium K411 were examined by 2-DE coupled with MALDI-TOF MS. A sum total of 555 protein spots were identified by PMF, corresponding to 358 different proteins that were classified into functional categories and integrated into metabolic pathways. The majority of the proteins were linked to housekeeping functions in energy production and translation and to physiological processes in amino acid, carbohydrate, nucleotide, and lipid metabolism. A complete enzymatic machinery necessary to utilize exogenous fatty acids by beta-oxidation was detected in the cytoplasmic proteome fraction. In addition, several predicted virulence factors of C. jeikeium K411 were identified in the cell surface-associated and extracellular subproteome, including the cell surface proteins SurA and SurB, the surface-anchored pilus subunits SapA and SapB, the surface-anchored collagen adhesin CbpA, the cholesterol esterase Che, and the acid phosphatase AcpA.</abstract>
+
+<originInfo><publisher>WILEY-V C H VERLAG GMBH</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>extracellular proteins</topic><topic>proteome map</topic><topic>beta-oxidation</topic><topic>Corynebacterium jeikeium</topic><topic>virulence factors</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>PROTEOMICS</title></titleInfo>
+  <identifier type="issn">1615-9853</identifier>
+  <identifier type="eIssn">1615-9861</identifier>
+  <identifier type="MEDLINE">17352426</identifier>
+  <identifier type="ISI">000245739100007</identifier><identifier type="doi">10.1002/pmic.200600833</identifier>
+<part><detail type="volume"><number>7</number></detail><detail type="issue"><number>7</number></detail><extent unit="pages">1076-1096</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Hansmeier, N.; Chao, T. - C.; Daschkey, S.; Muesken, M.; Kalinowski, J.; Pühler, A.; Tauch, A. (2007): A comprehensive proteome map of the lipid-requiring nosocomial pathogen Corynebacterium jeikeium K411 &lt;em&gt;PROTEOMICS&lt;/em&gt;,7:(7): 1076-1096.</wels>
+<default>Hansmeier N, Chao T-C, Daschkey S, Muesken M, Kalinowski J, Pühler A, Tauch A (2007) &lt;br /&gt;PROTEOMICS 7(7): 1076-1096.</default>
+<harvard1>Hansmeier, N., et al., 2007. A comprehensive proteome map of the lipid-requiring nosocomial pathogen Corynebacterium jeikeium K411. &lt;em&gt;PROTEOMICS&lt;/em&gt;, 7(7), p 1076-1096.</harvard1>
+<ama>Hansmeier N, Chao T-C, Daschkey S, et al. A comprehensive proteome map of the lipid-requiring nosocomial pathogen Corynebacterium jeikeium K411. &lt;em&gt;PROTEOMICS&lt;/em&gt;. 2007;7(7):1076-1096.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hansmeier, N., Chao, T.-C., Daschkey, S., Muesken, M., Kalinowski, J., Pühler, A. &amp;amp; Tauch, A. (2007). A comprehensive proteome map of the lipid-requiring nosocomial pathogen Corynebacterium jeikeium K411. &lt;em&gt;PROTEOMICS&lt;/em&gt;, &lt;em&gt;7&lt;/em&gt;(7), 1076-1096. WILEY-V C H VERLAG GMBH. doi:10.1002/pmic.200600833.&lt;/div&gt;</dgps>
+<bio1>Hansmeier N, Chao T-C, Daschkey S, Muesken M, Kalinowski J, Pühler A, Tauch A (2007) &lt;br /&gt;A comprehensive proteome map of the lipid-requiring nosocomial pathogen Corynebacterium jeikeium K411.&lt;br /&gt;PROTEOMICS 7(7): 1076-1096.</bio1>
+<aps> N.  Hansmeier, et al., A comprehensive proteome map of the lipid-requiring nosocomial pathogen Corynebacterium jeikeium K411, PROTEOMICS &lt;strong&gt;7&lt;/strong&gt;, 1076-1096 (2007).</aps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hansmeier, Nicole, Chao, Tzu-Chiao, Daschkey, Svenja, Muesken, Mathias, Kalinowski, Jörn, Pühler, Alfred, and Tauch, Andreas. 2007. “A comprehensive proteome map of the lipid-requiring nosocomial pathogen Corynebacterium jeikeium K411”. &lt;em&gt;PROTEOMICS&lt;/em&gt; 7 (7): 1076-1096.&lt;/div&gt;</chicago>
+<apa>Hansmeier, N., Chao, T. - C., Daschkey, S., Muesken, M., Kalinowski, J., Pühler, A., &amp;amp; Tauch, A. (2007). A comprehensive proteome map of the lipid-requiring nosocomial pathogen Corynebacterium jeikeium K411. &lt;em&gt;PROTEOMICS&lt;/em&gt;, &lt;em&gt;7&lt;/em&gt;(7), 1076-1096.</apa>
+<angewandte-chemie>N.  Hansmeier, T. - C.  Chao, S.  Daschkey, M.  Muesken, J.  Kalinowski, A.  Pühler, and A.  Tauch, “A comprehensive proteome map of the lipid-requiring nosocomial pathogen Corynebacterium jeikeium K411”, &lt;em&gt;PROTEOMICS&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;7&lt;/em&gt;, 1076-1096.</angewandte-chemie>
+<frontiers>Hansmeier, N., Chao, T. - C., Daschkey, S., Muesken, M., Kalinowski, J., Pühler, A., and Tauch, A. (2007). A comprehensive proteome map of the lipid-requiring nosocomial pathogen Corynebacterium jeikeium K411. &lt;em&gt;PROTEOMICS&lt;/em&gt; 7, 1076-1096.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hansmeier, N., Chao, T. - C., Daschkey, S., Muesken, M., Kalinowski, J., Pühler, A., &amp;amp; Tauch, A. (2007). A comprehensive proteome map of the lipid-requiring nosocomial pathogen Corynebacterium jeikeium K411. &lt;em&gt;PROTEOMICS&lt;/em&gt;, &lt;em&gt;7&lt;/em&gt;(7), 1076-1096.&lt;/div&gt;</apa_indent>
+<ieee> N. Hansmeier, et al., “A comprehensive proteome map of the lipid-requiring nosocomial pathogen Corynebacterium jeikeium K411”, &lt;em&gt;PROTEOMICS&lt;/em&gt;,  vol. 7, 2007,  pp. 1076-1096.</ieee>
+<lncs> Hansmeier, N., Chao, T.-C., Daschkey, S., Muesken, M., Kalinowski, J., Pühler, A., Tauch, A.: A comprehensive proteome map of the lipid-requiring nosocomial pathogen Corynebacterium jeikeium K411. PROTEOMICS. 7, 1076-1096 (2007).</lncs>
+<mla>Hansmeier, Nicole, Chao, Tzu-Chiao, Daschkey, Svenja, Muesken, Mathias, Kalinowski, Jörn, Pühler, Alfred, and Tauch, Andreas. “A comprehensive proteome map of the lipid-requiring nosocomial pathogen Corynebacterium jeikeium K411”. &lt;em&gt;PROTEOMICS&lt;/em&gt; 7.7 (2007): 1076-1096.</mla>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1594426</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:18Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-19T08:20:34Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1594426</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1594426</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

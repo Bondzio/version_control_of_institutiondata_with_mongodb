@@ -1,0 +1,116 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Rare Event Simulation for T-cell Activation</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Florian</namePart>
+  <namePart type="family">Lipsmeier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ellen</namePart>
+  <namePart type="family">Baake</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">161046</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Biomathematik und Theoretische Bioinformatik</namePart>
+  <identifier type="unibi">201230</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Forschungsschwerpunkt Mathematisierung</namePart>
+  <identifier type="unibi">10060</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The problem of statistical recognition is considered, as it arises in immunobiology, namely, the discrimination of foreign antigens against a background of the body&apos;s own molecules. The precise mechanism of this foreign-self-distinction, though one of the major tasks of the immune system, continues to be a fundamental puzzle. Recent progress has been made by van den Berg, Rand, and Burroughs (J. Theor. Biol. 209:465-486, 2001), who modelled the probabilistic nature of the interaction between the relevant cell types, namely, T-cells and antigen-presenting cells (APCs). Here, the stochasticity is due to the random sample of antigens present on the surface of every APC, and to the random receptor type that characterises individual T-cells. It has been shown previously (van den Berg et al. in J. Theor. Biol. 209:465-486, 2001; Zint et al. in J. Math. Biol. 57:841-861, 2008) that this model, though highly idealised, is capable of reproducing important aspects of the recognition phenomenon, and of explaining them on the basis of stochastic rare events. These results were obtained with the help of a refined large deviation theorem and were thus asymptotic in nature. Simulations have, so far, been restricted to the straightforward simple sampling approach, which does not allow for sample sizes large enough to address more detailed questions. Building on the available large deviation results, we develop an importance sampling technique that allows for a convenient exploration of the relevant tail events by means of simulation. With its help, we investigate the mechanism of statistical recognition in some depth. In particular, we illustrate how a foreign antigen can stand out against the self background if it is present in sufficiently many copies, although no a priori difference between self and nonself is built into the model.</abstract>
+
+<originInfo><publisher>Springer Science + Business Media</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Immunobiology</topic><topic>Large deviations</topic><topic>simulation</topic><topic>Rare event</topic><topic>Statistical recognition</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF STATISTICAL PHYSICS</title></titleInfo>
+  <identifier type="issn">0022-4715</identifier>
+  <identifier type="eIssn">1572-9613</identifier>
+  <identifier type="ISI">000263684200005</identifier><identifier type="doi">10.1007/s10955-008-9672-2</identifier>
+<part><detail type="volume"><number>134</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">537-566</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Lipsmeier F, Baake E. Rare Event Simulation for T-cell Activation. &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt;. 2009;134(3):537-566.</ama>
+<harvard1>Lipsmeier, F., &amp;amp; Baake, E., 2009. Rare Event Simulation for T-cell Activation. &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt;, 134(3), p 537-566.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lipsmeier, F. &amp;amp; Baake, E. (2009). Rare Event Simulation for T-cell Activation. &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt;, &lt;em&gt;134&lt;/em&gt;(3), 537-566. Springer Science + Business Media. doi:10.1007/s10955-008-9672-2.&lt;/div&gt;</dgps>
+<bio1>Lipsmeier F, Baake E (2009) &lt;br /&gt;Rare Event Simulation for T-cell Activation.&lt;br /&gt;JOURNAL OF STATISTICAL PHYSICS 134(3): 537-566.</bio1>
+<aps>F.  Lipsmeier and E.  Baake, Rare Event Simulation for T-cell Activation, JOURNAL OF STATISTICAL PHYSICS &lt;strong&gt;134&lt;/strong&gt;, 537-566 (2009).</aps>
+<wels>Lipsmeier, F.; Baake, E. (2009): Rare Event Simulation for T-cell Activation &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt;,134:(3): 537-566.</wels>
+<default>Lipsmeier F, Baake E (2009) &lt;br /&gt;JOURNAL OF STATISTICAL PHYSICS 134(3): 537-566.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lipsmeier, F., &amp;amp; Baake, E. (2009). Rare Event Simulation for T-cell Activation. &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt;, &lt;em&gt;134&lt;/em&gt;(3), 537-566.&lt;/div&gt;</apa_indent>
+<ieee>F. Lipsmeier and E. Baake, “Rare Event Simulation for T-cell Activation”, &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt;,  vol. 134, 2009,  pp. 537-566.</ieee>
+<mla>Lipsmeier, Florian, and Baake, Ellen. “Rare Event Simulation for T-cell Activation”. &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt; 134.3 (2009): 537-566.</mla>
+<lncs>Lipsmeier, F., Baake, E.: Rare Event Simulation for T-cell Activation. JOURNAL OF STATISTICAL PHYSICS. 134, 537-566 (2009).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lipsmeier, Florian, and Baake, Ellen. 2009. “Rare Event Simulation for T-cell Activation”. &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt; 134 (3): 537-566.&lt;/div&gt;</chicago>
+<apa>Lipsmeier, F., &amp;amp; Baake, E. (2009). Rare Event Simulation for T-cell Activation. &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt;, &lt;em&gt;134&lt;/em&gt;(3), 537-566.</apa>
+<angewandte-chemie>F.  Lipsmeier, and E.  Baake, “Rare Event Simulation for T-cell Activation”, &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;134&lt;/em&gt;, 537-566.</angewandte-chemie>
+<frontiers>Lipsmeier, F., and Baake, E. (2009). Rare Event Simulation for T-cell Activation. &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt; 134, 537-566.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1635450</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:39Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-11-22T10:41:00Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1635450</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1635450</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

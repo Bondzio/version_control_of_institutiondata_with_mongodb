@@ -1,0 +1,124 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>How can multimodal cues from child-directed interaction reduce learning complexity in robots?</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Katharina</namePart>
+  <namePart type="family">Rohlfing</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">147957</identifier></name>
+<name type="personal">
+  <namePart type="given">Jannik</namePart>
+  <namePart type="family">Fritsch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">101755</identifier></name>
+<name type="personal">
+  <namePart type="given">Britta</namePart>
+  <namePart type="family">Wrede</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10380</identifier></name>
+<name type="personal">
+  <namePart type="given">Tanja</namePart>
+  <namePart type="family">Jungmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Angewandte Informatik</namePart>
+  <identifier type="unibi">18304588</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Fakultät für Linguistik und Literaturwissenschaft</namePart>
+  <identifier type="unibi">10019</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Institute for Cognition and Robotics</namePart>
+  <identifier type="unibi">5408013</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Robots have to deal with an enormous amount of sensory stimuli. One solution in making sense of them is to enable a robot system to actively search for cues that help structuring the information. Studies with infants reveal that parents support the learning-process by modifying their interaction style, dependent on their child&apos;s developmental age. In our study, in which parents demonstrated everyday actions to their preverbal children (8-11 months old), our aim was to identify objective parameters for multimodal action modification. Our results reveal two action parameters being modified in adult-child interaction: roundness and pace. Furthermore, we found that language has the power to help children structuring actions sequences by synchrony and emphasis. These insights are discussed with respect to the built-in attention architecture of a socially interactive robot, which enables it to understand demonstrated actions. Our algorithmic approach towards automatically detecting the task structure in child-designed input demonstrates the potential impact of insights from developmental learning on robotics. The presented findings pave the way to automatically detect when to imitate in a demonstration</abstract>
+
+<originInfo><publisher>VSP BV</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>multi-modal motherese</topic><topic>child-directed input</topic><topic>motionese</topic><topic>learning mechanisms</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Advanced Robotics</title></titleInfo>
+  <identifier type="issn">0169-1864</identifier>
+  <identifier type="eIssn">1568-5535</identifier>
+  <identifier type="ISI">000241925000007</identifier><identifier type="doi">10.1163/156855306778522532</identifier>
+<part><detail type="volume"><number>20</number></detail><detail type="issue"><number>10</number></detail><extent unit="pages">1183-1199</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Rohlfing, K.; Fritsch, J.; Wrede, B.; Jungmann, T. (2006): How can multimodal cues from child-directed interaction reduce learning complexity in robots? &lt;em&gt;Advanced Robotics&lt;/em&gt;,20:(10): 1183-1199.</wels>
+<default>Rohlfing K, Fritsch J, Wrede B, Jungmann T (2006) &lt;br /&gt;Advanced Robotics 20(10): 1183-1199.</default>
+<ama>Rohlfing K, Fritsch J, Wrede B, Jungmann T. How can multimodal cues from child-directed interaction reduce learning complexity in robots? &lt;em&gt;Advanced Robotics&lt;/em&gt;. 2006;20(10):1183-1199.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Rohlfing, K., Fritsch, J., Wrede, B. &amp;amp; Jungmann, T. (2006). How can multimodal cues from child-directed interaction reduce learning complexity in robots? &lt;em&gt;Advanced Robotics&lt;/em&gt;, &lt;em&gt;20&lt;/em&gt;(10), 1183-1199. VSP BV. doi:10.1163/156855306778522532.&lt;/div&gt;</dgps>
+<harvard1>Rohlfing, K., et al., 2006. How can multimodal cues from child-directed interaction reduce learning complexity in robots? &lt;em&gt;Advanced Robotics&lt;/em&gt;, 20(10), p 1183-1199.</harvard1>
+<bio1>Rohlfing K, Fritsch J, Wrede B, Jungmann T (2006) &lt;br /&gt;How can multimodal cues from child-directed interaction reduce learning complexity in robots?&lt;br /&gt;Advanced Robotics 20(10): 1183-1199.</bio1>
+<aps>K.  Rohlfing, et al., How can multimodal cues from child-directed interaction reduce learning complexity in robots?, Advanced Robotics &lt;strong&gt;20&lt;/strong&gt;, 1183-1199 (2006).</aps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Rohlfing, Katharina, Fritsch, Jannik, Wrede, Britta, and Jungmann, Tanja. 2006. “How can multimodal cues from child-directed interaction reduce learning complexity in robots?”. &lt;em&gt;Advanced Robotics&lt;/em&gt; 20 (10): 1183-1199.&lt;/div&gt;</chicago>
+<angewandte-chemie>K.  Rohlfing, J.  Fritsch, B.  Wrede, and T.  Jungmann, “How can multimodal cues from child-directed interaction reduce learning complexity in robots?”, &lt;em&gt;Advanced Robotics&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;20&lt;/em&gt;, 1183-1199.</angewandte-chemie>
+<apa>Rohlfing, K., Fritsch, J., Wrede, B., &amp;amp; Jungmann, T. (2006). How can multimodal cues from child-directed interaction reduce learning complexity in robots? &lt;em&gt;Advanced Robotics&lt;/em&gt;, &lt;em&gt;20&lt;/em&gt;(10), 1183-1199.</apa>
+<frontiers>Rohlfing, K., Fritsch, J., Wrede, B., and Jungmann, T. (2006). How can multimodal cues from child-directed interaction reduce learning complexity in robots? &lt;em&gt;Advanced Robotics&lt;/em&gt; 20, 1183-1199.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Rohlfing, K., Fritsch, J., Wrede, B., &amp;amp; Jungmann, T. (2006). How can multimodal cues from child-directed interaction reduce learning complexity in robots? &lt;em&gt;Advanced Robotics&lt;/em&gt;, &lt;em&gt;20&lt;/em&gt;(10), 1183-1199.&lt;/div&gt;</apa_indent>
+<ieee>K. Rohlfing, et al., “How can multimodal cues from child-directed interaction reduce learning complexity in robots?”, &lt;em&gt;Advanced Robotics&lt;/em&gt;,  vol. 20, 2006,  pp. 1183-1199.</ieee>
+<mla>Rohlfing, Katharina, Fritsch, Jannik, Wrede, Britta, and Jungmann, Tanja. “How can multimodal cues from child-directed interaction reduce learning complexity in robots?”. &lt;em&gt;Advanced Robotics&lt;/em&gt; 20.10 (2006): 1183-1199.</mla>
+<lncs>Rohlfing, K., Fritsch, J., Wrede, B., Jungmann, T.: How can multimodal cues from child-directed interaction reduce learning complexity in robots? Advanced Robotics. 20, 1183-1199 (2006).</lncs>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1597146</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:18:43Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2013-06-27T08:35:55Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1597146</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1597146</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

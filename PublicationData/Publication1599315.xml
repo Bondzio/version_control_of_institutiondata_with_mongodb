@@ -1,0 +1,145 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Vortex dynamics in coupled ferromagnetic multilayer structures</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">KW</namePart>
+  <namePart type="family">Chou</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Puzic</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">H</namePart>
+  <namePart type="family">Stoll</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">G</namePart>
+  <namePart type="family">Schutz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">B</namePart>
+  <namePart type="family">Van Waeyenberge</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">T</namePart>
+  <namePart type="family">Tyliszczak</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Karsten</namePart>
+  <namePart type="family">Rott</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40196</identifier></name>
+<name type="personal">
+  <namePart type="given">Günter</namePart>
+  <namePart type="family">Reiss</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40207</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-0918-5940</description></name>
+<name type="personal">
+  <namePart type="given">H</namePart>
+  <namePart type="family">Bruckl</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">I</namePart>
+  <namePart type="family">Neudecker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">D</namePart>
+  <namePart type="family">Weiss</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">CH</namePart>
+  <namePart type="family">Back</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Dünne Schichten &amp; Physik der Nanostrukturen</namePart>
+  <identifier type="unibi">28536538</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  G. Reiss</namePart>
+  <identifier type="unibi">33079602</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Magnetization dynamics in ferromagnetic multilayer structures was studied by time-resolved transmission x-ray microscopy. A square-shaped 1x1 mu m(2) trilayer structure consisting of Co(20 nm)/Cu(10 nm)/Permalloy Ni80Fe20(20 nm) was investigated. Each ferromagnetic layer showed a Landau-like domain configuration with a single vortex. A gyrotropic vortex motion was excited by an in-plane magnetic field alternating at a frequency of 250 MHz. The movement of the magnetic vortex in each individual magnetic layer was imaged by taking advantage of the element specificity of the x-ray magnetic circular dichroism. A 180 degrees phase shift between the gyrotropic vortex motion in the Permalloy and the Co layer was observed. This phase shift can be ascribed to the magnetic coupling between the layers. (C) 2006 American Institute of Physics.</abstract>
+
+<originInfo><publisher>AMER INST PHYSICS</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF APPLIED PHYSICS</title></titleInfo>
+  <identifier type="issn">0021-8979</identifier>
+  <identifier type="ISI">000237404200309</identifier><identifier type="doi">10.1063/1.2173630</identifier>
+<part><detail type="volume"><number>99</number></detail><detail type="issue"><number>8</number></detail><extent unit="pages">08F305</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>K.W. Chou, et al., “Vortex dynamics in coupled ferromagnetic multilayer structures”, &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;,  vol. 99, 2006.</ieee>
+<lncs>Chou, K.W., Puzic, A., Stoll, H., Schutz, G., Van Waeyenberge, B., Tyliszczak, T., Rott, K., Reiss, G., Bruckl, H., Neudecker, I., Weiss, D., Back, C.H.: Vortex dynamics in coupled ferromagnetic multilayer structures. JOURNAL OF APPLIED PHYSICS. 99, (2006).</lncs>
+<mla>Chou, KW, Puzic, A, Stoll, H, Schutz, G, Van Waeyenberge, B, Tyliszczak, T, Rott, Karsten, Reiss, Günter, Bruckl, H, Neudecker, I, Weiss, D, and Back, CH. “Vortex dynamics in coupled ferromagnetic multilayer structures”. &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt; 99.8 (2006).</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Chou, K. W., Puzic, A., Stoll, H., Schutz, G., Van Waeyenberge, B., Tyliszczak, T., Rott, K., et al. (2006). Vortex dynamics in coupled ferromagnetic multilayer structures. &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;, &lt;em&gt;99&lt;/em&gt;(8).&lt;/div&gt;</apa_indent>
+<apa>Chou, K. W., Puzic, A., Stoll, H., Schutz, G., Van Waeyenberge, B., Tyliszczak, T., Rott, K., et al. (2006). Vortex dynamics in coupled ferromagnetic multilayer structures. &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;, &lt;em&gt;99&lt;/em&gt;(8).</apa>
+<angewandte-chemie>K. W.  Chou, A.  Puzic, H.  Stoll, G.  Schutz, B.  Van Waeyenberge, T.  Tyliszczak, K.  Rott, G.  Reiss, H.  Bruckl, I.  Neudecker, et al., “Vortex dynamics in coupled ferromagnetic multilayer structures”, &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;99&lt;/em&gt;.</angewandte-chemie>
+<frontiers>Chou, K. W., Puzic, A., Stoll, H., Schutz, G., Van Waeyenberge, B., Tyliszczak, T., Rott, K., Reiss, G., Bruckl, H., Neudecker, I., et al. (2006). Vortex dynamics in coupled ferromagnetic multilayer structures. &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt; 99.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Chou, KW, Puzic, A, Stoll, H, Schutz, G, Van Waeyenberge, B, Tyliszczak, T, Rott, Karsten, et al. 2006. “Vortex dynamics in coupled ferromagnetic multilayer structures”. &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt; 99 (8).&lt;/div&gt;</chicago>
+<harvard1>Chou, K.W., et al., 2006. Vortex dynamics in coupled ferromagnetic multilayer structures. &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;, 99(8).</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Chou, K.W., Puzic, A., Stoll, H., Schutz, G., Van Waeyenberge, B., Tyliszczak, T., Rott, K., Reiss, G., Bruckl, H., Neudecker, I., Weiss, D. &amp;amp; Back, C.H. (2006). Vortex dynamics in coupled ferromagnetic multilayer structures. &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;, &lt;em&gt;99&lt;/em&gt;(8). AMER INST PHYSICS. doi:10.1063/1.2173630.&lt;/div&gt;</dgps>
+<ama>Chou KW, Puzic A, Stoll H, et al. Vortex dynamics in coupled ferromagnetic multilayer structures. &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;. 2006;99(8).</ama>
+<bio1>Chou KW, Puzic A, Stoll H, Schutz G, Van Waeyenberge B, Tyliszczak T, Rott K, Reiss G, Bruckl H, Neudecker I, Weiss D, Back CH (2006) &lt;br /&gt;Vortex dynamics in coupled ferromagnetic multilayer structures.&lt;br /&gt;JOURNAL OF APPLIED PHYSICS 99(8).</bio1>
+<aps>K. W.  Chou, et al., Vortex dynamics in coupled ferromagnetic multilayer structures, JOURNAL OF APPLIED PHYSICS &lt;strong&gt;99&lt;/strong&gt;, (2006).</aps>
+<wels>Chou, K. W.; Puzic, A.; Stoll, H.; Schutz, G.; Van Waeyenberge, B.; Tyliszczak, T.; Rott, K.; Reiss, G.; Bruckl, H.; Neudecker, I.; Weiss, D.; Back, C. H. (2006): Vortex dynamics in coupled ferromagnetic multilayer structures &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;,99:(8)</wels>
+<default>Chou KW, Puzic A, Stoll H, Schutz G, Van Waeyenberge B, Tyliszczak T, Rott K, Reiss G, Bruckl H, Neudecker I, Weiss D, et al. (2006) &lt;br /&gt;JOURNAL OF APPLIED PHYSICS 99(8).</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1599315</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:19:53Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-16T09:52:01Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1599315</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1599315</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

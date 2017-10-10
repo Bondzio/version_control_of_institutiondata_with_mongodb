@@ -1,0 +1,108 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Contribution to the Reactivity of N,N&apos;-Diaryl-1,4-diazabutadienes Aryl–N=CH–CH=N–Aryl (Aryl = 2,6-Dimethylphenyl; 2,4,6-Trimethylphenyl) Towards Boron Trichloride</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Lothar</namePart>
+  <namePart type="family">Weber</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20136</identifier></name>
+<name type="personal">
+  <namePart type="given">Jan</namePart>
+  <namePart type="family">Förster</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">4761392</identifier></name>
+<name type="personal">
+  <namePart type="given">Hans-Georg</namePart>
+  <namePart type="family">Stammler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20167</identifier></name>
+<name type="personal">
+  <namePart type="given">Beate</namePart>
+  <namePart type="family">Neumann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20154</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">17965</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The reaction of Aryl-N=CH-CH=N-Aryl (3a: Aryl = 2,6-Me2C6H3; 3b: Aryl=2,4,6-Me3C6H2) with 2 equiv. BCl3 in a toluene/hexane mixture at -50 degrees C led to an inseparable mixture of borolium salts [Aryl-N-a=CH-CH=N(Aryl)BCl2(N-a-B)]+BCl4- (4a: Aryl = 2,6-Me2C6H3; 9a: Aryl = 2,4,6-Me3C6H2) and (Aryl-N-a=CH-C(Cl)=N(Aryl)BCl2(N-a-B)+BCl4- (4b: Aryl = 2,6-Me2C6H3; 9b: Aryl = 2,4,6-Me3C6H2) and the bicyclic species [HCa=N(Aryl)BCl2N(Aryl)-C-b=(C-a-C-b)](2) (5: Aryl = 2,6-Me2C6H3; 10: Aryl = 2,4,6-Me3C6H2). Sodium amalgam reduction of borolium. salts 4a,b and 9a,b afforded inseparable mixtures of the diazaboroles 2,6-(Me2C6H3NCH)-C-a=CR-N-b(2,6-Me2C6H3)BCl(N-a-B) (1: R = H; 6: R = Cl) and 2,4,6-(Me3C6H2NCH)-C-a=CR-N-b (2,4,6-Me3C6H2)BCl(N-a-B) (2: R = H; 11: R = Cl). In order to obtain pure 1 and 2, diazabutadienes 3a and 3b were slowly combined with 2 equiv. BCl3 in the same solvents at -78 degrees C. The acyclic adducts Cl3BN(Aryl)= CH-CH=N(Aryl)BCl3 (7a: Aryl=2,6-Me2C6H3; 7b: Aryl = 2,4,6-Me3C6H2) were reduced with sodium amalgam to furnish the aminoboranes Cl2BN(Aryl)CH=CH-N(Aryl)BCl2 (8: Aryl = 2,6-Me2C6H3; 12: Aryl = 2,4,6-Me3C6H2). Stirring solutions of 8 and 12 in the presence of CaH2 cleanly gave the diazaboroles I and 2, respectively. The novel compounds were characterized by elemental analyses and H-1-, B-11-, C-13 NMR and mass spectra. The molecular structures of 1, 4a, 5 and 8 were elucidated by single X-ray diffraction analyses. ((c) Wiley-VCH Verlag GmbH &amp; Co. KGaA, 69451 Weinheim, Germany, 2006)</abstract>
+
+<originInfo><publisher>Wiley</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>diazaboroles</topic><topic>diazabutadienes</topic><topic>structures</topic><topic>boron</topic><topic>aminoboranes</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>European Journal of Inorganic Chemistry</title></titleInfo>
+  <identifier type="issn">1434-1948</identifier>
+  <identifier type="eIssn">1099-0682</identifier>
+  <identifier type="ISI">000243077800010</identifier><identifier type="doi">10.1002/ejic.200600728</identifier>
+<part><detail type="volume"><number>2006</number></detail><detail type="issue"><number>24</number></detail><extent unit="pages">5048-5056</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Weber L, Förster J, Stammler H-G, Neumann B (2006) &lt;br /&gt;European Journal of Inorganic Chemistry 2006(24): 5048-5056.</default>
+<wels>Weber, L.; Förster, J.; Stammler, H. - G.; Neumann, B. (2006): Contribution to the Reactivity of N,N&apos;-Diaryl-1,4-diazabutadienes Aryl–N=CH–CH=N–Aryl (Aryl = 2,6-Dimethylphenyl; 2,4,6-Trimethylphenyl) Towards Boron Trichloride &lt;em&gt;European Journal of Inorganic Chemistry&lt;/em&gt;,2006:(24): 5048-5056.</wels>
+<bio1>Weber L, Förster J, Stammler H-G, Neumann B (2006) &lt;br /&gt;Contribution to the Reactivity of N,N&apos;-Diaryl-1,4-diazabutadienes Aryl–N=CH–CH=N–Aryl (Aryl = 2,6-Dimethylphenyl; 2,4,6-Trimethylphenyl) Towards Boron Trichloride.&lt;br /&gt;European Journal of Inorganic Chemistry 2006(24): 5048-5056.</bio1>
+<aps> L.  Weber, et al., Contribution to the Reactivity of N,N&apos;-Diaryl-1,4-diazabutadienes Aryl–N=CH–CH=N–Aryl (Aryl = 2,6-Dimethylphenyl; 2,4,6-Trimethylphenyl) Towards Boron Trichloride, European Journal of Inorganic Chemistry &lt;strong&gt;2006&lt;/strong&gt;, 5048-5056 (2006).</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Weber, L., Förster, J., Stammler, H.-G. &amp;amp; Neumann, B. (2006). Contribution to the Reactivity of N,N&apos;-Diaryl-1,4-diazabutadienes Aryl–N=CH–CH=N–Aryl (Aryl = 2,6-Dimethylphenyl; 2,4,6-Trimethylphenyl) Towards Boron Trichloride. &lt;em&gt;European Journal of Inorganic Chemistry&lt;/em&gt;, &lt;em&gt;2006&lt;/em&gt;(24), 5048-5056. Wiley. doi:10.1002/ejic.200600728.&lt;/div&gt;</dgps>
+<harvard1>Weber, L., et al., 2006. Contribution to the Reactivity of N,N&apos;-Diaryl-1,4-diazabutadienes Aryl–N=CH–CH=N–Aryl (Aryl = 2,6-Dimethylphenyl; 2,4,6-Trimethylphenyl) Towards Boron Trichloride. &lt;em&gt;European Journal of Inorganic Chemistry&lt;/em&gt;, 2006(24), p 5048-5056.</harvard1>
+<ama>Weber L, Förster J, Stammler H-G, Neumann B. Contribution to the Reactivity of N,N&apos;-Diaryl-1,4-diazabutadienes Aryl–N=CH–CH=N–Aryl (Aryl = 2,6-Dimethylphenyl; 2,4,6-Trimethylphenyl) Towards Boron Trichloride. &lt;em&gt;European Journal of Inorganic Chemistry&lt;/em&gt;. 2006;2006(24):5048-5056.</ama>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Weber, Lothar, Förster, Jan, Stammler, Hans-Georg, and Neumann, Beate. 2006. “Contribution to the Reactivity of N,N&apos;-Diaryl-1,4-diazabutadienes Aryl–N=CH–CH=N–Aryl (Aryl = 2,6-Dimethylphenyl; 2,4,6-Trimethylphenyl) Towards Boron Trichloride”. &lt;em&gt;European Journal of Inorganic Chemistry&lt;/em&gt; 2006 (24): 5048-5056.&lt;/div&gt;</chicago>
+<frontiers>Weber, L., Förster, J., Stammler, H. - G., and Neumann, B. (2006). Contribution to the Reactivity of N,N&apos;-Diaryl-1,4-diazabutadienes Aryl–N=CH–CH=N–Aryl (Aryl = 2,6-Dimethylphenyl; 2,4,6-Trimethylphenyl) Towards Boron Trichloride. &lt;em&gt;European Journal of Inorganic Chemistry&lt;/em&gt; 2006, 5048-5056.</frontiers>
+<angewandte-chemie>L.  Weber, J.  Förster, H. - G.  Stammler, and B.  Neumann, “Contribution to the Reactivity of N,N&apos;-Diaryl-1,4-diazabutadienes Aryl–N=CH–CH=N–Aryl (Aryl = 2,6-Dimethylphenyl; 2,4,6-Trimethylphenyl) Towards Boron Trichloride”, &lt;em&gt;European Journal of Inorganic Chemistry&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;2006&lt;/em&gt;, 5048-5056.</angewandte-chemie>
+<apa>Weber, L., Förster, J., Stammler, H. - G., &amp;amp; Neumann, B. (2006). Contribution to the Reactivity of N,N&apos;-Diaryl-1,4-diazabutadienes Aryl–N=CH–CH=N–Aryl (Aryl = 2,6-Dimethylphenyl; 2,4,6-Trimethylphenyl) Towards Boron Trichloride. &lt;em&gt;European Journal of Inorganic Chemistry&lt;/em&gt;, &lt;em&gt;2006&lt;/em&gt;(24), 5048-5056.</apa>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Weber, L., Förster, J., Stammler, H. - G., &amp;amp; Neumann, B. (2006). Contribution to the Reactivity of N,N&apos;-Diaryl-1,4-diazabutadienes Aryl–N=CH–CH=N–Aryl (Aryl = 2,6-Dimethylphenyl; 2,4,6-Trimethylphenyl) Towards Boron Trichloride. &lt;em&gt;European Journal of Inorganic Chemistry&lt;/em&gt;, &lt;em&gt;2006&lt;/em&gt;(24), 5048-5056.&lt;/div&gt;</apa_indent>
+<mla>Weber, Lothar, Förster, Jan, Stammler, Hans-Georg, and Neumann, Beate. “Contribution to the Reactivity of N,N&apos;-Diaryl-1,4-diazabutadienes Aryl–N=CH–CH=N–Aryl (Aryl = 2,6-Dimethylphenyl; 2,4,6-Trimethylphenyl) Towards Boron Trichloride”. &lt;em&gt;European Journal of Inorganic Chemistry&lt;/em&gt; 2006.24 (2006): 5048-5056.</mla>
+<lncs> Weber, L., Förster, J., Stammler, H.-G., Neumann, B.: Contribution to the Reactivity of N,N&apos;-Diaryl-1,4-diazabutadienes Aryl–N=CH–CH=N–Aryl (Aryl = 2,6-Dimethylphenyl; 2,4,6-Trimethylphenyl) Towards Boron Trichloride. European Journal of Inorganic Chemistry. 2006, 5048-5056 (2006).</lncs>
+<ieee> L. Weber, et al., “Contribution to the Reactivity of N,N&apos;-Diaryl-1,4-diazabutadienes Aryl–N=CH–CH=N–Aryl (Aryl = 2,6-Dimethylphenyl; 2,4,6-Trimethylphenyl) Towards Boron Trichloride”, &lt;em&gt;European Journal of Inorganic Chemistry&lt;/em&gt;,  vol. 2006, 2006,  pp. 5048-5056.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1596373</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:17:06Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-12T10:15:10Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1596373</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1596373</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

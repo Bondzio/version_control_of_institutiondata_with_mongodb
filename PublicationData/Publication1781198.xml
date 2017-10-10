@@ -1,0 +1,104 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>An overview of Mike Moravcsik&apos;s publication activity in physics</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Radosvet</namePart>
+  <namePart type="family">Todorov</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Matthias</namePart>
+  <namePart type="family">Winterhager</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">76938</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0003-0331-2539</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Bibliometriegruppe</namePart>
+  <identifier type="unibi">16315353</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">A bibliometric online technique is applied on data from the INSPEC bibliographic file to describe some aspects of Moravcsik&apos;s publication activity (co-authorship, source journals, etc.). Separately, a co-occurrence method is used to represent the subject structure (the main topics and their links) of his papers in physics. The principle underlying this method is to develop a network based on common appearances of classification subdivisions (headings) as well as of controlled terms in Moravcsik&apos;s document records. The results, in the form of line and point graphs, give a global picture of Mike Moravcsik&apos;s research profile in physics.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Winterhager_011.pdf">https://pub.uni-bielefeld.de/download/1781198/2313218</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1991</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Scientometrics</title></titleInfo>
+  <identifier type="issn">0138-9130</identifier>
+  <identifier type="eIssn">1588-2861</identifier>
+  <identifier type="ISI">A1991EY26100016</identifier><identifier type="urn">urn:nbn:de:0070-pub-17811982</identifier><identifier type="doi">10.1007/BF02018153</identifier>
+<part><detail type="volume"><number>20</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">163-172</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<mla>Todorov, Radosvet, and Winterhager, Matthias. “An overview of Mike Moravcsik&apos;s publication activity in physics”. &lt;em&gt;Scientometrics&lt;/em&gt; 20.1 (1991): 163-172.</mla>
+<lncs>Todorov, R., Winterhager, M.: An overview of Mike Moravcsik&apos;s publication activity in physics. Scientometrics. 20, 163-172 (1991).</lncs>
+<ieee>R. Todorov and M. Winterhager, “An overview of Mike Moravcsik&apos;s publication activity in physics”, &lt;em&gt;Scientometrics&lt;/em&gt;,  vol. 20, 1991,  pp. 163-172.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Todorov, R., &amp;amp; Winterhager, M. (1991). An overview of Mike Moravcsik&apos;s publication activity in physics. &lt;em&gt;Scientometrics&lt;/em&gt;, &lt;em&gt;20&lt;/em&gt;(1), 163-172.&lt;/div&gt;</apa_indent>
+<frontiers>Todorov, R., and Winterhager, M. (1991). An overview of Mike Moravcsik&apos;s publication activity in physics. &lt;em&gt;Scientometrics&lt;/em&gt; 20, 163-172.</frontiers>
+<apa>Todorov, R., &amp;amp; Winterhager, M. (1991). An overview of Mike Moravcsik&apos;s publication activity in physics. &lt;em&gt;Scientometrics&lt;/em&gt;, &lt;em&gt;20&lt;/em&gt;(1), 163-172.</apa>
+<angewandte-chemie>R.  Todorov, and M.  Winterhager, “An overview of Mike Moravcsik&apos;s publication activity in physics”, &lt;em&gt;Scientometrics&lt;/em&gt;, &lt;strong&gt;1991&lt;/strong&gt;, &lt;em&gt;20&lt;/em&gt;, 163-172.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Todorov, Radosvet, and Winterhager, Matthias. 1991. “An overview of Mike Moravcsik&apos;s publication activity in physics”. &lt;em&gt;Scientometrics&lt;/em&gt; 20 (1): 163-172.&lt;/div&gt;</chicago>
+<aps>R.  Todorov and M.  Winterhager, An overview of Mike Moravcsik&apos;s publication activity in physics, Scientometrics &lt;strong&gt;20&lt;/strong&gt;, 163-172 (1991).</aps>
+<bio1>Todorov R, Winterhager M (1991) &lt;br /&gt;An overview of Mike Moravcsik&apos;s publication activity in physics.&lt;br /&gt;Scientometrics 20(1): 163-172.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Todorov, R. &amp;amp; Winterhager, M. (1991). An overview of Mike Moravcsik&apos;s publication activity in physics. &lt;em&gt;Scientometrics&lt;/em&gt;, &lt;em&gt;20&lt;/em&gt;(1), 163-172. doi:10.1007/BF02018153.&lt;/div&gt;</dgps>
+<ama>Todorov R, Winterhager M. An overview of Mike Moravcsik&apos;s publication activity in physics. &lt;em&gt;Scientometrics&lt;/em&gt;. 1991;20(1):163-172.</ama>
+<harvard1>Todorov, R., &amp;amp; Winterhager, M., 1991. An overview of Mike Moravcsik&apos;s publication activity in physics. &lt;em&gt;Scientometrics&lt;/em&gt;, 20(1), p 163-172.</harvard1>
+<default>Todorov R, Winterhager M (1991) &lt;br /&gt;Scientometrics 20(1): 163-172.</default>
+<wels>Todorov, R.; Winterhager, M. (1991): An overview of Mike Moravcsik&apos;s publication activity in physics &lt;em&gt;Scientometrics&lt;/em&gt;,20:(1): 163-172.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781198</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781198</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781198</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,121 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>A Unifying View of Genome Rearrangements</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Anne</namePart>
+  <namePart type="family">Bergeron</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Julia</namePart>
+  <namePart type="family">Mixtacki</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jens</namePart>
+  <namePart type="family">Stoye</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">65864</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-4656-7155</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Genominformatik</namePart>
+  <identifier type="unibi">66100</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group J. Stoye</namePart>
+  <identifier type="unibi">33067262</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+<name type="conference">
+  <namePart>WABI 2006</namePart>
+</name>
+
+
+
+
+
+
+<abstract lang="eng">Genome rearrangements have been modeled by a variety of operations such as inversions, translocations, fissions, fusions, transpositions and block interchanges. The double cut and join operation, introduced by Yancopoulos et al., allows to model all the classical operations while simplifying the algorithms. In this paper we show a simple way to apply this operation to the most general type of genomes with a mixed collection of linear and circular chromosomes. We also describe a graph structure that allows simplifying the theory and distance computation considerably, as neither capping nor concatenation of the linear chromosomes are necessary.</abstract>
+
+<originInfo><publisher>SPRINGER-VERLAG BERLIN</publisher><dateIssued encoding="w3cdtf">2006</dateIssued><place><placeTerm type="text">Zurich, Switzerland</placeTerm></place>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Proc. of WABI 2006</title></titleInfo>
+  <identifier type="issn">0302-9743</identifier>
+  <identifier type="ISI">000242125600016</identifier><identifier type="doi">10.1007/11851561_16</identifier>
+<part><detail type="volume"><number>4175</number></detail><extent unit="pages">163-173</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Bergeron A, Mixtacki J, Stoye J. A Unifying View of Genome Rearrangements. In:  &lt;em&gt;Proc. of WABI 2006&lt;/em&gt;. LNBI. Vol 4175. SPRINGER-VERLAG BERLIN;  2006: 163-173.</ama>
+<harvard1>Bergeron, A., Mixtacki, J., &amp;amp; Stoye, J., 2006. A Unifying View of Genome Rearrangements. In &lt;em&gt;Proc. of WABI 2006&lt;/em&gt;. LNBI. no.4175  SPRINGER-VERLAG BERLIN, pp. 163-173.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bergeron, A., Mixtacki, J. &amp;amp; Stoye, J. (2006). A Unifying View of Genome Rearrangements (LNBI). &lt;em&gt;Proc. of WABI 2006&lt;/em&gt; (S. 163-173). Gehalten auf der WABI 2006, SPRINGER-VERLAG BERLIN. doi:10.1007/11851561_16.&lt;/div&gt;</dgps>
+<aps>A.  Bergeron, J.  Mixtacki, and J.  Stoye, A Unifying View of Genome Rearrangements, in &lt;em&gt;Proc. of WABI 2006&lt;/em&gt;, LNBI, &lt;strong&gt;4175&lt;/strong&gt; (SPRINGER-VERLAG BERLIN, 2006), p. 163-173.</aps>
+<bio1>Bergeron A, Mixtacki J, Stoye J (2006) &lt;br /&gt;A Unifying View of Genome Rearrangements. &lt;br /&gt;In:  Proc. of WABI 2006.  LNBI, 4175. SPRINGER-VERLAG BERLIN:  163-173.</bio1>
+<wels>Bergeron, A.; Mixtacki, J.; Stoye, J. (2006): A Unifying View of Genome Rearrangements. In: Proc. of WABI 2006. SPRINGER-VERLAG BERLIN. (LNBI, 4175).  S. 163-173.</wels>
+<default>Bergeron A, Mixtacki J, Stoye J (2006)  &lt;br /&gt;In:  Proc. of WABI 2006.  LNBI, 4175. SPRINGER-VERLAG BERLIN:  163-173.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bergeron, A., Mixtacki, J., &amp;amp; Stoye, J. (2006). A Unifying View of Genome Rearrangements. &lt;em&gt;Proc. of WABI 2006&lt;/em&gt;, &lt;em&gt;4175&lt;/em&gt;, 163-173.&lt;/div&gt;</apa_indent>
+<ieee>A. Bergeron, J. Mixtacki, and J. Stoye, “A Unifying View of Genome Rearrangements”, &lt;em&gt;Proc. of WABI 2006&lt;/em&gt;, LNBI, vol. 4175, SPRINGER-VERLAG BERLIN, 2006,  pp.163-173.</ieee>
+<lncs>Bergeron, A., Mixtacki, J., Stoye, J.: A Unifying View of Genome Rearrangements. Proc. of WABI 2006. LNBI. 4175, p. 163-173. SPRINGER-VERLAG BERLIN (2006).</lncs>
+<mla>Bergeron, Anne, Mixtacki, Julia, and Stoye, Jens. “A Unifying View of Genome Rearrangements”. &lt;em&gt;Proc. of WABI 2006&lt;/em&gt;. SPRINGER-VERLAG BERLIN, 2006.Vol. 4175. LNBI. 163-173.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bergeron, Anne, Mixtacki, Julia, and Stoye, Jens. 2006. “A Unifying View of Genome Rearrangements”. In &lt;em&gt;Proc. of WABI 2006&lt;/em&gt;, 4175:163-173. LNBI. SPRINGER-VERLAG BERLIN.&lt;/div&gt;</chicago>
+<angewandte-chemie>A.  Bergeron, J.  Mixtacki, and J.  Stoye, in &lt;em&gt;Proc. of WABI 2006&lt;/em&gt;, Springer-Verlag Berlin, &lt;strong&gt;2006&lt;/strong&gt;, p. 163-173.</angewandte-chemie>
+<apa>Bergeron, A., Mixtacki, J., &amp;amp; Stoye, J. (2006). A Unifying View of Genome Rearrangements. &lt;em&gt;Proc. of WABI 2006&lt;/em&gt;, &lt;em&gt;4175&lt;/em&gt;, 163-173.</apa>
+<frontiers>Bergeron, A., Mixtacki, J., and Stoye, J. (2006). “A Unifying View of Genome Rearrangements” in &lt;em&gt;Proc. of WABI 2006&lt;/em&gt; LNBI, vol. 4175, (SPRINGER-VERLAG BERLIN), 163-173.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1596811</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:18:33Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-01-18T09:11:15Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1596811</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1596811</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

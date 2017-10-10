@@ -1,0 +1,118 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>COMPACT LATTICE QED WITH WILSON FERMIONS</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">HOFERICHTER</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">VK</namePart>
+  <namePart type="family">MITRJUSHKIN</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">MULLERPREUSSKER</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Thomas</namePart>
+  <namePart type="family">Neuhaus</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">23561533</identifier></name>
+<name type="personal">
+  <namePart type="given">H</namePart>
+  <namePart type="family">STUBEN</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Elementarteilchen und Quantenfelder</namePart>
+  <identifier type="unibi">23470443</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We study the phase structure and the chiral limit of 4d compact lattice QED with Wilson fermions (both dynamical and quenched). We use the standard Wilson gauge action and also a modified one suppressing lattice artifacts. Different techniques and observables to locate the chiral limit are discussed.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">1995</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>NUCLEAR PHYSICS B</title></titleInfo>
+  <identifier type="issn">0550-3213</identifier>
+  <identifier type="INSPIRE">375747</identifier>
+  <identifier type="ISI">A1995QC23000014</identifier><identifier type="doi">10.1016/0550-3213(94)00477-V</identifier>
+<part><detail type="volume"><number>434</number></detail><detail type="issue"><number>1-2</number></detail><extent unit="pages">358-380</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>HOFERICHTER A, MITRJUSHKIN VK, MULLERPREUSSKER M, Neuhaus T, STUBEN H (1995) &lt;br /&gt;NUCLEAR PHYSICS B 434(1-2): 358-380.</default>
+<wels>HOFERICHTER, A.; MITRJUSHKIN, V. K.; MULLERPREUSSKER, M.; Neuhaus, T.; STUBEN, H. (1995): COMPACT LATTICE QED WITH WILSON FERMIONS &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;,434:(1-2): 358-380.</wels>
+<bio1>HOFERICHTER A, MITRJUSHKIN VK, MULLERPREUSSKER M, Neuhaus T, STUBEN H (1995) &lt;br /&gt;COMPACT LATTICE QED WITH WILSON FERMIONS.&lt;br /&gt;NUCLEAR PHYSICS B 434(1-2): 358-380.</bio1>
+<aps>A.  HOFERICHTER, et al., COMPACT LATTICE QED WITH WILSON FERMIONS, NUCLEAR PHYSICS B &lt;strong&gt;434&lt;/strong&gt;, 358-380 (1995).</aps>
+<harvard1>HOFERICHTER, A., et al., 1995. COMPACT LATTICE QED WITH WILSON FERMIONS. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, 434(1-2), p 358-380.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;HOFERICHTER, A., MITRJUSHKIN, V.K., MULLERPREUSSKER, M., Neuhaus, T. &amp;amp; STUBEN, H. (1995). COMPACT LATTICE QED WITH WILSON FERMIONS. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, &lt;em&gt;434&lt;/em&gt;(1-2), 358-380. ELSEVIER SCIENCE BV. doi:10.1016/0550-3213(94)00477-V.&lt;/div&gt;</dgps>
+<ama>HOFERICHTER A, MITRJUSHKIN VK, MULLERPREUSSKER M, Neuhaus T, STUBEN H. COMPACT LATTICE QED WITH WILSON FERMIONS. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;. 1995;434(1-2):358-380.</ama>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;HOFERICHTER, A, MITRJUSHKIN, VK, MULLERPREUSSKER, M, Neuhaus, Thomas, and STUBEN, H. 1995. “COMPACT LATTICE QED WITH WILSON FERMIONS”. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt; 434 (1-2): 358-380.&lt;/div&gt;</chicago>
+<frontiers>HOFERICHTER, A., MITRJUSHKIN, V. K., MULLERPREUSSKER, M., Neuhaus, T., and STUBEN, H. (1995). COMPACT LATTICE QED WITH WILSON FERMIONS. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt; 434, 358-380.</frontiers>
+<apa>HOFERICHTER, A., MITRJUSHKIN, V. K., MULLERPREUSSKER, M., Neuhaus, T., &amp;amp; STUBEN, H. (1995). COMPACT LATTICE QED WITH WILSON FERMIONS. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, &lt;em&gt;434&lt;/em&gt;(1-2), 358-380.</apa>
+<angewandte-chemie>A.  HOFERICHTER, V. K.  MITRJUSHKIN, M.  MULLERPREUSSKER, T.  Neuhaus, and H.  STUBEN, “COMPACT LATTICE QED WITH WILSON FERMIONS”, &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, &lt;strong&gt;1995&lt;/strong&gt;, &lt;em&gt;434&lt;/em&gt;, 358-380.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;HOFERICHTER, A., MITRJUSHKIN, V. K., MULLERPREUSSKER, M., Neuhaus, T., &amp;amp; STUBEN, H. (1995). COMPACT LATTICE QED WITH WILSON FERMIONS. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, &lt;em&gt;434&lt;/em&gt;(1-2), 358-380.&lt;/div&gt;</apa_indent>
+<mla>HOFERICHTER, A, MITRJUSHKIN, VK, MULLERPREUSSKER, M, Neuhaus, Thomas, and STUBEN, H. “COMPACT LATTICE QED WITH WILSON FERMIONS”. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt; 434.1-2 (1995): 358-380.</mla>
+<lncs>HOFERICHTER, A., MITRJUSHKIN, V.K., MULLERPREUSSKER, M., Neuhaus, T., STUBEN, H.: COMPACT LATTICE QED WITH WILSON FERMIONS. NUCLEAR PHYSICS B. 434, 358-380 (1995).</lncs>
+<ieee>A. HOFERICHTER, et al., “COMPACT LATTICE QED WITH WILSON FERMIONS”, &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;,  vol. 434, 1995,  pp. 358-380.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1641753</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:27:25Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-10-04T13:59:45Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1641753</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1641753</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

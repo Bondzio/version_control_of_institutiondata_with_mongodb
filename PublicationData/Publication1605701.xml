@@ -1,0 +1,125 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Different molecular rearrangements in the integron of the IncP-1 beta resistance plasmid pB10 isolated from a wastewater treatment plant result in elevated beta-lactam resistance levels</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Irene</namePart>
+  <namePart type="family">Krahn</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">42262</identifier></name>
+<name type="personal">
+  <namePart type="given">Rafael</namePart>
+  <namePart type="family">Szczepanowski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">112271</identifier></name>
+<name type="personal">
+  <namePart type="given">Alfred</namePart>
+  <namePart type="family">Pühler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21937</identifier></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Schlüter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">55545</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0003-4830-310X</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070639</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The multiresistance IncP-1 beta plasmid pB10 conferring resistance to ampicillin, streptomycin, sulfonamides, tetracycline and mercury ions was previously obtained from activated sludge bacteria by applying the exogenous isolation method with Pseudomonas sp. strain GFP2 as recipient. A pB10 derivative, designated pB10-1, occurred spontaneously and displays an extended NotI restriction fragment. From the pB10 nucleotide sequence, it is known that the corresponding NotI fragment of this plasmid contains a complete class 1 integron with an oxa2 and an orfE-like gene cassette. Sequencing of the integron-specific variable region present on pB10-1 revealed that a second copy of the oxa2 gene cassette has inserted downstream of the orfE-like cassette. Sequences flanking the second oxa2 cassette indicate that this cassette was excised from pB10 and reinserted at a new site in an integrase-catalyzed manner. Duplication of the oxa2 cassette is associated with a higher level of ampicillin resistance. Another pB10 derivative, designated pB10-2, conferring higher resistance to ampicillin, was shown to carry an IS10 insertion upstream of the oxa2 cassette. Since IS10 possesses a promoter-out activity, it can be assumed that the elevated ampicillin resistance level is due to enhanced transcription of the beta-lactamase gene.</abstract>
+
+<originInfo><publisher>SPRINGER</publisher><dateIssued encoding="w3cdtf">2004</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>mobile genetic element</topic><topic>conjugative plasmid</topic><topic>beta-Lactam resistance</topic><topic>broad-host-range plasmid</topic><topic>site-specific recombination</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>ARCHIVES OF MICROBIOLOGY</title></titleInfo>
+  <identifier type="issn">0302-8933</identifier>
+  <identifier type="eIssn">1432-072X</identifier>
+  <identifier type="MEDLINE">15375643</identifier>
+  <identifier type="ISI">000225472800001</identifier><identifier type="doi">10.1007/s00203-004-0726-9</identifier>
+<part><detail type="volume"><number>182</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">429-435</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee> I. Krahn, et al., “Different molecular rearrangements in the integron of the IncP-1 beta resistance plasmid pB10 isolated from a wastewater treatment plant result in elevated beta-lactam resistance levels”, &lt;em&gt;ARCHIVES OF MICROBIOLOGY&lt;/em&gt;,  vol. 182, 2004,  pp. 429-435.</ieee>
+<mla>Krahn, Irene, Szczepanowski, Rafael, Pühler, Alfred, and Schlüter, Andreas. “Different molecular rearrangements in the integron of the IncP-1 beta resistance plasmid pB10 isolated from a wastewater treatment plant result in elevated beta-lactam resistance levels”. &lt;em&gt;ARCHIVES OF MICROBIOLOGY&lt;/em&gt; 182.6 (2004): 429-435.</mla>
+<lncs> Krahn, I., Szczepanowski, R., Pühler, A., Schlüter, A.: Different molecular rearrangements in the integron of the IncP-1 beta resistance plasmid pB10 isolated from a wastewater treatment plant result in elevated beta-lactam resistance levels. ARCHIVES OF MICROBIOLOGY. 182, 429-435 (2004).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Krahn, I., Szczepanowski, R., Pühler, A., &amp;amp; Schlüter, A. (2004). Different molecular rearrangements in the integron of the IncP-1 beta resistance plasmid pB10 isolated from a wastewater treatment plant result in elevated beta-lactam resistance levels. &lt;em&gt;ARCHIVES OF MICROBIOLOGY&lt;/em&gt;, &lt;em&gt;182&lt;/em&gt;(6), 429-435.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>I.  Krahn, R.  Szczepanowski, A.  Pühler, and A.  Schlüter, “Different molecular rearrangements in the integron of the IncP-1 beta resistance plasmid pB10 isolated from a wastewater treatment plant result in elevated beta-lactam resistance levels”, &lt;em&gt;ARCHIVES OF MICROBIOLOGY&lt;/em&gt;, &lt;strong&gt;2004&lt;/strong&gt;, &lt;em&gt;182&lt;/em&gt;, 429-435.</angewandte-chemie>
+<apa>Krahn, I., Szczepanowski, R., Pühler, A., &amp;amp; Schlüter, A. (2004). Different molecular rearrangements in the integron of the IncP-1 beta resistance plasmid pB10 isolated from a wastewater treatment plant result in elevated beta-lactam resistance levels. &lt;em&gt;ARCHIVES OF MICROBIOLOGY&lt;/em&gt;, &lt;em&gt;182&lt;/em&gt;(6), 429-435.</apa>
+<frontiers>Krahn, I., Szczepanowski, R., Pühler, A., and Schlüter, A. (2004). Different molecular rearrangements in the integron of the IncP-1 beta resistance plasmid pB10 isolated from a wastewater treatment plant result in elevated beta-lactam resistance levels. &lt;em&gt;ARCHIVES OF MICROBIOLOGY&lt;/em&gt; 182, 429-435.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Krahn, Irene, Szczepanowski, Rafael, Pühler, Alfred, and Schlüter, Andreas. 2004. “Different molecular rearrangements in the integron of the IncP-1 beta resistance plasmid pB10 isolated from a wastewater treatment plant result in elevated beta-lactam resistance levels”. &lt;em&gt;ARCHIVES OF MICROBIOLOGY&lt;/em&gt; 182 (6): 429-435.&lt;/div&gt;</chicago>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Krahn, I., Szczepanowski, R., Pühler, A. &amp;amp; Schlüter, A. (2004). Different molecular rearrangements in the integron of the IncP-1 beta resistance plasmid pB10 isolated from a wastewater treatment plant result in elevated beta-lactam resistance levels. &lt;em&gt;ARCHIVES OF MICROBIOLOGY&lt;/em&gt;, &lt;em&gt;182&lt;/em&gt;(6), 429-435. SPRINGER. doi:10.1007/s00203-004-0726-9.&lt;/div&gt;</dgps>
+<ama>Krahn I, Szczepanowski R, Pühler A, Schlüter A. Different molecular rearrangements in the integron of the IncP-1 beta resistance plasmid pB10 isolated from a wastewater treatment plant result in elevated beta-lactam resistance levels. &lt;em&gt;ARCHIVES OF MICROBIOLOGY&lt;/em&gt;. 2004;182(6):429-435.</ama>
+<harvard1>Krahn, I., et al., 2004. Different molecular rearrangements in the integron of the IncP-1 beta resistance plasmid pB10 isolated from a wastewater treatment plant result in elevated beta-lactam resistance levels. &lt;em&gt;ARCHIVES OF MICROBIOLOGY&lt;/em&gt;, 182(6), p 429-435.</harvard1>
+<aps> I.  Krahn, et al., Different molecular rearrangements in the integron of the IncP-1 beta resistance plasmid pB10 isolated from a wastewater treatment plant result in elevated beta-lactam resistance levels, ARCHIVES OF MICROBIOLOGY &lt;strong&gt;182&lt;/strong&gt;, 429-435 (2004).</aps>
+<bio1>Krahn I, Szczepanowski R, Pühler A, Schlüter A (2004) &lt;br /&gt;Different molecular rearrangements in the integron of the IncP-1 beta resistance plasmid pB10 isolated from a wastewater treatment plant result in elevated beta-lactam resistance levels.&lt;br /&gt;ARCHIVES OF MICROBIOLOGY 182(6): 429-435.</bio1>
+<wels>Krahn, I.; Szczepanowski, R.; Pühler, A.; Schlüter, A. (2004): Different molecular rearrangements in the integron of the IncP-1 beta resistance plasmid pB10 isolated from a wastewater treatment plant result in elevated beta-lactam resistance levels &lt;em&gt;ARCHIVES OF MICROBIOLOGY&lt;/em&gt;,182:(6): 429-435.</wels>
+<default>Krahn I, Szczepanowski R, Pühler A, Schlüter A (2004) &lt;br /&gt;ARCHIVES OF MICROBIOLOGY 182(6): 429-435.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1605701</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:40:53Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-09-27T06:47:06Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1605701</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1605701</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

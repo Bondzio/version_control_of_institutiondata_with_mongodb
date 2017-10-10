@@ -1,0 +1,95 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Penalized spline smoothing in multivariable survival models with varying coefficients</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Göran</namePart>
+  <namePart type="family">Kauermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">91009</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Wirtschaftswissenschaften</namePart>
+  <identifier type="unibi">10031</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Penalized spline (P-spline) smoothing is discussed for hazard regression of multivariable survival data. Non-proportional hazard functions are fitted in a numerically handy manner by employing Poisson regression which results from numerical integration of the cumulative hazard function. Multivariate smoothing parameters are selected by utilizing the connection between P-spline smoothing and generalized linear mixed models. A hybrid routine is suggested which combines the mixed model idea with a classical Akaike information criteria. The model is evaluated with simulations and applied to data on the success and failure of newly founded companies. (C) 2004 Elsevier B.V. All rights reserved.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">2005</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>P-spline smoothing</topic><topic>generalized linear mixed model</topic><topic>survival model</topic><topic>varying coefficient model</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>COMPUTATIONAL STATISTICS &amp; DATA ANALYSIS</title></titleInfo>
+  <identifier type="issn">0167-9473</identifier>
+  <identifier type="ISI">000227461500012</identifier><identifier type="doi">10.1016/j.csda.2004.05.006</identifier>
+<part><detail type="volume"><number>49</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">169-186</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Kauermann G. Penalized spline smoothing in multivariable survival models with varying coefficients. &lt;em&gt;COMPUTATIONAL STATISTICS &amp;amp; DATA ANALYSIS&lt;/em&gt;. 2005;49(1):169-186.</ama>
+<harvard1>Kauermann, G., 2005. Penalized spline smoothing in multivariable survival models with varying coefficients. &lt;em&gt;COMPUTATIONAL STATISTICS &amp;amp; DATA ANALYSIS&lt;/em&gt;, 49(1), p 169-186.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kauermann, G. (2005). Penalized spline smoothing in multivariable survival models with varying coefficients. &lt;em&gt;COMPUTATIONAL STATISTICS &amp;amp; DATA ANALYSIS&lt;/em&gt;, &lt;em&gt;49&lt;/em&gt;(1), 169-186. ELSEVIER SCIENCE BV. doi:10.1016/j.csda.2004.05.006.&lt;/div&gt;</dgps>
+<bio1>Kauermann G (2005) &lt;br /&gt;Penalized spline smoothing in multivariable survival models with varying coefficients.&lt;br /&gt;COMPUTATIONAL STATISTICS &amp;amp; DATA ANALYSIS 49(1): 169-186.</bio1>
+<aps>G.  Kauermann, Penalized spline smoothing in multivariable survival models with varying coefficients, COMPUTATIONAL STATISTICS &amp;amp; DATA ANALYSIS &lt;strong&gt;49&lt;/strong&gt;, 169-186 (2005).</aps>
+<wels>Kauermann, G. (2005): Penalized spline smoothing in multivariable survival models with varying coefficients &lt;em&gt;COMPUTATIONAL STATISTICS &amp;amp; DATA ANALYSIS&lt;/em&gt;,49:(1): 169-186.</wels>
+<default>Kauermann G (2005) &lt;br /&gt;COMPUTATIONAL STATISTICS &amp;amp; DATA ANALYSIS 49(1): 169-186.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kauermann, G. (2005). Penalized spline smoothing in multivariable survival models with varying coefficients. &lt;em&gt;COMPUTATIONAL STATISTICS &amp;amp; DATA ANALYSIS&lt;/em&gt;, &lt;em&gt;49&lt;/em&gt;(1), 169-186.&lt;/div&gt;</apa_indent>
+<ieee>G. Kauermann, “Penalized spline smoothing in multivariable survival models with varying coefficients”, &lt;em&gt;COMPUTATIONAL STATISTICS &amp;amp; DATA ANALYSIS&lt;/em&gt;,  vol. 49, 2005,  pp. 169-186.</ieee>
+<mla>Kauermann, Göran. “Penalized spline smoothing in multivariable survival models with varying coefficients”. &lt;em&gt;COMPUTATIONAL STATISTICS &amp;amp; DATA ANALYSIS&lt;/em&gt; 49.1 (2005): 169-186.</mla>
+<lncs>Kauermann, G.: Penalized spline smoothing in multivariable survival models with varying coefficients. COMPUTATIONAL STATISTICS &amp;amp; DATA ANALYSIS. 49, 169-186 (2005).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kauermann, Göran. 2005. “Penalized spline smoothing in multivariable survival models with varying coefficients”. &lt;em&gt;COMPUTATIONAL STATISTICS &amp;amp; DATA ANALYSIS&lt;/em&gt; 49 (1): 169-186.&lt;/div&gt;</chicago>
+<apa>Kauermann, G. (2005). Penalized spline smoothing in multivariable survival models with varying coefficients. &lt;em&gt;COMPUTATIONAL STATISTICS &amp;amp; DATA ANALYSIS&lt;/em&gt;, &lt;em&gt;49&lt;/em&gt;(1), 169-186.</apa>
+<angewandte-chemie>G.  Kauermann, “Penalized spline smoothing in multivariable survival models with varying coefficients”, &lt;em&gt;COMPUTATIONAL STATISTICS &amp;amp; DATA ANALYSIS&lt;/em&gt;, &lt;strong&gt;2005&lt;/strong&gt;, &lt;em&gt;49&lt;/em&gt;, 169-186.</angewandte-chemie>
+<frontiers>Kauermann, G. (2005). Penalized spline smoothing in multivariable survival models with varying coefficients. &lt;em&gt;COMPUTATIONAL STATISTICS &amp;amp; DATA ANALYSIS&lt;/em&gt; 49, 169-186.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1604760</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:40:28Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-05T11:15:52Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1604760</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1604760</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

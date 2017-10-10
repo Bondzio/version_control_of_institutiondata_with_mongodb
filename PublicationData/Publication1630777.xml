@@ -1,0 +1,117 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Single-crossover dynamics: Finite versus infinite populations</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Ellen</namePart>
+  <namePart type="family">Baake</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">161046</identifier></name>
+<name type="personal">
+  <namePart type="given">Inke</namePart>
+  <namePart type="family">Herms</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">3849025</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Biomathematik und Theoretische Bioinformatik</namePart>
+  <identifier type="unibi">201230</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Forschungsschwerpunkt Mathematisierung</namePart>
+  <identifier type="unibi">10060</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Populations evolving under the joint influence of recombination and resampling (traditionally known as genetic drift) are investigated. First, we summarize and adapt a deterministic approach, as valid for infinite populations, which assumes continuous time and single crossover events. The corresponding nonlinear system of differential equations permits a closed solution, both in terms of the type frequencies and via linkage disequilibria of all orders. To include stochastic effects, we then consider the corresponding finite-population model, the Moran model with single crossovers, and examine it both analytically and by means of simulations. Particular emphasis is on the connection with the deterministic solution. If there is only recombination and every pair of recombined offspring replaces their pair of parents (i.e., there is no resampling), then the expected type frequencies in the finite population, of arbitrary size, equal the type frequencies in the infinite population. If resampling is included, the stochastic process converges, in the infinite-population limit, to the deterministic dynamics, which turns out to be a good approximation already for populations of moderate size.</abstract>
+
+<originInfo><publisher>SPRINGER</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>infinite population limit</topic><topic>Moran model</topic><topic>genetic drift</topic><topic>linkage disequilibria</topic><topic>recombination</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>BULLETIN OF MATHEMATICAL BIOLOGY</title></titleInfo>
+  <identifier type="issn">0092-8240</identifier>
+  <identifier type="eIssn">1522-9602</identifier>
+  <identifier type="MEDLINE">17957409</identifier>
+  <identifier type="ISI">000252481900013</identifier><identifier type="doi">10.1007/s11538-007-9270-5</identifier>
+<part><detail type="volume"><number>70</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">603-624</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Baake E, Herms I (2008) &lt;br /&gt;BULLETIN OF MATHEMATICAL BIOLOGY 70(2): 603-624.</default>
+<wels>Baake, E.; Herms, I. (2008): Single-crossover dynamics: Finite versus infinite populations &lt;em&gt;BULLETIN OF MATHEMATICAL BIOLOGY&lt;/em&gt;,70:(2): 603-624.</wels>
+<bio1>Baake E, Herms I (2008) &lt;br /&gt;Single-crossover dynamics: Finite versus infinite populations.&lt;br /&gt;BULLETIN OF MATHEMATICAL BIOLOGY 70(2): 603-624.</bio1>
+<aps>E.  Baake and I.  Herms, Single-crossover dynamics: Finite versus infinite populations, BULLETIN OF MATHEMATICAL BIOLOGY &lt;strong&gt;70&lt;/strong&gt;, 603-624 (2008).</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baake, E. &amp;amp; Herms, I. (2008). Single-crossover dynamics: Finite versus infinite populations. &lt;em&gt;BULLETIN OF MATHEMATICAL BIOLOGY&lt;/em&gt;, &lt;em&gt;70&lt;/em&gt;(2), 603-624. SPRINGER. doi:10.1007/s11538-007-9270-5.&lt;/div&gt;</dgps>
+<harvard1>Baake, E., &amp;amp; Herms, I., 2008. Single-crossover dynamics: Finite versus infinite populations. &lt;em&gt;BULLETIN OF MATHEMATICAL BIOLOGY&lt;/em&gt;, 70(2), p 603-624.</harvard1>
+<ama>Baake E, Herms I. Single-crossover dynamics: Finite versus infinite populations. &lt;em&gt;BULLETIN OF MATHEMATICAL BIOLOGY&lt;/em&gt;. 2008;70(2):603-624.</ama>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baake, Ellen, and Herms, Inke. 2008. “Single-crossover dynamics: Finite versus infinite populations”. &lt;em&gt;BULLETIN OF MATHEMATICAL BIOLOGY&lt;/em&gt; 70 (2): 603-624.&lt;/div&gt;</chicago>
+<frontiers>Baake, E., and Herms, I. (2008). Single-crossover dynamics: Finite versus infinite populations. &lt;em&gt;BULLETIN OF MATHEMATICAL BIOLOGY&lt;/em&gt; 70, 603-624.</frontiers>
+<apa>Baake, E., &amp;amp; Herms, I. (2008). Single-crossover dynamics: Finite versus infinite populations. &lt;em&gt;BULLETIN OF MATHEMATICAL BIOLOGY&lt;/em&gt;, &lt;em&gt;70&lt;/em&gt;(2), 603-624.</apa>
+<angewandte-chemie>E.  Baake, and I.  Herms, “Single-crossover dynamics: Finite versus infinite populations”, &lt;em&gt;BULLETIN OF MATHEMATICAL BIOLOGY&lt;/em&gt;, &lt;strong&gt;2008&lt;/strong&gt;, &lt;em&gt;70&lt;/em&gt;, 603-624.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baake, E., &amp;amp; Herms, I. (2008). Single-crossover dynamics: Finite versus infinite populations. &lt;em&gt;BULLETIN OF MATHEMATICAL BIOLOGY&lt;/em&gt;, &lt;em&gt;70&lt;/em&gt;(2), 603-624.&lt;/div&gt;</apa_indent>
+<lncs>Baake, E., Herms, I.: Single-crossover dynamics: Finite versus infinite populations. BULLETIN OF MATHEMATICAL BIOLOGY. 70, 603-624 (2008).</lncs>
+<mla>Baake, Ellen, and Herms, Inke. “Single-crossover dynamics: Finite versus infinite populations”. &lt;em&gt;BULLETIN OF MATHEMATICAL BIOLOGY&lt;/em&gt; 70.2 (2008): 603-624.</mla>
+<ieee>E. Baake and I. Herms, “Single-crossover dynamics: Finite versus infinite populations”, &lt;em&gt;BULLETIN OF MATHEMATICAL BIOLOGY&lt;/em&gt;,  vol. 70, 2008,  pp. 603-624.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1630777</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:05:13Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-11-22T11:26:14Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1630777</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1630777</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

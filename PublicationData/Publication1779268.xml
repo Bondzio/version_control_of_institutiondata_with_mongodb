@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Knowledge packets and knowledge packet structures</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ipke</namePart>
+  <namePart type="family">Wachsmuth</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">73476</identifier></name>
+<name type="personal">
+  <namePart type="given">Barbara</namePart>
+  <namePart type="family">Gängler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Otthein</namePart><namePart type="family">Herzog</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10044</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="KP_LILOG_paper.pdf">https://pub.uni-bielefeld.de/download/1779268/2621105</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Springer</publisher><dateIssued encoding="w3cdtf">1991</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Text understanding in LILOG: integrating computational linguistics and artificial intelligence ; final report on the IBM Germany LILOG project</title></titleInfo>
+  <identifier type="isbn">3-540-54594-8</identifier>
+  <identifier type="ISI">A1991KV08500025</identifier><identifier type="urn">urn:nbn:de:0070-bipr-18098</identifier>
+<part><extent unit="pages">380-393</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Wachsmuth, I., and Gängler, B. (1991). “Knowledge packets and knowledge packet structures” in &lt;em&gt;Text understanding in LILOG: integrating computational linguistics and artificial intelligence ; final report on the IBM Germany LILOG project&lt;/em&gt;, ed. O.  Herzog Lecture notes in computer science ; 546 : Lecture notes in artificial intelligence (Berlin [u.a.]: Springer), 380-393.</frontiers>
+<angewandte-chemie>I.  Wachsmuth, and B.  Gängler, in &lt;em&gt;Text understanding in LILOG: integrating computational linguistics and artificial intelligence ; final report on the IBM Germany LILOG project&lt;/em&gt; (Ed.: O. Herzog), Springer, Berlin [u.a.], &lt;strong&gt;1991&lt;/strong&gt;, p. 380-393.</angewandte-chemie>
+<apa>Wachsmuth, I., &amp;amp; Gängler, B. (1991). Knowledge packets and knowledge packet structures. In O.  Herzog (Ed.), &lt;em&gt;Lecture notes in computer science ; 546 : Lecture notes in artificial intelligence&lt;/em&gt;&lt;em&gt;. Text understanding in LILOG: integrating computational linguistics and artificial intelligence ; final report on the IBM Germany LILOG project&lt;/em&gt; (pp. 380-393). Berlin [u.a.]: Springer.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wachsmuth, Ipke, and Gängler, Barbara. 1991. “Knowledge packets and knowledge packet structures”. In &lt;em&gt;Text understanding in LILOG: integrating computational linguistics and artificial intelligence ; final report on the IBM Germany LILOG project&lt;/em&gt;, ed. Otthein Herzog, 380-393. Lecture notes in computer science ; 546 : Lecture notes in artificial intelligence. Berlin [u.a.]: Springer.&lt;/div&gt;</chicago>
+<lncs>Wachsmuth, I., Gängler, B.: Knowledge packets and knowledge packet structures. In: Herzog, O. (ed.) Text understanding in LILOG: integrating computational linguistics and artificial intelligence ; final report on the IBM Germany LILOG project. Lecture notes in computer science ; 546 : Lecture notes in artificial intelligence. p. 380-393. Springer, Berlin [u.a.] (1991).</lncs>
+<mla>Wachsmuth, Ipke, and Gängler, Barbara. “Knowledge packets and knowledge packet structures”. &lt;em&gt;Text understanding in LILOG: integrating computational linguistics and artificial intelligence ; final report on the IBM Germany LILOG project&lt;/em&gt;. Ed. Otthein Herzog. Berlin [u.a.]: Springer, 1991. Lecture notes in computer science ; 546 : Lecture notes in artificial intelligence. 380-393.</mla>
+<ieee>I. Wachsmuth and B. Gängler, “Knowledge packets and knowledge packet structures”, &lt;em&gt;Text understanding in LILOG: integrating computational linguistics and artificial intelligence ; final report on the IBM Germany LILOG project&lt;/em&gt;, O. Herzog, ed., Lecture notes in computer science ; 546 : Lecture notes in artificial intelligence,  Berlin [u.a.]: Springer, 1991,  pp.380-393.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wachsmuth, I., &amp;amp; Gängler, B. (1991). Knowledge packets and knowledge packet structures. In O.  Herzog (Ed.), &lt;em&gt;Lecture notes in computer science ; 546 : Lecture notes in artificial intelligence&lt;/em&gt;&lt;em&gt;. Text understanding in LILOG: integrating computational linguistics and artificial intelligence ; final report on the IBM Germany LILOG project&lt;/em&gt; (pp. 380-393). Berlin [u.a.]: Springer.&lt;/div&gt;</apa_indent>
+<default>Wachsmuth I, Gängler B (1991)  &lt;br /&gt;In:  Text understanding in LILOG: integrating computational linguistics and artificial intelligence ; final report on the IBM Germany LILOG project. Herzog O (Ed); Lecture notes in computer science ; 546 : Lecture notes in artificial intelligence, . Berlin [u.a.]: Springer:  380-393.</default>
+<wels>Wachsmuth, I.; Gängler, B. (1991): Knowledge packets and knowledge packet structures. In: Otthein Herzog (Hrsg.):  Text understanding in LILOG: integrating computational linguistics and artificial intelligence ; final report on the IBM Germany LILOG project. Berlin [u.a.]: Springer. (Lecture notes in computer science ; 546 : Lecture notes in artificial intelligence, ).  S. 380-393.</wels>
+<bio1>Wachsmuth I, Gängler B (1991) &lt;br /&gt;Knowledge packets and knowledge packet structures. &lt;br /&gt;In:  Text understanding in LILOG: integrating computational linguistics and artificial intelligence ; final report on the IBM Germany LILOG project. Herzog O (Ed); Lecture notes in computer science ; 546 : Lecture notes in artificial intelligence,  Berlin [u.a.]: Springer:  380-393.</bio1>
+<aps>I.  Wachsmuth and B.  Gängler, Knowledge packets and knowledge packet structures, in &lt;em&gt;Text understanding in LILOG: integrating computational linguistics and artificial intelligence ; final report on the IBM Germany LILOG project&lt;/em&gt;, edited by O.  Herzog, Lecture notes in computer science ; 546 : Lecture notes in artificial intelligence (Springer, Berlin [U.a.], 1991), p. 380-393.</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wachsmuth, I. &amp;amp; Gängler, B. (1991). Knowledge packets and knowledge packet structures (Lecture notes in computer science ; 546 : Lecture notes in artificial intelligence). &lt;em&gt;Text understanding in LILOG: integrating computational linguistics and artificial intelligence ; final report on the IBM Germany LILOG project&lt;/em&gt; (S. 380-393). Berlin [u.a.]: Springer.&lt;/div&gt;</dgps>
+<harvard1>Wachsmuth, I., &amp;amp; Gängler, B., 1991. Knowledge packets and knowledge packet structures. In O.  Herzog, ed. &lt;em&gt;Text understanding in LILOG: integrating computational linguistics and artificial intelligence ; final report on the IBM Germany LILOG project&lt;/em&gt;. Lecture notes in computer science ; 546 : Lecture notes in artificial intelligence.  Berlin [u.a.]: Springer, pp. 380-393.</harvard1>
+<ama>Wachsmuth I, Gängler B. Knowledge packets and knowledge packet structures. In: Herzog O, ed. &lt;em&gt;Text understanding in LILOG: integrating computational linguistics and artificial intelligence ; final report on the IBM Germany LILOG project&lt;/em&gt;. Lecture notes in computer science ; 546 : Lecture notes in artificial intelligence. Berlin [u.a.]: Springer;  1991: 380-393.</ama>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1779268</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-03-04T14:03:09Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-03-04T14:03:09Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1779268</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1779268</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

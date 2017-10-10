@@ -1,0 +1,153 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Differential regulation of closely related R2R3-MYB transcription factors controls flavonol accumulation in different parts of the Arabidopsis thaliana seedling</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Ralf</namePart>
+  <namePart type="family">Stracke</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">101395</identifier></name>
+<name type="personal">
+  <namePart type="given">Hirofumi</namePart>
+  <namePart type="family">Ishihara</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Gunnar</namePart>
+  <namePart type="family">Huep</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">189559</identifier></name>
+<name type="personal">
+  <namePart type="given">Frank</namePart>
+  <namePart type="family">Mehrtens</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Karsten</namePart>
+  <namePart type="family">Niehaus</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21913</identifier></name>
+<name type="personal">
+  <namePart type="given">Bernd</namePart>
+  <namePart type="family">Weisshaar</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">86212</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-7635-3473</description></name>
+<name type="personal">
+  <namePart type="given">Aiko</namePart>
+  <namePart type="family">Barsch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">40200282</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070678</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2684836</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2685540</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The genes MYB11, MYB12 and MYB111 share significant structural similarity and form subgroup 7 of the Arabidopsis thaliana R2R3-MYB gene family. To determine the regulatory potential of these three transcription factors, we used a combination of genetic, functional genomics and metabolite analysis approaches. MYB11, MYB12 and MYB111 show a high degree of functional similarity and display very similar target gene specificity for several genes of flavonoid biosynthesis, including CHALCONE SYNTHASE, CHALCONE ISOMERASE, FLAVANONE 3-HYDROXYLASE and FLAVONOL SYNTHASE1. Seedlings of the triple mutant myb11 myb12 myb111, which genetically lack a complete subgroup of R2R3-MYB genes, do not form flavonols while the accumulation of anthocyanins is not affected. In developing seedlings, MYB11, MYB12 and MYB111 act in an additive manner due to their differential spatial activity; MYB12 controls flavonol biosynthesis mainly in the root, while MYB111 controls flavonol biosynthesis primarily in cotyledons. We identified and confirmed additional target genes of the R2R3-MYB subgroup 7 factors, including the UDP-glycosyltransferases UGT91A1 and UGT84A1, and we demonstrate that the accumulation of distinct and structurally identified flavonol glycosides in seedlings correlates with the expression domains of the different R2R3-MYB factors. Therefore, we refer to these genes as PFG1-3 for &apos;PRODUCTION OF FLAVONOL GLYCOSIDES&apos;.</abstract>
+
+<originInfo><publisher>BLACKWELL PUBLISHING</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>R2R3-MYB</topic><topic>gene regulation</topic><topic>flavonoid biosynthesis</topic><topic>Arabidopsis</topic><topic>PRODUCTION OFFLAVONOL GLYCOSIDES</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>The Plant Journal</title></titleInfo>
+  <identifier type="issn">0960-7412</identifier>
+  <identifier type="eIssn">1365-313X</identifier>
+  <identifier type="MEDLINE">17419845</identifier>
+  <identifier type="ISI">000246398400010</identifier><identifier type="doi">10.1111/j.1365-313X.2007.03078.x</identifier>
+<part><detail type="volume"><number>50</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">660-677</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa>Stracke, R., Ishihara, H., Huep, G., Mehrtens, F., Niehaus, K., Weisshaar, B., &amp;amp; Barsch, A. (2007). Differential regulation of closely related R2R3-MYB transcription factors controls flavonol accumulation in different parts of the Arabidopsis thaliana seedling. &lt;em&gt;The Plant Journal&lt;/em&gt;, &lt;em&gt;50&lt;/em&gt;(4), 660-677.</apa>
+<angewandte-chemie>R.  Stracke, H.  Ishihara, G.  Huep, F.  Mehrtens, K.  Niehaus, B.  Weisshaar, and A.  Barsch, “Differential regulation of closely related R2R3-MYB transcription factors controls flavonol accumulation in different parts of the Arabidopsis thaliana seedling”, &lt;em&gt;The Plant Journal&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;50&lt;/em&gt;, 660-677.</angewandte-chemie>
+<frontiers>Stracke, R., Ishihara, H., Huep, G., Mehrtens, F., Niehaus, K., Weisshaar, B., and Barsch, A. (2007). Differential regulation of closely related R2R3-MYB transcription factors controls flavonol accumulation in different parts of the Arabidopsis thaliana seedling. &lt;em&gt;The Plant Journal&lt;/em&gt; 50, 660-677.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Stracke, Ralf, Ishihara, Hirofumi, Huep, Gunnar, Mehrtens, Frank, Niehaus, Karsten, Weisshaar, Bernd, and Barsch, Aiko. 2007. “Differential regulation of closely related R2R3-MYB transcription factors controls flavonol accumulation in different parts of the Arabidopsis thaliana seedling”. &lt;em&gt;The Plant Journal&lt;/em&gt; 50 (4): 660-677.&lt;/div&gt;</chicago>
+<ieee>R. Stracke, et al., “Differential regulation of closely related R2R3-MYB transcription factors controls flavonol accumulation in different parts of the Arabidopsis thaliana seedling”, &lt;em&gt;The Plant Journal&lt;/em&gt;,  vol. 50, 2007,  pp. 660-677.</ieee>
+<mla>Stracke, Ralf, Ishihara, Hirofumi, Huep, Gunnar, Mehrtens, Frank, Niehaus, Karsten, Weisshaar, Bernd, and Barsch, Aiko. “Differential regulation of closely related R2R3-MYB transcription factors controls flavonol accumulation in different parts of the Arabidopsis thaliana seedling”. &lt;em&gt;The Plant Journal&lt;/em&gt; 50.4 (2007): 660-677.</mla>
+<lncs>Stracke, R., Ishihara, H., Huep, G., Mehrtens, F., Niehaus, K., Weisshaar, B., Barsch, A.: Differential regulation of closely related R2R3-MYB transcription factors controls flavonol accumulation in different parts of the Arabidopsis thaliana seedling. The Plant Journal. 50, 660-677 (2007).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Stracke, R., Ishihara, H., Huep, G., Mehrtens, F., Niehaus, K., Weisshaar, B., &amp;amp; Barsch, A. (2007). Differential regulation of closely related R2R3-MYB transcription factors controls flavonol accumulation in different parts of the Arabidopsis thaliana seedling. &lt;em&gt;The Plant Journal&lt;/em&gt;, &lt;em&gt;50&lt;/em&gt;(4), 660-677.&lt;/div&gt;</apa_indent>
+<wels>Stracke, R.; Ishihara, H.; Huep, G.; Mehrtens, F.; Niehaus, K.; Weisshaar, B.; Barsch, A. (2007): Differential regulation of closely related R2R3-MYB transcription factors controls flavonol accumulation in different parts of the Arabidopsis thaliana seedling &lt;em&gt;The Plant Journal&lt;/em&gt;,50:(4): 660-677.</wels>
+<default>Stracke R, Ishihara H, Huep G, Mehrtens F, Niehaus K, Weisshaar B, Barsch A (2007) &lt;br /&gt;The Plant Journal 50(4): 660-677.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Stracke, R., Ishihara, H., Huep, G., Mehrtens, F., Niehaus, K., Weisshaar, B. &amp;amp; Barsch, A. (2007). Differential regulation of closely related R2R3-MYB transcription factors controls flavonol accumulation in different parts of the Arabidopsis thaliana seedling. &lt;em&gt;The Plant Journal&lt;/em&gt;, &lt;em&gt;50&lt;/em&gt;(4), 660-677. BLACKWELL PUBLISHING. doi:10.1111/j.1365-313X.2007.03078.x.&lt;/div&gt;</dgps>
+<harvard1>Stracke, R., et al., 2007. Differential regulation of closely related R2R3-MYB transcription factors controls flavonol accumulation in different parts of the Arabidopsis thaliana seedling. &lt;em&gt;The Plant Journal&lt;/em&gt;, 50(4), p 660-677.</harvard1>
+<ama>Stracke R, Ishihara H, Huep G, et al. Differential regulation of closely related R2R3-MYB transcription factors controls flavonol accumulation in different parts of the Arabidopsis thaliana seedling. &lt;em&gt;The Plant Journal&lt;/em&gt;. 2007;50(4):660-677.</ama>
+<bio1>Stracke R, Ishihara H, Huep G, Mehrtens F, Niehaus K, Weisshaar B, Barsch A (2007) &lt;br /&gt;Differential regulation of closely related R2R3-MYB transcription factors controls flavonol accumulation in different parts of the Arabidopsis thaliana seedling.&lt;br /&gt;The Plant Journal 50(4): 660-677.</bio1>
+<aps>R.  Stracke, et al., Differential regulation of closely related R2R3-MYB transcription factors controls flavonol accumulation in different parts of the Arabidopsis thaliana seedling, The Plant Journal &lt;strong&gt;50&lt;/strong&gt;, 660-677 (2007).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1593906</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:04Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2015-12-22T09:44:07Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1593906</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1593906</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

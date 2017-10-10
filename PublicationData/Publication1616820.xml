@@ -1,0 +1,118 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Dynamical stability conditions for recurrent neural networks with unsaturating piecewise linear transfer functions</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Heiko</namePart>
+  <namePart type="family">Wersing</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">54878447</identifier></name>
+<name type="personal">
+  <namePart type="given">Wolf-Jürgen</namePart>
+  <namePart type="family">Beyn</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">12477</identifier></name>
+<name type="personal">
+  <namePart type="given">Helge</namePart>
+  <namePart type="family">Ritter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">91130</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">435978</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10038</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We establish two conditions that ensure the nondivergence of additive recurrent networks with unsaturating piecewise linear transfer functions, also called linear threshold or semilinear transfer functions. As Hahnloser, Sarpeshkar, Mahowald, Douglas, and Seung (2000) showed, networks of this type can be efficiently built in silicon and exhibit the coexistence of digital selection and analog amplification in a single circuit. To obtain this behavior, the network must be multistable and nondivergent, and our conditions allow determining the regimes where this can be achieved with maximal recurrent amplification. The first condition can be applied to nonsymmetric networks and has a simple interpretation of requiring that the strength of local inhibition match the sum over excitatory weights converging onto a neuron. The second condition is restricted to symmetric networks, but can also take into account the stabilizing effect of nonlocal inhibitory interactions. We demonstrate the application of the conditions on a simple example and the orientation-selectivity mo del of Ben-Yishai, Lev Bar-Or, and Sompolinsky (1995). We show that the conditions can be used to identify in their model regions of maximal orientation-selective amplification and symmetry breaking.</abstract>
+
+<originInfo><publisher>M I T PRESS</publisher><dateIssued encoding="w3cdtf">2001</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Neural Computation</title></titleInfo>
+  <identifier type="issn">0899-7667</identifier>
+  <identifier type="MEDLINE">11506671</identifier>
+  <identifier type="ISI">000169752400006</identifier><identifier type="doi">10.1162/08997660152469350</identifier>
+<part><detail type="volume"><number>13</number></detail><detail type="issue"><number>8</number></detail><extent unit="pages">1811-1825</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Wersing, H., Beyn, W. - J., and Ritter, H. (2001). Dynamical stability conditions for recurrent neural networks with unsaturating piecewise linear transfer functions. &lt;em&gt;Neural Computation&lt;/em&gt; 13, 1811-1825.</frontiers>
+<apa>Wersing, H., Beyn, W. - J., &amp;amp; Ritter, H. (2001). Dynamical stability conditions for recurrent neural networks with unsaturating piecewise linear transfer functions. &lt;em&gt;Neural Computation&lt;/em&gt;, &lt;em&gt;13&lt;/em&gt;(8), 1811-1825.</apa>
+<angewandte-chemie>H.  Wersing, W. - J.  Beyn, and H.  Ritter, “Dynamical stability conditions for recurrent neural networks with unsaturating piecewise linear transfer functions”, &lt;em&gt;Neural Computation&lt;/em&gt;, &lt;strong&gt;2001&lt;/strong&gt;, &lt;em&gt;13&lt;/em&gt;, 1811-1825.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wersing, Heiko, Beyn, Wolf-Jürgen, and Ritter, Helge. 2001. “Dynamical stability conditions for recurrent neural networks with unsaturating piecewise linear transfer functions”. &lt;em&gt;Neural Computation&lt;/em&gt; 13 (8): 1811-1825.&lt;/div&gt;</chicago>
+<mla>Wersing, Heiko, Beyn, Wolf-Jürgen, and Ritter, Helge. “Dynamical stability conditions for recurrent neural networks with unsaturating piecewise linear transfer functions”. &lt;em&gt;Neural Computation&lt;/em&gt; 13.8 (2001): 1811-1825.</mla>
+<lncs> Wersing, H., Beyn, W.-J., Ritter, H.: Dynamical stability conditions for recurrent neural networks with unsaturating piecewise linear transfer functions. Neural Computation. 13, 1811-1825 (2001).</lncs>
+<ieee> H. Wersing, W.-J. Beyn, and H. Ritter, “Dynamical stability conditions for recurrent neural networks with unsaturating piecewise linear transfer functions”, &lt;em&gt;Neural Computation&lt;/em&gt;,  vol. 13, 2001,  pp. 1811-1825.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wersing, H., Beyn, W. - J., &amp;amp; Ritter, H. (2001). Dynamical stability conditions for recurrent neural networks with unsaturating piecewise linear transfer functions. &lt;em&gt;Neural Computation&lt;/em&gt;, &lt;em&gt;13&lt;/em&gt;(8), 1811-1825.&lt;/div&gt;</apa_indent>
+<default>Wersing H, Beyn W-J, Ritter H (2001) &lt;br /&gt;Neural Computation 13(8): 1811-1825.</default>
+<wels>Wersing, H.; Beyn, W. - J.; Ritter, H. (2001): Dynamical stability conditions for recurrent neural networks with unsaturating piecewise linear transfer functions &lt;em&gt;Neural Computation&lt;/em&gt;,13:(8): 1811-1825.</wels>
+<bio1>Wersing H, Beyn W-J, Ritter H (2001) &lt;br /&gt;Dynamical stability conditions for recurrent neural networks with unsaturating piecewise linear transfer functions.&lt;br /&gt;Neural Computation 13(8): 1811-1825.</bio1>
+<aps> H.  Wersing, W. - J.  Beyn, and H.  Ritter, Dynamical stability conditions for recurrent neural networks with unsaturating piecewise linear transfer functions, Neural Computation &lt;strong&gt;13&lt;/strong&gt;, 1811-1825 (2001).</aps>
+<harvard1>Wersing, H., Beyn, W.-J., &amp;amp; Ritter, H., 2001. Dynamical stability conditions for recurrent neural networks with unsaturating piecewise linear transfer functions. &lt;em&gt;Neural Computation&lt;/em&gt;, 13(8), p 1811-1825.</harvard1>
+<ama>Wersing H, Beyn W-J, Ritter H. Dynamical stability conditions for recurrent neural networks with unsaturating piecewise linear transfer functions. &lt;em&gt;Neural Computation&lt;/em&gt;. 2001;13(8):1811-1825.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wersing, H., Beyn, W.-J. &amp;amp; Ritter, H. (2001). Dynamical stability conditions for recurrent neural networks with unsaturating piecewise linear transfer functions. &lt;em&gt;Neural Computation&lt;/em&gt;, &lt;em&gt;13&lt;/em&gt;(8), 1811-1825. M I T PRESS. doi:10.1162/08997660152469350.&lt;/div&gt;</dgps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1616820</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:02:37Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-09-19T13:12:22Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1616820</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1616820</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

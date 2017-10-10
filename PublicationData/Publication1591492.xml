@@ -1,0 +1,151 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Extreme ultraviolet interference lithography at the Paul Scherrer Institut</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Vaida</namePart>
+  <namePart type="family">Auzelyte</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">Dais</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Patrick</namePart>
+  <namePart type="family">Farquet</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Detlev</namePart>
+  <namePart type="family">Gruetzmacher</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Laura J.</namePart>
+  <namePart type="family">Heyderman</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Feng</namePart>
+  <namePart type="family">Luo</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Sven</namePart>
+  <namePart type="family">Olliges</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Celestino</namePart>
+  <namePart type="family">Padeste</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Pratap K.</namePart>
+  <namePart type="family">Sahoo</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Tom</namePart>
+  <namePart type="family">Thomson</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andrey</namePart>
+  <namePart type="family">Turchanin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">134664</identifier></name>
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">David</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Harun H.</namePart>
+  <namePart type="family">Solak</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Biophysik und Nanowissenschaften</namePart>
+  <identifier type="unibi">2161137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Physik supramolekularer Systeme und Oberflächen</namePart>
+  <identifier type="unibi">29103248</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We review the performance and applications of an extreme ultraviolet interference lithography (EUV-IL) system built at the Swiss Light Source of the Paul Scherrer Institut (Villigen, Switzerland). The interferometer uses fully coherent radiation from an undulator source. 1-D (line/space) and 2-D (dot/hole arrays) patterns are obtained with a transmission-diffraction-grating type of interferometer. Features with sizes in the range from one micrometer down to the 10-nm scale can be printed in a variety of resists. The highest resolution of 11-nm half-pitch line/space patterns obtained with this method represents a current record for photon based lithography. Thanks to the excellent performance of the system in terms of pattern resolution, uniformity, size of the patterned area, and the throughput, the system has been used in numerous applications. Here we demonstrate the versatility and effectiveness of this emerging nanolithography method through a review of some of the applications, namely, fabrication of metallic and magnetic nanodevice components, self-assembly of Si/Ge quantum dots, chemical patterning of self-assembled monolayers (SAM), and radiation grafting of polymers. (c) 2009 Society of Photo-Optical Instrumentation Engineers. [DOI: 10.1117/1.3116559]</abstract>
+
+<originInfo><publisher>SPIE-Intl Soc Optical Eng</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>extreme ultraviolet</topic><topic>nanolithography</topic><topic>interference lithography</topic><topic>metal</topic><topic>nanowire</topic><topic>quantum dot</topic><topic>magnetic nanostructure</topic><topic>monolayer</topic><topic>self-assembled</topic><topic>polymer grafting</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF MICRO-NANOLITHOGRAPHY MEMS AND MOEMS</title></titleInfo>
+  <identifier type="issn">1932-5150</identifier>
+  <identifier type="ISI">000268443400032</identifier><identifier type="doi">10.1117/1.3116559</identifier>
+<part><detail type="volume"><number>8</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">021204</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>V. Auzelyte, et al., “Extreme ultraviolet interference lithography at the Paul Scherrer Institut”, &lt;em&gt;JOURNAL OF MICRO-NANOLITHOGRAPHY MEMS AND MOEMS&lt;/em&gt;,  vol. 8, 2009.</ieee>
+<mla>Auzelyte, Vaida, Dais, Christian, Farquet, Patrick, Gruetzmacher, Detlev, Heyderman, Laura J., Luo, Feng, Olliges, Sven, Padeste, Celestino, Sahoo, Pratap K., Thomson, Tom, Turchanin, Andrey, David, Christian, and Solak, Harun H. “Extreme ultraviolet interference lithography at the Paul Scherrer Institut”. &lt;em&gt;JOURNAL OF MICRO-NANOLITHOGRAPHY MEMS AND MOEMS&lt;/em&gt; 8.2 (2009).</mla>
+<lncs>Auzelyte, V., Dais, C., Farquet, P., Gruetzmacher, D., Heyderman, L.J., Luo, F., Olliges, S., Padeste, C., Sahoo, P.K., Thomson, T., Turchanin, A., David, C., Solak, H.H.: Extreme ultraviolet interference lithography at the Paul Scherrer Institut. JOURNAL OF MICRO-NANOLITHOGRAPHY MEMS AND MOEMS. 8, (2009).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Auzelyte, V., Dais, C., Farquet, P., Gruetzmacher, D., Heyderman, L. J., Luo, F., Olliges, S., et al. (2009). Extreme ultraviolet interference lithography at the Paul Scherrer Institut. &lt;em&gt;JOURNAL OF MICRO-NANOLITHOGRAPHY MEMS AND MOEMS&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;(2).&lt;/div&gt;</apa_indent>
+<angewandte-chemie>V.  Auzelyte, C.  Dais, P.  Farquet, D.  Gruetzmacher, L. J.  Heyderman, F.  Luo, S.  Olliges, C.  Padeste, P. K.  Sahoo, T.  Thomson, et al., “Extreme ultraviolet interference lithography at the Paul Scherrer Institut”, &lt;em&gt;JOURNAL OF MICRO-NANOLITHOGRAPHY MEMS AND MOEMS&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;8&lt;/em&gt;.</angewandte-chemie>
+<apa>Auzelyte, V., Dais, C., Farquet, P., Gruetzmacher, D., Heyderman, L. J., Luo, F., Olliges, S., et al. (2009). Extreme ultraviolet interference lithography at the Paul Scherrer Institut. &lt;em&gt;JOURNAL OF MICRO-NANOLITHOGRAPHY MEMS AND MOEMS&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;(2).</apa>
+<frontiers>Auzelyte, V., Dais, C., Farquet, P., Gruetzmacher, D., Heyderman, L. J., Luo, F., Olliges, S., Padeste, C., Sahoo, P. K., Thomson, T., et al. (2009). Extreme ultraviolet interference lithography at the Paul Scherrer Institut. &lt;em&gt;JOURNAL OF MICRO-NANOLITHOGRAPHY MEMS AND MOEMS&lt;/em&gt; 8.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Auzelyte, Vaida, Dais, Christian, Farquet, Patrick, Gruetzmacher, Detlev, Heyderman, Laura J., Luo, Feng, Olliges, Sven, et al. 2009. “Extreme ultraviolet interference lithography at the Paul Scherrer Institut”. &lt;em&gt;JOURNAL OF MICRO-NANOLITHOGRAPHY MEMS AND MOEMS&lt;/em&gt; 8 (2).&lt;/div&gt;</chicago>
+<harvard1>Auzelyte, V., et al., 2009. Extreme ultraviolet interference lithography at the Paul Scherrer Institut. &lt;em&gt;JOURNAL OF MICRO-NANOLITHOGRAPHY MEMS AND MOEMS&lt;/em&gt;, 8(2).</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Auzelyte, V., Dais, C., Farquet, P., Gruetzmacher, D., Heyderman, L.J., Luo, F., Olliges, S., Padeste, C., Sahoo, P.K., Thomson, T., Turchanin, A., David, C. &amp;amp; Solak, H.H. (2009). Extreme ultraviolet interference lithography at the Paul Scherrer Institut. &lt;em&gt;JOURNAL OF MICRO-NANOLITHOGRAPHY MEMS AND MOEMS&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;(2). SPIE-Intl Soc Optical Eng. doi:10.1117/1.3116559.&lt;/div&gt;</dgps>
+<ama>Auzelyte V, Dais C, Farquet P, et al. Extreme ultraviolet interference lithography at the Paul Scherrer Institut. &lt;em&gt;JOURNAL OF MICRO-NANOLITHOGRAPHY MEMS AND MOEMS&lt;/em&gt;. 2009;8(2).</ama>
+<aps>V.  Auzelyte, et al., Extreme ultraviolet interference lithography at the Paul Scherrer Institut, JOURNAL OF MICRO-NANOLITHOGRAPHY MEMS AND MOEMS &lt;strong&gt;8&lt;/strong&gt;, (2009).</aps>
+<bio1>Auzelyte V, Dais C, Farquet P, Gruetzmacher D, Heyderman LJ, Luo F, Olliges S, Padeste C, Sahoo PK, Thomson T, Turchanin A, David C, Solak HH (2009) &lt;br /&gt;Extreme ultraviolet interference lithography at the Paul Scherrer Institut.&lt;br /&gt;JOURNAL OF MICRO-NANOLITHOGRAPHY MEMS AND MOEMS 8(2).</bio1>
+<wels>Auzelyte, V.; Dais, C.; Farquet, P.; Gruetzmacher, D.; Heyderman, L. J.; Luo, F.; Olliges, S.; Padeste, C.; Sahoo, P. K.; Thomson, T.; Turchanin, A.; David, C.; Solak, H. H. (2009): Extreme ultraviolet interference lithography at the Paul Scherrer Institut &lt;em&gt;JOURNAL OF MICRO-NANOLITHOGRAPHY MEMS AND MOEMS&lt;/em&gt;,8:(2)</wels>
+<default>Auzelyte V, Dais C, Farquet P, Gruetzmacher D, Heyderman LJ, Luo F, Olliges S, Padeste C, Sahoo PK, Thomson T, Turchanin A, et al. (2009) &lt;br /&gt;JOURNAL OF MICRO-NANOLITHOGRAPHY MEMS AND MOEMS 8(2).</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1591492</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-26T09:45:52Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-11-07T21:33:34Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1591492</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1591492</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

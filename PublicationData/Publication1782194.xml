@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>The map BSG A( *) QS 0</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Marcel</namePart>
+  <namePart type="family">Bökstedt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Friedhelm</namePart>
+  <namePart type="family">Waldhausen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10607</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">William</namePart><namePart type="family">Browder</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT3022.pdf">https://pub.uni-bielefeld.de/download/1782194/2313718</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Princeton Univ. Pr.</publisher><dateIssued encoding="w3cdtf">1987</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Algebraic topology and algebraic K-theory: proceedings of a Conference October 24 - 28, 1983 (Entitled ´Algebraic Topology and Algebraic K-Theory´) at Princton University, dedicated to John C. Moore on his 60th birthday</title></titleInfo>
+  <identifier type="isbn">0-691-08415-7</identifier>
+  <identifier type="ISI">A1987K911600017</identifier><identifier type="urn">urn:nbn:de:0070-bipr-30221</identifier>
+<part><extent unit="pages">418-431</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>M.  Bökstedt and F.  Waldhausen, The map BSG A( *) QS 0, in &lt;em&gt;Algebraic topology and algebraic K-theory: proceedings of a Conference October 24 - 28, 1983 (Entitled ´Algebraic Topology and Algebraic K-Theory´) at Princton University, dedicated to John C. Moore on his 60th birthday&lt;/em&gt;, edited by W.  Browder, Annals of mathematics studies ; 113 (Princeton Univ. Pr., Princeton, Nj, 1987), p. 418-431.</aps>
+<bio1>Bökstedt M, Waldhausen F (1987) &lt;br /&gt;The map BSG A( *) QS 0. &lt;br /&gt;In:  Algebraic topology and algebraic K-theory: proceedings of a Conference October 24 - 28, 1983 (Entitled ´Algebraic Topology and Algebraic K-Theory´) at Princton University, dedicated to John C. Moore on his 60th birthday. Browder W (Ed); Annals of mathematics studies ; 113,  Princeton, NJ: Princeton Univ. Pr.:  418-431.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bökstedt, M. &amp;amp; Waldhausen, F. (1987). The map BSG A( *) QS 0 (Annals of mathematics studies ; 113). &lt;em&gt;Algebraic topology and algebraic K-theory: proceedings of a Conference October 24 - 28, 1983 (Entitled ´Algebraic Topology and Algebraic K-Theory´) at Princton University, dedicated to John C. Moore on his 60th birthday&lt;/em&gt; (S. 418-431). Princeton, NJ: Princeton Univ. Pr.&lt;/div&gt;</dgps>
+<ama>Bökstedt M, Waldhausen F. The map BSG A( *) QS 0. In: Browder W, ed. &lt;em&gt;Algebraic topology and algebraic K-theory: proceedings of a Conference October 24 - 28, 1983 (Entitled ´Algebraic Topology and Algebraic K-Theory´) at Princton University, dedicated to John C. Moore on his 60th birthday&lt;/em&gt;. Annals of mathematics studies ; 113. Princeton, NJ: Princeton Univ. Pr.;  1987: 418-431.</ama>
+<harvard1>Bökstedt, M., &amp;amp; Waldhausen, F., 1987. The map BSG A( *) QS 0. In W.  Browder, ed. &lt;em&gt;Algebraic topology and algebraic K-theory: proceedings of a Conference October 24 - 28, 1983 (Entitled ´Algebraic Topology and Algebraic K-Theory´) at Princton University, dedicated to John C. Moore on his 60th birthday&lt;/em&gt;. Annals of mathematics studies ; 113.  Princeton, NJ: Princeton Univ. Pr., pp. 418-431.</harvard1>
+<default>Bökstedt M, Waldhausen F (1987)  &lt;br /&gt;In:  Algebraic topology and algebraic K-theory: proceedings of a Conference October 24 - 28, 1983 (Entitled ´Algebraic Topology and Algebraic K-Theory´) at Princton University, dedicated to John C. Moore on his 60th birthday. Browder W (Ed); Annals of mathematics studies ; 113, . Princeton, NJ: Princeton Univ. Pr.:  418-431.</default>
+<wels>Bökstedt, M.; Waldhausen, F. (1987): The map BSG A( *) QS 0. In: William Browder (Hrsg.):  Algebraic topology and algebraic K-theory: proceedings of a Conference October 24 - 28, 1983 (Entitled ´Algebraic Topology and Algebraic K-Theory´) at Princton University, dedicated to John C. Moore on his 60th birthday. Princeton, NJ: Princeton Univ. Pr. (Annals of mathematics studies ; 113, ).  S. 418-431.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bökstedt, M., &amp;amp; Waldhausen, F. (1987). The map BSG A( *) QS 0. In W.  Browder (Ed.), &lt;em&gt;Annals of mathematics studies ; 113&lt;/em&gt;&lt;em&gt;. Algebraic topology and algebraic K-theory: proceedings of a Conference October 24 - 28, 1983 (Entitled ´Algebraic Topology and Algebraic K-Theory´) at Princton University, dedicated to John C. Moore on his 60th birthday&lt;/em&gt; (pp. 418-431). Princeton, NJ: Princeton Univ. Pr.&lt;/div&gt;</apa_indent>
+<mla>Bökstedt, Marcel, and Waldhausen, Friedhelm. “The map BSG A( *) QS 0”. &lt;em&gt;Algebraic topology and algebraic K-theory: proceedings of a Conference October 24 - 28, 1983 (Entitled ´Algebraic Topology and Algebraic K-Theory´) at Princton University, dedicated to John C. Moore on his 60th birthday&lt;/em&gt;. Ed. William Browder. Princeton, NJ: Princeton Univ. Pr., 1987. Annals of mathematics studies ; 113. 418-431.</mla>
+<lncs>Bökstedt, M., Waldhausen, F.: The map BSG A( *) QS 0. In: Browder, W. (ed.) Algebraic topology and algebraic K-theory: proceedings of a Conference October 24 - 28, 1983 (Entitled ´Algebraic Topology and Algebraic K-Theory´) at Princton University, dedicated to John C. Moore on his 60th birthday. Annals of mathematics studies ; 113. p. 418-431. Princeton Univ. Pr., Princeton, NJ (1987).</lncs>
+<ieee>M. Bökstedt and F. Waldhausen, “The map BSG A( *) QS 0”, &lt;em&gt;Algebraic topology and algebraic K-theory: proceedings of a Conference October 24 - 28, 1983 (Entitled ´Algebraic Topology and Algebraic K-Theory´) at Princton University, dedicated to John C. Moore on his 60th birthday&lt;/em&gt;, W. Browder, ed., Annals of mathematics studies ; 113,  Princeton, NJ: Princeton Univ. Pr., 1987,  pp.418-431.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bökstedt, Marcel, and Waldhausen, Friedhelm. 1987. “The map BSG A( *) QS 0”. In &lt;em&gt;Algebraic topology and algebraic K-theory: proceedings of a Conference October 24 - 28, 1983 (Entitled ´Algebraic Topology and Algebraic K-Theory´) at Princton University, dedicated to John C. Moore on his 60th birthday&lt;/em&gt;, ed. William Browder, 418-431. Annals of mathematics studies ; 113. Princeton, NJ: Princeton Univ. Pr.&lt;/div&gt;</chicago>
+<frontiers>Bökstedt, M., and Waldhausen, F. (1987). “The map BSG A( *) QS 0” in &lt;em&gt;Algebraic topology and algebraic K-theory: proceedings of a Conference October 24 - 28, 1983 (Entitled ´Algebraic Topology and Algebraic K-Theory´) at Princton University, dedicated to John C. Moore on his 60th birthday&lt;/em&gt;, ed. W.  Browder Annals of mathematics studies ; 113 (Princeton, NJ: Princeton Univ. Pr.), 418-431.</frontiers>
+<angewandte-chemie>M.  Bökstedt, and F.  Waldhausen, in &lt;em&gt;Algebraic topology and algebraic K-theory: proceedings of a Conference October 24 - 28, 1983 (Entitled ´Algebraic Topology and Algebraic K-Theory´) at Princton University, dedicated to John C. Moore on his 60th birthday&lt;/em&gt; (Ed.: W. Browder), Princeton Univ. Pr., Princeton, NJ, &lt;strong&gt;1987&lt;/strong&gt;, p. 418-431.</angewandte-chemie>
+<apa>Bökstedt, M., &amp;amp; Waldhausen, F. (1987). The map BSG A( *) QS 0. In W.  Browder (Ed.), &lt;em&gt;Annals of mathematics studies ; 113&lt;/em&gt;&lt;em&gt;. Algebraic topology and algebraic K-theory: proceedings of a Conference October 24 - 28, 1983 (Entitled ´Algebraic Topology and Algebraic K-Theory´) at Princton University, dedicated to John C. Moore on his 60th birthday&lt;/em&gt; (pp. 418-431). Princeton, NJ: Princeton Univ. Pr.</apa>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1782194</recordIdentifier><recordChangeDate encoding="w3cdtf">2014-06-27T13:39:55Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1782194</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1782194</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

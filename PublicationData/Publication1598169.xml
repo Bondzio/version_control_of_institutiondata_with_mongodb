@@ -1,0 +1,137 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Transcriptome profiling uncovers metabolic and regulatory processes occurring during the transition from desiccation-sensitive to desiccation-tolerant stages in Medicago truncatula seeds</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Julia</namePart>
+  <namePart type="family">Buitink</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jean J.</namePart>
+  <namePart type="family">Leger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Isabelle</namePart>
+  <namePart type="family">Guisle</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Benoit Ly</namePart>
+  <namePart type="family">Vu</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Sylvie</namePart>
+  <namePart type="family">Wuilleme</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Guillaume</namePart>
+  <namePart type="family">Lamirault</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alice</namePart>
+  <namePart type="family">Le Bars</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Nolwenn</namePart>
+  <namePart type="family">Le Meur</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Anke</namePart>
+  <namePart type="family">Becker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Helge</namePart>
+  <namePart type="family">Kuester</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Olivier</namePart>
+  <namePart type="family">Leprince</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">To investigate regulatory processes and protective mechanisms leading to desiccation tolerance (DT) in seeds, 16086-element microarrays were used to monitor changes in the transcriptome of desiccation-sensitive 3-mm-long radicles of Medicago truncatula seeds at different time points during incubation in a polyethylene glycol (PEG) solution at -1.7 MPa, resulting in a gradual re-establishment of DT. Gene profiling was also performed on embryos before and after the acquisition of DT during maturation. More than 1300 genes were differentially expressed during the PEG incubation. A large number of genes involved in C metabolism are expressed during the re-establishment of DT. Quantification of C reserves confirms that lipids, starch and oligosaccharides were mobilised, coinciding with the production of sucrose during the early osmotic adjustment. Several clusters of gene profiles were identified with different time-scales. Genes expressed early during the PEG incubation belonged to classes involved in early stress and adaptation responses. Interestingly, several regulatory genes typically expressed during abiotic/drought stresses were also upregulated during maturation, arguing for the partial overlap of ABA-dependent and -independent regulatory pathways involved in both drought and DT. At later time points, in parallel to the re-establishment of DT, upregulated genes are comparable with those involved in late seed maturation. Concomitantly, a massive repression of genes belonging to numerous classes occurred, including cell cycle, biogenesis, primary and energy metabolism. The re-establishment of DT in the germinated radicles appears to concur with a partial return to the quiescent state prior to germination.</abstract>
+
+<originInfo><publisher>BLACKWELL PUBLISHING</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>C</topic><topic>Medicago truncatula</topic><topic>gene profiling</topic><topic>seeds</topic><topic>desiccation tolerance</topic><topic>metabolism</topic><topic>germination</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>PLANT JOURNAL</title></titleInfo>
+  <identifier type="issn">0960-7412</identifier>
+  <identifier type="eIssn">1365-313X</identifier>
+  <identifier type="MEDLINE">16923015</identifier>
+  <identifier type="ISI">000239700000007</identifier><identifier type="doi">10.1111/j.1365-313X.2006.02822.x</identifier>
+<part><detail type="volume"><number>47</number></detail><detail type="issue"><number>5</number></detail><extent unit="pages">735-750</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Buitink, Julia, Leger, Jean J., Guisle, Isabelle, Vu, Benoit Ly, Wuilleme, Sylvie, Lamirault, Guillaume, Le Bars, Alice, et al. 2006. “Transcriptome profiling uncovers metabolic and regulatory processes occurring during the transition from desiccation-sensitive to desiccation-tolerant stages in Medicago truncatula seeds”. &lt;em&gt;PLANT JOURNAL&lt;/em&gt; 47 (5): 735-750.&lt;/div&gt;</chicago>
+<angewandte-chemie>J.  Buitink, J. J.  Leger, I.  Guisle, B. L.  Vu, S.  Wuilleme, G.  Lamirault, A.  Le Bars, N.  Le Meur, A.  Becker, H.  Kuester, et al., “Transcriptome profiling uncovers metabolic and regulatory processes occurring during the transition from desiccation-sensitive to desiccation-tolerant stages in Medicago truncatula seeds”, &lt;em&gt;PLANT JOURNAL&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;47&lt;/em&gt;, 735-750.</angewandte-chemie>
+<apa>Buitink, J., Leger, J. J., Guisle, I., Vu, B. L., Wuilleme, S., Lamirault, G., Le Bars, A., et al. (2006). Transcriptome profiling uncovers metabolic and regulatory processes occurring during the transition from desiccation-sensitive to desiccation-tolerant stages in Medicago truncatula seeds. &lt;em&gt;PLANT JOURNAL&lt;/em&gt;, &lt;em&gt;47&lt;/em&gt;(5), 735-750.</apa>
+<frontiers>Buitink, J., Leger, J. J., Guisle, I., Vu, B. L., Wuilleme, S., Lamirault, G., Le Bars, A., Le Meur, N., Becker, A., Kuester, H., et al. (2006). Transcriptome profiling uncovers metabolic and regulatory processes occurring during the transition from desiccation-sensitive to desiccation-tolerant stages in Medicago truncatula seeds. &lt;em&gt;PLANT JOURNAL&lt;/em&gt; 47, 735-750.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Buitink, J., Leger, J. J., Guisle, I., Vu, B. L., Wuilleme, S., Lamirault, G., Le Bars, A., et al. (2006). Transcriptome profiling uncovers metabolic and regulatory processes occurring during the transition from desiccation-sensitive to desiccation-tolerant stages in Medicago truncatula seeds. &lt;em&gt;PLANT JOURNAL&lt;/em&gt;, &lt;em&gt;47&lt;/em&gt;(5), 735-750.&lt;/div&gt;</apa_indent>
+<ieee> J. Buitink, et al., “Transcriptome profiling uncovers metabolic and regulatory processes occurring during the transition from desiccation-sensitive to desiccation-tolerant stages in Medicago truncatula seeds”, &lt;em&gt;PLANT JOURNAL&lt;/em&gt;,  vol. 47, 2006,  pp. 735-750.</ieee>
+<mla>Buitink, Julia, Leger, Jean J., Guisle, Isabelle, Vu, Benoit Ly, Wuilleme, Sylvie, Lamirault, Guillaume, Le Bars, Alice, Le Meur, Nolwenn, Becker, Anke, Kuester, Helge, and Leprince, Olivier. “Transcriptome profiling uncovers metabolic and regulatory processes occurring during the transition from desiccation-sensitive to desiccation-tolerant stages in Medicago truncatula seeds”. &lt;em&gt;PLANT JOURNAL&lt;/em&gt; 47.5 (2006): 735-750.</mla>
+<lncs> Buitink, J., Leger, J.J., Guisle, I., Vu, B.L., Wuilleme, S., Lamirault, G., Le Bars, A., Le Meur, N., Becker, A., Kuester, H., Leprince, O.: Transcriptome profiling uncovers metabolic and regulatory processes occurring during the transition from desiccation-sensitive to desiccation-tolerant stages in Medicago truncatula seeds. PLANT JOURNAL. 47, 735-750 (2006).</lncs>
+<wels>Buitink, J.; Leger, J. J.; Guisle, I.; Vu, B. L.; Wuilleme, S.; Lamirault, G.; Le Bars, A.; Le Meur, N.; Becker, A.; Kuester, H.; Leprince, O. (2006): Transcriptome profiling uncovers metabolic and regulatory processes occurring during the transition from desiccation-sensitive to desiccation-tolerant stages in Medicago truncatula seeds &lt;em&gt;PLANT JOURNAL&lt;/em&gt;,47:(5): 735-750.</wels>
+<default>Buitink J, Leger JJ, Guisle I, Vu BL, Wuilleme S, Lamirault G, Le Bars A, Le Meur N, Becker A, Kuester H, Leprince O (2006) &lt;br /&gt;PLANT JOURNAL 47(5): 735-750.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Buitink, J., Leger, J.J., Guisle, I., Vu, B.L., Wuilleme, S., Lamirault, G., Le Bars, A., Le Meur, N., Becker, A., Kuester, H. &amp;amp; Leprince, O. (2006). Transcriptome profiling uncovers metabolic and regulatory processes occurring during the transition from desiccation-sensitive to desiccation-tolerant stages in Medicago truncatula seeds. &lt;em&gt;PLANT JOURNAL&lt;/em&gt;, &lt;em&gt;47&lt;/em&gt;(5), 735-750. BLACKWELL PUBLISHING. doi:10.1111/j.1365-313X.2006.02822.x.&lt;/div&gt;</dgps>
+<ama>Buitink J, Leger JJ, Guisle I, et al. Transcriptome profiling uncovers metabolic and regulatory processes occurring during the transition from desiccation-sensitive to desiccation-tolerant stages in Medicago truncatula seeds. &lt;em&gt;PLANT JOURNAL&lt;/em&gt;. 2006;47(5):735-750.</ama>
+<harvard1>Buitink, J., et al., 2006. Transcriptome profiling uncovers metabolic and regulatory processes occurring during the transition from desiccation-sensitive to desiccation-tolerant stages in Medicago truncatula seeds. &lt;em&gt;PLANT JOURNAL&lt;/em&gt;, 47(5), p 735-750.</harvard1>
+<aps> J.  Buitink, et al., Transcriptome profiling uncovers metabolic and regulatory processes occurring during the transition from desiccation-sensitive to desiccation-tolerant stages in Medicago truncatula seeds, PLANT JOURNAL &lt;strong&gt;47&lt;/strong&gt;, 735-750 (2006).</aps>
+<bio1>Buitink J, Leger JJ, Guisle I, Vu BL, Wuilleme S, Lamirault G, Le Bars A, Le Meur N, Becker A, Kuester H, Leprince O (2006) &lt;br /&gt;Transcriptome profiling uncovers metabolic and regulatory processes occurring during the transition from desiccation-sensitive to desiccation-tolerant stages in Medicago truncatula seeds.&lt;br /&gt;PLANT JOURNAL 47(5): 735-750.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1598169</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:19:14Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-11T10:06:54Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1598169</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1598169</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

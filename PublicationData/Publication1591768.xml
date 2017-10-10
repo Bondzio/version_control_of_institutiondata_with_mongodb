@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Ocular following response to sampled motion</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Kim Joris</namePart>
+  <namePart type="family">Bostroem</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Anne-Kathrin</namePart>
+  <namePart type="family">Warzecha</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">22117</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2684834</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We investigate the impact of monitor frame rate on the human ocular following response (OFR) and find that the response latency considerably depends on the frame rate in the range of 80-160 Hz, which is far above the flicker fusion limit. From the lowest to the highest frame rate the latency declines by roughly 10 ms. Moreover, the relationship between response latency and stimulus speed is affected by the frame rate, compensating and even inverting the effect at lower frame rates. In contrast to that, the initial response acceleration is not affected by the frame rate and its expected dependence on stimulus speed remains stable. The nature of these phenomena reveals insights into the neural mechanism of low-level motion detection underlying the ocular following response. (C) 2009 Elsevier Ltd. All rights reserved.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="BostroemWarzecha2009.pdf">https://pub.uni-bielefeld.de/download/1591768/2904504</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Elsevier BV</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Low-level vision</topic><topic>Oculomotor system</topic><topic>Sampled motion</topic><topic>Ocular following</topic><topic>Eye movements</topic><topic>response</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>VISION RESEARCH</title></titleInfo>
+  <identifier type="issn">0042-6989</identifier>
+  <identifier type="MEDLINE">19366624</identifier>
+  <identifier type="ISI">000267398700009</identifier><identifier type="urn">urn:nbn:de:0070-pub-15917685</identifier><identifier type="doi">10.1016/j.visres.2009.04.006</identifier>
+<part><detail type="volume"><number>49</number></detail><detail type="issue"><number>13</number></detail><extent unit="pages">1693-1701</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Bostroem, K. J.; Warzecha, A. - K. (2009): Ocular following response to sampled motion &lt;em&gt;VISION RESEARCH&lt;/em&gt;,49:(13): 1693-1701.</wels>
+<default>Bostroem KJ, Warzecha A-K (2009) &lt;br /&gt;VISION RESEARCH 49(13): 1693-1701.</default>
+<harvard1>Bostroem, K.J., &amp;amp; Warzecha, A.-K., 2009. Ocular following response to sampled motion. &lt;em&gt;VISION RESEARCH&lt;/em&gt;, 49(13), p 1693-1701.</harvard1>
+<ama>Bostroem KJ, Warzecha A-K. Ocular following response to sampled motion. &lt;em&gt;VISION RESEARCH&lt;/em&gt;. 2009;49(13):1693-1701.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bostroem, K.J. &amp;amp; Warzecha, A.-K. (2009). Ocular following response to sampled motion. &lt;em&gt;VISION RESEARCH&lt;/em&gt;, &lt;em&gt;49&lt;/em&gt;(13), 1693-1701. Elsevier BV. doi:10.1016/j.visres.2009.04.006.&lt;/div&gt;</dgps>
+<aps> K. J.  Bostroem and A. - K.  Warzecha, Ocular following response to sampled motion, VISION RESEARCH &lt;strong&gt;49&lt;/strong&gt;, 1693-1701 (2009).</aps>
+<bio1>Bostroem KJ, Warzecha A-K (2009) &lt;br /&gt;Ocular following response to sampled motion.&lt;br /&gt;VISION RESEARCH 49(13): 1693-1701.</bio1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bostroem, Kim Joris, and Warzecha, Anne-Kathrin. 2009. “Ocular following response to sampled motion”. &lt;em&gt;VISION RESEARCH&lt;/em&gt; 49 (13): 1693-1701.&lt;/div&gt;</chicago>
+<angewandte-chemie>K. J.  Bostroem, and A. - K.  Warzecha, “Ocular following response to sampled motion”, &lt;em&gt;VISION RESEARCH&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;49&lt;/em&gt;, 1693-1701.</angewandte-chemie>
+<apa>Bostroem, K. J., &amp;amp; Warzecha, A. - K. (2009). Ocular following response to sampled motion. &lt;em&gt;VISION RESEARCH&lt;/em&gt;, &lt;em&gt;49&lt;/em&gt;(13), 1693-1701.</apa>
+<frontiers>Bostroem, K. J., and Warzecha, A. - K. (2009). Ocular following response to sampled motion. &lt;em&gt;VISION RESEARCH&lt;/em&gt; 49, 1693-1701.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bostroem, K. J., &amp;amp; Warzecha, A. - K. (2009). Ocular following response to sampled motion. &lt;em&gt;VISION RESEARCH&lt;/em&gt;, &lt;em&gt;49&lt;/em&gt;(13), 1693-1701.&lt;/div&gt;</apa_indent>
+<ieee> K.J. Bostroem and A.-K. Warzecha, “Ocular following response to sampled motion”, &lt;em&gt;VISION RESEARCH&lt;/em&gt;,  vol. 49, 2009,  pp. 1693-1701.</ieee>
+<mla>Bostroem, Kim Joris, and Warzecha, Anne-Kathrin. “Ocular following response to sampled motion”. &lt;em&gt;VISION RESEARCH&lt;/em&gt; 49.13 (2009): 1693-1701.</mla>
+<lncs> Bostroem, K.J., Warzecha, A.-K.: Ocular following response to sampled motion. VISION RESEARCH. 49, 1693-1701 (2009).</lncs>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1591768</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-26T09:46:01Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-07-05T09:49:56Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1591768</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1591768</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

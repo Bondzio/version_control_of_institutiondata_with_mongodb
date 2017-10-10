@@ -1,0 +1,145 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Mapping and comprehensive analysis of the extracellular and cell surface proteome of the human pathogen Corynebacterium diphtheriae</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">N.</namePart>
+  <namePart type="family">Hansmeier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">T. C.</namePart>
+  <namePart type="family">Chao</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jörn</namePart>
+  <namePart type="family">Kalinowski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">147567</identifier></name>
+<name type="personal">
+  <namePart type="given">Alfred</namePart>
+  <namePart type="family">Pühler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21937</identifier></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Tauch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">22082</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070724</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070741</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070639</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Secreted proteins of the human pathogen Corynebacterium diphtheriae might be involved in important pathogen-host cell interactions. Here, we present the first systematic reference map of the extracellular and cell surface proteome fractions of the type strain C. diphtheriae C7(s)(-)(tox-). The analysis window of 2-DE covered the pI range from 3 to 10 along with a MW range from 8 to 150 kDa. Computational analysis of the 2-D gels detected almost 150 protein spots in the extracellular proteome fraction and about 80 protein spots of the cell surface proteome. MALDI-TOF-MS and PMF with trypsin unambiguously identified 107 extracellular protein spots and 53 protein spots of the cell surface, representing in total 85 different proteins of C. diphtheriae C7(s)(-)(tox-). Several of the identified proteins are encoded by pathogenicity islands and might represent virulence factors of C. diphtheriae. Additionally, four solute-binding proteins (HmuT Irp6A, CiuA, and FrgD) of different iron ABC transporters were identified, with the hitherto uncharacterized FrgD protein being the most abundant one of the cell surface proteome of C. diphtheriae C7(s)(-)(tox-).</abstract>
+
+<originInfo><publisher>WILEY-V C H VERLAG GMBH</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>two-dimensional gel electrophoresis</topic><topic>extracellular proteome map</topic><topic>metabolism</topic><topic>virulence factors</topic><topic>iron</topic><topic>Corynebacterium diphtheriae</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>PROTEOMICS</title></titleInfo>
+  <identifier type="issn">1615-9853</identifier>
+  <identifier type="eIssn">1615-9861</identifier>
+  <identifier type="MEDLINE">16544277</identifier>
+  <identifier type="ISI">000237398700015</identifier><identifier type="doi">10.1002/pmic.200500360</identifier>
+<part><detail type="volume"><number>6</number></detail><detail type="issue"><number>8</number></detail><extent unit="pages">2465-2476</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hansmeier, N., Chao, T. C., Kalinowski, J., Pühler, A., &amp;amp; Tauch, A. (2006). Mapping and comprehensive analysis of the extracellular and cell surface proteome of the human pathogen Corynebacterium diphtheriae. &lt;em&gt;PROTEOMICS&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;(8), 2465-2476.&lt;/div&gt;</apa_indent>
+<ieee> N. Hansmeier, et al., “Mapping and comprehensive analysis of the extracellular and cell surface proteome of the human pathogen Corynebacterium diphtheriae”, &lt;em&gt;PROTEOMICS&lt;/em&gt;,  vol. 6, 2006,  pp. 2465-2476.</ieee>
+<lncs> Hansmeier, N., Chao, T.C., Kalinowski, J., Pühler, A., Tauch, A.: Mapping and comprehensive analysis of the extracellular and cell surface proteome of the human pathogen Corynebacterium diphtheriae. PROTEOMICS. 6, 2465-2476 (2006).</lncs>
+<mla>Hansmeier, N., Chao, T. C., Kalinowski, Jörn, Pühler, Alfred, and Tauch, Andreas. “Mapping and comprehensive analysis of the extracellular and cell surface proteome of the human pathogen Corynebacterium diphtheriae”. &lt;em&gt;PROTEOMICS&lt;/em&gt; 6.8 (2006): 2465-2476.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hansmeier, N., Chao, T. C., Kalinowski, Jörn, Pühler, Alfred, and Tauch, Andreas. 2006. “Mapping and comprehensive analysis of the extracellular and cell surface proteome of the human pathogen Corynebacterium diphtheriae”. &lt;em&gt;PROTEOMICS&lt;/em&gt; 6 (8): 2465-2476.&lt;/div&gt;</chicago>
+<angewandte-chemie>N.  Hansmeier, T. C.  Chao, J.  Kalinowski, A.  Pühler, and A.  Tauch, “Mapping and comprehensive analysis of the extracellular and cell surface proteome of the human pathogen Corynebacterium diphtheriae”, &lt;em&gt;PROTEOMICS&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;6&lt;/em&gt;, 2465-2476.</angewandte-chemie>
+<apa>Hansmeier, N., Chao, T. C., Kalinowski, J., Pühler, A., &amp;amp; Tauch, A. (2006). Mapping and comprehensive analysis of the extracellular and cell surface proteome of the human pathogen Corynebacterium diphtheriae. &lt;em&gt;PROTEOMICS&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;(8), 2465-2476.</apa>
+<frontiers>Hansmeier, N., Chao, T. C., Kalinowski, J., Pühler, A., and Tauch, A. (2006). Mapping and comprehensive analysis of the extracellular and cell surface proteome of the human pathogen Corynebacterium diphtheriae. &lt;em&gt;PROTEOMICS&lt;/em&gt; 6, 2465-2476.</frontiers>
+<ama>Hansmeier N, Chao TC, Kalinowski J, Pühler A, Tauch A. Mapping and comprehensive analysis of the extracellular and cell surface proteome of the human pathogen Corynebacterium diphtheriae. &lt;em&gt;PROTEOMICS&lt;/em&gt;. 2006;6(8):2465-2476.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hansmeier, N., Chao, T.C., Kalinowski, J., Pühler, A. &amp;amp; Tauch, A. (2006). Mapping and comprehensive analysis of the extracellular and cell surface proteome of the human pathogen Corynebacterium diphtheriae. &lt;em&gt;PROTEOMICS&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;(8), 2465-2476. WILEY-V C H VERLAG GMBH. doi:10.1002/pmic.200500360.&lt;/div&gt;</dgps>
+<harvard1>Hansmeier, N., et al., 2006. Mapping and comprehensive analysis of the extracellular and cell surface proteome of the human pathogen Corynebacterium diphtheriae. &lt;em&gt;PROTEOMICS&lt;/em&gt;, 6(8), p 2465-2476.</harvard1>
+<bio1>Hansmeier N, Chao TC, Kalinowski J, Pühler A, Tauch A (2006) &lt;br /&gt;Mapping and comprehensive analysis of the extracellular and cell surface proteome of the human pathogen Corynebacterium diphtheriae.&lt;br /&gt;PROTEOMICS 6(8): 2465-2476.</bio1>
+<aps> N.  Hansmeier, et al., Mapping and comprehensive analysis of the extracellular and cell surface proteome of the human pathogen Corynebacterium diphtheriae, PROTEOMICS &lt;strong&gt;6&lt;/strong&gt;, 2465-2476 (2006).</aps>
+<wels>Hansmeier, N.; Chao, T. C.; Kalinowski, J.; Pühler, A.; Tauch, A. (2006): Mapping and comprehensive analysis of the extracellular and cell surface proteome of the human pathogen Corynebacterium diphtheriae &lt;em&gt;PROTEOMICS&lt;/em&gt;,6:(8): 2465-2476.</wels>
+<default>Hansmeier N, Chao TC, Kalinowski J, Pühler A, Tauch A (2006) &lt;br /&gt;PROTEOMICS 6(8): 2465-2476.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1599402</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:19:55Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-11T09:51:45Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1599402</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1599402</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

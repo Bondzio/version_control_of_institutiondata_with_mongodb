@@ -1,0 +1,102 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Good codes can be produced by a few permutations</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Rudolf</namePart>
+  <namePart type="family">Ahlswede</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10479</identifier></name>
+<name type="personal">
+  <namePart type="given">Gunter</namePart>
+  <namePart type="family">Dueck</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Our main result is that good codes, even those meeting the random coding bound, can be produced with relatively few (linear in the block length) permutations from a single codeword. This cutdown in complexity may be of practical importance. The motivation for looking at such codes came from Ahlswede&apos;s covering lemma, which makes it possible to build correlated source codes from channel codes via permutations. In Appendix I we show that the problem of finding the best error exponents for coding sources with full side information at the decoder, which has received attention in the recent literature, can easily be reduced to the familiar one for the discrete memoryless channel (DMC). Finally, in Appendices II and III we give rather precise double exponentially small bounds on the probabilities that a randomly chosen code will fail to meet the random coding or expurgated bound for the DMC. According to these results, good codes are hard to miss if selected at random. This also explains why good codes of a low complexity (such as those produced by permuations) do exist.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Ahlswede_43.pdf">https://pub.uni-bielefeld.de/download/1776125/2312066</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1982</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>IEEE transactions on information theory</title></titleInfo>
+  <identifier type="issn">0018-9448</identifier>
+  <identifier type="ISI">A1982NN86500006</identifier><identifier type="urn">urn:nbn:de:0070-bipr-10896</identifier><identifier type="doi">10.1109/TIT.1982.1056514</identifier>
+<part><detail type="volume"><number>28</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">430-443</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Ahlswede, R.; Dueck, G. (1982): Good codes can be produced by a few permutations &lt;em&gt;IEEE transactions on information theory&lt;/em&gt;,28:(3): 430-443.</wels>
+<default>Ahlswede R, Dueck G (1982) &lt;br /&gt;IEEE transactions on information theory 28(3): 430-443.</default>
+<ama>Ahlswede R, Dueck G. Good codes can be produced by a few permutations. &lt;em&gt;IEEE transactions on information theory&lt;/em&gt;. 1982;28(3):430-443.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R. &amp;amp; Dueck, G. (1982). Good codes can be produced by a few permutations. &lt;em&gt;IEEE transactions on information theory&lt;/em&gt;, &lt;em&gt;28&lt;/em&gt;(3), 430-443. doi:10.1109/TIT.1982.1056514.&lt;/div&gt;</dgps>
+<harvard1>Ahlswede, R., &amp;amp; Dueck, G., 1982. Good codes can be produced by a few permutations. &lt;em&gt;IEEE transactions on information theory&lt;/em&gt;, 28(3), p 430-443.</harvard1>
+<bio1>Ahlswede R, Dueck G (1982) &lt;br /&gt;Good codes can be produced by a few permutations.&lt;br /&gt;IEEE transactions on information theory 28(3): 430-443.</bio1>
+<aps>R.  Ahlswede and G.  Dueck, Good codes can be produced by a few permutations, IEEE transactions on information theory &lt;strong&gt;28&lt;/strong&gt;, 430-443 (1982).</aps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, Rudolf, and Dueck, Gunter. 1982. “Good codes can be produced by a few permutations”. &lt;em&gt;IEEE transactions on information theory&lt;/em&gt; 28 (3): 430-443.&lt;/div&gt;</chicago>
+<angewandte-chemie>R.  Ahlswede, and G.  Dueck, “Good codes can be produced by a few permutations”, &lt;em&gt;IEEE transactions on information theory&lt;/em&gt;, &lt;strong&gt;1982&lt;/strong&gt;, &lt;em&gt;28&lt;/em&gt;, 430-443.</angewandte-chemie>
+<apa>Ahlswede, R., &amp;amp; Dueck, G. (1982). Good codes can be produced by a few permutations. &lt;em&gt;IEEE transactions on information theory&lt;/em&gt;, &lt;em&gt;28&lt;/em&gt;(3), 430-443.</apa>
+<frontiers>Ahlswede, R., and Dueck, G. (1982). Good codes can be produced by a few permutations. &lt;em&gt;IEEE transactions on information theory&lt;/em&gt; 28, 430-443.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R., &amp;amp; Dueck, G. (1982). Good codes can be produced by a few permutations. &lt;em&gt;IEEE transactions on information theory&lt;/em&gt;, &lt;em&gt;28&lt;/em&gt;(3), 430-443.&lt;/div&gt;</apa_indent>
+<ieee>R. Ahlswede and G. Dueck, “Good codes can be produced by a few permutations”, &lt;em&gt;IEEE transactions on information theory&lt;/em&gt;,  vol. 28, 1982,  pp. 430-443.</ieee>
+<lncs>Ahlswede, R., Dueck, G.: Good codes can be produced by a few permutations. IEEE transactions on information theory. 28, 430-443 (1982).</lncs>
+<mla>Ahlswede, Rudolf, and Dueck, Gunter. “Good codes can be produced by a few permutations”. &lt;em&gt;IEEE transactions on information theory&lt;/em&gt; 28.3 (1982): 430-443.</mla>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776125</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776125</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776125</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

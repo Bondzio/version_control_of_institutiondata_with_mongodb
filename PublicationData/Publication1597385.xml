@@ -1,0 +1,99 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Pattern recognition methods for advanced stochastic protein sequence analysis using HMMs</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Thomas</namePart>
+  <namePart type="family">Plötz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Gernot A.</namePart>
+  <namePart type="family">Fink</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Angewandte Informatik</namePart>
+  <identifier type="unibi">18304588</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Currently, Profile Hidden Markov Models (Profile HMMs) are the methodology of choice for probabilistic protein family modeling. Unfortunately, despite substantial progress the general problem of remote homology analysis is still far from being solved. In this article we propose new approaches for robust protein family modeling by consequently exploiting general pattern recognition techniques. A new feature based representation of amino acid sequences serves as the basis for semi-continuous protein family HMMs. Due to this paradigm shift in processing biological sequences the complexity of family models can be reduced substantially resulting in less parameters which need to be trained. This is especially favorable when only little training data is available as in most current tasks of molecular biology research. In various experiments we prove the superior performance of advanced stochastic protein family modeling for remote homology analysis which is especially relevant for e.g. drug discovery applications. (c) 2005 Pattern Recognition Society. Published by Elsevier Ltd. All rights reserved.</abstract>
+
+<originInfo><publisher>PERGAMON-ELSEVIER SCIENCE LTD</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>probabilistic protein family modeling</topic><topic>protein sequence analysis</topic><topic>HMM</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Pattern Recognition</title></titleInfo>
+  <identifier type="issn">0031-3203</identifier>
+  <identifier type="ISI">000241318400002</identifier><identifier type="doi">10.1016/j.patcog.2005.10.007</identifier>
+<part><detail type="volume"><number>39</number></detail><detail type="issue"><number>12</number></detail><extent unit="pages">2267-2280</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>Plötz T, Fink GA (2006) &lt;br /&gt;Pattern recognition methods for advanced stochastic protein sequence analysis using HMMs.&lt;br /&gt;Pattern Recognition 39(12): 2267-2280.</bio1>
+<aps>T.  Plötz and G. A.  Fink, Pattern recognition methods for advanced stochastic protein sequence analysis using HMMs, Pattern Recognition &lt;strong&gt;39&lt;/strong&gt;, 2267-2280 (2006).</aps>
+<ama>Plötz T, Fink GA. Pattern recognition methods for advanced stochastic protein sequence analysis using HMMs. &lt;em&gt;Pattern Recognition&lt;/em&gt;. 2006;39(12):2267-2280.</ama>
+<harvard1>Plötz, T., &amp;amp; Fink, G.A., 2006. Pattern recognition methods for advanced stochastic protein sequence analysis using HMMs. &lt;em&gt;Pattern Recognition&lt;/em&gt;, 39(12), p 2267-2280.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Plötz, T. &amp;amp; Fink, G.A. (2006). Pattern recognition methods for advanced stochastic protein sequence analysis using HMMs. &lt;em&gt;Pattern Recognition&lt;/em&gt;, &lt;em&gt;39&lt;/em&gt;(12), 2267-2280. PERGAMON-ELSEVIER SCIENCE LTD. doi:10.1016/j.patcog.2005.10.007.&lt;/div&gt;</dgps>
+<default>Plötz T, Fink GA (2006) &lt;br /&gt;Pattern Recognition 39(12): 2267-2280.</default>
+<wels>Plötz, T.; Fink, G. A. (2006): Pattern recognition methods for advanced stochastic protein sequence analysis using HMMs &lt;em&gt;Pattern Recognition&lt;/em&gt;,39:(12): 2267-2280.</wels>
+<lncs>Plötz, T., Fink, G.A.: Pattern recognition methods for advanced stochastic protein sequence analysis using HMMs. Pattern Recognition. 39, 2267-2280 (2006).</lncs>
+<mla>Plötz, Thomas, and Fink, Gernot A. “Pattern recognition methods for advanced stochastic protein sequence analysis using HMMs”. &lt;em&gt;Pattern Recognition&lt;/em&gt; 39.12 (2006): 2267-2280.</mla>
+<ieee>T. Plötz and G.A. Fink, “Pattern recognition methods for advanced stochastic protein sequence analysis using HMMs”, &lt;em&gt;Pattern Recognition&lt;/em&gt;,  vol. 39, 2006,  pp. 2267-2280.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Plötz, T., &amp;amp; Fink, G. A. (2006). Pattern recognition methods for advanced stochastic protein sequence analysis using HMMs. &lt;em&gt;Pattern Recognition&lt;/em&gt;, &lt;em&gt;39&lt;/em&gt;(12), 2267-2280.&lt;/div&gt;</apa_indent>
+<frontiers>Plötz, T., and Fink, G. A. (2006). Pattern recognition methods for advanced stochastic protein sequence analysis using HMMs. &lt;em&gt;Pattern Recognition&lt;/em&gt; 39, 2267-2280.</frontiers>
+<apa>Plötz, T., &amp;amp; Fink, G. A. (2006). Pattern recognition methods for advanced stochastic protein sequence analysis using HMMs. &lt;em&gt;Pattern Recognition&lt;/em&gt;, &lt;em&gt;39&lt;/em&gt;(12), 2267-2280.</apa>
+<angewandte-chemie>T.  Plötz, and G. A.  Fink, “Pattern recognition methods for advanced stochastic protein sequence analysis using HMMs”, &lt;em&gt;Pattern Recognition&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;39&lt;/em&gt;, 2267-2280.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Plötz, Thomas, and Fink, Gernot A. 2006. “Pattern recognition methods for advanced stochastic protein sequence analysis using HMMs”. &lt;em&gt;Pattern Recognition&lt;/em&gt; 39 (12): 2267-2280.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1597385</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:18:49Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2013-06-27T08:57:08Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1597385</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1597385</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

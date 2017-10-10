@@ -1,0 +1,110 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>High temperature absorption coefficients of O2, NH3, and H2O for broadband ArF excimer laser radiation</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">David F.</namePart>
+  <namePart type="family">Davidson</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Albert Y.</namePart>
+  <namePart type="family">Chang</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Katharina</namePart>
+  <namePart type="family">Kohse-Höinghaus</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20770</identifier></name>
+<name type="personal">
+  <namePart type="given">Ronald K.</namePart>
+  <namePart type="family">Hanson</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Physikalische Chemie I</namePart>
+  <identifier type="unibi">17978</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Experimentally-determined absorption coefficients for broadband ArF excimer radiation at 193 mm are presented at temperatures up to 3500 K for O2, NH3, and H2O. These values were determined in a high-purity shock tube, either by measuring excimer pulse fractional absorptions or by measuring photolysis-product yields. Correlations between absorption coefficients and vibrational populations of the absorbing species are discussed. Using these absorption coefficients, a prediction can be made of the amount of O, NH2, OH, and H produced in shock-tube excimer-photolysis experiments. This direct production of radicals is attractive for reaction-kinetics studies in high-temperature gases.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Kohse_Hoeinghaus_18.pdf">https://pub.uni-bielefeld.de/download/1777990/2312384</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1989</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Journal of Quantitative Spectroscopy and Radiative Transfer</title></titleInfo>
+  <identifier type="issn">0022-4073</identifier>
+  <identifier type="ISI">A1989AK70800002</identifier><identifier type="urn">urn:nbn:de:0070-pub-17779903</identifier><identifier type="doi">10.1016/0022-4073(89)90073-3</identifier>
+<part><detail type="volume"><number>42</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">267-278</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Davidson, David F., Chang, Albert Y., Kohse-Höinghaus, Katharina, and Hanson, Ronald K. 1989. “High temperature absorption coefficients of O2, NH3, and H2O for broadband ArF excimer laser radiation”. &lt;em&gt;Journal of Quantitative Spectroscopy and Radiative Transfer&lt;/em&gt; 42 (4): 267-278.&lt;/div&gt;</chicago>
+<frontiers>Davidson, D. F., Chang, A. Y., Kohse-Höinghaus, K., and Hanson, R. K. (1989). High temperature absorption coefficients of O2, NH3, and H2O for broadband ArF excimer laser radiation. &lt;em&gt;Journal of Quantitative Spectroscopy and Radiative Transfer&lt;/em&gt; 42, 267-278.</frontiers>
+<angewandte-chemie>D. F.  Davidson, A. Y.  Chang, K.  Kohse-Höinghaus, and R. K.  Hanson, “High temperature absorption coefficients of O2, NH3, and H2O for broadband ArF excimer laser radiation”, &lt;em&gt;Journal of Quantitative Spectroscopy and Radiative Transfer&lt;/em&gt;, &lt;strong&gt;1989&lt;/strong&gt;, &lt;em&gt;42&lt;/em&gt;, 267-278.</angewandte-chemie>
+<apa>Davidson, D. F., Chang, A. Y., Kohse-Höinghaus, K., &amp;amp; Hanson, R. K. (1989). High temperature absorption coefficients of O2, NH3, and H2O for broadband ArF excimer laser radiation. &lt;em&gt;Journal of Quantitative Spectroscopy and Radiative Transfer&lt;/em&gt;, &lt;em&gt;42&lt;/em&gt;(4), 267-278.</apa>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Davidson, D. F., Chang, A. Y., Kohse-Höinghaus, K., &amp;amp; Hanson, R. K. (1989). High temperature absorption coefficients of O2, NH3, and H2O for broadband ArF excimer laser radiation. &lt;em&gt;Journal of Quantitative Spectroscopy and Radiative Transfer&lt;/em&gt;, &lt;em&gt;42&lt;/em&gt;(4), 267-278.&lt;/div&gt;</apa_indent>
+<mla>Davidson, David F., Chang, Albert Y., Kohse-Höinghaus, Katharina, and Hanson, Ronald K. “High temperature absorption coefficients of O2, NH3, and H2O for broadband ArF excimer laser radiation”. &lt;em&gt;Journal of Quantitative Spectroscopy and Radiative Transfer&lt;/em&gt; 42.4 (1989): 267-278.</mla>
+<lncs>Davidson, D.F., Chang, A.Y., Kohse-Höinghaus, K., Hanson, R.K.: High temperature absorption coefficients of O2, NH3, and H2O for broadband ArF excimer laser radiation. Journal of Quantitative Spectroscopy and Radiative Transfer. 42, 267-278 (1989).</lncs>
+<ieee>D.F. Davidson, et al., “High temperature absorption coefficients of O2, NH3, and H2O for broadband ArF excimer laser radiation”, &lt;em&gt;Journal of Quantitative Spectroscopy and Radiative Transfer&lt;/em&gt;,  vol. 42, 1989,  pp. 267-278.</ieee>
+<default>Davidson DF, Chang AY, Kohse-Höinghaus K, Hanson RK (1989) &lt;br /&gt;Journal of Quantitative Spectroscopy and Radiative Transfer 42(4): 267-278.</default>
+<wels>Davidson, D. F.; Chang, A. Y.; Kohse-Höinghaus, K.; Hanson, R. K. (1989): High temperature absorption coefficients of O2, NH3, and H2O for broadband ArF excimer laser radiation &lt;em&gt;Journal of Quantitative Spectroscopy and Radiative Transfer&lt;/em&gt;,42:(4): 267-278.</wels>
+<bio1>Davidson DF, Chang AY, Kohse-Höinghaus K, Hanson RK (1989) &lt;br /&gt;High temperature absorption coefficients of O2, NH3, and H2O for broadband ArF excimer laser radiation.&lt;br /&gt;Journal of Quantitative Spectroscopy and Radiative Transfer 42(4): 267-278.</bio1>
+<aps>D. F.  Davidson, et al., High temperature absorption coefficients of O2, NH3, and H2O for broadband ArF excimer laser radiation, Journal of Quantitative Spectroscopy and Radiative Transfer &lt;strong&gt;42&lt;/strong&gt;, 267-278 (1989).</aps>
+<ama>Davidson DF, Chang AY, Kohse-Höinghaus K, Hanson RK. High temperature absorption coefficients of O2, NH3, and H2O for broadband ArF excimer laser radiation. &lt;em&gt;Journal of Quantitative Spectroscopy and Radiative Transfer&lt;/em&gt;. 1989;42(4):267-278.</ama>
+<harvard1>Davidson, D.F., et al., 1989. High temperature absorption coefficients of O2, NH3, and H2O for broadband ArF excimer laser radiation. &lt;em&gt;Journal of Quantitative Spectroscopy and Radiative Transfer&lt;/em&gt;, 42(4), p 267-278.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Davidson, D.F., Chang, A.Y., Kohse-Höinghaus, K. &amp;amp; Hanson, R.K. (1989). High temperature absorption coefficients of O2, NH3, and H2O for broadband ArF excimer laser radiation. &lt;em&gt;Journal of Quantitative Spectroscopy and Radiative Transfer&lt;/em&gt;, &lt;em&gt;42&lt;/em&gt;(4), 267-278. doi:10.1016/0022-4073(89)90073-3.&lt;/div&gt;</dgps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1777990</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1777990</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1777990</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

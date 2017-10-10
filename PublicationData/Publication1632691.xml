@@ -1,0 +1,92 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference abstract</genre>
+
+<titleInfo><title>Migrant health (cardiovascular in particular) and mortality: The healthy migrant effect in Europe</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Oliver</namePart>
+  <namePart type="family">Razum</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">134970</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">21333</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>KARGER</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host">
+  <identifier type="issn">0250-6807</identifier>
+  <identifier type="ISI">000248185400046</identifier>
+<part><detail type="volume"><number>51</number></detail><detail type="issue"><number>Suppl.1</number></detail><extent unit="pages">25</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee> O. Razum, “Migrant health (cardiovascular in particular) and mortality: The healthy migrant effect in Europe”, KARGER, 2007.</ieee>
+<mla>Razum, Oliver. “Migrant health (cardiovascular in particular) and mortality: The healthy migrant effect in Europe”., KARGER, 2007.</mla>
+<lncs> Razum, O.: Migrant health (cardiovascular in particular) and mortality: The healthy migrant effect in Europe. (2007).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Razum, O. (2007). &lt;em&gt;Migrant health (cardiovascular in particular) and mortality: The healthy migrant effect in Europe&lt;/em&gt;. Presented at the .&lt;/div&gt;</apa_indent>
+<apa>Razum, O. (2007). &lt;em&gt;Migrant health (cardiovascular in particular) and mortality: The healthy migrant effect in Europe&lt;/em&gt;. Presented at the .</apa>
+<angewandte-chemie>O.  Razum, Karger, &lt;strong&gt;2007&lt;/strong&gt;.</angewandte-chemie>
+<frontiers>Razum, O. (2007).“Migrant health (cardiovascular in particular) and mortality: The healthy migrant effect in Europe”.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Razum, Oliver. 2007. “Migrant health (cardiovascular in particular) and mortality: The healthy migrant effect in Europe”. Presented at the . Vol. 51. ANNALS OF NUTRITION AND METABOLISM. KARGER.&lt;/div&gt;</chicago>
+<harvard1>Razum, O., 2007. Migrant health (cardiovascular in particular) and mortality: The healthy migrant effect in Europe.</harvard1>
+<ama>Razum O. Migrant health (cardiovascular in particular) and mortality: The healthy migrant effect in Europe.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Razum, O. (2007). Migrant health (cardiovascular in particular) and mortality: The healthy migrant effect in Europe (ANNALS OF NUTRITION AND METABOLISM). KARGER.&lt;/div&gt;</dgps>
+<aps> O.  Razum, Migrant health (cardiovascular in particular) and mortality: The healthy migrant effect in Europe, ANNALS OF NUTRITION AND METABOLISM, &lt;strong&gt;51&lt;/strong&gt; (KARGER, 2007).</aps>
+<bio1>Razum O (2007) &lt;br /&gt;Migrant health (cardiovascular in particular) and mortality: The healthy migrant effect in Europe.</bio1>
+<wels>Razum, O. (2007): Migrant health (cardiovascular in particular) and mortality: The healthy migrant effect in Europe. KARGER. (ANNALS OF NUTRITION AND METABOLISM, 51).</wels>
+<default>Razum O (2007) .</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1632691</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:06:18Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-28T12:39:08Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1632691</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1632691</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

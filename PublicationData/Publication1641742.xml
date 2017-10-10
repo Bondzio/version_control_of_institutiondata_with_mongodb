@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>CLONING AND EXPRESSION OF HUMAN NEUTROPHIL LIPOCALIN CDNA DERIVED FROM BONE-MARROW AND OVARIAN-CANCER CELLS</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">S</namePart>
+  <namePart type="family">BARTSCH</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Harald</namePart>
+  <namePart type="family">Tschesche</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">19406</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Biochemie I</namePart>
+  <identifier type="unibi">17967</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Human neutrophil lipocalin (HNL) cDNA was amplified by PCR technology in combination with deoxyinosine containing oligonucleotides for cloning, sequencing and production of the recombinant protein in E. coli. The primers were targeted to the corresponding DNA backtranslate of the mature protein resulting in a PCR amplified 534 bp cDNA from different reverse transcripts of ovarian cancer cell line and bone marrow cell mRNAs. Sequence analysis revealed that two different cDNAs from ovarian cancer and bone marrow cells could be obtained. Cloning and expression of HNL cDNAs were performed in E. coli strain HMS 174 [DE3] using the pET system yielding in two recombinant proteins with a molecular weight of 21 kDa which is consistent with an 178 amino acid residues containing sequence of the mature HNL protein, N-terminal amino acid sequence analysis of the expression products showed an identical polypeptide sequence missing the E. coli processed starting methionine.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">1995</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>GELATINASE</topic><topic>LIPOCALIN</topic><topic>INOSINE</topic><topic>OVARIAN CANCER</topic><topic>PCR</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>FEBS LETTERS</title></titleInfo>
+  <identifier type="issn">0014-5793</identifier>
+  <identifier type="MEDLINE">7835423</identifier>
+  <identifier type="ISI">A1995QB66500008</identifier><identifier type="doi">10.1016/0014-5793(94)01303-I</identifier>
+<part><detail type="volume"><number>357</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">255-259</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>BARTSCH S, Tschesche H. CLONING AND EXPRESSION OF HUMAN NEUTROPHIL LIPOCALIN CDNA DERIVED FROM BONE-MARROW AND OVARIAN-CANCER CELLS. &lt;em&gt;FEBS LETTERS&lt;/em&gt;. 1995;357(3):255-259.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;BARTSCH, S. &amp;amp; Tschesche, H. (1995). CLONING AND EXPRESSION OF HUMAN NEUTROPHIL LIPOCALIN CDNA DERIVED FROM BONE-MARROW AND OVARIAN-CANCER CELLS. &lt;em&gt;FEBS LETTERS&lt;/em&gt;, &lt;em&gt;357&lt;/em&gt;(3), 255-259. ELSEVIER SCIENCE BV. doi:10.1016/0014-5793(94)01303-I.&lt;/div&gt;</dgps>
+<harvard1>BARTSCH, S., &amp;amp; Tschesche, H., 1995. CLONING AND EXPRESSION OF HUMAN NEUTROPHIL LIPOCALIN CDNA DERIVED FROM BONE-MARROW AND OVARIAN-CANCER CELLS. &lt;em&gt;FEBS LETTERS&lt;/em&gt;, 357(3), p 255-259.</harvard1>
+<bio1>BARTSCH S, Tschesche H (1995) &lt;br /&gt;CLONING AND EXPRESSION OF HUMAN NEUTROPHIL LIPOCALIN CDNA DERIVED FROM BONE-MARROW AND OVARIAN-CANCER CELLS.&lt;br /&gt;FEBS LETTERS 357(3): 255-259.</bio1>
+<aps>S.  BARTSCH and H.  Tschesche, CLONING AND EXPRESSION OF HUMAN NEUTROPHIL LIPOCALIN CDNA DERIVED FROM BONE-MARROW AND OVARIAN-CANCER CELLS, FEBS LETTERS &lt;strong&gt;357&lt;/strong&gt;, 255-259 (1995).</aps>
+<wels>BARTSCH, S.; Tschesche, H. (1995): CLONING AND EXPRESSION OF HUMAN NEUTROPHIL LIPOCALIN CDNA DERIVED FROM BONE-MARROW AND OVARIAN-CANCER CELLS &lt;em&gt;FEBS LETTERS&lt;/em&gt;,357:(3): 255-259.</wels>
+<default>BARTSCH S, Tschesche H (1995) &lt;br /&gt;FEBS LETTERS 357(3): 255-259.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;BARTSCH, S., &amp;amp; Tschesche, H. (1995). CLONING AND EXPRESSION OF HUMAN NEUTROPHIL LIPOCALIN CDNA DERIVED FROM BONE-MARROW AND OVARIAN-CANCER CELLS. &lt;em&gt;FEBS LETTERS&lt;/em&gt;, &lt;em&gt;357&lt;/em&gt;(3), 255-259.&lt;/div&gt;</apa_indent>
+<ieee>S. BARTSCH and H. Tschesche, “CLONING AND EXPRESSION OF HUMAN NEUTROPHIL LIPOCALIN CDNA DERIVED FROM BONE-MARROW AND OVARIAN-CANCER CELLS”, &lt;em&gt;FEBS LETTERS&lt;/em&gt;,  vol. 357, 1995,  pp. 255-259.</ieee>
+<mla>BARTSCH, S, and Tschesche, Harald. “CLONING AND EXPRESSION OF HUMAN NEUTROPHIL LIPOCALIN CDNA DERIVED FROM BONE-MARROW AND OVARIAN-CANCER CELLS”. &lt;em&gt;FEBS LETTERS&lt;/em&gt; 357.3 (1995): 255-259.</mla>
+<lncs>BARTSCH, S., Tschesche, H.: CLONING AND EXPRESSION OF HUMAN NEUTROPHIL LIPOCALIN CDNA DERIVED FROM BONE-MARROW AND OVARIAN-CANCER CELLS. FEBS LETTERS. 357, 255-259 (1995).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;BARTSCH, S, and Tschesche, Harald. 1995. “CLONING AND EXPRESSION OF HUMAN NEUTROPHIL LIPOCALIN CDNA DERIVED FROM BONE-MARROW AND OVARIAN-CANCER CELLS”. &lt;em&gt;FEBS LETTERS&lt;/em&gt; 357 (3): 255-259.&lt;/div&gt;</chicago>
+<apa>BARTSCH, S., &amp;amp; Tschesche, H. (1995). CLONING AND EXPRESSION OF HUMAN NEUTROPHIL LIPOCALIN CDNA DERIVED FROM BONE-MARROW AND OVARIAN-CANCER CELLS. &lt;em&gt;FEBS LETTERS&lt;/em&gt;, &lt;em&gt;357&lt;/em&gt;(3), 255-259.</apa>
+<angewandte-chemie>S.  BARTSCH, and H.  Tschesche, “CLONING AND EXPRESSION OF HUMAN NEUTROPHIL LIPOCALIN CDNA DERIVED FROM BONE-MARROW AND OVARIAN-CANCER CELLS”, &lt;em&gt;FEBS LETTERS&lt;/em&gt;, &lt;strong&gt;1995&lt;/strong&gt;, &lt;em&gt;357&lt;/em&gt;, 255-259.</angewandte-chemie>
+<frontiers>BARTSCH, S., and Tschesche, H. (1995). CLONING AND EXPRESSION OF HUMAN NEUTROPHIL LIPOCALIN CDNA DERIVED FROM BONE-MARROW AND OVARIAN-CANCER CELLS. &lt;em&gt;FEBS LETTERS&lt;/em&gt; 357, 255-259.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1641742</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:27:24Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-12-08T10:50:06Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1641742</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1641742</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

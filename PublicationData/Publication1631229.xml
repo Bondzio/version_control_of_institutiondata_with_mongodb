@@ -1,0 +1,97 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Macht und Freiheit</title></titleInfo>
+
+  
+  
+<titleInfo type="alternative">
+  
+  <title>Power and freedom</title>
+</titleInfo>
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Marco</namePart>
+  <namePart type="family">Iorio</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">16696</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Abteilung Philosophie</namePart>
+  <identifier type="unibi">10024</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>FROMMANN-HOLZBOOG</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>ALLGEMEINE ZEITSCHRIFT FUR PHILOSOPHIE</title></titleInfo>
+  <identifier type="issn">0340-7969</identifier>
+  <identifier type="ISI">000205748500005</identifier>
+<part><detail type="volume"><number>32</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">299-312</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<angewandte-chemie>M.  Iorio, “Macht und Freiheit”, &lt;em&gt;ALLGEMEINE ZEITSCHRIFT FUR PHILOSOPHIE&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;32&lt;/em&gt;, 299-312.</angewandte-chemie>
+<apa>Iorio, M. (2007). Macht und Freiheit. &lt;em&gt;ALLGEMEINE ZEITSCHRIFT FUR PHILOSOPHIE&lt;/em&gt;, &lt;em&gt;32&lt;/em&gt;(3), 299-312.</apa>
+<frontiers>Iorio, M. (2007). Macht und Freiheit. &lt;em&gt;ALLGEMEINE ZEITSCHRIFT FUR PHILOSOPHIE&lt;/em&gt; 32, 299-312.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Iorio, Marco. 2007. “Macht und Freiheit”. &lt;em&gt;ALLGEMEINE ZEITSCHRIFT FUR PHILOSOPHIE&lt;/em&gt; 32 (3): 299-312.&lt;/div&gt;</chicago>
+<ieee>M. Iorio, “Macht und Freiheit”, &lt;em&gt;ALLGEMEINE ZEITSCHRIFT FUR PHILOSOPHIE&lt;/em&gt;,  vol. 32, 2007,  pp. 299-312.</ieee>
+<mla>Iorio, Marco. “Macht und Freiheit”. &lt;em&gt;ALLGEMEINE ZEITSCHRIFT FUR PHILOSOPHIE&lt;/em&gt; 32.3 (2007): 299-312.</mla>
+<lncs>Iorio, M.: Macht und Freiheit. ALLGEMEINE ZEITSCHRIFT FUR PHILOSOPHIE. 32, 299-312 (2007).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Iorio, M. (2007). Macht und Freiheit. &lt;em&gt;ALLGEMEINE ZEITSCHRIFT FUR PHILOSOPHIE&lt;/em&gt;, &lt;em&gt;32&lt;/em&gt;(3), 299-312.&lt;/div&gt;</apa_indent>
+<wels>Iorio, M. (2007): Macht und Freiheit &lt;em&gt;ALLGEMEINE ZEITSCHRIFT FUR PHILOSOPHIE&lt;/em&gt;,32:(3): 299-312.</wels>
+<default>Iorio M (2007) &lt;br /&gt;ALLGEMEINE ZEITSCHRIFT FUR PHILOSOPHIE 32(3): 299-312.</default>
+<ama>Iorio M. Macht und Freiheit. &lt;em&gt;ALLGEMEINE ZEITSCHRIFT FUR PHILOSOPHIE&lt;/em&gt;. 2007;32(3):299-312.</ama>
+<harvard1>Iorio, M., 2007. Macht und Freiheit. &lt;em&gt;ALLGEMEINE ZEITSCHRIFT FUR PHILOSOPHIE&lt;/em&gt;, 32(3), p 299-312.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Iorio, M. (2007). Macht und Freiheit. &lt;em&gt;ALLGEMEINE ZEITSCHRIFT FUR PHILOSOPHIE&lt;/em&gt;, &lt;em&gt;32&lt;/em&gt;(3), 299-312. FROMMANN-HOLZBOOG.&lt;/div&gt;</dgps>
+<bio1>Iorio M (2007) &lt;br /&gt;Macht und Freiheit.&lt;br /&gt;ALLGEMEINE ZEITSCHRIFT FUR PHILOSOPHIE 32(3): 299-312.</bio1>
+<aps>M.  Iorio, Macht und Freiheit, ALLGEMEINE ZEITSCHRIFT FUR PHILOSOPHIE &lt;strong&gt;32&lt;/strong&gt;, 299-312 (2007).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1631229</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:05:36Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2013-09-10T15:16:04Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1631229</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1631229</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

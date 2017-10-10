@@ -1,0 +1,132 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>An Arabidopsis thaliana T-DNA mutagenized population (GABI-Kat) for flanking sequence tag-based reverse genetics</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Mario G.</namePart>
+  <namePart type="family">Rosso</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Yong</namePart>
+  <namePart type="family">Li</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Nicolai</namePart>
+  <namePart type="family">Strizhov</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Bernd</namePart>
+  <namePart type="family">Reiss</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Koen</namePart>
+  <namePart type="family">Dekker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Bernd</namePart>
+  <namePart type="family">Weisshaar</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">86212</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-7635-3473</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2684836</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070678</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The GABI-Kat population of T-DNA mutagenized Arabidopsis thaliana lines with sequence-characterized insertion sites is used extensively for efficient progress in plant functional genomics. Here we provide details about the establishment of the material, demonstrate the population&apos;s functionality and discuss results from quality control studies. T-DNA insertion mutants of the accession Columbia (Col-0) were created by Agrobacterium tumefaciens-mediated transformation. To allow selection of transformed plants under greenhouse conditions, a sulfadiazine resistance marker was employed. DNA from leaves of T1 plants was extracted and used as a template for PCR-based amplification of DNA fragments spanning insertion site borders. After sequencing, the data were placed in a flanking sequence tag (FST) database describing which mutant allele was present in which line. Analysis of the distribution of T-DNA insertions revealed a clear bias towards intergenic regions. Insertion sites appeared more frequent in regions in front of the ATG and after STOP codons of predicted genes. Segregation analysis for sulfadiazine resistance showed that 62% of the transformants contain an insertion at only one genetic locus. In quality control studies with gene-specific primers in combination with T-DNA primers, 76% of insertions could be confirmed. Finally, the functionality of the GABI-Kat population was demonstrated by exemplary confirmation of several new transparent testa alleles, as well as a number of other mutants, which were identified on the basis of the FST data.</abstract>
+
+<originInfo><publisher>KLUWER ACADEMIC PUBL</publisher><dateIssued encoding="w3cdtf">2003</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>knock-out</topic><topic>insertion mutagenesis</topic><topic>gene function</topic><topic>FST</topic><topic>reverse genetics</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Plant Molecular Biology</title></titleInfo>
+  <identifier type="issn">0167-4412</identifier>
+  <identifier type="MEDLINE">14756321</identifier>
+  <identifier type="ISI">000187356900020</identifier><identifier type="doi">10.1023/B:PLAN.0000009297.37235.4a</identifier>
+<part><detail type="volume"><number>53</number></detail><detail type="issue"><number>1/2</number></detail><extent unit="pages">247-259</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Rosso, M. G., Li, Y., Strizhov, N., Reiss, B., Dekker, K., &amp;amp; Weisshaar, B. (2003). An Arabidopsis thaliana T-DNA mutagenized population (GABI-Kat) for flanking sequence tag-based reverse genetics. &lt;em&gt;Plant Molecular Biology&lt;/em&gt;, &lt;em&gt;53&lt;/em&gt;(1/2), 247-259.&lt;/div&gt;</apa_indent>
+<ieee> M.G. Rosso, et al., “An Arabidopsis thaliana T-DNA mutagenized population (GABI-Kat) for flanking sequence tag-based reverse genetics”, &lt;em&gt;Plant Molecular Biology&lt;/em&gt;,  vol. 53, 2003,  pp. 247-259.</ieee>
+<mla>Rosso, Mario G., Li, Yong, Strizhov, Nicolai, Reiss, Bernd, Dekker, Koen, and Weisshaar, Bernd. “An Arabidopsis thaliana T-DNA mutagenized population (GABI-Kat) for flanking sequence tag-based reverse genetics”. &lt;em&gt;Plant Molecular Biology&lt;/em&gt; 53.1/2 (2003): 247-259.</mla>
+<lncs> Rosso, M.G., Li, Y., Strizhov, N., Reiss, B., Dekker, K., Weisshaar, B.: An Arabidopsis thaliana T-DNA mutagenized population (GABI-Kat) for flanking sequence tag-based reverse genetics. Plant Molecular Biology. 53, 247-259 (2003).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Rosso, Mario G., Li, Yong, Strizhov, Nicolai, Reiss, Bernd, Dekker, Koen, and Weisshaar, Bernd. 2003. “An Arabidopsis thaliana T-DNA mutagenized population (GABI-Kat) for flanking sequence tag-based reverse genetics”. &lt;em&gt;Plant Molecular Biology&lt;/em&gt; 53 (1/2): 247-259.&lt;/div&gt;</chicago>
+<angewandte-chemie>M. G.  Rosso, Y.  Li, N.  Strizhov, B.  Reiss, K.  Dekker, and B.  Weisshaar, “An Arabidopsis thaliana T-DNA mutagenized population (GABI-Kat) for flanking sequence tag-based reverse genetics”, &lt;em&gt;Plant Molecular Biology&lt;/em&gt;, &lt;strong&gt;2003&lt;/strong&gt;, &lt;em&gt;53&lt;/em&gt;, 247-259.</angewandte-chemie>
+<apa>Rosso, M. G., Li, Y., Strizhov, N., Reiss, B., Dekker, K., &amp;amp; Weisshaar, B. (2003). An Arabidopsis thaliana T-DNA mutagenized population (GABI-Kat) for flanking sequence tag-based reverse genetics. &lt;em&gt;Plant Molecular Biology&lt;/em&gt;, &lt;em&gt;53&lt;/em&gt;(1/2), 247-259.</apa>
+<frontiers>Rosso, M. G., Li, Y., Strizhov, N., Reiss, B., Dekker, K., and Weisshaar, B. (2003). An Arabidopsis thaliana T-DNA mutagenized population (GABI-Kat) for flanking sequence tag-based reverse genetics. &lt;em&gt;Plant Molecular Biology&lt;/em&gt; 53, 247-259.</frontiers>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Rosso, M.G., Li, Y., Strizhov, N., Reiss, B., Dekker, K. &amp;amp; Weisshaar, B. (2003). An Arabidopsis thaliana T-DNA mutagenized population (GABI-Kat) for flanking sequence tag-based reverse genetics. &lt;em&gt;Plant Molecular Biology&lt;/em&gt;, &lt;em&gt;53&lt;/em&gt;(1/2), 247-259. KLUWER ACADEMIC PUBL. doi:10.1023/B:PLAN.0000009297.37235.4a.&lt;/div&gt;</dgps>
+<harvard1>Rosso, M.G., et al., 2003. An Arabidopsis thaliana T-DNA mutagenized population (GABI-Kat) for flanking sequence tag-based reverse genetics. &lt;em&gt;Plant Molecular Biology&lt;/em&gt;, 53(1/2), p 247-259.</harvard1>
+<ama>Rosso MG, Li Y, Strizhov N, Reiss B, Dekker K, Weisshaar B. An Arabidopsis thaliana T-DNA mutagenized population (GABI-Kat) for flanking sequence tag-based reverse genetics. &lt;em&gt;Plant Molecular Biology&lt;/em&gt;. 2003;53(1/2):247-259.</ama>
+<bio1>Rosso MG, Li Y, Strizhov N, Reiss B, Dekker K, Weisshaar B (2003) &lt;br /&gt;An Arabidopsis thaliana T-DNA mutagenized population (GABI-Kat) for flanking sequence tag-based reverse genetics.&lt;br /&gt;Plant Molecular Biology 53(1/2): 247-259.</bio1>
+<aps> M. G.  Rosso, et al., An Arabidopsis thaliana T-DNA mutagenized population (GABI-Kat) for flanking sequence tag-based reverse genetics, Plant Molecular Biology &lt;strong&gt;53&lt;/strong&gt;, 247-259 (2003).</aps>
+<wels>Rosso, M. G.; Li, Y.; Strizhov, N.; Reiss, B.; Dekker, K.; Weisshaar, B. (2003): An Arabidopsis thaliana T-DNA mutagenized population (GABI-Kat) for flanking sequence tag-based reverse genetics &lt;em&gt;Plant Molecular Biology&lt;/em&gt;,53:(1/2): 247-259.</wels>
+<default>Rosso MG, Li Y, Strizhov N, Reiss B, Dekker K, Weisshaar B (2003) &lt;br /&gt;Plant Molecular Biology 53(1/2): 247-259.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1609190</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:58:32Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-09-22T08:55:34Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1609190</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1609190</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

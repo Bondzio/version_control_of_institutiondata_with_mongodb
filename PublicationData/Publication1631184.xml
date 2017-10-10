@@ -1,0 +1,135 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The visual active memory perspective on integrated recognition systems</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">Bauckhage</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">4361661</identifier></name>
+<name type="personal">
+  <namePart type="given">Sven</namePart>
+  <namePart type="family">Wachsmuth</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10378</identifier></name>
+<name type="personal">
+  <namePart type="given">Marc</namePart>
+  <namePart type="family">Hanheide</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">45581</identifier></name>
+<name type="personal">
+  <namePart type="given">Sebastian</namePart>
+  <namePart type="family">Wrede</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">76091</identifier></name>
+<name type="personal">
+  <namePart type="given">Gerhard</namePart>
+  <namePart type="family">Sagerer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10375</identifier></name>
+<name type="personal">
+  <namePart type="given">Gunther</namePart>
+  <namePart type="family">Heidemann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Helge</namePart>
+  <namePart type="family">Ritter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">91130</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Center of Excellence - Cognitive Interaction Technology CITEC</namePart>
+  <identifier type="unibi">8014655</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Neuroinformatik</namePart>
+  <identifier type="unibi">10038</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Angewandte Informatik</namePart>
+  <identifier type="unibi">18304588</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Object recognition is the ability of a system to relate visual stimuli to its knowledge of the world. Although humans perform this task effortlessly and without thinking about it, a general algorithmic solution has not yet been found. Recently, a shift from devising isolated recognition techniques towards integrated systems could be observed [Y. Aloimonos, Active vision revisited, in: Y. Aloimonos (Ed.), Active Perception, Lawrence Efibaum, 1993, pp. 1-18; H. Christensen, Cognitive (vision) systems, ERCIM News (April, 2003). 1718]. The visual active memory (VAM) perspective refines this system view towards an interactive computational framework for recognition systems in human everyday environments. VAM is in line with the recently emerged Cognitive Vision paradigm [H. Christensen, Cognitive (vision) systems, ERCIM News (April, 2003). 17-18] which is concerned with vision systems that evaluate, gather and integrate contextual knowledge for visual analysis. It consists of active processes that generate knowledge by means of a tight cooperation of perception, reasoning, learning and prior models. In addition, VAM emphasizes the dynamic representation of gathered knowledge. The memory is assumed to be structured in a hierarchy of successive memory systems that mediate the modularly defined processing components of the recognition system. Recognition and learning take place in the stress field of objects, actions, activities, scene context, and user interaction. In this paper, we exemplify the VAM perspective by means of existing demonstrator systems. Assuming three different perspectives (biological foundation, system engineering, and computer vision), we will show that the VAM concept is central to the cognitive capabilities of the system and that it leads to a more general object recognition framework. (c) 2006 Elsevier B.V. All rights reserved.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>cognitive vision</topic><topic>architecture</topic><topic>system</topic><topic>fusion</topic><topic>contextual reasoning</topic><topic>integration</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>IMAGE AND VISION COMPUTING</title></titleInfo>
+  <identifier type="issn">0262-8856</identifier>
+  <identifier type="ISI">000251299100002</identifier><identifier type="doi">10.1016/j.imavis.2005.08.008</identifier>
+<part><detail type="volume"><number>26</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">5-14</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<lncs>Bauckhage, C., Wachsmuth, S., Hanheide, M., Wrede, S., Sagerer, G., Heidemann, G., Ritter, H.: The visual active memory perspective on integrated recognition systems. IMAGE AND VISION COMPUTING. 26, 5-14 (2008).</lncs>
+<mla>Bauckhage, Christian, Wachsmuth, Sven, Hanheide, Marc, Wrede, Sebastian, Sagerer, Gerhard, Heidemann, Gunther, and Ritter, Helge. “The visual active memory perspective on integrated recognition systems”. &lt;em&gt;IMAGE AND VISION COMPUTING&lt;/em&gt; 26.1 (2008): 5-14.</mla>
+<ieee>C. Bauckhage, et al., “The visual active memory perspective on integrated recognition systems”, &lt;em&gt;IMAGE AND VISION COMPUTING&lt;/em&gt;,  vol. 26, 2008,  pp. 5-14.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bauckhage, C., Wachsmuth, S., Hanheide, M., Wrede, S., Sagerer, G., Heidemann, G., &amp;amp; Ritter, H. (2008). The visual active memory perspective on integrated recognition systems. &lt;em&gt;IMAGE AND VISION COMPUTING&lt;/em&gt;, &lt;em&gt;26&lt;/em&gt;(1), 5-14.&lt;/div&gt;</apa_indent>
+<frontiers>Bauckhage, C., Wachsmuth, S., Hanheide, M., Wrede, S., Sagerer, G., Heidemann, G., and Ritter, H. (2008). The visual active memory perspective on integrated recognition systems. &lt;em&gt;IMAGE AND VISION COMPUTING&lt;/em&gt; 26, 5-14.</frontiers>
+<angewandte-chemie>C.  Bauckhage, S.  Wachsmuth, M.  Hanheide, S.  Wrede, G.  Sagerer, G.  Heidemann, and H.  Ritter, “The visual active memory perspective on integrated recognition systems”, &lt;em&gt;IMAGE AND VISION COMPUTING&lt;/em&gt;, &lt;strong&gt;2008&lt;/strong&gt;, &lt;em&gt;26&lt;/em&gt;, 5-14.</angewandte-chemie>
+<apa>Bauckhage, C., Wachsmuth, S., Hanheide, M., Wrede, S., Sagerer, G., Heidemann, G., &amp;amp; Ritter, H. (2008). The visual active memory perspective on integrated recognition systems. &lt;em&gt;IMAGE AND VISION COMPUTING&lt;/em&gt;, &lt;em&gt;26&lt;/em&gt;(1), 5-14.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bauckhage, Christian, Wachsmuth, Sven, Hanheide, Marc, Wrede, Sebastian, Sagerer, Gerhard, Heidemann, Gunther, and Ritter, Helge. 2008. “The visual active memory perspective on integrated recognition systems”. &lt;em&gt;IMAGE AND VISION COMPUTING&lt;/em&gt; 26 (1): 5-14.&lt;/div&gt;</chicago>
+<bio1>Bauckhage C, Wachsmuth S, Hanheide M, Wrede S, Sagerer G, Heidemann G, Ritter H (2008) &lt;br /&gt;The visual active memory perspective on integrated recognition systems.&lt;br /&gt;IMAGE AND VISION COMPUTING 26(1): 5-14.</bio1>
+<aps>C.  Bauckhage, et al., The visual active memory perspective on integrated recognition systems, IMAGE AND VISION COMPUTING &lt;strong&gt;26&lt;/strong&gt;, 5-14 (2008).</aps>
+<ama>Bauckhage C, Wachsmuth S, Hanheide M, et al. The visual active memory perspective on integrated recognition systems. &lt;em&gt;IMAGE AND VISION COMPUTING&lt;/em&gt;. 2008;26(1):5-14.</ama>
+<harvard1>Bauckhage, C., et al., 2008. The visual active memory perspective on integrated recognition systems. &lt;em&gt;IMAGE AND VISION COMPUTING&lt;/em&gt;, 26(1), p 5-14.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bauckhage, C., Wachsmuth, S., Hanheide, M., Wrede, S., Sagerer, G., Heidemann, G. &amp;amp; Ritter, H. (2008). The visual active memory perspective on integrated recognition systems. &lt;em&gt;IMAGE AND VISION COMPUTING&lt;/em&gt;, &lt;em&gt;26&lt;/em&gt;(1), 5-14. ELSEVIER SCIENCE BV. doi:10.1016/j.imavis.2005.08.008.&lt;/div&gt;</dgps>
+<default>Bauckhage C, Wachsmuth S, Hanheide M, Wrede S, Sagerer G, Heidemann G, Ritter H (2008) &lt;br /&gt;IMAGE AND VISION COMPUTING 26(1): 5-14.</default>
+<wels>Bauckhage, C.; Wachsmuth, S.; Hanheide, M.; Wrede, S.; Sagerer, G.; Heidemann, G.; Ritter, H. (2008): The visual active memory perspective on integrated recognition systems &lt;em&gt;IMAGE AND VISION COMPUTING&lt;/em&gt;,26:(1): 5-14.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1631184</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:05:33Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2013-06-20T14:55:17Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1631184</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1631184</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

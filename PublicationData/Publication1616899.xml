@@ -1,0 +1,107 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Cluster percolation and pseudocritical behaviour in spin models</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">S</namePart>
+  <namePart type="family">Fortunato</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Helmut</namePart>
+  <namePart type="family">Satz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40339</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Phänomenologie von Schwerionenkollisionen</namePart>
+  <identifier type="unibi">23470601</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The critical behaviour of many spin models can be equivalently formulated as percolation of specific site-bond clusters. In the presence of an external magnetic field, such clusters remain well-defined and lead to a percolation transition, even though the system no longer shows thermal critical behaviour. We investigate the 2-dimensional Ising model and the 3-dimensional O(2) model by means of Monte Carlo simulations. We find for small fields that the line of percolation critical points has the same functional form as the line of thermal pseudocritical points. (C) 2001 Published by Elsevier Science B.V.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">2001</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>PHYSICS LETTERS B</title></titleInfo>
+  <identifier type="issn">0370-2693</identifier>
+  <identifier type="arXiv">hep-lat/0103010</identifier>
+  <identifier type="INSPIRE">554063</identifier>
+  <identifier type="ISI">000169426200026</identifier><identifier type="doi">10.1016/S0370-2693(01)00551-2</identifier>
+<part><detail type="volume"><number>509</number></detail><detail type="issue"><number>1-2</number></detail><extent unit="pages">189-195</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fortunato, S., &amp;amp; Satz, H. (2001). Cluster percolation and pseudocritical behaviour in spin models. &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt;, &lt;em&gt;509&lt;/em&gt;(1-2), 189-195.&lt;/div&gt;</apa_indent>
+<ieee>S. Fortunato and H. Satz, “Cluster percolation and pseudocritical behaviour in spin models”, &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt;,  vol. 509, 2001,  pp. 189-195.</ieee>
+<lncs>Fortunato, S., Satz, H.: Cluster percolation and pseudocritical behaviour in spin models. PHYSICS LETTERS B. 509, 189-195 (2001).</lncs>
+<mla>Fortunato, S, and Satz, Helmut. “Cluster percolation and pseudocritical behaviour in spin models”. &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt; 509.1-2 (2001): 189-195.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fortunato, S, and Satz, Helmut. 2001. “Cluster percolation and pseudocritical behaviour in spin models”. &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt; 509 (1-2): 189-195.&lt;/div&gt;</chicago>
+<angewandte-chemie>S.  Fortunato, and H.  Satz, “Cluster percolation and pseudocritical behaviour in spin models”, &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt;, &lt;strong&gt;2001&lt;/strong&gt;, &lt;em&gt;509&lt;/em&gt;, 189-195.</angewandte-chemie>
+<apa>Fortunato, S., &amp;amp; Satz, H. (2001). Cluster percolation and pseudocritical behaviour in spin models. &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt;, &lt;em&gt;509&lt;/em&gt;(1-2), 189-195.</apa>
+<frontiers>Fortunato, S., and Satz, H. (2001). Cluster percolation and pseudocritical behaviour in spin models. &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt; 509, 189-195.</frontiers>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fortunato, S. &amp;amp; Satz, H. (2001). Cluster percolation and pseudocritical behaviour in spin models. &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt;, &lt;em&gt;509&lt;/em&gt;(1-2), 189-195. ELSEVIER SCIENCE BV. doi:10.1016/S0370-2693(01)00551-2.&lt;/div&gt;</dgps>
+<harvard1>Fortunato, S., &amp;amp; Satz, H., 2001. Cluster percolation and pseudocritical behaviour in spin models. &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt;, 509(1-2), p 189-195.</harvard1>
+<ama>Fortunato S, Satz H. Cluster percolation and pseudocritical behaviour in spin models. &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt;. 2001;509(1-2):189-195.</ama>
+<bio1>Fortunato S, Satz H (2001) &lt;br /&gt;Cluster percolation and pseudocritical behaviour in spin models.&lt;br /&gt;PHYSICS LETTERS B 509(1-2): 189-195.</bio1>
+<aps>S.  Fortunato and H.  Satz, Cluster percolation and pseudocritical behaviour in spin models, PHYSICS LETTERS B &lt;strong&gt;509&lt;/strong&gt;, 189-195 (2001).</aps>
+<wels>Fortunato, S.; Satz, H. (2001): Cluster percolation and pseudocritical behaviour in spin models &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt;,509:(1-2): 189-195.</wels>
+<default>Fortunato S, Satz H (2001) &lt;br /&gt;PHYSICS LETTERS B 509(1-2): 189-195.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1616899</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:02:59Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-27T13:33:24Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1616899</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1616899</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

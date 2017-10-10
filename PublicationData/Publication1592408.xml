@@ -1,0 +1,145 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Anti-plasmodial and cholinesterase inhibiting activities of some constituents of Psorospermum glaberrimum</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Bruno Ndjakou</namePart>
+  <namePart type="family">Lenta</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Krishna Prasad</namePart>
+  <namePart type="family">Devkota</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Silvere</namePart>
+  <namePart type="family">Ngouela</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Fabrice Fekam</namePart>
+  <namePart type="family">Boyom</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Quamar</namePart>
+  <namePart type="family">Naz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Muhammad Lqbal</namePart>
+  <namePart type="family">Choudhary</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Etienne</namePart>
+  <namePart type="family">Tsamo</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Philip Jon</namePart>
+  <namePart type="family">Rosenthal</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Norbert</namePart>
+  <namePart type="family">Sewald</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20281</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">4838684</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">17977</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33086655</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Glaberianthrone (1), a new bianthrone was isolated from the hexane extract of the stem bark of Psorospermum glaberrimum together with thirteen known compounds: 3-geranyloxyemodin anthrone (2), friedelan-3-one (3), 3-prenyloxyemodin anthrone (4), 3-geranyloxyemodin (5), 3-prenyloxyemodin (6), friedelan-3-ol (7), acetylvismione D (8), betulinic acid (9), 2-geranylemodin (10), bianthrone A2b (11), bianthrone 1a (12), emodin (13) and 2-prenylemodin (14). The structures of the isolated compounds were established by means of spectroscopic methods. The extracts and the isolated compounds were tested in vitro for their anti-plasmodial activity against Plasmodium falciparum (chloroquine resistant strain W2) and for their acetyl- and butyryleholinesterase inhibitory properties. The n-hexane extract showed good anti-plasmodial activity against P falciparum W2 strain, with IC50 of 0.87 mu g/ml. It also exhibited 65.5% and 98.2% of acetyl- and butyrylcholinesterase inhibition at 0.2 mg/ml, respectively. Compounds 2 and 8 showed the best potencies against P falciparum W2 strain with IC50 of 1.68 mu M and 0.12 mu M, (0.66 mu g/ml and 0.054 mu g/ml) respectively. All tested compounds showed good butyrylcholinesterase inhibition activities with compound 12 displaying the best potency (IC50 9.25 +/- 0.25 mu M). All the tested compounds showed weak inhibitory activity against acetylcholinesterase.</abstract>
+
+<originInfo><publisher>PHARMACEUTICAL SOC JAPAN</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>cholinesterase inhibition</topic><topic>Psorospermum glaberrimum</topic><topic>anthranoid</topic><topic>Hypericaceae</topic><topic>anti-plasmodial</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>CHEMICAL &amp; PHARMACEUTICAL BULLETIN</title></titleInfo>
+  <identifier type="issn">0009-2363</identifier>
+  <identifier type="eIssn">1347-5223</identifier>
+  <identifier type="MEDLINE">18239315</identifier>
+  <identifier type="ISI">000253844700019</identifier><identifier type="doi">10.1248/cpb.56.222</identifier>
+<part><detail type="volume"><number>56</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">222-226</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lenta, Bruno Ndjakou, Devkota, Krishna Prasad, Ngouela, Silvere, Boyom, Fabrice Fekam, Naz, Quamar, Choudhary, Muhammad Lqbal, Tsamo, Etienne, Rosenthal, Philip Jon, and Sewald, Norbert. 2008. “Anti-plasmodial and cholinesterase inhibiting activities of some constituents of Psorospermum glaberrimum”. &lt;em&gt;CHEMICAL &amp;amp; PHARMACEUTICAL BULLETIN&lt;/em&gt; 56 (2): 222-226.&lt;/div&gt;</chicago>
+<frontiers>Lenta, B. N., Devkota, K. P., Ngouela, S., Boyom, F. F., Naz, Q., Choudhary, M. L., Tsamo, E., Rosenthal, P. J., and Sewald, N. (2008). Anti-plasmodial and cholinesterase inhibiting activities of some constituents of Psorospermum glaberrimum. &lt;em&gt;CHEMICAL &amp;amp; PHARMACEUTICAL BULLETIN&lt;/em&gt; 56, 222-226.</frontiers>
+<angewandte-chemie>B. N.  Lenta, K. P.  Devkota, S.  Ngouela, F. F.  Boyom, Q.  Naz, M. L.  Choudhary, E.  Tsamo, P. J.  Rosenthal, and N.  Sewald, “Anti-plasmodial and cholinesterase inhibiting activities of some constituents of Psorospermum glaberrimum”, &lt;em&gt;CHEMICAL &amp;amp; PHARMACEUTICAL BULLETIN&lt;/em&gt;, &lt;strong&gt;2008&lt;/strong&gt;, &lt;em&gt;56&lt;/em&gt;, 222-226.</angewandte-chemie>
+<apa>Lenta, B. N., Devkota, K. P., Ngouela, S., Boyom, F. F., Naz, Q., Choudhary, M. L., Tsamo, E., et al. (2008). Anti-plasmodial and cholinesterase inhibiting activities of some constituents of Psorospermum glaberrimum. &lt;em&gt;CHEMICAL &amp;amp; PHARMACEUTICAL BULLETIN&lt;/em&gt;, &lt;em&gt;56&lt;/em&gt;(2), 222-226.</apa>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lenta, B. N., Devkota, K. P., Ngouela, S., Boyom, F. F., Naz, Q., Choudhary, M. L., Tsamo, E., et al. (2008). Anti-plasmodial and cholinesterase inhibiting activities of some constituents of Psorospermum glaberrimum. &lt;em&gt;CHEMICAL &amp;amp; PHARMACEUTICAL BULLETIN&lt;/em&gt;, &lt;em&gt;56&lt;/em&gt;(2), 222-226.&lt;/div&gt;</apa_indent>
+<lncs> Lenta, B.N., Devkota, K.P., Ngouela, S., Boyom, F.F., Naz, Q., Choudhary, M.L., Tsamo, E., Rosenthal, P.J., Sewald, N.: Anti-plasmodial and cholinesterase inhibiting activities of some constituents of Psorospermum glaberrimum. CHEMICAL &amp;amp; PHARMACEUTICAL BULLETIN. 56, 222-226 (2008).</lncs>
+<mla>Lenta, Bruno Ndjakou, Devkota, Krishna Prasad, Ngouela, Silvere, Boyom, Fabrice Fekam, Naz, Quamar, Choudhary, Muhammad Lqbal, Tsamo, Etienne, Rosenthal, Philip Jon, and Sewald, Norbert. “Anti-plasmodial and cholinesterase inhibiting activities of some constituents of Psorospermum glaberrimum”. &lt;em&gt;CHEMICAL &amp;amp; PHARMACEUTICAL BULLETIN&lt;/em&gt; 56.2 (2008): 222-226.</mla>
+<ieee> B.N. Lenta, et al., “Anti-plasmodial and cholinesterase inhibiting activities of some constituents of Psorospermum glaberrimum”, &lt;em&gt;CHEMICAL &amp;amp; PHARMACEUTICAL BULLETIN&lt;/em&gt;,  vol. 56, 2008,  pp. 222-226.</ieee>
+<default>Lenta BN, Devkota KP, Ngouela S, Boyom FF, Naz Q, Choudhary ML, Tsamo E, Rosenthal PJ, Sewald N (2008) &lt;br /&gt;CHEMICAL &amp;amp; PHARMACEUTICAL BULLETIN 56(2): 222-226.</default>
+<wels>Lenta, B. N.; Devkota, K. P.; Ngouela, S.; Boyom, F. F.; Naz, Q.; Choudhary, M. L.; Tsamo, E.; Rosenthal, P. J.; Sewald, N. (2008): Anti-plasmodial and cholinesterase inhibiting activities of some constituents of Psorospermum glaberrimum &lt;em&gt;CHEMICAL &amp;amp; PHARMACEUTICAL BULLETIN&lt;/em&gt;,56:(2): 222-226.</wels>
+<aps> B. N.  Lenta, et al., Anti-plasmodial and cholinesterase inhibiting activities of some constituents of Psorospermum glaberrimum, CHEMICAL &amp;amp; PHARMACEUTICAL BULLETIN &lt;strong&gt;56&lt;/strong&gt;, 222-226 (2008).</aps>
+<bio1>Lenta BN, Devkota KP, Ngouela S, Boyom FF, Naz Q, Choudhary ML, Tsamo E, Rosenthal PJ, Sewald N (2008) &lt;br /&gt;Anti-plasmodial and cholinesterase inhibiting activities of some constituents of Psorospermum glaberrimum.&lt;br /&gt;CHEMICAL &amp;amp; PHARMACEUTICAL BULLETIN 56(2): 222-226.</bio1>
+<harvard1>Lenta, B.N., et al., 2008. Anti-plasmodial and cholinesterase inhibiting activities of some constituents of Psorospermum glaberrimum. &lt;em&gt;CHEMICAL &amp;amp; PHARMACEUTICAL BULLETIN&lt;/em&gt;, 56(2), p 222-226.</harvard1>
+<ama>Lenta BN, Devkota KP, Ngouela S, et al. Anti-plasmodial and cholinesterase inhibiting activities of some constituents of Psorospermum glaberrimum. &lt;em&gt;CHEMICAL &amp;amp; PHARMACEUTICAL BULLETIN&lt;/em&gt;. 2008;56(2):222-226.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lenta, B.N., Devkota, K.P., Ngouela, S., Boyom, F.F., Naz, Q., Choudhary, M.L., Tsamo, E., Rosenthal, P.J. &amp;amp; Sewald, N. (2008). Anti-plasmodial and cholinesterase inhibiting activities of some constituents of Psorospermum glaberrimum. &lt;em&gt;CHEMICAL &amp;amp; PHARMACEUTICAL BULLETIN&lt;/em&gt;, &lt;em&gt;56&lt;/em&gt;(2), 222-226. PHARMACEUTICAL SOC JAPAN. doi:10.1248/cpb.56.222.&lt;/div&gt;</dgps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1592408</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T11:50:34Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-08-03T09:09:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1592408</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1592408</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

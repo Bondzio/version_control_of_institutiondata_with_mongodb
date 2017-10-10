@@ -1,0 +1,99 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>&apos;Politik&apos; im Bild? Überlegungen zum Verhältnis von Begriff und Bild</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Bettina</namePart>
+  <namePart type="family">Brandt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">42776</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Willibald</namePart><namePart type="family">Steinmetz</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Geschichtswissenschaft, Philosophie und Theologie</namePart>
+  <identifier type="unibi">10022</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Schule für Historische Forschung</namePart>
+  <identifier type="unibi">3652153</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Campus</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>&quot;Politik&quot;. Situationen eines Wortgebrauchs im Europa der Neuzeit</title></titleInfo>
+<part><detail type="volume"><number>14</number></detail><extent unit="pages">41-71</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<lncs>Brandt, B.: &apos;Politik&apos; im Bild? Überlegungen zum Verhältnis von Begriff und Bild. In: Steinmetz, W. (ed.) &quot;Politik&quot;. Situationen eines Wortgebrauchs im Europa der Neuzeit. 14, Historische Politikforschung. p. 41-71. Campus, Frankfurt a.M. / New York (2007).</lncs>
+<mla>Brandt, Bettina. “&apos;Politik&apos; im Bild? Überlegungen zum Verhältnis von Begriff und Bild”. &lt;em&gt;&quot;Politik&quot;. Situationen eines Wortgebrauchs im Europa der Neuzeit&lt;/em&gt;. Ed. Willibald Steinmetz. Historische Politikforschung. Frankfurt a.M. / New York: Campus, 2007.Vol. 14. 41-71.</mla>
+<ieee>B. Brandt, “&apos;Politik&apos; im Bild? Überlegungen zum Verhältnis von Begriff und Bild”, &lt;em&gt;&quot;Politik&quot;. Situationen eines Wortgebrauchs im Europa der Neuzeit&lt;/em&gt;, W. Steinmetz, ed., vol. 14, Historische Politikforschung.,  Frankfurt a.M. / New York: Campus, 2007,  pp.41-71.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Brandt, B. (2007). &apos;Politik&apos; im Bild? Überlegungen zum Verhältnis von Begriff und Bild. In W.  Steinmetz (Ed.), &lt;em&gt;&quot;Politik&quot;. Situationen eines Wortgebrauchs im Europa der Neuzeit&lt;/em&gt; (Historische Politikforschung., Vol. 14, pp. 41-71). Frankfurt a.M. / New York: Campus.&lt;/div&gt;</apa_indent>
+<frontiers>Brandt, B. (2007). “&apos;Politik&apos; im Bild? Überlegungen zum Verhältnis von Begriff und Bild” in &lt;em&gt;&quot;Politik&quot;. Situationen eines Wortgebrauchs im Europa der Neuzeit&lt;/em&gt;, ed. W.  Steinmetz, vol. 14, Historische Politikforschung. (Frankfurt a.M. / New York: Campus), 41-71.</frontiers>
+<angewandte-chemie>B.  Brandt, in &lt;em&gt;&quot;Politik&quot;. Situationen eines Wortgebrauchs im Europa der Neuzeit&lt;/em&gt; (Ed.: W. Steinmetz), Campus, Frankfurt a.M. / New York, &lt;strong&gt;2007&lt;/strong&gt;, p. 41-71.</angewandte-chemie>
+<apa>Brandt, B. (2007). &apos;Politik&apos; im Bild? Überlegungen zum Verhältnis von Begriff und Bild. In W.  Steinmetz (Ed.), &lt;em&gt;&quot;Politik&quot;. Situationen eines Wortgebrauchs im Europa der Neuzeit&lt;/em&gt; (Historische Politikforschung., Vol. 14, pp. 41-71). Frankfurt a.M. / New York: Campus.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Brandt, Bettina. 2007. “&apos;Politik&apos; im Bild? Überlegungen zum Verhältnis von Begriff und Bild”. In &lt;em&gt;&quot;Politik&quot;. Situationen eines Wortgebrauchs im Europa der Neuzeit&lt;/em&gt;, ed. Willibald Steinmetz, Historische Politikforschung, 14:41-71. Frankfurt a.M. / New York: Campus.&lt;/div&gt;</chicago>
+<aps>B.  Brandt, &apos;Politik&apos; im Bild? Überlegungen zum Verhältnis von Begriff und Bild, in &lt;em&gt;&quot;Politik&quot;. Situationen eines Wortgebrauchs im Europa der Neuzeit&lt;/em&gt;, edited by W.  Steinmetz, &lt;strong&gt;14&lt;/strong&gt;, Historische Politikforschung (Campus, Frankfurt A.m. / New York, 2007), p. 41-71.</aps>
+<bio1>Brandt B (2007) &lt;br /&gt;&apos;Politik&apos; im Bild? Überlegungen zum Verhältnis von Begriff und Bild. &lt;br /&gt;In:  &quot;Politik&quot;. Situationen eines Wortgebrauchs im Europa der Neuzeit. Steinmetz W (Ed);14. Historische Politikforschung. Frankfurt a.M. / New York: Campus:  41-71.</bio1>
+<ama>Brandt B. &apos;Politik&apos; im Bild? Überlegungen zum Verhältnis von Begriff und Bild. In: Steinmetz W, ed. &lt;em&gt;&quot;Politik&quot;. Situationen eines Wortgebrauchs im Europa der Neuzeit&lt;/em&gt;. Vol 14. Historische Politikforschung. Frankfurt a.M. / New York: Campus;  2007: 41-71.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Brandt, B. (2007). &apos;Politik&apos; im Bild? Überlegungen zum Verhältnis von Begriff und Bild. &lt;em&gt;&quot;Politik&quot;. Situationen eines Wortgebrauchs im Europa der Neuzeit&lt;/em&gt; (Historische Politikforschung., S. 41-71). Frankfurt a.M. / New York: Campus.&lt;/div&gt;</dgps>
+<harvard1>Brandt, B., 2007. &apos;Politik&apos; im Bild? Überlegungen zum Verhältnis von Begriff und Bild. In W.  Steinmetz, ed. &lt;em&gt;&quot;Politik&quot;. Situationen eines Wortgebrauchs im Europa der Neuzeit&lt;/em&gt;. no.14 Historische Politikforschung.  Frankfurt a.M. / New York: Campus, pp. 41-71.</harvard1>
+<default>Brandt B (2007)  &lt;br /&gt;In:  &quot;Politik&quot;. Situationen eines Wortgebrauchs im Europa der Neuzeit. Steinmetz W (Ed);14 Historische Politikforschung. Frankfurt a.M. / New York: Campus:  41-71.</default>
+<wels>Brandt, B. (2007): &apos;Politik&apos; im Bild? Überlegungen zum Verhältnis von Begriff und Bild. In: Willibald Steinmetz (Hrsg.):  &quot;Politik&quot;. Situationen eines Wortgebrauchs im Europa der Neuzeit. Historische Politikforschung. Frankfurt a.M. / New York: Campus. (14).  S. 41-71.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1923205</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-12-01T11:09:06Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2013-07-10T10:30:31Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1923205</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1923205</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

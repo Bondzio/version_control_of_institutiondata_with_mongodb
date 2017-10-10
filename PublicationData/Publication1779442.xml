@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>&quot;Spielbubis&quot; und &quot;eingebildete Weiber&quot; – 13- bis 16jährige in Schule und peer-group</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Klaus-Jürgen</namePart>
+  <namePart type="family">Tillmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21774</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Klaus-Jürgen</namePart><namePart type="family">Tillmann</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Erziehungswissenschaft</namePart>
+  <identifier type="unibi">10021</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG 4 - Schulentwicklung und Schulforschung</namePart>
+  <identifier type="unibi">7978212</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Tillmann_070.pdf">https://pub.uni-bielefeld.de/download/1779442/2312713</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Leske und Budrich</publisher><dateIssued encoding="w3cdtf">1992</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Jugend weiblich - Jugend männlich: Sozialisation, Geschlecht, Identität</title></titleInfo>
+  <identifier type="isbn">3-8100-0942-3</identifier><identifier type="urn">urn:nbn:de:0070-bipr-18896</identifier>
+<part><extent unit="pages">13-27</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Tillmann, Klaus-Jürgen. 1992. “&quot;Spielbubis&quot; und &quot;eingebildete Weiber&quot; – 13- bis 16jährige in Schule und peer-group”. In &lt;em&gt;Jugend weiblich - Jugend männlich: Sozialisation, Geschlecht, Identität&lt;/em&gt;, ed. Klaus-Jürgen Tillmann, 13-27. Studien zur Jugendforschung ; 10. Opladen: Leske und Budrich.&lt;/div&gt;</chicago>
+<angewandte-chemie>K. - J.  Tillmann, in &lt;em&gt;Jugend weiblich - Jugend männlich: Sozialisation, Geschlecht, Identität&lt;/em&gt; (Ed.: K.-J. Tillmann), Leske Und Budrich, Opladen, &lt;strong&gt;1992&lt;/strong&gt;, p. 13-27.</angewandte-chemie>
+<apa>Tillmann, K. - J. (1992). &quot;Spielbubis&quot; und &quot;eingebildete Weiber&quot; – 13- bis 16jährige in Schule und peer-group. In K. - J.  Tillmann (Ed.), &lt;em&gt;Studien zur Jugendforschung ; 10&lt;/em&gt;&lt;em&gt;. Jugend weiblich - Jugend männlich: Sozialisation, Geschlecht, Identität&lt;/em&gt; (pp. 13-27). Opladen: Leske und Budrich.</apa>
+<frontiers>Tillmann, K. - J. (1992). “&quot;Spielbubis&quot; und &quot;eingebildete Weiber&quot; – 13- bis 16jährige in Schule und peer-group” in &lt;em&gt;Jugend weiblich - Jugend männlich: Sozialisation, Geschlecht, Identität&lt;/em&gt;, ed. K. - J.  Tillmann Studien zur Jugendforschung ; 10 (Opladen: Leske und Budrich), 13-27.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Tillmann, K. - J. (1992). &quot;Spielbubis&quot; und &quot;eingebildete Weiber&quot; – 13- bis 16jährige in Schule und peer-group. In K. - J.  Tillmann (Ed.), &lt;em&gt;Studien zur Jugendforschung ; 10&lt;/em&gt;&lt;em&gt;. Jugend weiblich - Jugend männlich: Sozialisation, Geschlecht, Identität&lt;/em&gt; (pp. 13-27). Opladen: Leske und Budrich.&lt;/div&gt;</apa_indent>
+<ieee>K.-J. Tillmann, “&quot;Spielbubis&quot; und &quot;eingebildete Weiber&quot; – 13- bis 16jährige in Schule und peer-group”, &lt;em&gt;Jugend weiblich - Jugend männlich: Sozialisation, Geschlecht, Identität&lt;/em&gt;, K.-J. Tillmann, ed., Studien zur Jugendforschung ; 10,  Opladen: Leske und Budrich, 1992,  pp.13-27.</ieee>
+<lncs>Tillmann, K.-J.: &quot;Spielbubis&quot; und &quot;eingebildete Weiber&quot; – 13- bis 16jährige in Schule und peer-group. In: Tillmann, K.-J. (ed.) Jugend weiblich - Jugend männlich: Sozialisation, Geschlecht, Identität. Studien zur Jugendforschung ; 10. p. 13-27. Leske und Budrich, Opladen (1992).</lncs>
+<mla>Tillmann, Klaus-Jürgen. “&quot;Spielbubis&quot; und &quot;eingebildete Weiber&quot; – 13- bis 16jährige in Schule und peer-group”. &lt;em&gt;Jugend weiblich - Jugend männlich: Sozialisation, Geschlecht, Identität&lt;/em&gt;. Ed. Klaus-Jürgen Tillmann. Opladen: Leske und Budrich, 1992. Studien zur Jugendforschung ; 10. 13-27.</mla>
+<wels>Tillmann, K. - J. (1992): &quot;Spielbubis&quot; und &quot;eingebildete Weiber&quot; – 13- bis 16jährige in Schule und peer-group. In: Klaus-Jürgen Tillmann (Hrsg.):  Jugend weiblich - Jugend männlich: Sozialisation, Geschlecht, Identität. Opladen: Leske und Budrich. (Studien zur Jugendforschung ; 10, ).  S. 13-27.</wels>
+<default>Tillmann K-J (1992)  &lt;br /&gt;In:  Jugend weiblich - Jugend männlich: Sozialisation, Geschlecht, Identität. Tillmann K-J (Ed); Studien zur Jugendforschung ; 10, . Opladen: Leske und Budrich:  13-27.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Tillmann, K.-J. (1992). &quot;Spielbubis&quot; und &quot;eingebildete Weiber&quot; – 13- bis 16jährige in Schule und peer-group (Studien zur Jugendforschung ; 10). &lt;em&gt;Jugend weiblich - Jugend männlich: Sozialisation, Geschlecht, Identität&lt;/em&gt; (S. 13-27). Opladen: Leske und Budrich.&lt;/div&gt;</dgps>
+<ama>Tillmann K-J. &quot;Spielbubis&quot; und &quot;eingebildete Weiber&quot; – 13- bis 16jährige in Schule und peer-group. In: Tillmann K-J, ed. &lt;em&gt;Jugend weiblich - Jugend männlich: Sozialisation, Geschlecht, Identität&lt;/em&gt;. Studien zur Jugendforschung ; 10. Opladen: Leske und Budrich;  1992: 13-27.</ama>
+<harvard1>Tillmann, K.-J., 1992. &quot;Spielbubis&quot; und &quot;eingebildete Weiber&quot; – 13- bis 16jährige in Schule und peer-group. In K. - J.  Tillmann, ed. &lt;em&gt;Jugend weiblich - Jugend männlich: Sozialisation, Geschlecht, Identität&lt;/em&gt;. Studien zur Jugendforschung ; 10.  Opladen: Leske und Budrich, pp. 13-27.</harvard1>
+<bio1>Tillmann K-J (1992) &lt;br /&gt;&quot;Spielbubis&quot; und &quot;eingebildete Weiber&quot; – 13- bis 16jährige in Schule und peer-group. &lt;br /&gt;In:  Jugend weiblich - Jugend männlich: Sozialisation, Geschlecht, Identität. Tillmann K-J (Ed); Studien zur Jugendforschung ; 10,  Opladen: Leske und Budrich:  13-27.</bio1>
+<aps>K. - J.  Tillmann, &quot;Spielbubis&quot; und &quot;eingebildete Weiber&quot; – 13- bis 16jährige in Schule und peer-group, in &lt;em&gt;Jugend weiblich - Jugend männlich: Sozialisation, Geschlecht, Identität&lt;/em&gt;, edited by K. - J.  Tillmann, Studien zur Jugendforschung ; 10 (Leske und Budrich, Opladen, 1992), p. 13-27.</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1779442</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1779442</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1779442</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

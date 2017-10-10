@@ -1,0 +1,145 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Influence of the photoperiod on redox regulation and stress responses in Arabidopsis thaliana L. (Heynh.) plants under long- and short-day conditions</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">B</namePart>
+  <namePart type="family">Becker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">S</namePart>
+  <namePart type="family">Holtgrefe</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">S</namePart>
+  <namePart type="family">Jung</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">C</namePart>
+  <namePart type="family">Wunrau</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andrea</namePart>
+  <namePart type="family">Kandlbinder</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">26213</identifier></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Baier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Karl-Josef</namePart>
+  <namePart type="family">Dietz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21935</identifier></name>
+<name type="personal">
+  <namePart type="given">JE</namePart>
+  <namePart type="family">Backhausen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">R</namePart>
+  <namePart type="family">Scheibe</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2685177</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070563</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Arabidopsis thaliana L. (Heynh.) plants were grown in low light (150 mu mol photons m(-2) s(-1) and 20 degrees C) either in short days (7.5 h photoperiod) or long days ( 16 h photoperiod), and then transferred into high light and low temperature (350-800 mu mol photons m(-2) s(-1) at 12 degrees C). Plants grown in short days responded with a rapid increase in NADP-malate dehydrogenase (EC 1.1.1.82) activation state. However, persisting overreduction revealed a new level of regulation of the malate valve. Activity measurements and Northern-blot analyses indicated that NADP-malate dehydrogenase transcript and protein levels increased within a few hours. Using macroarrays, additional changes in gene expression were identified. Transcript levels for several enzymes of glutathione metabolism and of some photosynthetic genes increased. The cellular glutathione level increased, but its redox state remained unchanged. A different situation was observed in plants grown in long-day conditions. Neither NADP-malate dehydrogenase nor glutathione content changed, but the expression of several antioxidative enzymes increased strongly. We conclude that the endogenous systems that measure day length interact with redox regulation, and override the interpretation of the signals, i.e. they redirect redox-mediated acclimation signals to allow for more efficient light usage and redox poising in short days to systems for the prevention of oxidative damages when grown under long-day conditions.</abstract>
+
+<originInfo><publisher>SPRINGER</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>light acclimation</topic><topic>malate valve</topic><topic>oxidative stress</topic><topic>redox regulation</topic><topic>photoperiod</topic><topic>glutathione</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>PLANTA</title></titleInfo>
+  <identifier type="issn">0032-0935</identifier>
+  <identifier type="eIssn">1432-2048</identifier>
+  <identifier type="MEDLINE">16435132</identifier>
+  <identifier type="ISI">000238523000014</identifier><identifier type="doi">10.1007/s00425-006-0222-3</identifier>
+<part><detail type="volume"><number>224</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">380-393</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Becker B, Holtgrefe S, Jung S, Wunrau C, Kandlbinder A, Baier M, Dietz K-J, Backhausen JE, Scheibe R (2006) &lt;br /&gt;PLANTA 224(2): 380-393.</default>
+<wels>Becker, B.; Holtgrefe, S.; Jung, S.; Wunrau, C.; Kandlbinder, A.; Baier, M.; Dietz, K. - J.; Backhausen, J. E.; Scheibe, R. (2006): Influence of the photoperiod on redox regulation and stress responses in Arabidopsis thaliana L. (Heynh.) plants under long- and short-day conditions &lt;em&gt;PLANTA&lt;/em&gt;,224:(2): 380-393.</wels>
+<bio1>Becker B, Holtgrefe S, Jung S, Wunrau C, Kandlbinder A, Baier M, Dietz K-J, Backhausen JE, Scheibe R (2006) &lt;br /&gt;Influence of the photoperiod on redox regulation and stress responses in Arabidopsis thaliana L. (Heynh.) plants under long- and short-day conditions.&lt;br /&gt;PLANTA 224(2): 380-393.</bio1>
+<aps> B.  Becker, et al., Influence of the photoperiod on redox regulation and stress responses in Arabidopsis thaliana L. (Heynh.) plants under long- and short-day conditions, PLANTA &lt;strong&gt;224&lt;/strong&gt;, 380-393 (2006).</aps>
+<ama>Becker B, Holtgrefe S, Jung S, et al. Influence of the photoperiod on redox regulation and stress responses in Arabidopsis thaliana L. (Heynh.) plants under long- and short-day conditions. &lt;em&gt;PLANTA&lt;/em&gt;. 2006;224(2):380-393.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Becker, B., Holtgrefe, S., Jung, S., Wunrau, C., Kandlbinder, A., Baier, M., Dietz, K.-J., Backhausen, J.E. &amp;amp; Scheibe, R. (2006). Influence of the photoperiod on redox regulation and stress responses in Arabidopsis thaliana L. (Heynh.) plants under long- and short-day conditions. &lt;em&gt;PLANTA&lt;/em&gt;, &lt;em&gt;224&lt;/em&gt;(2), 380-393. SPRINGER. doi:10.1007/s00425-006-0222-3.&lt;/div&gt;</dgps>
+<harvard1>Becker, B., et al., 2006. Influence of the photoperiod on redox regulation and stress responses in Arabidopsis thaliana L. (Heynh.) plants under long- and short-day conditions. &lt;em&gt;PLANTA&lt;/em&gt;, 224(2), p 380-393.</harvard1>
+<frontiers>Becker, B., Holtgrefe, S., Jung, S., Wunrau, C., Kandlbinder, A., Baier, M., Dietz, K. - J., Backhausen, J. E., and Scheibe, R. (2006). Influence of the photoperiod on redox regulation and stress responses in Arabidopsis thaliana L. (Heynh.) plants under long- and short-day conditions. &lt;em&gt;PLANTA&lt;/em&gt; 224, 380-393.</frontiers>
+<angewandte-chemie>B.  Becker, S.  Holtgrefe, S.  Jung, C.  Wunrau, A.  Kandlbinder, M.  Baier, K. - J.  Dietz, J. E.  Backhausen, and R.  Scheibe, “Influence of the photoperiod on redox regulation and stress responses in Arabidopsis thaliana L. (Heynh.) plants under long- and short-day conditions”, &lt;em&gt;PLANTA&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;224&lt;/em&gt;, 380-393.</angewandte-chemie>
+<apa>Becker, B., Holtgrefe, S., Jung, S., Wunrau, C., Kandlbinder, A., Baier, M., Dietz, K. - J., et al. (2006). Influence of the photoperiod on redox regulation and stress responses in Arabidopsis thaliana L. (Heynh.) plants under long- and short-day conditions. &lt;em&gt;PLANTA&lt;/em&gt;, &lt;em&gt;224&lt;/em&gt;(2), 380-393.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Becker, B, Holtgrefe, S, Jung, S, Wunrau, C, Kandlbinder, Andrea, Baier, M, Dietz, Karl-Josef, Backhausen, JE, and Scheibe, R. 2006. “Influence of the photoperiod on redox regulation and stress responses in Arabidopsis thaliana L. (Heynh.) plants under long- and short-day conditions”. &lt;em&gt;PLANTA&lt;/em&gt; 224 (2): 380-393.&lt;/div&gt;</chicago>
+<mla>Becker, B, Holtgrefe, S, Jung, S, Wunrau, C, Kandlbinder, Andrea, Baier, M, Dietz, Karl-Josef, Backhausen, JE, and Scheibe, R. “Influence of the photoperiod on redox regulation and stress responses in Arabidopsis thaliana L. (Heynh.) plants under long- and short-day conditions”. &lt;em&gt;PLANTA&lt;/em&gt; 224.2 (2006): 380-393.</mla>
+<lncs> Becker, B., Holtgrefe, S., Jung, S., Wunrau, C., Kandlbinder, A., Baier, M., Dietz, K.-J., Backhausen, J.E., Scheibe, R.: Influence of the photoperiod on redox regulation and stress responses in Arabidopsis thaliana L. (Heynh.) plants under long- and short-day conditions. PLANTA. 224, 380-393 (2006).</lncs>
+<ieee> B. Becker, et al., “Influence of the photoperiod on redox regulation and stress responses in Arabidopsis thaliana L. (Heynh.) plants under long- and short-day conditions”, &lt;em&gt;PLANTA&lt;/em&gt;,  vol. 224, 2006,  pp. 380-393.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Becker, B., Holtgrefe, S., Jung, S., Wunrau, C., Kandlbinder, A., Baier, M., Dietz, K. - J., et al. (2006). Influence of the photoperiod on redox regulation and stress responses in Arabidopsis thaliana L. (Heynh.) plants under long- and short-day conditions. &lt;em&gt;PLANTA&lt;/em&gt;, &lt;em&gt;224&lt;/em&gt;(2), 380-393.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1598740</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:19:33Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-11T09:37:27Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1598740</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1598740</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

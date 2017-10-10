@@ -1,0 +1,96 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference abstract</genre>
+
+<titleInfo><title>Cancer indicators for migrants in Europe</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Jacob</namePart>
+  <namePart type="family">Spallek</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">119993</identifier></name>
+<name type="personal">
+  <namePart type="given">Oliver</namePart>
+  <namePart type="family">Razum</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">134970</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">21333</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>OXFORD UNIV PRESS</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host">
+  <identifier type="issn">1101-1262</identifier>
+  <identifier type="ISI">000251544100051</identifier>
+<part><detail type="volume"><number>17</number></detail><detail type="issue"><number>Suppl. 2</number></detail><extent unit="pages">22-22</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Spallek, J. &amp;amp; Razum, O. (2007). Cancer indicators for migrants in Europe (EUROPEAN JOURNAL OF PUBLIC HEALTH) (S. 22-22). OXFORD UNIV PRESS.&lt;/div&gt;</dgps>
+<ama>Spallek J, Razum O. Cancer indicators for migrants in Europe.</ama>
+<harvard1>Spallek, J., &amp;amp; Razum, O., 2007. Cancer indicators for migrants in Europe.</harvard1>
+<aps> J.  Spallek and O.  Razum, Cancer indicators for migrants in Europe, EUROPEAN JOURNAL OF PUBLIC HEALTH, &lt;strong&gt;17&lt;/strong&gt; (OXFORD UNIV PRESS, 2007), p. 22-22.</aps>
+<bio1>Spallek J, Razum O (2007) &lt;br /&gt;Cancer indicators for migrants in Europe.</bio1>
+<wels>Spallek, J.; Razum, O. (2007): Cancer indicators for migrants in Europe. OXFORD UNIV PRESS. (EUROPEAN JOURNAL OF PUBLIC HEALTH, 17).  S. 22-22.</wels>
+<default>Spallek J, Razum O (2007) .</default>
+<ieee> J. Spallek and O. Razum, “Cancer indicators for migrants in Europe”, OXFORD UNIV PRESS, 2007.</ieee>
+<mla>Spallek, Jacob, and Razum, Oliver. “Cancer indicators for migrants in Europe”., OXFORD UNIV PRESS, 2007.</mla>
+<lncs> Spallek, J., Razum, O.: Cancer indicators for migrants in Europe. (2007).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Spallek, J., &amp;amp; Razum, O. (2007). &lt;em&gt;Cancer indicators for migrants in Europe&lt;/em&gt;. Presented at the .&lt;/div&gt;</apa_indent>
+<angewandte-chemie>J.  Spallek, and O.  Razum, Oxford Univ Press, &lt;strong&gt;2007&lt;/strong&gt;, p. 22-22.</angewandte-chemie>
+<apa>Spallek, J., &amp;amp; Razum, O. (2007). &lt;em&gt;Cancer indicators for migrants in Europe&lt;/em&gt;. Presented at the .</apa>
+<frontiers>Spallek, J., and Razum, O. (2007).“Cancer indicators for migrants in Europe”.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Spallek, Jacob, and Razum, Oliver. 2007. “Cancer indicators for migrants in Europe”. Presented at the , 17:22-22. EUROPEAN JOURNAL OF PUBLIC HEALTH. OXFORD UNIV PRESS.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1592922</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T11:50:55Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-06T12:28:42Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1592922</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1592922</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

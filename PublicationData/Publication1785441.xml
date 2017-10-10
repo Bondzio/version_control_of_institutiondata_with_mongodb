@@ -1,0 +1,95 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Bildungsverfassungsrecht</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Martin</namePart>
+  <namePart type="family">Stock</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21619</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Rechtswissenschaft</namePart>
+  <identifier type="unibi">10029</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT4515.pdf">https://pub.uni-bielefeld.de/download/1785441/2314917</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1974</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Zeitschrift für Pädagogik</title></titleInfo><identifier type="urn">urn:nbn:de:0070-bipr-45154</identifier>
+<part><detail type="volume"><number>20</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">947-955</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>M. Stock, “Bildungsverfassungsrecht”, &lt;em&gt;Zeitschrift für Pädagogik&lt;/em&gt;,  vol. 20, 1974,  pp. 947-955.</ieee>
+<lncs>Stock, M.: Bildungsverfassungsrecht. Zeitschrift für Pädagogik. 20, 947-955 (1974).</lncs>
+<mla>Stock, Martin. “Bildungsverfassungsrecht”. &lt;em&gt;Zeitschrift für Pädagogik&lt;/em&gt; 20.6 (1974): 947-955.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Stock, M. (1974). Bildungsverfassungsrecht. &lt;em&gt;Zeitschrift für Pädagogik&lt;/em&gt;, &lt;em&gt;20&lt;/em&gt;(6), 947-955.&lt;/div&gt;</apa_indent>
+<apa>Stock, M. (1974). Bildungsverfassungsrecht. &lt;em&gt;Zeitschrift für Pädagogik&lt;/em&gt;, &lt;em&gt;20&lt;/em&gt;(6), 947-955.</apa>
+<angewandte-chemie>M.  Stock, “Bildungsverfassungsrecht”, &lt;em&gt;Zeitschrift für Pädagogik&lt;/em&gt;, &lt;strong&gt;1974&lt;/strong&gt;, &lt;em&gt;20&lt;/em&gt;, 947-955.</angewandte-chemie>
+<frontiers>Stock, M. (1974). Bildungsverfassungsrecht. &lt;em&gt;Zeitschrift für Pädagogik&lt;/em&gt; 20, 947-955.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Stock, Martin. 1974. “Bildungsverfassungsrecht”. &lt;em&gt;Zeitschrift für Pädagogik&lt;/em&gt; 20 (6): 947-955.&lt;/div&gt;</chicago>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Stock, M. (1974). Bildungsverfassungsrecht. &lt;em&gt;Zeitschrift für Pädagogik&lt;/em&gt;, &lt;em&gt;20&lt;/em&gt;(6), 947-955.&lt;/div&gt;</dgps>
+<harvard1>Stock, M., 1974. Bildungsverfassungsrecht. &lt;em&gt;Zeitschrift für Pädagogik&lt;/em&gt;, 20(6), p 947-955.</harvard1>
+<ama>Stock M. Bildungsverfassungsrecht. &lt;em&gt;Zeitschrift für Pädagogik&lt;/em&gt;. 1974;20(6):947-955.</ama>
+<aps>M.  Stock, Bildungsverfassungsrecht, Zeitschrift für Pädagogik &lt;strong&gt;20&lt;/strong&gt;, 947-955 (1974).</aps>
+<bio1>Stock M (1974) &lt;br /&gt;Bildungsverfassungsrecht.&lt;br /&gt;Zeitschrift für Pädagogik 20(6): 947-955.</bio1>
+<wels>Stock, M. (1974): Bildungsverfassungsrecht &lt;em&gt;Zeitschrift für Pädagogik&lt;/em&gt;,20:(6): 947-955.</wels>
+<default>Stock M (1974) &lt;br /&gt;Zeitschrift für Pädagogik 20(6): 947-955.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1785441</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1785441</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1785441</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

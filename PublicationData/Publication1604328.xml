@@ -1,0 +1,135 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The 120 592 bp lncF plasmid pRSB107 isolated from a sewage-treatment plant encodes nine different anti biotic-resistance determinants, two iron-acquisition systems and other putative virulence-associated functions</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Rafael</namePart>
+  <namePart type="family">Szczepanowski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">112271</identifier></name>
+<name type="personal">
+  <namePart type="given">S</namePart>
+  <namePart type="family">Braun</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">V</namePart>
+  <namePart type="family">Riedel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Susanne</namePart>
+  <namePart type="family">Schneiker-Bekel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">113931</identifier></name>
+<name type="personal">
+  <namePart type="given">Irene</namePart>
+  <namePart type="family">Krahn</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">42262</identifier></name>
+<name type="personal">
+  <namePart type="given">Alfred</namePart>
+  <namePart type="family">Pühler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21937</identifier></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Schlüter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">55545</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0003-4830-310X</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070639</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The anti biotic-multiresistance IncF plasmid pRSB107 was isolated by a transformation-based approach from activated-sludge bacteria of a wastewater-treatment plant. It confers resistance to ampicillin, penicillin G, chloramphenicol, erythromycin, kanamycin, neomycin, streptomycin, sulfonamides, tetracycline and trimethoprim and against mercuric ions. Complete sequencing of this plasmid revealed that it is 120 592 bp in size and has a G + C content of 53.1 mol%. The plasmid backbone is composed of three replicons, RepFIA, RepFIB and RepFII, which are almost identical to corresponding regions located on the F-plasmid and on R100. The three replicons encode replication initiation (rep) and replication control, multimer resolution (mrs), post-segregational killing of plasmid-free cells (psk) and active plasmid partitioning (sopABC locus). Part of the F-leading region and remnants of the F-homologous DNA-transfer (tra) module complete the pRSB107 backbone. Plasmid pRSB107 contains a complex, highly mosaic 35 991 bp anti biotic-resistance region consisting of a Tn21- and a Tn10-derivative and a chloramphenicol-resistance module. The Tn21 derivative is composed of a mercury-resistance region (mer), a Tn4352B-like kanamycin/neomycin-resistance transposon, a streptomycin/sulfonamide-resistance module, remnants of the beta-lactam-resistance transposon Tn1, a macrolide-resistance module flanked by copies of IS26 and IS6100, remnants of Tn402 integrating a class 1 integron and the Tn21-specific transposition module. A truncated version of the tetracycline-resistance transposon Tn10 and the chloramphenicol acetyltransferase gene catA complete the pRSB107 resistance region. In addition to antibiotic resistance, pRSB107 encodes the following putative virulence-associated functions: (i) an aerobactin iron-acquisition siderophore system (iuc/iut); (ii) a putative high-affinity Fe2+ uptake system which was previously identified on a pathogenicity island of Yersinia pestis and in the genome of the phytopathogen Erwinia carotovora subsp. atroseptica SCRI1043; (iii) an sn-glycerol-3-phosphate transport system (ugp); and (iv) the virulence-associated genes vagCD having a possible function in stable plasmid inheritance. All the accessory modules are framed by insertion sequences, indicating that pRSB107 was gradually assembled by integration of different horizontally acquired DNA segments via transposition or homologous recombination.</abstract>
+
+<originInfo><publisher>SOC GENERAL MICROBIOLOGY</publisher><dateIssued encoding="w3cdtf">2005</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>MICROBIOLOGY-SGM</title></titleInfo>
+  <identifier type="issn">1350-0872</identifier>
+  <identifier type="eIssn">1465-2080</identifier>
+  <identifier type="MEDLINE">15817778</identifier>
+  <identifier type="ISI">000228509100009</identifier><identifier type="doi">10.1099/mic.0.27773-0</identifier>
+<part><detail type="volume"><number>151</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">1095-1111</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<lncs> Szczepanowski, R., Braun, S., Riedel, V., Schneiker-Bekel, S., Krahn, I., Pühler, A., Schlüter, A.: The 120 592 bp lncF plasmid pRSB107 isolated from a sewage-treatment plant encodes nine different anti biotic-resistance determinants, two iron-acquisition systems and other putative virulence-associated functions. MICROBIOLOGY-SGM. 151, 1095-1111 (2005).</lncs>
+<mla>Szczepanowski, Rafael, Braun, S, Riedel, V, Schneiker-Bekel, Susanne, Krahn, Irene, Pühler, Alfred, and Schlüter, Andreas. “The 120 592 bp lncF plasmid pRSB107 isolated from a sewage-treatment plant encodes nine different anti biotic-resistance determinants, two iron-acquisition systems and other putative virulence-associated functions”. &lt;em&gt;MICROBIOLOGY-SGM&lt;/em&gt; 151.4 (2005): 1095-1111.</mla>
+<ieee> R. Szczepanowski, et al., “The 120 592 bp lncF plasmid pRSB107 isolated from a sewage-treatment plant encodes nine different anti biotic-resistance determinants, two iron-acquisition systems and other putative virulence-associated functions”, &lt;em&gt;MICROBIOLOGY-SGM&lt;/em&gt;,  vol. 151, 2005,  pp. 1095-1111.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Szczepanowski, R., Braun, S., Riedel, V., Schneiker-Bekel, S., Krahn, I., Pühler, A., &amp;amp; Schlüter, A. (2005). The 120 592 bp lncF plasmid pRSB107 isolated from a sewage-treatment plant encodes nine different anti biotic-resistance determinants, two iron-acquisition systems and other putative virulence-associated functions. &lt;em&gt;MICROBIOLOGY-SGM&lt;/em&gt;, &lt;em&gt;151&lt;/em&gt;(4), 1095-1111.&lt;/div&gt;</apa_indent>
+<frontiers>Szczepanowski, R., Braun, S., Riedel, V., Schneiker-Bekel, S., Krahn, I., Pühler, A., and Schlüter, A. (2005). The 120 592 bp lncF plasmid pRSB107 isolated from a sewage-treatment plant encodes nine different anti biotic-resistance determinants, two iron-acquisition systems and other putative virulence-associated functions. &lt;em&gt;MICROBIOLOGY-SGM&lt;/em&gt; 151, 1095-1111.</frontiers>
+<apa>Szczepanowski, R., Braun, S., Riedel, V., Schneiker-Bekel, S., Krahn, I., Pühler, A., &amp;amp; Schlüter, A. (2005). The 120 592 bp lncF plasmid pRSB107 isolated from a sewage-treatment plant encodes nine different anti biotic-resistance determinants, two iron-acquisition systems and other putative virulence-associated functions. &lt;em&gt;MICROBIOLOGY-SGM&lt;/em&gt;, &lt;em&gt;151&lt;/em&gt;(4), 1095-1111.</apa>
+<angewandte-chemie>R.  Szczepanowski, S.  Braun, V.  Riedel, S.  Schneiker-Bekel, I.  Krahn, A.  Pühler, and A.  Schlüter, “The 120 592 bp lncF plasmid pRSB107 isolated from a sewage-treatment plant encodes nine different anti biotic-resistance determinants, two iron-acquisition systems and other putative virulence-associated functions”, &lt;em&gt;MICROBIOLOGY-SGM&lt;/em&gt;, &lt;strong&gt;2005&lt;/strong&gt;, &lt;em&gt;151&lt;/em&gt;, 1095-1111.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Szczepanowski, Rafael, Braun, S, Riedel, V, Schneiker-Bekel, Susanne, Krahn, Irene, Pühler, Alfred, and Schlüter, Andreas. 2005. “The 120 592 bp lncF plasmid pRSB107 isolated from a sewage-treatment plant encodes nine different anti biotic-resistance determinants, two iron-acquisition systems and other putative virulence-associated functions”. &lt;em&gt;MICROBIOLOGY-SGM&lt;/em&gt; 151 (4): 1095-1111.&lt;/div&gt;</chicago>
+<bio1>Szczepanowski R, Braun S, Riedel V, Schneiker-Bekel S, Krahn I, Pühler A, Schlüter A (2005) &lt;br /&gt;The 120 592 bp lncF plasmid pRSB107 isolated from a sewage-treatment plant encodes nine different anti biotic-resistance determinants, two iron-acquisition systems and other putative virulence-associated functions.&lt;br /&gt;MICROBIOLOGY-SGM 151(4): 1095-1111.</bio1>
+<aps> R.  Szczepanowski, et al., The 120 592 bp lncF plasmid pRSB107 isolated from a sewage-treatment plant encodes nine different anti biotic-resistance determinants, two iron-acquisition systems and other putative virulence-associated functions, MICROBIOLOGY-SGM &lt;strong&gt;151&lt;/strong&gt;, 1095-1111 (2005).</aps>
+<harvard1>Szczepanowski, R., et al., 2005. The 120 592 bp lncF plasmid pRSB107 isolated from a sewage-treatment plant encodes nine different anti biotic-resistance determinants, two iron-acquisition systems and other putative virulence-associated functions. &lt;em&gt;MICROBIOLOGY-SGM&lt;/em&gt;, 151(4), p 1095-1111.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Szczepanowski, R., Braun, S., Riedel, V., Schneiker-Bekel, S., Krahn, I., Pühler, A. &amp;amp; Schlüter, A. (2005). The 120 592 bp lncF plasmid pRSB107 isolated from a sewage-treatment plant encodes nine different anti biotic-resistance determinants, two iron-acquisition systems and other putative virulence-associated functions. &lt;em&gt;MICROBIOLOGY-SGM&lt;/em&gt;, &lt;em&gt;151&lt;/em&gt;(4), 1095-1111. SOC GENERAL MICROBIOLOGY. doi:10.1099/mic.0.27773-0.&lt;/div&gt;</dgps>
+<ama>Szczepanowski R, Braun S, Riedel V, et al. The 120 592 bp lncF plasmid pRSB107 isolated from a sewage-treatment plant encodes nine different anti biotic-resistance determinants, two iron-acquisition systems and other putative virulence-associated functions. &lt;em&gt;MICROBIOLOGY-SGM&lt;/em&gt;. 2005;151(4):1095-1111.</ama>
+<default>Szczepanowski R, Braun S, Riedel V, Schneiker-Bekel S, Krahn I, Pühler A, Schlüter A (2005) &lt;br /&gt;MICROBIOLOGY-SGM 151(4): 1095-1111.</default>
+<wels>Szczepanowski, R.; Braun, S.; Riedel, V.; Schneiker-Bekel, S.; Krahn, I.; Pühler, A.; Schlüter, A. (2005): The 120 592 bp lncF plasmid pRSB107 isolated from a sewage-treatment plant encodes nine different anti biotic-resistance determinants, two iron-acquisition systems and other putative virulence-associated functions &lt;em&gt;MICROBIOLOGY-SGM&lt;/em&gt;,151:(4): 1095-1111.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1604328</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:40:15Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-09-28T13:17:12Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1604328</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1604328</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

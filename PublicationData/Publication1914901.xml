@@ -1,0 +1,104 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Kinderschutz aus Kindersicht – Hinsichten auf Verwirklichungschancen</title></titleInfo>
+
+
+
+
+
+<name type="personal">
+  <namePart type="given">Stefanie</namePart>
+  <namePart type="family">Albus</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">179180</identifier></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Polutta</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Regine</namePart><namePart type="family">Müller</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Dirk</namePart><namePart type="family">Nüsken</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Erziehungswissenschaft</namePart>
+  <identifier type="unibi">10021</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG 8 - Soziale Arbeit</namePart>
+  <identifier type="unibi">7978278</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Waxmann</publisher><dateIssued encoding="w3cdtf">2010</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Child Protection in Europe</title></titleInfo>
+<part><extent unit="pages">221-236</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Albus, S., and Polutta, A. (2010). “Kinderschutz aus Kindersicht – Hinsichten auf Verwirklichungschancen” in &lt;em&gt;Child Protection in Europe&lt;/em&gt;, ed. R.  Müller and D.  Nüsken (Münster: Waxmann), 221-236.</frontiers>
+<angewandte-chemie>S.  Albus, and A.  Polutta, in &lt;em&gt;Child Protection in Europe&lt;/em&gt; (Eds.: R. Müller, D. Nüsken), Waxmann, Münster, &lt;strong&gt;2010&lt;/strong&gt;, p. 221-236.</angewandte-chemie>
+<apa>Albus, S., &amp;amp; Polutta, A. (2010). Kinderschutz aus Kindersicht – Hinsichten auf Verwirklichungschancen. In R.  Müller &amp;amp; D.  Nüsken (Eds.), &lt;em&gt;Child Protection in Europe&lt;/em&gt; (pp. 221-236). Münster: Waxmann.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Albus, Stefanie, and Polutta, Andreas. 2010. “Kinderschutz aus Kindersicht – Hinsichten auf Verwirklichungschancen”. In &lt;em&gt;Child Protection in Europe&lt;/em&gt;, ed. Regine Müller and Dirk Nüsken, 221-236. Münster: Waxmann.&lt;/div&gt;</chicago>
+<mla>Albus, Stefanie, and Polutta, Andreas. “Kinderschutz aus Kindersicht – Hinsichten auf Verwirklichungschancen”. &lt;em&gt;Child Protection in Europe&lt;/em&gt;. Ed. Regine Müller and Dirk Nüsken. Münster: Waxmann, 2010. 221-236.</mla>
+<lncs>Albus, S., Polutta, A.: Kinderschutz aus Kindersicht – Hinsichten auf Verwirklichungschancen. In: Müller, R. and Nüsken, D. (eds.) Child Protection in Europe. p. 221-236. Waxmann, Münster (2010).</lncs>
+<ieee>S. Albus and A. Polutta, “Kinderschutz aus Kindersicht – Hinsichten auf Verwirklichungschancen”, &lt;em&gt;Child Protection in Europe&lt;/em&gt;, R. Müller and D. Nüsken, eds.,  Münster: Waxmann, 2010,  pp.221-236.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Albus, S., &amp;amp; Polutta, A. (2010). Kinderschutz aus Kindersicht – Hinsichten auf Verwirklichungschancen. In R.  Müller &amp;amp; D.  Nüsken (Eds.), &lt;em&gt;Child Protection in Europe&lt;/em&gt; (pp. 221-236). Münster: Waxmann.&lt;/div&gt;</apa_indent>
+<default>Albus S, Polutta A (2010)  &lt;br /&gt;In:  Child Protection in Europe. Müller R, Nüsken D (Eds);Münster: Waxmann:  221-236.</default>
+<wels>Albus, S.; Polutta, A. (2010): Kinderschutz aus Kindersicht – Hinsichten auf Verwirklichungschancen. In: Regine Müller; Dirk Nüsken (Hrsg.):  Child Protection in Europe. Münster: Waxmann.  S. 221-236.</wels>
+<aps>S.  Albus and A.  Polutta, Kinderschutz aus Kindersicht – Hinsichten auf Verwirklichungschancen, in &lt;em&gt;Child Protection in Europe&lt;/em&gt;, edited by R.  Müller and D.  Nüsken (Waxmann, Münster, 2010), p. 221-236.</aps>
+<bio1>Albus S, Polutta A (2010) &lt;br /&gt;Kinderschutz aus Kindersicht – Hinsichten auf Verwirklichungschancen. &lt;br /&gt;In:  Child Protection in Europe. Müller R, Nüsken D (Eds); Münster: Waxmann:  221-236.</bio1>
+<ama>Albus S, Polutta A. Kinderschutz aus Kindersicht – Hinsichten auf Verwirklichungschancen. In: Müller R, Nüsken D, eds. &lt;em&gt;Child Protection in Europe&lt;/em&gt;. Münster: Waxmann;  2010: 221-236.</ama>
+<harvard1>Albus, S., &amp;amp; Polutta, A., 2010. Kinderschutz aus Kindersicht – Hinsichten auf Verwirklichungschancen. In R.  Müller &amp;amp; D.  Nüsken, eds. &lt;em&gt;Child Protection in Europe&lt;/em&gt;.  Münster: Waxmann, pp. 221-236.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Albus, S. &amp;amp; Polutta, A. (2010). Kinderschutz aus Kindersicht – Hinsichten auf Verwirklichungschancen. &lt;em&gt;Child Protection in Europe&lt;/em&gt; (S. 221-236). Münster: Waxmann.&lt;/div&gt;</dgps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1914901</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-11-15T10:57:46Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-11-15T12:00:03Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1914901</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1914901</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

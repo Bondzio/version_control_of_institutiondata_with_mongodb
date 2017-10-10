@@ -1,0 +1,129 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>EQUATION OF STATE FOR THE SU(3) GAUGE-THEORY</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">G</namePart>
+  <namePart type="family">Boyd</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jürgen</namePart>
+  <namePart type="family">Engels</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40338</identifier></name>
+<name type="personal">
+  <namePart type="given">Frithjof</namePart>
+  <namePart type="family">Karsch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40326</identifier></name>
+<name type="personal">
+  <namePart type="given">Edwin</namePart>
+  <namePart type="family">Laermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40621</identifier></name>
+<name type="personal">
+  <namePart type="given">C</namePart>
+  <namePart type="family">Legeland</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Lütgemeier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Bengt</namePart>
+  <namePart type="family">Petersson</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40337</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">By investigating the SU(3) gauge theory thermodynamics on lattices of various sizes we can control finite lattice cutoff effects. We calculate the pressure and energy density on lattices with temporal extent N-tau = 4, 6, and 8 and spatial extent N-sigma = 16 and 32, and extrapolate to the continuum limit. We find a deviation from ideal gas behavior of (15-20)%, even at temperatures as high as T similar to 3T(c). A calculation of the critical temperature for N-tau = 8 and 12 and the string tension for N-tau = 32 is performed to fix the temperature scale, yielding T-c/root sigma = 0.629(3) in the continuum limit.</abstract>
+
+<originInfo><publisher>AMERICAN PHYSICAL SOC</publisher><dateIssued encoding="w3cdtf">1995</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>PHYSICAL REVIEW LETTERS</title></titleInfo>
+  <identifier type="issn">0031-9007</identifier>
+  <identifier type="eIssn">1079-7114</identifier>
+  <identifier type="arXiv">hep-lat/9506025</identifier>
+  <identifier type="INSPIRE">396428</identifier>
+  <identifier type="MEDLINE">10059837</identifier>
+  <identifier type="ISI">A1995TH52100004</identifier><identifier type="doi">10.1103/PhysRevLett.75.4169</identifier>
+<part><detail type="volume"><number>75</number></detail><detail type="issue"><number>23</number></detail><extent unit="pages">4169-4172</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>G.  Boyd, et al., EQUATION OF STATE FOR THE SU(3) GAUGE-THEORY, PHYSICAL REVIEW LETTERS &lt;strong&gt;75&lt;/strong&gt;, 4169-4172 (1995).</aps>
+<bio1>Boyd G, Engels J, Karsch F, Laermann E, Legeland C, Lütgemeier M, Petersson B (1995) &lt;br /&gt;EQUATION OF STATE FOR THE SU(3) GAUGE-THEORY.&lt;br /&gt;PHYSICAL REVIEW LETTERS 75(23): 4169-4172.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Boyd, G., Engels, J., Karsch, F., Laermann, E., Legeland, C., Lütgemeier, M. &amp;amp; Petersson, B. (1995). EQUATION OF STATE FOR THE SU(3) GAUGE-THEORY. &lt;em&gt;PHYSICAL REVIEW LETTERS&lt;/em&gt;, &lt;em&gt;75&lt;/em&gt;(23), 4169-4172. AMERICAN PHYSICAL SOC. doi:10.1103/PhysRevLett.75.4169.&lt;/div&gt;</dgps>
+<ama>Boyd G, Engels J, Karsch F, et al. EQUATION OF STATE FOR THE SU(3) GAUGE-THEORY. &lt;em&gt;PHYSICAL REVIEW LETTERS&lt;/em&gt;. 1995;75(23):4169-4172.</ama>
+<harvard1>Boyd, G., et al., 1995. EQUATION OF STATE FOR THE SU(3) GAUGE-THEORY. &lt;em&gt;PHYSICAL REVIEW LETTERS&lt;/em&gt;, 75(23), p 4169-4172.</harvard1>
+<default>Boyd G, Engels J, Karsch F, Laermann E, Legeland C, Lütgemeier M, Petersson B (1995) &lt;br /&gt;PHYSICAL REVIEW LETTERS 75(23): 4169-4172.</default>
+<wels>Boyd, G.; Engels, J.; Karsch, F.; Laermann, E.; Legeland, C.; Lütgemeier, M.; Petersson, B. (1995): EQUATION OF STATE FOR THE SU(3) GAUGE-THEORY &lt;em&gt;PHYSICAL REVIEW LETTERS&lt;/em&gt;,75:(23): 4169-4172.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Boyd, G., Engels, J., Karsch, F., Laermann, E., Legeland, C., Lütgemeier, M., &amp;amp; Petersson, B. (1995). EQUATION OF STATE FOR THE SU(3) GAUGE-THEORY. &lt;em&gt;PHYSICAL REVIEW LETTERS&lt;/em&gt;, &lt;em&gt;75&lt;/em&gt;(23), 4169-4172.&lt;/div&gt;</apa_indent>
+<mla>Boyd, G, Engels, Jürgen, Karsch, Frithjof, Laermann, Edwin, Legeland, C, Lütgemeier, M, and Petersson, Bengt. “EQUATION OF STATE FOR THE SU(3) GAUGE-THEORY”. &lt;em&gt;PHYSICAL REVIEW LETTERS&lt;/em&gt; 75.23 (1995): 4169-4172.</mla>
+<lncs>Boyd, G., Engels, J., Karsch, F., Laermann, E., Legeland, C., Lütgemeier, M., Petersson, B.: EQUATION OF STATE FOR THE SU(3) GAUGE-THEORY. PHYSICAL REVIEW LETTERS. 75, 4169-4172 (1995).</lncs>
+<ieee>G. Boyd, et al., “EQUATION OF STATE FOR THE SU(3) GAUGE-THEORY”, &lt;em&gt;PHYSICAL REVIEW LETTERS&lt;/em&gt;,  vol. 75, 1995,  pp. 4169-4172.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Boyd, G, Engels, Jürgen, Karsch, Frithjof, Laermann, Edwin, Legeland, C, Lütgemeier, M, and Petersson, Bengt. 1995. “EQUATION OF STATE FOR THE SU(3) GAUGE-THEORY”. &lt;em&gt;PHYSICAL REVIEW LETTERS&lt;/em&gt; 75 (23): 4169-4172.&lt;/div&gt;</chicago>
+<frontiers>Boyd, G., Engels, J., Karsch, F., Laermann, E., Legeland, C., Lütgemeier, M., and Petersson, B. (1995). EQUATION OF STATE FOR THE SU(3) GAUGE-THEORY. &lt;em&gt;PHYSICAL REVIEW LETTERS&lt;/em&gt; 75, 4169-4172.</frontiers>
+<angewandte-chemie>G.  Boyd, J.  Engels, F.  Karsch, E.  Laermann, C.  Legeland, M.  Lütgemeier, and B.  Petersson, “EQUATION OF STATE FOR THE SU(3) GAUGE-THEORY”, &lt;em&gt;PHYSICAL REVIEW LETTERS&lt;/em&gt;, &lt;strong&gt;1995&lt;/strong&gt;, &lt;em&gt;75&lt;/em&gt;, 4169-4172.</angewandte-chemie>
+<apa>Boyd, G., Engels, J., Karsch, F., Laermann, E., Legeland, C., Lütgemeier, M., &amp;amp; Petersson, B. (1995). EQUATION OF STATE FOR THE SU(3) GAUGE-THEORY. &lt;em&gt;PHYSICAL REVIEW LETTERS&lt;/em&gt;, &lt;em&gt;75&lt;/em&gt;(23), 4169-4172.</apa>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1629316</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:26:46Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2012-01-19T14:57:53Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1629316</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1629316</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,105 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Interaction-controlled Brownian motion in a tilted periodic potential</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Mykhaylo</namePart>
+  <namePart type="family">Evstigneev</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">118403</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-7056-2573</description></name>
+<name type="personal">
+  <namePart type="given">Sebastian</namePart>
+  <namePart type="family">von Gehlen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Peter</namePart>
+  <namePart type="family">Reimann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">70631</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Theorie der Kondensierten Materie</namePart>
+  <identifier type="unibi">29105470</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The drift and diffusion of a few interacting, overdamped Brownian particles in a tilted periodic potential are studied analytically and numerically. Both quantities exhibit a complex multipeaked structure as a function of the equilibrium interparticle separation. Upon variation of the interaction strength, both drift and diffusion may exhibit a nonmonotonic, resonancelike behavior.</abstract>
+
+<originInfo><publisher>American Physical Society (APS)</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Brownian motion</topic><topic>diffusion</topic><topic>numerical analysis</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>PHYSICAL REVIEW E</title></titleInfo>
+  <identifier type="issn">1539-3755</identifier>
+  <identifier type="eIssn">1550-2376</identifier>
+  <identifier type="MEDLINE">19257010</identifier>
+  <identifier type="ISI">000262976600024</identifier><identifier type="doi">10.1103/PhysRevE.79.011116</identifier>
+<part><detail type="volume"><number>79</number></detail><detail type="issue"><number>1</number></detail>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>M. Evstigneev, S. von Gehlen, and P. Reimann, “Interaction-controlled Brownian motion in a tilted periodic potential”, &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt;,  vol. 79, 2009.</ieee>
+<mla>Evstigneev, Mykhaylo, von Gehlen, Sebastian, and Reimann, Peter. “Interaction-controlled Brownian motion in a tilted periodic potential”. &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt; 79.1 (2009).</mla>
+<lncs>Evstigneev, M., von Gehlen, S., Reimann, P.: Interaction-controlled Brownian motion in a tilted periodic potential. PHYSICAL REVIEW E. 79, (2009).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Evstigneev, M., von Gehlen, S., &amp;amp; Reimann, P. (2009). Interaction-controlled Brownian motion in a tilted periodic potential. &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt;, &lt;em&gt;79&lt;/em&gt;(1).&lt;/div&gt;</apa_indent>
+<angewandte-chemie>M.  Evstigneev, S.  von Gehlen, and P.  Reimann, “Interaction-controlled Brownian motion in a tilted periodic potential”, &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;79&lt;/em&gt;.</angewandte-chemie>
+<apa>Evstigneev, M., von Gehlen, S., &amp;amp; Reimann, P. (2009). Interaction-controlled Brownian motion in a tilted periodic potential. &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt;, &lt;em&gt;79&lt;/em&gt;(1).</apa>
+<frontiers>Evstigneev, M., von Gehlen, S., and Reimann, P. (2009). Interaction-controlled Brownian motion in a tilted periodic potential. &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt; 79.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Evstigneev, Mykhaylo, von Gehlen, Sebastian, and Reimann, Peter. 2009. “Interaction-controlled Brownian motion in a tilted periodic potential”. &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt; 79 (1).&lt;/div&gt;</chicago>
+<ama>Evstigneev M, von Gehlen S, Reimann P. Interaction-controlled Brownian motion in a tilted periodic potential. &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt;. 2009;79(1).</ama>
+<harvard1>Evstigneev, M., von Gehlen, S., &amp;amp; Reimann, P., 2009. Interaction-controlled Brownian motion in a tilted periodic potential. &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt;, 79(1).</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Evstigneev, M., von Gehlen, S. &amp;amp; Reimann, P. (2009). Interaction-controlled Brownian motion in a tilted periodic potential. &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt;, &lt;em&gt;79&lt;/em&gt;(1). American Physical Society (APS). doi:10.1103/PhysRevE.79.011116.&lt;/div&gt;</dgps>
+<aps>M.  Evstigneev, S.  von Gehlen, and P.  Reimann, Interaction-controlled Brownian motion in a tilted periodic potential, PHYSICAL REVIEW E &lt;strong&gt;79&lt;/strong&gt;, (2009).</aps>
+<bio1>Evstigneev M, von Gehlen S, Reimann P (2009) &lt;br /&gt;Interaction-controlled Brownian motion in a tilted periodic potential.&lt;br /&gt;PHYSICAL REVIEW E 79(1).</bio1>
+<wels>Evstigneev, M.; von Gehlen, S.; Reimann, P. (2009): Interaction-controlled Brownian motion in a tilted periodic potential &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt;,79:(1)</wels>
+<default>Evstigneev M, von Gehlen S, Reimann P (2009) &lt;br /&gt;PHYSICAL REVIEW E 79(1).</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1635500</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:41Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-17T14:18:42Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1635500</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1635500</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

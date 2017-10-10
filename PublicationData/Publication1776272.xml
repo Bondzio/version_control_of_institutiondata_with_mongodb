@@ -1,0 +1,124 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The onset of deconfinement in SU(2) lattice gauge theory</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Jürgen</namePart>
+  <namePart type="family">Engels</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40338</identifier></name>
+<name type="personal">
+  <namePart type="given">Jochen</namePart>
+  <namePart type="family">Fingberg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">K.</namePart>
+  <namePart type="family">Redlich</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Helmut</namePart>
+  <namePart type="family">Satz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40339</identifier></name>
+<name type="personal">
+  <namePart type="given">M.</namePart>
+  <namePart type="family">Weber</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Phänomenologie von Schwerionenkollisionen</namePart>
+  <identifier type="unibi">23470601</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">In SU(2) lattice gauge theory, we study deviations from ideal gas behaviour near the deconfinement point. On lattices of sizeN [sigma] 3 ×4,N [sigma]=8, 12, 18 and 26, we calculate the quantity [Delta]= [epsilon]–3P)/T 4. It increases sharply just above T c , peaks at T/T c =1.15 ±0.05 and then drops quickly. This form of behaviour is shown to be the consequence of a second order phase transition. Dynamically it could arise because just above T c , the low momentum states of the system are remnant massive modes rather than deconfined massless gluons.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Engels_014.pdf">https://pub.uni-bielefeld.de/download/1776272/2312131</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1989</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Zeitschrift für Physik, C: Particles and Fields</title></titleInfo>
+  <identifier type="issn">0170-9739</identifier>
+  <identifier type="eIssn">1434-6052</identifier>
+  <identifier type="INSPIRE">267830</identifier>
+  <identifier type="ISI">A1989T684400024</identifier><identifier type="urn">urn:nbn:de:0070-pub-17762728</identifier><identifier type="doi">10.1007/BF01555877</identifier>
+<part><detail type="volume"><number>42</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">341-347</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>J.  Engels, et al., The onset of deconfinement in SU(2) lattice gauge theory, Zeitschrift für Physik, C: Particles and Fields &lt;strong&gt;42&lt;/strong&gt;, 341-347 (1989).</aps>
+<bio1>Engels J, Fingberg J, Redlich K, Satz H, Weber M (1989) &lt;br /&gt;The onset of deconfinement in SU(2) lattice gauge theory.&lt;br /&gt;Zeitschrift für Physik, C: Particles and Fields 42(2): 341-347.</bio1>
+<harvard1>Engels, J., et al., 1989. The onset of deconfinement in SU(2) lattice gauge theory. &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt;, 42(2), p 341-347.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, J., Fingberg, J., Redlich, K., Satz, H. &amp;amp; Weber, M. (1989). The onset of deconfinement in SU(2) lattice gauge theory. &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt;, &lt;em&gt;42&lt;/em&gt;(2), 341-347. doi:10.1007/BF01555877.&lt;/div&gt;</dgps>
+<ama>Engels J, Fingberg J, Redlich K, Satz H, Weber M. The onset of deconfinement in SU(2) lattice gauge theory. &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt;. 1989;42(2):341-347.</ama>
+<default>Engels J, Fingberg J, Redlich K, Satz H, Weber M (1989) &lt;br /&gt;Zeitschrift für Physik, C: Particles and Fields 42(2): 341-347.</default>
+<wels>Engels, J.; Fingberg, J.; Redlich, K.; Satz, H.; Weber, M. (1989): The onset of deconfinement in SU(2) lattice gauge theory &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt;,42:(2): 341-347.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, J., Fingberg, J., Redlich, K., Satz, H., &amp;amp; Weber, M. (1989). The onset of deconfinement in SU(2) lattice gauge theory. &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt;, &lt;em&gt;42&lt;/em&gt;(2), 341-347.&lt;/div&gt;</apa_indent>
+<lncs>Engels, J., Fingberg, J., Redlich, K., Satz, H., Weber, M.: The onset of deconfinement in SU(2) lattice gauge theory. Zeitschrift für Physik, C: Particles and Fields. 42, 341-347 (1989).</lncs>
+<mla>Engels, Jürgen, Fingberg, Jochen, Redlich, K., Satz, Helmut, and Weber, M. “The onset of deconfinement in SU(2) lattice gauge theory”. &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt; 42.2 (1989): 341-347.</mla>
+<ieee>J. Engels, et al., “The onset of deconfinement in SU(2) lattice gauge theory”, &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt;,  vol. 42, 1989,  pp. 341-347.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, Jürgen, Fingberg, Jochen, Redlich, K., Satz, Helmut, and Weber, M. 1989. “The onset of deconfinement in SU(2) lattice gauge theory”. &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt; 42 (2): 341-347.&lt;/div&gt;</chicago>
+<frontiers>Engels, J., Fingberg, J., Redlich, K., Satz, H., and Weber, M. (1989). The onset of deconfinement in SU(2) lattice gauge theory. &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt; 42, 341-347.</frontiers>
+<apa>Engels, J., Fingberg, J., Redlich, K., Satz, H., &amp;amp; Weber, M. (1989). The onset of deconfinement in SU(2) lattice gauge theory. &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt;, &lt;em&gt;42&lt;/em&gt;(2), 341-347.</apa>
+<angewandte-chemie>J.  Engels, J.  Fingberg, K.  Redlich, H.  Satz, and M.  Weber, “The onset of deconfinement in SU(2) lattice gauge theory”, &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt;, &lt;strong&gt;1989&lt;/strong&gt;, &lt;em&gt;42&lt;/em&gt;, 341-347.</angewandte-chemie>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776272</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776272</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776272</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,116 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Erfolgreich in der Schule, diskriminiert im Beruf: geschlechtsspezifische Ungleichheiten bei der Berufseinmündung</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Hannelore</namePart>
+  <namePart type="family">Faulstich-Wieland</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Marianne</namePart>
+  <namePart type="family">Horstkemper</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Klaus-Jürgen</namePart>
+  <namePart type="family">Tillmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21774</identifier></name>
+<name type="personal">
+  <namePart type="given">Barbara</namePart>
+  <namePart type="family">Weißbach</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Erziehungswissenschaft</namePart>
+  <identifier type="unibi">10021</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG 4 - Schulentwicklung und Schulforschung</namePart>
+  <identifier type="unibi">7978212</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Tillmann_035.pdf">https://pub.uni-bielefeld.de/download/1778518/2312440</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1984</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Jahrbuch der Schulentwicklung</title></titleInfo>
+  <identifier type="issn">0173-4210</identifier><identifier type="urn">urn:nbn:de:0070-bipr-15807</identifier>
+<part><detail type="volume"><number>3</number></detail><extent unit="pages">117-143</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Faulstich-Wieland, H., Horstkemper, M., Tillmann, K.-J. &amp;amp; Weißbach, B. (1984). Erfolgreich in der Schule, diskriminiert im Beruf: geschlechtsspezifische Ungleichheiten bei der Berufseinmündung. &lt;em&gt;Jahrbuch der Schulentwicklung&lt;/em&gt;, &lt;em&gt;3&lt;/em&gt;, 117-143.&lt;/div&gt;</dgps>
+<ama>Faulstich-Wieland H, Horstkemper M, Tillmann K-J, Weißbach B. Erfolgreich in der Schule, diskriminiert im Beruf: geschlechtsspezifische Ungleichheiten bei der Berufseinmündung. &lt;em&gt;Jahrbuch der Schulentwicklung&lt;/em&gt;. 1984;3:117-143.</ama>
+<harvard1>Faulstich-Wieland, H., et al., 1984. Erfolgreich in der Schule, diskriminiert im Beruf: geschlechtsspezifische Ungleichheiten bei der Berufseinmündung. &lt;em&gt;Jahrbuch der Schulentwicklung&lt;/em&gt;, 3, p 117-143.</harvard1>
+<bio1>Faulstich-Wieland H, Horstkemper M, Tillmann K-J, Weißbach B (1984) &lt;br /&gt;Erfolgreich in der Schule, diskriminiert im Beruf: geschlechtsspezifische Ungleichheiten bei der Berufseinmündung.&lt;br /&gt;Jahrbuch der Schulentwicklung 3: 117-143.</bio1>
+<aps>H.  Faulstich-Wieland, et al., Erfolgreich in der Schule, diskriminiert im Beruf: geschlechtsspezifische Ungleichheiten bei der Berufseinmündung, Jahrbuch der Schulentwicklung &lt;strong&gt;3&lt;/strong&gt;, 117-143 (1984).</aps>
+<wels>Faulstich-Wieland, H.; Horstkemper, M.; Tillmann, K. - J.; Weißbach, B. (1984): Erfolgreich in der Schule, diskriminiert im Beruf: geschlechtsspezifische Ungleichheiten bei der Berufseinmündung &lt;em&gt;Jahrbuch der Schulentwicklung&lt;/em&gt;,3: 117-143.</wels>
+<default>Faulstich-Wieland H, Horstkemper M, Tillmann K-J, Weißbach B (1984) &lt;br /&gt;Jahrbuch der Schulentwicklung 3: 117-143.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Faulstich-Wieland, H., Horstkemper, M., Tillmann, K. - J., &amp;amp; Weißbach, B. (1984). Erfolgreich in der Schule, diskriminiert im Beruf: geschlechtsspezifische Ungleichheiten bei der Berufseinmündung. &lt;em&gt;Jahrbuch der Schulentwicklung&lt;/em&gt;, &lt;em&gt;3&lt;/em&gt;, 117-143.&lt;/div&gt;</apa_indent>
+<ieee>H. Faulstich-Wieland, et al., “Erfolgreich in der Schule, diskriminiert im Beruf: geschlechtsspezifische Ungleichheiten bei der Berufseinmündung”, &lt;em&gt;Jahrbuch der Schulentwicklung&lt;/em&gt;,  vol. 3, 1984,  pp. 117-143.</ieee>
+<lncs>Faulstich-Wieland, H., Horstkemper, M., Tillmann, K.-J., Weißbach, B.: Erfolgreich in der Schule, diskriminiert im Beruf: geschlechtsspezifische Ungleichheiten bei der Berufseinmündung. Jahrbuch der Schulentwicklung. 3, 117-143 (1984).</lncs>
+<mla>Faulstich-Wieland, Hannelore, Horstkemper, Marianne, Tillmann, Klaus-Jürgen, and Weißbach, Barbara. “Erfolgreich in der Schule, diskriminiert im Beruf: geschlechtsspezifische Ungleichheiten bei der Berufseinmündung”. &lt;em&gt;Jahrbuch der Schulentwicklung&lt;/em&gt; 3 (1984): 117-143.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Faulstich-Wieland, Hannelore, Horstkemper, Marianne, Tillmann, Klaus-Jürgen, and Weißbach, Barbara. 1984. “Erfolgreich in der Schule, diskriminiert im Beruf: geschlechtsspezifische Ungleichheiten bei der Berufseinmündung”. &lt;em&gt;Jahrbuch der Schulentwicklung&lt;/em&gt; 3: 117-143.&lt;/div&gt;</chicago>
+<apa>Faulstich-Wieland, H., Horstkemper, M., Tillmann, K. - J., &amp;amp; Weißbach, B. (1984). Erfolgreich in der Schule, diskriminiert im Beruf: geschlechtsspezifische Ungleichheiten bei der Berufseinmündung. &lt;em&gt;Jahrbuch der Schulentwicklung&lt;/em&gt;, &lt;em&gt;3&lt;/em&gt;, 117-143.</apa>
+<angewandte-chemie>H.  Faulstich-Wieland, M.  Horstkemper, K. - J.  Tillmann, and B.  Weißbach, “Erfolgreich in der Schule, diskriminiert im Beruf: geschlechtsspezifische Ungleichheiten bei der Berufseinmündung”, &lt;em&gt;Jahrbuch der Schulentwicklung&lt;/em&gt;, &lt;strong&gt;1984&lt;/strong&gt;, &lt;em&gt;3&lt;/em&gt;, 117-143.</angewandte-chemie>
+<frontiers>Faulstich-Wieland, H., Horstkemper, M., Tillmann, K. - J., and Weißbach, B. (1984). Erfolgreich in der Schule, diskriminiert im Beruf: geschlechtsspezifische Ungleichheiten bei der Berufseinmündung. &lt;em&gt;Jahrbuch der Schulentwicklung&lt;/em&gt; 3, 117-143.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1778518</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1778518</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1778518</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

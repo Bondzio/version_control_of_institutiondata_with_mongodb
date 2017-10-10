@@ -1,0 +1,143 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Multiple gains of spliceosomal introns in a superfamily of vertebrate protease inhibitor genes</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Hermann</namePart>
+  <namePart type="family">Ragg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10743</identifier></name>
+<name type="personal">
+  <namePart type="given">Abhishek</namePart>
+  <namePart type="family">Kumar</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Katharina</namePart>
+  <namePart type="family">Köster</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">39541</identifier></name>
+<name type="personal">
+  <namePart type="given">Caterina</namePart>
+  <namePart type="family">Bentele</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Yunjie</namePart>
+  <namePart type="family">Wang</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">12911222</identifier></name>
+<name type="personal">
+  <namePart type="given">Marc-Andre</namePart>
+  <namePart type="family">Frese</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Natalie</namePart>
+  <namePart type="family">Prib</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Olaf</namePart>
+  <namePart type="family">Krüger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Research Group  H. Ragg</namePart>
+  <identifier type="unibi">33086627</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Biochemie und Biotechnik</namePart>
+  <identifier type="unibi">4838684</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Zelluläre Genetik</namePart>
+  <identifier type="unibi">3855915</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Background: Intron gains reportedly are very rare during evolution of vertebrates, and the mechanisms underlying their creation are largely unknown. Previous investigations have shown that, during metazoan radiation, the exon-intron patterns of serpin superfamily genes were subject to massive changes, in contrast to many other genes. Results: Here we investigated intron dynamics in the serpin superfamily in lineages pre- and postdating the split of vertebrates. Multiple intron gains were detected in a group of ray-finned fishes, once the canonical groups of vertebrate serpins had been established. In two genes, cooccurrence of non-standard introns was observed, implying that intron gains in vertebrates may even happen concomitantly or in a rapidly consecutive manner. DNA breakage/repair processes associated with genome compaction are introduced as a novel factor potentially favoring intron gain, since all non-canonical introns were found in a lineage of ray-finned fishes that experienced genomic downsizing. Conclusion: Multiple intron acquisitions were identified in serpin genes of a lineage of ray-finned fishes, but not in any other vertebrates, suggesting that insertion rates for introns may be episodically increased. The co-occurrence of non-standard introns within the same gene discloses the possibility that introns may be gained simultaneously. The sequences flanking the intron insertion points correspond to the proto-splice site consensus sequence MAG↑N, previously proposed to serve as intron insertion site. The association of intron gains in the serpin superfamily with a group of fishes that underwent genome compaction may indicate that DNA breakage/repair processes might foster intron birth.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Reprint_paper.pdf">https://pub.uni-bielefeld.de/download/1784544/2314479</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Springer Science + Business Media</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>BMC Evolutionary Biology</title></titleInfo>
+  <identifier type="issn">1471-2148</identifier>
+  <identifier type="MEDLINE">19698129</identifier>
+  <identifier type="ISI">000270357400001</identifier><identifier type="urn">urn:nbn:de:0070-bipr-39284</identifier><identifier type="doi">10.1186/1471-2148-9-208</identifier>
+<part><detail type="volume"><number>9</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">208</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ragg, H., Kumar, A., Köster, K., Bentele, C., Wang, Y., Frese, M. - A., Prib, N., et al. (2009). Multiple gains of spliceosomal introns in a superfamily of vertebrate protease inhibitor genes. &lt;em&gt;BMC Evolutionary Biology&lt;/em&gt;, &lt;em&gt;9&lt;/em&gt;(1).&lt;/div&gt;</apa_indent>
+<ieee>H. Ragg, et al., “Multiple gains of spliceosomal introns in a superfamily of vertebrate protease inhibitor genes”, &lt;em&gt;BMC Evolutionary Biology&lt;/em&gt;,  vol. 9, 2009.</ieee>
+<mla>Ragg, Hermann, Kumar, Abhishek, Köster, Katharina, Bentele, Caterina, Wang, Yunjie, Frese, Marc-Andre, Prib, Natalie, and Krüger, Olaf. “Multiple gains of spliceosomal introns in a superfamily of vertebrate protease inhibitor genes”. &lt;em&gt;BMC Evolutionary Biology&lt;/em&gt; 9.1 (2009).</mla>
+<lncs>Ragg, H., Kumar, A., Köster, K., Bentele, C., Wang, Y., Frese, M.-A., Prib, N., Krüger, O.: Multiple gains of spliceosomal introns in a superfamily of vertebrate protease inhibitor genes. BMC Evolutionary Biology. 9, (2009).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ragg, Hermann, Kumar, Abhishek, Köster, Katharina, Bentele, Caterina, Wang, Yunjie, Frese, Marc-Andre, Prib, Natalie, and Krüger, Olaf. 2009. “Multiple gains of spliceosomal introns in a superfamily of vertebrate protease inhibitor genes”. &lt;em&gt;BMC Evolutionary Biology&lt;/em&gt; 9 (1).&lt;/div&gt;</chicago>
+<apa>Ragg, H., Kumar, A., Köster, K., Bentele, C., Wang, Y., Frese, M. - A., Prib, N., et al. (2009). Multiple gains of spliceosomal introns in a superfamily of vertebrate protease inhibitor genes. &lt;em&gt;BMC Evolutionary Biology&lt;/em&gt;, &lt;em&gt;9&lt;/em&gt;(1).</apa>
+<angewandte-chemie>H.  Ragg, A.  Kumar, K.  Köster, C.  Bentele, Y.  Wang, M. - A.  Frese, N.  Prib, and O.  Krüger, “Multiple gains of spliceosomal introns in a superfamily of vertebrate protease inhibitor genes”, &lt;em&gt;BMC Evolutionary Biology&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;9&lt;/em&gt;.</angewandte-chemie>
+<frontiers>Ragg, H., Kumar, A., Köster, K., Bentele, C., Wang, Y., Frese, M. - A., Prib, N., and Krüger, O. (2009). Multiple gains of spliceosomal introns in a superfamily of vertebrate protease inhibitor genes. &lt;em&gt;BMC Evolutionary Biology&lt;/em&gt; 9.</frontiers>
+<ama>Ragg H, Kumar A, Köster K, et al. Multiple gains of spliceosomal introns in a superfamily of vertebrate protease inhibitor genes. &lt;em&gt;BMC Evolutionary Biology&lt;/em&gt;. 2009;9(1).</ama>
+<harvard1>Ragg, H., et al., 2009. Multiple gains of spliceosomal introns in a superfamily of vertebrate protease inhibitor genes. &lt;em&gt;BMC Evolutionary Biology&lt;/em&gt;, 9(1).</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ragg, H., Kumar, A., Köster, K., Bentele, C., Wang, Y., Frese, M.-A., Prib, N. &amp;amp; Krüger, O. (2009). Multiple gains of spliceosomal introns in a superfamily of vertebrate protease inhibitor genes. &lt;em&gt;BMC Evolutionary Biology&lt;/em&gt;, &lt;em&gt;9&lt;/em&gt;(1). Springer Science + Business Media. doi:10.1186/1471-2148-9-208.&lt;/div&gt;</dgps>
+<bio1>Ragg H, Kumar A, Köster K, Bentele C, Wang Y, Frese M-A, Prib N, Krüger O (2009) &lt;br /&gt;Multiple gains of spliceosomal introns in a superfamily of vertebrate protease inhibitor genes.&lt;br /&gt;BMC Evolutionary Biology 9(1).</bio1>
+<aps>H.  Ragg, et al., Multiple gains of spliceosomal introns in a superfamily of vertebrate protease inhibitor genes, BMC Evolutionary Biology &lt;strong&gt;9&lt;/strong&gt;, (2009).</aps>
+<wels>Ragg, H.; Kumar, A.; Köster, K.; Bentele, C.; Wang, Y.; Frese, M. - A.; Prib, N.; Krüger, O. (2009): Multiple gains of spliceosomal introns in a superfamily of vertebrate protease inhibitor genes &lt;em&gt;BMC Evolutionary Biology&lt;/em&gt;,9:(1)</wels>
+<default>Ragg H, Kumar A, Köster K, Bentele C, Wang Y, Frese M-A, Prib N, Krüger O (2009) &lt;br /&gt;BMC Evolutionary Biology 9(1).</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1784544</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-03-09T13:11:45Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1784544</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1784544</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

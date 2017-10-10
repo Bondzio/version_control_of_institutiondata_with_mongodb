@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Zur Logik der Identitätstheorie</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ansgar</namePart>
+  <namePart type="family">Beckermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">16684</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Gerhard</namePart><namePart type="family">Pasternack</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Abteilung Philosophie</namePart>
+  <identifier type="unibi">10024</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Beckermann_20.pdf">https://pub.uni-bielefeld.de/download/1781078/2313149</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Lang</publisher><dateIssued encoding="w3cdtf">1990</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+<subject><topic>Wissenschaftsphilosophie</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Philosophie und Wissenschaften: zum Verhältnis von ontologischen, epistemologischen und methodologischen Voraussetzungen der Einzelwissenschaften ; Beiträge des Symposiums &quot;Philosophie und Wissenschaften&quot; in Bremen vom 4. bis 7. Oktober 1988</title></titleInfo>
+  <identifier type="isbn">3-631-42929-0</identifier><identifier type="urn">urn:nbn:de:0070-bipr-23412</identifier>
+<part><extent unit="pages">87-110</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Beckermann, A. (1990): Zur Logik der Identitätstheorie. In: Gerhard Pasternack (Hrsg.):  Philosophie und Wissenschaften: zum Verhältnis von ontologischen, epistemologischen und methodologischen Voraussetzungen der Einzelwissenschaften ; Beiträge des Symposiums &quot;Philosophie und Wissenschaften&quot; in Bremen vom 4. bis 7. Oktober 1988. Frankfurt am Main [u.a.]: Lang. (Philosophie und Geschichte der Wissenschaften ; 12, ).  S. 87-110.</wels>
+<default>Beckermann A (1990)  &lt;br /&gt;In:  Philosophie und Wissenschaften: zum Verhältnis von ontologischen, epistemologischen und methodologischen Voraussetzungen der Einzelwissenschaften ; Beiträge des Symposiums &quot;Philosophie und Wissenschaften&quot; in Bremen vom 4. bis 7. Oktober 1988. Pasternack G (Ed); Philosophie und Geschichte der Wissenschaften ; 12, . Frankfurt am Main [u.a.]: Lang:  87-110.</default>
+<ama>Beckermann A. Zur Logik der Identitätstheorie. In: Pasternack G, ed. &lt;em&gt;Philosophie und Wissenschaften: zum Verhältnis von ontologischen, epistemologischen und methodologischen Voraussetzungen der Einzelwissenschaften ; Beiträge des Symposiums &quot;Philosophie und Wissenschaften&quot; in Bremen vom 4. bis 7. Oktober 1988&lt;/em&gt;. Philosophie und Geschichte der Wissenschaften ; 12. Frankfurt am Main [u.a.]: Lang;  1990: 87-110.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Beckermann, A. (1990). Zur Logik der Identitätstheorie (Philosophie und Geschichte der Wissenschaften ; 12). &lt;em&gt;Philosophie und Wissenschaften: zum Verhältnis von ontologischen, epistemologischen und methodologischen Voraussetzungen der Einzelwissenschaften ; Beiträge des Symposiums &quot;Philosophie und Wissenschaften&quot; in Bremen vom 4. bis 7. Oktober 1988&lt;/em&gt; (S. 87-110). Frankfurt am Main [u.a.]: Lang.&lt;/div&gt;</dgps>
+<harvard1>Beckermann, A., 1990. Zur Logik der Identitätstheorie. In G.  Pasternack, ed. &lt;em&gt;Philosophie und Wissenschaften: zum Verhältnis von ontologischen, epistemologischen und methodologischen Voraussetzungen der Einzelwissenschaften ; Beiträge des Symposiums &quot;Philosophie und Wissenschaften&quot; in Bremen vom 4. bis 7. Oktober 1988&lt;/em&gt;. Philosophie und Geschichte der Wissenschaften ; 12.  Frankfurt am Main [u.a.]: Lang, pp. 87-110.</harvard1>
+<aps>A.  Beckermann, Zur Logik der Identitätstheorie, in &lt;em&gt;Philosophie und Wissenschaften: zum Verhältnis von ontologischen, epistemologischen und methodologischen Voraussetzungen der Einzelwissenschaften ; Beiträge des Symposiums &quot;Philosophie und Wissenschaften&quot; in Bremen vom 4. bis 7. Oktober 1988&lt;/em&gt;, edited by G.  Pasternack, Philosophie und Geschichte der Wissenschaften ; 12 (Lang, Frankfurt Am Main [U.a.], 1990), p. 87-110.</aps>
+<bio1>Beckermann A (1990) &lt;br /&gt;Zur Logik der Identitätstheorie. &lt;br /&gt;In:  Philosophie und Wissenschaften: zum Verhältnis von ontologischen, epistemologischen und methodologischen Voraussetzungen der Einzelwissenschaften ; Beiträge des Symposiums &quot;Philosophie und Wissenschaften&quot; in Bremen vom 4. bis 7. Oktober 1988. Pasternack G (Ed); Philosophie und Geschichte der Wissenschaften ; 12,  Frankfurt am Main [u.a.]: Lang:  87-110.</bio1>
+<apa>Beckermann, A. (1990). Zur Logik der Identitätstheorie. In G.  Pasternack (Ed.), &lt;em&gt;Philosophie und Geschichte der Wissenschaften ; 12&lt;/em&gt;&lt;em&gt;. Philosophie und Wissenschaften: zum Verhältnis von ontologischen, epistemologischen und methodologischen Voraussetzungen der Einzelwissenschaften ; Beiträge des Symposiums &quot;Philosophie und Wissenschaften&quot; in Bremen vom 4. bis 7. Oktober 1988&lt;/em&gt; (pp. 87-110). Frankfurt am Main [u.a.]: Lang.</apa>
+<angewandte-chemie>A.  Beckermann, in &lt;em&gt;Philosophie und Wissenschaften: zum Verhältnis von ontologischen, epistemologischen und methodologischen Voraussetzungen der Einzelwissenschaften ; Beiträge des Symposiums &quot;Philosophie und Wissenschaften&quot; in Bremen vom 4. bis 7. Oktober 1988&lt;/em&gt; (Ed.: G. Pasternack), Lang, Frankfurt am Main [u.a.], &lt;strong&gt;1990&lt;/strong&gt;, p. 87-110.</angewandte-chemie>
+<frontiers>Beckermann, A. (1990). “Zur Logik der Identitätstheorie” in &lt;em&gt;Philosophie und Wissenschaften: zum Verhältnis von ontologischen, epistemologischen und methodologischen Voraussetzungen der Einzelwissenschaften ; Beiträge des Symposiums &quot;Philosophie und Wissenschaften&quot; in Bremen vom 4. bis 7. Oktober 1988&lt;/em&gt;, ed. G.  Pasternack Philosophie und Geschichte der Wissenschaften ; 12 (Frankfurt am Main [u.a.]: Lang), 87-110.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Beckermann, Ansgar. 1990. “Zur Logik der Identitätstheorie”. In &lt;em&gt;Philosophie und Wissenschaften: zum Verhältnis von ontologischen, epistemologischen und methodologischen Voraussetzungen der Einzelwissenschaften ; Beiträge des Symposiums &quot;Philosophie und Wissenschaften&quot; in Bremen vom 4. bis 7. Oktober 1988&lt;/em&gt;, ed. Gerhard Pasternack, 87-110. Philosophie und Geschichte der Wissenschaften ; 12. Frankfurt am Main [u.a.]: Lang.&lt;/div&gt;</chicago>
+<ieee>A. Beckermann, “Zur Logik der Identitätstheorie”, &lt;em&gt;Philosophie und Wissenschaften: zum Verhältnis von ontologischen, epistemologischen und methodologischen Voraussetzungen der Einzelwissenschaften ; Beiträge des Symposiums &quot;Philosophie und Wissenschaften&quot; in Bremen vom 4. bis 7. Oktober 1988&lt;/em&gt;, G. Pasternack, ed., Philosophie und Geschichte der Wissenschaften ; 12,  Frankfurt am Main [u.a.]: Lang, 1990,  pp.87-110.</ieee>
+<lncs>Beckermann, A.: Zur Logik der Identitätstheorie. In: Pasternack, G. (ed.) Philosophie und Wissenschaften: zum Verhältnis von ontologischen, epistemologischen und methodologischen Voraussetzungen der Einzelwissenschaften ; Beiträge des Symposiums &quot;Philosophie und Wissenschaften&quot; in Bremen vom 4. bis 7. Oktober 1988. Philosophie und Geschichte der Wissenschaften ; 12. p. 87-110. Lang, Frankfurt am Main [u.a.] (1990).</lncs>
+<mla>Beckermann, Ansgar. “Zur Logik der Identitätstheorie”. &lt;em&gt;Philosophie und Wissenschaften: zum Verhältnis von ontologischen, epistemologischen und methodologischen Voraussetzungen der Einzelwissenschaften ; Beiträge des Symposiums &quot;Philosophie und Wissenschaften&quot; in Bremen vom 4. bis 7. Oktober 1988&lt;/em&gt;. Ed. Gerhard Pasternack. Frankfurt am Main [u.a.]: Lang, 1990. Philosophie und Geschichte der Wissenschaften ; 12. 87-110.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Beckermann, A. (1990). Zur Logik der Identitätstheorie. In G.  Pasternack (Ed.), &lt;em&gt;Philosophie und Geschichte der Wissenschaften ; 12&lt;/em&gt;&lt;em&gt;. Philosophie und Wissenschaften: zum Verhältnis von ontologischen, epistemologischen und methodologischen Voraussetzungen der Einzelwissenschaften ; Beiträge des Symposiums &quot;Philosophie und Wissenschaften&quot; in Bremen vom 4. bis 7. Oktober 1988&lt;/em&gt; (pp. 87-110). Frankfurt am Main [u.a.]: Lang.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781078</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781078</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781078</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

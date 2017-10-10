@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Wie global ist die Weltrisikogesellschaft?</title></titleInfo>
+
+
+
+
+
+<name type="personal">
+  <namePart type="given">U.</namePart>
+  <namePart type="family">Beck</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Boris</namePart>
+  <namePart type="family">Holzer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">14852973</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Arbeitsbereich 4 - Politik und Gesellschaft</namePart>
+  <identifier type="unibi">5656050</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Weltgesellschaft</namePart>
+  <identifier type="unibi">89044</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Suhrkamp</publisher><dateIssued encoding="w3cdtf">2004</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Beck, U.; Lau, C. (Hrsg.): Entgrenzung und Entscheidung</title></titleInfo>
+<part><extent unit="pages">421-439</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Beck U, Holzer B. Wie global ist die Weltrisikogesellschaft? In:  &lt;em&gt;Beck, U.; Lau, C. (Hrsg.): Entgrenzung und Entscheidung&lt;/em&gt;. Frankfurt/Main: Suhrkamp;  2004: 421-439.</ama>
+<harvard1>Beck, U., &amp;amp; Holzer, B., 2004. Wie global ist die Weltrisikogesellschaft? In &lt;em&gt;Beck, U.; Lau, C. (Hrsg.): Entgrenzung und Entscheidung&lt;/em&gt;.  Frankfurt/Main: Suhrkamp, pp. 421-439.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Beck, U. &amp;amp; Holzer, B. (2004). Wie global ist die Weltrisikogesellschaft? &lt;em&gt;Beck, U.; Lau, C. (Hrsg.): Entgrenzung und Entscheidung&lt;/em&gt; (S. 421-439). Frankfurt/Main: Suhrkamp.&lt;/div&gt;</dgps>
+<bio1>Beck U, Holzer B (2004) &lt;br /&gt;Wie global ist die Weltrisikogesellschaft? &lt;br /&gt;In:  Beck, U.; Lau, C. (Hrsg.): Entgrenzung und Entscheidung.  Frankfurt/Main: Suhrkamp:  421-439.</bio1>
+<aps>U.  Beck and B.  Holzer, Wie global ist die Weltrisikogesellschaft?, in &lt;em&gt;Beck, U.; Lau, C. (Hrsg.): Entgrenzung und Entscheidung&lt;/em&gt; (Suhrkamp, Frankfurt/main, 2004), p. 421-439.</aps>
+<wels>Beck, U.; Holzer, B. (2004): Wie global ist die Weltrisikogesellschaft? In: Beck, U.; Lau, C. (Hrsg.): Entgrenzung und Entscheidung. Frankfurt/Main: Suhrkamp.  S. 421-439.</wels>
+<default>Beck U, Holzer B (2004)  &lt;br /&gt;In:  Beck, U.; Lau, C. (Hrsg.): Entgrenzung und Entscheidung. Frankfurt/Main: Suhrkamp:  421-439.</default>
+<ieee>U. Beck and B. Holzer, “Wie global ist die Weltrisikogesellschaft?”, &lt;em&gt;Beck, U.; Lau, C. (Hrsg.): Entgrenzung und Entscheidung&lt;/em&gt;,  Frankfurt/Main: Suhrkamp, 2004,  pp.421-439.</ieee>
+<mla>Beck, U., and Holzer, Boris. “Wie global ist die Weltrisikogesellschaft?”. &lt;em&gt;Beck, U.; Lau, C. (Hrsg.): Entgrenzung und Entscheidung&lt;/em&gt;. Frankfurt/Main: Suhrkamp, 2004. 421-439.</mla>
+<lncs>Beck, U., Holzer, B.: Wie global ist die Weltrisikogesellschaft? Beck, U.; Lau, C. (Hrsg.): Entgrenzung und Entscheidung. p. 421-439. Suhrkamp, Frankfurt/Main (2004).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Beck, U., &amp;amp; Holzer, B. (2004). Wie global ist die Weltrisikogesellschaft? &lt;em&gt;Beck, U.; Lau, C. (Hrsg.): Entgrenzung und Entscheidung&lt;/em&gt;, 421-439.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>U.  Beck, and B.  Holzer, in &lt;em&gt;Beck, U.; Lau, C. (Hrsg.): Entgrenzung und Entscheidung&lt;/em&gt;, Suhrkamp, Frankfurt/Main, &lt;strong&gt;2004&lt;/strong&gt;, p. 421-439.</angewandte-chemie>
+<apa>Beck, U., &amp;amp; Holzer, B. (2004). Wie global ist die Weltrisikogesellschaft? &lt;em&gt;Beck, U.; Lau, C. (Hrsg.): Entgrenzung und Entscheidung&lt;/em&gt;, 421-439.</apa>
+<frontiers>Beck, U., and Holzer, B. (2004). “Wie global ist die Weltrisikogesellschaft?” in &lt;em&gt;Beck, U.; Lau, C. (Hrsg.): Entgrenzung und Entscheidung&lt;/em&gt; (Frankfurt/Main: Suhrkamp), 421-439.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Beck, U., and Holzer, Boris. 2004. “Wie global ist die Weltrisikogesellschaft?”. In &lt;em&gt;Beck, U.; Lau, C. (Hrsg.): Entgrenzung und Entscheidung&lt;/em&gt;, 421-439. Frankfurt/Main: Suhrkamp.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1857290</recordIdentifier><recordChangeDate encoding="w3cdtf">2010-12-22T10:17:43Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1857290</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1857290</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

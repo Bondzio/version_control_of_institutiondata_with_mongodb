@@ -1,0 +1,108 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Addressing the retrieval problem in large knowledge bases: [Proceedings] Computational Intelligence 90</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ipke</namePart>
+  <namePart type="family">Wachsmuth</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">73476</identifier></name>
+<name type="personal">
+  <namePart type="given">Josef</namePart>
+  <namePart type="family">Meyer-Fujara</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Technische Fakultät</namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Wissensbasierte Systeme</namePart>
+  <identifier type="unibi">10044</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Large bodies of knowledge require careful consideration of the retrieval problem. If packets of knowledge can be identified that account for special cases in the application area, they might be left unaccessed when other knowledge is found relevant. The paper discusses principles for the organization of structured knowledge bases, aspects of granularity important for structuring knowledge, and the need for mechanisms to mediate changes among different levels of detail. Significant clusters of domain con-cept words, possibly identified by associanist networks, are considered promising candidates to guide context-driven knowledge retrieval with respect to specificity as well as to granularity.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Wachsmuth_27.pdf">https://pub.uni-bielefeld.de/download/1779270/2312635</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1990</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>MOSYS-Report</title></titleInfo><identifier type="urn">urn:nbn:de:0070-bipr-18100</identifier>
+<part><detail type="issue"><number>3</number></detail><extent unit="pages">1-13</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Wachsmuth I, Meyer-Fujara J (1990) &lt;br /&gt;MOSYS-Report (3): 1-13.</default>
+<wels>Wachsmuth, I.; Meyer-Fujara, J. (1990): Addressing the retrieval problem in large knowledge bases: [Proceedings] Computational Intelligence 90 &lt;em&gt;MOSYS-Report&lt;/em&gt;,(3): 1-13.</wels>
+<bio1>Wachsmuth I, Meyer-Fujara J (1990) &lt;br /&gt;Addressing the retrieval problem in large knowledge bases: [Proceedings] Computational Intelligence 90.&lt;br /&gt;MOSYS-Report (3): 1-13.</bio1>
+<aps>I.  Wachsmuth and J.  Meyer-Fujara, Addressing the retrieval problem in large knowledge bases: [Proceedings] Computational Intelligence 90, MOSYS-Report 1-13 (1990).</aps>
+<ama>Wachsmuth I, Meyer-Fujara J. Addressing the retrieval problem in large knowledge bases: [Proceedings] Computational Intelligence 90. &lt;em&gt;MOSYS-Report&lt;/em&gt;. 1990;(3):1-13.</ama>
+<harvard1>Wachsmuth, I., &amp;amp; Meyer-Fujara, J., 1990. Addressing the retrieval problem in large knowledge bases: [Proceedings] Computational Intelligence 90. &lt;em&gt;MOSYS-Report&lt;/em&gt;, (3), p 1-13.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wachsmuth, I. &amp;amp; Meyer-Fujara, J. (1990). Addressing the retrieval problem in large knowledge bases: [Proceedings] Computational Intelligence 90. &lt;em&gt;MOSYS-Report&lt;/em&gt;, (3), 1-13.&lt;/div&gt;</dgps>
+<frontiers>Wachsmuth, I., and Meyer-Fujara, J. (1990). Addressing the retrieval problem in large knowledge bases: [Proceedings] Computational Intelligence 90. &lt;em&gt;MOSYS-Report&lt;/em&gt;, 1-13.</frontiers>
+<apa>Wachsmuth, I., &amp;amp; Meyer-Fujara, J. (1990). Addressing the retrieval problem in large knowledge bases: [Proceedings] Computational Intelligence 90. &lt;em&gt;MOSYS-Report&lt;/em&gt;(3), 1-13.</apa>
+<angewandte-chemie>I.  Wachsmuth, and J.  Meyer-Fujara, “Addressing the retrieval problem in large knowledge bases: [Proceedings] Computational Intelligence 90”, &lt;em&gt;MOSYS-Report&lt;/em&gt;, &lt;strong&gt;1990&lt;/strong&gt;, 1-13.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wachsmuth, Ipke, and Meyer-Fujara, Josef. 1990. “Addressing the retrieval problem in large knowledge bases: [Proceedings] Computational Intelligence 90”. &lt;em&gt;MOSYS-Report&lt;/em&gt;, no. 3: 1-13.&lt;/div&gt;</chicago>
+<mla>Wachsmuth, Ipke, and Meyer-Fujara, Josef. “Addressing the retrieval problem in large knowledge bases: [Proceedings] Computational Intelligence 90”. &lt;em&gt;MOSYS-Report&lt;/em&gt; 3 (1990): 1-13.</mla>
+<lncs>Wachsmuth, I., Meyer-Fujara, J.: Addressing the retrieval problem in large knowledge bases: [Proceedings] Computational Intelligence 90. MOSYS-Report. 1-13 (1990).</lncs>
+<ieee>I. Wachsmuth and J. Meyer-Fujara, “Addressing the retrieval problem in large knowledge bases: [Proceedings] Computational Intelligence 90”, &lt;em&gt;MOSYS-Report&lt;/em&gt;, 1990,  pp. 1-13.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wachsmuth, I., &amp;amp; Meyer-Fujara, J. (1990). Addressing the retrieval problem in large knowledge bases: [Proceedings] Computational Intelligence 90. &lt;em&gt;MOSYS-Report&lt;/em&gt;(3), 1-13.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1779270</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1779270</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1779270</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

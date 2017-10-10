@@ -1,0 +1,139 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Multimodal Content Representation for Speech and Gesture Production</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Kirsten</namePart>
+  <namePart type="family">Bergmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">182997</identifier></name>
+<name type="personal">
+  <namePart type="given">Stefan</namePart>
+  <namePart type="family">Kopp</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">14743</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-4047-9277</description></name>
+
+
+
+<name type="personal"><namePart type="given">M.</namePart><namePart type="family">Theune</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">I.</namePart><namePart type="family">van der Sluis</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Y.</namePart><namePart type="family">Bachvarova</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">E.</namePart><namePart type="family">André</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">24110177</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">27015129</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10044</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">8014655</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+<name type="conference">
+  <namePart>AISB</namePart>
+</name>
+
+
+
+
+
+
+<abstract lang="eng">This paper presents a computational perspective on the
+joint production process for speech and gesture. Based on empirical evidence indicating a mutual influence of speech and gesture in utterance production, we propose an interface between imagistic and propositional knowledge at the level of content representation. This is integrated into a generation architecture in which the planning of
+content and the planning of form across both modalities proceeds in an interactive manner.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="BergmannKopp.pdf">https://pub.uni-bielefeld.de/download/1857839/2487747</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+</relatedItem>
+<originInfo><publisher>SSAISB</publisher><dateIssued encoding="w3cdtf">2008</dateIssued><place><placeTerm type="text">Brighton, UK</placeTerm></place>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Symposium at the AISB Annual Convention: Multimodal Output Generation</title></titleInfo>
+<part><extent unit="pages">61-68</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Bergmann K, Kopp S (2008)  &lt;br /&gt;In:  Symposium at the AISB Annual Convention: Multimodal Output Generation. Theune M, van der Sluis I, Bachvarova Y, André E (Eds);Aberdeen, UK: SSAISB:  61-68.</default>
+<wels>Bergmann, K.; Kopp, S. (2008): Multimodal Content Representation for Speech and Gesture Production. In: M. Theune; I. van der Sluis; Y. Bachvarova; E. André (Hrsg.):  Symposium at the AISB Annual Convention: Multimodal Output Generation. Aberdeen, UK: SSAISB.  S. 61-68.</wels>
+<bio1>Bergmann K, Kopp S (2008) &lt;br /&gt;Multimodal Content Representation for Speech and Gesture Production. &lt;br /&gt;In:  Symposium at the AISB Annual Convention: Multimodal Output Generation. Theune M, van der Sluis I, Bachvarova Y, André E (Eds); Aberdeen, UK: SSAISB:  61-68.</bio1>
+<aps>K.  Bergmann and S.  Kopp, Multimodal Content Representation for Speech and Gesture Production, in &lt;em&gt;Symposium at the AISB Annual Convention: Multimodal Output Generation&lt;/em&gt;, edited by M.  Theune, et al. (SSAISB, Aberdeen, Uk, 2008), p. 61-68.</aps>
+<ama>Bergmann K, Kopp S. Multimodal Content Representation for Speech and Gesture Production. In: Theune M, van der Sluis I, Bachvarova Y, André E, eds. &lt;em&gt;Symposium at the AISB Annual Convention: Multimodal Output Generation&lt;/em&gt;. Aberdeen, UK: SSAISB;  2008: 61-68.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bergmann, K. &amp;amp; Kopp, S. (2008). Multimodal Content Representation for Speech and Gesture Production. &lt;em&gt;Symposium at the AISB Annual Convention: Multimodal Output Generation&lt;/em&gt; (S. 61-68). Gehalten auf der AISB, Aberdeen, UK: SSAISB.&lt;/div&gt;</dgps>
+<harvard1>Bergmann, K., &amp;amp; Kopp, S., 2008. Multimodal Content Representation for Speech and Gesture Production. In M.  Theune, et al., eds. &lt;em&gt;Symposium at the AISB Annual Convention: Multimodal Output Generation&lt;/em&gt;.  Aberdeen, UK: SSAISB, pp. 61-68.</harvard1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bergmann, Kirsten, and Kopp, Stefan. 2008. “Multimodal Content Representation for Speech and Gesture Production”. In &lt;em&gt;Symposium at the AISB Annual Convention: Multimodal Output Generation&lt;/em&gt;, ed. M. Theune, I. van der Sluis, Y. Bachvarova, and E. André, 61-68. Aberdeen, UK: SSAISB.&lt;/div&gt;</chicago>
+<frontiers>Bergmann, K., and Kopp, S. (2008). “Multimodal Content Representation for Speech and Gesture Production” in &lt;em&gt;Symposium at the AISB Annual Convention: Multimodal Output Generation&lt;/em&gt;, ed. M.  Theune, I.  van der Sluis, Y.  Bachvarova, and E.  André (Aberdeen, UK: SSAISB), 61-68.</frontiers>
+<angewandte-chemie>K.  Bergmann, and S.  Kopp, in &lt;em&gt;Symposium at the AISB Annual Convention: Multimodal Output Generation&lt;/em&gt; (Eds.: M. Theune, I. van der Sluis, Y. Bachvarova, E. André), Ssaisb, Aberdeen, UK, &lt;strong&gt;2008&lt;/strong&gt;, p. 61-68.</angewandte-chemie>
+<apa>Bergmann, K., &amp;amp; Kopp, S. (2008). Multimodal Content Representation for Speech and Gesture Production. In M.  Theune, I.  van der Sluis, Y.  Bachvarova, &amp;amp; E.  André (Eds.), &lt;em&gt;Symposium at the AISB Annual Convention: Multimodal Output Generation&lt;/em&gt; (pp. 61-68). Aberdeen, UK: SSAISB.</apa>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bergmann, K., &amp;amp; Kopp, S. (2008). Multimodal Content Representation for Speech and Gesture Production. In M.  Theune, I.  van der Sluis, Y.  Bachvarova, &amp;amp; E.  André (Eds.), &lt;em&gt;Symposium at the AISB Annual Convention: Multimodal Output Generation&lt;/em&gt; (pp. 61-68). Aberdeen, UK: SSAISB.&lt;/div&gt;</apa_indent>
+<lncs>Bergmann, K., Kopp, S.: Multimodal Content Representation for Speech and Gesture Production. In: Theune, M., van der Sluis, I., Bachvarova, Y., and André, E. (eds.) Symposium at the AISB Annual Convention: Multimodal Output Generation. p. 61-68. SSAISB, Aberdeen, UK (2008).</lncs>
+<mla>Bergmann, Kirsten, and Kopp, Stefan. “Multimodal Content Representation for Speech and Gesture Production”. &lt;em&gt;Symposium at the AISB Annual Convention: Multimodal Output Generation&lt;/em&gt;. Ed. M. Theune, I. van der Sluis, Y. Bachvarova, and E. André. Aberdeen, UK: SSAISB, 2008. 61-68.</mla>
+<ieee>K. Bergmann and S. Kopp, “Multimodal Content Representation for Speech and Gesture Production”, &lt;em&gt;Symposium at the AISB Annual Convention: Multimodal Output Generation&lt;/em&gt;, M. Theune, et al., eds.,  Aberdeen, UK: SSAISB, 2008,  pp.61-68.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1857839</recordIdentifier><recordCreationDate encoding="w3cdtf">2015-12-16T08:08:44Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-03-09T07:20:03Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1857839</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1857839</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

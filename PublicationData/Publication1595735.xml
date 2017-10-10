@@ -1,0 +1,108 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Ice recrystallization inhibition and molecular recognition of ice faces by poly(vinyl alcohol)</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Carsten</namePart>
+  <namePart type="family">Budke</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">170311</identifier></name>
+<name type="personal">
+  <namePart type="given">Thomas</namePart>
+  <namePart type="family">Koop</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">104033</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-7571-3684</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Chemie</namePart>
+  <identifier type="unibi">10018</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Physikalische Chemie II</namePart>
+  <identifier type="unibi">17980</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The effects of poly(vinyl alcohol) (PVA) on the Ostwald ripening of polycrystalline ice samples are studied. At -6 degrees C, ice recrystallization in sucrose solutions is inhibited at PVA concentrations down to 0.005 mg mL(-1), with a recrystollization inhibition constant of 48.9 mL mg(-1). Ice growth-habit experiments reveal molecular recognition of the arrangement of water molecules in the ice by PVA molecules, and indicate that PVA molecules adsorb to the primary and secondary prism faces of hexagonal ice, lh. Based on these observations, together with an analysis of the O-atom pattern in ice and the conformation of OH groups in PVA, an adsorption model is proposed. We suggest that PVA segments adsorb to the primary and secondary prism faces of ice parallel to the c axis with a linear misfit parameter of only 2.7%, most likely via multiple hydrogen bonds. The proposed adsorption mechanism is discussed in the light of recent thermal hysteresis and scanning tunneling microscopy experiments.</abstract>
+
+<originInfo><publisher>WILEY-V C H VERLAG GMBH</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>adsorption</topic><topic>ice</topic><topic>molecular</topic><topic>recrystallization</topic><topic>recognition</topic><topic>crystal growth</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>CHEMPHYSCHEM</title></titleInfo>
+  <identifier type="issn">1439-4235</identifier>
+  <identifier type="MEDLINE">17109452</identifier>
+  <identifier type="ISI">000244334000026</identifier><identifier type="doi">10.1002/cphc.200600533</identifier>
+<part><detail type="volume"><number>7</number></detail><detail type="issue"><number>12</number></detail><extent unit="pages">2601-2606</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>C. Budke and T. Koop, “Ice recrystallization inhibition and molecular recognition of ice faces by poly(vinyl alcohol)”, &lt;em&gt;CHEMPHYSCHEM&lt;/em&gt;,  vol. 7, 2006,  pp. 2601-2606.</ieee>
+<lncs>Budke, C., Koop, T.: Ice recrystallization inhibition and molecular recognition of ice faces by poly(vinyl alcohol). CHEMPHYSCHEM. 7, 2601-2606 (2006).</lncs>
+<mla>Budke, Carsten, and Koop, Thomas. “Ice recrystallization inhibition and molecular recognition of ice faces by poly(vinyl alcohol)”. &lt;em&gt;CHEMPHYSCHEM&lt;/em&gt; 7.12 (2006): 2601-2606.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Budke, C., &amp;amp; Koop, T. (2006). Ice recrystallization inhibition and molecular recognition of ice faces by poly(vinyl alcohol). &lt;em&gt;CHEMPHYSCHEM&lt;/em&gt;, &lt;em&gt;7&lt;/em&gt;(12), 2601-2606.&lt;/div&gt;</apa_indent>
+<apa>Budke, C., &amp;amp; Koop, T. (2006). Ice recrystallization inhibition and molecular recognition of ice faces by poly(vinyl alcohol). &lt;em&gt;CHEMPHYSCHEM&lt;/em&gt;, &lt;em&gt;7&lt;/em&gt;(12), 2601-2606.</apa>
+<angewandte-chemie>C.  Budke, and T.  Koop, “Ice recrystallization inhibition and molecular recognition of ice faces by poly(vinyl alcohol)”, &lt;em&gt;CHEMPHYSCHEM&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;7&lt;/em&gt;, 2601-2606.</angewandte-chemie>
+<frontiers>Budke, C., and Koop, T. (2006). Ice recrystallization inhibition and molecular recognition of ice faces by poly(vinyl alcohol). &lt;em&gt;CHEMPHYSCHEM&lt;/em&gt; 7, 2601-2606.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Budke, Carsten, and Koop, Thomas. 2006. “Ice recrystallization inhibition and molecular recognition of ice faces by poly(vinyl alcohol)”. &lt;em&gt;CHEMPHYSCHEM&lt;/em&gt; 7 (12): 2601-2606.&lt;/div&gt;</chicago>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Budke, C. &amp;amp; Koop, T. (2006). Ice recrystallization inhibition and molecular recognition of ice faces by poly(vinyl alcohol). &lt;em&gt;CHEMPHYSCHEM&lt;/em&gt;, &lt;em&gt;7&lt;/em&gt;(12), 2601-2606. WILEY-V C H VERLAG GMBH. doi:10.1002/cphc.200600533.&lt;/div&gt;</dgps>
+<harvard1>Budke, C., &amp;amp; Koop, T., 2006. Ice recrystallization inhibition and molecular recognition of ice faces by poly(vinyl alcohol). &lt;em&gt;CHEMPHYSCHEM&lt;/em&gt;, 7(12), p 2601-2606.</harvard1>
+<ama>Budke C, Koop T. Ice recrystallization inhibition and molecular recognition of ice faces by poly(vinyl alcohol). &lt;em&gt;CHEMPHYSCHEM&lt;/em&gt;. 2006;7(12):2601-2606.</ama>
+<aps>C.  Budke and T.  Koop, Ice recrystallization inhibition and molecular recognition of ice faces by poly(vinyl alcohol), CHEMPHYSCHEM &lt;strong&gt;7&lt;/strong&gt;, 2601-2606 (2006).</aps>
+<bio1>Budke C, Koop T (2006) &lt;br /&gt;Ice recrystallization inhibition and molecular recognition of ice faces by poly(vinyl alcohol).&lt;br /&gt;CHEMPHYSCHEM 7(12): 2601-2606.</bio1>
+<wels>Budke, C.; Koop, T. (2006): Ice recrystallization inhibition and molecular recognition of ice faces by poly(vinyl alcohol) &lt;em&gt;CHEMPHYSCHEM&lt;/em&gt;,7:(12): 2601-2606.</wels>
+<default>Budke C, Koop T (2006) &lt;br /&gt;CHEMPHYSCHEM 7(12): 2601-2606.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1595735</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:47Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-10-02T16:58:19Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1595735</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1595735</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

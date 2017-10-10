@@ -1,0 +1,166 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Comparative sequence analysis of Solanum and Arabidopsis in a hot spot for pathogen resistance on potato chromosome V reveals a patchwork of conserved and rapidly evolving genome segments</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Agim</namePart>
+  <namePart type="family">Ballvora</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Anika</namePart>
+  <namePart type="family">Joecker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Prisca</namePart>
+  <namePart type="family">Viehöver</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">159120</identifier></name>
+<name type="personal">
+  <namePart type="given">Hirofumi</namePart>
+  <namePart type="family">Ishihara</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Juergen</namePart>
+  <namePart type="family">Paal</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Khalid</namePart>
+  <namePart type="family">Meksem</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Remy</namePart>
+  <namePart type="family">Bruggmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Heiko</namePart>
+  <namePart type="family">Schoof</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Bernd</namePart>
+  <namePart type="family">Weisshaar</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">86212</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-7635-3473</description></name>
+<name type="personal">
+  <namePart type="given">Christiane</namePart>
+  <namePart type="family">Gebhardt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2684836</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070678</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Background: Quantitative phenotypic variation of agronomic characters in crop plants is controlled by environmental
+and genetic factors (quantitative trait loci = QTL). To understand the molecular basis of such QTL, the identification of
+the underlying genes is of primary interest and DNA sequence analysis of the genomic regions harboring QTL is a
+prerequisite for that. QTL mapping in potato (Solanum tuberosum) has identified a region on chromosome V tagged by
+DNA markers GP21 and GP179, which contains a number of important QTL, among others QTL for resistance to late
+blight caused by the oomycete Phytophthora infestans and to root cyst nematodes.
+Results: To obtain genomic sequence for the targeted region on chromosome V, two local BAC (bacterial artificial
+chromosome) contigs were constructed and sequenced, which corresponded to parts of the homologous chromosomes
+of the diploid, heterozygous genotype P6/210. Two contiguous sequences of 417,445 and 202,781 base pairs were
+assembled and annotated. Gene-by-gene co-linearity was disrupted by non-allelic insertions of retrotransposon elements,
+stretches of diverged intergenic sequences, differences in gene content and gene order. The latter was caused by
+inversion of a 70 kbp genomic fragment. These features were also found in comparison to orthologous sequence contigs
+from three homeologous chromosomes of Solanum demissum, a wild tuber bearing species. Functional annotation of the
+sequence identified 48 putative open reading frames (ORF) in one contig and 22 in the other, with an average of one
+ORF every 9 kbp. Ten ORFs were classified as resistance-gene-like, 11 as F-box-containing genes, 13 as transposable
+elements and three as transcription factors. Comparing potato to Arabidopsis thaliana annotated proteins revealed five
+micro-syntenic blocks of three to seven ORFs with A. thaliana chromosomes 1, 3 and 5.
+Conclusion: Comparative sequence analysis revealed highly conserved collinear regions that flank regions showing high
+variability and tandem duplicated genes. Sequence annotation revealed that the majority of the ORFs were members of
+multiple gene families. Comparing potato to Arabidopsis thaliana annotated proteins suggested fragmented structural
+conservation between these distantly related plant species</abstract>
+
+<originInfo><publisher>Biomed Central Ltd</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>BMC Genomics</title></titleInfo>
+  <identifier type="issn">1471-2164</identifier>
+  <identifier type="MEDLINE">17474978</identifier>
+  <identifier type="ISI">000247013400001</identifier><identifier type="doi">10.1186/1471-2164-8-112</identifier>
+<part><detail type="volume"><number>8</number></detail><detail type="issue"><number>1</number></detail>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>A.  Ballvora, et al., Comparative sequence analysis of Solanum and Arabidopsis in a hot spot for pathogen resistance on potato chromosome V reveals a patchwork of conserved and rapidly evolving genome segments, BMC Genomics &lt;strong&gt;8&lt;/strong&gt;, (2007).</aps>
+<bio1>Ballvora A, Joecker A, Viehöver P, Ishihara H, Paal J, Meksem K, Bruggmann R, Schoof H, Weisshaar B, Gebhardt C (2007) &lt;br /&gt;Comparative sequence analysis of Solanum and Arabidopsis in a hot spot for pathogen resistance on potato chromosome V reveals a patchwork of conserved and rapidly evolving genome segments.&lt;br /&gt;BMC Genomics 8(1): 112.</bio1>
+<ama>Ballvora A, Joecker A, Viehöver P, et al. Comparative sequence analysis of Solanum and Arabidopsis in a hot spot for pathogen resistance on potato chromosome V reveals a patchwork of conserved and rapidly evolving genome segments. &lt;em&gt;BMC Genomics&lt;/em&gt;. 2007;8(1): 112.</ama>
+<harvard1>Ballvora, A., et al., 2007. Comparative sequence analysis of Solanum and Arabidopsis in a hot spot for pathogen resistance on potato chromosome V reveals a patchwork of conserved and rapidly evolving genome segments. &lt;em&gt;BMC Genomics&lt;/em&gt;, 8(1): 112.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ballvora, A., Joecker, A., Viehöver, P., Ishihara, H., Paal, J., Meksem, K., Bruggmann, R., Schoof, H., Weisshaar, B. &amp;amp; Gebhardt, C. (2007). Comparative sequence analysis of Solanum and Arabidopsis in a hot spot for pathogen resistance on potato chromosome V reveals a patchwork of conserved and rapidly evolving genome segments. &lt;em&gt;BMC Genomics&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;(1): 112. Biomed Central Ltd. doi:10.1186/1471-2164-8-112.&lt;/div&gt;</dgps>
+<default>Ballvora A, Joecker A, Viehöver P, Ishihara H, Paal J, Meksem K, Bruggmann R, Schoof H, Weisshaar B, Gebhardt C (2007) &lt;br /&gt;BMC Genomics 8(1): 112.</default>
+<wels>Ballvora, A.; Joecker, A.; Viehöver, P.; Ishihara, H.; Paal, J.; Meksem, K.; Bruggmann, R.; Schoof, H.; Weisshaar, B.; Gebhardt, C. (2007): Comparative sequence analysis of Solanum and Arabidopsis in a hot spot for pathogen resistance on potato chromosome V reveals a patchwork of conserved and rapidly evolving genome segments &lt;em&gt;BMC Genomics&lt;/em&gt;,8:(1):112</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ballvora, A., Joecker, A., Viehöver, P., Ishihara, H., Paal, J., Meksem, K., Bruggmann, R., et al. (2007). Comparative sequence analysis of Solanum and Arabidopsis in a hot spot for pathogen resistance on potato chromosome V reveals a patchwork of conserved and rapidly evolving genome segments. &lt;em&gt;BMC Genomics&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;(1): 112.&lt;/div&gt;</apa_indent>
+<lncs>Ballvora, A., Joecker, A., Viehöver, P., Ishihara, H., Paal, J., Meksem, K., Bruggmann, R., Schoof, H., Weisshaar, B., Gebhardt, C.: Comparative sequence analysis of Solanum and Arabidopsis in a hot spot for pathogen resistance on potato chromosome V reveals a patchwork of conserved and rapidly evolving genome segments. BMC Genomics. 8, : 112 (2007).</lncs>
+<mla>Ballvora, Agim, Joecker, Anika, Viehöver, Prisca, Ishihara, Hirofumi, Paal, Juergen, Meksem, Khalid, Bruggmann, Remy, Schoof, Heiko, Weisshaar, Bernd, and Gebhardt, Christiane. “Comparative sequence analysis of Solanum and Arabidopsis in a hot spot for pathogen resistance on potato chromosome V reveals a patchwork of conserved and rapidly evolving genome segments”. &lt;em&gt;BMC Genomics&lt;/em&gt; 8.1 (2007): 112.</mla>
+<ieee>A. Ballvora, et al., “Comparative sequence analysis of Solanum and Arabidopsis in a hot spot for pathogen resistance on potato chromosome V reveals a patchwork of conserved and rapidly evolving genome segments”, &lt;em&gt;BMC Genomics&lt;/em&gt;,  vol. 8, 2007, : 112.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ballvora, Agim, Joecker, Anika, Viehöver, Prisca, Ishihara, Hirofumi, Paal, Juergen, Meksem, Khalid, Bruggmann, Remy, Schoof, Heiko, Weisshaar, Bernd, and Gebhardt, Christiane. 2007. “Comparative sequence analysis of Solanum and Arabidopsis in a hot spot for pathogen resistance on potato chromosome V reveals a patchwork of conserved and rapidly evolving genome segments”. &lt;em&gt;BMC Genomics&lt;/em&gt; 8 (1): 112.&lt;/div&gt;</chicago>
+<frontiers>Ballvora, A., Joecker, A., Viehöver, P., Ishihara, H., Paal, J., Meksem, K., Bruggmann, R., Schoof, H., Weisshaar, B., and Gebhardt, C. (2007). Comparative sequence analysis of Solanum and Arabidopsis in a hot spot for pathogen resistance on potato chromosome V reveals a patchwork of conserved and rapidly evolving genome segments. &lt;em&gt;BMC Genomics&lt;/em&gt; 8:112.</frontiers>
+<angewandte-chemie>A.  Ballvora, A.  Joecker, P.  Viehöver, H.  Ishihara, J.  Paal, K.  Meksem, R.  Bruggmann, H.  Schoof, B.  Weisshaar, and C.  Gebhardt, “Comparative sequence analysis of Solanum and Arabidopsis in a hot spot for pathogen resistance on potato chromosome V reveals a patchwork of conserved and rapidly evolving genome segments”, &lt;em&gt;BMC Genomics&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;8&lt;/em&gt;, : 112.</angewandte-chemie>
+<apa>Ballvora, A., Joecker, A., Viehöver, P., Ishihara, H., Paal, J., Meksem, K., Bruggmann, R., et al. (2007). Comparative sequence analysis of Solanum and Arabidopsis in a hot spot for pathogen resistance on potato chromosome V reveals a patchwork of conserved and rapidly evolving genome segments. &lt;em&gt;BMC Genomics&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;(1): 112.</apa>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1593770</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:01Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-02-11T10:26:24Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1593770</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1593770</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

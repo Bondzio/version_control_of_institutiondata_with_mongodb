@@ -1,0 +1,104 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>viwish: A visualisation server for protein modelling and docking</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Torsten</namePart>
+  <namePart type="family">Klein</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Friedrich</namePart>
+  <namePart type="family">Ackermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Stefan</namePart>
+  <namePart type="family">Posch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Angewandte Informatik</namePart>
+  <identifier type="unibi">18304588</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">A visualisation tool viwish for proteins based on the Tcl command language has been developed. The system is completely menu driven and can display arbitrary many proteins in arbitrary many windows. It is instantly to use, even for non computer experts and provides possibilities to modify menus, configurations, and windows. It may be used as a stand-alone molecular graphics package or as a graphics server for external programs. Communication with these client applications is established even across different machines (through the send command of Tk, an extension of Tel). In addition, a wide range of chemical data like molecular surfaces and 3D gridded samplings of chemical features can be displayed. Therefore the system is especially useful for the development of algorithms that need visual inspection and verification of externally computed results like docked conformations or molecular surface shapes. The system is distributed freely, including the source code [1].</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">1996</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>modelling</topic><topic>protein</topic><topic>molecular graphics</topic><topic>Tcl/Tk</topic><topic>protein docking</topic><topic>graphical user interface</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Gene : an international journal focusing on gene cloning and gene structure and function</title></titleInfo>
+  <identifier type="issn">0378-1119</identifier>
+  <identifier type="MEDLINE">9019432</identifier>
+  <identifier type="ISI">A1996WA38200001</identifier><identifier type="doi">10.1016/S0378-1119(96)00439-8</identifier>
+<part><detail type="volume"><number>183</number></detail><detail type="issue"><number>1-2</number></detail><extent unit="pages">GC51-GC58</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Klein T, Ackermann F, Posch S (1996) &lt;br /&gt;Gene : an international journal focusing on gene cloning and gene structure and function 183(1-2): GC51-GC58.</default>
+<wels>Klein, T.; Ackermann, F.; Posch, S. (1996): viwish: A visualisation server for protein modelling and docking &lt;em&gt;Gene : an international journal focusing on gene cloning and gene structure and function&lt;/em&gt;,183:(1-2): GC51-GC58.</wels>
+<aps>T.  Klein, F.  Ackermann, and S.  Posch, viwish: A visualisation server for protein modelling and docking, Gene : an international journal focusing on gene cloning and gene structure and function &lt;strong&gt;183&lt;/strong&gt;, GC51-GC58 (1996).</aps>
+<bio1>Klein T, Ackermann F, Posch S (1996) &lt;br /&gt;viwish: A visualisation server for protein modelling and docking.&lt;br /&gt;Gene : an international journal focusing on gene cloning and gene structure and function 183(1-2): GC51-GC58.</bio1>
+<harvard1>Klein, T., Ackermann, F., &amp;amp; Posch, S., 1996. viwish: A visualisation server for protein modelling and docking. &lt;em&gt;Gene : an international journal focusing on gene cloning and gene structure and function&lt;/em&gt;, 183(1-2), p GC51-GC58.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Klein, T., Ackermann, F. &amp;amp; Posch, S. (1996). viwish: A visualisation server for protein modelling and docking. &lt;em&gt;Gene : an international journal focusing on gene cloning and gene structure and function&lt;/em&gt;, &lt;em&gt;183&lt;/em&gt;(1-2), GC51-GC58. ELSEVIER SCIENCE BV. doi:10.1016/S0378-1119(96)00439-8.&lt;/div&gt;</dgps>
+<ama>Klein T, Ackermann F, Posch S. viwish: A visualisation server for protein modelling and docking. &lt;em&gt;Gene : an international journal focusing on gene cloning and gene structure and function&lt;/em&gt;. 1996;183(1-2):GC51-GC58.</ama>
+<frontiers>Klein, T., Ackermann, F., and Posch, S. (1996). viwish: A visualisation server for protein modelling and docking. &lt;em&gt;Gene : an international journal focusing on gene cloning and gene structure and function&lt;/em&gt; 183, GC51-GC58.</frontiers>
+<apa>Klein, T., Ackermann, F., &amp;amp; Posch, S. (1996). viwish: A visualisation server for protein modelling and docking. &lt;em&gt;Gene : an international journal focusing on gene cloning and gene structure and function&lt;/em&gt;, &lt;em&gt;183&lt;/em&gt;(1-2), GC51-GC58.</apa>
+<angewandte-chemie>T.  Klein, F.  Ackermann, and S.  Posch, “viwish: A visualisation server for protein modelling and docking”, &lt;em&gt;Gene : an international journal focusing on gene cloning and gene structure and function&lt;/em&gt;, &lt;strong&gt;1996&lt;/strong&gt;, &lt;em&gt;183&lt;/em&gt;, GC51-GC58.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Klein, Torsten, Ackermann, Friedrich, and Posch, Stefan. 1996. “viwish: A visualisation server for protein modelling and docking”. &lt;em&gt;Gene : an international journal focusing on gene cloning and gene structure and function&lt;/em&gt; 183 (1-2): GC51-GC58.&lt;/div&gt;</chicago>
+<mla>Klein, Torsten, Ackermann, Friedrich, and Posch, Stefan. “viwish: A visualisation server for protein modelling and docking”. &lt;em&gt;Gene : an international journal focusing on gene cloning and gene structure and function&lt;/em&gt; 183.1-2 (1996): GC51-GC58.</mla>
+<lncs>Klein, T., Ackermann, F., Posch, S.: viwish: A visualisation server for protein modelling and docking. Gene : an international journal focusing on gene cloning and gene structure and function. 183, GC51-GC58 (1996).</lncs>
+<ieee>T. Klein, F. Ackermann, and S. Posch, “viwish: A visualisation server for protein modelling and docking”, &lt;em&gt;Gene : an international journal focusing on gene cloning and gene structure and function&lt;/em&gt;,  vol. 183, 1996,  pp. GC51-GC58.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Klein, T., Ackermann, F., &amp;amp; Posch, S. (1996). viwish: A visualisation server for protein modelling and docking. &lt;em&gt;Gene : an international journal focusing on gene cloning and gene structure and function&lt;/em&gt;, &lt;em&gt;183&lt;/em&gt;(1-2), GC51-GC58.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1628328</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:23:26Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2013-06-27T12:02:27Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1628328</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1628328</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

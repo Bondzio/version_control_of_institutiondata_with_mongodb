@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Global bifurcations and their numerical computation</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Wolf-Jürgen</namePart>
+  <namePart type="family">Beyn</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Dirk</namePart><namePart type="family">Roose</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT3782.pdf">https://pub.uni-bielefeld.de/download/1784253/2314359</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Kluwer Acad. Publ.</publisher><dateIssued encoding="w3cdtf">1990</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>phase condition</topic><topic>homoclinic and heteroclinic bifurcations</topic><topic>error analysis</topic><topic>asymptotic boundary conditions</topic><topic>numerical approximation</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Continuation and bifurcations</title></titleInfo>
+  <identifier type="isbn">0-7923-0855-7</identifier><identifier type="urn">urn:nbn:de:0070-bipr-37826</identifier>
+<part><extent unit="pages">169-181</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Beyn, W. - J. (1990). “Global bifurcations and their numerical computation” in &lt;em&gt;Continuation and bifurcations&lt;/em&gt;, ed. D.  Roose NATO ASI series : Series C ; 313 (Dordrecht [u.a.]: Kluwer Acad. Publ.), 169-181.</frontiers>
+<apa>Beyn, W. - J. (1990). Global bifurcations and their numerical computation. In D.  Roose (Ed.), &lt;em&gt;NATO ASI series : Series C ; 313&lt;/em&gt;&lt;em&gt;. Continuation and bifurcations&lt;/em&gt; (pp. 169-181). Dordrecht [u.a.]: Kluwer Acad. Publ.</apa>
+<angewandte-chemie>W. - J.  Beyn, in &lt;em&gt;Continuation and bifurcations&lt;/em&gt; (Ed.: D. Roose), Kluwer Acad. Publ., Dordrecht [u.a.], &lt;strong&gt;1990&lt;/strong&gt;, p. 169-181.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Beyn, Wolf-Jürgen. 1990. “Global bifurcations and their numerical computation”. In &lt;em&gt;Continuation and bifurcations&lt;/em&gt;, ed. Dirk Roose, 169-181. NATO ASI series : Series C ; 313. Dordrecht [u.a.]: Kluwer Acad. Publ.&lt;/div&gt;</chicago>
+<lncs>Beyn, W.-J.: Global bifurcations and their numerical computation. In: Roose, D. (ed.) Continuation and bifurcations. NATO ASI series : Series C ; 313. p. 169-181. Kluwer Acad. Publ., Dordrecht [u.a.] (1990).</lncs>
+<mla>Beyn, Wolf-Jürgen. “Global bifurcations and their numerical computation”. &lt;em&gt;Continuation and bifurcations&lt;/em&gt;. Ed. Dirk Roose. Dordrecht [u.a.]: Kluwer Acad. Publ., 1990. NATO ASI series : Series C ; 313. 169-181.</mla>
+<ieee>W.-J. Beyn, “Global bifurcations and their numerical computation”, &lt;em&gt;Continuation and bifurcations&lt;/em&gt;, D. Roose, ed., NATO ASI series : Series C ; 313,  Dordrecht [u.a.]: Kluwer Acad. Publ., 1990,  pp.169-181.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Beyn, W. - J. (1990). Global bifurcations and their numerical computation. In D.  Roose (Ed.), &lt;em&gt;NATO ASI series : Series C ; 313&lt;/em&gt;&lt;em&gt;. Continuation and bifurcations&lt;/em&gt; (pp. 169-181). Dordrecht [u.a.]: Kluwer Acad. Publ.&lt;/div&gt;</apa_indent>
+<default>Beyn W-J (1990)  &lt;br /&gt;In:  Continuation and bifurcations. Roose D (Ed); NATO ASI series : Series C ; 313, . Dordrecht [u.a.]: Kluwer Acad. Publ.:  169-181.</default>
+<wels>Beyn, W. - J. (1990): Global bifurcations and their numerical computation. In: Dirk Roose (Hrsg.):  Continuation and bifurcations. Dordrecht [u.a.]: Kluwer Acad. Publ. (NATO ASI series : Series C ; 313, ).  S. 169-181.</wels>
+<bio1>Beyn W-J (1990) &lt;br /&gt;Global bifurcations and their numerical computation. &lt;br /&gt;In:  Continuation and bifurcations. Roose D (Ed); NATO ASI series : Series C ; 313,  Dordrecht [u.a.]: Kluwer Acad. Publ.:  169-181.</bio1>
+<aps>W. - J.  Beyn, Global bifurcations and their numerical computation, in &lt;em&gt;Continuation and bifurcations&lt;/em&gt;, edited by D.  Roose, NATO ASI series : Series C ; 313 (Kluwer Acad. Publ., Dordrecht [U.a.], 1990), p. 169-181.</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Beyn, W.-J. (1990). Global bifurcations and their numerical computation (NATO ASI series : Series C ; 313). &lt;em&gt;Continuation and bifurcations&lt;/em&gt; (S. 169-181). Dordrecht [u.a.]: Kluwer Acad. Publ.&lt;/div&gt;</dgps>
+<ama>Beyn W-J. Global bifurcations and their numerical computation. In: Roose D, ed. &lt;em&gt;Continuation and bifurcations&lt;/em&gt;. NATO ASI series : Series C ; 313. Dordrecht [u.a.]: Kluwer Acad. Publ.;  1990: 169-181.</ama>
+<harvard1>Beyn, W.-J., 1990. Global bifurcations and their numerical computation. In D.  Roose, ed. &lt;em&gt;Continuation and bifurcations&lt;/em&gt;. NATO ASI series : Series C ; 313.  Dordrecht [u.a.]: Kluwer Acad. Publ., pp. 169-181.</harvard1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1784253</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1784253</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1784253</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,95 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>preprint</genre>
+
+<titleInfo><title>Diskursmodellierung am Beispiel des Erzählens: wie gelangt man zu einer angemessenen Erzähldefinition</title></titleInfo>
+
+
+<note type="publicationStatus">unpublished</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Walther</namePart>
+  <namePart type="family">Kindt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11705</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Linguistik und Literaturwissenschaft</namePart>
+  <identifier type="unibi">10019</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT4157.pdf">https://pub.uni-bielefeld.de/download/1785023/2314669</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Universität Bielefeld</publisher><dateIssued encoding="w3cdtf">1997</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><identifier type="urn">urn:nbn:de:0070-bipr-41571</identifier>
+<part>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Kindt W (Unpublished) .</default>
+<wels>Kindt, W. (Unpublished): Diskursmodellierung am Beispiel des Erzählens: wie gelangt man zu einer angemessenen Erzähldefinition</wels>
+<bio1>Kindt W (Unpublished) &lt;br /&gt;Diskursmodellierung am Beispiel des Erzählens: wie gelangt man zu einer angemessenen Erzähldefinition.</bio1>
+<aps>W.  Kindt, Diskursmodellierung am Beispiel des Erzählens: wie gelangt man zu einer angemessenen Erzähldefinition, (Unpublished).</aps>
+<ama>Kindt W. Diskursmodellierung am Beispiel des Erzählens: wie gelangt man zu einer angemessenen Erzähldefinition.  Unpublished.</ama>
+<harvard1>Kindt, W., Unpublished. Diskursmodellierung am Beispiel des Erzählens: wie gelangt man zu einer angemessenen Erzähldefinition.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kindt, W. (Unpublished). Diskursmodellierung am Beispiel des Erzählens: wie gelangt man zu einer angemessenen Erzähldefinition. Bielefeld: Universität Bielefeld.&lt;/div&gt;</dgps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kindt, Walther. Unpublished. “Diskursmodellierung am Beispiel des Erzählens: wie gelangt man zu einer angemessenen Erzähldefinition”.&lt;/div&gt;</chicago>
+<frontiers>Kindt, W. (Unpublished). Diskursmodellierung am Beispiel des Erzählens: wie gelangt man zu einer angemessenen Erzähldefinition.</frontiers>
+<apa>Kindt, W. (Unpublished). Diskursmodellierung am Beispiel des Erzählens: wie gelangt man zu einer angemessenen Erzähldefinition.</apa>
+<angewandte-chemie>W.  Kindt, “Diskursmodellierung am Beispiel des Erzählens: wie gelangt man zu einer angemessenen Erzähldefinition”, &lt;strong&gt;Unpublished&lt;/strong&gt;.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kindt, W. (Unpublished). Diskursmodellierung am Beispiel des Erzählens: wie gelangt man zu einer angemessenen Erzähldefinition.&lt;/div&gt;</apa_indent>
+<mla>Kindt, Walther. “Diskursmodellierung am Beispiel des Erzählens: wie gelangt man zu einer angemessenen Erzähldefinition”. (Unpublished).</mla>
+<lncs>Kindt, W.: Diskursmodellierung am Beispiel des Erzählens: wie gelangt man zu einer angemessenen Erzähldefinition. (Unpublished).</lncs>
+<ieee>W. Kindt, “Diskursmodellierung am Beispiel des Erzählens: wie gelangt man zu einer angemessenen Erzähldefinition”, Unpublished.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1785023</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1785023</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1785023</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

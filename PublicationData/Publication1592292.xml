@@ -1,0 +1,102 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Exact diagonalization of a one-dimensional Hubbard model at density rho=0.4: Effects of Coulomb repulsions and distant transfer</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Fatiha</namePart>
+  <namePart type="family">Ouchni</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jürgen</namePart>
+  <namePart type="family">Schnack</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">3979561</identifier></name>
+<name type="personal">
+  <namePart type="given">Jörg</namePart>
+  <namePart type="family">Schulenburg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">29105470</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">An extended Hubbard model that includes not only on-site but also intersite Coulomb repulsion and distant transfer is numerically investigated using the exact Lanczos diagonalization method for finite-size systems up to L=20 sites. The aim is to study the charge order and unconditional dimerization of a chain at density rho=0.4. From the analysis of the spin and charge correlation functions, we deduce the formation of a dimer insulating state which is a Wigner lattice-type charge ordered state. The next-nearest-neighbor hopping t(2) enhances the intradimer correlations and weakens the interdimer correlations. Implications for the CuO2 chains in Sr14Cu24O41 are discussed.</abstract>
+
+<originInfo><publisher>American Phys. Soc.</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Physical Review B</title></titleInfo>
+  <identifier type="issn">1098-0121</identifier>
+  <identifier type="eIssn">1550-235X</identifier>
+  <identifier type="ISI">000251326800041</identifier><identifier type="doi">10.1103/PhysRevB.76.195106</identifier>
+<part><detail type="volume"><number>76</number></detail><detail type="issue"><number>19</number></detail><extent unit="pages">195106-195106</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ouchni, F., Schnack, J., &amp;amp; Schulenburg, J. (2007). Exact diagonalization of a one-dimensional Hubbard model at density rho=0.4: Effects of Coulomb repulsions and distant transfer. &lt;em&gt;Physical Review B&lt;/em&gt;, &lt;em&gt;76&lt;/em&gt;(19), 195106-195106.&lt;/div&gt;</apa_indent>
+<ieee>F. Ouchni, J. Schnack, and J. Schulenburg, “Exact diagonalization of a one-dimensional Hubbard model at density rho=0.4: Effects of Coulomb repulsions and distant transfer”, &lt;em&gt;Physical Review B&lt;/em&gt;,  vol. 76, 2007,  pp. 195106-195106.</ieee>
+<lncs>Ouchni, F., Schnack, J., Schulenburg, J.: Exact diagonalization of a one-dimensional Hubbard model at density rho=0.4: Effects of Coulomb repulsions and distant transfer. Physical Review B. 76, 195106-195106 (2007).</lncs>
+<mla>Ouchni, Fatiha, Schnack, Jürgen, and Schulenburg, Jörg. “Exact diagonalization of a one-dimensional Hubbard model at density rho=0.4: Effects of Coulomb repulsions and distant transfer”. &lt;em&gt;Physical Review B&lt;/em&gt; 76.19 (2007): 195106-195106.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ouchni, Fatiha, Schnack, Jürgen, and Schulenburg, Jörg. 2007. “Exact diagonalization of a one-dimensional Hubbard model at density rho=0.4: Effects of Coulomb repulsions and distant transfer”. &lt;em&gt;Physical Review B&lt;/em&gt; 76 (19): 195106-195106.&lt;/div&gt;</chicago>
+<angewandte-chemie>F.  Ouchni, J.  Schnack, and J.  Schulenburg, “Exact diagonalization of a one-dimensional Hubbard model at density rho=0.4: Effects of Coulomb repulsions and distant transfer”, &lt;em&gt;Physical Review B&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;76&lt;/em&gt;, 195106-195106.</angewandte-chemie>
+<apa>Ouchni, F., Schnack, J., &amp;amp; Schulenburg, J. (2007). Exact diagonalization of a one-dimensional Hubbard model at density rho=0.4: Effects of Coulomb repulsions and distant transfer. &lt;em&gt;Physical Review B&lt;/em&gt;, &lt;em&gt;76&lt;/em&gt;(19), 195106-195106.</apa>
+<frontiers>Ouchni, F., Schnack, J., and Schulenburg, J. (2007). Exact diagonalization of a one-dimensional Hubbard model at density rho=0.4: Effects of Coulomb repulsions and distant transfer. &lt;em&gt;Physical Review B&lt;/em&gt; 76, 195106-195106.</frontiers>
+<ama>Ouchni F, Schnack J, Schulenburg J. Exact diagonalization of a one-dimensional Hubbard model at density rho=0.4: Effects of Coulomb repulsions and distant transfer. &lt;em&gt;Physical Review B&lt;/em&gt;. 2007;76(19):195106-195106.</ama>
+<harvard1>Ouchni, F., Schnack, J., &amp;amp; Schulenburg, J., 2007. Exact diagonalization of a one-dimensional Hubbard model at density rho=0.4: Effects of Coulomb repulsions and distant transfer. &lt;em&gt;Physical Review B&lt;/em&gt;, 76(19), p 195106-195106.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ouchni, F., Schnack, J. &amp;amp; Schulenburg, J. (2007). Exact diagonalization of a one-dimensional Hubbard model at density rho=0.4: Effects of Coulomb repulsions and distant transfer. &lt;em&gt;Physical Review B&lt;/em&gt;, &lt;em&gt;76&lt;/em&gt;(19), 195106-195106. American Phys. Soc. doi:10.1103/PhysRevB.76.195106.&lt;/div&gt;</dgps>
+<bio1>Ouchni F, Schnack J, Schulenburg J (2007) &lt;br /&gt;Exact diagonalization of a one-dimensional Hubbard model at density rho=0.4: Effects of Coulomb repulsions and distant transfer.&lt;br /&gt;Physical Review B 76(19): 195106-195106.</bio1>
+<aps>F.  Ouchni, J.  Schnack, and J.  Schulenburg, Exact diagonalization of a one-dimensional Hubbard model at density rho=0.4: Effects of Coulomb repulsions and distant transfer, Physical Review B &lt;strong&gt;76&lt;/strong&gt;, 195106-195106 (2007).</aps>
+<wels>Ouchni, F.; Schnack, J.; Schulenburg, J. (2007): Exact diagonalization of a one-dimensional Hubbard model at density rho=0.4: Effects of Coulomb repulsions and distant transfer &lt;em&gt;Physical Review B&lt;/em&gt;,76:(19): 195106-195106.</wels>
+<default>Ouchni F, Schnack J, Schulenburg J (2007) &lt;br /&gt;Physical Review B 76(19): 195106-195106.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1592292</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T11:50:29Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-01-08T14:01:23Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1592292</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1592292</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

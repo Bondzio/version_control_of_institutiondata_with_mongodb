@@ -1,0 +1,127 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Reactivity of carbonyl-functionalized phosphaalkenes RC(O)P=C(NMe2)(2) (R = tBu, Ph) towards electrophiles</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Lothar</namePart>
+  <namePart type="family">Weber</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20136</identifier></name>
+<name type="personal">
+  <namePart type="given">Stefan</namePart>
+  <namePart type="family">Uthmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Hans-Georg</namePart>
+  <namePart type="family">Stammler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20167</identifier></name>
+<name type="personal">
+  <namePart type="given">Beate</namePart>
+  <namePart type="family">Neumann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20154</identifier></name>
+<name type="personal">
+  <namePart type="given">Wolfgang</namePart>
+  <namePart type="family">Schoeller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20336</identifier></name>
+<name type="personal">
+  <namePart type="given">Roland</namePart>
+  <namePart type="family">Boese</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Dieter</namePart>
+  <namePart type="family">Bläser</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Anorganische Chemie II</namePart>
+  <identifier type="unibi">17965</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Theoretische Chemie</namePart>
+  <identifier type="unibi">17982</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The reaction of the carbonyl-functionalized phosphaalkenes RC(O)P=C(NMe2)(2) [R = tBu (2a), Ph (2b)] with protic acids and alkylating reagents occurred at the two-coordinate phosphorus atom to give the phosphanyl-substituted carbocations 3a,b and 4a,b. In contrast, treatment with Me3SiOSO2CF3 resulted in attack at the oxygen atom by the silyl group, and the formation of [RC(OSiMe3)=PC(NMe2)(2)]SO3CF3 (5a,b). Similarly, the Lewis acids B(C6F5)(3), Al(tBu)(2)Cl and AlMe3 were ligated to the oxygen atom of the carbonyl group. Two equivalents of GaMe3 were added to the oxygen and phosphorus atom of the phosphaalkene to yield the thermolabile complexes [RC(OGaMe3)=P(GaMe3)C(NMe2)(2)] (10a,b). In contrast, one molecule of InMe3 was bound to the phosphorus center of the phosphorus compound. Reaction of the phosphaalkenes with [Ni(CO)(4)], [Fe-2(CO)(9)] or [{(Z)-cyclooctene}Cr(CO)(5)] also took place at the pnictogen atom, resulting in complexes of the type [RC(O)P{M(CO)(n)}C(NMe2)(2)] (R = tBu, Ph; M = Ni, n = 3; Fe, n = 4; Cr, n = 5). The chemical transformations reported here underline the versatile chemistry of phosphaalkenes and emphasize a relationship between carbonyl-functionalized phosphaalkenes and the well-investigated class of phosphorus ylides. X-ray structures of compounds 6b, 7b*, 10a, 11a and 12a are reported.</abstract>
+
+<originInfo><publisher>Wiley</publisher><dateIssued encoding="w3cdtf">1999</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>phosphaalkenes</topic><topic>carbonyl complexes</topic><topic>protonation</topic><topic>alkylation</topic><topic>Lewis acids</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>European Journal of Inorganic Chemistry</title></titleInfo>
+  <identifier type="issn">1434-1948</identifier>
+  <identifier type="ISI">000083941600033</identifier>
+<part><detail type="issue"><number>12</number></detail><extent unit="pages">2369-2381</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>L.  Weber, et al., Reactivity of carbonyl-functionalized phosphaalkenes RC(O)P=C(NMe2)(2) (R = tBu, Ph) towards electrophiles, European Journal of Inorganic Chemistry 2369-2381 (1999).</aps>
+<bio1>Weber L, Uthmann S, Stammler H-G, Neumann B, Schoeller W, Boese R, Bläser D (1999) &lt;br /&gt;Reactivity of carbonyl-functionalized phosphaalkenes RC(O)P=C(NMe2)(2) (R = tBu, Ph) towards electrophiles.&lt;br /&gt;European Journal of Inorganic Chemistry (12): 2369-2381.</bio1>
+<harvard1>Weber, L., et al., 1999. Reactivity of carbonyl-functionalized phosphaalkenes RC(O)P=C(NMe2)(2) (R = tBu, Ph) towards electrophiles. &lt;em&gt;European Journal of Inorganic Chemistry&lt;/em&gt;, (12), p 2369-2381.</harvard1>
+<ama>Weber L, Uthmann S, Stammler H-G, et al. Reactivity of carbonyl-functionalized phosphaalkenes RC(O)P=C(NMe2)(2) (R = tBu, Ph) towards electrophiles. &lt;em&gt;European Journal of Inorganic Chemistry&lt;/em&gt;. 1999;(12):2369-2381.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Weber, L., Uthmann, S., Stammler, H.-G., Neumann, B., Schoeller, W., Boese, R. &amp;amp; Bläser, D. (1999). Reactivity of carbonyl-functionalized phosphaalkenes RC(O)P=C(NMe2)(2) (R = tBu, Ph) towards electrophiles. &lt;em&gt;European Journal of Inorganic Chemistry&lt;/em&gt;, (12), 2369-2381. Wiley.&lt;/div&gt;</dgps>
+<default>Weber L, Uthmann S, Stammler H-G, Neumann B, Schoeller W, Boese R, Bläser D (1999) &lt;br /&gt;European Journal of Inorganic Chemistry (12): 2369-2381.</default>
+<wels>Weber, L.; Uthmann, S.; Stammler, H. - G.; Neumann, B.; Schoeller, W.; Boese, R.; Bläser, D. (1999): Reactivity of carbonyl-functionalized phosphaalkenes RC(O)P=C(NMe2)(2) (R = tBu, Ph) towards electrophiles &lt;em&gt;European Journal of Inorganic Chemistry&lt;/em&gt;,(12): 2369-2381.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Weber, L., Uthmann, S., Stammler, H. - G., Neumann, B., Schoeller, W., Boese, R., &amp;amp; Bläser, D. (1999). Reactivity of carbonyl-functionalized phosphaalkenes RC(O)P=C(NMe2)(2) (R = tBu, Ph) towards electrophiles. &lt;em&gt;European Journal of Inorganic Chemistry&lt;/em&gt;(12), 2369-2381.&lt;/div&gt;</apa_indent>
+<lncs>Weber, L., Uthmann, S., Stammler, H.-G., Neumann, B., Schoeller, W., Boese, R., Bläser, D.: Reactivity of carbonyl-functionalized phosphaalkenes RC(O)P=C(NMe2)(2) (R = tBu, Ph) towards electrophiles. European Journal of Inorganic Chemistry. 2369-2381 (1999).</lncs>
+<mla>Weber, Lothar, Uthmann, Stefan, Stammler, Hans-Georg, Neumann, Beate, Schoeller, Wolfgang, Boese, Roland, and Bläser, Dieter. “Reactivity of carbonyl-functionalized phosphaalkenes RC(O)P=C(NMe2)(2) (R = tBu, Ph) towards electrophiles”. &lt;em&gt;European Journal of Inorganic Chemistry&lt;/em&gt; 12 (1999): 2369-2381.</mla>
+<ieee>L. Weber, et al., “Reactivity of carbonyl-functionalized phosphaalkenes RC(O)P=C(NMe2)(2) (R = tBu, Ph) towards electrophiles”, &lt;em&gt;European Journal of Inorganic Chemistry&lt;/em&gt;, 1999,  pp. 2369-2381.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Weber, Lothar, Uthmann, Stefan, Stammler, Hans-Georg, Neumann, Beate, Schoeller, Wolfgang, Boese, Roland, and Bläser, Dieter. 1999. “Reactivity of carbonyl-functionalized phosphaalkenes RC(O)P=C(NMe2)(2) (R = tBu, Ph) towards electrophiles”. &lt;em&gt;European Journal of Inorganic Chemistry&lt;/em&gt;, no. 12: 2369-2381.&lt;/div&gt;</chicago>
+<frontiers>Weber, L., Uthmann, S., Stammler, H. - G., Neumann, B., Schoeller, W., Boese, R., and Bläser, D. (1999). Reactivity of carbonyl-functionalized phosphaalkenes RC(O)P=C(NMe2)(2) (R = tBu, Ph) towards electrophiles. &lt;em&gt;European Journal of Inorganic Chemistry&lt;/em&gt;, 2369-2381.</frontiers>
+<angewandte-chemie>L.  Weber, S.  Uthmann, H. - G.  Stammler, B.  Neumann, W.  Schoeller, R.  Boese, and D.  Bläser, “Reactivity of carbonyl-functionalized phosphaalkenes RC(O)P=C(NMe2)(2) (R = tBu, Ph) towards electrophiles”, &lt;em&gt;European Journal of Inorganic Chemistry&lt;/em&gt;, &lt;strong&gt;1999&lt;/strong&gt;, 2369-2381.</angewandte-chemie>
+<apa>Weber, L., Uthmann, S., Stammler, H. - G., Neumann, B., Schoeller, W., Boese, R., &amp;amp; Bläser, D. (1999). Reactivity of carbonyl-functionalized phosphaalkenes RC(O)P=C(NMe2)(2) (R = tBu, Ph) towards electrophiles. &lt;em&gt;European Journal of Inorganic Chemistry&lt;/em&gt;(12), 2369-2381.</apa>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1621165</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:05:18Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2015-05-06T12:02:39Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1621165</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1621165</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

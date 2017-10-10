@@ -1,0 +1,139 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Design, fabrication, and analysis of chirped multilayer mirrors for reflection of extreme-ultraviolet attosecond pulses</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Wonisch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">U</namePart>
+  <namePart type="family">Neuhäusler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Nikolay</namePart>
+  <namePart type="family">Kabachnik</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40146</identifier></name>
+<name type="personal">
+  <namePart type="given">T</namePart>
+  <namePart type="family">Uphues</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Uiberacker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">V</namePart>
+  <namePart type="family">Yakovlev</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">F</namePart>
+  <namePart type="family">Krausz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Markus</namePart>
+  <namePart type="family">Drescher</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">5240380</identifier></name>
+<name type="personal">
+  <namePart type="given">U</namePart>
+  <namePart type="family">Kleineberg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ulrich</namePart>
+  <namePart type="family">Heinzmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40276</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">29133467</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33079537</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Chirped Mo/Si multilayer coatings have been designed, fabricated, and characterized for use in extreme-ultraviolet attosecond experiments. By numerically simulating the reflection of the attosecond pulse from a multilayer mirror during the optimization procedure based on a genetic algorithm, we obtain optimized layer designs. We show that normal incidence chirped multilayer mirrors capable of reflecting pulses of approximately 100 attoseconds (as) duration can be designed by enhancing the reflectivity bandwidth and optimizing the phase-shift behavior. The chirped multilayer coatings have been fabricated by electron-beam evaporation in an ultrahigh vacuum in combination with ion-beam polishing of the interfaces and in situ reflectivity measurement for layer thickness control. To analyze the aperiodic layer structure by hard-x-ray reflectometry, we have developed an automatic fitting procedure that allows us to determine the individual layer thicknesses with an error of less than 0.05 nm. The fabricated chirped mirror may be used for production of 150-160 as pulses. (c) 2006 Optical Society of America.</abstract>
+
+<originInfo><publisher>OPTICAL SOC AMER</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>APPLIED OPTICS</title></titleInfo>
+  <identifier type="issn">0003-6935</identifier>
+  <identifier type="eIssn">1539-4522</identifier>
+  <identifier type="MEDLINE">16761058</identifier>
+  <identifier type="ISI">000238199700030</identifier><identifier type="doi">10.1364/AO.45.004147</identifier>
+<part><detail type="volume"><number>45</number></detail><detail type="issue"><number>17</number></detail><extent unit="pages">4147-4156</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Wonisch, A.; Neuhäusler, U.; Kabachnik, N.; Uphues, T.; Uiberacker, M.; Yakovlev, V.; Krausz, F.; Drescher, M.; Kleineberg, U.; Heinzmann, U. (2006): Design, fabrication, and analysis of chirped multilayer mirrors for reflection of extreme-ultraviolet attosecond pulses &lt;em&gt;APPLIED OPTICS&lt;/em&gt;,45:(17): 4147-4156.</wels>
+<default>Wonisch A, Neuhäusler U, Kabachnik N, Uphues T, Uiberacker M, Yakovlev V, Krausz F, Drescher M, Kleineberg U, Heinzmann U (2006) &lt;br /&gt;APPLIED OPTICS 45(17): 4147-4156.</default>
+<ama>Wonisch A, Neuhäusler U, Kabachnik N, et al. Design, fabrication, and analysis of chirped multilayer mirrors for reflection of extreme-ultraviolet attosecond pulses. &lt;em&gt;APPLIED OPTICS&lt;/em&gt;. 2006;45(17):4147-4156.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wonisch, A., Neuhäusler, U., Kabachnik, N., Uphues, T., Uiberacker, M., Yakovlev, V., Krausz, F., Drescher, M., Kleineberg, U. &amp;amp; Heinzmann, U. (2006). Design, fabrication, and analysis of chirped multilayer mirrors for reflection of extreme-ultraviolet attosecond pulses. &lt;em&gt;APPLIED OPTICS&lt;/em&gt;, &lt;em&gt;45&lt;/em&gt;(17), 4147-4156. OPTICAL SOC AMER. doi:10.1364/AO.45.004147.&lt;/div&gt;</dgps>
+<harvard1>Wonisch, A., et al., 2006. Design, fabrication, and analysis of chirped multilayer mirrors for reflection of extreme-ultraviolet attosecond pulses. &lt;em&gt;APPLIED OPTICS&lt;/em&gt;, 45(17), p 4147-4156.</harvard1>
+<bio1>Wonisch A, Neuhäusler U, Kabachnik N, Uphues T, Uiberacker M, Yakovlev V, Krausz F, Drescher M, Kleineberg U, Heinzmann U (2006) &lt;br /&gt;Design, fabrication, and analysis of chirped multilayer mirrors for reflection of extreme-ultraviolet attosecond pulses.&lt;br /&gt;APPLIED OPTICS 45(17): 4147-4156.</bio1>
+<aps> A.  Wonisch, et al., Design, fabrication, and analysis of chirped multilayer mirrors for reflection of extreme-ultraviolet attosecond pulses, APPLIED OPTICS &lt;strong&gt;45&lt;/strong&gt;, 4147-4156 (2006).</aps>
+<angewandte-chemie>A.  Wonisch, U.  Neuhäusler, N.  Kabachnik, T.  Uphues, M.  Uiberacker, V.  Yakovlev, F.  Krausz, M.  Drescher, U.  Kleineberg, and U.  Heinzmann, “Design, fabrication, and analysis of chirped multilayer mirrors for reflection of extreme-ultraviolet attosecond pulses”, &lt;em&gt;APPLIED OPTICS&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;45&lt;/em&gt;, 4147-4156.</angewandte-chemie>
+<apa>Wonisch, A., Neuhäusler, U., Kabachnik, N., Uphues, T., Uiberacker, M., Yakovlev, V., Krausz, F., et al. (2006). Design, fabrication, and analysis of chirped multilayer mirrors for reflection of extreme-ultraviolet attosecond pulses. &lt;em&gt;APPLIED OPTICS&lt;/em&gt;, &lt;em&gt;45&lt;/em&gt;(17), 4147-4156.</apa>
+<frontiers>Wonisch, A., Neuhäusler, U., Kabachnik, N., Uphues, T., Uiberacker, M., Yakovlev, V., Krausz, F., Drescher, M., Kleineberg, U., and Heinzmann, U. (2006). Design, fabrication, and analysis of chirped multilayer mirrors for reflection of extreme-ultraviolet attosecond pulses. &lt;em&gt;APPLIED OPTICS&lt;/em&gt; 45, 4147-4156.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wonisch, A, Neuhäusler, U, Kabachnik, Nikolay, Uphues, T, Uiberacker, M, Yakovlev, V, Krausz, F, Drescher, Markus, Kleineberg, U, and Heinzmann, Ulrich. 2006. “Design, fabrication, and analysis of chirped multilayer mirrors for reflection of extreme-ultraviolet attosecond pulses”. &lt;em&gt;APPLIED OPTICS&lt;/em&gt; 45 (17): 4147-4156.&lt;/div&gt;</chicago>
+<ieee> A. Wonisch, et al., “Design, fabrication, and analysis of chirped multilayer mirrors for reflection of extreme-ultraviolet attosecond pulses”, &lt;em&gt;APPLIED OPTICS&lt;/em&gt;,  vol. 45, 2006,  pp. 4147-4156.</ieee>
+<lncs> Wonisch, A., Neuhäusler, U., Kabachnik, N., Uphues, T., Uiberacker, M., Yakovlev, V., Krausz, F., Drescher, M., Kleineberg, U., Heinzmann, U.: Design, fabrication, and analysis of chirped multilayer mirrors for reflection of extreme-ultraviolet attosecond pulses. APPLIED OPTICS. 45, 4147-4156 (2006).</lncs>
+<mla>Wonisch, A, Neuhäusler, U, Kabachnik, Nikolay, Uphues, T, Uiberacker, M, Yakovlev, V, Krausz, F, Drescher, Markus, Kleineberg, U, and Heinzmann, Ulrich. “Design, fabrication, and analysis of chirped multilayer mirrors for reflection of extreme-ultraviolet attosecond pulses”. &lt;em&gt;APPLIED OPTICS&lt;/em&gt; 45.17 (2006): 4147-4156.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wonisch, A., Neuhäusler, U., Kabachnik, N., Uphues, T., Uiberacker, M., Yakovlev, V., Krausz, F., et al. (2006). Design, fabrication, and analysis of chirped multilayer mirrors for reflection of extreme-ultraviolet attosecond pulses. &lt;em&gt;APPLIED OPTICS&lt;/em&gt;, &lt;em&gt;45&lt;/em&gt;(17), 4147-4156.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1599019</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:19:43Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-10T12:23:56Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1599019</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1599019</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

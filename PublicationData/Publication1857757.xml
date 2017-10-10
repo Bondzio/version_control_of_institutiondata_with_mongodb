@@ -1,0 +1,122 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Why emotions should be integrated into conversational agents</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">Becker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Stefan</namePart>
+  <namePart type="family">Kopp</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">14743</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-4047-9277</description></name>
+<name type="personal">
+  <namePart type="given">Ipke</namePart>
+  <namePart type="family">Wachsmuth</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">73476</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Toyoaki</namePart><namePart type="family">Nishida</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">5408013</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">24110177</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10044</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">When building conversational agents that are to take part in social interaction with humans, an important question is whether psychological concepts like emotions or personality of the agents need to be incorporated. In this chapter we argue for the integration of an emotion system
+into a conversational agent to enable the simulation of having “own emotions”. We first clarify the concept of emotions and we discuss different approaches to modeling emotions and personality in artificial systems. Drawing on our work on the multimodal conversational agent Max, we present motives for the integration of emotions as integral parts of an agent’s cognitive architecture. Our approach combines different psychological emotion theories and distinguishes between primary and secondary emotions as originating from different levels of this architecture. Exemplary application scenarios are described to show how the agent’s believability can be increased by the integration of emotions. In a cooperative setting, Max
+is employed as a virtual interactive guide in a public computer museum, where his emotion module enhances his acceptance as a coequal conversational partner. We further quote an empirical study that yields evidence that the same emotion module supports the believability
+and lifelikeness of the agent in a competitive gaming scenario.</abstract>
+
+<originInfo><publisher>John Wiley &amp; Sons</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>virtual humans</topic><topic>affect simulation</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Conversational Informatics: an Engineering Approach</title></titleInfo>
+  <identifier type="isbn">978-0-4700-2699-1</identifier><identifier type="doi">10.1002/9780470512470.ch3</identifier>
+<part><extent unit="pages">49-68</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>C.  Becker, S.  Kopp, and I.  Wachsmuth, Why emotions should be integrated into conversational agents, in &lt;em&gt;Conversational Informatics: an Engineering Approach&lt;/em&gt;, edited by T.  Nishida (John Wiley &amp;amp; Sons, Chichester, 2007), p. 49-68.</aps>
+<bio1>Becker C, Kopp S, Wachsmuth I (2007) &lt;br /&gt;Why emotions should be integrated into conversational agents. &lt;br /&gt;In:  Conversational Informatics: an Engineering Approach. Nishida T (Ed); Chichester: John Wiley &amp;amp; Sons:  49-68.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Becker, C., Kopp, S. &amp;amp; Wachsmuth, I. (2007). Why emotions should be integrated into conversational agents. &lt;em&gt;Conversational Informatics: an Engineering Approach&lt;/em&gt; (S. 49-68). Chichester: John Wiley &amp;amp; Sons. doi:10.1002/9780470512470.ch3.&lt;/div&gt;</dgps>
+<ama>Becker C, Kopp S, Wachsmuth I. Why emotions should be integrated into conversational agents. In: Nishida T, ed. &lt;em&gt;Conversational Informatics: an Engineering Approach&lt;/em&gt;. Chichester: John Wiley &amp;amp; Sons;  2007: 49-68.</ama>
+<harvard1>Becker, C., Kopp, S., &amp;amp; Wachsmuth, I., 2007. Why emotions should be integrated into conversational agents. In T.  Nishida, ed. &lt;em&gt;Conversational Informatics: an Engineering Approach&lt;/em&gt;.  Chichester: John Wiley &amp;amp; Sons, pp. 49-68.</harvard1>
+<default>Becker C, Kopp S, Wachsmuth I (2007)  &lt;br /&gt;In:  Conversational Informatics: an Engineering Approach. Nishida T (Ed);Chichester: John Wiley &amp;amp; Sons:  49-68.</default>
+<wels>Becker, C.; Kopp, S.; Wachsmuth, I. (2007): Why emotions should be integrated into conversational agents. In: Toyoaki Nishida (Hrsg.):  Conversational Informatics: an Engineering Approach. Chichester: John Wiley &amp;amp; Sons.  S. 49-68.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Becker, C., Kopp, S., &amp;amp; Wachsmuth, I. (2007). Why emotions should be integrated into conversational agents. In T.  Nishida (Ed.), &lt;em&gt;Conversational Informatics: an Engineering Approach&lt;/em&gt; (pp. 49-68). Chichester: John Wiley &amp;amp; Sons.&lt;/div&gt;</apa_indent>
+<mla>Becker, Christian, Kopp, Stefan, and Wachsmuth, Ipke. “Why emotions should be integrated into conversational agents”. &lt;em&gt;Conversational Informatics: an Engineering Approach&lt;/em&gt;. Ed. Toyoaki Nishida. Chichester: John Wiley &amp;amp; Sons, 2007. 49-68.</mla>
+<lncs>Becker, C., Kopp, S., Wachsmuth, I.: Why emotions should be integrated into conversational agents. In: Nishida, T. (ed.) Conversational Informatics: an Engineering Approach. p. 49-68. John Wiley &amp;amp; Sons, Chichester (2007).</lncs>
+<ieee>C. Becker, S. Kopp, and I. Wachsmuth, “Why emotions should be integrated into conversational agents”, &lt;em&gt;Conversational Informatics: an Engineering Approach&lt;/em&gt;, T. Nishida, ed.,  Chichester: John Wiley &amp;amp; Sons, 2007,  pp.49-68.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Becker, Christian, Kopp, Stefan, and Wachsmuth, Ipke. 2007. “Why emotions should be integrated into conversational agents”. In &lt;em&gt;Conversational Informatics: an Engineering Approach&lt;/em&gt;, ed. Toyoaki Nishida, 49-68. Chichester: John Wiley &amp;amp; Sons.&lt;/div&gt;</chicago>
+<frontiers>Becker, C., Kopp, S., and Wachsmuth, I. (2007). “Why emotions should be integrated into conversational agents” in &lt;em&gt;Conversational Informatics: an Engineering Approach&lt;/em&gt;, ed. T.  Nishida (Chichester: John Wiley &amp;amp; Sons), 49-68.</frontiers>
+<angewandte-chemie>C.  Becker, S.  Kopp, and I.  Wachsmuth, in &lt;em&gt;Conversational Informatics: an Engineering Approach&lt;/em&gt; (Ed.: T. Nishida), John Wiley &amp;amp; Sons, Chichester, &lt;strong&gt;2007&lt;/strong&gt;, p. 49-68.</angewandte-chemie>
+<apa>Becker, C., Kopp, S., &amp;amp; Wachsmuth, I. (2007). Why emotions should be integrated into conversational agents. In T.  Nishida (Ed.), &lt;em&gt;Conversational Informatics: an Engineering Approach&lt;/em&gt; (pp. 49-68). Chichester: John Wiley &amp;amp; Sons.</apa>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1857757</recordIdentifier><recordCreationDate encoding="w3cdtf">2015-12-16T08:08:44Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-03-09T07:12:14Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1857757</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1857757</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,174 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Identification and characterization of a nodH ortholog from the alfalfa-nodulating Or191-like rhizobia</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">M. F.</namePart>
+  <namePart type="family">Del Papa</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M.</namePart>
+  <namePart type="family">Pistorio</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">W. O.</namePart>
+  <namePart type="family">Draghi</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M. J.</namePart>
+  <namePart type="family">Lozano</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M. A.</namePart>
+  <namePart type="family">Giusti</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">C.</namePart>
+  <namePart type="family">Medina</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">P.</namePart>
+  <namePart type="family">van Dillewijn</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">F.</namePart>
+  <namePart type="family">Martinez-Abarca</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">B. Moron</namePart>
+  <namePart type="family">Flores</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J. E.</namePart>
+  <namePart type="family">Ruiz-Sainz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M.</namePart>
+  <namePart type="family">Megias</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alfred</namePart>
+  <namePart type="family">Pühler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21937</identifier></name>
+<name type="personal">
+  <namePart type="given">Karsten</namePart>
+  <namePart type="family">Niehaus</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21913</identifier></name>
+<name type="personal">
+  <namePart type="given">N.</namePart>
+  <namePart type="family">Toro</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A.</namePart>
+  <namePart type="family">Lagares</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">40200282</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070639</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2685540</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Nodulation of Medicago sativa (alfalfa) is known to be restricted to Sinorhizobium meliloti and a few other rhizobia that include the poorly characterized isolates related to Rhizobium sp. strain Or191. Distinctive features of the symbiosis between alfalfa and S. meliloti are the marked specificity from the plant to the bacteria and the strict requirement for the presence of sulfated lipochitooligosaccharides (Nod factors [NFs]) at its reducing end. Here, we present evidence of the presence of a functional nodH-encoded NF sulfotransferase in the Or191-like rhizobia. The nodH gene, present in single copy, maps to a high molecular weight megaplasmid. As in S. meliloti, a nodF homolog was identified immediately upstream of nodH that was transcribed in the opposite direction (local synteny). This novel nodH ortholog was cloned and shown to restore both NF sulfation and the Nif(+)Fix(+) phenotypes when introduced into an S. meliloti nodH mutant. Unexpectedly, however, nodH disruption in the Or191-like bacteria did not abolish their ability to nodulate alfalfa, resulting instead in a severely delayed nodulation. In agreement with evidence from other authors, the nodH sequence analysis strongly supports the idea that the Or191-like rhizobia most likely represent a genetic mosaic resulting from the horizontal transfer of symbiotic genes from a sinorhizobial megaplasmid to a not yet clearly identified ancestor.</abstract>
+
+<originInfo><publisher>AMER PHYTOPATHOLOGICAL SOC</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Molecular Plant - Microbe Interactions</title></titleInfo>
+  <identifier type="issn">0894-0282</identifier>
+  <identifier type="MEDLINE">17313165</identifier>
+  <identifier type="ISI">000243542400004</identifier><identifier type="doi">10.1094/MPMI-20-2-0138</identifier>
+<part><detail type="volume"><number>20</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">138-145</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Del Papa MF, Pistorio M, Draghi WO, Lozano MJ, Giusti MA, Medina C, van Dillewijn P, Martinez-Abarca F, Flores BM, Ruiz-Sainz JE, Megias M, et al. (2007) &lt;br /&gt;Molecular Plant - Microbe Interactions 20(2): 138-145.</default>
+<wels>Del Papa, M. F.; Pistorio, M.; Draghi, W. O.; Lozano, M. J.; Giusti, M. A.; Medina, C.; van Dillewijn, P.; Martinez-Abarca, F.; Flores, B. M.; Ruiz-Sainz, J. E.; Megias, M.; Pühler, A.; Niehaus, K.; Toro, N.; Lagares, A. (2007): Identification and characterization of a nodH ortholog from the alfalfa-nodulating Or191-like rhizobia &lt;em&gt;Molecular Plant - Microbe Interactions&lt;/em&gt;,20:(2): 138-145.</wels>
+<bio1>Del Papa MF, Pistorio M, Draghi WO, Lozano MJ, Giusti MA, Medina C, van Dillewijn P, Martinez-Abarca F, Flores BM, Ruiz-Sainz JE, Megias M, Pühler A, Niehaus K, Toro N, Lagares A (2007) &lt;br /&gt;Identification and characterization of a nodH ortholog from the alfalfa-nodulating Or191-like rhizobia.&lt;br /&gt;Molecular Plant - Microbe Interactions 20(2): 138-145.</bio1>
+<aps>M. F.  Del Papa, et al., Identification and characterization of a nodH ortholog from the alfalfa-nodulating Or191-like rhizobia, Molecular Plant - Microbe Interactions &lt;strong&gt;20&lt;/strong&gt;, 138-145 (2007).</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Del Papa, M.F., Pistorio, M., Draghi, W.O., Lozano, M.J., Giusti, M.A., Medina, C., van Dillewijn, P., Martinez-Abarca, F., Flores, B.M., Ruiz-Sainz, J.E., Megias, M., Pühler, A., Niehaus, K., Toro, N. &amp;amp; Lagares, A. (2007). Identification and characterization of a nodH ortholog from the alfalfa-nodulating Or191-like rhizobia. &lt;em&gt;Molecular Plant - Microbe Interactions&lt;/em&gt;, &lt;em&gt;20&lt;/em&gt;(2), 138-145. AMER PHYTOPATHOLOGICAL SOC. doi:10.1094/MPMI-20-2-0138.&lt;/div&gt;</dgps>
+<ama>Del Papa MF, Pistorio M, Draghi WO, et al. Identification and characterization of a nodH ortholog from the alfalfa-nodulating Or191-like rhizobia. &lt;em&gt;Molecular Plant - Microbe Interactions&lt;/em&gt;. 2007;20(2):138-145.</ama>
+<harvard1>Del Papa, M.F., et al., 2007. Identification and characterization of a nodH ortholog from the alfalfa-nodulating Or191-like rhizobia. &lt;em&gt;Molecular Plant - Microbe Interactions&lt;/em&gt;, 20(2), p 138-145.</harvard1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Del Papa, M. F., Pistorio, M., Draghi, W. O., Lozano, M. J., Giusti, M. A., Medina, C., van Dillewijn, P., et al. 2007. “Identification and characterization of a nodH ortholog from the alfalfa-nodulating Or191-like rhizobia”. &lt;em&gt;Molecular Plant - Microbe Interactions&lt;/em&gt; 20 (2): 138-145.&lt;/div&gt;</chicago>
+<frontiers>Del Papa, M. F., Pistorio, M., Draghi, W. O., Lozano, M. J., Giusti, M. A., Medina, C., van Dillewijn, P., Martinez-Abarca, F., Flores, B. M., Ruiz-Sainz, J. E., et al. (2007). Identification and characterization of a nodH ortholog from the alfalfa-nodulating Or191-like rhizobia. &lt;em&gt;Molecular Plant - Microbe Interactions&lt;/em&gt; 20, 138-145.</frontiers>
+<apa>Del Papa, M. F., Pistorio, M., Draghi, W. O., Lozano, M. J., Giusti, M. A., Medina, C., van Dillewijn, P., et al. (2007). Identification and characterization of a nodH ortholog from the alfalfa-nodulating Or191-like rhizobia. &lt;em&gt;Molecular Plant - Microbe Interactions&lt;/em&gt;, &lt;em&gt;20&lt;/em&gt;(2), 138-145.</apa>
+<angewandte-chemie>M. F.  Del Papa, M.  Pistorio, W. O.  Draghi, M. J.  Lozano, M. A.  Giusti, C.  Medina, P.  van Dillewijn, F.  Martinez-Abarca, B. M.  Flores, J. E.  Ruiz-Sainz, et al., “Identification and characterization of a nodH ortholog from the alfalfa-nodulating Or191-like rhizobia”, &lt;em&gt;Molecular Plant - Microbe Interactions&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;20&lt;/em&gt;, 138-145.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Del Papa, M. F., Pistorio, M., Draghi, W. O., Lozano, M. J., Giusti, M. A., Medina, C., van Dillewijn, P., et al. (2007). Identification and characterization of a nodH ortholog from the alfalfa-nodulating Or191-like rhizobia. &lt;em&gt;Molecular Plant - Microbe Interactions&lt;/em&gt;, &lt;em&gt;20&lt;/em&gt;(2), 138-145.&lt;/div&gt;</apa_indent>
+<lncs>Del Papa, M.F., Pistorio, M., Draghi, W.O., Lozano, M.J., Giusti, M.A., Medina, C., van Dillewijn, P., Martinez-Abarca, F., Flores, B.M., Ruiz-Sainz, J.E., Megias, M., Pühler, A., Niehaus, K., Toro, N., Lagares, A.: Identification and characterization of a nodH ortholog from the alfalfa-nodulating Or191-like rhizobia. Molecular Plant - Microbe Interactions. 20, 138-145 (2007).</lncs>
+<mla>Del Papa, M. F., Pistorio, M., Draghi, W. O., Lozano, M. J., Giusti, M. A., Medina, C., van Dillewijn, P., Martinez-Abarca, F., Flores, B. Moron, Ruiz-Sainz, J. E., Megias, M., Pühler, Alfred, Niehaus, Karsten, Toro, N., and Lagares, A. “Identification and characterization of a nodH ortholog from the alfalfa-nodulating Or191-like rhizobia”. &lt;em&gt;Molecular Plant - Microbe Interactions&lt;/em&gt; 20.2 (2007): 138-145.</mla>
+<ieee>M.F. Del Papa, et al., “Identification and characterization of a nodH ortholog from the alfalfa-nodulating Or191-like rhizobia”, &lt;em&gt;Molecular Plant - Microbe Interactions&lt;/em&gt;,  vol. 20, 2007,  pp. 138-145.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1596137</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:58Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2015-12-22T11:33:49Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1596137</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1596137</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

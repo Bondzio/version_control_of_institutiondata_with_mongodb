@@ -1,0 +1,110 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>An un-delooped version of algebraic K-theory</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">T.</namePart>
+  <namePart type="family">Gunnarsson</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Roland</namePart>
+  <namePart type="family">Schwänzl</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">R. M.</namePart>
+  <namePart type="family">Vogt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Friedhelm</namePart>
+  <namePart type="family">Waldhausen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10607</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Problems working with the Segal operations in algebraic K-theory of spaces—constructed by F. Waldhausen (1982)—arose from the absence of a nice groupcompletion on the category level. H. Grayson and D. Gillet (1987) introduced a combinatorial model G. for K-theory of exact categories. For dealing with K-theory of spaces we need an extension wG. of their result to the context of categories with cofibrations and weak equivalences. Our main result is that in the presence of a suspension functor—as in the case of retractive spaces—the wG. construction on the category of prespectra is an un-delooped version of the K-theory of the original category. In a sequel to this paper we show that Grayson&apos;s formula (1988) for Segal operations works as intended.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Waldhausen_002.pdf">https://pub.uni-bielefeld.de/download/1782168/2313702</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1992</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Journal of Pure and Applied Algebra</title></titleInfo>
+  <identifier type="issn">0022-4049</identifier>
+  <identifier type="ISI">A1992HZ50800004</identifier><identifier type="urn">urn:nbn:de:0070-bipr-30057</identifier><identifier type="doi">10.1016/0022-4049(92)90053-I</identifier>
+<part><detail type="volume"><number>79</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">255-270</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>T.  Gunnarsson, et al., An un-delooped version of algebraic K-theory, Journal of Pure and Applied Algebra &lt;strong&gt;79&lt;/strong&gt;, 255-270 (1992).</aps>
+<bio1>Gunnarsson T, Schwänzl R, Vogt RM, Waldhausen F (1992) &lt;br /&gt;An un-delooped version of algebraic K-theory.&lt;br /&gt;Journal of Pure and Applied Algebra 79(3): 255-270.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gunnarsson, T., Schwänzl, R., Vogt, R.M. &amp;amp; Waldhausen, F. (1992). An un-delooped version of algebraic K-theory. &lt;em&gt;Journal of Pure and Applied Algebra&lt;/em&gt;, &lt;em&gt;79&lt;/em&gt;(3), 255-270. doi:10.1016/0022-4049(92)90053-I.&lt;/div&gt;</dgps>
+<ama>Gunnarsson T, Schwänzl R, Vogt RM, Waldhausen F. An un-delooped version of algebraic K-theory. &lt;em&gt;Journal of Pure and Applied Algebra&lt;/em&gt;. 1992;79(3):255-270.</ama>
+<harvard1>Gunnarsson, T., et al., 1992. An un-delooped version of algebraic K-theory. &lt;em&gt;Journal of Pure and Applied Algebra&lt;/em&gt;, 79(3), p 255-270.</harvard1>
+<default>Gunnarsson T, Schwänzl R, Vogt RM, Waldhausen F (1992) &lt;br /&gt;Journal of Pure and Applied Algebra 79(3): 255-270.</default>
+<wels>Gunnarsson, T.; Schwänzl, R.; Vogt, R. M.; Waldhausen, F. (1992): An un-delooped version of algebraic K-theory &lt;em&gt;Journal of Pure and Applied Algebra&lt;/em&gt;,79:(3): 255-270.</wels>
+<mla>Gunnarsson, T., Schwänzl, Roland, Vogt, R. M., and Waldhausen, Friedhelm. “An un-delooped version of algebraic K-theory”. &lt;em&gt;Journal of Pure and Applied Algebra&lt;/em&gt; 79.3 (1992): 255-270.</mla>
+<lncs>Gunnarsson, T., Schwänzl, R., Vogt, R.M., Waldhausen, F.: An un-delooped version of algebraic K-theory. Journal of Pure and Applied Algebra. 79, 255-270 (1992).</lncs>
+<ieee>T. Gunnarsson, et al., “An un-delooped version of algebraic K-theory”, &lt;em&gt;Journal of Pure and Applied Algebra&lt;/em&gt;,  vol. 79, 1992,  pp. 255-270.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gunnarsson, T., Schwänzl, R., Vogt, R. M., &amp;amp; Waldhausen, F. (1992). An un-delooped version of algebraic K-theory. &lt;em&gt;Journal of Pure and Applied Algebra&lt;/em&gt;, &lt;em&gt;79&lt;/em&gt;(3), 255-270.&lt;/div&gt;</apa_indent>
+<frontiers>Gunnarsson, T., Schwänzl, R., Vogt, R. M., and Waldhausen, F. (1992). An un-delooped version of algebraic K-theory. &lt;em&gt;Journal of Pure and Applied Algebra&lt;/em&gt; 79, 255-270.</frontiers>
+<apa>Gunnarsson, T., Schwänzl, R., Vogt, R. M., &amp;amp; Waldhausen, F. (1992). An un-delooped version of algebraic K-theory. &lt;em&gt;Journal of Pure and Applied Algebra&lt;/em&gt;, &lt;em&gt;79&lt;/em&gt;(3), 255-270.</apa>
+<angewandte-chemie>T.  Gunnarsson, R.  Schwänzl, R. M.  Vogt, and F.  Waldhausen, “An un-delooped version of algebraic K-theory”, &lt;em&gt;Journal of Pure and Applied Algebra&lt;/em&gt;, &lt;strong&gt;1992&lt;/strong&gt;, &lt;em&gt;79&lt;/em&gt;, 255-270.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gunnarsson, T., Schwänzl, Roland, Vogt, R. M., and Waldhausen, Friedhelm. 1992. “An un-delooped version of algebraic K-theory”. &lt;em&gt;Journal of Pure and Applied Algebra&lt;/em&gt; 79 (3): 255-270.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1782168</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1782168</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1782168</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

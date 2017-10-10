@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Stadtbevölkerung im Jahr 2010 - zu alt, zu wenig, zu einsam?</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Herwig</namePart>
+  <namePart type="family">Birg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">13197</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Franz</namePart><namePart type="family">Springer</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Emeriti und pensionierte WissenschaftlerInnen</namePart>
+  <identifier type="unibi">4009911</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bevölkerungs- und Gesundheitsforschung</namePart>
+  <identifier type="unibi">10056</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT4357.pdf">https://pub.uni-bielefeld.de/download/1785198/2314774</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Kohlhammer</publisher><dateIssued encoding="w3cdtf">1997</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Standort Stadt</title></titleInfo>
+  <identifier type="isbn">3-17-015412-5</identifier><identifier type="urn">urn:nbn:de:0070-bipr-43571</identifier>
+<part><extent unit="pages">128-129</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Birg, H. (1997). “Stadtbevölkerung im Jahr 2010 - zu alt, zu wenig, zu einsam?” in &lt;em&gt;Standort Stadt&lt;/em&gt;, ed. F.  Springer Neue Schriften des Deutschen Städtetages ; 73, Vorträge, Aussprachen und Ergebnisse der ordentlichen Hauptversammlung des Deutschen Städtetages ; 29 (Stuttgart [u.a.]: Kohlhammer), 128-129.</frontiers>
+<apa>Birg, H. (1997). Stadtbevölkerung im Jahr 2010 - zu alt, zu wenig, zu einsam? In F.  Springer (Ed.), &lt;em&gt;Neue Schriften des Deutschen Städtetages ; 73, Vorträge, Aussprachen und Ergebnisse der ordentlichen Hauptversammlung des Deutschen Städtetages ; 29&lt;/em&gt;&lt;em&gt;. Standort Stadt&lt;/em&gt; (pp. 128-129). Stuttgart [u.a.]: Kohlhammer.</apa>
+<angewandte-chemie>H.  Birg, in &lt;em&gt;Standort Stadt&lt;/em&gt; (Ed.: F. Springer), Kohlhammer, Stuttgart [u.a.], &lt;strong&gt;1997&lt;/strong&gt;, p. 128-129.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Birg, Herwig. 1997. “Stadtbevölkerung im Jahr 2010 - zu alt, zu wenig, zu einsam?”. In &lt;em&gt;Standort Stadt&lt;/em&gt;, ed. Franz Springer, 128-129. Neue Schriften des Deutschen Städtetages ; 73, Vorträge, Aussprachen und Ergebnisse der ordentlichen Hauptversammlung des Deutschen Städtetages ; 29. Stuttgart [u.a.]: Kohlhammer.&lt;/div&gt;</chicago>
+<lncs>Birg, H.: Stadtbevölkerung im Jahr 2010 - zu alt, zu wenig, zu einsam? In: Springer, F. (ed.) Standort Stadt. Neue Schriften des Deutschen Städtetages ; 73, Vorträge, Aussprachen und Ergebnisse der ordentlichen Hauptversammlung des Deutschen Städtetages ; 29. p. 128-129. Kohlhammer, Stuttgart [u.a.] (1997).</lncs>
+<mla>Birg, Herwig. “Stadtbevölkerung im Jahr 2010 - zu alt, zu wenig, zu einsam?”. &lt;em&gt;Standort Stadt&lt;/em&gt;. Ed. Franz Springer. Stuttgart [u.a.]: Kohlhammer, 1997. Neue Schriften des Deutschen Städtetages ; 73, Vorträge, Aussprachen und Ergebnisse der ordentlichen Hauptversammlung des Deutschen Städtetages ; 29. 128-129.</mla>
+<ieee>H. Birg, “Stadtbevölkerung im Jahr 2010 - zu alt, zu wenig, zu einsam?”, &lt;em&gt;Standort Stadt&lt;/em&gt;, F. Springer, ed., Neue Schriften des Deutschen Städtetages ; 73, Vorträge, Aussprachen und Ergebnisse der ordentlichen Hauptversammlung des Deutschen Städtetages ; 29,  Stuttgart [u.a.]: Kohlhammer, 1997,  pp.128-129.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Birg, H. (1997). Stadtbevölkerung im Jahr 2010 - zu alt, zu wenig, zu einsam? In F.  Springer (Ed.), &lt;em&gt;Neue Schriften des Deutschen Städtetages ; 73, Vorträge, Aussprachen und Ergebnisse der ordentlichen Hauptversammlung des Deutschen Städtetages ; 29&lt;/em&gt;&lt;em&gt;. Standort Stadt&lt;/em&gt; (pp. 128-129). Stuttgart [u.a.]: Kohlhammer.&lt;/div&gt;</apa_indent>
+<default>Birg H (1997)  &lt;br /&gt;In:  Standort Stadt. Springer F (Ed); Neue Schriften des Deutschen Städtetages ; 73, Vorträge, Aussprachen und Ergebnisse der ordentlichen Hauptversammlung des Deutschen Städtetages ; 29, . Stuttgart [u.a.]: Kohlhammer:  128-129.</default>
+<wels>Birg, H. (1997): Stadtbevölkerung im Jahr 2010 - zu alt, zu wenig, zu einsam? In: Franz Springer (Hrsg.):  Standort Stadt. Stuttgart [u.a.]: Kohlhammer. (Neue Schriften des Deutschen Städtetages ; 73, Vorträge, Aussprachen und Ergebnisse der ordentlichen Hauptversammlung des Deutschen Städtetages ; 29, ).  S. 128-129.</wels>
+<bio1>Birg H (1997) &lt;br /&gt;Stadtbevölkerung im Jahr 2010 - zu alt, zu wenig, zu einsam? &lt;br /&gt;In:  Standort Stadt. Springer F (Ed); Neue Schriften des Deutschen Städtetages ; 73, Vorträge, Aussprachen und Ergebnisse der ordentlichen Hauptversammlung des Deutschen Städtetages ; 29,  Stuttgart [u.a.]: Kohlhammer:  128-129.</bio1>
+<aps>H.  Birg, Stadtbevölkerung im Jahr 2010 - zu alt, zu wenig, zu einsam?, in &lt;em&gt;Standort Stadt&lt;/em&gt;, edited by F.  Springer, Neue Schriften des Deutschen Städtetages ; 73, Vorträge, Aussprachen und Ergebnisse der ordentlichen Hauptversammlung des Deutschen Städtetages ; 29 (Kohlhammer, Stuttgart [U.a.], 1997), p. 128-129.</aps>
+<harvard1>Birg, H., 1997. Stadtbevölkerung im Jahr 2010 - zu alt, zu wenig, zu einsam? In F.  Springer, ed. &lt;em&gt;Standort Stadt&lt;/em&gt;. Neue Schriften des Deutschen Städtetages ; 73, Vorträge, Aussprachen und Ergebnisse der ordentlichen Hauptversammlung des Deutschen Städtetages ; 29.  Stuttgart [u.a.]: Kohlhammer, pp. 128-129.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Birg, H. (1997). Stadtbevölkerung im Jahr 2010 - zu alt, zu wenig, zu einsam? (Neue Schriften des Deutschen Städtetages ; 73, Vorträge, Aussprachen und Ergebnisse der ordentlichen Hauptversammlung des Deutschen Städtetages ; 29). &lt;em&gt;Standort Stadt&lt;/em&gt; (S. 128-129). Stuttgart [u.a.]: Kohlhammer.&lt;/div&gt;</dgps>
+<ama>Birg H. Stadtbevölkerung im Jahr 2010 - zu alt, zu wenig, zu einsam? In: Springer F, ed. &lt;em&gt;Standort Stadt&lt;/em&gt;. Neue Schriften des Deutschen Städtetages ; 73, Vorträge, Aussprachen und Ergebnisse der ordentlichen Hauptversammlung des Deutschen Städtetages ; 29. Stuttgart [u.a.]: Kohlhammer;  1997: 128-129.</ama>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1785198</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-08-24T12:13:59Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1785198</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1785198</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

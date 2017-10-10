@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Optimal Stopping With Multiple Priors</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Frank</namePart>
+  <namePart type="family">Riedel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">4244291</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Wirtschaftswissenschaften</namePart>
+  <identifier type="unibi">10031</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für mathematische Wirtschaftsforschung</namePart>
+  <identifier type="unibi">10053</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We develop a theory of optimal stopping under Knightian uncertainty. A suitable martingale theory for multiple priors is derived that extends the classical dynamic programming or Snell envelope approach to multiple priors. We relate the multiple prior theory to the classical setup via a minimax theorem. In a multiple prior version of the classical model of independent and identically distributed random variables, we discuss several examples from microeconomics, operation research, and finance. For monotone payoffs, the worst-case prior can be identified quite easily with the help of stochastic dominance arguments. For more complex payoff structures like barrier options, model ambiguity leads to stochastic changes in the worst-case beliefs.</abstract>
+
+<originInfo><publisher>The Econometric Society</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Optimal stopping</topic><topic>uncertainty aversion</topic><topic>robustness</topic><topic>ambiguity</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>ECONOMETRICA</title></titleInfo>
+  <identifier type="issn">0012-9682</identifier>
+  <identifier type="ISI">000266267700006</identifier><identifier type="doi">10.3982/ECTA7594</identifier>
+<part><detail type="volume"><number>77</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">857-908</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>F. Riedel, “Optimal Stopping With Multiple Priors”, &lt;em&gt;ECONOMETRICA&lt;/em&gt;,  vol. 77, 2009,  pp. 857-908.</ieee>
+<lncs>Riedel, F.: Optimal Stopping With Multiple Priors. ECONOMETRICA. 77, 857-908 (2009).</lncs>
+<mla>Riedel, Frank. “Optimal Stopping With Multiple Priors”. &lt;em&gt;ECONOMETRICA&lt;/em&gt; 77.3 (2009): 857-908.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Riedel, F. (2009). Optimal Stopping With Multiple Priors. &lt;em&gt;ECONOMETRICA&lt;/em&gt;, &lt;em&gt;77&lt;/em&gt;(3), 857-908.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>F.  Riedel, “Optimal Stopping With Multiple Priors”, &lt;em&gt;ECONOMETRICA&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;77&lt;/em&gt;, 857-908.</angewandte-chemie>
+<apa>Riedel, F. (2009). Optimal Stopping With Multiple Priors. &lt;em&gt;ECONOMETRICA&lt;/em&gt;, &lt;em&gt;77&lt;/em&gt;(3), 857-908.</apa>
+<frontiers>Riedel, F. (2009). Optimal Stopping With Multiple Priors. &lt;em&gt;ECONOMETRICA&lt;/em&gt; 77, 857-908.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Riedel, Frank. 2009. “Optimal Stopping With Multiple Priors”. &lt;em&gt;ECONOMETRICA&lt;/em&gt; 77 (3): 857-908.&lt;/div&gt;</chicago>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Riedel, F. (2009). Optimal Stopping With Multiple Priors. &lt;em&gt;ECONOMETRICA&lt;/em&gt;, &lt;em&gt;77&lt;/em&gt;(3), 857-908. The Econometric Society. doi:10.3982/ECTA7594.&lt;/div&gt;</dgps>
+<ama>Riedel F. Optimal Stopping With Multiple Priors. &lt;em&gt;ECONOMETRICA&lt;/em&gt;. 2009;77(3):857-908.</ama>
+<harvard1>Riedel, F., 2009. Optimal Stopping With Multiple Priors. &lt;em&gt;ECONOMETRICA&lt;/em&gt;, 77(3), p 857-908.</harvard1>
+<bio1>Riedel F (2009) &lt;br /&gt;Optimal Stopping With Multiple Priors.&lt;br /&gt;ECONOMETRICA 77(3): 857-908.</bio1>
+<aps>F.  Riedel, Optimal Stopping With Multiple Priors, ECONOMETRICA &lt;strong&gt;77&lt;/strong&gt;, 857-908 (2009).</aps>
+<wels>Riedel, F. (2009): Optimal Stopping With Multiple Priors &lt;em&gt;ECONOMETRICA&lt;/em&gt;,77:(3): 857-908.</wels>
+<default>Riedel F (2009) &lt;br /&gt;ECONOMETRICA 77(3): 857-908.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1633775</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:06:59Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-14T12:22:26Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1633775</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1633775</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,105 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Hadronic excitations at high temperature</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Edwin</namePart>
+  <namePart type="family">Laermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40621</identifier></name>
+<name type="personal">
+  <namePart type="given">Frithjof</namePart>
+  <namePart type="family">Karsch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40326</identifier></name>
+<name type="personal">
+  <namePart type="given">S.</namePart>
+  <namePart type="family">Shcheredin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">S.</namePart>
+  <namePart type="family">Wissel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host">
+  <identifier type="issn">0375-9474</identifier>
+  <identifier type="INSPIRE">757384</identifier>
+  <identifier type="ISI">000245623400052</identifier><identifier type="doi">10.1016/j.nuclphysa.2006.11.157</identifier>
+<part><detail type="volume"><number>785</number></detail><detail type="issue"><number>1-2</number></detail><extent unit="pages">261C-265C</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<harvard1>Laermann, E., et al., 2007. Hadronic excitations at high temperature.</harvard1>
+<ama>Laermann E, Karsch F, Shcheredin S, Wissel S. Hadronic excitations at high temperature.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Laermann, E., Karsch, F., Shcheredin, S. &amp;amp; Wissel, S. (2007). Hadronic excitations at high temperature (NUCLEAR PHYSICS A) (S. 261C-265C). ELSEVIER SCIENCE BV. doi:10.1016/j.nuclphysa.2006.11.157.&lt;/div&gt;</dgps>
+<aps> E.  Laermann, et al., Hadronic excitations at high temperature, NUCLEAR PHYSICS A, &lt;strong&gt;785&lt;/strong&gt; (ELSEVIER SCIENCE BV, 2007), p. 261C-265C.</aps>
+<bio1>Laermann E, Karsch F, Shcheredin S, Wissel S (2007) &lt;br /&gt;Hadronic excitations at high temperature.</bio1>
+<wels>Laermann, E.; Karsch, F.; Shcheredin, S.; Wissel, S. (2007): Hadronic excitations at high temperature. ELSEVIER SCIENCE BV. (NUCLEAR PHYSICS A, 785).  S. 261C-265C.</wels>
+<default>Laermann E, Karsch F, Shcheredin S, Wissel S (2007) .</default>
+<ieee> E. Laermann, et al., “Hadronic excitations at high temperature”, ELSEVIER SCIENCE BV, 2007.</ieee>
+<lncs> Laermann, E., Karsch, F., Shcheredin, S., Wissel, S.: Hadronic excitations at high temperature. (2007).</lncs>
+<mla>Laermann, Edwin, Karsch, Frithjof, Shcheredin, S., and Wissel, S. “Hadronic excitations at high temperature”., ELSEVIER SCIENCE BV, 2007.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Laermann, E., Karsch, F., Shcheredin, S., &amp;amp; Wissel, S. (2007). &lt;em&gt;Hadronic excitations at high temperature&lt;/em&gt;. Presented at the .&lt;/div&gt;</apa_indent>
+<angewandte-chemie>E.  Laermann, F.  Karsch, S.  Shcheredin, and S.  Wissel, Elsevier Science Bv, &lt;strong&gt;2007&lt;/strong&gt;, p. 261C-265C.</angewandte-chemie>
+<apa>Laermann, E., Karsch, F., Shcheredin, S., &amp;amp; Wissel, S. (2007). &lt;em&gt;Hadronic excitations at high temperature&lt;/em&gt;. Presented at the .</apa>
+<frontiers>Laermann, E., Karsch, F., Shcheredin, S., and Wissel, S. (2007).“Hadronic excitations at high temperature”.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Laermann, Edwin, Karsch, Frithjof, Shcheredin, S., and Wissel, S. 2007. “Hadronic excitations at high temperature”. Presented at the , 785:261C-265C. NUCLEAR PHYSICS A. ELSEVIER SCIENCE BV.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1594446</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:18Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-24T13:16:47Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1594446</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1594446</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

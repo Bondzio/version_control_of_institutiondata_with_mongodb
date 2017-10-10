@@ -1,0 +1,111 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Thermal dileptons from pi-p interactions in a hot pion gas</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Rudolf</namePart>
+  <namePart type="family">Baier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40336</identifier></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Dirks</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">K</namePart>
+  <namePart type="family">Redlich</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Phänomenologie von Schwerionenkollisionen</namePart>
+  <identifier type="unibi">23470601</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The production of low mass dileptons from pi-rho interactions in a hot medium is studied. Applying finite temperature perturbation theory the dilepton rate is computed up to order g(p)(2). For dilepton masses below the rho the two-body reactions pi pi--&gt;rho gamma*, pi rho--&gt;pi gamma*, and the decay process rho--&gt;pi pi gamma* give significant contributions. Nonequilibrium contributions to the thermal rate are estimated, including the modification of the particle distribution function with a nonzero pion chemical potential. A comparison of the dilepton rate with the recent data measured in nucleus-nucleus collisions al CERN SPS energy by the CERES Collaboration is also performed. It is shown that the additional thermal dileptons from pi-rho interactions can partially account for the excess of the soft dilepton yield seen experimentally.</abstract>
+
+<originInfo><publisher>AMERICAN PHYSICAL SOC</publisher><dateIssued encoding="w3cdtf">1997</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>PHYSICAL REVIEW D</title></titleInfo>
+  <identifier type="issn">0556-2821</identifier>
+  <identifier type="eIssn">1089-4918</identifier>
+  <identifier type="INSPIRE">424032</identifier>
+  <identifier type="ISI">A1997WY65400040</identifier><identifier type="doi">10.1103/PhysRevD.55.4344</identifier>
+<part><detail type="volume"><number>55</number></detail><detail type="issue"><number>7</number></detail><extent unit="pages">4344-4354</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Baier R, Dirks M, Redlich K. Thermal dileptons from pi-p interactions in a hot pion gas. &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt;. 1997;55(7):4344-4354.</ama>
+<harvard1>Baier, R., Dirks, M., &amp;amp; Redlich, K., 1997. Thermal dileptons from pi-p interactions in a hot pion gas. &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt;, 55(7), p 4344-4354.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baier, R., Dirks, M. &amp;amp; Redlich, K. (1997). Thermal dileptons from pi-p interactions in a hot pion gas. &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt;, &lt;em&gt;55&lt;/em&gt;(7), 4344-4354. AMERICAN PHYSICAL SOC. doi:10.1103/PhysRevD.55.4344.&lt;/div&gt;</dgps>
+<bio1>Baier R, Dirks M, Redlich K (1997) &lt;br /&gt;Thermal dileptons from pi-p interactions in a hot pion gas.&lt;br /&gt;PHYSICAL REVIEW D 55(7): 4344-4354.</bio1>
+<aps>R.  Baier, M.  Dirks, and K.  Redlich, Thermal dileptons from pi-p interactions in a hot pion gas, PHYSICAL REVIEW D &lt;strong&gt;55&lt;/strong&gt;, 4344-4354 (1997).</aps>
+<wels>Baier, R.; Dirks, M.; Redlich, K. (1997): Thermal dileptons from pi-p interactions in a hot pion gas &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt;,55:(7): 4344-4354.</wels>
+<default>Baier R, Dirks M, Redlich K (1997) &lt;br /&gt;PHYSICAL REVIEW D 55(7): 4344-4354.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baier, R., Dirks, M., &amp;amp; Redlich, K. (1997). Thermal dileptons from pi-p interactions in a hot pion gas. &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt;, &lt;em&gt;55&lt;/em&gt;(7), 4344-4354.&lt;/div&gt;</apa_indent>
+<ieee>R. Baier, M. Dirks, and K. Redlich, “Thermal dileptons from pi-p interactions in a hot pion gas”, &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt;,  vol. 55, 1997,  pp. 4344-4354.</ieee>
+<mla>Baier, Rudolf, Dirks, M, and Redlich, K. “Thermal dileptons from pi-p interactions in a hot pion gas”. &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt; 55.7 (1997): 4344-4354.</mla>
+<lncs>Baier, R., Dirks, M., Redlich, K.: Thermal dileptons from pi-p interactions in a hot pion gas. PHYSICAL REVIEW D. 55, 4344-4354 (1997).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baier, Rudolf, Dirks, M, and Redlich, K. 1997. “Thermal dileptons from pi-p interactions in a hot pion gas”. &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt; 55 (7): 4344-4354.&lt;/div&gt;</chicago>
+<angewandte-chemie>R.  Baier, M.  Dirks, and K.  Redlich, “Thermal dileptons from pi-p interactions in a hot pion gas”, &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt;, &lt;strong&gt;1997&lt;/strong&gt;, &lt;em&gt;55&lt;/em&gt;, 4344-4354.</angewandte-chemie>
+<apa>Baier, R., Dirks, M., &amp;amp; Redlich, K. (1997). Thermal dileptons from pi-p interactions in a hot pion gas. &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt;, &lt;em&gt;55&lt;/em&gt;(7), 4344-4354.</apa>
+<frontiers>Baier, R., Dirks, M., and Redlich, K. (1997). Thermal dileptons from pi-p interactions in a hot pion gas. &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt; 55, 4344-4354.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1637189</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:14:07Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-08-31T06:17:48Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1637189</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1637189</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

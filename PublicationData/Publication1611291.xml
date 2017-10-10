@@ -1,0 +1,94 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>A recurrent network for landmark-based navigation</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Holk</namePart>
+  <namePart type="family">Cruse</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21923</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2685507</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">A new type of network is proposed that can be applied to landmark navigation. It solves the guidance task, that is, it finds a nonvisually marked location using knowledge concerning its spatial relation to other, visible landmarks. The path to the searched location is not disturbed if a landmark is not visible for some time. The network can also describe findings obtained by experiments with insects and rodents, where the position of the landmarks has been changed after training. In this net, recognition does not occur by searching for a match between a pattern seen and the same pattern being stored but by searching for a match between a pattern seen with a prediction calculated from different data. A simple extension allows a unique match of the landmarks seen with the items stored in memory. With this extension a recognition of the individual landmark is not necessary. A specific output unit of the network can be interpreted in such a way as to show properties of place cells found in vertebrates and the function of the network proposed here as to determine the input to a place cell. The model can explain the observation that a given place cell can also be active when the animal moves in a different environment. An extension is discussed of how the network could be exploited for recognition-triggered response that allows animals to follow fixed routes.</abstract>
+
+<originInfo><publisher>SPRINGER-VERLAG</publisher><dateIssued encoding="w3cdtf">2003</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Biological Cybernetics</title></titleInfo>
+  <identifier type="issn">0340-1200</identifier>
+  <identifier type="MEDLINE">12789491</identifier>
+  <identifier type="ISI">000183446700002</identifier><identifier type="doi">10.1007/s00422-003-0395-9</identifier>
+<part><detail type="volume"><number>88</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">425-437</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cruse, Holk. 2003. “A recurrent network for landmark-based navigation”. &lt;em&gt;Biological Cybernetics&lt;/em&gt; 88 (6): 425-437.&lt;/div&gt;</chicago>
+<apa>Cruse, H. (2003). A recurrent network for landmark-based navigation. &lt;em&gt;Biological Cybernetics&lt;/em&gt;, &lt;em&gt;88&lt;/em&gt;(6), 425-437.</apa>
+<angewandte-chemie>H.  Cruse, “A recurrent network for landmark-based navigation”, &lt;em&gt;Biological Cybernetics&lt;/em&gt;, &lt;strong&gt;2003&lt;/strong&gt;, &lt;em&gt;88&lt;/em&gt;, 425-437.</angewandte-chemie>
+<frontiers>Cruse, H. (2003). A recurrent network for landmark-based navigation. &lt;em&gt;Biological Cybernetics&lt;/em&gt; 88, 425-437.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cruse, H. (2003). A recurrent network for landmark-based navigation. &lt;em&gt;Biological Cybernetics&lt;/em&gt;, &lt;em&gt;88&lt;/em&gt;(6), 425-437.&lt;/div&gt;</apa_indent>
+<ieee> H. Cruse, “A recurrent network for landmark-based navigation”, &lt;em&gt;Biological Cybernetics&lt;/em&gt;,  vol. 88, 2003,  pp. 425-437.</ieee>
+<lncs> Cruse, H.: A recurrent network for landmark-based navigation. Biological Cybernetics. 88, 425-437 (2003).</lncs>
+<mla>Cruse, Holk. “A recurrent network for landmark-based navigation”. &lt;em&gt;Biological Cybernetics&lt;/em&gt; 88.6 (2003): 425-437.</mla>
+<wels>Cruse, H. (2003): A recurrent network for landmark-based navigation &lt;em&gt;Biological Cybernetics&lt;/em&gt;,88:(6): 425-437.</wels>
+<default>Cruse H (2003) &lt;br /&gt;Biological Cybernetics 88(6): 425-437.</default>
+<ama>Cruse H. A recurrent network for landmark-based navigation. &lt;em&gt;Biological Cybernetics&lt;/em&gt;. 2003;88(6):425-437.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cruse, H. (2003). A recurrent network for landmark-based navigation. &lt;em&gt;Biological Cybernetics&lt;/em&gt;, &lt;em&gt;88&lt;/em&gt;(6), 425-437. SPRINGER-VERLAG. doi:10.1007/s00422-003-0395-9.&lt;/div&gt;</dgps>
+<harvard1>Cruse, H., 2003. A recurrent network for landmark-based navigation. &lt;em&gt;Biological Cybernetics&lt;/em&gt;, 88(6), p 425-437.</harvard1>
+<bio1>Cruse H (2003) &lt;br /&gt;A recurrent network for landmark-based navigation.&lt;br /&gt;Biological Cybernetics 88(6): 425-437.</bio1>
+<aps> H.  Cruse, A recurrent network for landmark-based navigation, Biological Cybernetics &lt;strong&gt;88&lt;/strong&gt;, 425-437 (2003).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1611291</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:59:23Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-09-22T09:00:48Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1611291</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1611291</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

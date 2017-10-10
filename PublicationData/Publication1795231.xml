@@ -1,0 +1,123 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>A syntax of hoverfly flight prototypes</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Bart</namePart>
+  <namePart type="family">Geurten</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">4371831</identifier></name>
+<name type="personal">
+  <namePart type="given">Roland</namePart>
+  <namePart type="family">Kern</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">22116</identifier></name>
+<name type="personal">
+  <namePart type="given">Elke</namePart>
+  <namePart type="family">Braun</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">8703119</identifier></name>
+<name type="personal">
+  <namePart type="given">Martin</namePart>
+  <namePart type="family">Egelhaaf</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">156194</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-9336-4270</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Neurobiologie</namePart>
+  <identifier type="unibi">2684834</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Center of Excellence - Cognitive Interaction Technology CITEC</namePart>
+  <identifier type="unibi">8014655</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Hoverflies such as Eristalis tenax Linnaeus are known for their distinctive flight style. They can hover on the same spot for several seconds and then burst into movement in apparently any possible direction. In order to determine a quantitative and structured description of complex flight manoeuvres, we searched for a set of repeatedly occurring prototypical movements (PMs) and a set of rules for their ordering. PMs were identified by applying clustering algorithms to the translational and rotational velocities of the body of Eristalis during free-flight sequences. This approach led to nine stable and reliable PMs, and thus provided a tremendous reduction in the complexity of behavioural description. This set of PMs together with the probabilities of transition between them constitute a syntactical description of flight behaviour. The PMs themselves can be roughly segregated into fast rotational turns (saccades) and a variety of distinct translational movements (intersaccadic intervals). We interpret this segregation as reflecting an active sensing strategy which facilitates the extraction of spatial information from retinal image displacements. Detailed analysis of saccades shows that they are performed around all rotational axes individually and in all possible combinations. We found the probability of occurrence of a given saccade type to depend on parameters such as the angle between the long body axis and the direction of flight.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Geurtenetal_JEB_2010.pdf">https://pub.uni-bielefeld.de/download/1795231/2516820</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>The Company of Biologists</publisher><dateIssued encoding="w3cdtf">2010</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>hoverfly</topic><topic>clustering</topic><topic>syntax</topic><topic>flight behaviour</topic><topic>movement segregation</topic><topic>saccades</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Journal of Experimental Biology</title></titleInfo>
+  <identifier type="issn">0022-0949</identifier>
+  <identifier type="eIssn">1477-9145</identifier>
+  <identifier type="MEDLINE">20581276</identifier>
+  <identifier type="ISI">000279180700018</identifier><identifier type="urn">urn:nbn:de:0070-pub-17952311</identifier><identifier type="doi">10.1242/jeb.036079</identifier>
+<part><detail type="volume"><number>213</number></detail><detail type="issue"><number>14</number></detail><extent unit="pages">2461-2475</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<angewandte-chemie>B.  Geurten, R.  Kern, E.  Braun, and M.  Egelhaaf, “A syntax of hoverfly flight prototypes”, &lt;em&gt;Journal of Experimental Biology&lt;/em&gt;, &lt;strong&gt;2010&lt;/strong&gt;, &lt;em&gt;213&lt;/em&gt;, 2461-2475.</angewandte-chemie>
+<apa>Geurten, B., Kern, R., Braun, E., &amp;amp; Egelhaaf, M. (2010). A syntax of hoverfly flight prototypes. &lt;em&gt;Journal of Experimental Biology&lt;/em&gt;, &lt;em&gt;213&lt;/em&gt;(14), 2461-2475.</apa>
+<frontiers>Geurten, B., Kern, R., Braun, E., and Egelhaaf, M. (2010). A syntax of hoverfly flight prototypes. &lt;em&gt;Journal of Experimental Biology&lt;/em&gt; 213, 2461-2475.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Geurten, Bart, Kern, Roland, Braun, Elke, and Egelhaaf, Martin. 2010. “A syntax of hoverfly flight prototypes”. &lt;em&gt;Journal of Experimental Biology&lt;/em&gt; 213 (14): 2461-2475.&lt;/div&gt;</chicago>
+<ieee>B. Geurten, et al., “A syntax of hoverfly flight prototypes”, &lt;em&gt;Journal of Experimental Biology&lt;/em&gt;,  vol. 213, 2010,  pp. 2461-2475.</ieee>
+<mla>Geurten, Bart, Kern, Roland, Braun, Elke, and Egelhaaf, Martin. “A syntax of hoverfly flight prototypes”. &lt;em&gt;Journal of Experimental Biology&lt;/em&gt; 213.14 (2010): 2461-2475.</mla>
+<lncs>Geurten, B., Kern, R., Braun, E., Egelhaaf, M.: A syntax of hoverfly flight prototypes. Journal of Experimental Biology. 213, 2461-2475 (2010).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Geurten, B., Kern, R., Braun, E., &amp;amp; Egelhaaf, M. (2010). A syntax of hoverfly flight prototypes. &lt;em&gt;Journal of Experimental Biology&lt;/em&gt;, &lt;em&gt;213&lt;/em&gt;(14), 2461-2475.&lt;/div&gt;</apa_indent>
+<wels>Geurten, B.; Kern, R.; Braun, E.; Egelhaaf, M. (2010): A syntax of hoverfly flight prototypes &lt;em&gt;Journal of Experimental Biology&lt;/em&gt;,213:(14): 2461-2475.</wels>
+<default>Geurten B, Kern R, Braun E, Egelhaaf M (2010) &lt;br /&gt;Journal of Experimental Biology 213(14): 2461-2475.</default>
+<ama>Geurten B, Kern R, Braun E, Egelhaaf M. A syntax of hoverfly flight prototypes. &lt;em&gt;Journal of Experimental Biology&lt;/em&gt;. 2010;213(14):2461-2475.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Geurten, B., Kern, R., Braun, E. &amp;amp; Egelhaaf, M. (2010). A syntax of hoverfly flight prototypes. &lt;em&gt;Journal of Experimental Biology&lt;/em&gt;, &lt;em&gt;213&lt;/em&gt;(14), 2461-2475. The Company of Biologists. doi:10.1242/jeb.036079.&lt;/div&gt;</dgps>
+<harvard1>Geurten, B., et al., 2010. A syntax of hoverfly flight prototypes. &lt;em&gt;Journal of Experimental Biology&lt;/em&gt;, 213(14), p 2461-2475.</harvard1>
+<bio1>Geurten B, Kern R, Braun E, Egelhaaf M (2010) &lt;br /&gt;A syntax of hoverfly flight prototypes.&lt;br /&gt;Journal of Experimental Biology 213(14): 2461-2475.</bio1>
+<aps>B.  Geurten, et al., A syntax of hoverfly flight prototypes, Journal of Experimental Biology &lt;strong&gt;213&lt;/strong&gt;, 2461-2475 (2010).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1795231</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-10-14T09:03:21Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2012-07-27T12:08:27Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1795231</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1795231</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

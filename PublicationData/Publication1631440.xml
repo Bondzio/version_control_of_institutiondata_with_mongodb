@@ -1,0 +1,151 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Phase defect inspection of multilayer masks for 13.5 nm optical lithography using PEEM in a standing wave mode</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">J.</namePart>
+  <namePart type="family">Maul</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J.</namePart>
+  <namePart type="family">Lin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A.</namePart>
+  <namePart type="family">Oelsner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">D.</namePart>
+  <namePart type="family">Valdaitsev</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">N.</namePart>
+  <namePart type="family">Weber</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M.</namePart>
+  <namePart type="family">Escher</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M.</namePart>
+  <namePart type="family">Merkel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">H.</namePart>
+  <namePart type="family">Seitz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ulrich</namePart>
+  <namePart type="family">Heinzmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40276</identifier></name>
+<name type="personal">
+  <namePart type="given">U.</namePart>
+  <namePart type="family">Kleineberg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">G.</namePart>
+  <namePart type="family">Schoenhense</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">29133467</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33079537</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2161137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We report on recent developments of an &quot;at wavelength&quot; full-field imaging technique for defect inspection of multilayer mask blanks for extreme ultraviolet lithography (EUVL). Our approach uses photoemission electron microscopy (PEEM) in a near normal incidence mode at 13.5 nut wavelength to image the photoemission induced by the EUV wave field on the multilayer blank surface. We analyze buried defects on Mo/Si multilayer samples down to a lateral size of 50 nm and report on first, results obtained from a six inches mask blank prototype as prerequisite for industrial usage. (c) 2007 Elsevier B.V. All rights reserved.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>extreme ultraviolet lithography (EUVL)</topic><topic>microscopy (PEEM)</topic><topic>EUV-PEEM</topic><topic>defect analysis</topic><topic>photoemission electron</topic><topic>multilayer mask blanks</topic>
+</subject>
+
+
+<relatedItem type="host">
+  <identifier type="issn">0039-6028</identifier>
+  <identifier type="ISI">000250889500018</identifier><identifier type="doi">10.1016/j.susc.2007.05.041</identifier>
+<part><detail type="volume"><number>601</number></detail><detail type="issue"><number>20</number></detail><extent unit="pages">4758-4763</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Maul, J., Lin, J., Oelsner, A., Valdaitsev, D., Weber, N., Escher, M., Merkel, M., et al. (2007). &lt;em&gt;Phase defect inspection of multilayer masks for 13.5 nm optical lithography using PEEM in a standing wave mode&lt;/em&gt;. Presented at the .&lt;/div&gt;</apa_indent>
+<ieee> J. Maul, et al., “Phase defect inspection of multilayer masks for 13.5 nm optical lithography using PEEM in a standing wave mode”, ELSEVIER SCIENCE BV, 2007.</ieee>
+<lncs> Maul, J., Lin, J., Oelsner, A., Valdaitsev, D., Weber, N., Escher, M., Merkel, M., Seitz, H., Heinzmann, U., Kleineberg, U., Schoenhense, G.: Phase defect inspection of multilayer masks for 13.5 nm optical lithography using PEEM in a standing wave mode. (2007).</lncs>
+<mla>Maul, J., Lin, J., Oelsner, A., Valdaitsev, D., Weber, N., Escher, M., Merkel, M., Seitz, H., Heinzmann, Ulrich, Kleineberg, U., and Schoenhense, G. “Phase defect inspection of multilayer masks for 13.5 nm optical lithography using PEEM in a standing wave mode”., ELSEVIER SCIENCE BV, 2007.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Maul, J., Lin, J., Oelsner, A., Valdaitsev, D., Weber, N., Escher, M., Merkel, M., et al. 2007. “Phase defect inspection of multilayer masks for 13.5 nm optical lithography using PEEM in a standing wave mode”. Presented at the , 601:4758-4763. SURFACE SCIENCE. ELSEVIER SCIENCE BV.&lt;/div&gt;</chicago>
+<angewandte-chemie>J.  Maul, J.  Lin, A.  Oelsner, D.  Valdaitsev, N.  Weber, M.  Escher, M.  Merkel, H.  Seitz, U.  Heinzmann, U.  Kleineberg, et al., Elsevier Science Bv, &lt;strong&gt;2007&lt;/strong&gt;, p. 4758-4763.</angewandte-chemie>
+<apa>Maul, J., Lin, J., Oelsner, A., Valdaitsev, D., Weber, N., Escher, M., Merkel, M., et al. (2007). &lt;em&gt;Phase defect inspection of multilayer masks for 13.5 nm optical lithography using PEEM in a standing wave mode&lt;/em&gt;. Presented at the .</apa>
+<frontiers>Maul, J., Lin, J., Oelsner, A., Valdaitsev, D., Weber, N., Escher, M., Merkel, M., Seitz, H., Heinzmann, U., Kleineberg, U., et al. (2007).“Phase defect inspection of multilayer masks for 13.5 nm optical lithography using PEEM in a standing wave mode”.</frontiers>
+<ama>Maul J, Lin J, Oelsner A, et al. Phase defect inspection of multilayer masks for 13.5 nm optical lithography using PEEM in a standing wave mode.</ama>
+<harvard1>Maul, J., et al., 2007. Phase defect inspection of multilayer masks for 13.5 nm optical lithography using PEEM in a standing wave mode.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Maul, J., Lin, J., Oelsner, A., Valdaitsev, D., Weber, N., Escher, M., Merkel, M., Seitz, H., Heinzmann, U., Kleineberg, U. &amp;amp; Schoenhense, G. (2007). Phase defect inspection of multilayer masks for 13.5 nm optical lithography using PEEM in a standing wave mode (SURFACE SCIENCE) (S. 4758-4763). ELSEVIER SCIENCE BV. doi:10.1016/j.susc.2007.05.041.&lt;/div&gt;</dgps>
+<bio1>Maul J, Lin J, Oelsner A, Valdaitsev D, Weber N, Escher M, Merkel M, Seitz H, Heinzmann U, Kleineberg U, Schoenhense G (2007) &lt;br /&gt;Phase defect inspection of multilayer masks for 13.5 nm optical lithography using PEEM in a standing wave mode.</bio1>
+<aps> J.  Maul, et al., Phase defect inspection of multilayer masks for 13.5 nm optical lithography using PEEM in a standing wave mode, SURFACE SCIENCE, &lt;strong&gt;601&lt;/strong&gt; (ELSEVIER SCIENCE BV, 2007), p. 4758-4763.</aps>
+<wels>Maul, J.; Lin, J.; Oelsner, A.; Valdaitsev, D.; Weber, N.; Escher, M.; Merkel, M.; Seitz, H.; Heinzmann, U.; Kleineberg, U.; Schoenhense, G. (2007): Phase defect inspection of multilayer masks for 13.5 nm optical lithography using PEEM in a standing wave mode. ELSEVIER SCIENCE BV. (SURFACE SCIENCE, 601).  S. 4758-4763.</wels>
+<default>Maul J, Lin J, Oelsner A, Valdaitsev D, Weber N, Escher M, Merkel M, Seitz H, Heinzmann U, Kleineberg U, Schoenhense G (2007) .</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1631440</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:05:43Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-20T09:34:17Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1631440</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1631440</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

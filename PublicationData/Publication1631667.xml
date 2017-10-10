@@ -1,0 +1,166 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>2DBase: 2D-PAGE database of Escherichia coli</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Chandran</namePart>
+  <namePart type="family">Vijayendran</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Sebastian</namePart>
+  <namePart type="family">Burgemeister</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">4522656</identifier></name>
+<name type="personal">
+  <namePart type="given">Karl</namePart>
+  <namePart type="family">Friehs</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11015</identifier></name>
+<name type="personal">
+  <namePart type="given">Karsten</namePart>
+  <namePart type="family">Niehaus</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21913</identifier></name>
+<name type="personal">
+  <namePart type="given">Erwin</namePart>
+  <namePart type="family">Flaschel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11014</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">4838684</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2685540</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10042</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33086526</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">16941123</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">40200282</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We present a web-based integrated proteome database, termed 2DBase of Escherichia coli which was designed to store, compare, analyse, and retrieve various information obtained by 2D polyacrylamide gel electrophoresis and mass spectrometry. The main objectives of this database are (1) to provide the features for query and data-mining applications to access the stored proteomics data (2) to efficiently compare the specific protein spots present in the comparable proteome maps and (3) to analyse the data with the integrated classification for cellular functions of gene products of E. coli. This database currently contains 12 gels consisting of 1185 protein spots information in which 723 proteins were identified and annotated. Individual protein spots in the existing gels can be displayed, queried, analyzed, and compared in a tabular format based on various functional categories enabling quick and subsequent analyses. Our database satisfies the requirement to be a federated 2-DE database by accomplishing various tasks through a web interface providing access to a relational database system. The 2DBase of E. coli database can be accessed at http://2dbase.techfak.uni-bielefeld.de/.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="vijayendran.pdf">https://pub.uni-bielefeld.de/download/1631667/2473283</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>ELSEVIER</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>2D gels</topic><topic>2D-PAGE</topic><topic>proteomics</topic><topic>E. coli</topic><topic>database</topic><topic>MG1655</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS</title></titleInfo>
+  <identifier type="issn">0006-291X</identifier>
+  <identifier type="MEDLINE">17904107</identifier>
+  <identifier type="ISI">000250359400062</identifier><identifier type="urn">urn:nbn:de:0070-pub-16316677</identifier><identifier type="doi">10.1016/j.bbrc.2007.09.050</identifier>
+<part><detail type="volume"><number>363</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">822-827</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>Vijayendran C, Burgemeister S, Friehs K, Niehaus K, Flaschel E (2007) &lt;br /&gt;2DBase: 2D-PAGE database of Escherichia coli.&lt;br /&gt;BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS 363(3): 822-827.</bio1>
+<aps>C.  Vijayendran, et al., 2DBase: 2D-PAGE database of Escherichia coli, BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS &lt;strong&gt;363&lt;/strong&gt;, 822-827 (2007).</aps>
+<harvard1>Vijayendran, C., et al., 2007. 2DBase: 2D-PAGE database of Escherichia coli. &lt;em&gt;BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS&lt;/em&gt;, 363(3), p 822-827.</harvard1>
+<ama>Vijayendran C, Burgemeister S, Friehs K, Niehaus K, Flaschel E. 2DBase: 2D-PAGE database of Escherichia coli. &lt;em&gt;BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS&lt;/em&gt;. 2007;363(3):822-827.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Vijayendran, C., Burgemeister, S., Friehs, K., Niehaus, K. &amp;amp; Flaschel, E. (2007). 2DBase: 2D-PAGE database of Escherichia coli. &lt;em&gt;BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS&lt;/em&gt;, &lt;em&gt;363&lt;/em&gt;(3), 822-827. ELSEVIER. doi:10.1016/j.bbrc.2007.09.050.&lt;/div&gt;</dgps>
+<default>Vijayendran C, Burgemeister S, Friehs K, Niehaus K, Flaschel E (2007) &lt;br /&gt;BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS 363(3): 822-827.</default>
+<wels>Vijayendran, C.; Burgemeister, S.; Friehs, K.; Niehaus, K.; Flaschel, E. (2007): 2DBase: 2D-PAGE database of Escherichia coli &lt;em&gt;BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS&lt;/em&gt;,363:(3): 822-827.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Vijayendran, C., Burgemeister, S., Friehs, K., Niehaus, K., &amp;amp; Flaschel, E. (2007). 2DBase: 2D-PAGE database of Escherichia coli. &lt;em&gt;BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS&lt;/em&gt;, &lt;em&gt;363&lt;/em&gt;(3), 822-827.&lt;/div&gt;</apa_indent>
+<lncs>Vijayendran, C., Burgemeister, S., Friehs, K., Niehaus, K., Flaschel, E.: 2DBase: 2D-PAGE database of Escherichia coli. BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS. 363, 822-827 (2007).</lncs>
+<mla>Vijayendran, Chandran, Burgemeister, Sebastian, Friehs, Karl, Niehaus, Karsten, and Flaschel, Erwin. “2DBase: 2D-PAGE database of Escherichia coli”. &lt;em&gt;BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS&lt;/em&gt; 363.3 (2007): 822-827.</mla>
+<ieee>C. Vijayendran, et al., “2DBase: 2D-PAGE database of Escherichia coli”, &lt;em&gt;BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS&lt;/em&gt;,  vol. 363, 2007,  pp. 822-827.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Vijayendran, Chandran, Burgemeister, Sebastian, Friehs, Karl, Niehaus, Karsten, and Flaschel, Erwin. 2007. “2DBase: 2D-PAGE database of Escherichia coli”. &lt;em&gt;BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS&lt;/em&gt; 363 (3): 822-827.&lt;/div&gt;</chicago>
+<frontiers>Vijayendran, C., Burgemeister, S., Friehs, K., Niehaus, K., and Flaschel, E. (2007). 2DBase: 2D-PAGE database of Escherichia coli. &lt;em&gt;BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS&lt;/em&gt; 363, 822-827.</frontiers>
+<apa>Vijayendran, C., Burgemeister, S., Friehs, K., Niehaus, K., &amp;amp; Flaschel, E. (2007). 2DBase: 2D-PAGE database of Escherichia coli. &lt;em&gt;BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS&lt;/em&gt;, &lt;em&gt;363&lt;/em&gt;(3), 822-827.</apa>
+<angewandte-chemie>C.  Vijayendran, S.  Burgemeister, K.  Friehs, K.  Niehaus, and E.  Flaschel, “2DBase: 2D-PAGE database of Escherichia coli”, &lt;em&gt;BIOCHEMICAL AND BIOPHYSICAL RESEARCH COMMUNICATIONS&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;363&lt;/em&gt;, 822-827.</angewandte-chemie>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1631667</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:05:52Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2015-12-22T10:29:04Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1631667</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1631667</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

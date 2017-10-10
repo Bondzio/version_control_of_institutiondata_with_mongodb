@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Handeln und Handlungserklärungen</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ansgar</namePart>
+  <namePart type="family">Beckermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">16684</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Ansgar</namePart><namePart type="family">Beckermann</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Abteilung Philosophie</namePart>
+  <identifier type="unibi">10024</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Beckermann_03.pdf">https://pub.uni-bielefeld.de/download/1776954/2312268</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Suhrkamp</publisher><dateIssued encoding="w3cdtf">1977</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Analytische Handlungstheorie</title></titleInfo>
+  <identifier type="isbn">3-518-06399-5</identifier><identifier type="urn">urn:nbn:de:0070-bipr-13355</identifier>
+<part><detail type="volume"><number>vol. 2: Handlungserklärungen</number></detail><extent unit="pages">7-84</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Beckermann, A. (1977): Handeln und Handlungserklärungen. In: Ansgar Beckermann (Hrsg.):  Analytische Handlungstheorie. Frankfurt am Main: Suhrkamp. (vol. 2: Handlungserklärungen).  S. 7-84.</wels>
+<default>Beckermann A (1977)  &lt;br /&gt;In:  Analytische Handlungstheorie. Beckermann A (Ed);vol. 2: Handlungserklärungen. Frankfurt am Main: Suhrkamp:  7-84.</default>
+<ama>Beckermann A. Handeln und Handlungserklärungen. In: Beckermann A, ed. &lt;em&gt;Analytische Handlungstheorie&lt;/em&gt;. Vol vol. 2: Handlungserklärungen. Frankfurt am Main: Suhrkamp;  1977: 7-84.</ama>
+<harvard1>Beckermann, A., 1977. Handeln und Handlungserklärungen. In A.  Beckermann, ed. &lt;em&gt;Analytische Handlungstheorie&lt;/em&gt;. no.vol. 2: Handlungserklärungen  Frankfurt am Main: Suhrkamp, pp. 7-84.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Beckermann, A. (1977). Handeln und Handlungserklärungen. &lt;em&gt;Analytische Handlungstheorie&lt;/em&gt; (S. 7-84). Frankfurt am Main: Suhrkamp.&lt;/div&gt;</dgps>
+<aps>A.  Beckermann, Handeln und Handlungserklärungen, in &lt;em&gt;Analytische Handlungstheorie&lt;/em&gt;, edited by A.  Beckermann, &lt;strong&gt;vol. 2: Handlungserklärungen&lt;/strong&gt; (Suhrkamp, Frankfurt Am Main, 1977), p. 7-84.</aps>
+<bio1>Beckermann A (1977) &lt;br /&gt;Handeln und Handlungserklärungen. &lt;br /&gt;In:  Analytische Handlungstheorie. Beckermann A (Ed);vol. 2: Handlungserklärungen. Frankfurt am Main: Suhrkamp:  7-84.</bio1>
+<angewandte-chemie>A.  Beckermann, in &lt;em&gt;Analytische Handlungstheorie&lt;/em&gt; (Ed.: A. Beckermann), Suhrkamp, Frankfurt am Main, &lt;strong&gt;1977&lt;/strong&gt;, p. 7-84.</angewandte-chemie>
+<apa>Beckermann, A. (1977). Handeln und Handlungserklärungen. In A.  Beckermann (Ed.), &lt;em&gt;Analytische Handlungstheorie&lt;/em&gt; (Vol. vol. 2: Handlungserklärungen, pp. 7-84). Frankfurt am Main: Suhrkamp.</apa>
+<frontiers>Beckermann, A. (1977). “Handeln und Handlungserklärungen” in &lt;em&gt;Analytische Handlungstheorie&lt;/em&gt;, ed. A.  Beckermann, vol. vol. 2: Handlungserklärungen, (Frankfurt am Main: Suhrkamp), 7-84.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Beckermann, Ansgar. 1977. “Handeln und Handlungserklärungen”. In &lt;em&gt;Analytische Handlungstheorie&lt;/em&gt;, ed. Ansgar Beckermann, vol. 2: Handlungserklärungen:7-84. Frankfurt am Main: Suhrkamp.&lt;/div&gt;</chicago>
+<ieee>A. Beckermann, “Handeln und Handlungserklärungen”, &lt;em&gt;Analytische Handlungstheorie&lt;/em&gt;, A. Beckermann, ed., vol. vol. 2: Handlungserklärungen,  Frankfurt am Main: Suhrkamp, 1977,  pp.7-84.</ieee>
+<mla>Beckermann, Ansgar. “Handeln und Handlungserklärungen”. &lt;em&gt;Analytische Handlungstheorie&lt;/em&gt;. Ed. Ansgar Beckermann. Frankfurt am Main: Suhrkamp, 1977.Vol. vol. 2: Handlungserklärungen. 7-84.</mla>
+<lncs>Beckermann, A.: Handeln und Handlungserklärungen. In: Beckermann, A. (ed.) Analytische Handlungstheorie. vol. 2: Handlungserklärungen, p. 7-84. Suhrkamp, Frankfurt am Main (1977).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Beckermann, A. (1977). Handeln und Handlungserklärungen. In A.  Beckermann (Ed.), &lt;em&gt;Analytische Handlungstheorie&lt;/em&gt; (Vol. vol. 2: Handlungserklärungen, pp. 7-84). Frankfurt am Main: Suhrkamp.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776954</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776954</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776954</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

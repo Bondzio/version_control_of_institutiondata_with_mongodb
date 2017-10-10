@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Aristoteles, Descartes und die Beziehungen zwischen Philosophischer Psychologie und Künstlicher-Intelligenz-Forschung</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ansgar</namePart>
+  <namePart type="family">Beckermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">16684</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Ernst</namePart><namePart type="family">Pöppel</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Abteilung Philosophie</namePart>
+  <identifier type="unibi">10024</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Beckermann_16.pdf">https://pub.uni-bielefeld.de/download/1776959/2312273</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>VCH</publisher><dateIssued encoding="w3cdtf">1989</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+<subject><topic>Artificial intelligence</topic><topic>Philosophical psychology</topic><topic>Philosophy</topic><topic>Aristoteles</topic><topic>Descartes</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Gehirn und Bewußtsein</title></titleInfo>
+  <identifier type="isbn">3-527-27901-6</identifier><identifier type="urn">urn:nbn:de:0070-bipr-13412</identifier>
+<part><extent unit="pages">105-123</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Beckermann, A. (1989): Aristoteles, Descartes und die Beziehungen zwischen Philosophischer Psychologie und Künstlicher-Intelligenz-Forschung. In: Ernst Pöppel (Hrsg.):  Gehirn und Bewußtsein. Weinheim: VCH.  S. 105-123.</wels>
+<default>Beckermann A (1989)  &lt;br /&gt;In:  Gehirn und Bewußtsein. Pöppel E (Ed);Weinheim: VCH:  105-123.</default>
+<ama>Beckermann A. Aristoteles, Descartes und die Beziehungen zwischen Philosophischer Psychologie und Künstlicher-Intelligenz-Forschung. In: Pöppel E, ed. &lt;em&gt;Gehirn und Bewußtsein&lt;/em&gt;. Weinheim: VCH;  1989: 105-123.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Beckermann, A. (1989). Aristoteles, Descartes und die Beziehungen zwischen Philosophischer Psychologie und Künstlicher-Intelligenz-Forschung. &lt;em&gt;Gehirn und Bewußtsein&lt;/em&gt; (S. 105-123). Weinheim: VCH.&lt;/div&gt;</dgps>
+<harvard1>Beckermann, A., 1989. Aristoteles, Descartes und die Beziehungen zwischen Philosophischer Psychologie und Künstlicher-Intelligenz-Forschung. In E.  Pöppel, ed. &lt;em&gt;Gehirn und Bewußtsein&lt;/em&gt;.  Weinheim: VCH, pp. 105-123.</harvard1>
+<aps>A.  Beckermann, Aristoteles, Descartes und die Beziehungen zwischen Philosophischer Psychologie und Künstlicher-Intelligenz-Forschung, in &lt;em&gt;Gehirn und Bewußtsein&lt;/em&gt;, edited by E.  Pöppel (VCH, Weinheim, 1989), p. 105-123.</aps>
+<bio1>Beckermann A (1989) &lt;br /&gt;Aristoteles, Descartes und die Beziehungen zwischen Philosophischer Psychologie und Künstlicher-Intelligenz-Forschung. &lt;br /&gt;In:  Gehirn und Bewußtsein. Pöppel E (Ed); Weinheim: VCH:  105-123.</bio1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Beckermann, Ansgar. 1989. “Aristoteles, Descartes und die Beziehungen zwischen Philosophischer Psychologie und Künstlicher-Intelligenz-Forschung”. In &lt;em&gt;Gehirn und Bewußtsein&lt;/em&gt;, ed. Ernst Pöppel, 105-123. Weinheim: VCH.&lt;/div&gt;</chicago>
+<angewandte-chemie>A.  Beckermann, in &lt;em&gt;Gehirn und Bewußtsein&lt;/em&gt; (Ed.: E. Pöppel), Vch, Weinheim, &lt;strong&gt;1989&lt;/strong&gt;, p. 105-123.</angewandte-chemie>
+<apa>Beckermann, A. (1989). Aristoteles, Descartes und die Beziehungen zwischen Philosophischer Psychologie und Künstlicher-Intelligenz-Forschung. In E.  Pöppel (Ed.), &lt;em&gt;Gehirn und Bewußtsein&lt;/em&gt; (pp. 105-123). Weinheim: VCH.</apa>
+<frontiers>Beckermann, A. (1989). “Aristoteles, Descartes und die Beziehungen zwischen Philosophischer Psychologie und Künstlicher-Intelligenz-Forschung” in &lt;em&gt;Gehirn und Bewußtsein&lt;/em&gt;, ed. E.  Pöppel (Weinheim: VCH), 105-123.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Beckermann, A. (1989). Aristoteles, Descartes und die Beziehungen zwischen Philosophischer Psychologie und Künstlicher-Intelligenz-Forschung. In E.  Pöppel (Ed.), &lt;em&gt;Gehirn und Bewußtsein&lt;/em&gt; (pp. 105-123). Weinheim: VCH.&lt;/div&gt;</apa_indent>
+<ieee>A. Beckermann, “Aristoteles, Descartes und die Beziehungen zwischen Philosophischer Psychologie und Künstlicher-Intelligenz-Forschung”, &lt;em&gt;Gehirn und Bewußtsein&lt;/em&gt;, E. Pöppel, ed.,  Weinheim: VCH, 1989,  pp.105-123.</ieee>
+<mla>Beckermann, Ansgar. “Aristoteles, Descartes und die Beziehungen zwischen Philosophischer Psychologie und Künstlicher-Intelligenz-Forschung”. &lt;em&gt;Gehirn und Bewußtsein&lt;/em&gt;. Ed. Ernst Pöppel. Weinheim: VCH, 1989. 105-123.</mla>
+<lncs>Beckermann, A.: Aristoteles, Descartes und die Beziehungen zwischen Philosophischer Psychologie und Künstlicher-Intelligenz-Forschung. In: Pöppel, E. (ed.) Gehirn und Bewußtsein. p. 105-123. VCH, Weinheim (1989).</lncs>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776959</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776959</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776959</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

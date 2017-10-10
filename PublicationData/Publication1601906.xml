@@ -1,0 +1,133 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>SOM-based wavelet filtering for the exploration of medical images</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">B</namePart>
+  <namePart type="family">Lessmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Degenhard</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">P</namePart>
+  <namePart type="family">Kessar</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">L</namePart>
+  <namePart type="family">Pointon</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Khazen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">MO</namePart>
+  <namePart type="family">Leach</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Tim Wilhelm</namePart>
+  <namePart type="family">Nattkemper</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11602</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33067409</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">In medical image analysis there are many applications that require the definition of characteristic image features. Especially computationally generated characteristic image features have potential for the exploration of large datasets. In this work, we propose a method for investigating time series of medical images using a combination of the Discrete Wavelet Transform and the Self Organizing Map. Our approach allows relevant image information to be identified in wavelet space. This enables us to develop a filter algorithm suitable to find and extract the characteristic image features and to suppress interfering non-relevant image information.</abstract>
+
+<originInfo><publisher>SPRINGER-VERLAG BERLIN</publisher><dateIssued encoding="w3cdtf">2005</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>ARTIFICIAL NEURAL NETWORKS: BIOLOGICAL INSPIRATIONS - ICANN 2005, PT 1, PROCEEDINGS</title></titleInfo>
+  <identifier type="issn">0302-9743</identifier>
+  <identifier type="ISI">000232193800104</identifier><identifier type="doi">10.1007/11550822_104</identifier>
+<part><detail type="volume"><number>3696</number></detail><extent unit="pages">671-676</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>Lessmann B, Degenhard A, Kessar P, Pointon L, Khazen M, Leach MO, Nattkemper TW (2005) &lt;br /&gt;SOM-based wavelet filtering for the exploration of medical images. &lt;br /&gt;In:  ARTIFICIAL NEURAL NETWORKS: BIOLOGICAL INSPIRATIONS - ICANN 2005, PT 1, PROCEEDINGS. 3696. SPRINGER-VERLAG BERLIN:  671-676.</bio1>
+<aps> B.  Lessmann, et al., SOM-based wavelet filtering for the exploration of medical images, in &lt;em&gt;ARTIFICIAL NEURAL NETWORKS: BIOLOGICAL INSPIRATIONS - ICANN 2005, PT 1, PROCEEDINGS&lt;/em&gt;, &lt;strong&gt;3696&lt;/strong&gt; (SPRINGER-VERLAG BERLIN, 2005), p. 671-676.</aps>
+<harvard1>Lessmann, B., et al., 2005. SOM-based wavelet filtering for the exploration of medical images. In &lt;em&gt;ARTIFICIAL NEURAL NETWORKS: BIOLOGICAL INSPIRATIONS - ICANN 2005, PT 1, PROCEEDINGS&lt;/em&gt;. no.3696  SPRINGER-VERLAG BERLIN, pp. 671-676.</harvard1>
+<ama>Lessmann B, Degenhard A, Kessar P, et al. SOM-based wavelet filtering for the exploration of medical images. In:  &lt;em&gt;ARTIFICIAL NEURAL NETWORKS: BIOLOGICAL INSPIRATIONS - ICANN 2005, PT 1, PROCEEDINGS&lt;/em&gt;. Vol 3696. SPRINGER-VERLAG BERLIN;  2005: 671-676.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lessmann, B., Degenhard, A., Kessar, P., Pointon, L., Khazen, M., Leach, M.O. &amp;amp; Nattkemper, T.W. (2005). SOM-based wavelet filtering for the exploration of medical images. &lt;em&gt;ARTIFICIAL NEURAL NETWORKS: BIOLOGICAL INSPIRATIONS - ICANN 2005, PT 1, PROCEEDINGS&lt;/em&gt; (S. 671-676). SPRINGER-VERLAG BERLIN. doi:10.1007/11550822_104.&lt;/div&gt;</dgps>
+<default>Lessmann B, Degenhard A, Kessar P, Pointon L, Khazen M, Leach MO, Nattkemper TW (2005)  &lt;br /&gt;In:  ARTIFICIAL NEURAL NETWORKS: BIOLOGICAL INSPIRATIONS - ICANN 2005, PT 1, PROCEEDINGS. 3696. SPRINGER-VERLAG BERLIN:  671-676.</default>
+<wels>Lessmann, B.; Degenhard, A.; Kessar, P.; Pointon, L.; Khazen, M.; Leach, M. O.; Nattkemper, T. W. (2005): SOM-based wavelet filtering for the exploration of medical images. In: ARTIFICIAL NEURAL NETWORKS: BIOLOGICAL INSPIRATIONS - ICANN 2005, PT 1, PROCEEDINGS. SPRINGER-VERLAG BERLIN. (3696).  S. 671-676.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lessmann, B., Degenhard, A., Kessar, P., Pointon, L., Khazen, M., Leach, M. O., &amp;amp; Nattkemper, T. W. (2005). SOM-based wavelet filtering for the exploration of medical images. &lt;em&gt;ARTIFICIAL NEURAL NETWORKS: BIOLOGICAL INSPIRATIONS - ICANN 2005, PT 1, PROCEEDINGS&lt;/em&gt;, &lt;em&gt;3696&lt;/em&gt;, 671-676.&lt;/div&gt;</apa_indent>
+<mla>Lessmann, B, Degenhard, A, Kessar, P, Pointon, L, Khazen, M, Leach, MO, and Nattkemper, Tim Wilhelm. “SOM-based wavelet filtering for the exploration of medical images”. &lt;em&gt;ARTIFICIAL NEURAL NETWORKS: BIOLOGICAL INSPIRATIONS - ICANN 2005, PT 1, PROCEEDINGS&lt;/em&gt;. SPRINGER-VERLAG BERLIN, 2005.Vol. 3696. 671-676.</mla>
+<lncs> Lessmann, B., Degenhard, A., Kessar, P., Pointon, L., Khazen, M., Leach, M.O., Nattkemper, T.W.: SOM-based wavelet filtering for the exploration of medical images. ARTIFICIAL NEURAL NETWORKS: BIOLOGICAL INSPIRATIONS - ICANN 2005, PT 1, PROCEEDINGS. 3696, p. 671-676. SPRINGER-VERLAG BERLIN (2005).</lncs>
+<ieee> B. Lessmann, et al., “SOM-based wavelet filtering for the exploration of medical images”, &lt;em&gt;ARTIFICIAL NEURAL NETWORKS: BIOLOGICAL INSPIRATIONS - ICANN 2005, PT 1, PROCEEDINGS&lt;/em&gt;, vol. 3696, SPRINGER-VERLAG BERLIN, 2005,  pp.671-676.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lessmann, B, Degenhard, A, Kessar, P, Pointon, L, Khazen, M, Leach, MO, and Nattkemper, Tim Wilhelm. 2005. “SOM-based wavelet filtering for the exploration of medical images”. In &lt;em&gt;ARTIFICIAL NEURAL NETWORKS: BIOLOGICAL INSPIRATIONS - ICANN 2005, PT 1, PROCEEDINGS&lt;/em&gt;, 3696:671-676. SPRINGER-VERLAG BERLIN.&lt;/div&gt;</chicago>
+<frontiers>Lessmann, B., Degenhard, A., Kessar, P., Pointon, L., Khazen, M., Leach, M. O., and Nattkemper, T. W. (2005). “SOM-based wavelet filtering for the exploration of medical images” in &lt;em&gt;ARTIFICIAL NEURAL NETWORKS: BIOLOGICAL INSPIRATIONS - ICANN 2005, PT 1, PROCEEDINGS&lt;/em&gt;, vol. 3696, (SPRINGER-VERLAG BERLIN), 671-676.</frontiers>
+<angewandte-chemie>B.  Lessmann, A.  Degenhard, P.  Kessar, L.  Pointon, M.  Khazen, M. O.  Leach, and T. W.  Nattkemper, in &lt;em&gt;ARTIFICIAL NEURAL NETWORKS: BIOLOGICAL INSPIRATIONS - ICANN 2005, PT 1, PROCEEDINGS&lt;/em&gt;, Springer-Verlag Berlin, &lt;strong&gt;2005&lt;/strong&gt;, p. 671-676.</angewandte-chemie>
+<apa>Lessmann, B., Degenhard, A., Kessar, P., Pointon, L., Khazen, M., Leach, M. O., &amp;amp; Nattkemper, T. W. (2005). SOM-based wavelet filtering for the exploration of medical images. &lt;em&gt;ARTIFICIAL NEURAL NETWORKS: BIOLOGICAL INSPIRATIONS - ICANN 2005, PT 1, PROCEEDINGS&lt;/em&gt;, &lt;em&gt;3696&lt;/em&gt;, 671-676.</apa>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1601906</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:32:02Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-09-29T08:29:39Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1601906</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1601906</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

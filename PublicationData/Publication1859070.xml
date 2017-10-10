@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>E-volution - Vom 2D- zum 3D-Lernen</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Markus</namePart>
+  <namePart type="family">Walber</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">80260</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Veronika</namePart><namePart type="family">Hornung-Prähauser</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10059</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">7978238</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Studien-Verl.</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Selbstorganisiertes Lernen im Internet. Einblick in die Landschaft der webbasierten Bildungsinnovationen</title></titleInfo>
+  <identifier type="isbn">978-3-7065-4641-6</identifier>
+<part><extent unit="pages">301-307</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Walber M. E-volution - Vom 2D- zum 3D-Lernen. In: Hornung-Prähauser V, ed. &lt;em&gt;Selbstorganisiertes Lernen im Internet. Einblick in die Landschaft der webbasierten Bildungsinnovationen&lt;/em&gt;. Innsbruck, Wien, Bozen: Studien-Verl.;  2008: 301-307.</ama>
+<harvard1>Walber, M., 2008. E-volution - Vom 2D- zum 3D-Lernen. In V.  Hornung-Prähauser, ed. &lt;em&gt;Selbstorganisiertes Lernen im Internet. Einblick in die Landschaft der webbasierten Bildungsinnovationen&lt;/em&gt;.  Innsbruck, Wien, Bozen: Studien-Verl., pp. 301-307.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Walber, M. (2008). E-volution - Vom 2D- zum 3D-Lernen. &lt;em&gt;Selbstorganisiertes Lernen im Internet. Einblick in die Landschaft der webbasierten Bildungsinnovationen&lt;/em&gt; (S. 301-307). Innsbruck, Wien, Bozen: Studien-Verl.&lt;/div&gt;</dgps>
+<bio1>Walber M (2008) &lt;br /&gt;E-volution - Vom 2D- zum 3D-Lernen. &lt;br /&gt;In:  Selbstorganisiertes Lernen im Internet. Einblick in die Landschaft der webbasierten Bildungsinnovationen. Hornung-Prähauser V (Ed); Innsbruck, Wien, Bozen: Studien-Verl.:  301-307.</bio1>
+<aps> M.  Walber, E-volution - Vom 2D- zum 3D-Lernen, in &lt;em&gt;Selbstorganisiertes Lernen im Internet. Einblick in die Landschaft der webbasierten Bildungsinnovationen&lt;/em&gt;, edited by V.  Hornung-Prähauser (Studien-Verl., Innsbruck, Wien, Bozen, 2008), p. 301-307.</aps>
+<wels>Walber, M. (2008): E-volution - Vom 2D- zum 3D-Lernen. In: Veronika Hornung-Prähauser (Hrsg.):  Selbstorganisiertes Lernen im Internet. Einblick in die Landschaft der webbasierten Bildungsinnovationen. Innsbruck, Wien, Bozen: Studien-Verl.  S. 301-307.</wels>
+<default>Walber M (2008)  &lt;br /&gt;In:  Selbstorganisiertes Lernen im Internet. Einblick in die Landschaft der webbasierten Bildungsinnovationen. Hornung-Prähauser V (Ed);Innsbruck, Wien, Bozen: Studien-Verl.:  301-307.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Walber, M. (2008). E-volution - Vom 2D- zum 3D-Lernen. In V.  Hornung-Prähauser (Ed.), &lt;em&gt;Selbstorganisiertes Lernen im Internet. Einblick in die Landschaft der webbasierten Bildungsinnovationen&lt;/em&gt; (pp. 301-307). Innsbruck, Wien, Bozen: Studien-Verl.&lt;/div&gt;</apa_indent>
+<ieee> M. Walber, “E-volution - Vom 2D- zum 3D-Lernen”, &lt;em&gt;Selbstorganisiertes Lernen im Internet. Einblick in die Landschaft der webbasierten Bildungsinnovationen&lt;/em&gt;, V. Hornung-Prähauser, ed.,  Innsbruck, Wien, Bozen: Studien-Verl., 2008,  pp.301-307.</ieee>
+<mla>Walber, Markus. “E-volution - Vom 2D- zum 3D-Lernen”. &lt;em&gt;Selbstorganisiertes Lernen im Internet. Einblick in die Landschaft der webbasierten Bildungsinnovationen&lt;/em&gt;. Ed. Veronika Hornung-Prähauser. Innsbruck, Wien, Bozen: Studien-Verl., 2008. 301-307.</mla>
+<lncs> Walber, M.: E-volution - Vom 2D- zum 3D-Lernen. In: Hornung-Prähauser, V. (ed.) Selbstorganisiertes Lernen im Internet. Einblick in die Landschaft der webbasierten Bildungsinnovationen. p. 301-307. Studien-Verl., Innsbruck, Wien, Bozen (2008).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Walber, Markus. 2008. “E-volution - Vom 2D- zum 3D-Lernen”. In &lt;em&gt;Selbstorganisiertes Lernen im Internet. Einblick in die Landschaft der webbasierten Bildungsinnovationen&lt;/em&gt;, ed. Veronika Hornung-Prähauser, 301-307. Innsbruck, Wien, Bozen: Studien-Verl.&lt;/div&gt;</chicago>
+<angewandte-chemie>M.  Walber, in &lt;em&gt;Selbstorganisiertes Lernen im Internet. Einblick in die Landschaft der webbasierten Bildungsinnovationen&lt;/em&gt; (Ed.: V. Hornung-Prähauser), Studien-Verl., Innsbruck, Wien, Bozen, &lt;strong&gt;2008&lt;/strong&gt;, p. 301-307.</angewandte-chemie>
+<apa>Walber, M. (2008). E-volution - Vom 2D- zum 3D-Lernen. In V.  Hornung-Prähauser (Ed.), &lt;em&gt;Selbstorganisiertes Lernen im Internet. Einblick in die Landschaft der webbasierten Bildungsinnovationen&lt;/em&gt; (pp. 301-307). Innsbruck, Wien, Bozen: Studien-Verl.</apa>
+<frontiers>Walber, M. (2008). “E-volution - Vom 2D- zum 3D-Lernen” in &lt;em&gt;Selbstorganisiertes Lernen im Internet. Einblick in die Landschaft der webbasierten Bildungsinnovationen&lt;/em&gt;, Hornung-Prähauser, V. ed. (Innsbruck, Wien, Bozen: Studien-Verl.), 301-307.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1859070</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-08-05T12:23:46Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-08-05T12:23:46Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1859070</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1859070</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

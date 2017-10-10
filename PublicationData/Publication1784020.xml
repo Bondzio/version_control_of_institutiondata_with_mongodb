@@ -1,0 +1,152 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>GeneFisher-P: variations of GeneFisher as processes in Bio-jETI</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Anna-Lena</namePart>
+  <namePart type="family">Lamprecht</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Tiziana</namePart>
+  <namePart type="family">Margaria</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Bernhard</namePart>
+  <namePart type="family">Steffen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alexander</namePart>
+  <namePart type="family">Sczyrba</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">17894</identifier></name>
+<name type="personal">
+  <namePart type="given">Sven</namePart>
+  <namePart type="family">Hartmeier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">174587</identifier></name>
+<name type="personal">
+  <namePart type="given">Robert</namePart>
+  <namePart type="family">Giegerich</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">147565</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Praktische Informatik</namePart>
+  <identifier type="unibi">10039</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group R. Giegerich</namePart>
+  <identifier type="unibi">33067120</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group A. Sczyrba</namePart>
+  <identifier type="unibi">33067478</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Computational Metagenomics</namePart>
+  <identifier type="unibi">29610095</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Background: PCR primer design is an everyday, but not trivial task requiring state-of-the-art software. We describe the popular tool GeneFisher and explain its recent restructuring using workflow techniques. We apply a service-oriented approach to model and implement GeneFisher-P, a process-based version of the GeneFisher web application, as a part of the Bio-jETI platform for service modeling and execution. We show how to introduce a flexible process layer to meet the growing demand for improved user-friendliness and flexibility. Results: Within Bio-jETI, we model the process using the jABC framework, a mature model-driven, service-oriented process definition platform. We encapsulate remote legacy tools and integrate web services using jETI, an extension of the jABC for seamless integration of remote resources as basic services, ready to be used in the process. Some of the basic services used by GeneFisher are in fact already provided as individual web services at BiBiServ and can be directly accessed. Others are legacy programs, and are made available to Bio-jETI via the jETI technology. The full power of service-based process orientation is required when more bioinformatics tools, available as web services or via jETI, lead to easy extensions or variations of the basic process. This concerns for instance variations of data retrieval or alignment tools as provided by the European Bioinformatics Institute (EBI). Conclusions: The resulting service- and process-oriented GeneFisher-P demonstrates how basic services from heterogeneous sources can be easily orchestrated in the Bio-jETI platform and lead to a flexible family of specialized processes tailored to specific tasks.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="gieg_1.pdf">https://pub.uni-bielefeld.de/download/1784020/2314321</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>BMC Bioinformatics</title></titleInfo>
+  <identifier type="issn">1471-2105</identifier>
+  <identifier type="MEDLINE">18460174</identifier>
+  <identifier type="ISI">000259023300013</identifier><identifier type="urn">urn:nbn:de:0070-pub-17840205</identifier><identifier type="doi">10.1186/1471-2105-9-S4-S13</identifier>
+<part><detail type="volume"><number>9</number></detail><detail type="issue"><number>Suppl 4</number></detail><extent unit="pages">S13</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Lamprecht, A. - L.; Margaria, T.; Steffen, B.; Sczyrba, A.; Hartmeier, S.; Giegerich, R. (2008): GeneFisher-P: variations of GeneFisher as processes in Bio-jETI &lt;em&gt;BMC Bioinformatics&lt;/em&gt;,9:(Suppl 4)</wels>
+<default>Lamprecht A-L, Margaria T, Steffen B, Sczyrba A, Hartmeier S, Giegerich R (2008) &lt;br /&gt;BMC Bioinformatics 9(Suppl 4).</default>
+<harvard1>Lamprecht, A.-L., et al., 2008. GeneFisher-P: variations of GeneFisher as processes in Bio-jETI. &lt;em&gt;BMC Bioinformatics&lt;/em&gt;, 9(Suppl 4).</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lamprecht, A.-L., Margaria, T., Steffen, B., Sczyrba, A., Hartmeier, S. &amp;amp; Giegerich, R. (2008). GeneFisher-P: variations of GeneFisher as processes in Bio-jETI. &lt;em&gt;BMC Bioinformatics&lt;/em&gt;, &lt;em&gt;9&lt;/em&gt;(Suppl 4). doi:10.1186/1471-2105-9-S4-S13.&lt;/div&gt;</dgps>
+<ama>Lamprecht A-L, Margaria T, Steffen B, Sczyrba A, Hartmeier S, Giegerich R. GeneFisher-P: variations of GeneFisher as processes in Bio-jETI. &lt;em&gt;BMC Bioinformatics&lt;/em&gt;. 2008;9(Suppl 4).</ama>
+<bio1>Lamprecht A-L, Margaria T, Steffen B, Sczyrba A, Hartmeier S, Giegerich R (2008) &lt;br /&gt;GeneFisher-P: variations of GeneFisher as processes in Bio-jETI.&lt;br /&gt;BMC Bioinformatics 9(Suppl 4).</bio1>
+<aps>A. - L.  Lamprecht, et al., GeneFisher-P: variations of GeneFisher as processes in Bio-jETI, BMC Bioinformatics &lt;strong&gt;9&lt;/strong&gt;, (2008).</aps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lamprecht, Anna-Lena, Margaria, Tiziana, Steffen, Bernhard, Sczyrba, Alexander, Hartmeier, Sven, and Giegerich, Robert. 2008. “GeneFisher-P: variations of GeneFisher as processes in Bio-jETI”. &lt;em&gt;BMC Bioinformatics&lt;/em&gt; 9 (Suppl 4).&lt;/div&gt;</chicago>
+<apa>Lamprecht, A. - L., Margaria, T., Steffen, B., Sczyrba, A., Hartmeier, S., &amp;amp; Giegerich, R. (2008). GeneFisher-P: variations of GeneFisher as processes in Bio-jETI. &lt;em&gt;BMC Bioinformatics&lt;/em&gt;, &lt;em&gt;9&lt;/em&gt;(Suppl 4).</apa>
+<angewandte-chemie>A. - L.  Lamprecht, T.  Margaria, B.  Steffen, A.  Sczyrba, S.  Hartmeier, and R.  Giegerich, “GeneFisher-P: variations of GeneFisher as processes in Bio-jETI”, &lt;em&gt;BMC Bioinformatics&lt;/em&gt;, &lt;strong&gt;2008&lt;/strong&gt;, &lt;em&gt;9&lt;/em&gt;.</angewandte-chemie>
+<frontiers>Lamprecht, A. - L., Margaria, T., Steffen, B., Sczyrba, A., Hartmeier, S., and Giegerich, R. (2008). GeneFisher-P: variations of GeneFisher as processes in Bio-jETI. &lt;em&gt;BMC Bioinformatics&lt;/em&gt; 9.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lamprecht, A. - L., Margaria, T., Steffen, B., Sczyrba, A., Hartmeier, S., &amp;amp; Giegerich, R. (2008). GeneFisher-P: variations of GeneFisher as processes in Bio-jETI. &lt;em&gt;BMC Bioinformatics&lt;/em&gt;, &lt;em&gt;9&lt;/em&gt;(Suppl 4).&lt;/div&gt;</apa_indent>
+<ieee>A.-L. Lamprecht, et al., “GeneFisher-P: variations of GeneFisher as processes in Bio-jETI”, &lt;em&gt;BMC Bioinformatics&lt;/em&gt;,  vol. 9, 2008.</ieee>
+<lncs>Lamprecht, A.-L., Margaria, T., Steffen, B., Sczyrba, A., Hartmeier, S., Giegerich, R.: GeneFisher-P: variations of GeneFisher as processes in Bio-jETI. BMC Bioinformatics. 9, (2008).</lncs>
+<mla>Lamprecht, Anna-Lena, Margaria, Tiziana, Steffen, Bernhard, Sczyrba, Alexander, Hartmeier, Sven, and Giegerich, Robert. “GeneFisher-P: variations of GeneFisher as processes in Bio-jETI”. &lt;em&gt;BMC Bioinformatics&lt;/em&gt; 9.Suppl 4 (2008).</mla>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1784020</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-03-09T13:41:19Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1784020</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1784020</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

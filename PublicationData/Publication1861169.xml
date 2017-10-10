@@ -1,0 +1,88 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>working Paper</genre>
+
+<titleInfo><title>Modernisierung und Individualisierung als Herausforderung für die Gesellschaft - Vergleichende Analyse von zwei soziologischen Theorien</title></titleInfo>
+
+
+
+
+
+<name type="personal">
+  <namePart type="given">Kai</namePart>
+  <namePart type="family">Unzicker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">170715</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für interdisziplinäre Konflikt- und Gewaltforschung</namePart>
+  <identifier type="unibi">10058</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><dateIssued encoding="w3cdtf">2003</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host">
+<part>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Unzicker, Kai. 2003. &lt;em&gt;Modernisierung und Individualisierung als Herausforderung für die Gesellschaft - Vergleichende Analyse von zwei soziologischen Theorien&lt;/em&gt;.&lt;/div&gt;</chicago>
+<angewandte-chemie>K.  Unzicker, &lt;em&gt;Modernisierung und Individualisierung als Herausforderung für die Gesellschaft - Vergleichende Analyse von zwei soziologischen Theorien&lt;/em&gt;, &lt;strong&gt;2003&lt;/strong&gt;.</angewandte-chemie>
+<apa>Unzicker, K. (2003).  &lt;em&gt;Modernisierung und Individualisierung als Herausforderung für die Gesellschaft - Vergleichende Analyse von zwei soziologischen Theorien&lt;/em&gt;.</apa>
+<frontiers>Unzicker, K. (2003). Modernisierung und Individualisierung als Herausforderung für die Gesellschaft - Vergleichende Analyse von zwei soziologischen Theorien.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Unzicker, K. (2003).  &lt;em&gt;Modernisierung und Individualisierung als Herausforderung für die Gesellschaft - Vergleichende Analyse von zwei soziologischen Theorien&lt;/em&gt;.&lt;/div&gt;</apa_indent>
+<ieee>K. Unzicker, &lt;em&gt;Modernisierung und Individualisierung als Herausforderung für die Gesellschaft - Vergleichende Analyse von zwei soziologischen Theorien&lt;/em&gt;, 2003.</ieee>
+<mla>Unzicker, Kai. &lt;em&gt;Modernisierung und Individualisierung als Herausforderung für die Gesellschaft - Vergleichende Analyse von zwei soziologischen Theorien&lt;/em&gt;. 2003.</mla>
+<lncs>Unzicker, K.: Modernisierung und Individualisierung als Herausforderung für die Gesellschaft - Vergleichende Analyse von zwei soziologischen Theorien. (2003).</lncs>
+<wels>Unzicker, K. (2003): Modernisierung und Individualisierung als Herausforderung für die Gesellschaft - Vergleichende Analyse von zwei soziologischen Theorien.</wels>
+<default>Unzicker K (2003) .</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Unzicker, K. (2003). &lt;em&gt;Modernisierung und Individualisierung als Herausforderung für die Gesellschaft - Vergleichende Analyse von zwei soziologischen Theorien&lt;/em&gt;.&lt;/div&gt;</dgps>
+<ama>Unzicker K. &lt;em&gt;Modernisierung und Individualisierung als Herausforderung für die Gesellschaft - Vergleichende Analyse von zwei soziologischen Theorien&lt;/em&gt;.; 2003.</ama>
+<harvard1>Unzicker, K., 2003. &lt;em&gt;Modernisierung und Individualisierung als Herausforderung für die Gesellschaft - Vergleichende Analyse von zwei soziologischen Theorien&lt;/em&gt;,</harvard1>
+<bio1>Unzicker K (2003) &lt;br /&gt;&lt;em&gt;Modernisierung und Individualisierung als Herausforderung für die Gesellschaft - Vergleichende Analyse von zwei soziologischen Theorien&lt;/em&gt;.</bio1>
+<aps>K.  Unzicker, Modernisierung und Individualisierung als Herausforderung für die Gesellschaft - Vergleichende Analyse von zwei soziologischen Theorien, (2003).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1861169</recordIdentifier><recordChangeDate encoding="w3cdtf">2011-04-19T14:13:41Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1861169</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1861169</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

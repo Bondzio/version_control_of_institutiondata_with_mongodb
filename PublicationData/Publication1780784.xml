@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Interessiertes Lernen als Grundlage einer gesunden Persönlichkeitsentwicklung</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Hans</namePart>
+  <namePart type="family">Hermsen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Hermann</namePart><namePart type="family">Maaß</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Wissenschaftliche Einrichtung Oberstufenkolleg</namePart>
+  <identifier type="unibi">11292831</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Hermsen_45.pdf">https://pub.uni-bielefeld.de/download/1780784/2313026</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1992</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+<subject><topic>Gesundheitserziehung</topic><topic>Fachunterricht</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Gesundheitsthemen im Fachunterricht: Fachkonferenz Gesundheitswissenschaften des Oberstufen-Kollegs an der Universität Bielefeld</title></titleInfo>
+  <identifier type="isbn">3-921912-93-8</identifier><identifier type="urn">urn:nbn:de:0070-bipr-22160</identifier>
+<part><extent unit="pages">54-61</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<harvard1>Hermsen, H., 1992. Interessiertes Lernen als Grundlage einer gesunden Persönlichkeitsentwicklung. In H.  Maaß, ed. &lt;em&gt;Gesundheitsthemen im Fachunterricht: Fachkonferenz Gesundheitswissenschaften des Oberstufen-Kollegs an der Universität Bielefeld&lt;/em&gt;. Materialien des Oberstufen-Kollegs.  Bielefeld, pp. 54-61.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hermsen, H. (1992). Interessiertes Lernen als Grundlage einer gesunden Persönlichkeitsentwicklung (Materialien des Oberstufen-Kollegs). &lt;em&gt;Gesundheitsthemen im Fachunterricht: Fachkonferenz Gesundheitswissenschaften des Oberstufen-Kollegs an der Universität Bielefeld&lt;/em&gt; (S. 54-61). Bielefeld.&lt;/div&gt;</dgps>
+<ama>Hermsen H. Interessiertes Lernen als Grundlage einer gesunden Persönlichkeitsentwicklung. In: Maaß H, ed. &lt;em&gt;Gesundheitsthemen im Fachunterricht: Fachkonferenz Gesundheitswissenschaften des Oberstufen-Kollegs an der Universität Bielefeld&lt;/em&gt;. Materialien des Oberstufen-Kollegs. Bielefeld;  1992: 54-61.</ama>
+<bio1>Hermsen H (1992) &lt;br /&gt;Interessiertes Lernen als Grundlage einer gesunden Persönlichkeitsentwicklung. &lt;br /&gt;In:  Gesundheitsthemen im Fachunterricht: Fachkonferenz Gesundheitswissenschaften des Oberstufen-Kollegs an der Universität Bielefeld. Maaß H (Ed); Materialien des Oberstufen-Kollegs,  Bielefeld:  54-61.</bio1>
+<aps>H.  Hermsen, Interessiertes Lernen als Grundlage einer gesunden Persönlichkeitsentwicklung, in &lt;em&gt;Gesundheitsthemen im Fachunterricht: Fachkonferenz Gesundheitswissenschaften des Oberstufen-Kollegs an der Universität Bielefeld&lt;/em&gt;, edited by H.  Maaß, Materialien des Oberstufen-Kollegs (Bielefeld, 1992), p. 54-61.</aps>
+<wels>Hermsen, H. (1992): Interessiertes Lernen als Grundlage einer gesunden Persönlichkeitsentwicklung. In: Hermann Maaß (Hrsg.):  Gesundheitsthemen im Fachunterricht: Fachkonferenz Gesundheitswissenschaften des Oberstufen-Kollegs an der Universität Bielefeld. Bielefeld. (Materialien des Oberstufen-Kollegs, ).  S. 54-61.</wels>
+<default>Hermsen H (1992)  &lt;br /&gt;In:  Gesundheitsthemen im Fachunterricht: Fachkonferenz Gesundheitswissenschaften des Oberstufen-Kollegs an der Universität Bielefeld. Maaß H (Ed); Materialien des Oberstufen-Kollegs, . Bielefeld:  54-61.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hermsen, H. (1992). Interessiertes Lernen als Grundlage einer gesunden Persönlichkeitsentwicklung. In H.  Maaß (Ed.), &lt;em&gt;Materialien des Oberstufen-Kollegs&lt;/em&gt;&lt;em&gt;. Gesundheitsthemen im Fachunterricht: Fachkonferenz Gesundheitswissenschaften des Oberstufen-Kollegs an der Universität Bielefeld&lt;/em&gt; (pp. 54-61). Bielefeld.&lt;/div&gt;</apa_indent>
+<ieee>H. Hermsen, “Interessiertes Lernen als Grundlage einer gesunden Persönlichkeitsentwicklung”, &lt;em&gt;Gesundheitsthemen im Fachunterricht: Fachkonferenz Gesundheitswissenschaften des Oberstufen-Kollegs an der Universität Bielefeld&lt;/em&gt;, H. Maaß, ed., Materialien des Oberstufen-Kollegs,  Bielefeld: 1992,  pp.54-61.</ieee>
+<lncs>Hermsen, H.: Interessiertes Lernen als Grundlage einer gesunden Persönlichkeitsentwicklung. In: Maaß, H. (ed.) Gesundheitsthemen im Fachunterricht: Fachkonferenz Gesundheitswissenschaften des Oberstufen-Kollegs an der Universität Bielefeld. Materialien des Oberstufen-Kollegs. p. 54-61. Bielefeld (1992).</lncs>
+<mla>Hermsen, Hans. “Interessiertes Lernen als Grundlage einer gesunden Persönlichkeitsentwicklung”. &lt;em&gt;Gesundheitsthemen im Fachunterricht: Fachkonferenz Gesundheitswissenschaften des Oberstufen-Kollegs an der Universität Bielefeld&lt;/em&gt;. Ed. Hermann Maaß. Bielefeld, 1992. Materialien des Oberstufen-Kollegs. 54-61.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hermsen, Hans. 1992. “Interessiertes Lernen als Grundlage einer gesunden Persönlichkeitsentwicklung”. In &lt;em&gt;Gesundheitsthemen im Fachunterricht: Fachkonferenz Gesundheitswissenschaften des Oberstufen-Kollegs an der Universität Bielefeld&lt;/em&gt;, ed. Hermann Maaß, 54-61. Materialien des Oberstufen-Kollegs. Bielefeld.&lt;/div&gt;</chicago>
+<apa>Hermsen, H. (1992). Interessiertes Lernen als Grundlage einer gesunden Persönlichkeitsentwicklung. In H.  Maaß (Ed.), &lt;em&gt;Materialien des Oberstufen-Kollegs&lt;/em&gt;&lt;em&gt;. Gesundheitsthemen im Fachunterricht: Fachkonferenz Gesundheitswissenschaften des Oberstufen-Kollegs an der Universität Bielefeld&lt;/em&gt; (pp. 54-61). Bielefeld.</apa>
+<angewandte-chemie>H.  Hermsen, in &lt;em&gt;Gesundheitsthemen im Fachunterricht: Fachkonferenz Gesundheitswissenschaften des Oberstufen-Kollegs an der Universität Bielefeld&lt;/em&gt; (Ed.: H. Maaß), Bielefeld, &lt;strong&gt;1992&lt;/strong&gt;, p. 54-61.</angewandte-chemie>
+<frontiers>Hermsen, H. (1992). “Interessiertes Lernen als Grundlage einer gesunden Persönlichkeitsentwicklung” in &lt;em&gt;Gesundheitsthemen im Fachunterricht: Fachkonferenz Gesundheitswissenschaften des Oberstufen-Kollegs an der Universität Bielefeld&lt;/em&gt;, ed. H.  Maaß Materialien des Oberstufen-Kollegs (Bielefeld), 54-61.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780784</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780784</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780784</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

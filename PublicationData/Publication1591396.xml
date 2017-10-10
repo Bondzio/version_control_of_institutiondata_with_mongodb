@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Full Time or Part Time Reemployment: A Competing Risk Model With Frailties and Smooth Effects Using a Penalty Based Approach</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Göran</namePart>
+  <namePart type="family">Kauermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">91009</identifier></name>
+<name type="personal">
+  <namePart type="given">Pavel</namePart>
+  <namePart type="family">Khomski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Wirtschaftswissenschaften</namePart>
+  <identifier type="unibi">10031</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The article discusses duration time models with multiple duration observations per individual and different competing events marking the end of a duration time. The dependence between two (or more) duration times observed for each individual is incorporated in a mixed model approach including frailty effects for each individual. The frailties are multivariate, with a separate component for each competing risk. As frailty distribution the article suggests a flexible and numerically handy mixture of gamma distributions. The model itself is based on the classical Cox approach by modeling the hazard functions. Instead of assuming proportional hazards, however, we allow covariate effects to vary functionally with time. The latter are fitted using, penalized splines in combination with mixed models technology. The modeling exercise allows to analyze data on unemployment, where duration time is the length of an unemployment spell and the competing events are the different reasons for leaving the state of unemployment, for example, full time or half time reemployment, respectively. The R code to compute the competing risk model and some other useful functions along with documentation are available in the online supplements.</abstract>
+
+<originInfo><publisher>Informa UK Limited</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Frailty effects</topic><topic>Duration time modeling</topic><topic>Nonproportional hazards</topic><topic>Penalized spline smoothing</topic><topic>Smoothing</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS</title></titleInfo>
+  <identifier type="issn">1061-8600</identifier>
+  <identifier type="eIssn">1537-2715</identifier>
+  <identifier type="ISI">000268506000007</identifier><identifier type="doi">10.1198/jcgs.2009.0007</identifier>
+<part><detail type="volume"><number>18</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">106-125</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<harvard1>Kauermann, G., &amp;amp; Khomski, P., 2009. Full Time or Part Time Reemployment: A Competing Risk Model With Frailties and Smooth Effects Using a Penalty Based Approach. &lt;em&gt;JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS&lt;/em&gt;, 18(1), p 106-125.</harvard1>
+<ama>Kauermann G, Khomski P. Full Time or Part Time Reemployment: A Competing Risk Model With Frailties and Smooth Effects Using a Penalty Based Approach. &lt;em&gt;JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS&lt;/em&gt;. 2009;18(1):106-125.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kauermann, G. &amp;amp; Khomski, P. (2009). Full Time or Part Time Reemployment: A Competing Risk Model With Frailties and Smooth Effects Using a Penalty Based Approach. &lt;em&gt;JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS&lt;/em&gt;, &lt;em&gt;18&lt;/em&gt;(1), 106-125. Informa UK Limited. doi:10.1198/jcgs.2009.0007.&lt;/div&gt;</dgps>
+<aps>G.  Kauermann and P.  Khomski, Full Time or Part Time Reemployment: A Competing Risk Model With Frailties and Smooth Effects Using a Penalty Based Approach, JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS &lt;strong&gt;18&lt;/strong&gt;, 106-125 (2009).</aps>
+<bio1>Kauermann G, Khomski P (2009) &lt;br /&gt;Full Time or Part Time Reemployment: A Competing Risk Model With Frailties and Smooth Effects Using a Penalty Based Approach.&lt;br /&gt;JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS 18(1): 106-125.</bio1>
+<wels>Kauermann, G.; Khomski, P. (2009): Full Time or Part Time Reemployment: A Competing Risk Model With Frailties and Smooth Effects Using a Penalty Based Approach &lt;em&gt;JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS&lt;/em&gt;,18:(1): 106-125.</wels>
+<default>Kauermann G, Khomski P (2009) &lt;br /&gt;JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS 18(1): 106-125.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kauermann, G., &amp;amp; Khomski, P. (2009). Full Time or Part Time Reemployment: A Competing Risk Model With Frailties and Smooth Effects Using a Penalty Based Approach. &lt;em&gt;JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS&lt;/em&gt;, &lt;em&gt;18&lt;/em&gt;(1), 106-125.&lt;/div&gt;</apa_indent>
+<ieee>G. Kauermann and P. Khomski, “Full Time or Part Time Reemployment: A Competing Risk Model With Frailties and Smooth Effects Using a Penalty Based Approach”, &lt;em&gt;JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS&lt;/em&gt;,  vol. 18, 2009,  pp. 106-125.</ieee>
+<lncs>Kauermann, G., Khomski, P.: Full Time or Part Time Reemployment: A Competing Risk Model With Frailties and Smooth Effects Using a Penalty Based Approach. JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS. 18, 106-125 (2009).</lncs>
+<mla>Kauermann, Göran, and Khomski, Pavel. “Full Time or Part Time Reemployment: A Competing Risk Model With Frailties and Smooth Effects Using a Penalty Based Approach”. &lt;em&gt;JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS&lt;/em&gt; 18.1 (2009): 106-125.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kauermann, Göran, and Khomski, Pavel. 2009. “Full Time or Part Time Reemployment: A Competing Risk Model With Frailties and Smooth Effects Using a Penalty Based Approach”. &lt;em&gt;JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS&lt;/em&gt; 18 (1): 106-125.&lt;/div&gt;</chicago>
+<apa>Kauermann, G., &amp;amp; Khomski, P. (2009). Full Time or Part Time Reemployment: A Competing Risk Model With Frailties and Smooth Effects Using a Penalty Based Approach. &lt;em&gt;JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS&lt;/em&gt;, &lt;em&gt;18&lt;/em&gt;(1), 106-125.</apa>
+<angewandte-chemie>G.  Kauermann, and P.  Khomski, “Full Time or Part Time Reemployment: A Competing Risk Model With Frailties and Smooth Effects Using a Penalty Based Approach”, &lt;em&gt;JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;18&lt;/em&gt;, 106-125.</angewandte-chemie>
+<frontiers>Kauermann, G., and Khomski, P. (2009). Full Time or Part Time Reemployment: A Competing Risk Model With Frailties and Smooth Effects Using a Penalty Based Approach. &lt;em&gt;JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS&lt;/em&gt; 18, 106-125.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1591396</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-26T09:45:48Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-05T11:13:20Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1591396</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1591396</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

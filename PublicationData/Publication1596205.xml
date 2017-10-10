@@ -1,0 +1,126 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>DeerAnalysis2006 - a comprehensive software package for analyzing pulsed ELDOR data</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">G.</namePart>
+  <namePart type="family">Jeschke</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">V.</namePart>
+  <namePart type="family">Chechik</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">P.</namePart>
+  <namePart type="family">Ionita</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Adelheid</namePart>
+  <namePart type="family">Godt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">101324</identifier></name>
+<name type="personal">
+  <namePart type="given">H.</namePart>
+  <namePart type="family">Zimmermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J.</namePart>
+  <namePart type="family">Banham</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">C. R.</namePart>
+  <namePart type="family">Timmel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">D.</namePart>
+  <namePart type="family">Hilger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">H.</namePart>
+  <namePart type="family">Jung</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Organische Chemie II</namePart>
+  <identifier type="unibi">17976</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Pulsed electron-electron double resonance techniques such as the four-pulse double electron-electron resonance experiment measure a dipolar evolution function of the sample. For a sample consisting of spin-carrying nanoobjects, this function is the product of a form factor, corresponding to the internal structure of the nanoobject, and a background factor, corresponding to the distribution of nanoobjects in space. The form factor contains information on the spin-to-spin distance distribution within the nanoobject and on the average number of spins per nanoobject, while the background factor depends on constraints, such as a confinement of the nanoobjects to a two-dimensional layer. Separation of the dipolar evolution function into these two contributions and extraction of the spin-to-spin distance distribution require numerically stable mathematical algorithms that can handle data for different classes of samples, e.g., spin-labelled biomacromolecules and synthetic materials. Furthermore, experimental imperfections such as the limited excitation bandwidth of microwave pulses need to be considered. The software package DeerAnalysis2006 provides access to a comprehensive set of tools for such data analysis within a common user interface. This interface allows for several tests of the reliability and precision of the extracted information. User-supplied models for the spin-to-spin distance distribution within a certain class of nanoobjects can be added to an existing library and be fitted with a universal algorithm.</abstract>
+
+<originInfo><publisher>SPRINGER WIEN</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>APPLIED MAGNETIC RESONANCE</title></titleInfo>
+  <identifier type="issn">0937-9347</identifier>
+  <identifier type="eIssn">1613-7507</identifier>
+  <identifier type="ISI">000243548800015</identifier><identifier type="doi">10.1007/BF03166213</identifier>
+<part><detail type="volume"><number>30</number></detail><detail type="issue"><number>3-4</number></detail><extent unit="pages">473-498</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Jeschke, G., Chechik, V., Ionita, P., Godt, Adelheid, Zimmermann, H., Banham, J., Timmel, C. R., Hilger, D., and Jung, H. 2006. “DeerAnalysis2006 - a comprehensive software package for analyzing pulsed ELDOR data”. &lt;em&gt;APPLIED MAGNETIC RESONANCE&lt;/em&gt; 30 (3-4): 473-498.&lt;/div&gt;</chicago>
+<angewandte-chemie>G.  Jeschke, V.  Chechik, P.  Ionita, A.  Godt, H.  Zimmermann, J.  Banham, C. R.  Timmel, D.  Hilger, and H.  Jung, “DeerAnalysis2006 - a comprehensive software package for analyzing pulsed ELDOR data”, &lt;em&gt;APPLIED MAGNETIC RESONANCE&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;30&lt;/em&gt;, 473-498.</angewandte-chemie>
+<apa>Jeschke, G., Chechik, V., Ionita, P., Godt, A., Zimmermann, H., Banham, J., Timmel, C. R., et al. (2006). DeerAnalysis2006 - a comprehensive software package for analyzing pulsed ELDOR data. &lt;em&gt;APPLIED MAGNETIC RESONANCE&lt;/em&gt;, &lt;em&gt;30&lt;/em&gt;(3-4), 473-498.</apa>
+<frontiers>Jeschke, G., Chechik, V., Ionita, P., Godt, A., Zimmermann, H., Banham, J., Timmel, C. R., Hilger, D., and Jung, H. (2006). DeerAnalysis2006 - a comprehensive software package for analyzing pulsed ELDOR data. &lt;em&gt;APPLIED MAGNETIC RESONANCE&lt;/em&gt; 30, 473-498.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Jeschke, G., Chechik, V., Ionita, P., Godt, A., Zimmermann, H., Banham, J., Timmel, C. R., et al. (2006). DeerAnalysis2006 - a comprehensive software package for analyzing pulsed ELDOR data. &lt;em&gt;APPLIED MAGNETIC RESONANCE&lt;/em&gt;, &lt;em&gt;30&lt;/em&gt;(3-4), 473-498.&lt;/div&gt;</apa_indent>
+<ieee>G. Jeschke, et al., “DeerAnalysis2006 - a comprehensive software package for analyzing pulsed ELDOR data”, &lt;em&gt;APPLIED MAGNETIC RESONANCE&lt;/em&gt;,  vol. 30, 2006,  pp. 473-498.</ieee>
+<mla>Jeschke, G., Chechik, V., Ionita, P., Godt, Adelheid, Zimmermann, H., Banham, J., Timmel, C. R., Hilger, D., and Jung, H. “DeerAnalysis2006 - a comprehensive software package for analyzing pulsed ELDOR data”. &lt;em&gt;APPLIED MAGNETIC RESONANCE&lt;/em&gt; 30.3-4 (2006): 473-498.</mla>
+<lncs>Jeschke, G., Chechik, V., Ionita, P., Godt, A., Zimmermann, H., Banham, J., Timmel, C.R., Hilger, D., Jung, H.: DeerAnalysis2006 - a comprehensive software package for analyzing pulsed ELDOR data. APPLIED MAGNETIC RESONANCE. 30, 473-498 (2006).</lncs>
+<wels>Jeschke, G.; Chechik, V.; Ionita, P.; Godt, A.; Zimmermann, H.; Banham, J.; Timmel, C. R.; Hilger, D.; Jung, H. (2006): DeerAnalysis2006 - a comprehensive software package for analyzing pulsed ELDOR data &lt;em&gt;APPLIED MAGNETIC RESONANCE&lt;/em&gt;,30:(3-4): 473-498.</wels>
+<default>Jeschke G, Chechik V, Ionita P, Godt A, Zimmermann H, Banham J, Timmel CR, Hilger D, Jung H (2006) &lt;br /&gt;APPLIED MAGNETIC RESONANCE 30(3-4): 473-498.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Jeschke, G., Chechik, V., Ionita, P., Godt, A., Zimmermann, H., Banham, J., Timmel, C.R., Hilger, D. &amp;amp; Jung, H. (2006). DeerAnalysis2006 - a comprehensive software package for analyzing pulsed ELDOR data. &lt;em&gt;APPLIED MAGNETIC RESONANCE&lt;/em&gt;, &lt;em&gt;30&lt;/em&gt;(3-4), 473-498. SPRINGER WIEN. doi:10.1007/BF03166213.&lt;/div&gt;</dgps>
+<harvard1>Jeschke, G., et al., 2006. DeerAnalysis2006 - a comprehensive software package for analyzing pulsed ELDOR data. &lt;em&gt;APPLIED MAGNETIC RESONANCE&lt;/em&gt;, 30(3-4), p 473-498.</harvard1>
+<ama>Jeschke G, Chechik V, Ionita P, et al. DeerAnalysis2006 - a comprehensive software package for analyzing pulsed ELDOR data. &lt;em&gt;APPLIED MAGNETIC RESONANCE&lt;/em&gt;. 2006;30(3-4):473-498.</ama>
+<bio1>Jeschke G, Chechik V, Ionita P, Godt A, Zimmermann H, Banham J, Timmel CR, Hilger D, Jung H (2006) &lt;br /&gt;DeerAnalysis2006 - a comprehensive software package for analyzing pulsed ELDOR data.&lt;br /&gt;APPLIED MAGNETIC RESONANCE 30(3-4): 473-498.</bio1>
+<aps>G.  Jeschke, et al., DeerAnalysis2006 - a comprehensive software package for analyzing pulsed ELDOR data, APPLIED MAGNETIC RESONANCE &lt;strong&gt;30&lt;/strong&gt;, 473-498 (2006).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1596205</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:59Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-07T08:31:02Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1596205</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1596205</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

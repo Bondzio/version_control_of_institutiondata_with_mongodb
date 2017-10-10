@@ -1,0 +1,119 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Crystal structure of a dynamin GTPase domain in both nucleotide-free and GDP-bound forms</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Hartmut</namePart>
+  <namePart type="family">Niemann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">4887044</identifier></name>
+<name type="personal">
+  <namePart type="given">M. L.</namePart>
+  <namePart type="family">Knetsch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A.</namePart>
+  <namePart type="family">Scherer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">D. J.</namePart>
+  <namePart type="family">Manstein</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">F. J.</namePart>
+  <namePart type="family">Kull</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Biochemie IV</namePart>
+  <identifier type="unibi">5370069</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Centrum für Biotechnologie</namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><dateIssued encoding="w3cdtf">2001</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Amino Acid</topic><topic>*Protein Structure</topic><topic>Sequence Homology</topic><topic>Protozoan Proteins</topic><topic>Binding Sites/physiology</topic><topic>Crystallography</topic><topic>X-Ray</topic><topic>*Dynamins</topic><topic>Tertiary/physiology</topic><topic>Guanosine Diphosphate/*chemistry/metabolism</topic><topic>*GTP Phosphohydrolases/*chemistry/metabolism</topic><topic>Molecular</topic><topic>Nucleotides/metabolism</topic><topic>Molecular Sequence Data</topic><topic>Protein Structure</topic><topic>Secondary</topic><topic>*Models</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>EMBO J</title></titleInfo>
+  <identifier type="issn">0261-4189 (Print)</identifier>
+  <identifier type="eIssn">1460-2075</identifier>
+  <identifier type="MEDLINE">11689422</identifier>
+  <identifier type="ISI">000172104000001</identifier><identifier type="doi">10.1093/emboj/20.21.5813</identifier>
+<part><detail type="volume"><number>20</number></detail><detail type="issue"><number>21</number></detail><extent unit="pages">5813-5821</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Niemann H, Knetsch ML, Scherer A, Manstein DJ, Kull FJ. Crystal structure of a dynamin GTPase domain in both nucleotide-free and GDP-bound forms. &lt;em&gt;EMBO J&lt;/em&gt;. 2001;20(21):5813-5821.</ama>
+<harvard1>Niemann, H., et al., 2001. Crystal structure of a dynamin GTPase domain in both nucleotide-free and GDP-bound forms. &lt;em&gt;EMBO J&lt;/em&gt;, 20(21), p 5813-5821.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Niemann, H., Knetsch, M.L., Scherer, A., Manstein, D.J. &amp;amp; Kull, F.J. (2001). Crystal structure of a dynamin GTPase domain in both nucleotide-free and GDP-bound forms. &lt;em&gt;EMBO J&lt;/em&gt;, &lt;em&gt;20&lt;/em&gt;(21), 5813-5821. doi:10.1093/emboj/20.21.5813.&lt;/div&gt;</dgps>
+<bio1>Niemann H, Knetsch ML, Scherer A, Manstein DJ, Kull FJ (2001) &lt;br /&gt;Crystal structure of a dynamin GTPase domain in both nucleotide-free and GDP-bound forms.&lt;br /&gt;EMBO J 20(21): 5813-5821.</bio1>
+<aps>H.  Niemann, et al., Crystal structure of a dynamin GTPase domain in both nucleotide-free and GDP-bound forms, EMBO J &lt;strong&gt;20&lt;/strong&gt;, 5813-5821 (2001).</aps>
+<wels>Niemann, H.; Knetsch, M. L.; Scherer, A.; Manstein, D. J.; Kull, F. J. (2001): Crystal structure of a dynamin GTPase domain in both nucleotide-free and GDP-bound forms &lt;em&gt;EMBO J&lt;/em&gt;,20:(21): 5813-5821.</wels>
+<default>Niemann H, Knetsch ML, Scherer A, Manstein DJ, Kull FJ (2001) &lt;br /&gt;EMBO J 20(21): 5813-5821.</default>
+<ieee>H. Niemann, et al., “Crystal structure of a dynamin GTPase domain in both nucleotide-free and GDP-bound forms”, &lt;em&gt;EMBO J&lt;/em&gt;,  vol. 20, 2001,  pp. 5813-5821.</ieee>
+<mla>Niemann, Hartmut, Knetsch, M. L., Scherer, A., Manstein, D. J., and Kull, F. J. “Crystal structure of a dynamin GTPase domain in both nucleotide-free and GDP-bound forms”. &lt;em&gt;EMBO J&lt;/em&gt; 20.21 (2001): 5813-5821.</mla>
+<lncs>Niemann, H., Knetsch, M.L., Scherer, A., Manstein, D.J., Kull, F.J.: Crystal structure of a dynamin GTPase domain in both nucleotide-free and GDP-bound forms. EMBO J. 20, 5813-5821 (2001).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Niemann, H., Knetsch, M. L., Scherer, A., Manstein, D. J., &amp;amp; Kull, F. J. (2001). Crystal structure of a dynamin GTPase domain in both nucleotide-free and GDP-bound forms. &lt;em&gt;EMBO J&lt;/em&gt;, &lt;em&gt;20&lt;/em&gt;(21), 5813-5821.&lt;/div&gt;</apa_indent>
+<apa>Niemann, H., Knetsch, M. L., Scherer, A., Manstein, D. J., &amp;amp; Kull, F. J. (2001). Crystal structure of a dynamin GTPase domain in both nucleotide-free and GDP-bound forms. &lt;em&gt;EMBO J&lt;/em&gt;, &lt;em&gt;20&lt;/em&gt;(21), 5813-5821.</apa>
+<angewandte-chemie>H.  Niemann, M. L.  Knetsch, A.  Scherer, D. J.  Manstein, and F. J.  Kull, “Crystal structure of a dynamin GTPase domain in both nucleotide-free and GDP-bound forms”, &lt;em&gt;EMBO J&lt;/em&gt;, &lt;strong&gt;2001&lt;/strong&gt;, &lt;em&gt;20&lt;/em&gt;, 5813-5821.</angewandte-chemie>
+<frontiers>Niemann, H., Knetsch, M. L., Scherer, A., Manstein, D. J., and Kull, F. J. (2001). Crystal structure of a dynamin GTPase domain in both nucleotide-free and GDP-bound forms. &lt;em&gt;EMBO J&lt;/em&gt; 20, 5813-5821.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Niemann, Hartmut, Knetsch, M. L., Scherer, A., Manstein, D. J., and Kull, F. J. 2001. “Crystal structure of a dynamin GTPase domain in both nucleotide-free and GDP-bound forms”. &lt;em&gt;EMBO J&lt;/em&gt; 20 (21): 5813-5821.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1927942</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-12-06T15:28:02Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-21T10:29:58Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1927942</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1927942</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

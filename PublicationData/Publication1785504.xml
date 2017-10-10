@@ -1,0 +1,147 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Comparative gene expression in toxic versus non-toxic strains of the marine dinoflagellate Alexandrium minutum</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ines</namePart>
+  <namePart type="family">Yang</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Uwe</namePart>
+  <namePart type="family">John</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Sára</namePart>
+  <namePart type="family">Beszteri</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Gernot</namePart>
+  <namePart type="family">Glöckner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Bernd</namePart>
+  <namePart type="family">Krock</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alexander</namePart>
+  <namePart type="family">Goesmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">152495</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-7086-2568</description></name>
+<name type="personal">
+  <namePart type="given">Allan D.</namePart>
+  <namePart type="family">Cembella</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Bioinformatics Resource Facility</namePart>
+  <identifier type="unibi">441927</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group A. Goesmann</namePart>
+  <identifier type="unibi">33067438</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Computational Genomics</namePart>
+  <identifier type="unibi">29609402</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Background The dinoflagellate Alexandrium minutum typically produces paralytic shellfish poisoning (PSP) toxins, which are known only from cyanobacteria and dinoflagellates. While a PSP toxin gene cluster has recently been characterized in cyanobacteria, the genetic background of PSP toxin production in dinoflagellates remains elusive.  Results We constructed and analysed an expressed sequence tag (EST) library of A. minutum, which contained 15,703 read sequences yielding a total of 4,320 unique expressed clusters. Of these clusters, 72% combined the forward-and reverse reads of at least one bacterial clone. This sequence resource was then used to construct an oligonucleotide microarray. We analysed the expression of all clusters in three different strains. While the cyanobacterial PSP toxin genes were not found among the A. minutum sequences, 192 genes were differentially expressed between toxic and non-toxic strains.  Conclusions Based on this study and on the lack of identified PSP synthesis genes in the two existent Alexandrium tamarense EST libraries, we propose that the PSP toxin genes in dinoflagellates might be more different from their cyanobacterial counterparts than would be expected in the case of a recent gene transfer. As a starting point to identify possible PSP toxin-associated genes in dinoflagellates without relying on a priori sequence information, the sequences only present in mRNA pools of the toxic strain can be seen as putative candidates involved in toxin synthesis and regulation, or acclimation to intracellular PSP toxins.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Yang.pdf">https://pub.uni-bielefeld.de/download/1785504/2314955</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Springer Science + Business Media</publisher><dateIssued encoding="w3cdtf">2010</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>BMC Genomics</title></titleInfo>
+  <identifier type="issn">1471-2164</identifier>
+  <identifier type="MEDLINE">20403159</identifier>
+  <identifier type="ISI">000277991300001</identifier><identifier type="urn">urn:nbn:de:0070-pub-17855043</identifier><identifier type="doi">10.1186/1471-2164-11-248</identifier>
+<part><detail type="volume"><number>11</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">248</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Yang, I., John, U., Beszteri, S., Glöckner, G., Krock, B., Goesmann, A., and Cembella, A. D. (2010). Comparative gene expression in toxic versus non-toxic strains of the marine dinoflagellate Alexandrium minutum. &lt;em&gt;BMC Genomics&lt;/em&gt; 11.</frontiers>
+<angewandte-chemie>I.  Yang, U.  John, S.  Beszteri, G.  Glöckner, B.  Krock, A.  Goesmann, and A. D.  Cembella, “Comparative gene expression in toxic versus non-toxic strains of the marine dinoflagellate Alexandrium minutum”, &lt;em&gt;BMC Genomics&lt;/em&gt;, &lt;strong&gt;2010&lt;/strong&gt;, &lt;em&gt;11&lt;/em&gt;.</angewandte-chemie>
+<apa>Yang, I., John, U., Beszteri, S., Glöckner, G., Krock, B., Goesmann, A., &amp;amp; Cembella, A. D. (2010). Comparative gene expression in toxic versus non-toxic strains of the marine dinoflagellate Alexandrium minutum. &lt;em&gt;BMC Genomics&lt;/em&gt;, &lt;em&gt;11&lt;/em&gt;(1).</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Yang, Ines, John, Uwe, Beszteri, Sára, Glöckner, Gernot, Krock, Bernd, Goesmann, Alexander, and Cembella, Allan D. 2010. “Comparative gene expression in toxic versus non-toxic strains of the marine dinoflagellate Alexandrium minutum”. &lt;em&gt;BMC Genomics&lt;/em&gt; 11 (1).&lt;/div&gt;</chicago>
+<lncs>Yang, I., John, U., Beszteri, S., Glöckner, G., Krock, B., Goesmann, A., Cembella, A.D.: Comparative gene expression in toxic versus non-toxic strains of the marine dinoflagellate Alexandrium minutum. BMC Genomics. 11, (2010).</lncs>
+<mla>Yang, Ines, John, Uwe, Beszteri, Sára, Glöckner, Gernot, Krock, Bernd, Goesmann, Alexander, and Cembella, Allan D. “Comparative gene expression in toxic versus non-toxic strains of the marine dinoflagellate Alexandrium minutum”. &lt;em&gt;BMC Genomics&lt;/em&gt; 11.1 (2010).</mla>
+<ieee>I. Yang, et al., “Comparative gene expression in toxic versus non-toxic strains of the marine dinoflagellate Alexandrium minutum”, &lt;em&gt;BMC Genomics&lt;/em&gt;,  vol. 11, 2010.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Yang, I., John, U., Beszteri, S., Glöckner, G., Krock, B., Goesmann, A., &amp;amp; Cembella, A. D. (2010). Comparative gene expression in toxic versus non-toxic strains of the marine dinoflagellate Alexandrium minutum. &lt;em&gt;BMC Genomics&lt;/em&gt;, &lt;em&gt;11&lt;/em&gt;(1).&lt;/div&gt;</apa_indent>
+<default>Yang I, John U, Beszteri S, Glöckner G, Krock B, Goesmann A, Cembella AD (2010) &lt;br /&gt;BMC Genomics 11(1).</default>
+<wels>Yang, I.; John, U.; Beszteri, S.; Glöckner, G.; Krock, B.; Goesmann, A.; Cembella, A. D. (2010): Comparative gene expression in toxic versus non-toxic strains of the marine dinoflagellate Alexandrium minutum &lt;em&gt;BMC Genomics&lt;/em&gt;,11:(1)</wels>
+<aps>I.  Yang, et al., Comparative gene expression in toxic versus non-toxic strains of the marine dinoflagellate Alexandrium minutum, BMC Genomics &lt;strong&gt;11&lt;/strong&gt;, (2010).</aps>
+<bio1>Yang I, John U, Beszteri S, Glöckner G, Krock B, Goesmann A, Cembella AD (2010) &lt;br /&gt;Comparative gene expression in toxic versus non-toxic strains of the marine dinoflagellate Alexandrium minutum.&lt;br /&gt;BMC Genomics 11(1).</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Yang, I., John, U., Beszteri, S., Glöckner, G., Krock, B., Goesmann, A. &amp;amp; Cembella, A.D. (2010). Comparative gene expression in toxic versus non-toxic strains of the marine dinoflagellate Alexandrium minutum. &lt;em&gt;BMC Genomics&lt;/em&gt;, &lt;em&gt;11&lt;/em&gt;(1). Springer Science + Business Media. doi:10.1186/1471-2164-11-248.&lt;/div&gt;</dgps>
+<harvard1>Yang, I., et al., 2010. Comparative gene expression in toxic versus non-toxic strains of the marine dinoflagellate Alexandrium minutum. &lt;em&gt;BMC Genomics&lt;/em&gt;, 11(1).</harvard1>
+<ama>Yang I, John U, Beszteri S, et al. Comparative gene expression in toxic versus non-toxic strains of the marine dinoflagellate Alexandrium minutum. &lt;em&gt;BMC Genomics&lt;/em&gt;. 2010;11(1).</ama>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1785504</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-03-09T12:57:50Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1785504</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1785504</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

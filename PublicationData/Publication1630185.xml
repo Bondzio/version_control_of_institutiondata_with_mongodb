@@ -1,0 +1,105 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>BETHE-SALPETER EQUATION FOR I = 1 NUCLEON-NUCLEON-SCATTERING WITH ONE-BOSON EXCHANGE</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Jochem</namePart>
+  <namePart type="family">Fleischer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40323</identifier></name>
+<name type="personal">
+  <namePart type="given">JA</namePart>
+  <namePart type="family">TJON</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Elektroschwache Wechselwirkungen</namePart>
+  <identifier type="unibi">23470617</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>AMERICAN PHYSICAL SOC</publisher><dateIssued encoding="w3cdtf">1977</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>PHYSICAL REVIEW D</title></titleInfo>
+  <identifier type="issn">0556-2821</identifier>
+  <identifier type="INSPIRE">123549</identifier>
+  <identifier type="ISI">A1977DH22400016</identifier><identifier type="doi">10.1103/PhysRevD.15.2537</identifier>
+<part><detail type="volume"><number>15</number></detail><detail type="issue"><number>9</number></detail><extent unit="pages">2537-2546</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Fleischer, J.; TJON, J. A. (1977): BETHE-SALPETER EQUATION FOR I = 1 NUCLEON-NUCLEON-SCATTERING WITH ONE-BOSON EXCHANGE &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt;,15:(9): 2537-2546.</wels>
+<default>Fleischer J, TJON JA (1977) &lt;br /&gt;PHYSICAL REVIEW D 15(9): 2537-2546.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fleischer, J. &amp;amp; TJON, J.A. (1977). BETHE-SALPETER EQUATION FOR I = 1 NUCLEON-NUCLEON-SCATTERING WITH ONE-BOSON EXCHANGE. &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt;, &lt;em&gt;15&lt;/em&gt;(9), 2537-2546. AMERICAN PHYSICAL SOC. doi:10.1103/PhysRevD.15.2537.&lt;/div&gt;</dgps>
+<ama>Fleischer J, TJON JA. BETHE-SALPETER EQUATION FOR I = 1 NUCLEON-NUCLEON-SCATTERING WITH ONE-BOSON EXCHANGE. &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt;. 1977;15(9):2537-2546.</ama>
+<harvard1>Fleischer, J., &amp;amp; TJON, J.A., 1977. BETHE-SALPETER EQUATION FOR I = 1 NUCLEON-NUCLEON-SCATTERING WITH ONE-BOSON EXCHANGE. &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt;, 15(9), p 2537-2546.</harvard1>
+<aps>J.  Fleischer and J. A.  TJON, BETHE-SALPETER EQUATION FOR I = 1 NUCLEON-NUCLEON-SCATTERING WITH ONE-BOSON EXCHANGE, PHYSICAL REVIEW D &lt;strong&gt;15&lt;/strong&gt;, 2537-2546 (1977).</aps>
+<bio1>Fleischer J, TJON JA (1977) &lt;br /&gt;BETHE-SALPETER EQUATION FOR I = 1 NUCLEON-NUCLEON-SCATTERING WITH ONE-BOSON EXCHANGE.&lt;br /&gt;PHYSICAL REVIEW D 15(9): 2537-2546.</bio1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fleischer, Jochem, and TJON, JA. 1977. “BETHE-SALPETER EQUATION FOR I = 1 NUCLEON-NUCLEON-SCATTERING WITH ONE-BOSON EXCHANGE”. &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt; 15 (9): 2537-2546.&lt;/div&gt;</chicago>
+<apa>Fleischer, J., &amp;amp; TJON, J. A. (1977). BETHE-SALPETER EQUATION FOR I = 1 NUCLEON-NUCLEON-SCATTERING WITH ONE-BOSON EXCHANGE. &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt;, &lt;em&gt;15&lt;/em&gt;(9), 2537-2546.</apa>
+<angewandte-chemie>J.  Fleischer, and J. A.  TJON, “BETHE-SALPETER EQUATION FOR I = 1 NUCLEON-NUCLEON-SCATTERING WITH ONE-BOSON EXCHANGE”, &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt;, &lt;strong&gt;1977&lt;/strong&gt;, &lt;em&gt;15&lt;/em&gt;, 2537-2546.</angewandte-chemie>
+<frontiers>Fleischer, J., and TJON, J. A. (1977). BETHE-SALPETER EQUATION FOR I = 1 NUCLEON-NUCLEON-SCATTERING WITH ONE-BOSON EXCHANGE. &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt; 15, 2537-2546.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fleischer, J., &amp;amp; TJON, J. A. (1977). BETHE-SALPETER EQUATION FOR I = 1 NUCLEON-NUCLEON-SCATTERING WITH ONE-BOSON EXCHANGE. &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt;, &lt;em&gt;15&lt;/em&gt;(9), 2537-2546.&lt;/div&gt;</apa_indent>
+<ieee>J. Fleischer and J.A. TJON, “BETHE-SALPETER EQUATION FOR I = 1 NUCLEON-NUCLEON-SCATTERING WITH ONE-BOSON EXCHANGE”, &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt;,  vol. 15, 1977,  pp. 2537-2546.</ieee>
+<lncs>Fleischer, J., TJON, J.A.: BETHE-SALPETER EQUATION FOR I = 1 NUCLEON-NUCLEON-SCATTERING WITH ONE-BOSON EXCHANGE. PHYSICAL REVIEW D. 15, 2537-2546 (1977).</lncs>
+<mla>Fleischer, Jochem, and TJON, JA. “BETHE-SALPETER EQUATION FOR I = 1 NUCLEON-NUCLEON-SCATTERING WITH ONE-BOSON EXCHANGE”. &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt; 15.9 (1977): 2537-2546.</mla>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1630185</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:31:05Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-12T13:07:53Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1630185</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1630185</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

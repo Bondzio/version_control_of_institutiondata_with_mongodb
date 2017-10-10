@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Die Psychologie der persönlichen Konstrukte: eine kritische Bestandsaufnahme einer Persönlichkeitstheorie</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Han</namePart>
+  <namePart type="family">Bonarius</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alois</namePart>
+  <namePart type="family">Angleitner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">33671</identifier></name>
+<name type="personal">
+  <namePart type="given">Oliver P.</namePart>
+  <namePart type="family">John</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Manfred</namePart><namePart type="family">Amelang</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Abteilung für Psychologie</namePart>
+  <identifier type="unibi">10026</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Angleitner_24.pdf">https://pub.uni-bielefeld.de/download/1779416/2312703</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Hogrefe</publisher><dateIssued encoding="w3cdtf">1984</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Brennpunkte der Persönlichkeitsforschung</title></titleInfo>
+  <identifier type="isbn">3-8017-0203-0</identifier><identifier type="urn">urn:nbn:de:0070-bipr-18784</identifier>
+<part><detail type="volume"><number>vol. 1</number></detail><extent unit="pages">109-138</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<angewandte-chemie>H.  Bonarius, A.  Angleitner, and O. P.  John, in &lt;em&gt;Brennpunkte der Persönlichkeitsforschung&lt;/em&gt; (Ed.: M. Amelang), Hogrefe, Göttingen [u.a.], &lt;strong&gt;1984&lt;/strong&gt;, p. 109-138.</angewandte-chemie>
+<apa>Bonarius, H., Angleitner, A., &amp;amp; John, O. P. (1984). Die Psychologie der persönlichen Konstrukte: eine kritische Bestandsaufnahme einer Persönlichkeitstheorie. In M.  Amelang (Ed.), &lt;em&gt;Brennpunkte der Persönlichkeitsforschung&lt;/em&gt; (Vol. vol. 1, pp. 109-138). Göttingen [u.a.]: Hogrefe.</apa>
+<frontiers>Bonarius, H., Angleitner, A., and John, O. P. (1984). “Die Psychologie der persönlichen Konstrukte: eine kritische Bestandsaufnahme einer Persönlichkeitstheorie” in &lt;em&gt;Brennpunkte der Persönlichkeitsforschung&lt;/em&gt;, ed. M.  Amelang, vol. vol. 1, (Göttingen [u.a.]: Hogrefe), 109-138.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bonarius, Han, Angleitner, Alois, and John, Oliver P. 1984. “Die Psychologie der persönlichen Konstrukte: eine kritische Bestandsaufnahme einer Persönlichkeitstheorie”. In &lt;em&gt;Brennpunkte der Persönlichkeitsforschung&lt;/em&gt;, ed. Manfred Amelang, vol. 1:109-138. Göttingen [u.a.]: Hogrefe.&lt;/div&gt;</chicago>
+<ieee>H. Bonarius, A. Angleitner, and O.P. John, “Die Psychologie der persönlichen Konstrukte: eine kritische Bestandsaufnahme einer Persönlichkeitstheorie”, &lt;em&gt;Brennpunkte der Persönlichkeitsforschung&lt;/em&gt;, M. Amelang, ed., vol. vol. 1,  Göttingen [u.a.]: Hogrefe, 1984,  pp.109-138.</ieee>
+<mla>Bonarius, Han, Angleitner, Alois, and John, Oliver P. “Die Psychologie der persönlichen Konstrukte: eine kritische Bestandsaufnahme einer Persönlichkeitstheorie”. &lt;em&gt;Brennpunkte der Persönlichkeitsforschung&lt;/em&gt;. Ed. Manfred Amelang. Göttingen [u.a.]: Hogrefe, 1984.Vol. vol. 1. 109-138.</mla>
+<lncs>Bonarius, H., Angleitner, A., John, O.P.: Die Psychologie der persönlichen Konstrukte: eine kritische Bestandsaufnahme einer Persönlichkeitstheorie. In: Amelang, M. (ed.) Brennpunkte der Persönlichkeitsforschung. vol. 1, p. 109-138. Hogrefe, Göttingen [u.a.] (1984).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bonarius, H., Angleitner, A., &amp;amp; John, O. P. (1984). Die Psychologie der persönlichen Konstrukte: eine kritische Bestandsaufnahme einer Persönlichkeitstheorie. In M.  Amelang (Ed.), &lt;em&gt;Brennpunkte der Persönlichkeitsforschung&lt;/em&gt; (Vol. vol. 1, pp. 109-138). Göttingen [u.a.]: Hogrefe.&lt;/div&gt;</apa_indent>
+<wels>Bonarius, H.; Angleitner, A.; John, O. P. (1984): Die Psychologie der persönlichen Konstrukte: eine kritische Bestandsaufnahme einer Persönlichkeitstheorie. In: Manfred Amelang (Hrsg.):  Brennpunkte der Persönlichkeitsforschung. Göttingen [u.a.]: Hogrefe. (vol. 1).  S. 109-138.</wels>
+<default>Bonarius H, Angleitner A, John OP (1984)  &lt;br /&gt;In:  Brennpunkte der Persönlichkeitsforschung. Amelang M (Ed);vol. 1. Göttingen [u.a.]: Hogrefe:  109-138.</default>
+<harvard1>Bonarius, H., Angleitner, A., &amp;amp; John, O.P., 1984. Die Psychologie der persönlichen Konstrukte: eine kritische Bestandsaufnahme einer Persönlichkeitstheorie. In M.  Amelang, ed. &lt;em&gt;Brennpunkte der Persönlichkeitsforschung&lt;/em&gt;. no.vol. 1  Göttingen [u.a.]: Hogrefe, pp. 109-138.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bonarius, H., Angleitner, A. &amp;amp; John, O.P. (1984). Die Psychologie der persönlichen Konstrukte: eine kritische Bestandsaufnahme einer Persönlichkeitstheorie. &lt;em&gt;Brennpunkte der Persönlichkeitsforschung&lt;/em&gt; (S. 109-138). Göttingen [u.a.]: Hogrefe.&lt;/div&gt;</dgps>
+<ama>Bonarius H, Angleitner A, John OP. Die Psychologie der persönlichen Konstrukte: eine kritische Bestandsaufnahme einer Persönlichkeitstheorie. In: Amelang M, ed. &lt;em&gt;Brennpunkte der Persönlichkeitsforschung&lt;/em&gt;. Vol vol. 1. Göttingen [u.a.]: Hogrefe;  1984: 109-138.</ama>
+<bio1>Bonarius H, Angleitner A, John OP (1984) &lt;br /&gt;Die Psychologie der persönlichen Konstrukte: eine kritische Bestandsaufnahme einer Persönlichkeitstheorie. &lt;br /&gt;In:  Brennpunkte der Persönlichkeitsforschung. Amelang M (Ed);vol. 1. Göttingen [u.a.]: Hogrefe:  109-138.</bio1>
+<aps>H.  Bonarius, A.  Angleitner, and O. P.  John, Die Psychologie der persönlichen Konstrukte: eine kritische Bestandsaufnahme einer Persönlichkeitstheorie, in &lt;em&gt;Brennpunkte der Persönlichkeitsforschung&lt;/em&gt;, edited by M.  Amelang, &lt;strong&gt;vol. 1&lt;/strong&gt; (Hogrefe, Göttingen [U.a.], 1984), p. 109-138.</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1779416</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1779416</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1779416</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,128 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Die Methode der Sozialisation. Eine Fallstudie zum Zusammenhang von Konstitution und Rekonstruktion der Moral</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Alfons</namePart>
+  <namePart type="family">Bora</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">76911</identifier></name>
+<name type="personal">
+  <namePart type="given">Thomas</namePart>
+  <namePart type="family">Dresel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Tilmann</namePart>
+  <namePart type="family">Sutter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">149193</identifier></name>
+<name type="personal">
+  <namePart type="given">Uwe</namePart>
+  <namePart type="family">Weisenbacher</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Detlef</namePart><namePart type="family">Garz</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Klaus</namePart><namePart type="family">Kraimer</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">89044</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10061</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">5656064</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Sutter_007.pdf">https://pub.uni-bielefeld.de/download/1778608/2312493</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Westdt. Verl.</publisher><dateIssued encoding="w3cdtf">1991</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Qualitativ-empirische Sozialforschung. Konzepte, Methoden, Analysen</title></titleInfo>
+  <identifier type="isbn">3-531-12289-4</identifier><identifier type="urn">urn:nbn:de:0070-bipr-16655</identifier>
+<part><extent unit="pages">61-91</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<harvard1>Bora, A., et al., 1991. Die Methode der Sozialisation. Eine Fallstudie zum Zusammenhang von Konstitution und Rekonstruktion der Moral. In D.  Garz &amp;amp; K.  Kraimer, eds. &lt;em&gt;Qualitativ-empirische Sozialforschung. Konzepte, Methoden, Analysen&lt;/em&gt;.  Opladen: Westdt. Verl., pp. 61-91.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bora, A., Dresel, T., Sutter, T. &amp;amp; Weisenbacher, U. (1991). Die Methode der Sozialisation. Eine Fallstudie zum Zusammenhang von Konstitution und Rekonstruktion der Moral. &lt;em&gt;Qualitativ-empirische Sozialforschung. Konzepte, Methoden, Analysen&lt;/em&gt; (S. 61-91). Opladen: Westdt. Verl.&lt;/div&gt;</dgps>
+<ama>Bora A, Dresel T, Sutter T, Weisenbacher U. Die Methode der Sozialisation. Eine Fallstudie zum Zusammenhang von Konstitution und Rekonstruktion der Moral. In: Garz D, Kraimer K, eds. &lt;em&gt;Qualitativ-empirische Sozialforschung. Konzepte, Methoden, Analysen&lt;/em&gt;. Opladen: Westdt. Verl.;  1991: 61-91.</ama>
+<bio1>Bora A, Dresel T, Sutter T, Weisenbacher U (1991) &lt;br /&gt;Die Methode der Sozialisation. Eine Fallstudie zum Zusammenhang von Konstitution und Rekonstruktion der Moral. &lt;br /&gt;In:  Qualitativ-empirische Sozialforschung. Konzepte, Methoden, Analysen. Garz D, Kraimer K (Eds); Opladen: Westdt. Verl.:  61-91.</bio1>
+<aps> A.  Bora, et al., Die Methode der Sozialisation. Eine Fallstudie zum Zusammenhang von Konstitution und Rekonstruktion der Moral, in &lt;em&gt;Qualitativ-empirische Sozialforschung. Konzepte, Methoden, Analysen&lt;/em&gt;, edited by D.  Garz and K.  Kraimer (Westdt. Verl., Opladen, 1991), p. 61-91.</aps>
+<wels>Bora, A.; Dresel, T.; Sutter, T.; Weisenbacher, U. (1991): Die Methode der Sozialisation. Eine Fallstudie zum Zusammenhang von Konstitution und Rekonstruktion der Moral. In: Detlef Garz; Klaus Kraimer (Hrsg.):  Qualitativ-empirische Sozialforschung. Konzepte, Methoden, Analysen. Opladen: Westdt. Verl.  S. 61-91.</wels>
+<default>Bora A, Dresel T, Sutter T, Weisenbacher U (1991)  &lt;br /&gt;In:  Qualitativ-empirische Sozialforschung. Konzepte, Methoden, Analysen. Garz D, Kraimer K (Eds);Opladen: Westdt. Verl.:  61-91.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bora, A., Dresel, T., Sutter, T., &amp;amp; Weisenbacher, U. (1991). Die Methode der Sozialisation. Eine Fallstudie zum Zusammenhang von Konstitution und Rekonstruktion der Moral. In D.  Garz &amp;amp; K.  Kraimer (Eds.), &lt;em&gt;Qualitativ-empirische Sozialforschung. Konzepte, Methoden, Analysen&lt;/em&gt; (pp. 61-91). Opladen: Westdt. Verl.&lt;/div&gt;</apa_indent>
+<ieee> A. Bora, et al., “Die Methode der Sozialisation. Eine Fallstudie zum Zusammenhang von Konstitution und Rekonstruktion der Moral”, &lt;em&gt;Qualitativ-empirische Sozialforschung. Konzepte, Methoden, Analysen&lt;/em&gt;, D. Garz and K. Kraimer, eds.,  Opladen: Westdt. Verl., 1991,  pp.61-91.</ieee>
+<lncs> Bora, A., Dresel, T., Sutter, T., Weisenbacher, U.: Die Methode der Sozialisation. Eine Fallstudie zum Zusammenhang von Konstitution und Rekonstruktion der Moral. In: Garz, D. and Kraimer, K. (eds.) Qualitativ-empirische Sozialforschung. Konzepte, Methoden, Analysen. p. 61-91. Westdt. Verl., Opladen (1991).</lncs>
+<mla>Bora, Alfons, Dresel, Thomas, Sutter, Tilmann, and Weisenbacher, Uwe. “Die Methode der Sozialisation. Eine Fallstudie zum Zusammenhang von Konstitution und Rekonstruktion der Moral”. &lt;em&gt;Qualitativ-empirische Sozialforschung. Konzepte, Methoden, Analysen&lt;/em&gt;. Ed. Detlef Garz and Klaus Kraimer. Opladen: Westdt. Verl., 1991. 61-91.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bora, Alfons, Dresel, Thomas, Sutter, Tilmann, and Weisenbacher, Uwe. 1991. “Die Methode der Sozialisation. Eine Fallstudie zum Zusammenhang von Konstitution und Rekonstruktion der Moral”. In &lt;em&gt;Qualitativ-empirische Sozialforschung. Konzepte, Methoden, Analysen&lt;/em&gt;, ed. Detlef Garz and Klaus Kraimer, 61-91. Opladen: Westdt. Verl.&lt;/div&gt;</chicago>
+<angewandte-chemie>A.  Bora, T.  Dresel, T.  Sutter, and U.  Weisenbacher, in &lt;em&gt;Qualitativ-empirische Sozialforschung. Konzepte, Methoden, Analysen&lt;/em&gt; (Eds.: D. Garz, K. Kraimer), Westdt. Verl., Opladen, &lt;strong&gt;1991&lt;/strong&gt;, p. 61-91.</angewandte-chemie>
+<apa>Bora, A., Dresel, T., Sutter, T., &amp;amp; Weisenbacher, U. (1991). Die Methode der Sozialisation. Eine Fallstudie zum Zusammenhang von Konstitution und Rekonstruktion der Moral. In D.  Garz &amp;amp; K.  Kraimer (Eds.), &lt;em&gt;Qualitativ-empirische Sozialforschung. Konzepte, Methoden, Analysen&lt;/em&gt; (pp. 61-91). Opladen: Westdt. Verl.</apa>
+<frontiers>Bora, A., Dresel, T., Sutter, T., and Weisenbacher, U. (1991). “Die Methode der Sozialisation. Eine Fallstudie zum Zusammenhang von Konstitution und Rekonstruktion der Moral” in &lt;em&gt;Qualitativ-empirische Sozialforschung. Konzepte, Methoden, Analysen&lt;/em&gt;, Garz, D., and Kraimer, K. eds. (Opladen: Westdt. Verl.), 61-91.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1778608</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-08-10T08:59:08Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-08-10T08:59:08Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1778608</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1778608</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

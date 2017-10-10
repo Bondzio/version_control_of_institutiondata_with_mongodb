@@ -1,0 +1,101 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>On multiuser write-efficient memories</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Rudolf</namePart>
+  <namePart type="family">Ahlswede</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10479</identifier></name>
+<name type="personal">
+  <namePart type="given">Zhen</namePart>
+  <namePart type="family">Zhang</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Ahlswede_093.pdf">https://pub.uni-bielefeld.de/download/1780494/2312930</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1994</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>IEEE transactions on information theory</title></titleInfo>
+  <identifier type="issn">0018-9448</identifier>
+  <identifier type="ISI">A1994PA61100005</identifier><identifier type="urn">urn:nbn:de:0070-pub-17804940</identifier><identifier type="doi">10.1109/18.335880</identifier>
+<part><detail type="volume"><number>40</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">674-686</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Ahlswede, R.; Zhang, Z. (1994): On multiuser write-efficient memories &lt;em&gt;IEEE transactions on information theory&lt;/em&gt;,40:(3): 674-686.</wels>
+<default>Ahlswede R, Zhang Z (1994) &lt;br /&gt;IEEE transactions on information theory 40(3): 674-686.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R. &amp;amp; Zhang, Z. (1994). On multiuser write-efficient memories. &lt;em&gt;IEEE transactions on information theory&lt;/em&gt;, &lt;em&gt;40&lt;/em&gt;(3), 674-686. doi:10.1109/18.335880.&lt;/div&gt;</dgps>
+<harvard1>Ahlswede, R., &amp;amp; Zhang, Z., 1994. On multiuser write-efficient memories. &lt;em&gt;IEEE transactions on information theory&lt;/em&gt;, 40(3), p 674-686.</harvard1>
+<ama>Ahlswede R, Zhang Z. On multiuser write-efficient memories. &lt;em&gt;IEEE transactions on information theory&lt;/em&gt;. 1994;40(3):674-686.</ama>
+<bio1>Ahlswede R, Zhang Z (1994) &lt;br /&gt;On multiuser write-efficient memories.&lt;br /&gt;IEEE transactions on information theory 40(3): 674-686.</bio1>
+<aps>R.  Ahlswede and Z.  Zhang, On multiuser write-efficient memories, IEEE transactions on information theory &lt;strong&gt;40&lt;/strong&gt;, 674-686 (1994).</aps>
+<apa>Ahlswede, R., &amp;amp; Zhang, Z. (1994). On multiuser write-efficient memories. &lt;em&gt;IEEE transactions on information theory&lt;/em&gt;, &lt;em&gt;40&lt;/em&gt;(3), 674-686.</apa>
+<angewandte-chemie>R.  Ahlswede, and Z.  Zhang, “On multiuser write-efficient memories”, &lt;em&gt;IEEE transactions on information theory&lt;/em&gt;, &lt;strong&gt;1994&lt;/strong&gt;, &lt;em&gt;40&lt;/em&gt;, 674-686.</angewandte-chemie>
+<frontiers>Ahlswede, R., and Zhang, Z. (1994). On multiuser write-efficient memories. &lt;em&gt;IEEE transactions on information theory&lt;/em&gt; 40, 674-686.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, Rudolf, and Zhang, Zhen. 1994. “On multiuser write-efficient memories”. &lt;em&gt;IEEE transactions on information theory&lt;/em&gt; 40 (3): 674-686.&lt;/div&gt;</chicago>
+<ieee>R. Ahlswede and Z. Zhang, “On multiuser write-efficient memories”, &lt;em&gt;IEEE transactions on information theory&lt;/em&gt;,  vol. 40, 1994,  pp. 674-686.</ieee>
+<mla>Ahlswede, Rudolf, and Zhang, Zhen. “On multiuser write-efficient memories”. &lt;em&gt;IEEE transactions on information theory&lt;/em&gt; 40.3 (1994): 674-686.</mla>
+<lncs>Ahlswede, R., Zhang, Z.: On multiuser write-efficient memories. IEEE transactions on information theory. 40, 674-686 (1994).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R., &amp;amp; Zhang, Z. (1994). On multiuser write-efficient memories. &lt;em&gt;IEEE transactions on information theory&lt;/em&gt;, &lt;em&gt;40&lt;/em&gt;(3), 674-686.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780494</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780494</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780494</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

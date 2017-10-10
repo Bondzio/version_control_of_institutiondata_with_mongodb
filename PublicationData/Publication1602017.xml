@@ -1,0 +1,146 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Role of the ssu and seu genes of Corynebacterium glutamicum ATCC 13032 in utilization of sulfonates and sulfonate esters as sulfur sources</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">DJ</namePart>
+  <namePart type="family">Koch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">Rückert</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">42238</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-9722-4435</description></name>
+<name type="personal">
+  <namePart type="given">DA</namePart>
+  <namePart type="family">Rey</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Mix</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20152</identifier></name>
+<name type="personal">
+  <namePart type="given">Alfred</namePart>
+  <namePart type="family">Pühler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21937</identifier></name>
+<name type="personal">
+  <namePart type="given">Jörn</namePart>
+  <namePart type="family">Kalinowski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">147567</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Research Group J. Kalinowski</namePart>
+  <identifier type="unibi">33070724</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  A. Pühler</namePart>
+  <identifier type="unibi">33070639</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Fakultät für Chemie</namePart>
+  <identifier type="unibi">10018</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Fakultät für Biologie</namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Genomforschung und Systembiologie</namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Corynebacterium glutamicum ATCC 13032 was found to be able to utilize a broad range of sulfonates and sulfonate esters as sulfur sources. The two gene clusters potentially involved in sulfonate utilization, ssuD1CBA and ssuI-seuABC-ssuD2, were identified in the genome of C. glutamicum ATCC 13032 by similarity searches. While the ssu genes encode proteins resembling Ssu proteins from Escherichia coli or Bacillus subtilis, the seu gene products exhibited similarity to the dibenzothiophene-degrading Dsz monooxygenases of Rhodococcus strain IGTS8. Growth tests with the C. glutamicum wild-type and appropriate mutant strains showed that the clustered genes ssuC, ssuB, and ssuA, putatively encoding the components of an ABC-type transporter system, are required for the utilization of aliphatic sulfonates. In C. glutamicum sulfonates are apparently degraded by sulfonatases encoded by ssuD1 and ssuD2. It was also found that the seu genes seuA, seuB, and seuC can effectively replace ssuD1 and ssuD2 for the degradation of sulfonate esters. The utilization of all sulfonates and sulfonate esters tested is dependent on a novel putative reductase encoded by ssuI. Obviously, all monooxygenases encoded by the ssu and seu genes, including SsuD1, SsuD2, SeuA, SeuB, and SeuC, which are reduced flavin mononucleotide dependent according to sequence similarity, have SsuI as an essential component. Using real-time reverse transcription-PCR, the ssu and seu gene cluster was found to be expressed considerably more strongly during growth on sulfonates and sulfonate esters than during growth on sulfate.</abstract>
+
+<originInfo><publisher>AMER SOC MICROBIOLOGY</publisher><dateIssued encoding="w3cdtf">2005</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>APPLIED AND ENVIRONMENTAL MICROBIOLOGY</title></titleInfo>
+  <identifier type="issn">0099-2240</identifier>
+  <identifier type="MEDLINE">16204527</identifier>
+  <identifier type="ISI">000232504000054</identifier><identifier type="doi">10.1128/AEM.71.10.6104-6114.2005</identifier>
+<part><detail type="volume"><number>71</number></detail><detail type="issue"><number>10</number></detail><extent unit="pages">6104-6114</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Koch, D. J., Rückert, C., Rey, D. A., Mix, A., Pühler, A., and Kalinowski, J. (2005). Role of the ssu and seu genes of Corynebacterium glutamicum ATCC 13032 in utilization of sulfonates and sulfonate esters as sulfur sources. &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt; 71, 6104-6114.</frontiers>
+<angewandte-chemie>D. J.  Koch, C.  Rückert, D. A.  Rey, A.  Mix, A.  Pühler, and J.  Kalinowski, “Role of the ssu and seu genes of Corynebacterium glutamicum ATCC 13032 in utilization of sulfonates and sulfonate esters as sulfur sources”, &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt;, &lt;strong&gt;2005&lt;/strong&gt;, &lt;em&gt;71&lt;/em&gt;, 6104-6114.</angewandte-chemie>
+<apa>Koch, D. J., Rückert, C., Rey, D. A., Mix, A., Pühler, A., &amp;amp; Kalinowski, J. (2005). Role of the ssu and seu genes of Corynebacterium glutamicum ATCC 13032 in utilization of sulfonates and sulfonate esters as sulfur sources. &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt;, &lt;em&gt;71&lt;/em&gt;(10), 6104-6114.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Koch, DJ, Rückert, Christian, Rey, DA, Mix, Andreas, Pühler, Alfred, and Kalinowski, Jörn. 2005. “Role of the ssu and seu genes of Corynebacterium glutamicum ATCC 13032 in utilization of sulfonates and sulfonate esters as sulfur sources”. &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt; 71 (10): 6104-6114.&lt;/div&gt;</chicago>
+<lncs>Koch, D.J., Rückert, C., Rey, D.A., Mix, A., Pühler, A., Kalinowski, J.: Role of the ssu and seu genes of Corynebacterium glutamicum ATCC 13032 in utilization of sulfonates and sulfonate esters as sulfur sources. APPLIED AND ENVIRONMENTAL MICROBIOLOGY. 71, 6104-6114 (2005).</lncs>
+<mla>Koch, DJ, Rückert, Christian, Rey, DA, Mix, Andreas, Pühler, Alfred, and Kalinowski, Jörn. “Role of the ssu and seu genes of Corynebacterium glutamicum ATCC 13032 in utilization of sulfonates and sulfonate esters as sulfur sources”. &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt; 71.10 (2005): 6104-6114.</mla>
+<ieee>D.J. Koch, et al., “Role of the ssu and seu genes of Corynebacterium glutamicum ATCC 13032 in utilization of sulfonates and sulfonate esters as sulfur sources”, &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt;,  vol. 71, 2005,  pp. 6104-6114.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Koch, D. J., Rückert, C., Rey, D. A., Mix, A., Pühler, A., &amp;amp; Kalinowski, J. (2005). Role of the ssu and seu genes of Corynebacterium glutamicum ATCC 13032 in utilization of sulfonates and sulfonate esters as sulfur sources. &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt;, &lt;em&gt;71&lt;/em&gt;(10), 6104-6114.&lt;/div&gt;</apa_indent>
+<default>Koch DJ, Rückert C, Rey DA, Mix A, Pühler A, Kalinowski J (2005) &lt;br /&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY 71(10): 6104-6114.</default>
+<wels>Koch, D. J.; Rückert, C.; Rey, D. A.; Mix, A.; Pühler, A.; Kalinowski, J. (2005): Role of the ssu and seu genes of Corynebacterium glutamicum ATCC 13032 in utilization of sulfonates and sulfonate esters as sulfur sources &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt;,71:(10): 6104-6114.</wels>
+<aps>D. J.  Koch, et al., Role of the ssu and seu genes of Corynebacterium glutamicum ATCC 13032 in utilization of sulfonates and sulfonate esters as sulfur sources, APPLIED AND ENVIRONMENTAL MICROBIOLOGY &lt;strong&gt;71&lt;/strong&gt;, 6104-6114 (2005).</aps>
+<bio1>Koch DJ, Rückert C, Rey DA, Mix A, Pühler A, Kalinowski J (2005) &lt;br /&gt;Role of the ssu and seu genes of Corynebacterium glutamicum ATCC 13032 in utilization of sulfonates and sulfonate esters as sulfur sources.&lt;br /&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY 71(10): 6104-6114.</bio1>
+<ama>Koch DJ, Rückert C, Rey DA, Mix A, Pühler A, Kalinowski J. Role of the ssu and seu genes of Corynebacterium glutamicum ATCC 13032 in utilization of sulfonates and sulfonate esters as sulfur sources. &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt;. 2005;71(10):6104-6114.</ama>
+<harvard1>Koch, D.J., et al., 2005. Role of the ssu and seu genes of Corynebacterium glutamicum ATCC 13032 in utilization of sulfonates and sulfonate esters as sulfur sources. &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt;, 71(10), p 6104-6114.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Koch, D.J., Rückert, C., Rey, D.A., Mix, A., Pühler, A. &amp;amp; Kalinowski, J. (2005). Role of the ssu and seu genes of Corynebacterium glutamicum ATCC 13032 in utilization of sulfonates and sulfonate esters as sulfur sources. &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt;, &lt;em&gt;71&lt;/em&gt;(10), 6104-6114. AMER SOC MICROBIOLOGY. doi:10.1128/AEM.71.10.6104-6114.2005.&lt;/div&gt;</dgps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1602017</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:32:04Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2015-12-11T16:31:52Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1602017</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1602017</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

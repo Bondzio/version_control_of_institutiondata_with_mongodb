@@ -1,0 +1,113 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Erwerbschancen und Lebensplanung junger Frauen</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Birgit</namePart>
+  <namePart type="family">Geissler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">13179</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Werner</namePart><namePart type="family">Dressel</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Soziologie</namePart>
+  <identifier type="unibi">10030</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Arbeitsbereich 10 - Wirtschaft und Arbeit</namePart>
+  <identifier type="unibi">19134156</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Weltgesellschaft</namePart>
+  <identifier type="unibi">89044</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT3393.pdf">https://pub.uni-bielefeld.de/download/1782916/2314056</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Inst. für Arbeitsmarkt- und Berufsforschung der Bundesanst. für Arbeit</publisher><dateIssued encoding="w3cdtf">1990</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Lebenslauf, Arbeitsmarkt und Sozialpolitik</title></titleInfo><identifier type="urn">urn:nbn:de:0070-bipr-33933</identifier>
+<part><extent unit="pages">57-72</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Geissler, B. (1990). Erwerbschancen und Lebensplanung junger Frauen. In W.  Dressel (Ed.), &lt;em&gt;Beiträge zur Arbeitsmarkt- und Berufsforschung ; 133&lt;/em&gt;&lt;em&gt;. Lebenslauf, Arbeitsmarkt und Sozialpolitik&lt;/em&gt; (pp. 57-72). Nürnberg: Inst. für Arbeitsmarkt- und Berufsforschung der Bundesanst. für Arbeit.&lt;/div&gt;</apa_indent>
+<ieee>B. Geissler, “Erwerbschancen und Lebensplanung junger Frauen”, &lt;em&gt;Lebenslauf, Arbeitsmarkt und Sozialpolitik&lt;/em&gt;, W. Dressel, ed., Beiträge zur Arbeitsmarkt- und Berufsforschung ; 133,  Nürnberg: Inst. für Arbeitsmarkt- und Berufsforschung der Bundesanst. für Arbeit, 1990,  pp.57-72.</ieee>
+<lncs>Geissler, B.: Erwerbschancen und Lebensplanung junger Frauen. In: Dressel, W. (ed.) Lebenslauf, Arbeitsmarkt und Sozialpolitik. Beiträge zur Arbeitsmarkt- und Berufsforschung ; 133. p. 57-72. Inst. für Arbeitsmarkt- und Berufsforschung der Bundesanst. für Arbeit, Nürnberg (1990).</lncs>
+<mla>Geissler, Birgit. “Erwerbschancen und Lebensplanung junger Frauen”. &lt;em&gt;Lebenslauf, Arbeitsmarkt und Sozialpolitik&lt;/em&gt;. Ed. Werner Dressel. Nürnberg: Inst. für Arbeitsmarkt- und Berufsforschung der Bundesanst. für Arbeit, 1990. Beiträge zur Arbeitsmarkt- und Berufsforschung ; 133. 57-72.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Geissler, Birgit. 1990. “Erwerbschancen und Lebensplanung junger Frauen”. In &lt;em&gt;Lebenslauf, Arbeitsmarkt und Sozialpolitik&lt;/em&gt;, ed. Werner Dressel, 57-72. Beiträge zur Arbeitsmarkt- und Berufsforschung ; 133. Nürnberg: Inst. für Arbeitsmarkt- und Berufsforschung der Bundesanst. für Arbeit.&lt;/div&gt;</chicago>
+<angewandte-chemie>B.  Geissler, in &lt;em&gt;Lebenslauf, Arbeitsmarkt und Sozialpolitik&lt;/em&gt; (Ed.: W. Dressel), Inst. Für Arbeitsmarkt- Und Berufsforschung Der Bundesanst. Für Arbeit, Nürnberg, &lt;strong&gt;1990&lt;/strong&gt;, p. 57-72.</angewandte-chemie>
+<apa>Geissler, B. (1990). Erwerbschancen und Lebensplanung junger Frauen. In W.  Dressel (Ed.), &lt;em&gt;Beiträge zur Arbeitsmarkt- und Berufsforschung ; 133&lt;/em&gt;&lt;em&gt;. Lebenslauf, Arbeitsmarkt und Sozialpolitik&lt;/em&gt; (pp. 57-72). Nürnberg: Inst. für Arbeitsmarkt- und Berufsforschung der Bundesanst. für Arbeit.</apa>
+<frontiers>Geissler, B. (1990). “Erwerbschancen und Lebensplanung junger Frauen” in &lt;em&gt;Lebenslauf, Arbeitsmarkt und Sozialpolitik&lt;/em&gt;, ed. W.  Dressel Beiträge zur Arbeitsmarkt- und Berufsforschung ; 133 (Nürnberg: Inst. für Arbeitsmarkt- und Berufsforschung der Bundesanst. für Arbeit), 57-72.</frontiers>
+<harvard1>Geissler, B., 1990. Erwerbschancen und Lebensplanung junger Frauen. In W.  Dressel, ed. &lt;em&gt;Lebenslauf, Arbeitsmarkt und Sozialpolitik&lt;/em&gt;. Beiträge zur Arbeitsmarkt- und Berufsforschung ; 133.  Nürnberg: Inst. für Arbeitsmarkt- und Berufsforschung der Bundesanst. für Arbeit, pp. 57-72.</harvard1>
+<ama>Geissler B. Erwerbschancen und Lebensplanung junger Frauen. In: Dressel W, ed. &lt;em&gt;Lebenslauf, Arbeitsmarkt und Sozialpolitik&lt;/em&gt;. Beiträge zur Arbeitsmarkt- und Berufsforschung ; 133. Nürnberg: Inst. für Arbeitsmarkt- und Berufsforschung der Bundesanst. für Arbeit;  1990: 57-72.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Geissler, B. (1990). Erwerbschancen und Lebensplanung junger Frauen (Beiträge zur Arbeitsmarkt- und Berufsforschung ; 133). &lt;em&gt;Lebenslauf, Arbeitsmarkt und Sozialpolitik&lt;/em&gt; (S. 57-72). Nürnberg: Inst. für Arbeitsmarkt- und Berufsforschung der Bundesanst. für Arbeit.&lt;/div&gt;</dgps>
+<bio1>Geissler B (1990) &lt;br /&gt;Erwerbschancen und Lebensplanung junger Frauen. &lt;br /&gt;In:  Lebenslauf, Arbeitsmarkt und Sozialpolitik. Dressel W (Ed); Beiträge zur Arbeitsmarkt- und Berufsforschung ; 133,  Nürnberg: Inst. für Arbeitsmarkt- und Berufsforschung der Bundesanst. für Arbeit:  57-72.</bio1>
+<aps>B.  Geissler, Erwerbschancen und Lebensplanung junger Frauen, in &lt;em&gt;Lebenslauf, Arbeitsmarkt und Sozialpolitik&lt;/em&gt;, edited by W.  Dressel, Beiträge zur Arbeitsmarkt- und Berufsforschung ; 133 (Inst. für Arbeitsmarkt- und Berufsforschung der Bundesanst. für Arbeit, Nürnberg, 1990), p. 57-72.</aps>
+<wels>Geissler, B. (1990): Erwerbschancen und Lebensplanung junger Frauen. In: Werner Dressel (Hrsg.):  Lebenslauf, Arbeitsmarkt und Sozialpolitik. Nürnberg: Inst. für Arbeitsmarkt- und Berufsforschung der Bundesanst. für Arbeit. (Beiträge zur Arbeitsmarkt- und Berufsforschung ; 133, ).  S. 57-72.</wels>
+<default>Geissler B (1990)  &lt;br /&gt;In:  Lebenslauf, Arbeitsmarkt und Sozialpolitik. Dressel W (Ed); Beiträge zur Arbeitsmarkt- und Berufsforschung ; 133, . Nürnberg: Inst. für Arbeitsmarkt- und Berufsforschung der Bundesanst. für Arbeit:  57-72.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1782916</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1782916</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1782916</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

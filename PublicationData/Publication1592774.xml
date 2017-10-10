@@ -1,0 +1,191 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Reverse engineering of an affinity-switchable molecular interaction characterized by atomic force microscopy single-molecule force spectroscopy</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Dario</namePart>
+  <namePart type="family">Anselmetti</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40180</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-8720-4369</description></name>
+<name type="personal">
+  <namePart type="given">Frank Wilco</namePart>
+  <namePart type="family">Bartels</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Anke</namePart>
+  <namePart type="family">Becker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Bjrn</namePart>
+  <namePart type="family">Decker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Rainer</namePart>
+  <namePart type="family">Eckel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Matthew</namePart>
+  <namePart type="family">McIntosh</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jochen</namePart>
+  <namePart type="family">Mattay</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20256</identifier></name>
+<name type="personal">
+  <namePart type="given">Patrik</namePart>
+  <namePart type="family">Plattner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Robert</namePart>
+  <namePart type="family">Ros</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">Schaefer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Norbert</namePart>
+  <namePart type="family">Sewald</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20281</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2161137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">17975</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">29125395</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33086655</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33079524</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">17977</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">4838684</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Tunable and switchable interaction between molecules is a key for regulation and control of cellular processes. The translation of the underlying physicochemical principles to synthetic and switchable functional entities and molecules that can mimic the corresponding molecular functions is called reverse molecular engineering. We quantitatively investigated autoinducer-regulated DNA-protein interaction in bacterial gene regulation processes with single atomic force microscopy (AFM) molecule force spectroscopy in vitro, and developed an artificial bistable molecular host-guest system that can be controlled and regulated by external signals (UV light exposure and thermal energy). The intermolecular binding functionality (affinity) and its reproducible and reversible switching has been proven by AFM force spectroscopy at the single-molecule level. This affinity-tunable optomechanical switch will allow novel applications with respect to molecular manipulation, nanoscale rewritable molecular memories, and/or artificial ion channels, which will serve for the controlled transport and release of ions and neutral compounds in the future.</abstract>
+
+<originInfo><publisher>AMER CHEMICAL SOC</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>LANGMUIR</title></titleInfo>
+  <identifier type="issn">0743-7463</identifier>
+  <identifier type="eIssn">1520-5827</identifier>
+  <identifier type="MEDLINE">18062710</identifier>
+  <identifier type="ISI">000253130900032</identifier><identifier type="doi">10.1021/la702373b</identifier>
+<part><detail type="volume"><number>24</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">1365-1370</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Anselmetti, D., Bartels, F. W., Becker, A., Decker, B., Eckel, R., McIntosh, M., Mattay, J., et al. (2008). Reverse engineering of an affinity-switchable molecular interaction characterized by atomic force microscopy single-molecule force spectroscopy. &lt;em&gt;LANGMUIR&lt;/em&gt;, &lt;em&gt;24&lt;/em&gt;(4), 1365-1370.&lt;/div&gt;</apa_indent>
+<mla>Anselmetti, Dario, Bartels, Frank Wilco, Becker, Anke, Decker, Bjrn, Eckel, Rainer, McIntosh, Matthew, Mattay, Jochen, Plattner, Patrik, Ros, Robert, Schaefer, Christian, and Sewald, Norbert. “Reverse engineering of an affinity-switchable molecular interaction characterized by atomic force microscopy single-molecule force spectroscopy”. &lt;em&gt;LANGMUIR&lt;/em&gt; 24.4 (2008): 1365-1370.</mla>
+<lncs> Anselmetti, D., Bartels, F.W., Becker, A., Decker, B., Eckel, R., McIntosh, M., Mattay, J., Plattner, P., Ros, R., Schaefer, C., Sewald, N.: Reverse engineering of an affinity-switchable molecular interaction characterized by atomic force microscopy single-molecule force spectroscopy. LANGMUIR. 24, 1365-1370 (2008).</lncs>
+<ieee> D. Anselmetti, et al., “Reverse engineering of an affinity-switchable molecular interaction characterized by atomic force microscopy single-molecule force spectroscopy”, &lt;em&gt;LANGMUIR&lt;/em&gt;,  vol. 24, 2008,  pp. 1365-1370.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Anselmetti, Dario, Bartels, Frank Wilco, Becker, Anke, Decker, Bjrn, Eckel, Rainer, McIntosh, Matthew, Mattay, Jochen, et al. 2008. “Reverse engineering of an affinity-switchable molecular interaction characterized by atomic force microscopy single-molecule force spectroscopy”. &lt;em&gt;LANGMUIR&lt;/em&gt; 24 (4): 1365-1370.&lt;/div&gt;</chicago>
+<frontiers>Anselmetti, D., Bartels, F. W., Becker, A., Decker, B., Eckel, R., McIntosh, M., Mattay, J., Plattner, P., Ros, R., Schaefer, C., et al. (2008). Reverse engineering of an affinity-switchable molecular interaction characterized by atomic force microscopy single-molecule force spectroscopy. &lt;em&gt;LANGMUIR&lt;/em&gt; 24, 1365-1370.</frontiers>
+<angewandte-chemie>D.  Anselmetti, F. W.  Bartels, A.  Becker, B.  Decker, R.  Eckel, M.  McIntosh, J.  Mattay, P.  Plattner, R.  Ros, C.  Schaefer, et al., “Reverse engineering of an affinity-switchable molecular interaction characterized by atomic force microscopy single-molecule force spectroscopy”, &lt;em&gt;LANGMUIR&lt;/em&gt;, &lt;strong&gt;2008&lt;/strong&gt;, &lt;em&gt;24&lt;/em&gt;, 1365-1370.</angewandte-chemie>
+<apa>Anselmetti, D., Bartels, F. W., Becker, A., Decker, B., Eckel, R., McIntosh, M., Mattay, J., et al. (2008). Reverse engineering of an affinity-switchable molecular interaction characterized by atomic force microscopy single-molecule force spectroscopy. &lt;em&gt;LANGMUIR&lt;/em&gt;, &lt;em&gt;24&lt;/em&gt;(4), 1365-1370.</apa>
+<aps> D.  Anselmetti, et al., Reverse engineering of an affinity-switchable molecular interaction characterized by atomic force microscopy single-molecule force spectroscopy, LANGMUIR &lt;strong&gt;24&lt;/strong&gt;, 1365-1370 (2008).</aps>
+<bio1>Anselmetti D, Bartels FW, Becker A, Decker B, Eckel R, McIntosh M, Mattay J, Plattner P, Ros R, Schaefer C, Sewald N (2008) &lt;br /&gt;Reverse engineering of an affinity-switchable molecular interaction characterized by atomic force microscopy single-molecule force spectroscopy.&lt;br /&gt;LANGMUIR 24(4): 1365-1370.</bio1>
+<harvard1>Anselmetti, D., et al., 2008. Reverse engineering of an affinity-switchable molecular interaction characterized by atomic force microscopy single-molecule force spectroscopy. &lt;em&gt;LANGMUIR&lt;/em&gt;, 24(4), p 1365-1370.</harvard1>
+<ama>Anselmetti D, Bartels FW, Becker A, et al. Reverse engineering of an affinity-switchable molecular interaction characterized by atomic force microscopy single-molecule force spectroscopy. &lt;em&gt;LANGMUIR&lt;/em&gt;. 2008;24(4):1365-1370.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Anselmetti, D., Bartels, F.W., Becker, A., Decker, B., Eckel, R., McIntosh, M., Mattay, J., Plattner, P., Ros, R., Schaefer, C. &amp;amp; Sewald, N. (2008). Reverse engineering of an affinity-switchable molecular interaction characterized by atomic force microscopy single-molecule force spectroscopy. &lt;em&gt;LANGMUIR&lt;/em&gt;, &lt;em&gt;24&lt;/em&gt;(4), 1365-1370. AMER CHEMICAL SOC. doi:10.1021/la702373b.&lt;/div&gt;</dgps>
+<default>Anselmetti D, Bartels FW, Becker A, Decker B, Eckel R, McIntosh M, Mattay J, Plattner P, Ros R, Schaefer C, Sewald N (2008) &lt;br /&gt;LANGMUIR 24(4): 1365-1370.</default>
+<wels>Anselmetti, D.; Bartels, F. W.; Becker, A.; Decker, B.; Eckel, R.; McIntosh, M.; Mattay, J.; Plattner, P.; Ros, R.; Schaefer, C.; Sewald, N. (2008): Reverse engineering of an affinity-switchable molecular interaction characterized by atomic force microscopy single-molecule force spectroscopy &lt;em&gt;LANGMUIR&lt;/em&gt;,24:(4): 1365-1370.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1592774</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T11:50:50Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-08-02T13:28:35Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1592774</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1592774</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

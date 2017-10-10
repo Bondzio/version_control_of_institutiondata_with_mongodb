@@ -1,0 +1,108 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Cephoids: Minkowski sums of de Gua simplexes</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">D.</namePart>
+  <namePart type="family">Pallaschke</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Joachim</namePart>
+  <namePart type="family">Rosenmüller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">62516</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für mathematische Wirtschaftsforschung</namePart>
+  <identifier type="unibi">10053</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Fakultät für Wirtschaftswissenschaften</namePart>
+  <identifier type="unibi">10031</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Within this article we discuss the structure of those polytopes in [image omitted] which are Minkowski sums of de Gua simplexes. A de Gua simplex is the convex hull of the origin and n positive multiples of the unit vectors (see [J.J. Gray, Algebra in geometry from Newton to Plucker (German), Math. Semesterberichte 36 (1989), pp. 175-204.]). We characterize these polytopes by describing the shape of their (outward) faces. Given some notion of &apos;nondegeneracy&apos; or &apos;general position&apos; for our polytopes, we present a recursive procedure that yields all maximal faces. Also, we derive a formula indicating the number of maximal faces, which depends on the dimension and the number of de Gua simplexes involved only.</abstract>
+
+<originInfo><publisher>Informa UK Limited</publisher><dateIssued encoding="w3cdtf">2010</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Minkowski sum</topic><topic>cephoids</topic><topic>cylinders</topic><topic>de Gua simplexes</topic><topic>tentacles</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>OPTIMIZATION</title></titleInfo>
+  <identifier type="issn">0233-1934</identifier>
+  <identifier type="eIssn">1029-4945</identifier>
+  <identifier type="ISI">000277659600006</identifier><identifier type="doi">10.1080/02331930801951280</identifier>
+<part><detail type="volume"><number>59</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">515-540</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>D. Pallaschke and J. Rosenmüller, “Cephoids: Minkowski sums of de Gua simplexes”, &lt;em&gt;OPTIMIZATION&lt;/em&gt;,  vol. 59, 2010,  pp. 515-540.</ieee>
+<mla>Pallaschke, D., and Rosenmüller, Joachim. “Cephoids: Minkowski sums of de Gua simplexes”. &lt;em&gt;OPTIMIZATION&lt;/em&gt; 59.4 (2010): 515-540.</mla>
+<lncs>Pallaschke, D., Rosenmüller, J.: Cephoids: Minkowski sums of de Gua simplexes. OPTIMIZATION. 59, 515-540 (2010).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Pallaschke, D., &amp;amp; Rosenmüller, J. (2010). Cephoids: Minkowski sums of de Gua simplexes. &lt;em&gt;OPTIMIZATION&lt;/em&gt;, &lt;em&gt;59&lt;/em&gt;(4), 515-540.&lt;/div&gt;</apa_indent>
+<apa>Pallaschke, D., &amp;amp; Rosenmüller, J. (2010). Cephoids: Minkowski sums of de Gua simplexes. &lt;em&gt;OPTIMIZATION&lt;/em&gt;, &lt;em&gt;59&lt;/em&gt;(4), 515-540.</apa>
+<angewandte-chemie>D.  Pallaschke, and J.  Rosenmüller, “Cephoids: Minkowski sums of de Gua simplexes”, &lt;em&gt;OPTIMIZATION&lt;/em&gt;, &lt;strong&gt;2010&lt;/strong&gt;, &lt;em&gt;59&lt;/em&gt;, 515-540.</angewandte-chemie>
+<frontiers>Pallaschke, D., and Rosenmüller, J. (2010). Cephoids: Minkowski sums of de Gua simplexes. &lt;em&gt;OPTIMIZATION&lt;/em&gt; 59, 515-540.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Pallaschke, D., and Rosenmüller, Joachim. 2010. “Cephoids: Minkowski sums of de Gua simplexes”. &lt;em&gt;OPTIMIZATION&lt;/em&gt; 59 (4): 515-540.&lt;/div&gt;</chicago>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Pallaschke, D. &amp;amp; Rosenmüller, J. (2010). Cephoids: Minkowski sums of de Gua simplexes. &lt;em&gt;OPTIMIZATION&lt;/em&gt;, &lt;em&gt;59&lt;/em&gt;(4), 515-540. Informa UK Limited. doi:10.1080/02331930801951280.&lt;/div&gt;</dgps>
+<harvard1>Pallaschke, D., &amp;amp; Rosenmüller, J., 2010. Cephoids: Minkowski sums of de Gua simplexes. &lt;em&gt;OPTIMIZATION&lt;/em&gt;, 59(4), p 515-540.</harvard1>
+<ama>Pallaschke D, Rosenmüller J. Cephoids: Minkowski sums of de Gua simplexes. &lt;em&gt;OPTIMIZATION&lt;/em&gt;. 2010;59(4):515-540.</ama>
+<aps>D.  Pallaschke and J.  Rosenmüller, Cephoids: Minkowski sums of de Gua simplexes, OPTIMIZATION &lt;strong&gt;59&lt;/strong&gt;, 515-540 (2010).</aps>
+<bio1>Pallaschke D, Rosenmüller J (2010) &lt;br /&gt;Cephoids: Minkowski sums of de Gua simplexes.&lt;br /&gt;OPTIMIZATION 59(4): 515-540.</bio1>
+<wels>Pallaschke, D.; Rosenmüller, J. (2010): Cephoids: Minkowski sums of de Gua simplexes &lt;em&gt;OPTIMIZATION&lt;/em&gt;,59:(4): 515-540.</wels>
+<default>Pallaschke D, Rosenmüller J (2010) &lt;br /&gt;OPTIMIZATION 59(4): 515-540.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1795875</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-10-14T09:03:48Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2014-08-08T08:21:55Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1795875</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1795875</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

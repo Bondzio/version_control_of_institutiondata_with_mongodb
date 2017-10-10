@@ -1,0 +1,97 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Rolle und Aufgabe der Fachdidaktik Mathematik in der Lehrerausbildung an der Hochschule</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Günter</namePart>
+  <namePart type="family">Graumann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10520</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Martin</namePart><namePart type="family">Glatfeld</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Graumann_040.pdf">https://pub.uni-bielefeld.de/download/1776378/2312173</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Universität, Fak. f. Mathemati</publisher><dateIssued encoding="w3cdtf">1989</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Festschrift zur Emeritierung von Prof. Dr. Wilhelm Hestermeyer,</title></titleInfo><identifier type="urn">urn:nbn:de:0070-bipr-12302</identifier>
+<part><extent unit="pages">127-151</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Graumann, G. (1989): Rolle und Aufgabe der Fachdidaktik Mathematik in der Lehrerausbildung an der Hochschule. In: Martin Glatfeld (Hrsg.):  Festschrift zur Emeritierung von Prof. Dr. Wilhelm Hestermeyer,. Bielefeld: Universität, Fak. f. Mathemati.  S. 127-151.</wels>
+<default>Graumann G (1989)  &lt;br /&gt;In:  Festschrift zur Emeritierung von Prof. Dr. Wilhelm Hestermeyer,. Glatfeld M (Ed);Bielefeld: Universität, Fak. f. Mathemati:  127-151.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Graumann, G. (1989). Rolle und Aufgabe der Fachdidaktik Mathematik in der Lehrerausbildung an der Hochschule. &lt;em&gt;Festschrift zur Emeritierung von Prof. Dr. Wilhelm Hestermeyer,&lt;/em&gt; (S. 127-151). Bielefeld: Universität, Fak. f. Mathemati.&lt;/div&gt;</dgps>
+<ama>Graumann G. Rolle und Aufgabe der Fachdidaktik Mathematik in der Lehrerausbildung an der Hochschule. In: Glatfeld M, ed. &lt;em&gt;Festschrift zur Emeritierung von Prof. Dr. Wilhelm Hestermeyer,&lt;/em&gt;. Bielefeld: Universität, Fak. f. Mathemati;  1989: 127-151.</ama>
+<harvard1>Graumann, G., 1989. Rolle und Aufgabe der Fachdidaktik Mathematik in der Lehrerausbildung an der Hochschule. In M.  Glatfeld, ed. &lt;em&gt;Festschrift zur Emeritierung von Prof. Dr. Wilhelm Hestermeyer,&lt;/em&gt;.  Bielefeld: Universität, Fak. f. Mathemati, pp. 127-151.</harvard1>
+<bio1>Graumann G (1989) &lt;br /&gt;Rolle und Aufgabe der Fachdidaktik Mathematik in der Lehrerausbildung an der Hochschule. &lt;br /&gt;In:  Festschrift zur Emeritierung von Prof. Dr. Wilhelm Hestermeyer,. Glatfeld M (Ed); Bielefeld: Universität, Fak. f. Mathemati:  127-151.</bio1>
+<aps>G.  Graumann, Rolle und Aufgabe der Fachdidaktik Mathematik in der Lehrerausbildung an der Hochschule, in &lt;em&gt;Festschrift zur Emeritierung von Prof. Dr. Wilhelm Hestermeyer,&lt;/em&gt;, edited by M.  Glatfeld (Universität, Fak. f. Mathemati, Bielefeld, 1989), p. 127-151.</aps>
+<angewandte-chemie>G.  Graumann, in &lt;em&gt;Festschrift zur Emeritierung von Prof. Dr. Wilhelm Hestermeyer,&lt;/em&gt; (Ed.: M. Glatfeld), Universität, Fak. F. Mathemati, Bielefeld, &lt;strong&gt;1989&lt;/strong&gt;, p. 127-151.</angewandte-chemie>
+<apa>Graumann, G. (1989). Rolle und Aufgabe der Fachdidaktik Mathematik in der Lehrerausbildung an der Hochschule. In M.  Glatfeld (Ed.), &lt;em&gt;Festschrift zur Emeritierung von Prof. Dr. Wilhelm Hestermeyer,&lt;/em&gt; (pp. 127-151). Bielefeld: Universität, Fak. f. Mathemati.</apa>
+<frontiers>Graumann, G. (1989). “Rolle und Aufgabe der Fachdidaktik Mathematik in der Lehrerausbildung an der Hochschule” in &lt;em&gt;Festschrift zur Emeritierung von Prof. Dr. Wilhelm Hestermeyer,&lt;/em&gt;, ed. M.  Glatfeld (Bielefeld: Universität, Fak. f. Mathemati), 127-151.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Graumann, Günter. 1989. “Rolle und Aufgabe der Fachdidaktik Mathematik in der Lehrerausbildung an der Hochschule”. In &lt;em&gt;Festschrift zur Emeritierung von Prof. Dr. Wilhelm Hestermeyer,&lt;/em&gt;, ed. Martin Glatfeld, 127-151. Bielefeld: Universität, Fak. f. Mathemati.&lt;/div&gt;</chicago>
+<ieee>G. Graumann, “Rolle und Aufgabe der Fachdidaktik Mathematik in der Lehrerausbildung an der Hochschule”, &lt;em&gt;Festschrift zur Emeritierung von Prof. Dr. Wilhelm Hestermeyer,&lt;/em&gt;, M. Glatfeld, ed.,  Bielefeld: Universität, Fak. f. Mathemati, 1989,  pp.127-151.</ieee>
+<lncs>Graumann, G.: Rolle und Aufgabe der Fachdidaktik Mathematik in der Lehrerausbildung an der Hochschule. In: Glatfeld, M. (ed.) Festschrift zur Emeritierung von Prof. Dr. Wilhelm Hestermeyer,. p. 127-151. Universität, Fak. f. Mathemati, Bielefeld (1989).</lncs>
+<mla>Graumann, Günter. “Rolle und Aufgabe der Fachdidaktik Mathematik in der Lehrerausbildung an der Hochschule”. &lt;em&gt;Festschrift zur Emeritierung von Prof. Dr. Wilhelm Hestermeyer,&lt;/em&gt;. Ed. Martin Glatfeld. Bielefeld: Universität, Fak. f. Mathemati, 1989. 127-151.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Graumann, G. (1989). Rolle und Aufgabe der Fachdidaktik Mathematik in der Lehrerausbildung an der Hochschule. In M.  Glatfeld (Ed.), &lt;em&gt;Festschrift zur Emeritierung von Prof. Dr. Wilhelm Hestermeyer,&lt;/em&gt; (pp. 127-151). Bielefeld: Universität, Fak. f. Mathemati.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776378</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776378</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776378</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

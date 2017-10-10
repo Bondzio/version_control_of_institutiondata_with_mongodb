@@ -1,0 +1,107 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Kinderarmut - Armutsrisiko Kinder</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Jürgen</namePart>
+  <namePart type="family">Mansel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21744</identifier></name>
+<name type="personal">
+  <namePart type="given">Georg</namePart>
+  <namePart type="family">Neubauer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Jürgen</namePart><namePart type="family">Mansel</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Georg</namePart><namePart type="family">Neubauer</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für interdisziplinäre Konflikt- und Gewaltforschung</namePart>
+  <identifier type="unibi">10058</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG 2 - Sozialisation</namePart>
+  <identifier type="unibi">7978137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Leske + Budrich</publisher><dateIssued encoding="w3cdtf">1998</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+<subject><topic>childhood</topic><topic>Soziologie</topic><topic>Soziale Probleme</topic><topic>Kindheit</topic><topic>Erziehungswissenschaft</topic><topic>Armut</topic><topic>education</topic><topic>poverty</topic><topic>social problems</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Armut und soziale Ungleichheit bei Kindern</title></titleInfo>
+<part><extent unit="pages">7-18</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>J.  Mansel and G.  Neubauer, Kinderarmut - Armutsrisiko Kinder, in &lt;em&gt;Armut und soziale Ungleichheit bei Kindern&lt;/em&gt;, edited by J.  Mansel and G.  Neubauer (Leske + Budrich, Opladen, 1998), p. 7-18.</aps>
+<bio1>Mansel J, Neubauer G (1998) &lt;br /&gt;Kinderarmut - Armutsrisiko Kinder. &lt;br /&gt;In:  Armut und soziale Ungleichheit bei Kindern. Mansel J, Neubauer G (Eds); Opladen: Leske + Budrich:  7-18.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Mansel, J. &amp;amp; Neubauer, G. (1998). Kinderarmut - Armutsrisiko Kinder. &lt;em&gt;Armut und soziale Ungleichheit bei Kindern&lt;/em&gt; (S. 7-18). Opladen: Leske + Budrich.&lt;/div&gt;</dgps>
+<ama>Mansel J, Neubauer G. Kinderarmut - Armutsrisiko Kinder. In: Mansel J, Neubauer G, eds. &lt;em&gt;Armut und soziale Ungleichheit bei Kindern&lt;/em&gt;. Opladen: Leske + Budrich;  1998: 7-18.</ama>
+<harvard1>Mansel, J., &amp;amp; Neubauer, G., 1998. Kinderarmut - Armutsrisiko Kinder. In J.  Mansel &amp;amp; G.  Neubauer, eds. &lt;em&gt;Armut und soziale Ungleichheit bei Kindern&lt;/em&gt;.  Opladen: Leske + Budrich, pp. 7-18.</harvard1>
+<default>Mansel J, Neubauer G (1998)  &lt;br /&gt;In:  Armut und soziale Ungleichheit bei Kindern. Mansel J, Neubauer G (Eds);Opladen: Leske + Budrich:  7-18.</default>
+<wels>Mansel, J.; Neubauer, G. (1998): Kinderarmut - Armutsrisiko Kinder. In: Jürgen Mansel; Georg Neubauer (Hrsg.):  Armut und soziale Ungleichheit bei Kindern. Opladen: Leske + Budrich.  S. 7-18.</wels>
+<mla>Mansel, Jürgen, and Neubauer, Georg. “Kinderarmut - Armutsrisiko Kinder”. &lt;em&gt;Armut und soziale Ungleichheit bei Kindern&lt;/em&gt;. Ed. Jürgen Mansel and Georg Neubauer. Opladen: Leske + Budrich, 1998. 7-18.</mla>
+<lncs>Mansel, J., Neubauer, G.: Kinderarmut - Armutsrisiko Kinder. In: Mansel, J. and Neubauer, G. (eds.) Armut und soziale Ungleichheit bei Kindern. p. 7-18. Leske + Budrich, Opladen (1998).</lncs>
+<ieee>J. Mansel and G. Neubauer, “Kinderarmut - Armutsrisiko Kinder”, &lt;em&gt;Armut und soziale Ungleichheit bei Kindern&lt;/em&gt;, J. Mansel and G. Neubauer, eds.,  Opladen: Leske + Budrich, 1998,  pp.7-18.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Mansel, J., &amp;amp; Neubauer, G. (1998). Kinderarmut - Armutsrisiko Kinder. In J.  Mansel &amp;amp; G.  Neubauer (Eds.), &lt;em&gt;Armut und soziale Ungleichheit bei Kindern&lt;/em&gt; (pp. 7-18). Opladen: Leske + Budrich.&lt;/div&gt;</apa_indent>
+<frontiers>Mansel, J., and Neubauer, G. (1998). “Kinderarmut - Armutsrisiko Kinder” in &lt;em&gt;Armut und soziale Ungleichheit bei Kindern&lt;/em&gt;, ed. J.  Mansel and G.  Neubauer (Opladen: Leske + Budrich), 7-18.</frontiers>
+<angewandte-chemie>J.  Mansel, and G.  Neubauer, in &lt;em&gt;Armut und soziale Ungleichheit bei Kindern&lt;/em&gt; (Eds.: J. Mansel, G. Neubauer), Leske + Budrich, Opladen, &lt;strong&gt;1998&lt;/strong&gt;, p. 7-18.</angewandte-chemie>
+<apa>Mansel, J., &amp;amp; Neubauer, G. (1998). Kinderarmut - Armutsrisiko Kinder. In J.  Mansel &amp;amp; G.  Neubauer (Eds.), &lt;em&gt;Armut und soziale Ungleichheit bei Kindern&lt;/em&gt; (pp. 7-18). Opladen: Leske + Budrich.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Mansel, Jürgen, and Neubauer, Georg. 1998. “Kinderarmut - Armutsrisiko Kinder”. In &lt;em&gt;Armut und soziale Ungleichheit bei Kindern&lt;/em&gt;, ed. Jürgen Mansel and Georg Neubauer, 7-18. Opladen: Leske + Budrich.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1856937</recordIdentifier><recordChangeDate encoding="w3cdtf">2011-01-11T11:05:06Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1856937</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1856937</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

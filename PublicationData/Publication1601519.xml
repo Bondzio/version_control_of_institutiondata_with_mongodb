@@ -1,0 +1,117 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>ISOLLE: Locally linear embedding with geodesic distance</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">C</namePart>
+  <namePart type="family">Varini</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Degenhard</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Tim Wilhelm</namePart>
+  <namePart type="family">Nattkemper</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11602</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group T. Nattkemper</namePart>
+  <identifier type="unibi">33067409</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Technische Fakultät</namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Locally Linear Embedding (LLE) has recently been proposed as a method for dimensional reduction of high-dimensional nonlinear data sets. In LLE each data point is reconstructed from a linear combination of its n nearest neighbors, which are typically found using the Euclidean Distance. We propose an extension of LLE which consists in performing the search for the neighbors with respect to the geodesic distance (ISOLLE). In this study we show that the usage of this metric can lead to a more accurate preservation of the data structure. The proposed approach is validated on both real-world and synthetic data.</abstract>
+
+<originInfo><publisher>SPRINGER-VERLAG BERLIN</publisher><dateIssued encoding="w3cdtf">2005</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>KNOWLEDGE DISCOVERY IN DATABASES: PKDD 2005</title></titleInfo>
+  <identifier type="issn">0302-9743</identifier>
+  <identifier type="ISI">000233235600034</identifier><identifier type="doi">10.1007/11564126_34</identifier>
+<part><detail type="volume"><number>3721</number></detail><extent unit="pages">331-342</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Varini, C.; Degenhard, A.; Nattkemper, T. W. (2005): ISOLLE: Locally linear embedding with geodesic distance. In: KNOWLEDGE DISCOVERY IN DATABASES: PKDD 2005. SPRINGER-VERLAG BERLIN. (3721).  S. 331-342.</wels>
+<default>Varini C, Degenhard A, Nattkemper TW (2005)  &lt;br /&gt;In:  KNOWLEDGE DISCOVERY IN DATABASES: PKDD 2005. 3721. SPRINGER-VERLAG BERLIN:  331-342.</default>
+<ama>Varini C, Degenhard A, Nattkemper TW. ISOLLE: Locally linear embedding with geodesic distance. In:  &lt;em&gt;KNOWLEDGE DISCOVERY IN DATABASES: PKDD 2005&lt;/em&gt;. Vol 3721. SPRINGER-VERLAG BERLIN;  2005: 331-342.</ama>
+<harvard1>Varini, C., Degenhard, A., &amp;amp; Nattkemper, T.W., 2005. ISOLLE: Locally linear embedding with geodesic distance. In &lt;em&gt;KNOWLEDGE DISCOVERY IN DATABASES: PKDD 2005&lt;/em&gt;. no.3721  SPRINGER-VERLAG BERLIN, pp. 331-342.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Varini, C., Degenhard, A. &amp;amp; Nattkemper, T.W. (2005). ISOLLE: Locally linear embedding with geodesic distance. &lt;em&gt;KNOWLEDGE DISCOVERY IN DATABASES: PKDD 2005&lt;/em&gt; (S. 331-342). SPRINGER-VERLAG BERLIN. doi:10.1007/11564126_34.&lt;/div&gt;</dgps>
+<aps>C.  Varini, A.  Degenhard, and T. W.  Nattkemper, ISOLLE: Locally linear embedding with geodesic distance, in &lt;em&gt;KNOWLEDGE DISCOVERY IN DATABASES: PKDD 2005&lt;/em&gt;, &lt;strong&gt;3721&lt;/strong&gt; (SPRINGER-VERLAG BERLIN, 2005), p. 331-342.</aps>
+<bio1>Varini C, Degenhard A, Nattkemper TW (2005) &lt;br /&gt;ISOLLE: Locally linear embedding with geodesic distance. &lt;br /&gt;In:  KNOWLEDGE DISCOVERY IN DATABASES: PKDD 2005. 3721. SPRINGER-VERLAG BERLIN:  331-342.</bio1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Varini, C, Degenhard, A, and Nattkemper, Tim Wilhelm. 2005. “ISOLLE: Locally linear embedding with geodesic distance”. In &lt;em&gt;KNOWLEDGE DISCOVERY IN DATABASES: PKDD 2005&lt;/em&gt;, 3721:331-342. SPRINGER-VERLAG BERLIN.&lt;/div&gt;</chicago>
+<angewandte-chemie>C.  Varini, A.  Degenhard, and T. W.  Nattkemper, in &lt;em&gt;KNOWLEDGE DISCOVERY IN DATABASES: PKDD 2005&lt;/em&gt;, Springer-Verlag Berlin, &lt;strong&gt;2005&lt;/strong&gt;, p. 331-342.</angewandte-chemie>
+<apa>Varini, C., Degenhard, A., &amp;amp; Nattkemper, T. W. (2005). ISOLLE: Locally linear embedding with geodesic distance. &lt;em&gt;KNOWLEDGE DISCOVERY IN DATABASES: PKDD 2005&lt;/em&gt;, &lt;em&gt;3721&lt;/em&gt;, 331-342.</apa>
+<frontiers>Varini, C., Degenhard, A., and Nattkemper, T. W. (2005). “ISOLLE: Locally linear embedding with geodesic distance” in &lt;em&gt;KNOWLEDGE DISCOVERY IN DATABASES: PKDD 2005&lt;/em&gt;, vol. 3721, (SPRINGER-VERLAG BERLIN), 331-342.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Varini, C., Degenhard, A., &amp;amp; Nattkemper, T. W. (2005). ISOLLE: Locally linear embedding with geodesic distance. &lt;em&gt;KNOWLEDGE DISCOVERY IN DATABASES: PKDD 2005&lt;/em&gt;, &lt;em&gt;3721&lt;/em&gt;, 331-342.&lt;/div&gt;</apa_indent>
+<ieee>C. Varini, A. Degenhard, and T.W. Nattkemper, “ISOLLE: Locally linear embedding with geodesic distance”, &lt;em&gt;KNOWLEDGE DISCOVERY IN DATABASES: PKDD 2005&lt;/em&gt;, vol. 3721, SPRINGER-VERLAG BERLIN, 2005,  pp.331-342.</ieee>
+<lncs>Varini, C., Degenhard, A., Nattkemper, T.W.: ISOLLE: Locally linear embedding with geodesic distance. KNOWLEDGE DISCOVERY IN DATABASES: PKDD 2005. 3721, p. 331-342. SPRINGER-VERLAG BERLIN (2005).</lncs>
+<mla>Varini, C, Degenhard, A, and Nattkemper, Tim Wilhelm. “ISOLLE: Locally linear embedding with geodesic distance”. &lt;em&gt;KNOWLEDGE DISCOVERY IN DATABASES: PKDD 2005&lt;/em&gt;. SPRINGER-VERLAG BERLIN, 2005.Vol. 3721. 331-342.</mla>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1601519</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:31:48Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-26T12:49:19Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1601519</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1601519</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

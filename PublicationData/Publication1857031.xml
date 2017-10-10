@@ -1,0 +1,94 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Wohlbefinden</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Thorsten</namePart>
+  <namePart type="family">Hippe</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">160432</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Reinhold</namePart><namePart type="family">Hedtke</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Birgit</namePart><namePart type="family">Weber</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">5656122</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Wochenschau-Verl.</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Wörterbuch ökonomische Bildung</title></titleInfo>
+  <identifier type="isbn">978-3-89974370-8</identifier>
+<part><extent unit="pages">356-357</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hippe, T. (2008). Wohlbefinden. &lt;em&gt;Wörterbuch ökonomische Bildung&lt;/em&gt; (S. 356-357). Schwalbach/Ts.: Wochenschau-Verl.&lt;/div&gt;</dgps>
+<harvard1>Hippe, T., 2008. Wohlbefinden. In R.  Hedtke &amp;amp; B.  Weber, eds. &lt;em&gt;Wörterbuch ökonomische Bildung&lt;/em&gt;.  Schwalbach/Ts.: Wochenschau-Verl., pp. 356-357.</harvard1>
+<ama>Hippe T. Wohlbefinden. In: Hedtke R, Weber B, eds. &lt;em&gt;Wörterbuch ökonomische Bildung&lt;/em&gt;. Schwalbach/Ts.: Wochenschau-Verl.;  2008: 356-357.</ama>
+<aps> T.  Hippe, Wohlbefinden, in &lt;em&gt;Wörterbuch ökonomische Bildung&lt;/em&gt;, edited by R.  Hedtke and B.  Weber (Wochenschau-Verl., Schwalbach/ts., 2008), p. 356-357.</aps>
+<bio1>Hippe T (2008) &lt;br /&gt;Wohlbefinden. &lt;br /&gt;In:  Wörterbuch ökonomische Bildung. Hedtke R, Weber B (Eds); Schwalbach/Ts.: Wochenschau-Verl.:  356-357.</bio1>
+<wels>Hippe, T. (2008): Wohlbefinden. In: Reinhold Hedtke; Birgit Weber (Hrsg.):  Wörterbuch ökonomische Bildung. Schwalbach/Ts.: Wochenschau-Verl.  S. 356-357.</wels>
+<default>Hippe T (2008)  &lt;br /&gt;In:  Wörterbuch ökonomische Bildung. Hedtke R, Weber B (Eds);Schwalbach/Ts.: Wochenschau-Verl.:  356-357.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hippe, T. (2008). Wohlbefinden. In R.  Hedtke &amp;amp; B.  Weber (Eds.), &lt;em&gt;Wörterbuch ökonomische Bildung&lt;/em&gt; (pp. 356-357). Schwalbach/Ts.: Wochenschau-Verl.&lt;/div&gt;</apa_indent>
+<ieee> T. Hippe, “Wohlbefinden”, &lt;em&gt;Wörterbuch ökonomische Bildung&lt;/em&gt;, R. Hedtke and B. Weber, eds.,  Schwalbach/Ts.: Wochenschau-Verl., 2008,  pp.356-357.</ieee>
+<mla>Hippe, Thorsten. “Wohlbefinden”. &lt;em&gt;Wörterbuch ökonomische Bildung&lt;/em&gt;. Ed. Reinhold Hedtke and Birgit Weber. Schwalbach/Ts.: Wochenschau-Verl., 2008. 356-357.</mla>
+<lncs> Hippe, T.: Wohlbefinden. In: Hedtke, R. and Weber, B. (eds.) Wörterbuch ökonomische Bildung. p. 356-357. Wochenschau-Verl., Schwalbach/Ts. (2008).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hippe, Thorsten. 2008. “Wohlbefinden”. In &lt;em&gt;Wörterbuch ökonomische Bildung&lt;/em&gt;, ed. Reinhold Hedtke and Birgit Weber, 356-357. Schwalbach/Ts.: Wochenschau-Verl.&lt;/div&gt;</chicago>
+<angewandte-chemie>T.  Hippe, in &lt;em&gt;Wörterbuch ökonomische Bildung&lt;/em&gt; (Eds.: R. Hedtke, B. Weber), Wochenschau-Verl., Schwalbach/Ts., &lt;strong&gt;2008&lt;/strong&gt;, p. 356-357.</angewandte-chemie>
+<apa>Hippe, T. (2008). Wohlbefinden. In R.  Hedtke &amp;amp; B.  Weber (Eds.), &lt;em&gt;Wörterbuch ökonomische Bildung&lt;/em&gt; (pp. 356-357). Schwalbach/Ts.: Wochenschau-Verl.</apa>
+<frontiers>Hippe, T. (2008). “Wohlbefinden” in &lt;em&gt;Wörterbuch ökonomische Bildung&lt;/em&gt;, Hedtke, R., and Weber, B. eds. (Schwalbach/Ts.: Wochenschau-Verl.), 356-357.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1857031</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-08-04T08:40:55Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-08-04T08:40:55Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1857031</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1857031</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

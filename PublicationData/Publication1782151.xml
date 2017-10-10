@@ -1,0 +1,96 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book</genre>
+
+<titleInfo><title>Zur intelligenten Organisation von Wissensbeständen in künstlichen Systemen</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ipke</namePart>
+  <namePart type="family">Wachsmuth</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">73476</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Wissensbasierte Systeme</namePart>
+  <identifier type="unibi">10044</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT2992.pdf">https://pub.uni-bielefeld.de/download/1782151/2313689</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>IBM Deutschland</publisher><dateIssued encoding="w3cdtf">1989</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host">
+  <identifier type="issn">0938-1864</identifier><identifier type="urn">urn:nbn:de:0070-bipr-29923</identifier>
+<part>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Wachsmuth, I. (1989): Zur intelligenten Organisation von Wissensbeständen in künstlichen Systemen. Stuttgart: IBM Deutschland.</wels>
+<default>Wachsmuth I (1989)  IWBS-Report ; 91.&lt;br /&gt;Stuttgart: IBM Deutschland.</default>
+<harvard1>Wachsmuth, I., 1989. &lt;em&gt;Zur intelligenten Organisation von Wissensbeständen in künstlichen Systemen&lt;/em&gt;, IWBS-Report ; 91, Stuttgart: IBM Deutschland.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wachsmuth, I. (1989). &lt;em&gt;Zur intelligenten Organisation von Wissensbeständen in künstlichen Systemen&lt;/em&gt; (IWBS-Report ; 91). Stuttgart: IBM Deutschland.&lt;/div&gt;</dgps>
+<ama>Wachsmuth I. &lt;em&gt;Zur intelligenten Organisation von Wissensbeständen in künstlichen Systemen&lt;/em&gt;. IWBS-Report ; 91. Stuttgart: IBM Deutschland; 1989.</ama>
+<bio1>Wachsmuth I (1989) &lt;br /&gt;&lt;em&gt;Zur intelligenten Organisation von Wissensbeständen in künstlichen Systemen&lt;/em&gt;. IWBS-Report ; 91.&lt;br /&gt;Stuttgart: IBM Deutschland.</bio1>
+<aps>I.  Wachsmuth, Zur intelligenten Organisation von Wissensbeständen in künstlichen Systemen, IWBS-Report ; 91 (IBM Deutschland, Stuttgart, 1989).</aps>
+<angewandte-chemie>I.  Wachsmuth, &lt;em&gt;Zur intelligenten Organisation von Wissensbeständen in künstlichen Systemen&lt;/em&gt;, Ibm Deutschland, Stuttgart, &lt;strong&gt;1989&lt;/strong&gt;.</angewandte-chemie>
+<apa>Wachsmuth, I. (1989).  &lt;em&gt;Zur intelligenten Organisation von Wissensbeständen in künstlichen Systemen&lt;/em&gt; (IWBS-Report ; 91). Stuttgart: IBM Deutschland.</apa>
+<frontiers>Wachsmuth, I. (1989). Zur intelligenten Organisation von Wissensbeständen in künstlichen Systemen. &lt;em&gt;IWBS-Report ; 91&lt;/em&gt;, Stuttgart: IBM Deutschland.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wachsmuth, Ipke. 1989. &lt;em&gt;Zur intelligenten Organisation von Wissensbeständen in künstlichen Systemen&lt;/em&gt;. IWBS-Report ; 91. Stuttgart: IBM Deutschland.&lt;/div&gt;</chicago>
+<ieee>I. Wachsmuth, &lt;em&gt;Zur intelligenten Organisation von Wissensbeständen in künstlichen Systemen&lt;/em&gt;, IWBS-Report ; 91,  Stuttgart: IBM Deutschland, 1989.</ieee>
+<lncs>Wachsmuth, I.: Zur intelligenten Organisation von Wissensbeständen in künstlichen Systemen. IWBS-Report ; 91. IBM Deutschland, Stuttgart (1989).</lncs>
+<mla>Wachsmuth, Ipke. &lt;em&gt;Zur intelligenten Organisation von Wissensbeständen in künstlichen Systemen&lt;/em&gt;. Stuttgart: IBM Deutschland, 1989. IWBS-Report ; 91.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wachsmuth, I. (1989).  &lt;em&gt;Zur intelligenten Organisation von Wissensbeständen in künstlichen Systemen&lt;/em&gt; (IWBS-Report ; 91). Stuttgart: IBM Deutschland.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1782151</recordIdentifier><recordChangeDate encoding="w3cdtf">2014-03-04T13:54:05Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1782151</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1782151</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

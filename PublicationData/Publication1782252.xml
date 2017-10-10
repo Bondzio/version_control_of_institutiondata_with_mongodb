@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>The introduction of truth predicates into first-order-languages</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Walther</namePart>
+  <namePart type="family">Kindt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11705</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Franz</namePart><namePart type="family">Guenther</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Linguistik und Literaturwissenschaft</namePart>
+  <identifier type="unibi">10019</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT3069.pdf">https://pub.uni-bielefeld.de/download/1782252/2313762</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Reidel</publisher><dateIssued encoding="w3cdtf">1978</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Formal semantics and pragmatics for natural languages</title></titleInfo>
+  <identifier type="isbn">90-277-0778-2</identifier><identifier type="urn">urn:nbn:de:0070-bipr-30692</identifier>
+<part><extent unit="pages">359-371</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<mla>Kindt, Walther. “The introduction of truth predicates into first-order-languages”. &lt;em&gt;Formal semantics and pragmatics for natural languages&lt;/em&gt;. Ed. Franz Guenther. Dordrecht [u.a.]: Reidel, 1978. Synthese language library ; 4. 359-371.</mla>
+<lncs>Kindt, W.: The introduction of truth predicates into first-order-languages. In: Guenther, F. (ed.) Formal semantics and pragmatics for natural languages. Synthese language library ; 4. p. 359-371. Reidel, Dordrecht [u.a.] (1978).</lncs>
+<ieee>W. Kindt, “The introduction of truth predicates into first-order-languages”, &lt;em&gt;Formal semantics and pragmatics for natural languages&lt;/em&gt;, F. Guenther, ed., Synthese language library ; 4,  Dordrecht [u.a.]: Reidel, 1978,  pp.359-371.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kindt, W. (1978). The introduction of truth predicates into first-order-languages. In F.  Guenther (Ed.), &lt;em&gt;Synthese language library ; 4&lt;/em&gt;&lt;em&gt;. Formal semantics and pragmatics for natural languages&lt;/em&gt; (pp. 359-371). Dordrecht [u.a.]: Reidel.&lt;/div&gt;</apa_indent>
+<frontiers>Kindt, W. (1978). “The introduction of truth predicates into first-order-languages” in &lt;em&gt;Formal semantics and pragmatics for natural languages&lt;/em&gt;, ed. F.  Guenther Synthese language library ; 4 (Dordrecht [u.a.]: Reidel), 359-371.</frontiers>
+<apa>Kindt, W. (1978). The introduction of truth predicates into first-order-languages. In F.  Guenther (Ed.), &lt;em&gt;Synthese language library ; 4&lt;/em&gt;&lt;em&gt;. Formal semantics and pragmatics for natural languages&lt;/em&gt; (pp. 359-371). Dordrecht [u.a.]: Reidel.</apa>
+<angewandte-chemie>W.  Kindt, in &lt;em&gt;Formal semantics and pragmatics for natural languages&lt;/em&gt; (Ed.: F. Guenther), Reidel, Dordrecht [u.a.], &lt;strong&gt;1978&lt;/strong&gt;, p. 359-371.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kindt, Walther. 1978. “The introduction of truth predicates into first-order-languages”. In &lt;em&gt;Formal semantics and pragmatics for natural languages&lt;/em&gt;, ed. Franz Guenther, 359-371. Synthese language library ; 4. Dordrecht [u.a.]: Reidel.&lt;/div&gt;</chicago>
+<bio1>Kindt W (1978) &lt;br /&gt;The introduction of truth predicates into first-order-languages. &lt;br /&gt;In:  Formal semantics and pragmatics for natural languages. Guenther F (Ed); Synthese language library ; 4,  Dordrecht [u.a.]: Reidel:  359-371.</bio1>
+<aps>W.  Kindt, The introduction of truth predicates into first-order-languages, in &lt;em&gt;Formal semantics and pragmatics for natural languages&lt;/em&gt;, edited by F.  Guenther, Synthese language library ; 4 (Reidel, Dordrecht [U.a.], 1978), p. 359-371.</aps>
+<ama>Kindt W. The introduction of truth predicates into first-order-languages. In: Guenther F, ed. &lt;em&gt;Formal semantics and pragmatics for natural languages&lt;/em&gt;. Synthese language library ; 4. Dordrecht [u.a.]: Reidel;  1978: 359-371.</ama>
+<harvard1>Kindt, W., 1978. The introduction of truth predicates into first-order-languages. In F.  Guenther, ed. &lt;em&gt;Formal semantics and pragmatics for natural languages&lt;/em&gt;. Synthese language library ; 4.  Dordrecht [u.a.]: Reidel, pp. 359-371.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kindt, W. (1978). The introduction of truth predicates into first-order-languages (Synthese language library ; 4). &lt;em&gt;Formal semantics and pragmatics for natural languages&lt;/em&gt; (S. 359-371). Dordrecht [u.a.]: Reidel.&lt;/div&gt;</dgps>
+<default>Kindt W (1978)  &lt;br /&gt;In:  Formal semantics and pragmatics for natural languages. Guenther F (Ed); Synthese language library ; 4, . Dordrecht [u.a.]: Reidel:  359-371.</default>
+<wels>Kindt, W. (1978): The introduction of truth predicates into first-order-languages. In: Franz Guenther (Hrsg.):  Formal semantics and pragmatics for natural languages. Dordrecht [u.a.]: Reidel. (Synthese language library ; 4, ).  S. 359-371.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1782252</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1782252</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1782252</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

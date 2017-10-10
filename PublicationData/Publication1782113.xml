@@ -1,0 +1,102 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>&quot;Ich bin eine AB-Maßnahme&quot;: Beobachtungen zur Situation von Arbeitsbeschaffungs-Projekten in der Weiterbildung</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Rolf</namePart>
+  <namePart type="family">Gerhard</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Gernot</namePart>
+  <namePart type="family">Graeßner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">95235</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Gerwin</namePart><namePart type="family">Dahm</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Kontaktstelle Wissenschaftliche Weiterbildung</namePart>
+  <identifier type="unibi">10059</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT2965.pdf">https://pub.uni-bielefeld.de/download/1782113/2313664</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Kösel</publisher><dateIssued encoding="w3cdtf">1981</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Thema Management und Verwaltung</title></titleInfo>
+  <identifier type="isbn">3-466-30225-0</identifier><identifier type="urn">urn:nbn:de:0070-bipr-29651</identifier>
+<part><extent unit="pages">83-96</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Gerhard R, Graeßner G. &quot;Ich bin eine AB-Maßnahme&quot;: Beobachtungen zur Situation von Arbeitsbeschaffungs-Projekten in der Weiterbildung. In: Dahm G, ed. &lt;em&gt;Thema Management und Verwaltung&lt;/em&gt;. Werkstatt Weiterbildung ; 1. München: Kösel;  1981: 83-96.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gerhard, R. &amp;amp; Graeßner, G. (1981). &quot;Ich bin eine AB-Maßnahme&quot;: Beobachtungen zur Situation von Arbeitsbeschaffungs-Projekten in der Weiterbildung (Werkstatt Weiterbildung ; 1). &lt;em&gt;Thema Management und Verwaltung&lt;/em&gt; (S. 83-96). München: Kösel.&lt;/div&gt;</dgps>
+<harvard1>Gerhard, R., &amp;amp; Graeßner, G., 1981. &quot;Ich bin eine AB-Maßnahme&quot;: Beobachtungen zur Situation von Arbeitsbeschaffungs-Projekten in der Weiterbildung. In G.  Dahm, ed. &lt;em&gt;Thema Management und Verwaltung&lt;/em&gt;. Werkstatt Weiterbildung ; 1.  München: Kösel, pp. 83-96.</harvard1>
+<aps>R.  Gerhard and G.  Graeßner, &quot;Ich bin eine AB-Maßnahme&quot;: Beobachtungen zur Situation von Arbeitsbeschaffungs-Projekten in der Weiterbildung, in &lt;em&gt;Thema Management und Verwaltung&lt;/em&gt;, edited by G.  Dahm, Werkstatt Weiterbildung ; 1 (Kösel, München, 1981), p. 83-96.</aps>
+<bio1>Gerhard R, Graeßner G (1981) &lt;br /&gt;&quot;Ich bin eine AB-Maßnahme&quot;: Beobachtungen zur Situation von Arbeitsbeschaffungs-Projekten in der Weiterbildung. &lt;br /&gt;In:  Thema Management und Verwaltung. Dahm G (Ed); Werkstatt Weiterbildung ; 1,  München: Kösel:  83-96.</bio1>
+<wels>Gerhard, R.; Graeßner, G. (1981): &quot;Ich bin eine AB-Maßnahme&quot;: Beobachtungen zur Situation von Arbeitsbeschaffungs-Projekten in der Weiterbildung. In: Gerwin Dahm (Hrsg.):  Thema Management und Verwaltung. München: Kösel. (Werkstatt Weiterbildung ; 1, ).  S. 83-96.</wels>
+<default>Gerhard R, Graeßner G (1981)  &lt;br /&gt;In:  Thema Management und Verwaltung. Dahm G (Ed); Werkstatt Weiterbildung ; 1, . München: Kösel:  83-96.</default>
+<ieee>R. Gerhard and G. Graeßner, “&quot;Ich bin eine AB-Maßnahme&quot;: Beobachtungen zur Situation von Arbeitsbeschaffungs-Projekten in der Weiterbildung”, &lt;em&gt;Thema Management und Verwaltung&lt;/em&gt;, G. Dahm, ed., Werkstatt Weiterbildung ; 1,  München: Kösel, 1981,  pp.83-96.</ieee>
+<lncs>Gerhard, R., Graeßner, G.: &quot;Ich bin eine AB-Maßnahme&quot;: Beobachtungen zur Situation von Arbeitsbeschaffungs-Projekten in der Weiterbildung. In: Dahm, G. (ed.) Thema Management und Verwaltung. Werkstatt Weiterbildung ; 1. p. 83-96. Kösel, München (1981).</lncs>
+<mla>Gerhard, Rolf, and Graeßner, Gernot. “&quot;Ich bin eine AB-Maßnahme&quot;: Beobachtungen zur Situation von Arbeitsbeschaffungs-Projekten in der Weiterbildung”. &lt;em&gt;Thema Management und Verwaltung&lt;/em&gt;. Ed. Gerwin Dahm. München: Kösel, 1981. Werkstatt Weiterbildung ; 1. 83-96.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gerhard, R., &amp;amp; Graeßner, G. (1981). &quot;Ich bin eine AB-Maßnahme&quot;: Beobachtungen zur Situation von Arbeitsbeschaffungs-Projekten in der Weiterbildung. In G.  Dahm (Ed.), &lt;em&gt;Werkstatt Weiterbildung ; 1&lt;/em&gt;&lt;em&gt;. Thema Management und Verwaltung&lt;/em&gt; (pp. 83-96). München: Kösel.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>R.  Gerhard, and G.  Graeßner, in &lt;em&gt;Thema Management und Verwaltung&lt;/em&gt; (Ed.: G. Dahm), Kösel, München, &lt;strong&gt;1981&lt;/strong&gt;, p. 83-96.</angewandte-chemie>
+<apa>Gerhard, R., &amp;amp; Graeßner, G. (1981). &quot;Ich bin eine AB-Maßnahme&quot;: Beobachtungen zur Situation von Arbeitsbeschaffungs-Projekten in der Weiterbildung. In G.  Dahm (Ed.), &lt;em&gt;Werkstatt Weiterbildung ; 1&lt;/em&gt;&lt;em&gt;. Thema Management und Verwaltung&lt;/em&gt; (pp. 83-96). München: Kösel.</apa>
+<frontiers>Gerhard, R., and Graeßner, G. (1981). “&quot;Ich bin eine AB-Maßnahme&quot;: Beobachtungen zur Situation von Arbeitsbeschaffungs-Projekten in der Weiterbildung” in &lt;em&gt;Thema Management und Verwaltung&lt;/em&gt;, ed. G.  Dahm Werkstatt Weiterbildung ; 1 (München: Kösel), 83-96.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gerhard, Rolf, and Graeßner, Gernot. 1981. “&quot;Ich bin eine AB-Maßnahme&quot;: Beobachtungen zur Situation von Arbeitsbeschaffungs-Projekten in der Weiterbildung”. In &lt;em&gt;Thema Management und Verwaltung&lt;/em&gt;, ed. Gerwin Dahm, 83-96. Werkstatt Weiterbildung ; 1. München: Kösel.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1782113</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1782113</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1782113</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,137 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Immunisation with &apos;naive&apos; syngeneic dendritic cells protects mice from tumour challenge</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">M. J.</namePart>
+  <namePart type="family">Grimshaw</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">K.</namePart>
+  <namePart type="family">Papazisis</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">G.</namePart>
+  <namePart type="family">Picco</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">H.</namePart>
+  <namePart type="family">Bohnenkamp</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Thomas</namePart>
+  <namePart type="family">Noll</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">163841</identifier></name>
+<name type="personal">
+  <namePart type="given">J.</namePart>
+  <namePart type="family">Taylor-Papadimitriou</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J.</namePart>
+  <namePart type="family">Burchell</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Biochemie und Biotechnik</namePart>
+  <identifier type="unibi">4838684</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Zellkulturtechnik</namePart>
+  <identifier type="unibi">10045</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  T. Noll</namePart>
+  <identifier type="unibi">33086594</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Dendritic cells (DCs) &apos;pulsed&apos; with an appropriate antigen may elicit an antitumour immune response in mouse models. However, while attempting to develop a DC immunotherapy protocol for the treatment of breast cancer based on the tumour-associated MUC1 glycoforms, we found that unpulsed DCs can affect tumour growth. Protection from RMA-MUC1 tumour challenge was achieved in C57Bl/6 MUC1 transgenic mice by immunising with syngeneic DCs pulsed with a MUC1 peptide. However, unpulsed DCs gave a similar level of protection, making it impossible to evaluate the effect of immunisation of mice with DCs pulsed with the specific peptide. Balb/C mice could also be protected from tumour challenge by immunisation with unpulsed DCs prior to challenge with murine mammary tumour cells (410.4) or these cells transfected with MUC1 (E3). Protection was achieved with as few as three injections of 50 000 naive DCs per mouse per week, was not dependent on injection route, and was not specific to cell lines expressing human MUC1. However, the use of Rag2-knockout mice demonstrated that the adaptive immune response was required for tumour rejection. Injection of unpulsed DCs into mice bearing the E3 tumour slowed tumour growth. In vitro, production of IFN-gamma and IL-4 was increased in splenic cells isolated from mice immunised with DCs. Depleting CD4 T cells in vitro partially decreased cytokine production by splenocytes, but CD8 depletion had no effect. This paper shows that naive syngeneic DCs may induce an antitumour immune response and has implications for DC immunotherapy preclinical and clinical trials.</abstract>
+
+<originInfo><publisher>NATURE PUBLISHING GROUP</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>MUC1</topic><topic>immunotherapy</topic><topic>dendritic cell</topic><topic>breast cancer</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>British Journal of Cancer</title></titleInfo>
+  <identifier type="issn">0007-0920</identifier>
+  <identifier type="eIssn">1532-1827</identifier>
+  <identifier type="MEDLINE">18253127</identifier>
+  <identifier type="ISI">000253219700016</identifier><identifier type="doi">10.1038/sj.bjc.6604221</identifier>
+<part><detail type="volume"><number>98</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">784-791</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Grimshaw, M. J., Papazisis, K., Picco, G., Bohnenkamp, H., Noll, T., Taylor-Papadimitriou, J., &amp;amp; Burchell, J. (2008). Immunisation with &apos;naive&apos; syngeneic dendritic cells protects mice from tumour challenge. &lt;em&gt;British Journal of Cancer&lt;/em&gt;, &lt;em&gt;98&lt;/em&gt;(4), 784-791.&lt;/div&gt;</apa_indent>
+<mla>Grimshaw, M. J., Papazisis, K., Picco, G., Bohnenkamp, H., Noll, Thomas, Taylor-Papadimitriou, J., and Burchell, J. “Immunisation with &apos;naive&apos; syngeneic dendritic cells protects mice from tumour challenge”. &lt;em&gt;British Journal of Cancer&lt;/em&gt; 98.4 (2008): 784-791.</mla>
+<lncs>Grimshaw, M.J., Papazisis, K., Picco, G., Bohnenkamp, H., Noll, T., Taylor-Papadimitriou, J., Burchell, J.: Immunisation with &apos;naive&apos; syngeneic dendritic cells protects mice from tumour challenge. British Journal of Cancer. 98, 784-791 (2008).</lncs>
+<ieee>M.J. Grimshaw, et al., “Immunisation with &apos;naive&apos; syngeneic dendritic cells protects mice from tumour challenge”, &lt;em&gt;British Journal of Cancer&lt;/em&gt;,  vol. 98, 2008,  pp. 784-791.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Grimshaw, M. J., Papazisis, K., Picco, G., Bohnenkamp, H., Noll, Thomas, Taylor-Papadimitriou, J., and Burchell, J. 2008. “Immunisation with &apos;naive&apos; syngeneic dendritic cells protects mice from tumour challenge”. &lt;em&gt;British Journal of Cancer&lt;/em&gt; 98 (4): 784-791.&lt;/div&gt;</chicago>
+<frontiers>Grimshaw, M. J., Papazisis, K., Picco, G., Bohnenkamp, H., Noll, T., Taylor-Papadimitriou, J., and Burchell, J. (2008). Immunisation with &apos;naive&apos; syngeneic dendritic cells protects mice from tumour challenge. &lt;em&gt;British Journal of Cancer&lt;/em&gt; 98, 784-791.</frontiers>
+<apa>Grimshaw, M. J., Papazisis, K., Picco, G., Bohnenkamp, H., Noll, T., Taylor-Papadimitriou, J., &amp;amp; Burchell, J. (2008). Immunisation with &apos;naive&apos; syngeneic dendritic cells protects mice from tumour challenge. &lt;em&gt;British Journal of Cancer&lt;/em&gt;, &lt;em&gt;98&lt;/em&gt;(4), 784-791.</apa>
+<angewandte-chemie>M. J.  Grimshaw, K.  Papazisis, G.  Picco, H.  Bohnenkamp, T.  Noll, J.  Taylor-Papadimitriou, and J.  Burchell, “Immunisation with &apos;naive&apos; syngeneic dendritic cells protects mice from tumour challenge”, &lt;em&gt;British Journal of Cancer&lt;/em&gt;, &lt;strong&gt;2008&lt;/strong&gt;, &lt;em&gt;98&lt;/em&gt;, 784-791.</angewandte-chemie>
+<bio1>Grimshaw MJ, Papazisis K, Picco G, Bohnenkamp H, Noll T, Taylor-Papadimitriou J, Burchell J (2008) &lt;br /&gt;Immunisation with &apos;naive&apos; syngeneic dendritic cells protects mice from tumour challenge.&lt;br /&gt;British Journal of Cancer 98(4): 784-791.</bio1>
+<aps>M. J.  Grimshaw, et al., Immunisation with &apos;naive&apos; syngeneic dendritic cells protects mice from tumour challenge, British Journal of Cancer &lt;strong&gt;98&lt;/strong&gt;, 784-791 (2008).</aps>
+<harvard1>Grimshaw, M.J., et al., 2008. Immunisation with &apos;naive&apos; syngeneic dendritic cells protects mice from tumour challenge. &lt;em&gt;British Journal of Cancer&lt;/em&gt;, 98(4), p 784-791.</harvard1>
+<ama>Grimshaw MJ, Papazisis K, Picco G, et al. Immunisation with &apos;naive&apos; syngeneic dendritic cells protects mice from tumour challenge. &lt;em&gt;British Journal of Cancer&lt;/em&gt;. 2008;98(4):784-791.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Grimshaw, M.J., Papazisis, K., Picco, G., Bohnenkamp, H., Noll, T., Taylor-Papadimitriou, J. &amp;amp; Burchell, J. (2008). Immunisation with &apos;naive&apos; syngeneic dendritic cells protects mice from tumour challenge. &lt;em&gt;British Journal of Cancer&lt;/em&gt;, &lt;em&gt;98&lt;/em&gt;(4), 784-791. NATURE PUBLISHING GROUP. doi:10.1038/sj.bjc.6604221.&lt;/div&gt;</dgps>
+<default>Grimshaw MJ, Papazisis K, Picco G, Bohnenkamp H, Noll T, Taylor-Papadimitriou J, Burchell J (2008) &lt;br /&gt;British Journal of Cancer 98(4): 784-791.</default>
+<wels>Grimshaw, M. J.; Papazisis, K.; Picco, G.; Bohnenkamp, H.; Noll, T.; Taylor-Papadimitriou, J.; Burchell, J. (2008): Immunisation with &apos;naive&apos; syngeneic dendritic cells protects mice from tumour challenge &lt;em&gt;British Journal of Cancer&lt;/em&gt;,98:(4): 784-791.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1592705</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T11:50:48Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2012-01-24T17:51:07Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1592705</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1592705</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

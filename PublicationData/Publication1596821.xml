@@ -1,0 +1,147 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Long-term field release of bioluminescent Sinorhizobium meliloti strains to assess the influence of a recA mutation on the strains&apos; survival</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Werner</namePart>
+  <namePart type="family">Selbitschka</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">22010</identifier></name>
+<name type="personal">
+  <namePart type="given">M.</namePart>
+  <namePart type="family">Keller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">R.</namePart>
+  <namePart type="family">Miethling-Graff</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">U.</namePart>
+  <namePart type="family">Dresing</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">F.</namePart>
+  <namePart type="family">Schwieger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">I.</namePart>
+  <namePart type="family">Krahn</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">I.</namePart>
+  <namePart type="family">Homann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">T.</namePart>
+  <namePart type="family">Dammann-Kalinowski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alfred</namePart>
+  <namePart type="family">Pühler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21937</identifier></name>
+<name type="personal">
+  <namePart type="given">C. C.</namePart>
+  <namePart type="family">Tebbe</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070639</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">A field release experiment was carried out to study the fate of the isogenic, firefly luciferase (luc) gene-tagged Sinorhizobium meliloti strains L1 (RecA(-)) and L33 (RecA(+)) in the environment. Both strains were released at concentrations of approximately 10(6) cfu g(-1) soil in replicate and randomized field plots, which had been sown with alfalfa (Medicago sativa). The survival of both strains during the following 7 years could be subdivided into three phases: a sharp decline for more than two orders of magnitude within the first 4 months (phase I), followed by fluctuations around an average number of 10(4) cfu g(-1) soil for nearly 4 years (phase II), and a further decline to approximately 60 cfu g(-1) (phase III). At most sampling dates, no significant differences in the survival of both strains were detected, indicating that the recA gene function was dispensable under these environmental conditions. During the field inoculation, both strains were dispersed accidentally by wind in small numbers to noninoculated field plots. Strain L33 established at a concentration of more than 10(3) cfu g(-1) soil with subsequent seasonal fluctuations. Although strain L1 must have been disseminated to a similar extent, it could never be recovered from noninoculated field plots, indicating that the recA mutation interfered with the strain&apos;s capability to establish there. At the beginning of the field experiment, an indigenous alfalfa-nodulating population was below the limit of detection. In the following years, however, an indigenous population arose, which finally outcompeted both strains for saprophytic growth and alfalfa nodulation. RecA(-) strain L1 was outcompeted for alfalfa nodulation slightly faster than its RecA(+) counterpart L33. The diversity of the indigenous population was characterized by employing the Enterobacterial Repetitive Intergenic Consensus polymerase chain reaction fingerprint method. Typing of 2731 root nodule isolates revealed a total of 38 fingerprint groups. More than 80% of the isolates could be grouped into six dominant fingerprint groups, indicating that a few dominant bacterial strain types had outcompeted the released strains.</abstract>
+
+<originInfo><publisher>SPRINGER</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>MICROBIAL ECOLOGY</title></titleInfo>
+  <identifier type="issn">0095-3628</identifier>
+  <identifier type="eIssn">1432-184X</identifier>
+  <identifier type="MEDLINE">16924432</identifier>
+  <identifier type="ISI">000242464700023</identifier><identifier type="doi">10.1007/s00248-006-9056-6</identifier>
+<part><detail type="volume"><number>52</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">583-595</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee> W. Selbitschka, et al., “Long-term field release of bioluminescent Sinorhizobium meliloti strains to assess the influence of a recA mutation on the strains&apos; survival”, &lt;em&gt;MICROBIAL ECOLOGY&lt;/em&gt;,  vol. 52, 2006,  pp. 583-595.</ieee>
+<mla>Selbitschka, Werner, Keller, M., Miethling-Graff, R., Dresing, U., Schwieger, F., Krahn, I., Homann, I., Dammann-Kalinowski, T., Pühler, Alfred, and Tebbe, C. C. “Long-term field release of bioluminescent Sinorhizobium meliloti strains to assess the influence of a recA mutation on the strains&apos; survival”. &lt;em&gt;MICROBIAL ECOLOGY&lt;/em&gt; 52.3 (2006): 583-595.</mla>
+<lncs> Selbitschka, W., Keller, M., Miethling-Graff, R., Dresing, U., Schwieger, F., Krahn, I., Homann, I., Dammann-Kalinowski, T., Pühler, A., Tebbe, C.C.: Long-term field release of bioluminescent Sinorhizobium meliloti strains to assess the influence of a recA mutation on the strains&apos; survival. MICROBIAL ECOLOGY. 52, 583-595 (2006).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Selbitschka, W., Keller, M., Miethling-Graff, R., Dresing, U., Schwieger, F., Krahn, I., Homann, I., et al. (2006). Long-term field release of bioluminescent Sinorhizobium meliloti strains to assess the influence of a recA mutation on the strains&apos; survival. &lt;em&gt;MICROBIAL ECOLOGY&lt;/em&gt;, &lt;em&gt;52&lt;/em&gt;(3), 583-595.&lt;/div&gt;</apa_indent>
+<apa>Selbitschka, W., Keller, M., Miethling-Graff, R., Dresing, U., Schwieger, F., Krahn, I., Homann, I., et al. (2006). Long-term field release of bioluminescent Sinorhizobium meliloti strains to assess the influence of a recA mutation on the strains&apos; survival. &lt;em&gt;MICROBIAL ECOLOGY&lt;/em&gt;, &lt;em&gt;52&lt;/em&gt;(3), 583-595.</apa>
+<angewandte-chemie>W.  Selbitschka, M.  Keller, R.  Miethling-Graff, U.  Dresing, F.  Schwieger, I.  Krahn, I.  Homann, T.  Dammann-Kalinowski, A.  Pühler, and C. C.  Tebbe, “Long-term field release of bioluminescent Sinorhizobium meliloti strains to assess the influence of a recA mutation on the strains&apos; survival”, &lt;em&gt;MICROBIAL ECOLOGY&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;52&lt;/em&gt;, 583-595.</angewandte-chemie>
+<frontiers>Selbitschka, W., Keller, M., Miethling-Graff, R., Dresing, U., Schwieger, F., Krahn, I., Homann, I., Dammann-Kalinowski, T., Pühler, A., and Tebbe, C. C. (2006). Long-term field release of bioluminescent Sinorhizobium meliloti strains to assess the influence of a recA mutation on the strains&apos; survival. &lt;em&gt;MICROBIAL ECOLOGY&lt;/em&gt; 52, 583-595.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Selbitschka, Werner, Keller, M., Miethling-Graff, R., Dresing, U., Schwieger, F., Krahn, I., Homann, I., Dammann-Kalinowski, T., Pühler, Alfred, and Tebbe, C. C. 2006. “Long-term field release of bioluminescent Sinorhizobium meliloti strains to assess the influence of a recA mutation on the strains&apos; survival”. &lt;em&gt;MICROBIAL ECOLOGY&lt;/em&gt; 52 (3): 583-595.&lt;/div&gt;</chicago>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Selbitschka, W., Keller, M., Miethling-Graff, R., Dresing, U., Schwieger, F., Krahn, I., Homann, I., Dammann-Kalinowski, T., Pühler, A. &amp;amp; Tebbe, C.C. (2006). Long-term field release of bioluminescent Sinorhizobium meliloti strains to assess the influence of a recA mutation on the strains&apos; survival. &lt;em&gt;MICROBIAL ECOLOGY&lt;/em&gt;, &lt;em&gt;52&lt;/em&gt;(3), 583-595. SPRINGER. doi:10.1007/s00248-006-9056-6.&lt;/div&gt;</dgps>
+<ama>Selbitschka W, Keller M, Miethling-Graff R, et al. Long-term field release of bioluminescent Sinorhizobium meliloti strains to assess the influence of a recA mutation on the strains&apos; survival. &lt;em&gt;MICROBIAL ECOLOGY&lt;/em&gt;. 2006;52(3):583-595.</ama>
+<harvard1>Selbitschka, W., et al., 2006. Long-term field release of bioluminescent Sinorhizobium meliloti strains to assess the influence of a recA mutation on the strains&apos; survival. &lt;em&gt;MICROBIAL ECOLOGY&lt;/em&gt;, 52(3), p 583-595.</harvard1>
+<bio1>Selbitschka W, Keller M, Miethling-Graff R, Dresing U, Schwieger F, Krahn I, Homann I, Dammann-Kalinowski T, Pühler A, Tebbe CC (2006) &lt;br /&gt;Long-term field release of bioluminescent Sinorhizobium meliloti strains to assess the influence of a recA mutation on the strains&apos; survival.&lt;br /&gt;MICROBIAL ECOLOGY 52(3): 583-595.</bio1>
+<aps> W.  Selbitschka, et al., Long-term field release of bioluminescent Sinorhizobium meliloti strains to assess the influence of a recA mutation on the strains&apos; survival, MICROBIAL ECOLOGY &lt;strong&gt;52&lt;/strong&gt;, 583-595 (2006).</aps>
+<wels>Selbitschka, W.; Keller, M.; Miethling-Graff, R.; Dresing, U.; Schwieger, F.; Krahn, I.; Homann, I.; Dammann-Kalinowski, T.; Pühler, A.; Tebbe, C. C. (2006): Long-term field release of bioluminescent Sinorhizobium meliloti strains to assess the influence of a recA mutation on the strains&apos; survival &lt;em&gt;MICROBIAL ECOLOGY&lt;/em&gt;,52:(3): 583-595.</wels>
+<default>Selbitschka W, Keller M, Miethling-Graff R, Dresing U, Schwieger F, Krahn I, Homann I, Dammann-Kalinowski T, Pühler A, Tebbe CC (2006) &lt;br /&gt;MICROBIAL ECOLOGY 52(3): 583-595.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1596821</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:18:33Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-11T09:50:20Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1596821</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1596821</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

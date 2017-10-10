@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Das individualistische Forschungsprogramm in den Sozialwissenschaften (rational choice)</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Jost</namePart>
+  <namePart type="family">Reinecke</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">182452</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Georg</namePart><namePart type="family">Kneer</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für interdisziplinäre Konflikt- und Gewaltforschung</namePart>
+  <identifier type="unibi">10058</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Arbeitsbereich 2 - Methoden</namePart>
+  <identifier type="unibi">5656025</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Reinecke_008.pdf">https://pub.uni-bielefeld.de/download/1780829/2313045</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Lit</publisher><dateIssued encoding="w3cdtf">1994</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Soziologie: Zugänge zur Gesellschaft</title></titleInfo>
+  <identifier type="isbn">3-89473-420-5</identifier><identifier type="urn">urn:nbn:de:0070-bipr-22355</identifier>
+<part><detail type="volume"><number>vol. 1: Geschichte, Theorien und Methoden</number></detail><extent unit="pages">247-270</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Reinecke, J. (1994). Das individualistische Forschungsprogramm in den Sozialwissenschaften (rational choice) (Münsteraner Einführungen: Soziologie). &lt;em&gt;Soziologie: Zugänge zur Gesellschaft&lt;/em&gt; (S. 247-270). Münster: Lit.&lt;/div&gt;</dgps>
+<harvard1>Reinecke, J., 1994. Das individualistische Forschungsprogramm in den Sozialwissenschaften (rational choice). In G.  Kneer, ed. &lt;em&gt;Soziologie: Zugänge zur Gesellschaft&lt;/em&gt;. Münsteraner Einführungen: Soziologie. no.vol. 1: Geschichte, Theorien und Methoden  Münster: Lit, pp. 247-270.</harvard1>
+<ama>Reinecke J. Das individualistische Forschungsprogramm in den Sozialwissenschaften (rational choice). In: Kneer G, ed. &lt;em&gt;Soziologie: Zugänge zur Gesellschaft&lt;/em&gt;. Münsteraner Einführungen: Soziologie. Vol vol. 1: Geschichte, Theorien und Methoden. Münster: Lit;  1994: 247-270.</ama>
+<bio1>Reinecke J (1994) &lt;br /&gt;Das individualistische Forschungsprogramm in den Sozialwissenschaften (rational choice). &lt;br /&gt;In:  Soziologie: Zugänge zur Gesellschaft. Kneer G (Ed); Münsteraner Einführungen: Soziologie, vol. 1: Geschichte, Theorien und Methoden. Münster: Lit:  247-270.</bio1>
+<aps>J.  Reinecke, Das individualistische Forschungsprogramm in den Sozialwissenschaften (rational choice), in &lt;em&gt;Soziologie: Zugänge zur Gesellschaft&lt;/em&gt;, edited by G.  Kneer, Münsteraner Einführungen: Soziologie, &lt;strong&gt;vol. 1: Geschichte, Theorien und Methoden&lt;/strong&gt; (Lit, Münster, 1994), p. 247-270.</aps>
+<wels>Reinecke, J. (1994): Das individualistische Forschungsprogramm in den Sozialwissenschaften (rational choice). In: Georg Kneer (Hrsg.):  Soziologie: Zugänge zur Gesellschaft. Münster: Lit. (Münsteraner Einführungen: Soziologie, vol. 1: Geschichte, Theorien und Methoden).  S. 247-270.</wels>
+<default>Reinecke J (1994)  &lt;br /&gt;In:  Soziologie: Zugänge zur Gesellschaft. Kneer G (Ed); Münsteraner Einführungen: Soziologie, vol. 1: Geschichte, Theorien und Methoden. Münster: Lit:  247-270.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Reinecke, J. (1994). Das individualistische Forschungsprogramm in den Sozialwissenschaften (rational choice). In G.  Kneer (Ed.), &lt;em&gt;Münsteraner Einführungen: Soziologie: Vol. vol. 1: Geschichte, Theorien und Methoden&lt;/em&gt;&lt;em&gt;. Soziologie: Zugänge zur Gesellschaft&lt;/em&gt; (pp. 247-270). Münster: Lit.&lt;/div&gt;</apa_indent>
+<ieee>J. Reinecke, “Das individualistische Forschungsprogramm in den Sozialwissenschaften (rational choice)”, &lt;em&gt;Soziologie: Zugänge zur Gesellschaft&lt;/em&gt;, G. Kneer, ed., Münsteraner Einführungen: Soziologie, vol. vol. 1: Geschichte, Theorien und Methoden,  Münster: Lit, 1994,  pp.247-270.</ieee>
+<lncs>Reinecke, J.: Das individualistische Forschungsprogramm in den Sozialwissenschaften (rational choice). In: Kneer, G. (ed.) Soziologie: Zugänge zur Gesellschaft. Münsteraner Einführungen: Soziologie. vol. 1: Geschichte, Theorien und Methoden, p. 247-270. Lit, Münster (1994).</lncs>
+<mla>Reinecke, Jost. “Das individualistische Forschungsprogramm in den Sozialwissenschaften (rational choice)”. &lt;em&gt;Soziologie: Zugänge zur Gesellschaft&lt;/em&gt;. Ed. Georg Kneer. Münster: Lit, 1994.Vol. vol. 1: Geschichte, Theorien und Methoden. Münsteraner Einführungen: Soziologie. 247-270.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Reinecke, Jost. 1994. “Das individualistische Forschungsprogramm in den Sozialwissenschaften (rational choice)”. In &lt;em&gt;Soziologie: Zugänge zur Gesellschaft&lt;/em&gt;, ed. Georg Kneer, vol. 1: Geschichte, Theorien und Methoden:247-270. Münsteraner Einführungen: Soziologie. Münster: Lit.&lt;/div&gt;</chicago>
+<angewandte-chemie>J.  Reinecke, in &lt;em&gt;Soziologie: Zugänge zur Gesellschaft&lt;/em&gt; (Ed.: G. Kneer), Lit, Münster, &lt;strong&gt;1994&lt;/strong&gt;, p. 247-270.</angewandte-chemie>
+<apa>Reinecke, J. (1994). Das individualistische Forschungsprogramm in den Sozialwissenschaften (rational choice). In G.  Kneer (Ed.), &lt;em&gt;Münsteraner Einführungen: Soziologie: Vol. vol. 1: Geschichte, Theorien und Methoden&lt;/em&gt;&lt;em&gt;. Soziologie: Zugänge zur Gesellschaft&lt;/em&gt; (pp. 247-270). Münster: Lit.</apa>
+<frontiers>Reinecke, J. (1994). “Das individualistische Forschungsprogramm in den Sozialwissenschaften (rational choice)” in &lt;em&gt;Soziologie: Zugänge zur Gesellschaft&lt;/em&gt;, ed. G.  Kneer Münsteraner Einführungen: Soziologie, vol. vol. 1: Geschichte, Theorien und Methoden, (Münster: Lit), 247-270.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780829</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780829</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780829</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

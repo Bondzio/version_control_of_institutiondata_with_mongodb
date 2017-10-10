@@ -1,0 +1,104 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Zur aktuellen Lage der Weltbevölkerung</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Herwig</namePart>
+  <namePart type="family">Birg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">13197</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Emeriti und pensionierte WissenschaftlerInnen</namePart>
+  <identifier type="unibi">4009911</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bevölkerungs- und Gesundheitsforschung</namePart>
+  <identifier type="unibi">10056</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT4395.pdf">https://pub.uni-bielefeld.de/download/1785237/2314804</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">2004</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Informationen zur politischen Bildung</title></titleInfo>
+  <identifier type="issn">0046-9408</identifier><identifier type="urn">urn:nbn:de:0070-bipr-43952</identifier>
+<part><detail type="volume"><number>2004</number></detail><detail type="issue"><number>282</number></detail><extent unit="pages">16-28</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Birg H. Zur aktuellen Lage der Weltbevölkerung. &lt;em&gt;Informationen zur politischen Bildung&lt;/em&gt;. 2004;2004(282):16-28.</ama>
+<harvard1>Birg, H., 2004. Zur aktuellen Lage der Weltbevölkerung. &lt;em&gt;Informationen zur politischen Bildung&lt;/em&gt;, 2004(282), p 16-28.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Birg, H. (2004). Zur aktuellen Lage der Weltbevölkerung. &lt;em&gt;Informationen zur politischen Bildung&lt;/em&gt;, &lt;em&gt;2004&lt;/em&gt;(282), 16-28.&lt;/div&gt;</dgps>
+<aps>H.  Birg, Zur aktuellen Lage der Weltbevölkerung, Informationen zur politischen Bildung &lt;strong&gt;2004&lt;/strong&gt;, 16-28 (2004).</aps>
+<bio1>Birg H (2004) &lt;br /&gt;Zur aktuellen Lage der Weltbevölkerung.&lt;br /&gt;Informationen zur politischen Bildung 2004(282): 16-28.</bio1>
+<wels>Birg, H. (2004): Zur aktuellen Lage der Weltbevölkerung &lt;em&gt;Informationen zur politischen Bildung&lt;/em&gt;,2004:(282): 16-28.</wels>
+<default>Birg H (2004) &lt;br /&gt;Informationen zur politischen Bildung 2004(282): 16-28.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Birg, H. (2004). Zur aktuellen Lage der Weltbevölkerung. &lt;em&gt;Informationen zur politischen Bildung&lt;/em&gt;, &lt;em&gt;2004&lt;/em&gt;(282), 16-28.&lt;/div&gt;</apa_indent>
+<ieee>H. Birg, “Zur aktuellen Lage der Weltbevölkerung”, &lt;em&gt;Informationen zur politischen Bildung&lt;/em&gt;,  vol. 2004, 2004,  pp. 16-28.</ieee>
+<lncs>Birg, H.: Zur aktuellen Lage der Weltbevölkerung. Informationen zur politischen Bildung. 2004, 16-28 (2004).</lncs>
+<mla>Birg, Herwig. “Zur aktuellen Lage der Weltbevölkerung”. &lt;em&gt;Informationen zur politischen Bildung&lt;/em&gt; 2004.282 (2004): 16-28.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Birg, Herwig. 2004. “Zur aktuellen Lage der Weltbevölkerung”. &lt;em&gt;Informationen zur politischen Bildung&lt;/em&gt; 2004 (282): 16-28.&lt;/div&gt;</chicago>
+<angewandte-chemie>H.  Birg, “Zur aktuellen Lage der Weltbevölkerung”, &lt;em&gt;Informationen zur politischen Bildung&lt;/em&gt;, &lt;strong&gt;2004&lt;/strong&gt;, &lt;em&gt;2004&lt;/em&gt;, 16-28.</angewandte-chemie>
+<apa>Birg, H. (2004). Zur aktuellen Lage der Weltbevölkerung. &lt;em&gt;Informationen zur politischen Bildung&lt;/em&gt;, &lt;em&gt;2004&lt;/em&gt;(282), 16-28.</apa>
+<frontiers>Birg, H. (2004). Zur aktuellen Lage der Weltbevölkerung. &lt;em&gt;Informationen zur politischen Bildung&lt;/em&gt; 2004, 16-28.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1785237</recordIdentifier><recordChangeDate encoding="w3cdtf">2014-02-06T11:26:54Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1785237</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1785237</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

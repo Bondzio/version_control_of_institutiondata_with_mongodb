@@ -1,0 +1,102 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Experimental platform for visuo-motor control of a robot hand using neural networks</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Jörg</namePart>
+  <namePart type="family">Walter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Helge</namePart>
+  <namePart type="family">Ritter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">91130</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Bertil</namePart><namePart type="family">Svensson</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>AG Neuroinformatik</namePart>
+  <identifier type="unibi">10038</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT3407.pdf">https://pub.uni-bielefeld.de/download/1782942/2314069</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Centre for Computer Architecture, Univ.</publisher><dateIssued encoding="w3cdtf">1993</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Preprints of the International Workshop on Mechatronical Computer Systems for Perception and Action</title></titleInfo>
+  <identifier type="isbn">91-630-1847-0</identifier><identifier type="urn">urn:nbn:de:0070-bipr-34076</identifier>
+<part><extent unit="pages">121-122</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Walter, J., and Ritter, H. (1993). “Experimental platform for visuo-motor control of a robot hand using neural networks” in &lt;em&gt;Preprints of the International Workshop on Mechatronical Computer Systems for Perception and Action&lt;/em&gt;, ed. B.  Svensson (Halmstad: Centre for Computer Architecture, Univ.), 121-122.</frontiers>
+<apa>Walter, J., &amp;amp; Ritter, H. (1993). Experimental platform for visuo-motor control of a robot hand using neural networks. In B.  Svensson (Ed.), &lt;em&gt;Preprints of the International Workshop on Mechatronical Computer Systems for Perception and Action&lt;/em&gt; (pp. 121-122). Halmstad: Centre for Computer Architecture, Univ.</apa>
+<angewandte-chemie>J.  Walter, and H.  Ritter, in &lt;em&gt;Preprints of the International Workshop on Mechatronical Computer Systems for Perception and Action&lt;/em&gt; (Ed.: B. Svensson), Centre For Computer Architecture, Univ., Halmstad, &lt;strong&gt;1993&lt;/strong&gt;, p. 121-122.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Walter, Jörg, and Ritter, Helge. 1993. “Experimental platform for visuo-motor control of a robot hand using neural networks”. In &lt;em&gt;Preprints of the International Workshop on Mechatronical Computer Systems for Perception and Action&lt;/em&gt;, ed. Bertil Svensson, 121-122. Halmstad: Centre for Computer Architecture, Univ.&lt;/div&gt;</chicago>
+<mla>Walter, Jörg, and Ritter, Helge. “Experimental platform for visuo-motor control of a robot hand using neural networks”. &lt;em&gt;Preprints of the International Workshop on Mechatronical Computer Systems for Perception and Action&lt;/em&gt;. Ed. Bertil Svensson. Halmstad: Centre for Computer Architecture, Univ., 1993. 121-122.</mla>
+<lncs>Walter, J., Ritter, H.: Experimental platform for visuo-motor control of a robot hand using neural networks. In: Svensson, B. (ed.) Preprints of the International Workshop on Mechatronical Computer Systems for Perception and Action. p. 121-122. Centre for Computer Architecture, Univ., Halmstad (1993).</lncs>
+<ieee>J. Walter and H. Ritter, “Experimental platform for visuo-motor control of a robot hand using neural networks”, &lt;em&gt;Preprints of the International Workshop on Mechatronical Computer Systems for Perception and Action&lt;/em&gt;, B. Svensson, ed.,  Halmstad: Centre for Computer Architecture, Univ., 1993,  pp.121-122.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Walter, J., &amp;amp; Ritter, H. (1993). Experimental platform for visuo-motor control of a robot hand using neural networks. In B.  Svensson (Ed.), &lt;em&gt;Preprints of the International Workshop on Mechatronical Computer Systems for Perception and Action&lt;/em&gt; (pp. 121-122). Halmstad: Centre for Computer Architecture, Univ.&lt;/div&gt;</apa_indent>
+<default>Walter J, Ritter H (1993)  &lt;br /&gt;In:  Preprints of the International Workshop on Mechatronical Computer Systems for Perception and Action. Svensson B (Ed);Halmstad: Centre for Computer Architecture, Univ.:  121-122.</default>
+<wels>Walter, J.; Ritter, H. (1993): Experimental platform for visuo-motor control of a robot hand using neural networks. In: Bertil Svensson (Hrsg.):  Preprints of the International Workshop on Mechatronical Computer Systems for Perception and Action. Halmstad: Centre for Computer Architecture, Univ.  S. 121-122.</wels>
+<aps>J.  Walter and H.  Ritter, Experimental platform for visuo-motor control of a robot hand using neural networks, in &lt;em&gt;Preprints of the International Workshop on Mechatronical Computer Systems for Perception and Action&lt;/em&gt;, edited by B.  Svensson (Centre for Computer Architecture, Univ., Halmstad, 1993), p. 121-122.</aps>
+<bio1>Walter J, Ritter H (1993) &lt;br /&gt;Experimental platform for visuo-motor control of a robot hand using neural networks. &lt;br /&gt;In:  Preprints of the International Workshop on Mechatronical Computer Systems for Perception and Action. Svensson B (Ed); Halmstad: Centre for Computer Architecture, Univ.:  121-122.</bio1>
+<harvard1>Walter, J., &amp;amp; Ritter, H., 1993. Experimental platform for visuo-motor control of a robot hand using neural networks. In B.  Svensson, ed. &lt;em&gt;Preprints of the International Workshop on Mechatronical Computer Systems for Perception and Action&lt;/em&gt;.  Halmstad: Centre for Computer Architecture, Univ., pp. 121-122.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Walter, J. &amp;amp; Ritter, H. (1993). Experimental platform for visuo-motor control of a robot hand using neural networks. &lt;em&gt;Preprints of the International Workshop on Mechatronical Computer Systems for Perception and Action&lt;/em&gt; (S. 121-122). Halmstad: Centre for Computer Architecture, Univ.&lt;/div&gt;</dgps>
+<ama>Walter J, Ritter H. Experimental platform for visuo-motor control of a robot hand using neural networks. In: Svensson B, ed. &lt;em&gt;Preprints of the International Workshop on Mechatronical Computer Systems for Perception and Action&lt;/em&gt;. Halmstad: Centre for Computer Architecture, Univ.;  1993: 121-122.</ama>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1782942</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1782942</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1782942</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,89 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Religion in der Migration; Ein Blick auf das Einwanderungsland Deutschland</title></titleInfo>
+
+
+
+
+
+<name type="personal">
+  <namePart type="given">Jan Arendt</namePart>
+  <namePart type="family">Fuhse</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">14968729</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Arbeitsbereich 4 - Politik und Gesellschaft</namePart>
+  <identifier type="unibi">5656050</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+<relatedItem type="host"><location><url>http://www.janfuhse.de/MigrationReligion.pdf</url></location></relatedItem>
+
+<relatedItem type="host"><titleInfo><title>vorgänge 173</title></titleInfo>
+<part><extent unit="pages">54-62</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Fuhse, J. A. (2006): Religion in der Migration; Ein Blick auf das Einwanderungsland Deutschland &lt;em&gt;vorgänge 173&lt;/em&gt;, 54-62.</wels>
+<default>Fuhse JA (2006) &lt;br /&gt;vorgänge 173: 54-62.</default>
+<harvard1>Fuhse, J.A., 2006. Religion in der Migration; Ein Blick auf das Einwanderungsland Deutschland. &lt;em&gt;vorgänge 173&lt;/em&gt;, , p 54-62.</harvard1>
+<ama>Fuhse JA. Religion in der Migration; Ein Blick auf das Einwanderungsland Deutschland. &lt;em&gt;vorgänge 173&lt;/em&gt;. 2006:54-62.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fuhse, J.A. (2006). Religion in der Migration; Ein Blick auf das Einwanderungsland Deutschland. &lt;em&gt;vorgänge 173&lt;/em&gt;, 54-62.&lt;/div&gt;</dgps>
+<bio1>Fuhse JA (2006) &lt;br /&gt;Religion in der Migration; Ein Blick auf das Einwanderungsland Deutschland.&lt;br /&gt;vorgänge 173: 54-62.</bio1>
+<aps>J. A.  Fuhse, Religion in der Migration; Ein Blick auf das Einwanderungsland Deutschland, vorgänge 173 54-62 (2006).</aps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fuhse, Jan Arendt. 2006. “Religion in der Migration; Ein Blick auf das Einwanderungsland Deutschland”. &lt;em&gt;vorgänge 173&lt;/em&gt;, 54-62.&lt;/div&gt;</chicago>
+<apa>Fuhse, J. A. (2006). Religion in der Migration; Ein Blick auf das Einwanderungsland Deutschland. &lt;em&gt;vorgänge 173&lt;/em&gt;, 54-62.</apa>
+<angewandte-chemie>J. A.  Fuhse, “Religion in der Migration; Ein Blick auf das Einwanderungsland Deutschland”, &lt;em&gt;vorgänge 173&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, 54-62.</angewandte-chemie>
+<frontiers>Fuhse, J. A. (2006). Religion in der Migration; Ein Blick auf das Einwanderungsland Deutschland. &lt;em&gt;vorgänge 173&lt;/em&gt;, 54-62.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fuhse, J. A. (2006). Religion in der Migration; Ein Blick auf das Einwanderungsland Deutschland. &lt;em&gt;vorgänge 173&lt;/em&gt;, 54-62.&lt;/div&gt;</apa_indent>
+<ieee>J.A. Fuhse, “Religion in der Migration; Ein Blick auf das Einwanderungsland Deutschland”, &lt;em&gt;vorgänge 173&lt;/em&gt;, 2006,  pp. 54-62.</ieee>
+<lncs>Fuhse, J.A.: Religion in der Migration; Ein Blick auf das Einwanderungsland Deutschland. vorgänge 173. 54-62 (2006).</lncs>
+<mla>Fuhse, Jan Arendt. “Religion in der Migration; Ein Blick auf das Einwanderungsland Deutschland”. &lt;em&gt;vorgänge 173&lt;/em&gt; (2006): 54-62.</mla>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1857252</recordIdentifier><recordChangeDate encoding="w3cdtf">2010-12-13T15:00:33Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1857252</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1857252</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

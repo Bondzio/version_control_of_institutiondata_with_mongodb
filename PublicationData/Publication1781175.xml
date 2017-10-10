@@ -1,0 +1,104 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Staatsrecht und Politik</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Christoph</namePart>
+  <namePart type="family">Gusy</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21583</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Weltgesellschaft</namePart>
+  <identifier type="unibi">89044</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Fakultät für Rechtswissenschaft</namePart>
+  <identifier type="unibi">10029</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT2391.pdf">https://pub.uni-bielefeld.de/download/1781175/2313198</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1984</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Österreichische Zeitschrift für öffentliches Recht und Völkerrecht</title></titleInfo>
+  <identifier type="issn">0378-3073</identifier><identifier type="urn">urn:nbn:de:0070-bipr-23913</identifier>
+<part><detail type="volume"><number>35</number></detail><extent unit="pages">81-114</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Gusy, C. (1984): Staatsrecht und Politik &lt;em&gt;Österreichische Zeitschrift für öffentliches Recht und Völkerrecht&lt;/em&gt;,35: 81-114.</wels>
+<default>Gusy C (1984) &lt;br /&gt;Österreichische Zeitschrift für öffentliches Recht und Völkerrecht 35: 81-114.</default>
+<ama>Gusy C. Staatsrecht und Politik. &lt;em&gt;Österreichische Zeitschrift für öffentliches Recht und Völkerrecht&lt;/em&gt;. 1984;35:81-114.</ama>
+<harvard1>Gusy, C., 1984. Staatsrecht und Politik. &lt;em&gt;Österreichische Zeitschrift für öffentliches Recht und Völkerrecht&lt;/em&gt;, 35, p 81-114.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gusy, C. (1984). Staatsrecht und Politik. &lt;em&gt;Österreichische Zeitschrift für öffentliches Recht und Völkerrecht&lt;/em&gt;, &lt;em&gt;35&lt;/em&gt;, 81-114.&lt;/div&gt;</dgps>
+<bio1>Gusy C (1984) &lt;br /&gt;Staatsrecht und Politik.&lt;br /&gt;Österreichische Zeitschrift für öffentliches Recht und Völkerrecht 35: 81-114.</bio1>
+<aps>C.  Gusy, Staatsrecht und Politik, Österreichische Zeitschrift für öffentliches Recht und Völkerrecht &lt;strong&gt;35&lt;/strong&gt;, 81-114 (1984).</aps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gusy, Christoph. 1984. “Staatsrecht und Politik”. &lt;em&gt;Österreichische Zeitschrift für öffentliches Recht und Völkerrecht&lt;/em&gt; 35: 81-114.&lt;/div&gt;</chicago>
+<angewandte-chemie>C.  Gusy, “Staatsrecht und Politik”, &lt;em&gt;Österreichische Zeitschrift für öffentliches Recht und Völkerrecht&lt;/em&gt;, &lt;strong&gt;1984&lt;/strong&gt;, &lt;em&gt;35&lt;/em&gt;, 81-114.</angewandte-chemie>
+<apa>Gusy, C. (1984). Staatsrecht und Politik. &lt;em&gt;Österreichische Zeitschrift für öffentliches Recht und Völkerrecht&lt;/em&gt;, &lt;em&gt;35&lt;/em&gt;, 81-114.</apa>
+<frontiers>Gusy, C. (1984). Staatsrecht und Politik. &lt;em&gt;Österreichische Zeitschrift für öffentliches Recht und Völkerrecht&lt;/em&gt; 35, 81-114.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gusy, C. (1984). Staatsrecht und Politik. &lt;em&gt;Österreichische Zeitschrift für öffentliches Recht und Völkerrecht&lt;/em&gt;, &lt;em&gt;35&lt;/em&gt;, 81-114.&lt;/div&gt;</apa_indent>
+<ieee>C. Gusy, “Staatsrecht und Politik”, &lt;em&gt;Österreichische Zeitschrift für öffentliches Recht und Völkerrecht&lt;/em&gt;,  vol. 35, 1984,  pp. 81-114.</ieee>
+<lncs>Gusy, C.: Staatsrecht und Politik. Österreichische Zeitschrift für öffentliches Recht und Völkerrecht. 35, 81-114 (1984).</lncs>
+<mla>Gusy, Christoph. “Staatsrecht und Politik”. &lt;em&gt;Österreichische Zeitschrift für öffentliches Recht und Völkerrecht&lt;/em&gt; 35 (1984): 81-114.</mla>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781175</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781175</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781175</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

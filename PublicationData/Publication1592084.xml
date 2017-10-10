@@ -1,0 +1,135 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Refined procedure of evaluating experimental single-molecule force spectroscopy data</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Alexander</namePart>
+  <namePart type="family">Fuhrmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Dario</namePart>
+  <namePart type="family">Anselmetti</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40180</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-8720-4369</description></name>
+<name type="personal">
+  <namePart type="given">Robert</namePart>
+  <namePart type="family">Ros</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Sebastian</namePart>
+  <namePart type="family">Getfert</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">159165</identifier></name>
+<name type="personal">
+  <namePart type="given">Peter</namePart>
+  <namePart type="family">Reimann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">70631</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">29125395</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33079524</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">29105470</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2161137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Dynamic force spectroscopy is a well-established tool to study molecular recognition in a wide range of binding affinities on the single-molecule level. The theoretical interpretation of these data is still very challenging and the models describe the experimental data only partly. In this paper we reconsider the basic assumptions of the models on the basis of an experimental data set and propose an approach of analyzing and quantitatively evaluating dynamic force spectroscopy data on single ligand-receptor complexes. We present our procedure to process and analyze the force-distance curves, to detect the rupture events in an automated manner, and to calculate quantitative parameters for a biophysical characterization of the investigated interaction.</abstract>
+
+<originInfo><publisher>AMER PHYSICAL SOC</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>PHYSICAL REVIEW E</title></titleInfo>
+  <identifier type="issn">1539-3755</identifier>
+  <identifier type="eIssn">1550-2376</identifier>
+  <identifier type="MEDLINE">18517427</identifier>
+  <identifier type="ISI">000254539700118</identifier><identifier type="doi">10.1103/PhysRevE.77.031912</identifier>
+<part><detail type="volume"><number>77</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">31912</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Fuhrmann A, Anselmetti D, Ros R, Getfert S, Reimann P. Refined procedure of evaluating experimental single-molecule force spectroscopy data. &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt;. 2008;77(3).</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fuhrmann, A., Anselmetti, D., Ros, R., Getfert, S. &amp;amp; Reimann, P. (2008). Refined procedure of evaluating experimental single-molecule force spectroscopy data. &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt;, &lt;em&gt;77&lt;/em&gt;(3). AMER PHYSICAL SOC. doi:10.1103/PhysRevE.77.031912.&lt;/div&gt;</dgps>
+<harvard1>Fuhrmann, A., et al., 2008. Refined procedure of evaluating experimental single-molecule force spectroscopy data. &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt;, 77(3).</harvard1>
+<bio1>Fuhrmann A, Anselmetti D, Ros R, Getfert S, Reimann P (2008) &lt;br /&gt;Refined procedure of evaluating experimental single-molecule force spectroscopy data.&lt;br /&gt;PHYSICAL REVIEW E 77(3).</bio1>
+<aps> A.  Fuhrmann, et al., Refined procedure of evaluating experimental single-molecule force spectroscopy data, PHYSICAL REVIEW E &lt;strong&gt;77&lt;/strong&gt;, (2008).</aps>
+<wels>Fuhrmann, A.; Anselmetti, D.; Ros, R.; Getfert, S.; Reimann, P. (2008): Refined procedure of evaluating experimental single-molecule force spectroscopy data &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt;,77:(3)</wels>
+<default>Fuhrmann A, Anselmetti D, Ros R, Getfert S, Reimann P (2008) &lt;br /&gt;PHYSICAL REVIEW E 77(3).</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fuhrmann, A., Anselmetti, D., Ros, R., Getfert, S., &amp;amp; Reimann, P. (2008). Refined procedure of evaluating experimental single-molecule force spectroscopy data. &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt;, &lt;em&gt;77&lt;/em&gt;(3).&lt;/div&gt;</apa_indent>
+<ieee> A. Fuhrmann, et al., “Refined procedure of evaluating experimental single-molecule force spectroscopy data”, &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt;,  vol. 77, 2008.</ieee>
+<lncs> Fuhrmann, A., Anselmetti, D., Ros, R., Getfert, S., Reimann, P.: Refined procedure of evaluating experimental single-molecule force spectroscopy data. PHYSICAL REVIEW E. 77, (2008).</lncs>
+<mla>Fuhrmann, Alexander, Anselmetti, Dario, Ros, Robert, Getfert, Sebastian, and Reimann, Peter. “Refined procedure of evaluating experimental single-molecule force spectroscopy data”. &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt; 77.3 (2008).</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fuhrmann, Alexander, Anselmetti, Dario, Ros, Robert, Getfert, Sebastian, and Reimann, Peter. 2008. “Refined procedure of evaluating experimental single-molecule force spectroscopy data”. &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt; 77 (3).&lt;/div&gt;</chicago>
+<apa>Fuhrmann, A., Anselmetti, D., Ros, R., Getfert, S., &amp;amp; Reimann, P. (2008). Refined procedure of evaluating experimental single-molecule force spectroscopy data. &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt;, &lt;em&gt;77&lt;/em&gt;(3).</apa>
+<angewandte-chemie>A.  Fuhrmann, D.  Anselmetti, R.  Ros, S.  Getfert, and P.  Reimann, “Refined procedure of evaluating experimental single-molecule force spectroscopy data”, &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt;, &lt;strong&gt;2008&lt;/strong&gt;, &lt;em&gt;77&lt;/em&gt;.</angewandte-chemie>
+<frontiers>Fuhrmann, A., Anselmetti, D., Ros, R., Getfert, S., and Reimann, P. (2008). Refined procedure of evaluating experimental single-molecule force spectroscopy data. &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt; 77.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1592084</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T11:50:18Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-08-02T13:33:55Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1592084</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1592084</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

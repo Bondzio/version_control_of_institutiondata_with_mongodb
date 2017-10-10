@@ -1,0 +1,149 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Transcriptional snapshots provide insights into the molecular basis of arbuscular mycorrhiza in the model legume Medicago truncatula</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Natalija</namePart>
+  <namePart type="family">Hohnjec</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Kolja</namePart>
+  <namePart type="family">Henckel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">182436</identifier></name>
+<name type="personal">
+  <namePart type="given">Thomas</namePart>
+  <namePart type="family">Bekel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">161487</identifier></name>
+<name type="personal">
+  <namePart type="given">Jerome</namePart>
+  <namePart type="family">Gouzy</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Michael</namePart>
+  <namePart type="family">Dondrup</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alexander</namePart>
+  <namePart type="family">Goesmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">152495</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-7086-2568</description></name>
+<name type="personal">
+  <namePart type="given">Helge</namePart>
+  <namePart type="family">Küster</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441927</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">16941123</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33067438</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The arbuscular mycorrhizal (AM) association between terrestrial plants and soil fungi of the phylum Glomeromycota is the most widespread beneficial plant-microbe interaction on earth. In the course of the symbiosis, fungal hyphae colonise plant roots and supply limiting nutrients, in particular phosphorus, in exchange for carbon compounds. Owing to the obligate biotrophy of mycorrhizal fungi and the lack of genetic systems to study them, targeted molecular studies on AM symbioses proved to be difficult. With the emergence of plant genomics and the selection of suitable models, an application of untargeted expression pro. ling experiments became possible. In the model legume Medicago truncatula, high-throughput expressed sequence tag (EST)-sequencing in conjunction with in silico and experimental transcriptome pro. ling provided transcriptional snapshots that together defined the global genetic program activated during AM. Owing to an asynchronous development of the symbiosis, several hundred genes found to be activated during the symbiosis cannot be easily correlated with symbiotic structures, but the expression of selected genes has been extended to the cellular level to correlate gene expression with specific stages of AM development. These approaches identified marker genes for the AM symbiosis and provided the first insights into the molecular basis of gene expression regulation during AM.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="hohnjec_2007_transcriptional_snapshots.pdf">https://pub.uni-bielefeld.de/download/1598354/2311115</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>CSIRO PUBLISHING</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>arbuscule-specific genes</topic><topic>TIGR M. truncatula Gene Index</topic><topic>EST-sequencing</topic><topic>pro. ling</topic><topic>microarray-based transcriptome</topic><topic>in silico transcriptome profiling</topic><topic>spp.</topic><topic>Glomus</topic><topic>expression databases</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>FUNCTIONAL PLANT BIOLOGY</title></titleInfo>
+  <identifier type="issn">1445-4408</identifier>
+  <identifier type="ISI">000239443200005</identifier><identifier type="urn">urn:nbn:de:0070-bipr-42310</identifier><identifier type="doi">10.1071/FP06079</identifier>
+<part><detail type="volume"><number>33</number></detail><detail type="issue"><number>8</number></detail><extent unit="pages">737-748</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Hohnjec N, Henckel K, Bekel T, et al. Transcriptional snapshots provide insights into the molecular basis of arbuscular mycorrhiza in the model legume Medicago truncatula. &lt;em&gt;FUNCTIONAL PLANT BIOLOGY&lt;/em&gt;. 2006;33(8):737-748.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hohnjec, N., Henckel, K., Bekel, T., Gouzy, J., Dondrup, M., Goesmann, A. &amp;amp; Küster, H. (2006). Transcriptional snapshots provide insights into the molecular basis of arbuscular mycorrhiza in the model legume Medicago truncatula. &lt;em&gt;FUNCTIONAL PLANT BIOLOGY&lt;/em&gt;, &lt;em&gt;33&lt;/em&gt;(8), 737-748. CSIRO PUBLISHING. doi:10.1071/FP06079.&lt;/div&gt;</dgps>
+<harvard1>Hohnjec, N., et al., 2006. Transcriptional snapshots provide insights into the molecular basis of arbuscular mycorrhiza in the model legume Medicago truncatula. &lt;em&gt;FUNCTIONAL PLANT BIOLOGY&lt;/em&gt;, 33(8), p 737-748.</harvard1>
+<aps> N.  Hohnjec, et al., Transcriptional snapshots provide insights into the molecular basis of arbuscular mycorrhiza in the model legume Medicago truncatula, FUNCTIONAL PLANT BIOLOGY &lt;strong&gt;33&lt;/strong&gt;, 737-748 (2006).</aps>
+<bio1>Hohnjec N, Henckel K, Bekel T, Gouzy J, Dondrup M, Goesmann A, Küster H (2006) &lt;br /&gt;Transcriptional snapshots provide insights into the molecular basis of arbuscular mycorrhiza in the model legume Medicago truncatula.&lt;br /&gt;FUNCTIONAL PLANT BIOLOGY 33(8): 737-748.</bio1>
+<wels>Hohnjec, N.; Henckel, K.; Bekel, T.; Gouzy, J.; Dondrup, M.; Goesmann, A.; Küster, H. (2006): Transcriptional snapshots provide insights into the molecular basis of arbuscular mycorrhiza in the model legume Medicago truncatula &lt;em&gt;FUNCTIONAL PLANT BIOLOGY&lt;/em&gt;,33:(8): 737-748.</wels>
+<default>Hohnjec N, Henckel K, Bekel T, Gouzy J, Dondrup M, Goesmann A, Küster H (2006) &lt;br /&gt;FUNCTIONAL PLANT BIOLOGY 33(8): 737-748.</default>
+<ieee> N. Hohnjec, et al., “Transcriptional snapshots provide insights into the molecular basis of arbuscular mycorrhiza in the model legume Medicago truncatula”, &lt;em&gt;FUNCTIONAL PLANT BIOLOGY&lt;/em&gt;,  vol. 33, 2006,  pp. 737-748.</ieee>
+<mla>Hohnjec, Natalija, Henckel, Kolja, Bekel, Thomas, Gouzy, Jerome, Dondrup, Michael, Goesmann, Alexander, and Küster, Helge. “Transcriptional snapshots provide insights into the molecular basis of arbuscular mycorrhiza in the model legume Medicago truncatula”. &lt;em&gt;FUNCTIONAL PLANT BIOLOGY&lt;/em&gt; 33.8 (2006): 737-748.</mla>
+<lncs> Hohnjec, N., Henckel, K., Bekel, T., Gouzy, J., Dondrup, M., Goesmann, A., Küster, H.: Transcriptional snapshots provide insights into the molecular basis of arbuscular mycorrhiza in the model legume Medicago truncatula. FUNCTIONAL PLANT BIOLOGY. 33, 737-748 (2006).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hohnjec, N., Henckel, K., Bekel, T., Gouzy, J., Dondrup, M., Goesmann, A., &amp;amp; Küster, H. (2006). Transcriptional snapshots provide insights into the molecular basis of arbuscular mycorrhiza in the model legume Medicago truncatula. &lt;em&gt;FUNCTIONAL PLANT BIOLOGY&lt;/em&gt;, &lt;em&gt;33&lt;/em&gt;(8), 737-748.&lt;/div&gt;</apa_indent>
+<apa>Hohnjec, N., Henckel, K., Bekel, T., Gouzy, J., Dondrup, M., Goesmann, A., &amp;amp; Küster, H. (2006). Transcriptional snapshots provide insights into the molecular basis of arbuscular mycorrhiza in the model legume Medicago truncatula. &lt;em&gt;FUNCTIONAL PLANT BIOLOGY&lt;/em&gt;, &lt;em&gt;33&lt;/em&gt;(8), 737-748.</apa>
+<angewandte-chemie>N.  Hohnjec, K.  Henckel, T.  Bekel, J.  Gouzy, M.  Dondrup, A.  Goesmann, and H.  Küster, “Transcriptional snapshots provide insights into the molecular basis of arbuscular mycorrhiza in the model legume Medicago truncatula”, &lt;em&gt;FUNCTIONAL PLANT BIOLOGY&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;33&lt;/em&gt;, 737-748.</angewandte-chemie>
+<frontiers>Hohnjec, N., Henckel, K., Bekel, T., Gouzy, J., Dondrup, M., Goesmann, A., and Küster, H. (2006). Transcriptional snapshots provide insights into the molecular basis of arbuscular mycorrhiza in the model legume Medicago truncatula. &lt;em&gt;FUNCTIONAL PLANT BIOLOGY&lt;/em&gt; 33, 737-748.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hohnjec, Natalija, Henckel, Kolja, Bekel, Thomas, Gouzy, Jerome, Dondrup, Michael, Goesmann, Alexander, and Küster, Helge. 2006. “Transcriptional snapshots provide insights into the molecular basis of arbuscular mycorrhiza in the model legume Medicago truncatula”. &lt;em&gt;FUNCTIONAL PLANT BIOLOGY&lt;/em&gt; 33 (8): 737-748.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1598354</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:19:20Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-14T12:25:55Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1598354</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1598354</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

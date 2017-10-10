@@ -1,0 +1,120 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>On the field emission from Ni, Gd, and EuS evaporated on to Tungsten</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Wolfgang</namePart>
+  <namePart type="family">Eckstein</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">K. F.</namePart>
+  <namePart type="family">Georg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">W.</namePart>
+  <namePart type="family">Heiland</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J.</namePart>
+  <namePart type="family">Kirschner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Norbert</namePart>
+  <namePart type="family">Müller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">74650</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Lehrstuhl für Molekül- und Oberflächenphysik</namePart>
+  <identifier type="unibi">29133467</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Centrum für Biotechnologie</namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT3417.pdf">https://pub.uni-bielefeld.de/download/1782978/2314079</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1970</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Zeitschrift für Naturforschung,  A: Journal of Physical Sciences</title></titleInfo>
+  <identifier type="issn">0044-3166</identifier><identifier type="urn">urn:nbn:de:0070-bipr-34171</identifier>
+<part><detail type="volume"><number>25</number></detail><detail type="issue"><number>?</number></detail><extent unit="pages">1981-1982</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Eckstein, W., Georg, K.F., Heiland, W., Kirschner, J. &amp;amp; Müller, N. (1970). On the field emission from Ni, Gd, and EuS evaporated on to Tungsten. &lt;em&gt;Zeitschrift für Naturforschung,  A: Journal of Physical Sciences&lt;/em&gt;, &lt;em&gt;25&lt;/em&gt;(?), 1981-1982.&lt;/div&gt;</dgps>
+<ama>Eckstein W, Georg KF, Heiland W, Kirschner J, Müller N. On the field emission from Ni, Gd, and EuS evaporated on to Tungsten. &lt;em&gt;Zeitschrift für Naturforschung,  A: Journal of Physical Sciences&lt;/em&gt;. 1970;25(?):1981-1982.</ama>
+<harvard1>Eckstein, W., et al., 1970. On the field emission from Ni, Gd, and EuS evaporated on to Tungsten. &lt;em&gt;Zeitschrift für Naturforschung,  A: Journal of Physical Sciences&lt;/em&gt;, 25(?), p 1981-1982.</harvard1>
+<aps>W.  Eckstein, et al., On the field emission from Ni, Gd, and EuS evaporated on to Tungsten, Zeitschrift für Naturforschung,  A: Journal of Physical Sciences &lt;strong&gt;25&lt;/strong&gt;, 1981-1982 (1970).</aps>
+<bio1>Eckstein W, Georg KF, Heiland W, Kirschner J, Müller N (1970) &lt;br /&gt;On the field emission from Ni, Gd, and EuS evaporated on to Tungsten.&lt;br /&gt;Zeitschrift für Naturforschung,  A: Journal of Physical Sciences 25(?): 1981-1982.</bio1>
+<wels>Eckstein, W.; Georg, K. F.; Heiland, W.; Kirschner, J.; Müller, N. (1970): On the field emission from Ni, Gd, and EuS evaporated on to Tungsten &lt;em&gt;Zeitschrift für Naturforschung,  A: Journal of Physical Sciences&lt;/em&gt;,25:(?): 1981-1982.</wels>
+<default>Eckstein W, Georg KF, Heiland W, Kirschner J, Müller N (1970) &lt;br /&gt;Zeitschrift für Naturforschung,  A: Journal of Physical Sciences 25(?): 1981-1982.</default>
+<ieee>W. Eckstein, et al., “On the field emission from Ni, Gd, and EuS evaporated on to Tungsten”, &lt;em&gt;Zeitschrift für Naturforschung,  A: Journal of Physical Sciences&lt;/em&gt;,  vol. 25, 1970,  pp. 1981-1982.</ieee>
+<lncs>Eckstein, W., Georg, K.F., Heiland, W., Kirschner, J., Müller, N.: On the field emission from Ni, Gd, and EuS evaporated on to Tungsten. Zeitschrift für Naturforschung,  A: Journal of Physical Sciences. 25, 1981-1982 (1970).</lncs>
+<mla>Eckstein, Wolfgang, Georg, K. F., Heiland, W., Kirschner, J., and Müller, Norbert. “On the field emission from Ni, Gd, and EuS evaporated on to Tungsten”. &lt;em&gt;Zeitschrift für Naturforschung,  A: Journal of Physical Sciences&lt;/em&gt; 25.? (1970): 1981-1982.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Eckstein, W., Georg, K. F., Heiland, W., Kirschner, J., &amp;amp; Müller, N. (1970). On the field emission from Ni, Gd, and EuS evaporated on to Tungsten. &lt;em&gt;Zeitschrift für Naturforschung,  A: Journal of Physical Sciences&lt;/em&gt;, &lt;em&gt;25&lt;/em&gt;(?), 1981-1982.&lt;/div&gt;</apa_indent>
+<apa>Eckstein, W., Georg, K. F., Heiland, W., Kirschner, J., &amp;amp; Müller, N. (1970). On the field emission from Ni, Gd, and EuS evaporated on to Tungsten. &lt;em&gt;Zeitschrift für Naturforschung,  A: Journal of Physical Sciences&lt;/em&gt;, &lt;em&gt;25&lt;/em&gt;(?), 1981-1982.</apa>
+<angewandte-chemie>W.  Eckstein, K. F.  Georg, W.  Heiland, J.  Kirschner, and N.  Müller, “On the field emission from Ni, Gd, and EuS evaporated on to Tungsten”, &lt;em&gt;Zeitschrift für Naturforschung,  A: Journal of Physical Sciences&lt;/em&gt;, &lt;strong&gt;1970&lt;/strong&gt;, &lt;em&gt;25&lt;/em&gt;, 1981-1982.</angewandte-chemie>
+<frontiers>Eckstein, W., Georg, K. F., Heiland, W., Kirschner, J., and Müller, N. (1970). On the field emission from Ni, Gd, and EuS evaporated on to Tungsten. &lt;em&gt;Zeitschrift für Naturforschung,  A: Journal of Physical Sciences&lt;/em&gt; 25, 1981-1982.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Eckstein, Wolfgang, Georg, K. F., Heiland, W., Kirschner, J., and Müller, Norbert. 1970. “On the field emission from Ni, Gd, and EuS evaporated on to Tungsten”. &lt;em&gt;Zeitschrift für Naturforschung,  A: Journal of Physical Sciences&lt;/em&gt; 25 (?): 1981-1982.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1782978</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1782978</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1782978</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,126 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Locomotif: from graphical motif description to RNA motif search</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Janina</namePart>
+  <namePart type="family">Reeder</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jens</namePart>
+  <namePart type="family">Reeder</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Robert</namePart>
+  <namePart type="family">Giegerich</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">147565</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Graduate Center</namePart>
+  <identifier type="unibi">16941123</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group R. Giegerich</namePart>
+  <identifier type="unibi">33067120</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Praktische Informatik</namePart>
+  <identifier type="unibi">10039</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Motivation and Results: Motivated by the recent rise of interest in small regulatory RNAs, we present Locomotif-a new approach for locating RNA motifs that goes beyond the previous ones in three ways: ( 1) motif search is based on efficient dynamic programming algorithms, incorporating the established thermodynamic model of RNA secondary structure formation. ( 2) motifs are described graphically, using a Java-based editor, and search algorithms are derived from the graphics in a fully automatic way. The editor allows us to draw secondary structures, annotated with size and sequence information. They closely resemble the established, but informal way in which RNA motifs are communicated in the literature. Thus, the learning effort for Locomotif users is minimal. ( 3) Locomotif employs a client-server approach. Motifs are designed by the user locally. Search programs are generated and compiled on a bioinformatics server. They are made available both for execution on the server, and for download as C source code plus an appropriate makefile.</abstract>
+
+<originInfo><publisher>OXFORD UNIV PRESS</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>BIOINFORMATICS</title></titleInfo>
+  <identifier type="issn">1367-4803</identifier>
+  <identifier type="MEDLINE">17646322</identifier>
+  <identifier type="ISI">000248620400071</identifier><identifier type="doi">10.1093/bioinformatics/btm179</identifier>
+<part><detail type="volume"><number>23</number></detail><detail type="issue"><number>13</number></detail><extent unit="pages">I392-I400</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Reeder, J., Reeder, J., &amp;amp; Giegerich, R. (2007). Locomotif: from graphical motif description to RNA motif search. &lt;em&gt;BIOINFORMATICS&lt;/em&gt;, &lt;em&gt;23&lt;/em&gt;(13), I392-I400.&lt;/div&gt;</apa_indent>
+<mla>Reeder, Janina, Reeder, Jens, and Giegerich, Robert. “Locomotif: from graphical motif description to RNA motif search”. &lt;em&gt;BIOINFORMATICS&lt;/em&gt;. OXFORD UNIV PRESS, 2007.Vol. 23. I392-I400.</mla>
+<lncs>Reeder, J., Reeder, J., Giegerich, R.: Locomotif: from graphical motif description to RNA motif search. BIOINFORMATICS. 23, p. I392-I400. OXFORD UNIV PRESS (2007).</lncs>
+<ieee>J. Reeder, J. Reeder, and R. Giegerich, “Locomotif: from graphical motif description to RNA motif search”, &lt;em&gt;BIOINFORMATICS&lt;/em&gt;, vol. 23, OXFORD UNIV PRESS, 2007,  pp.I392-I400.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Reeder, Janina, Reeder, Jens, and Giegerich, Robert. 2007. “Locomotif: from graphical motif description to RNA motif search”. In &lt;em&gt;BIOINFORMATICS&lt;/em&gt;, 23:I392-I400. OXFORD UNIV PRESS.&lt;/div&gt;</chicago>
+<frontiers>Reeder, J., Reeder, J., and Giegerich, R. (2007). “Locomotif: from graphical motif description to RNA motif search” in &lt;em&gt;BIOINFORMATICS&lt;/em&gt;, vol. 23, (OXFORD UNIV PRESS), I392-I400.</frontiers>
+<angewandte-chemie>J.  Reeder, J.  Reeder, and R.  Giegerich, in &lt;em&gt;BIOINFORMATICS&lt;/em&gt;, Oxford Univ Press, &lt;strong&gt;2007&lt;/strong&gt;, p. I392-I400.</angewandte-chemie>
+<apa>Reeder, J., Reeder, J., &amp;amp; Giegerich, R. (2007). Locomotif: from graphical motif description to RNA motif search. &lt;em&gt;BIOINFORMATICS&lt;/em&gt;, &lt;em&gt;23&lt;/em&gt;(13), I392-I400.</apa>
+<aps>J.  Reeder, J.  Reeder, and R.  Giegerich, Locomotif: from graphical motif description to RNA motif search, in &lt;em&gt;BIOINFORMATICS&lt;/em&gt;, &lt;strong&gt;23&lt;/strong&gt; (OXFORD UNIV PRESS, 2007), p. I392-I400.</aps>
+<bio1>Reeder J, Reeder J, Giegerich R (2007) &lt;br /&gt;Locomotif: from graphical motif description to RNA motif search. &lt;br /&gt;In:  BIOINFORMATICS. 23. OXFORD UNIV PRESS:  I392-I400.</bio1>
+<ama>Reeder J, Reeder J, Giegerich R. Locomotif: from graphical motif description to RNA motif search. In:  &lt;em&gt;BIOINFORMATICS&lt;/em&gt;. Vol 23. OXFORD UNIV PRESS;  2007: I392-I400.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Reeder, J., Reeder, J. &amp;amp; Giegerich, R. (2007). Locomotif: from graphical motif description to RNA motif search. &lt;em&gt;BIOINFORMATICS&lt;/em&gt; (S. I392-I400). OXFORD UNIV PRESS. doi:10.1093/bioinformatics/btm179.&lt;/div&gt;</dgps>
+<harvard1>Reeder, J., Reeder, J., &amp;amp; Giegerich, R., 2007. Locomotif: from graphical motif description to RNA motif search. In &lt;em&gt;BIOINFORMATICS&lt;/em&gt;. no.23  OXFORD UNIV PRESS, pp. I392-I400.</harvard1>
+<default>Reeder J, Reeder J, Giegerich R (2007)  &lt;br /&gt;In:  BIOINFORMATICS. 23. OXFORD UNIV PRESS:  I392-I400.</default>
+<wels>Reeder, J.; Reeder, J.; Giegerich, R. (2007): Locomotif: from graphical motif description to RNA motif search. In: BIOINFORMATICS. OXFORD UNIV PRESS. (23).  S. I392-I400.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1593132</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:15:42Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-10-06T14:07:48Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1593132</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1593132</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

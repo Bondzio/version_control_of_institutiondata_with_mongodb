@@ -1,0 +1,108 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Temperate bacteriophage Phi O18P from an Aeromonas media isolate: Characterization and complete genome sequence</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Frauke</namePart>
+  <namePart type="family">Bellstein</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Brigitte</namePart>
+  <namePart type="family">Dreiseikelmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">22023</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Gentechnologie/Mikrobiologie</namePart>
+  <identifier type="unibi">2685250</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Genomforschung und Systembiologie</namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">group of 74 Aeromonas isolates from surface water of three ponds in Bielefeld, Germany was screened for prophage induction after UV irradiation. The phage Phi O18P was induced from the Aeromonas media isolate O18. Phi O18P belongs to the Myoviridae phage family. The complete nucleotide sequence of the double stranded DNA genome ofbacteriophage Phi O18P consists of 33,985 bp. The genome has 5&apos; protruding cohesive ends of 16 bases. On the Phi O18P genome 46 open reading frames (orfs) were identified which are organized in the modules integration and regulation, replication, head, packaging, tail and lysis. Additionally the phage DNA includes a methylase gene. Comparison of the genome architecture with those of other bacteriophages revealed significant similarities to the P2 phage family and especially to the prophages of Aeromonas salmonicida and the Vibrio cholerae phage K139. (C) 2007 Elsevier Inc. All rights reserved.</abstract>
+
+<originInfo><publisher>ACADEMIC PRESS INC ELSEVIER SCIENCE</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>bacteriophage</topic><topic>genome sequence</topic><topic>P2 phage family</topic><topic>Aeromonas</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Virology</title></titleInfo>
+  <identifier type="issn">0042-6822</identifier>
+  <identifier type="MEDLINE">18096197</identifier>
+  <identifier type="ISI">000254350300003</identifier><identifier type="doi">10.1016/j.virol.2007.11.016</identifier>
+<part><detail type="volume"><number>373</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">25-29</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>Bellstein F, Dreiseikelmann B (2008) &lt;br /&gt;Temperate bacteriophage Phi O18P from an Aeromonas media isolate: Characterization and complete genome sequence.&lt;br /&gt;Virology 373(1): 25-29.</bio1>
+<aps>F.  Bellstein and B.  Dreiseikelmann, Temperate bacteriophage Phi O18P from an Aeromonas media isolate: Characterization and complete genome sequence, Virology &lt;strong&gt;373&lt;/strong&gt;, 25-29 (2008).</aps>
+<harvard1>Bellstein, F., &amp;amp; Dreiseikelmann, B., 2008. Temperate bacteriophage Phi O18P from an Aeromonas media isolate: Characterization and complete genome sequence. &lt;em&gt;Virology&lt;/em&gt;, 373(1), p 25-29.</harvard1>
+<ama>Bellstein F, Dreiseikelmann B. Temperate bacteriophage Phi O18P from an Aeromonas media isolate: Characterization and complete genome sequence. &lt;em&gt;Virology&lt;/em&gt;. 2008;373(1):25-29.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bellstein, F. &amp;amp; Dreiseikelmann, B. (2008). Temperate bacteriophage Phi O18P from an Aeromonas media isolate: Characterization and complete genome sequence. &lt;em&gt;Virology&lt;/em&gt;, &lt;em&gt;373&lt;/em&gt;(1), 25-29. ACADEMIC PRESS INC ELSEVIER SCIENCE. doi:10.1016/j.virol.2007.11.016.&lt;/div&gt;</dgps>
+<default>Bellstein F, Dreiseikelmann B (2008) &lt;br /&gt;Virology 373(1): 25-29.</default>
+<wels>Bellstein, F.; Dreiseikelmann, B. (2008): Temperate bacteriophage Phi O18P from an Aeromonas media isolate: Characterization and complete genome sequence &lt;em&gt;Virology&lt;/em&gt;,373:(1): 25-29.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bellstein, F., &amp;amp; Dreiseikelmann, B. (2008). Temperate bacteriophage Phi O18P from an Aeromonas media isolate: Characterization and complete genome sequence. &lt;em&gt;Virology&lt;/em&gt;, &lt;em&gt;373&lt;/em&gt;(1), 25-29.&lt;/div&gt;</apa_indent>
+<lncs>Bellstein, F., Dreiseikelmann, B.: Temperate bacteriophage Phi O18P from an Aeromonas media isolate: Characterization and complete genome sequence. Virology. 373, 25-29 (2008).</lncs>
+<mla>Bellstein, Frauke, and Dreiseikelmann, Brigitte. “Temperate bacteriophage Phi O18P from an Aeromonas media isolate: Characterization and complete genome sequence”. &lt;em&gt;Virology&lt;/em&gt; 373.1 (2008): 25-29.</mla>
+<ieee>F. Bellstein and B. Dreiseikelmann, “Temperate bacteriophage Phi O18P from an Aeromonas media isolate: Characterization and complete genome sequence”, &lt;em&gt;Virology&lt;/em&gt;,  vol. 373, 2008,  pp. 25-29.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bellstein, Frauke, and Dreiseikelmann, Brigitte. 2008. “Temperate bacteriophage Phi O18P from an Aeromonas media isolate: Characterization and complete genome sequence”. &lt;em&gt;Virology&lt;/em&gt; 373 (1): 25-29.&lt;/div&gt;</chicago>
+<frontiers>Bellstein, F., and Dreiseikelmann, B. (2008). Temperate bacteriophage Phi O18P from an Aeromonas media isolate: Characterization and complete genome sequence. &lt;em&gt;Virology&lt;/em&gt; 373, 25-29.</frontiers>
+<apa>Bellstein, F., &amp;amp; Dreiseikelmann, B. (2008). Temperate bacteriophage Phi O18P from an Aeromonas media isolate: Characterization and complete genome sequence. &lt;em&gt;Virology&lt;/em&gt;, &lt;em&gt;373&lt;/em&gt;(1), 25-29.</apa>
+<angewandte-chemie>F.  Bellstein, and B.  Dreiseikelmann, “Temperate bacteriophage Phi O18P from an Aeromonas media isolate: Characterization and complete genome sequence”, &lt;em&gt;Virology&lt;/em&gt;, &lt;strong&gt;2008&lt;/strong&gt;, &lt;em&gt;373&lt;/em&gt;, 25-29.</angewandte-chemie>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1592065</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T11:50:17Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-08-29T09:54:38Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1592065</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1592065</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

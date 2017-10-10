@@ -1,0 +1,148 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Leishmanicidal and cholinesterase inhibiting activities of phenolic compounds from Allanblackia monticola and Symphonia globulifera</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Bruno Ndjakou</namePart>
+  <namePart type="family">Lenta</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Catherine</namePart>
+  <namePart type="family">Vonthron-Senecheau</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Bernard</namePart>
+  <namePart type="family">Weniger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Krishna Prasad</namePart>
+  <namePart type="family">Devkota</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Joseph</namePart>
+  <namePart type="family">Ngoupayo</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Marcel</namePart>
+  <namePart type="family">Kaiser</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Qamar</namePart>
+  <namePart type="family">Naz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Muhammad Iqbal</namePart>
+  <namePart type="family">Choudhary</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Etienne</namePart>
+  <namePart type="family">Tsamo</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Norbert</namePart>
+  <namePart type="family">Sewald</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20281</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Research Group  N. Sewald</namePart>
+  <identifier type="unibi">33086655</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Organische Chemie III</namePart>
+  <identifier type="unibi">17977</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Biochemie und Biotechnik</namePart>
+  <identifier type="unibi">4838684</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">In a preliminary antiprotozoal screening of several Clusiaceae species, the methanolic extracts of Allanblackia monticola and Symphonia globulifera showed high in vitro leishmanicidal activity. Further bioguided phytochemical investigation led to the isolation of four benzophenones: guttiferone A (1), garcinol (2), cambogin (3) and guttiferone F (4), along with three xanthones: allanxanthone A (5), xanthone V-1 (6) and globulixanthone C (7) as active constituents. Compounds 1 and 6 were isolated from S. globulifera leaves, while compounds 2-5 were obtained from A. monticola fruits. Guttiferone A (1) and F (4) showed particulary strong leishmanicidal activity in vitro, with IC50 values (0.2 mu M and 0.16 mu M, respectively) comparable to that of the reference compound, miltefosine (0.46 mu M). Although the leishmanicidal activity is promising, the cytotoxicity profile of these compounds prevent at this state further in vivo biological evaluation. In addition, all the isolated compounds were tested in vitro for their anticholinesterase properties. The four benzophenones showed potent anticholinesterase properties towards acetylcholinesterase (ACNE) and butylcholinesterase (AChE). For ACNE, the IC50 value (0.66 mu M) of garcinol (2) was almost equal to that of the reference compound galanthamine (0.50 mu M). Furthermore, guttiferone A (1) and guttiferone F (4) (IC50 = 2.77 and 3.50 mu M, respectively) were more active than galanthamine (ICSO = 8.5) against BChE.</abstract>
+
+<originInfo><publisher>MOLECULAR DIVERSITY PRESERVATION INT</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Allanblackia monticola</topic><topic>phenolic compounds</topic><topic>leishmanicidal</topic><topic>anticholinesterase</topic><topic>Symphonia globulifera</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>MOLECULES</title></titleInfo>
+  <identifier type="issn">1420-3049</identifier>
+  <identifier type="MEDLINE">17960072</identifier>
+  <identifier type="ISI">000250488300001</identifier><identifier type="doi">10.3390/12081548</identifier>
+<part><detail type="volume"><number>12</number></detail><detail type="issue"><number>8</number></detail><extent unit="pages">1548-1557</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Lenta, B. N., Vonthron-Senecheau, C., Weniger, B., Devkota, K. P., Ngoupayo, J., Kaiser, M., Naz, Q., Choudhary, M. I., Tsamo, E., and Sewald, N. (2007). Leishmanicidal and cholinesterase inhibiting activities of phenolic compounds from Allanblackia monticola and Symphonia globulifera. &lt;em&gt;MOLECULES&lt;/em&gt; 12, 1548-1557.</frontiers>
+<apa>Lenta, B. N., Vonthron-Senecheau, C., Weniger, B., Devkota, K. P., Ngoupayo, J., Kaiser, M., Naz, Q., et al. (2007). Leishmanicidal and cholinesterase inhibiting activities of phenolic compounds from Allanblackia monticola and Symphonia globulifera. &lt;em&gt;MOLECULES&lt;/em&gt;, &lt;em&gt;12&lt;/em&gt;(8), 1548-1557.</apa>
+<angewandte-chemie>B. N.  Lenta, C.  Vonthron-Senecheau, B.  Weniger, K. P.  Devkota, J.  Ngoupayo, M.  Kaiser, Q.  Naz, M. I.  Choudhary, E.  Tsamo, and N.  Sewald, “Leishmanicidal and cholinesterase inhibiting activities of phenolic compounds from Allanblackia monticola and Symphonia globulifera”, &lt;em&gt;MOLECULES&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;12&lt;/em&gt;, 1548-1557.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lenta, Bruno Ndjakou, Vonthron-Senecheau, Catherine, Weniger, Bernard, Devkota, Krishna Prasad, Ngoupayo, Joseph, Kaiser, Marcel, Naz, Qamar, Choudhary, Muhammad Iqbal, Tsamo, Etienne, and Sewald, Norbert. 2007. “Leishmanicidal and cholinesterase inhibiting activities of phenolic compounds from Allanblackia monticola and Symphonia globulifera”. &lt;em&gt;MOLECULES&lt;/em&gt; 12 (8): 1548-1557.&lt;/div&gt;</chicago>
+<mla>Lenta, Bruno Ndjakou, Vonthron-Senecheau, Catherine, Weniger, Bernard, Devkota, Krishna Prasad, Ngoupayo, Joseph, Kaiser, Marcel, Naz, Qamar, Choudhary, Muhammad Iqbal, Tsamo, Etienne, and Sewald, Norbert. “Leishmanicidal and cholinesterase inhibiting activities of phenolic compounds from Allanblackia monticola and Symphonia globulifera”. &lt;em&gt;MOLECULES&lt;/em&gt; 12.8 (2007): 1548-1557.</mla>
+<lncs>Lenta, B.N., Vonthron-Senecheau, C., Weniger, B., Devkota, K.P., Ngoupayo, J., Kaiser, M., Naz, Q., Choudhary, M.I., Tsamo, E., Sewald, N.: Leishmanicidal and cholinesterase inhibiting activities of phenolic compounds from Allanblackia monticola and Symphonia globulifera. MOLECULES. 12, 1548-1557 (2007).</lncs>
+<ieee>B.N. Lenta, et al., “Leishmanicidal and cholinesterase inhibiting activities of phenolic compounds from Allanblackia monticola and Symphonia globulifera”, &lt;em&gt;MOLECULES&lt;/em&gt;,  vol. 12, 2007,  pp. 1548-1557.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lenta, B. N., Vonthron-Senecheau, C., Weniger, B., Devkota, K. P., Ngoupayo, J., Kaiser, M., Naz, Q., et al. (2007). Leishmanicidal and cholinesterase inhibiting activities of phenolic compounds from Allanblackia monticola and Symphonia globulifera. &lt;em&gt;MOLECULES&lt;/em&gt;, &lt;em&gt;12&lt;/em&gt;(8), 1548-1557.&lt;/div&gt;</apa_indent>
+<default>Lenta BN, Vonthron-Senecheau C, Weniger B, Devkota KP, Ngoupayo J, Kaiser M, Naz Q, Choudhary MI, Tsamo E, Sewald N (2007) &lt;br /&gt;MOLECULES 12(8): 1548-1557.</default>
+<wels>Lenta, B. N.; Vonthron-Senecheau, C.; Weniger, B.; Devkota, K. P.; Ngoupayo, J.; Kaiser, M.; Naz, Q.; Choudhary, M. I.; Tsamo, E.; Sewald, N. (2007): Leishmanicidal and cholinesterase inhibiting activities of phenolic compounds from Allanblackia monticola and Symphonia globulifera &lt;em&gt;MOLECULES&lt;/em&gt;,12:(8): 1548-1557.</wels>
+<aps>B. N.  Lenta, et al., Leishmanicidal and cholinesterase inhibiting activities of phenolic compounds from Allanblackia monticola and Symphonia globulifera, MOLECULES &lt;strong&gt;12&lt;/strong&gt;, 1548-1557 (2007).</aps>
+<bio1>Lenta BN, Vonthron-Senecheau C, Weniger B, Devkota KP, Ngoupayo J, Kaiser M, Naz Q, Choudhary MI, Tsamo E, Sewald N (2007) &lt;br /&gt;Leishmanicidal and cholinesterase inhibiting activities of phenolic compounds from Allanblackia monticola and Symphonia globulifera.&lt;br /&gt;MOLECULES 12(8): 1548-1557.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lenta, B.N., Vonthron-Senecheau, C., Weniger, B., Devkota, K.P., Ngoupayo, J., Kaiser, M., Naz, Q., Choudhary, M.I., Tsamo, E. &amp;amp; Sewald, N. (2007). Leishmanicidal and cholinesterase inhibiting activities of phenolic compounds from Allanblackia monticola and Symphonia globulifera. &lt;em&gt;MOLECULES&lt;/em&gt;, &lt;em&gt;12&lt;/em&gt;(8), 1548-1557. MOLECULAR DIVERSITY PRESERVATION INT. doi:10.3390/12081548.&lt;/div&gt;</dgps>
+<harvard1>Lenta, B.N., et al., 2007. Leishmanicidal and cholinesterase inhibiting activities of phenolic compounds from Allanblackia monticola and Symphonia globulifera. &lt;em&gt;MOLECULES&lt;/em&gt;, 12(8), p 1548-1557.</harvard1>
+<ama>Lenta BN, Vonthron-Senecheau C, Weniger B, et al. Leishmanicidal and cholinesterase inhibiting activities of phenolic compounds from Allanblackia monticola and Symphonia globulifera. &lt;em&gt;MOLECULES&lt;/em&gt;. 2007;12(8):1548-1557.</ama>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1631566</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:05:48Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-03T09:18:59Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1631566</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1631566</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

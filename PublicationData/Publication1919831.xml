@@ -1,0 +1,102 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Mörikes gesellige Erzählkunst</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Wolfgang</namePart>
+  <namePart type="family">Braungart</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11652</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Wolfgang</namePart><namePart type="family">Braungart</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Christian</namePart><namePart type="family">Oestersandfort</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">4961697</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10222814</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Reclam</publisher><dateIssued encoding="w3cdtf">2004</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Eduard Mörike. Sämtliche Erzählungen</title></titleInfo>
+  <identifier type="isbn">3-15-018313-8</identifier>
+<part><detail type="volume"><number>18313</number></detail><extent unit="pages">373-402</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Braungart, W. (2004). “Mörikes gesellige Erzählkunst” in &lt;em&gt;Eduard Mörike. Sämtliche Erzählungen&lt;/em&gt;, ed. W.  Braungart and C.  Oestersandfort Reclams Universal-Bibliothek, vol. 18313, (Stuttgart: Reclam), 373-402.</frontiers>
+<apa>Braungart, W. (2004). Mörikes gesellige Erzählkunst. In W.  Braungart &amp;amp; C.  Oestersandfort (Eds.), &lt;em&gt;Reclams Universal-Bibliothek: Vol. 18313&lt;/em&gt;&lt;em&gt;. Eduard Mörike. Sämtliche Erzählungen&lt;/em&gt; (pp. 373-402). Stuttgart: Reclam.</apa>
+<angewandte-chemie>W.  Braungart, in &lt;em&gt;Eduard Mörike. Sämtliche Erzählungen&lt;/em&gt; (Eds.: W. Braungart, C. Oestersandfort), Reclam, Stuttgart, &lt;strong&gt;2004&lt;/strong&gt;, p. 373-402.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Braungart, Wolfgang. 2004. “Mörikes gesellige Erzählkunst”. In &lt;em&gt;Eduard Mörike. Sämtliche Erzählungen&lt;/em&gt;, ed. Wolfgang Braungart and Christian Oestersandfort, 18313:373-402. Reclams Universal-Bibliothek. Stuttgart: Reclam.&lt;/div&gt;</chicago>
+<lncs>Braungart, W.: Mörikes gesellige Erzählkunst. In: Braungart, W. and Oestersandfort, C. (eds.) Eduard Mörike. Sämtliche Erzählungen. Reclams Universal-Bibliothek. 18313, p. 373-402. Reclam, Stuttgart (2004).</lncs>
+<mla>Braungart, Wolfgang. “Mörikes gesellige Erzählkunst”. &lt;em&gt;Eduard Mörike. Sämtliche Erzählungen&lt;/em&gt;. Ed. Wolfgang Braungart and Christian Oestersandfort. Stuttgart: Reclam, 2004.Vol. 18313. Reclams Universal-Bibliothek. 373-402.</mla>
+<ieee>W. Braungart, “Mörikes gesellige Erzählkunst”, &lt;em&gt;Eduard Mörike. Sämtliche Erzählungen&lt;/em&gt;, W. Braungart and C. Oestersandfort, eds., Reclams Universal-Bibliothek, vol. 18313,  Stuttgart: Reclam, 2004,  pp.373-402.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Braungart, W. (2004). Mörikes gesellige Erzählkunst. In W.  Braungart &amp;amp; C.  Oestersandfort (Eds.), &lt;em&gt;Reclams Universal-Bibliothek: Vol. 18313&lt;/em&gt;&lt;em&gt;. Eduard Mörike. Sämtliche Erzählungen&lt;/em&gt; (pp. 373-402). Stuttgart: Reclam.&lt;/div&gt;</apa_indent>
+<default>Braungart W (2004)  &lt;br /&gt;In:  Eduard Mörike. Sämtliche Erzählungen. Braungart W, Oestersandfort C (Eds); Reclams Universal-Bibliothek, 18313. Stuttgart: Reclam:  373-402.</default>
+<wels>Braungart, W. (2004): Mörikes gesellige Erzählkunst. In: Wolfgang Braungart; Christian Oestersandfort (Hrsg.):  Eduard Mörike. Sämtliche Erzählungen. Stuttgart: Reclam. (Reclams Universal-Bibliothek, 18313).  S. 373-402.</wels>
+<bio1>Braungart W (2004) &lt;br /&gt;Mörikes gesellige Erzählkunst. &lt;br /&gt;In:  Eduard Mörike. Sämtliche Erzählungen. Braungart W, Oestersandfort C (Eds); Reclams Universal-Bibliothek, 18313. Stuttgart: Reclam:  373-402.</bio1>
+<aps>W.  Braungart, Mörikes gesellige Erzählkunst, in &lt;em&gt;Eduard Mörike. Sämtliche Erzählungen&lt;/em&gt;, edited by W.  Braungart and C.  Oestersandfort, Reclams Universal-Bibliothek, &lt;strong&gt;18313&lt;/strong&gt; (Reclam, Stuttgart, 2004), p. 373-402.</aps>
+<ama>Braungart W. Mörikes gesellige Erzählkunst. In: Braungart W, Oestersandfort C, eds. &lt;em&gt;Eduard Mörike. Sämtliche Erzählungen&lt;/em&gt;. Reclams Universal-Bibliothek. Vol 18313. Stuttgart: Reclam;  2004: 373-402.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Braungart, W. (2004). Mörikes gesellige Erzählkunst (Reclams Universal-Bibliothek). &lt;em&gt;Eduard Mörike. Sämtliche Erzählungen&lt;/em&gt; (S. 373-402). Stuttgart: Reclam.&lt;/div&gt;</dgps>
+<harvard1>Braungart, W., 2004. Mörikes gesellige Erzählkunst. In W.  Braungart &amp;amp; C.  Oestersandfort, eds. &lt;em&gt;Eduard Mörike. Sämtliche Erzählungen&lt;/em&gt;. Reclams Universal-Bibliothek. no.18313  Stuttgart: Reclam, pp. 373-402.</harvard1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1919831</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-11-25T10:55:50Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-04-04T12:11:45Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1919831</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1919831</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

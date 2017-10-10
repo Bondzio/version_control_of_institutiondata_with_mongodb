@@ -1,0 +1,118 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Regulation of AmtR-controlled gene expression in Corynebacterium glutamicum: mechanism and characterization of the AmtR regulon</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">G</namePart>
+  <namePart type="family">Beckers</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J</namePart>
+  <namePart type="family">Strosser</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">U</namePart>
+  <namePart type="family">Hildebrandt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jörn</namePart>
+  <namePart type="family">Kalinowski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">147567</identifier></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Farwick</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">R</namePart>
+  <namePart type="family">Kramer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Burkovski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Research Group J. Kalinowski</namePart>
+  <identifier type="unibi">33070724</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">AmtR, the master regulator of nitrogen control in Corynebacterium glutamicum, represses transcription of a number of genes during nitrogen surplus. Repression is released by an interaction of AmtR with signal transduction protein GlnK. As shown by pull-down assays and gel retardation experiments, only adenylylated GlnK, which is present in the cells during nitrogen limitation, is able to bind to AmtR. The AmtR regulon was characterized in this study by a combination of bioinformatics, transcriptome and proteome analyses. At least 33 genes are directly controlled by the repressor protein including those encoding transporters and enzymes for ammonium assimilation (amtA, amtB, glnA, gltBD), urea and creatinine metabolism (urtABCDE, ureABCEFGD, crnT, codA), a number of biochemically uncharacterized enzymes and transport systems (NCgl1099, NCgl1100, NCgl 1915-1918) as well as signal transduction proteins (glnD, glnK). For the AmtR regulon, an AmtR box has been defined which comprises the sequence tttCTATN(6)AtAGat/aA. Furthermore, the transcriptional organization of AmtR-regulated genes and operons was characterized.</abstract>
+
+<originInfo><publisher>BLACKWELL PUBLISHING</publisher><dateIssued encoding="w3cdtf">2005</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>MOLECULAR MICROBIOLOGY</title></titleInfo>
+  <identifier type="issn">0950-382X</identifier>
+  <identifier type="MEDLINE">16194241</identifier>
+  <identifier type="ISI">000232231100019</identifier><identifier type="doi">10.1111/j.1365-2958.2005.04855.x</identifier>
+<part><detail type="volume"><number>58</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">580-595</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<harvard1>Beckers, G., et al., 2005. Regulation of AmtR-controlled gene expression in Corynebacterium glutamicum: mechanism and characterization of the AmtR regulon. &lt;em&gt;MOLECULAR MICROBIOLOGY&lt;/em&gt;, 58(2), p 580-595.</harvard1>
+<ama>Beckers G, Strosser J, Hildebrandt U, et al. Regulation of AmtR-controlled gene expression in Corynebacterium glutamicum: mechanism and characterization of the AmtR regulon. &lt;em&gt;MOLECULAR MICROBIOLOGY&lt;/em&gt;. 2005;58(2):580-595.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Beckers, G., Strosser, J., Hildebrandt, U., Kalinowski, J., Farwick, M., Kramer, R. &amp;amp; Burkovski, A. (2005). Regulation of AmtR-controlled gene expression in Corynebacterium glutamicum: mechanism and characterization of the AmtR regulon. &lt;em&gt;MOLECULAR MICROBIOLOGY&lt;/em&gt;, &lt;em&gt;58&lt;/em&gt;(2), 580-595. BLACKWELL PUBLISHING. doi:10.1111/j.1365-2958.2005.04855.x.&lt;/div&gt;</dgps>
+<aps>G.  Beckers, et al., Regulation of AmtR-controlled gene expression in Corynebacterium glutamicum: mechanism and characterization of the AmtR regulon, MOLECULAR MICROBIOLOGY &lt;strong&gt;58&lt;/strong&gt;, 580-595 (2005).</aps>
+<bio1>Beckers G, Strosser J, Hildebrandt U, Kalinowski J, Farwick M, Kramer R, Burkovski A (2005) &lt;br /&gt;Regulation of AmtR-controlled gene expression in Corynebacterium glutamicum: mechanism and characterization of the AmtR regulon.&lt;br /&gt;MOLECULAR MICROBIOLOGY 58(2): 580-595.</bio1>
+<wels>Beckers, G.; Strosser, J.; Hildebrandt, U.; Kalinowski, J.; Farwick, M.; Kramer, R.; Burkovski, A. (2005): Regulation of AmtR-controlled gene expression in Corynebacterium glutamicum: mechanism and characterization of the AmtR regulon &lt;em&gt;MOLECULAR MICROBIOLOGY&lt;/em&gt;,58:(2): 580-595.</wels>
+<default>Beckers G, Strosser J, Hildebrandt U, Kalinowski J, Farwick M, Kramer R, Burkovski A (2005) &lt;br /&gt;MOLECULAR MICROBIOLOGY 58(2): 580-595.</default>
+<ieee>G. Beckers, et al., “Regulation of AmtR-controlled gene expression in Corynebacterium glutamicum: mechanism and characterization of the AmtR regulon”, &lt;em&gt;MOLECULAR MICROBIOLOGY&lt;/em&gt;,  vol. 58, 2005,  pp. 580-595.</ieee>
+<mla>Beckers, G, Strosser, J, Hildebrandt, U, Kalinowski, Jörn, Farwick, M, Kramer, R, and Burkovski, A. “Regulation of AmtR-controlled gene expression in Corynebacterium glutamicum: mechanism and characterization of the AmtR regulon”. &lt;em&gt;MOLECULAR MICROBIOLOGY&lt;/em&gt; 58.2 (2005): 580-595.</mla>
+<lncs>Beckers, G., Strosser, J., Hildebrandt, U., Kalinowski, J., Farwick, M., Kramer, R., Burkovski, A.: Regulation of AmtR-controlled gene expression in Corynebacterium glutamicum: mechanism and characterization of the AmtR regulon. MOLECULAR MICROBIOLOGY. 58, 580-595 (2005).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Beckers, G., Strosser, J., Hildebrandt, U., Kalinowski, J., Farwick, M., Kramer, R., &amp;amp; Burkovski, A. (2005). Regulation of AmtR-controlled gene expression in Corynebacterium glutamicum: mechanism and characterization of the AmtR regulon. &lt;em&gt;MOLECULAR MICROBIOLOGY&lt;/em&gt;, &lt;em&gt;58&lt;/em&gt;(2), 580-595.&lt;/div&gt;</apa_indent>
+<apa>Beckers, G., Strosser, J., Hildebrandt, U., Kalinowski, J., Farwick, M., Kramer, R., &amp;amp; Burkovski, A. (2005). Regulation of AmtR-controlled gene expression in Corynebacterium glutamicum: mechanism and characterization of the AmtR regulon. &lt;em&gt;MOLECULAR MICROBIOLOGY&lt;/em&gt;, &lt;em&gt;58&lt;/em&gt;(2), 580-595.</apa>
+<angewandte-chemie>G.  Beckers, J.  Strosser, U.  Hildebrandt, J.  Kalinowski, M.  Farwick, R.  Kramer, and A.  Burkovski, “Regulation of AmtR-controlled gene expression in Corynebacterium glutamicum: mechanism and characterization of the AmtR regulon”, &lt;em&gt;MOLECULAR MICROBIOLOGY&lt;/em&gt;, &lt;strong&gt;2005&lt;/strong&gt;, &lt;em&gt;58&lt;/em&gt;, 580-595.</angewandte-chemie>
+<frontiers>Beckers, G., Strosser, J., Hildebrandt, U., Kalinowski, J., Farwick, M., Kramer, R., and Burkovski, A. (2005). Regulation of AmtR-controlled gene expression in Corynebacterium glutamicum: mechanism and characterization of the AmtR regulon. &lt;em&gt;MOLECULAR MICROBIOLOGY&lt;/em&gt; 58, 580-595.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Beckers, G, Strosser, J, Hildebrandt, U, Kalinowski, Jörn, Farwick, M, Kramer, R, and Burkovski, A. 2005. “Regulation of AmtR-controlled gene expression in Corynebacterium glutamicum: mechanism and characterization of the AmtR regulon”. &lt;em&gt;MOLECULAR MICROBIOLOGY&lt;/em&gt; 58 (2): 580-595.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1602146</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:32:07Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-07T16:39:52Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1602146</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1602146</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

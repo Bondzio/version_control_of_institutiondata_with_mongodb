@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Das Fließband im Kopf: Computer und Rationalisierung</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Bettina</namePart>
+  <namePart type="family">Heintz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">107951</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Sebastian</namePart><namePart type="family">Brändli</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Arbeitsbereich 1 - Soziologische Theorie</namePart>
+  <identifier type="unibi">5656018</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Weltgesellschaft</namePart>
+  <identifier type="unibi">89044</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT3810.pdf">https://pub.uni-bielefeld.de/download/1784289/2314386</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Helbing u. Lichtenhahn</publisher><dateIssued encoding="w3cdtf">1990</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Schweiz im Wandel: Studien zur neueren Gesellschaftsgeschichte ; Festschrift für Rudolf Braun zum 60. Geburtstag</title></titleInfo>
+  <identifier type="isbn">3-7190-1058-9</identifier><identifier type="urn">urn:nbn:de:0070-bipr-38108</identifier>
+<part><extent unit="pages">117-147</extent>
+</part>
+</relatedItem>
+
+<note type="nonBielefeld">yes</note>
+<extension>
+<bibliographicCitation>
+<default>Heintz B (1990)  &lt;br /&gt;In:  Schweiz im Wandel: Studien zur neueren Gesellschaftsgeschichte ; Festschrift für Rudolf Braun zum 60. Geburtstag. Brändli S (Ed);Basel [u.a.]: Helbing u. Lichtenhahn:  117-147.</default>
+<wels>Heintz, B. (1990): Das Fließband im Kopf: Computer und Rationalisierung. In: Sebastian  Brändli (Hrsg.):  Schweiz im Wandel: Studien zur neueren Gesellschaftsgeschichte ; Festschrift für Rudolf Braun zum 60. Geburtstag. Basel [u.a.]: Helbing u. Lichtenhahn.  S. 117-147.</wels>
+<aps>B.  Heintz, Das Fließband im Kopf: Computer und Rationalisierung, in &lt;em&gt;Schweiz im Wandel: Studien zur neueren Gesellschaftsgeschichte ; Festschrift für Rudolf Braun zum 60. Geburtstag&lt;/em&gt;, edited by S.   Brändli (Helbing u. Lichtenhahn, Basel [U.a.], 1990), p. 117-147.</aps>
+<bio1>Heintz B (1990) &lt;br /&gt;Das Fließband im Kopf: Computer und Rationalisierung. &lt;br /&gt;In:  Schweiz im Wandel: Studien zur neueren Gesellschaftsgeschichte ; Festschrift für Rudolf Braun zum 60. Geburtstag. Brändli S (Ed); Basel [u.a.]: Helbing u. Lichtenhahn:  117-147.</bio1>
+<harvard1>Heintz, B., 1990. Das Fließband im Kopf: Computer und Rationalisierung. In S.   Brändli, ed. &lt;em&gt;Schweiz im Wandel: Studien zur neueren Gesellschaftsgeschichte ; Festschrift für Rudolf Braun zum 60. Geburtstag&lt;/em&gt;.  Basel [u.a.]: Helbing u. Lichtenhahn, pp. 117-147.</harvard1>
+<ama>Heintz B. Das Fließband im Kopf: Computer und Rationalisierung. In: Brändli S, ed. &lt;em&gt;Schweiz im Wandel: Studien zur neueren Gesellschaftsgeschichte ; Festschrift für Rudolf Braun zum 60. Geburtstag&lt;/em&gt;. Basel [u.a.]: Helbing u. Lichtenhahn;  1990: 117-147.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heintz, B. (1990). Das Fließband im Kopf: Computer und Rationalisierung. &lt;em&gt;Schweiz im Wandel: Studien zur neueren Gesellschaftsgeschichte ; Festschrift für Rudolf Braun zum 60. Geburtstag&lt;/em&gt; (S. 117-147). Basel [u.a.]: Helbing u. Lichtenhahn.&lt;/div&gt;</dgps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heintz, Bettina. 1990. “Das Fließband im Kopf: Computer und Rationalisierung”. In &lt;em&gt;Schweiz im Wandel: Studien zur neueren Gesellschaftsgeschichte ; Festschrift für Rudolf Braun zum 60. Geburtstag&lt;/em&gt;, ed. Sebastian  Brändli, 117-147. Basel [u.a.]: Helbing u. Lichtenhahn.&lt;/div&gt;</chicago>
+<frontiers>Heintz, B. (1990). “Das Fließband im Kopf: Computer und Rationalisierung” in &lt;em&gt;Schweiz im Wandel: Studien zur neueren Gesellschaftsgeschichte ; Festschrift für Rudolf Braun zum 60. Geburtstag&lt;/em&gt;, ed. S.   Brändli (Basel [u.a.]: Helbing u. Lichtenhahn), 117-147.</frontiers>
+<apa>Heintz, B. (1990). Das Fließband im Kopf: Computer und Rationalisierung. In S.   Brändli (Ed.), &lt;em&gt;Schweiz im Wandel: Studien zur neueren Gesellschaftsgeschichte ; Festschrift für Rudolf Braun zum 60. Geburtstag&lt;/em&gt; (pp. 117-147). Basel [u.a.]: Helbing u. Lichtenhahn.</apa>
+<angewandte-chemie>B.  Heintz, in &lt;em&gt;Schweiz im Wandel: Studien zur neueren Gesellschaftsgeschichte ; Festschrift für Rudolf Braun zum 60. Geburtstag&lt;/em&gt; (Ed.: S.  Brändli), Helbing U. Lichtenhahn, Basel [u.a.], &lt;strong&gt;1990&lt;/strong&gt;, p. 117-147.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heintz, B. (1990). Das Fließband im Kopf: Computer und Rationalisierung. In S.   Brändli (Ed.), &lt;em&gt;Schweiz im Wandel: Studien zur neueren Gesellschaftsgeschichte ; Festschrift für Rudolf Braun zum 60. Geburtstag&lt;/em&gt; (pp. 117-147). Basel [u.a.]: Helbing u. Lichtenhahn.&lt;/div&gt;</apa_indent>
+<lncs>Heintz, B.: Das Fließband im Kopf: Computer und Rationalisierung. In: Brändli, S. (ed.) Schweiz im Wandel: Studien zur neueren Gesellschaftsgeschichte ; Festschrift für Rudolf Braun zum 60. Geburtstag. p. 117-147. Helbing u. Lichtenhahn, Basel [u.a.] (1990).</lncs>
+<mla>Heintz, Bettina. “Das Fließband im Kopf: Computer und Rationalisierung”. &lt;em&gt;Schweiz im Wandel: Studien zur neueren Gesellschaftsgeschichte ; Festschrift für Rudolf Braun zum 60. Geburtstag&lt;/em&gt;. Ed. Sebastian  Brändli. Basel [u.a.]: Helbing u. Lichtenhahn, 1990. 117-147.</mla>
+<ieee>B. Heintz, “Das Fließband im Kopf: Computer und Rationalisierung”, &lt;em&gt;Schweiz im Wandel: Studien zur neueren Gesellschaftsgeschichte ; Festschrift für Rudolf Braun zum 60. Geburtstag&lt;/em&gt;, S.  Brändli, ed.,  Basel [u.a.]: Helbing u. Lichtenhahn, 1990,  pp.117-147.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1784289</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1784289</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1784289</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,99 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Gundolfs George</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Wolfgang</namePart>
+  <namePart type="family">Braungart</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11652</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">4961697</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10222814</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><dateIssued encoding="w3cdtf">1993</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Germanisch-romanische Monatsschrift</title></titleInfo>
+  <identifier type="issn">0016-8904</identifier>
+<part><detail type="volume"><number>43</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">417-442</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>Braungart W (1993) &lt;br /&gt;Gundolfs George.&lt;br /&gt;Germanisch-romanische Monatsschrift 43(4): 417-442.</bio1>
+<aps>W.  Braungart, Gundolfs George, Germanisch-romanische Monatsschrift &lt;strong&gt;43&lt;/strong&gt;, 417-442 (1993).</aps>
+<ama>Braungart W. Gundolfs George. &lt;em&gt;Germanisch-romanische Monatsschrift&lt;/em&gt;. 1993;43(4):417-442.</ama>
+<harvard1>Braungart, W., 1993. Gundolfs George. &lt;em&gt;Germanisch-romanische Monatsschrift&lt;/em&gt;, 43(4), p 417-442.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Braungart, W. (1993). Gundolfs George. &lt;em&gt;Germanisch-romanische Monatsschrift&lt;/em&gt;, &lt;em&gt;43&lt;/em&gt;(4), 417-442.&lt;/div&gt;</dgps>
+<default>Braungart W (1993) &lt;br /&gt;Germanisch-romanische Monatsschrift 43(4): 417-442.</default>
+<wels>Braungart, W. (1993): Gundolfs George &lt;em&gt;Germanisch-romanische Monatsschrift&lt;/em&gt;,43:(4): 417-442.</wels>
+<mla>Braungart, Wolfgang. “Gundolfs George”. &lt;em&gt;Germanisch-romanische Monatsschrift&lt;/em&gt; 43.4 (1993): 417-442.</mla>
+<lncs>Braungart, W.: Gundolfs George. Germanisch-romanische Monatsschrift. 43, 417-442 (1993).</lncs>
+<ieee>W. Braungart, “Gundolfs George”, &lt;em&gt;Germanisch-romanische Monatsschrift&lt;/em&gt;,  vol. 43, 1993,  pp. 417-442.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Braungart, W. (1993). Gundolfs George. &lt;em&gt;Germanisch-romanische Monatsschrift&lt;/em&gt;, &lt;em&gt;43&lt;/em&gt;(4), 417-442.&lt;/div&gt;</apa_indent>
+<frontiers>Braungart, W. (1993). Gundolfs George. &lt;em&gt;Germanisch-romanische Monatsschrift&lt;/em&gt; 43, 417-442.</frontiers>
+<angewandte-chemie>W.  Braungart, “Gundolfs George”, &lt;em&gt;Germanisch-romanische Monatsschrift&lt;/em&gt;, &lt;strong&gt;1993&lt;/strong&gt;, &lt;em&gt;43&lt;/em&gt;, 417-442.</angewandte-chemie>
+<apa>Braungart, W. (1993). Gundolfs George. &lt;em&gt;Germanisch-romanische Monatsschrift&lt;/em&gt;, &lt;em&gt;43&lt;/em&gt;(4), 417-442.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Braungart, Wolfgang. 1993. “Gundolfs George”. &lt;em&gt;Germanisch-romanische Monatsschrift&lt;/em&gt; 43 (4): 417-442.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1914627</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-11-15T09:11:34Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-04-07T09:44:20Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1914627</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1914627</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

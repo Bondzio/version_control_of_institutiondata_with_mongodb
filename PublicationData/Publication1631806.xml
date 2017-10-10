@@ -1,0 +1,110 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Genome-wide analysis of ABA-responsive elements ABRE and CE3 reveals divergent patterns in Arabidopsis and rice</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Judith</namePart>
+  <namePart type="family">Gomez-Porras</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">4707032</identifier></name>
+<name type="personal">
+  <namePart type="given">Diego Mauricio</namePart>
+  <namePart type="family">Riano-Pachon</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ingo</namePart>
+  <namePart type="family">Dreyer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jorge E.</namePart>
+  <namePart type="family">Mayer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Bernd</namePart>
+  <namePart type="family">Mueller-Roeber</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Background: In plants, complex regulatory mechanisms are at the core of physiological and developmental processes. The phytohormone abscisic acid ( ABA) is involved in the regulation of various such processes, including stomatal closure, seed and bud dormancy, and physiological responses to cold, drought and salinity stress. The underlying tissue or plant-wide control circuits often include combinatorial gene regulatory mechanisms and networks that we are only beginning to unravel with the help of new molecular tools. The increasing availability of genomic sequences and gene expression data enables us to dissect ABA regulatory mechanisms at the individual gene expression level. In this paper we used an insilico-based approach directed towards genome-wide prediction and identification of specific features of ABA-responsive elements. In particular we analysed the genome-wide occurrence and positional arrangements of two well-described ABA-responsive cis-regulatory elements ( CREs), ABRE and CE3, in thale cress ( Arabidopsis thaliana) and rice ( Oryza sativa). Results: Our results show that Arabidopsis and rice use the ABA-responsive elements ABRE and CE3 distinctively. Earlier reports for various monocots have identified CE3 as a coupling element ( CE) associated with ABRE. Surprisingly, we found that while ABRE is equally abundant in both species, CE3 is practically absent in Arabidopsis. ABRE-ABRE pairs are common in both genomes, suggesting that these can form functional ABA-responsive complexes ( ABRCs) in Arabidopsis and rice. Furthermore, we detected distinct combinations, orientation patterns and DNA strand preferences of ABRE and CE3 motifs in rice gene promoters. Conclusion: Our computational analyses revealed distinct recruitment patterns of ABA-responsive CREs in upstream sequences of Arabidopsis and rice. The apparent absence of CE3s in Arabidopsis suggests that another CE pairs with ABRE to establish a functional ABRC capable of interacting with transcription factors. Further studies will be needed to test whether the observed differences are extrapolatable to monocots and dicots in general, and to understand how they contribute to the fine-tuning of the hormonal response. The outcome of our investigation can now be used to direct future experimentation designed to further dissect the ABA-dependent regulatory networks.</abstract>
+
+<originInfo><publisher>BIOMED CENTRAL LTD</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>BMC GENOMICS</title></titleInfo>
+  <identifier type="issn">1471-2164</identifier>
+  <identifier type="MEDLINE">17672917</identifier>
+  <identifier type="ISI">000250054400001</identifier><identifier type="doi">10.1186/1471-2164-8-260</identifier>
+<part><detail type="volume"><number>8</number></detail><detail type="issue"><number>1</number></detail>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<harvard1>Gomez-Porras, J., et al., 2007. Genome-wide analysis of ABA-responsive elements ABRE and CE3 reveals divergent patterns in Arabidopsis and rice. &lt;em&gt;BMC GENOMICS&lt;/em&gt;, 8(1): 260.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gomez-Porras, J., Riano-Pachon, D.M., Dreyer, I., Mayer, J.E. &amp;amp; Mueller-Roeber, B. (2007). Genome-wide analysis of ABA-responsive elements ABRE and CE3 reveals divergent patterns in Arabidopsis and rice. &lt;em&gt;BMC GENOMICS&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;(1): 260. BIOMED CENTRAL LTD. doi:10.1186/1471-2164-8-260.&lt;/div&gt;</dgps>
+<ama>Gomez-Porras J, Riano-Pachon DM, Dreyer I, Mayer JE, Mueller-Roeber B. Genome-wide analysis of ABA-responsive elements ABRE and CE3 reveals divergent patterns in Arabidopsis and rice. &lt;em&gt;BMC GENOMICS&lt;/em&gt;. 2007;8(1): 260.</ama>
+<aps> J.  Gomez-Porras, et al., Genome-wide analysis of ABA-responsive elements ABRE and CE3 reveals divergent patterns in Arabidopsis and rice, BMC GENOMICS &lt;strong&gt;8&lt;/strong&gt;, (2007).</aps>
+<bio1>Gomez-Porras J, Riano-Pachon DM, Dreyer I, Mayer JE, Mueller-Roeber B (2007) &lt;br /&gt;Genome-wide analysis of ABA-responsive elements ABRE and CE3 reveals divergent patterns in Arabidopsis and rice.&lt;br /&gt;BMC GENOMICS 8(1): 260.</bio1>
+<wels>Gomez-Porras, J.; Riano-Pachon, D. M.; Dreyer, I.; Mayer, J. E.; Mueller-Roeber, B. (2007): Genome-wide analysis of ABA-responsive elements ABRE and CE3 reveals divergent patterns in Arabidopsis and rice &lt;em&gt;BMC GENOMICS&lt;/em&gt;,8:(1):260</wels>
+<default>Gomez-Porras J, Riano-Pachon DM, Dreyer I, Mayer JE, Mueller-Roeber B (2007) &lt;br /&gt;BMC GENOMICS 8(1): 260.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gomez-Porras, J., Riano-Pachon, D. M., Dreyer, I., Mayer, J. E., &amp;amp; Mueller-Roeber, B. (2007). Genome-wide analysis of ABA-responsive elements ABRE and CE3 reveals divergent patterns in Arabidopsis and rice. &lt;em&gt;BMC GENOMICS&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;(1): 260.&lt;/div&gt;</apa_indent>
+<ieee> J. Gomez-Porras, et al., “Genome-wide analysis of ABA-responsive elements ABRE and CE3 reveals divergent patterns in Arabidopsis and rice”, &lt;em&gt;BMC GENOMICS&lt;/em&gt;,  vol. 8, 2007, : 260.</ieee>
+<lncs> Gomez-Porras, J., Riano-Pachon, D.M., Dreyer, I., Mayer, J.E., Mueller-Roeber, B.: Genome-wide analysis of ABA-responsive elements ABRE and CE3 reveals divergent patterns in Arabidopsis and rice. BMC GENOMICS. 8, : 260 (2007).</lncs>
+<mla>Gomez-Porras, Judith, Riano-Pachon, Diego Mauricio, Dreyer, Ingo, Mayer, Jorge E., and Mueller-Roeber, Bernd. “Genome-wide analysis of ABA-responsive elements ABRE and CE3 reveals divergent patterns in Arabidopsis and rice”. &lt;em&gt;BMC GENOMICS&lt;/em&gt; 8.1 (2007): 260.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gomez-Porras, Judith, Riano-Pachon, Diego Mauricio, Dreyer, Ingo, Mayer, Jorge E., and Mueller-Roeber, Bernd. 2007. “Genome-wide analysis of ABA-responsive elements ABRE and CE3 reveals divergent patterns in Arabidopsis and rice”. &lt;em&gt;BMC GENOMICS&lt;/em&gt; 8 (1): 260.&lt;/div&gt;</chicago>
+<angewandte-chemie>J.  Gomez-Porras, D. M.  Riano-Pachon, I.  Dreyer, J. E.  Mayer, and B.  Mueller-Roeber, “Genome-wide analysis of ABA-responsive elements ABRE and CE3 reveals divergent patterns in Arabidopsis and rice”, &lt;em&gt;BMC GENOMICS&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;8&lt;/em&gt;, : 260.</angewandte-chemie>
+<apa>Gomez-Porras, J., Riano-Pachon, D. M., Dreyer, I., Mayer, J. E., &amp;amp; Mueller-Roeber, B. (2007). Genome-wide analysis of ABA-responsive elements ABRE and CE3 reveals divergent patterns in Arabidopsis and rice. &lt;em&gt;BMC GENOMICS&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;(1): 260.</apa>
+<frontiers>Gomez-Porras, J., Riano-Pachon, D. M., Dreyer, I., Mayer, J. E., and Mueller-Roeber, B. (2007). Genome-wide analysis of ABA-responsive elements ABRE and CE3 reveals divergent patterns in Arabidopsis and rice. &lt;em&gt;BMC GENOMICS&lt;/em&gt; 8:260.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1631806</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:05:57Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-18T09:46:21Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1631806</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1631806</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

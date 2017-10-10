@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Zehn Jahre dvs - Rückblicke und Vorsätze</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Dietrich</namePart>
+  <namePart type="family">Kurz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">120538</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Detlef</namePart><namePart type="family">Kuhlmann</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Dietrich</namePart><namePart type="family">Kurz</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Arbeitsbereich IV - Sport und Erziehung</namePart>
+  <identifier type="unibi">28978161</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Kurz_023.pdf">https://pub.uni-bielefeld.de/download/1779219/2312594</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>dvs</publisher><dateIssued encoding="w3cdtf">1987</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>1976 - 1986: zehn Jahre DVS, Perspektiven der Sportwissenschaft ; Referate und Dokumentation</title></titleInfo>
+  <identifier type="isbn">3-923592-25-6</identifier><identifier type="urn">urn:nbn:de:0070-bipr-17685</identifier>
+<part><extent unit="pages">5-26</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<harvard1>Kurz, D., 1987. Zehn Jahre dvs - Rückblicke und Vorsätze. In D.  Kuhlmann &amp;amp; D.  Kurz, eds. &lt;em&gt;1976 - 1986: zehn Jahre DVS, Perspektiven der Sportwissenschaft ; Referate und Dokumentation&lt;/em&gt;. DVS-Protokolle / Deutsche Vereinigung fuer Sportwissenschaft ; 26.  Clausthal-Zellerfeld: dvs, pp. 5-26.</harvard1>
+<ama>Kurz D. Zehn Jahre dvs - Rückblicke und Vorsätze. In: Kuhlmann D, Kurz D, eds. &lt;em&gt;1976 - 1986: zehn Jahre DVS, Perspektiven der Sportwissenschaft ; Referate und Dokumentation&lt;/em&gt;. DVS-Protokolle / Deutsche Vereinigung fuer Sportwissenschaft ; 26. Clausthal-Zellerfeld: dvs;  1987: 5-26.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kurz, D. (1987). Zehn Jahre dvs - Rückblicke und Vorsätze (DVS-Protokolle / Deutsche Vereinigung fuer Sportwissenschaft ; 26). &lt;em&gt;1976 - 1986: zehn Jahre DVS, Perspektiven der Sportwissenschaft ; Referate und Dokumentation&lt;/em&gt; (S. 5-26). Clausthal-Zellerfeld: dvs.&lt;/div&gt;</dgps>
+<aps>D.  Kurz, Zehn Jahre dvs - Rückblicke und Vorsätze, in &lt;em&gt;1976 - 1986: zehn Jahre DVS, Perspektiven der Sportwissenschaft ; Referate und Dokumentation&lt;/em&gt;, edited by D.  Kuhlmann and D.  Kurz, DVS-Protokolle / Deutsche Vereinigung fuer Sportwissenschaft ; 26 (dvs, Clausthal-Zellerfeld, 1987), p. 5-26.</aps>
+<bio1>Kurz D (1987) &lt;br /&gt;Zehn Jahre dvs - Rückblicke und Vorsätze. &lt;br /&gt;In:  1976 - 1986: zehn Jahre DVS, Perspektiven der Sportwissenschaft ; Referate und Dokumentation. Kuhlmann D, Kurz D (Eds); DVS-Protokolle / Deutsche Vereinigung fuer Sportwissenschaft ; 26,  Clausthal-Zellerfeld: dvs:  5-26.</bio1>
+<wels>Kurz, D. (1987): Zehn Jahre dvs - Rückblicke und Vorsätze. In: Detlef Kuhlmann; Dietrich Kurz (Hrsg.):  1976 - 1986: zehn Jahre DVS, Perspektiven der Sportwissenschaft ; Referate und Dokumentation. Clausthal-Zellerfeld: dvs. (DVS-Protokolle / Deutsche Vereinigung fuer Sportwissenschaft ; 26, ).  S. 5-26.</wels>
+<default>Kurz D (1987)  &lt;br /&gt;In:  1976 - 1986: zehn Jahre DVS, Perspektiven der Sportwissenschaft ; Referate und Dokumentation. Kuhlmann D, Kurz D (Eds); DVS-Protokolle / Deutsche Vereinigung fuer Sportwissenschaft ; 26, . Clausthal-Zellerfeld: dvs:  5-26.</default>
+<ieee>D. Kurz, “Zehn Jahre dvs - Rückblicke und Vorsätze”, &lt;em&gt;1976 - 1986: zehn Jahre DVS, Perspektiven der Sportwissenschaft ; Referate und Dokumentation&lt;/em&gt;, D. Kuhlmann and D. Kurz, eds., DVS-Protokolle / Deutsche Vereinigung fuer Sportwissenschaft ; 26,  Clausthal-Zellerfeld: dvs, 1987,  pp.5-26.</ieee>
+<mla>Kurz, Dietrich. “Zehn Jahre dvs - Rückblicke und Vorsätze”. &lt;em&gt;1976 - 1986: zehn Jahre DVS, Perspektiven der Sportwissenschaft ; Referate und Dokumentation&lt;/em&gt;. Ed. Detlef Kuhlmann and Dietrich Kurz. Clausthal-Zellerfeld: dvs, 1987. DVS-Protokolle / Deutsche Vereinigung fuer Sportwissenschaft ; 26. 5-26.</mla>
+<lncs>Kurz, D.: Zehn Jahre dvs - Rückblicke und Vorsätze. In: Kuhlmann, D. and Kurz, D. (eds.) 1976 - 1986: zehn Jahre DVS, Perspektiven der Sportwissenschaft ; Referate und Dokumentation. DVS-Protokolle / Deutsche Vereinigung fuer Sportwissenschaft ; 26. p. 5-26. dvs, Clausthal-Zellerfeld (1987).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kurz, D. (1987). Zehn Jahre dvs - Rückblicke und Vorsätze. In D.  Kuhlmann &amp;amp; D.  Kurz (Eds.), &lt;em&gt;DVS-Protokolle / Deutsche Vereinigung fuer Sportwissenschaft ; 26&lt;/em&gt;&lt;em&gt;. 1976 - 1986: zehn Jahre DVS, Perspektiven der Sportwissenschaft ; Referate und Dokumentation&lt;/em&gt; (pp. 5-26). Clausthal-Zellerfeld: dvs.&lt;/div&gt;</apa_indent>
+<apa>Kurz, D. (1987). Zehn Jahre dvs - Rückblicke und Vorsätze. In D.  Kuhlmann &amp;amp; D.  Kurz (Eds.), &lt;em&gt;DVS-Protokolle / Deutsche Vereinigung fuer Sportwissenschaft ; 26&lt;/em&gt;&lt;em&gt;. 1976 - 1986: zehn Jahre DVS, Perspektiven der Sportwissenschaft ; Referate und Dokumentation&lt;/em&gt; (pp. 5-26). Clausthal-Zellerfeld: dvs.</apa>
+<angewandte-chemie>D.  Kurz, in &lt;em&gt;1976 - 1986: zehn Jahre DVS, Perspektiven der Sportwissenschaft ; Referate und Dokumentation&lt;/em&gt; (Eds.: D. Kuhlmann, D. Kurz), Dvs, Clausthal-Zellerfeld, &lt;strong&gt;1987&lt;/strong&gt;, p. 5-26.</angewandte-chemie>
+<frontiers>Kurz, D. (1987). “Zehn Jahre dvs - Rückblicke und Vorsätze” in &lt;em&gt;1976 - 1986: zehn Jahre DVS, Perspektiven der Sportwissenschaft ; Referate und Dokumentation&lt;/em&gt;, ed. D.  Kuhlmann and D.  Kurz DVS-Protokolle / Deutsche Vereinigung fuer Sportwissenschaft ; 26 (Clausthal-Zellerfeld: dvs), 5-26.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kurz, Dietrich. 1987. “Zehn Jahre dvs - Rückblicke und Vorsätze”. In &lt;em&gt;1976 - 1986: zehn Jahre DVS, Perspektiven der Sportwissenschaft ; Referate und Dokumentation&lt;/em&gt;, ed. Detlef Kuhlmann and Dietrich Kurz, 5-26. DVS-Protokolle / Deutsche Vereinigung fuer Sportwissenschaft ; 26. Clausthal-Zellerfeld: dvs.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1779219</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1779219</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1779219</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,111 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>SCALING PROPERTIES OF THE ENERGY DENSITY IN SU(2) LATTICE GAUGE-THEORY</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Jürgen</namePart>
+  <namePart type="family">Engels</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40338</identifier></name>
+<name type="personal">
+  <namePart type="given">Frithjof</namePart>
+  <namePart type="family">Karsch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40326</identifier></name>
+<name type="personal">
+  <namePart type="given">K</namePart>
+  <namePart type="family">REDLICH</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The lattice data for the energy density of SU(2) gauge theory are calculated with nonperturbative derivatives of the coupling constants. These derivatives are obtained from two sources: (i) a parametrization of the non-perturbative beta function in accord with the measured critical temperature and Delta beta-values and (ii) a non-perturbative calculation of the presssure. We then perform a detailed finite size scaling analysis of the energy density near T-c. It is shown that at the critical temperature the energy density is scaling as a function of VT3 With the corresponding 3D Ising model critical exponents. The value of epsilon(T-c)/T-c(4) in the continuum limit is estimated to be 0.256(23). In the high temperature regime the energy density is approaching its weak coupling limit from below, at T/T-c approximate to 2 it has reached only about 70% of the limit.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">1995</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>NUCLEAR PHYSICS B</title></titleInfo>
+  <identifier type="issn">0550-3213</identifier>
+  <identifier type="arXiv">hep-lat/9408009</identifier>
+  <identifier type="INSPIRE">375289</identifier>
+  <identifier type="ISI">A1995QD39300013</identifier><identifier type="doi">10.1016/0550-3213(94)00491-V</identifier>
+<part><detail type="volume"><number>435</number></detail><detail type="issue"><number>1-2</number></detail><extent unit="pages">295-310</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Engels J, Karsch F, REDLICH K (1995) &lt;br /&gt;NUCLEAR PHYSICS B 435(1-2): 295-310.</default>
+<wels>Engels, J.; Karsch, F.; REDLICH, K. (1995): SCALING PROPERTIES OF THE ENERGY DENSITY IN SU(2) LATTICE GAUGE-THEORY &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;,435:(1-2): 295-310.</wels>
+<bio1>Engels J, Karsch F, REDLICH K (1995) &lt;br /&gt;SCALING PROPERTIES OF THE ENERGY DENSITY IN SU(2) LATTICE GAUGE-THEORY.&lt;br /&gt;NUCLEAR PHYSICS B 435(1-2): 295-310.</bio1>
+<aps>J.  Engels, F.  Karsch, and K.  REDLICH, SCALING PROPERTIES OF THE ENERGY DENSITY IN SU(2) LATTICE GAUGE-THEORY, NUCLEAR PHYSICS B &lt;strong&gt;435&lt;/strong&gt;, 295-310 (1995).</aps>
+<ama>Engels J, Karsch F, REDLICH K. SCALING PROPERTIES OF THE ENERGY DENSITY IN SU(2) LATTICE GAUGE-THEORY. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;. 1995;435(1-2):295-310.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, J., Karsch, F. &amp;amp; REDLICH, K. (1995). SCALING PROPERTIES OF THE ENERGY DENSITY IN SU(2) LATTICE GAUGE-THEORY. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, &lt;em&gt;435&lt;/em&gt;(1-2), 295-310. ELSEVIER SCIENCE BV. doi:10.1016/0550-3213(94)00491-V.&lt;/div&gt;</dgps>
+<harvard1>Engels, J., Karsch, F., &amp;amp; REDLICH, K., 1995. SCALING PROPERTIES OF THE ENERGY DENSITY IN SU(2) LATTICE GAUGE-THEORY. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, 435(1-2), p 295-310.</harvard1>
+<frontiers>Engels, J., Karsch, F., and REDLICH, K. (1995). SCALING PROPERTIES OF THE ENERGY DENSITY IN SU(2) LATTICE GAUGE-THEORY. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt; 435, 295-310.</frontiers>
+<apa>Engels, J., Karsch, F., &amp;amp; REDLICH, K. (1995). SCALING PROPERTIES OF THE ENERGY DENSITY IN SU(2) LATTICE GAUGE-THEORY. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, &lt;em&gt;435&lt;/em&gt;(1-2), 295-310.</apa>
+<angewandte-chemie>J.  Engels, F.  Karsch, and K.  REDLICH, “SCALING PROPERTIES OF THE ENERGY DENSITY IN SU(2) LATTICE GAUGE-THEORY”, &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, &lt;strong&gt;1995&lt;/strong&gt;, &lt;em&gt;435&lt;/em&gt;, 295-310.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, Jürgen, Karsch, Frithjof, and REDLICH, K. 1995. “SCALING PROPERTIES OF THE ENERGY DENSITY IN SU(2) LATTICE GAUGE-THEORY”. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt; 435 (1-2): 295-310.&lt;/div&gt;</chicago>
+<lncs>Engels, J., Karsch, F., REDLICH, K.: SCALING PROPERTIES OF THE ENERGY DENSITY IN SU(2) LATTICE GAUGE-THEORY. NUCLEAR PHYSICS B. 435, 295-310 (1995).</lncs>
+<mla>Engels, Jürgen, Karsch, Frithjof, and REDLICH, K. “SCALING PROPERTIES OF THE ENERGY DENSITY IN SU(2) LATTICE GAUGE-THEORY”. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt; 435.1-2 (1995): 295-310.</mla>
+<ieee>J. Engels, F. Karsch, and K. REDLICH, “SCALING PROPERTIES OF THE ENERGY DENSITY IN SU(2) LATTICE GAUGE-THEORY”, &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;,  vol. 435, 1995,  pp. 295-310.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, J., Karsch, F., &amp;amp; REDLICH, K. (1995). SCALING PROPERTIES OF THE ENERGY DENSITY IN SU(2) LATTICE GAUGE-THEORY. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, &lt;em&gt;435&lt;/em&gt;(1-2), 295-310.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1641683</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:27:23Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-13T09:30:01Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1641683</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1641683</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

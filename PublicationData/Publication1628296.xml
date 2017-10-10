@@ -1,0 +1,105 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Calculation of Feynman diagrams with low thresholds from their small momentum expansion.</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Jochem</namePart>
+  <namePart type="family">Fleischer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40323</identifier></name>
+<name type="personal">
+  <namePart type="given">OV</namePart>
+  <namePart type="family">Tarasov</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Elektroschwache Wechselwirkungen</namePart>
+  <identifier type="unibi">23470617</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The calculation of Feynman diagrams in terms of a Taylor expansion w.r.t. small momenta squared is a very promising method and may become particularly important for the higher loop diagrams. If the lowest thresholds are very low, however, then the Taylor series expansion is either difficult to apply or extremely many Taylor coefficients might be needed to achieve convergence. In the case of one variable, q(2), the relevant normalization is r = q(2)/q(th)(2) (q(th)(2) = threshold value of q(2)) and we demonstrate that with 30 Taylor coefficients up to r = 100 a precision of 3 to 4 decimals can be achieved. For the case of a low threshold we compare our results with the zero threshold case obtained by first applying a large mass expansion. bs expected the deviation is small which serves as an excellent test for both the methods.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">1996</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>NUCLEAR PHYSICS B</title></titleInfo>
+  <identifier type="issn">0550-3213</identifier>
+  <identifier type="ISI">A1996WB01500039</identifier>
+<part><extent unit="pages">295-300</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>J.  Fleischer and O. V.  Tarasov, Calculation of Feynman diagrams with low thresholds from their small momentum expansion., in &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt; (ELSEVIER SCIENCE BV, 1996), p. 295-300.</aps>
+<bio1>Fleischer J, Tarasov OV (1996) &lt;br /&gt;Calculation of Feynman diagrams with low thresholds from their small momentum expansion. &lt;br /&gt;In:  NUCLEAR PHYSICS B.  ELSEVIER SCIENCE BV:  295-300.</bio1>
+<ama>Fleischer J, Tarasov OV. Calculation of Feynman diagrams with low thresholds from their small momentum expansion. In:  &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;. ELSEVIER SCIENCE BV;  1996: 295-300.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fleischer, J. &amp;amp; Tarasov, O.V. (1996). Calculation of Feynman diagrams with low thresholds from their small momentum expansion. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt; (S. 295-300). ELSEVIER SCIENCE BV.&lt;/div&gt;</dgps>
+<harvard1>Fleischer, J., &amp;amp; Tarasov, O.V., 1996. Calculation of Feynman diagrams with low thresholds from their small momentum expansion. In &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;.  ELSEVIER SCIENCE BV, pp. 295-300.</harvard1>
+<default>Fleischer J, Tarasov OV (1996)  &lt;br /&gt;In:  NUCLEAR PHYSICS B. ELSEVIER SCIENCE BV:  295-300.</default>
+<wels>Fleischer, J.; Tarasov, O. V. (1996): Calculation of Feynman diagrams with low thresholds from their small momentum expansion. In: NUCLEAR PHYSICS B. ELSEVIER SCIENCE BV.  S. 295-300.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fleischer, J., &amp;amp; Tarasov, O. V. (1996). Calculation of Feynman diagrams with low thresholds from their small momentum expansion. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, 295-300.&lt;/div&gt;</apa_indent>
+<lncs>Fleischer, J., Tarasov, O.V.: Calculation of Feynman diagrams with low thresholds from their small momentum expansion. NUCLEAR PHYSICS B. p. 295-300. ELSEVIER SCIENCE BV (1996).</lncs>
+<mla>Fleischer, Jochem, and Tarasov, OV. “Calculation of Feynman diagrams with low thresholds from their small momentum expansion.”. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;. ELSEVIER SCIENCE BV, 1996. 295-300.</mla>
+<ieee>J. Fleischer and O.V. Tarasov, “Calculation of Feynman diagrams with low thresholds from their small momentum expansion.”, &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, ELSEVIER SCIENCE BV, 1996,  pp.295-300.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fleischer, Jochem, and Tarasov, OV. 1996. “Calculation of Feynman diagrams with low thresholds from their small momentum expansion.”. In &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, 295-300. ELSEVIER SCIENCE BV.&lt;/div&gt;</chicago>
+<frontiers>Fleischer, J., and Tarasov, O. V. (1996). “Calculation of Feynman diagrams with low thresholds from their small momentum expansion.” in &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt; (ELSEVIER SCIENCE BV), 295-300.</frontiers>
+<apa>Fleischer, J., &amp;amp; Tarasov, O. V. (1996). Calculation of Feynman diagrams with low thresholds from their small momentum expansion. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, 295-300.</apa>
+<angewandte-chemie>J.  Fleischer, and O. V.  Tarasov, in &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, Elsevier Science Bv, &lt;strong&gt;1996&lt;/strong&gt;, p. 295-300.</angewandte-chemie>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1628296</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:23:24Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-08-30T08:27:43Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1628296</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1628296</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

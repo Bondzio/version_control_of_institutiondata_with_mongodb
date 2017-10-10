@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Gut und schön, schön und gut. 20 Fragmente zur Frage: Was ist gutes Deutsch in der Literatur?</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Wolfgang</namePart>
+  <namePart type="family">Braungart</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11652</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Armin</namePart><namePart type="family">Burckhardt</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10222814</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">4961697</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Dudenverl.</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Was ist gutes Deutsch?</title></titleInfo>
+  <identifier type="isbn">978-3-411-04213-5</identifier>
+<part><extent unit="pages">286-304</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Braungart, W. (2007). Gut und schön, schön und gut. 20 Fragmente zur Frage: Was ist gutes Deutsch in der Literatur? In A.  Burckhardt (Ed.), &lt;em&gt;Was ist gutes Deutsch?&lt;/em&gt; (pp. 286-304). Mannheim, Leipzig, Wien, Zürich: Dudenverl.&lt;/div&gt;</apa_indent>
+<ieee>W. Braungart, “Gut und schön, schön und gut. 20 Fragmente zur Frage: Was ist gutes Deutsch in der Literatur?”, &lt;em&gt;Was ist gutes Deutsch?&lt;/em&gt;, A. Burckhardt, ed.,  Mannheim, Leipzig, Wien, Zürich: Dudenverl., 2007,  pp.286-304.</ieee>
+<mla>Braungart, Wolfgang. “Gut und schön, schön und gut. 20 Fragmente zur Frage: Was ist gutes Deutsch in der Literatur?”. &lt;em&gt;Was ist gutes Deutsch?&lt;/em&gt;. Ed. Armin Burckhardt. Mannheim, Leipzig, Wien, Zürich: Dudenverl., 2007. 286-304.</mla>
+<lncs>Braungart, W.: Gut und schön, schön und gut. 20 Fragmente zur Frage: Was ist gutes Deutsch in der Literatur? In: Burckhardt, A. (ed.) Was ist gutes Deutsch? p. 286-304. Dudenverl., Mannheim, Leipzig, Wien, Zürich (2007).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Braungart, Wolfgang. 2007. “Gut und schön, schön und gut. 20 Fragmente zur Frage: Was ist gutes Deutsch in der Literatur?”. In &lt;em&gt;Was ist gutes Deutsch?&lt;/em&gt;, ed. Armin Burckhardt, 286-304. Mannheim, Leipzig, Wien, Zürich: Dudenverl.&lt;/div&gt;</chicago>
+<apa>Braungart, W. (2007). Gut und schön, schön und gut. 20 Fragmente zur Frage: Was ist gutes Deutsch in der Literatur? In A.  Burckhardt (Ed.), &lt;em&gt;Was ist gutes Deutsch?&lt;/em&gt; (pp. 286-304). Mannheim, Leipzig, Wien, Zürich: Dudenverl.</apa>
+<angewandte-chemie>W.  Braungart, in &lt;em&gt;Was ist gutes Deutsch?&lt;/em&gt; (Ed.: A. Burckhardt), Dudenverl., Mannheim, Leipzig, Wien, Zürich, &lt;strong&gt;2007&lt;/strong&gt;, p. 286-304.</angewandte-chemie>
+<frontiers>Braungart, W. (2007). “Gut und schön, schön und gut. 20 Fragmente zur Frage: Was ist gutes Deutsch in der Literatur?” in &lt;em&gt;Was ist gutes Deutsch?&lt;/em&gt;, ed. A.  Burckhardt (Mannheim, Leipzig, Wien, Zürich: Dudenverl.), 286-304.</frontiers>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Braungart, W. (2007). Gut und schön, schön und gut. 20 Fragmente zur Frage: Was ist gutes Deutsch in der Literatur? &lt;em&gt;Was ist gutes Deutsch?&lt;/em&gt; (S. 286-304). Mannheim, Leipzig, Wien, Zürich: Dudenverl.&lt;/div&gt;</dgps>
+<ama>Braungart W. Gut und schön, schön und gut. 20 Fragmente zur Frage: Was ist gutes Deutsch in der Literatur? In: Burckhardt A, ed. &lt;em&gt;Was ist gutes Deutsch?&lt;/em&gt;. Mannheim, Leipzig, Wien, Zürich: Dudenverl.;  2007: 286-304.</ama>
+<harvard1>Braungart, W., 2007. Gut und schön, schön und gut. 20 Fragmente zur Frage: Was ist gutes Deutsch in der Literatur? In A.  Burckhardt, ed. &lt;em&gt;Was ist gutes Deutsch?&lt;/em&gt;.  Mannheim, Leipzig, Wien, Zürich: Dudenverl., pp. 286-304.</harvard1>
+<bio1>Braungart W (2007) &lt;br /&gt;Gut und schön, schön und gut. 20 Fragmente zur Frage: Was ist gutes Deutsch in der Literatur? &lt;br /&gt;In:  Was ist gutes Deutsch?. Burckhardt A (Ed); Mannheim, Leipzig, Wien, Zürich: Dudenverl.:  286-304.</bio1>
+<aps>W.  Braungart, Gut und schön, schön und gut. 20 Fragmente zur Frage: Was ist gutes Deutsch in der Literatur?, in &lt;em&gt;Was ist gutes Deutsch?&lt;/em&gt;, edited by A.  Burckhardt (Dudenverl., Mannheim, Leipzig, Wien, Zürich, 2007), p. 286-304.</aps>
+<wels>Braungart, W. (2007): Gut und schön, schön und gut. 20 Fragmente zur Frage: Was ist gutes Deutsch in der Literatur? In: Armin Burckhardt (Hrsg.):  Was ist gutes Deutsch?. Mannheim, Leipzig, Wien, Zürich: Dudenverl.  S. 286-304.</wels>
+<default>Braungart W (2007)  &lt;br /&gt;In:  Was ist gutes Deutsch?. Burckhardt A (Ed);Mannheim, Leipzig, Wien, Zürich: Dudenverl.:  286-304.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1919165</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-11-23T15:27:50Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-04-01T06:08:30Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1919165</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1919165</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

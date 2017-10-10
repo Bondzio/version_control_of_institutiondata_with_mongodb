@@ -1,0 +1,129 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Thermodynamics of SU(3) lattice gauge theory</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">G</namePart>
+  <namePart type="family">Boyd</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jürgen</namePart>
+  <namePart type="family">Engels</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40338</identifier></name>
+<name type="personal">
+  <namePart type="given">Frithjof</namePart>
+  <namePart type="family">Karsch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40326</identifier></name>
+<name type="personal">
+  <namePart type="given">Edwin</namePart>
+  <namePart type="family">Laermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40621</identifier></name>
+<name type="personal">
+  <namePart type="given">C</namePart>
+  <namePart type="family">Legeland</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Lütgemeier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Bengt</namePart>
+  <namePart type="family">Petersson</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40337</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The pressure and the energy density of the SU(3) gauge theory are calculated on lattices with temporal extent N-tau = 4, 6 and 8 and spatial extent N-sigma = 16 and 32. The results are then extrapolated to the continuum limit. In the investigated temperature range up to five times T-c we observe a 15% deviation from the ideal gas limit. We also present new results for the critical temperature on lattices with temporal extent N, = 8 and 12. At the corresponding critical couplings the string tension is calculated on 32(4) lattices to fix the temperature scale. An extrapolation to the continuum limit yields T-c/root sigma = 0.629(3). We furthermore present results on the electric and magnetic condensates as well as the temperature dependence of the spatial string tension, These observables suggest that the temperature dependent running coupling remains large even at T similar or equal to 5T(c). For the spatial string tension we find root sigma(s)/T = 0.566(13)g(2)(T) with g(2)(5T(c)) similar or equal to 1.5.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">1996</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>finite temperature</topic><topic>SU(3)</topic><topic>equation of state</topic><topic>lattice field theory</topic><topic>Monte Carlo simulations</topic><topic>continuum limit</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>NUCLEAR PHYSICS B</title></titleInfo>
+  <identifier type="issn">0550-3213</identifier>
+  <identifier type="arXiv">hep-lat/9602007</identifier>
+  <identifier type="INSPIRE">415828</identifier>
+  <identifier type="ISI">A1996UX60100004</identifier><identifier type="doi">10.1016/0550-3213(96)00170-8</identifier>
+<part><detail type="volume"><number>469</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">419-444</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Boyd, G.; Engels, J.; Karsch, F.; Laermann, E.; Legeland, C.; Lütgemeier, M.; Petersson, B. (1996): Thermodynamics of SU(3) lattice gauge theory &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;,469:(3): 419-444.</wels>
+<default>Boyd G, Engels J, Karsch F, Laermann E, Legeland C, Lütgemeier M, Petersson B (1996) &lt;br /&gt;NUCLEAR PHYSICS B 469(3): 419-444.</default>
+<harvard1>Boyd, G., et al., 1996. Thermodynamics of SU(3) lattice gauge theory. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, 469(3), p 419-444.</harvard1>
+<ama>Boyd G, Engels J, Karsch F, et al. Thermodynamics of SU(3) lattice gauge theory. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;. 1996;469(3):419-444.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Boyd, G., Engels, J., Karsch, F., Laermann, E., Legeland, C., Lütgemeier, M. &amp;amp; Petersson, B. (1996). Thermodynamics of SU(3) lattice gauge theory. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, &lt;em&gt;469&lt;/em&gt;(3), 419-444. ELSEVIER SCIENCE BV. doi:10.1016/0550-3213(96)00170-8.&lt;/div&gt;</dgps>
+<aps>G.  Boyd, et al., Thermodynamics of SU(3) lattice gauge theory, NUCLEAR PHYSICS B &lt;strong&gt;469&lt;/strong&gt;, 419-444 (1996).</aps>
+<bio1>Boyd G, Engels J, Karsch F, Laermann E, Legeland C, Lütgemeier M, Petersson B (1996) &lt;br /&gt;Thermodynamics of SU(3) lattice gauge theory.&lt;br /&gt;NUCLEAR PHYSICS B 469(3): 419-444.</bio1>
+<angewandte-chemie>G.  Boyd, J.  Engels, F.  Karsch, E.  Laermann, C.  Legeland, M.  Lütgemeier, and B.  Petersson, “Thermodynamics of SU(3) lattice gauge theory”, &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, &lt;strong&gt;1996&lt;/strong&gt;, &lt;em&gt;469&lt;/em&gt;, 419-444.</angewandte-chemie>
+<apa>Boyd, G., Engels, J., Karsch, F., Laermann, E., Legeland, C., Lütgemeier, M., &amp;amp; Petersson, B. (1996). Thermodynamics of SU(3) lattice gauge theory. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, &lt;em&gt;469&lt;/em&gt;(3), 419-444.</apa>
+<frontiers>Boyd, G., Engels, J., Karsch, F., Laermann, E., Legeland, C., Lütgemeier, M., and Petersson, B. (1996). Thermodynamics of SU(3) lattice gauge theory. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt; 469, 419-444.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Boyd, G, Engels, Jürgen, Karsch, Frithjof, Laermann, Edwin, Legeland, C, Lütgemeier, M, and Petersson, Bengt. 1996. “Thermodynamics of SU(3) lattice gauge theory”. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt; 469 (3): 419-444.&lt;/div&gt;</chicago>
+<ieee>G. Boyd, et al., “Thermodynamics of SU(3) lattice gauge theory”, &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;,  vol. 469, 1996,  pp. 419-444.</ieee>
+<mla>Boyd, G, Engels, Jürgen, Karsch, Frithjof, Laermann, Edwin, Legeland, C, Lütgemeier, M, and Petersson, Bengt. “Thermodynamics of SU(3) lattice gauge theory”. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt; 469.3 (1996): 419-444.</mla>
+<lncs>Boyd, G., Engels, J., Karsch, F., Laermann, E., Legeland, C., Lütgemeier, M., Petersson, B.: Thermodynamics of SU(3) lattice gauge theory. NUCLEAR PHYSICS B. 469, 419-444 (1996).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Boyd, G., Engels, J., Karsch, F., Laermann, E., Legeland, C., Lütgemeier, M., &amp;amp; Petersson, B. (1996). Thermodynamics of SU(3) lattice gauge theory. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, &lt;em&gt;469&lt;/em&gt;(3), 419-444.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1638870</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:15:00Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2012-01-19T14:52:12Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1638870</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1638870</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Evolutionary change and lawlikeness: Beatty on biological generalizations</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Martin</namePart>
+  <namePart type="family">Carrier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">107511</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Gereon</namePart><namePart type="family">Wolters</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Wissenschafts- und Technikforschung</namePart>
+  <identifier type="unibi">10061</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Abteilung Philosophie</namePart>
+  <identifier type="unibi">10024</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Carrier_01.pdf">https://pub.uni-bielefeld.de/download/1777294/2312332</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Univ.-Verl. Konstanz</publisher><dateIssued encoding="w3cdtf">1995</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Concepts, theories, and rationality in the biological sciences: the second Pittsburgh-Konstanz Colloquium in the Philosophy of Science, University of Pittsburgh, October 1 - 4, 1993</title></titleInfo>
+  <identifier type="isbn">3-87940-525-5</identifier><identifier type="urn">urn:nbn:de:0070-bipr-14085</identifier>
+<part><extent unit="pages">83-97</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>M.  Carrier, Evolutionary change and lawlikeness: Beatty on biological generalizations, in &lt;em&gt;Concepts, theories, and rationality in the biological sciences: the second Pittsburgh-Konstanz Colloquium in the Philosophy of Science, University of Pittsburgh, October 1 - 4, 1993&lt;/em&gt;, edited by G.  Wolters, Pittsburgh-Konstanz series in the philosophy and history of science ; 3 (Univ.-Verl. Konstanz, Konstanz, 1995), p. 83-97.</aps>
+<bio1>Carrier M (1995) &lt;br /&gt;Evolutionary change and lawlikeness: Beatty on biological generalizations. &lt;br /&gt;In:  Concepts, theories, and rationality in the biological sciences: the second Pittsburgh-Konstanz Colloquium in the Philosophy of Science, University of Pittsburgh, October 1 - 4, 1993. Wolters G (Ed); Pittsburgh-Konstanz series in the philosophy and history of science ; 3,  Konstanz: Univ.-Verl. Konstanz:  83-97.</bio1>
+<ama>Carrier M. Evolutionary change and lawlikeness: Beatty on biological generalizations. In: Wolters G, ed. &lt;em&gt;Concepts, theories, and rationality in the biological sciences: the second Pittsburgh-Konstanz Colloquium in the Philosophy of Science, University of Pittsburgh, October 1 - 4, 1993&lt;/em&gt;. Pittsburgh-Konstanz series in the philosophy and history of science ; 3. Konstanz: Univ.-Verl. Konstanz;  1995: 83-97.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Carrier, M. (1995). Evolutionary change and lawlikeness: Beatty on biological generalizations (Pittsburgh-Konstanz series in the philosophy and history of science ; 3). &lt;em&gt;Concepts, theories, and rationality in the biological sciences: the second Pittsburgh-Konstanz Colloquium in the Philosophy of Science, University of Pittsburgh, October 1 - 4, 1993&lt;/em&gt; (S. 83-97). Konstanz: Univ.-Verl. Konstanz.&lt;/div&gt;</dgps>
+<harvard1>Carrier, M., 1995. Evolutionary change and lawlikeness: Beatty on biological generalizations. In G.  Wolters, ed. &lt;em&gt;Concepts, theories, and rationality in the biological sciences: the second Pittsburgh-Konstanz Colloquium in the Philosophy of Science, University of Pittsburgh, October 1 - 4, 1993&lt;/em&gt;. Pittsburgh-Konstanz series in the philosophy and history of science ; 3.  Konstanz: Univ.-Verl. Konstanz, pp. 83-97.</harvard1>
+<default>Carrier M (1995)  &lt;br /&gt;In:  Concepts, theories, and rationality in the biological sciences: the second Pittsburgh-Konstanz Colloquium in the Philosophy of Science, University of Pittsburgh, October 1 - 4, 1993. Wolters G (Ed); Pittsburgh-Konstanz series in the philosophy and history of science ; 3, . Konstanz: Univ.-Verl. Konstanz:  83-97.</default>
+<wels>Carrier, M. (1995): Evolutionary change and lawlikeness: Beatty on biological generalizations. In: Gereon Wolters (Hrsg.):  Concepts, theories, and rationality in the biological sciences: the second Pittsburgh-Konstanz Colloquium in the Philosophy of Science, University of Pittsburgh, October 1 - 4, 1993. Konstanz: Univ.-Verl. Konstanz. (Pittsburgh-Konstanz series in the philosophy and history of science ; 3, ).  S. 83-97.</wels>
+<lncs>Carrier, M.: Evolutionary change and lawlikeness: Beatty on biological generalizations. In: Wolters, G. (ed.) Concepts, theories, and rationality in the biological sciences: the second Pittsburgh-Konstanz Colloquium in the Philosophy of Science, University of Pittsburgh, October 1 - 4, 1993. Pittsburgh-Konstanz series in the philosophy and history of science ; 3. p. 83-97. Univ.-Verl. Konstanz, Konstanz (1995).</lncs>
+<mla>Carrier, Martin. “Evolutionary change and lawlikeness: Beatty on biological generalizations”. &lt;em&gt;Concepts, theories, and rationality in the biological sciences: the second Pittsburgh-Konstanz Colloquium in the Philosophy of Science, University of Pittsburgh, October 1 - 4, 1993&lt;/em&gt;. Ed. Gereon Wolters. Konstanz: Univ.-Verl. Konstanz, 1995. Pittsburgh-Konstanz series in the philosophy and history of science ; 3. 83-97.</mla>
+<ieee>M. Carrier, “Evolutionary change and lawlikeness: Beatty on biological generalizations”, &lt;em&gt;Concepts, theories, and rationality in the biological sciences: the second Pittsburgh-Konstanz Colloquium in the Philosophy of Science, University of Pittsburgh, October 1 - 4, 1993&lt;/em&gt;, G. Wolters, ed., Pittsburgh-Konstanz series in the philosophy and history of science ; 3,  Konstanz: Univ.-Verl. Konstanz, 1995,  pp.83-97.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Carrier, M. (1995). Evolutionary change and lawlikeness: Beatty on biological generalizations. In G.  Wolters (Ed.), &lt;em&gt;Pittsburgh-Konstanz series in the philosophy and history of science ; 3&lt;/em&gt;&lt;em&gt;. Concepts, theories, and rationality in the biological sciences: the second Pittsburgh-Konstanz Colloquium in the Philosophy of Science, University of Pittsburgh, October 1 - 4, 1993&lt;/em&gt; (pp. 83-97). Konstanz: Univ.-Verl. Konstanz.&lt;/div&gt;</apa_indent>
+<frontiers>Carrier, M. (1995). “Evolutionary change and lawlikeness: Beatty on biological generalizations” in &lt;em&gt;Concepts, theories, and rationality in the biological sciences: the second Pittsburgh-Konstanz Colloquium in the Philosophy of Science, University of Pittsburgh, October 1 - 4, 1993&lt;/em&gt;, ed. G.  Wolters Pittsburgh-Konstanz series in the philosophy and history of science ; 3 (Konstanz: Univ.-Verl. Konstanz), 83-97.</frontiers>
+<angewandte-chemie>M.  Carrier, in &lt;em&gt;Concepts, theories, and rationality in the biological sciences: the second Pittsburgh-Konstanz Colloquium in the Philosophy of Science, University of Pittsburgh, October 1 - 4, 1993&lt;/em&gt; (Ed.: G. Wolters), Univ.-Verl. Konstanz, Konstanz, &lt;strong&gt;1995&lt;/strong&gt;, p. 83-97.</angewandte-chemie>
+<apa>Carrier, M. (1995). Evolutionary change and lawlikeness: Beatty on biological generalizations. In G.  Wolters (Ed.), &lt;em&gt;Pittsburgh-Konstanz series in the philosophy and history of science ; 3&lt;/em&gt;&lt;em&gt;. Concepts, theories, and rationality in the biological sciences: the second Pittsburgh-Konstanz Colloquium in the Philosophy of Science, University of Pittsburgh, October 1 - 4, 1993&lt;/em&gt; (pp. 83-97). Konstanz: Univ.-Verl. Konstanz.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Carrier, Martin. 1995. “Evolutionary change and lawlikeness: Beatty on biological generalizations”. In &lt;em&gt;Concepts, theories, and rationality in the biological sciences: the second Pittsburgh-Konstanz Colloquium in the Philosophy of Science, University of Pittsburgh, October 1 - 4, 1993&lt;/em&gt;, ed. Gereon Wolters, 83-97. Pittsburgh-Konstanz series in the philosophy and history of science ; 3. Konstanz: Univ.-Verl. Konstanz.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1777294</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1777294</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1777294</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,159 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The Waddlia Genome: A Window into Chlamydial Biology</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Claire</namePart>
+  <namePart type="family">Bertelli</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Francois</namePart>
+  <namePart type="family">Collyn</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Antony</namePart>
+  <namePart type="family">Croxatto</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">Rückert</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">42238</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-9722-4435</description></name>
+<name type="personal">
+  <namePart type="given">Adam</namePart>
+  <namePart type="family">Polkinghorne</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Carole</namePart>
+  <namePart type="family">Kebbi-Beghdadi</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alexander</namePart>
+  <namePart type="family">Goesmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">152495</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-7086-2568</description></name>
+<name type="personal">
+  <namePart type="given">Lloyd</namePart>
+  <namePart type="family">Vaughan</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Gilbert</namePart>
+  <namePart type="family">Greub</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Computational Genomics</namePart>
+  <identifier type="unibi">29609402</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Genomforschung und Systembiologie</namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Bioinformatics Resource Facility</namePart>
+  <identifier type="unibi">441927</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group A. Goesmann</namePart>
+  <identifier type="unibi">33067438</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Growing evidence suggests that a novel member of the Chlamydiales order, Waddlia chondrophila, is a potential agent of miscarriage in humans and abortion in ruminants. Due to the lack of genetic tools to manipulate chlamydia, genomic analysis is proving to be the most incisive tool in stimulating investigations into the biology of these obligate intracellular bacteria. 454/Roche and Solexa/Illumina technologies were thus used to sequence and assemble de novo the full genome of the first representative of the Waddliaceae family, W. chondrophila. The bacteria possesses a 2&apos;116&apos;312bp chromosome and a 15&apos;593 bp low-copy number plasmid that might integrate into the bacterial chromosome. The Waddlia genome displays numerous repeated sequences indicating different genome dynamics from classical chlamydia which almost completely lack repetitive elements. Moreover, W. chondrophila exhibits many virulence factors also present in classical chlamydia, including a functional type III secretion system, but also a large complement of specific factors for resistance to host or environmental stresses. Large families of outer membrane proteins were identified indicating that these highly immunogenic proteins are not Chlamydiaceae specific and might have been present in their last common ancestor. Enhanced metabolic capability for the synthesis of nucleotides, amino acids, lipids and other co-factors suggests that the common ancestor of the modern Chlamydiales may have been less dependent on their eukaryotic host. The fine-detailed analysis of biosynthetic pathways brings us closer to possibly developing a synthetic medium to grow W. chondrophila, a critical step in the development of genetic tools. As a whole, the availability of the W. chondrophila genome opens new possibilities in Chlamydiales research, providing new insights into the evolution of members of the order Chlamydiales and the biology of the Waddliaceae.</abstract>
+
+<originInfo><publisher>Public Library of Science (PLoS)</publisher><dateIssued encoding="w3cdtf">2010</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>PLOS ONE</title></titleInfo>
+  <identifier type="issn">1932-6203</identifier>
+  <identifier type="eIssn">1932-6203</identifier>
+  <identifier type="MEDLINE">20531937</identifier>
+  <identifier type="ISI">000278222100019</identifier><identifier type="doi">10.1371/journal.pone.0010890</identifier>
+<part><detail type="volume"><number>5</number></detail><detail type="issue"><number>5</number></detail><extent unit="pages">e10890</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Bertelli, C.; Collyn, F.; Croxatto, A.; Rückert, C.; Polkinghorne, A.; Kebbi-Beghdadi, C.; Goesmann, A.; Vaughan, L.; Greub, G. (2010): The Waddlia Genome: A Window into Chlamydial Biology &lt;em&gt;PLOS ONE&lt;/em&gt;,5:(5)</wels>
+<default>Bertelli C, Collyn F, Croxatto A, Rückert C, Polkinghorne A, Kebbi-Beghdadi C, Goesmann A, Vaughan L, Greub G (2010) &lt;br /&gt;PLOS ONE 5(5).</default>
+<harvard1>Bertelli, C., et al., 2010. The Waddlia Genome: A Window into Chlamydial Biology. &lt;em&gt;PLOS ONE&lt;/em&gt;, 5(5).</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bertelli, C., Collyn, F., Croxatto, A., Rückert, C., Polkinghorne, A., Kebbi-Beghdadi, C., Goesmann, A., Vaughan, L. &amp;amp; Greub, G. (2010). The Waddlia Genome: A Window into Chlamydial Biology. &lt;em&gt;PLOS ONE&lt;/em&gt;, &lt;em&gt;5&lt;/em&gt;(5). Public Library of Science (PLoS). doi:10.1371/journal.pone.0010890.&lt;/div&gt;</dgps>
+<ama>Bertelli C, Collyn F, Croxatto A, et al. The Waddlia Genome: A Window into Chlamydial Biology. &lt;em&gt;PLOS ONE&lt;/em&gt;. 2010;5(5).</ama>
+<bio1>Bertelli C, Collyn F, Croxatto A, Rückert C, Polkinghorne A, Kebbi-Beghdadi C, Goesmann A, Vaughan L, Greub G (2010) &lt;br /&gt;The Waddlia Genome: A Window into Chlamydial Biology.&lt;br /&gt;PLOS ONE 5(5).</bio1>
+<aps>C.  Bertelli, et al., The Waddlia Genome: A Window into Chlamydial Biology, PLOS ONE &lt;strong&gt;5&lt;/strong&gt;, (2010).</aps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bertelli, Claire, Collyn, Francois, Croxatto, Antony, Rückert, Christian, Polkinghorne, Adam, Kebbi-Beghdadi, Carole, Goesmann, Alexander, Vaughan, Lloyd, and Greub, Gilbert. 2010. “The Waddlia Genome: A Window into Chlamydial Biology”. &lt;em&gt;PLOS ONE&lt;/em&gt; 5 (5).&lt;/div&gt;</chicago>
+<angewandte-chemie>C.  Bertelli, F.  Collyn, A.  Croxatto, C.  Rückert, A.  Polkinghorne, C.  Kebbi-Beghdadi, A.  Goesmann, L.  Vaughan, and G.  Greub, “The Waddlia Genome: A Window into Chlamydial Biology”, &lt;em&gt;PLOS ONE&lt;/em&gt;, &lt;strong&gt;2010&lt;/strong&gt;, &lt;em&gt;5&lt;/em&gt;.</angewandte-chemie>
+<apa>Bertelli, C., Collyn, F., Croxatto, A., Rückert, C., Polkinghorne, A., Kebbi-Beghdadi, C., Goesmann, A., et al. (2010). The Waddlia Genome: A Window into Chlamydial Biology. &lt;em&gt;PLOS ONE&lt;/em&gt;, &lt;em&gt;5&lt;/em&gt;(5).</apa>
+<frontiers>Bertelli, C., Collyn, F., Croxatto, A., Rückert, C., Polkinghorne, A., Kebbi-Beghdadi, C., Goesmann, A., Vaughan, L., and Greub, G. (2010). The Waddlia Genome: A Window into Chlamydial Biology. &lt;em&gt;PLOS ONE&lt;/em&gt; 5.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bertelli, C., Collyn, F., Croxatto, A., Rückert, C., Polkinghorne, A., Kebbi-Beghdadi, C., Goesmann, A., et al. (2010). The Waddlia Genome: A Window into Chlamydial Biology. &lt;em&gt;PLOS ONE&lt;/em&gt;, &lt;em&gt;5&lt;/em&gt;(5).&lt;/div&gt;</apa_indent>
+<ieee>C. Bertelli, et al., “The Waddlia Genome: A Window into Chlamydial Biology”, &lt;em&gt;PLOS ONE&lt;/em&gt;,  vol. 5, 2010.</ieee>
+<mla>Bertelli, Claire, Collyn, Francois, Croxatto, Antony, Rückert, Christian, Polkinghorne, Adam, Kebbi-Beghdadi, Carole, Goesmann, Alexander, Vaughan, Lloyd, and Greub, Gilbert. “The Waddlia Genome: A Window into Chlamydial Biology”. &lt;em&gt;PLOS ONE&lt;/em&gt; 5.5 (2010).</mla>
+<lncs>Bertelli, C., Collyn, F., Croxatto, A., Rückert, C., Polkinghorne, A., Kebbi-Beghdadi, C., Goesmann, A., Vaughan, L., Greub, G.: The Waddlia Genome: A Window into Chlamydial Biology. PLOS ONE. 5, (2010).</lncs>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1795508</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-10-14T09:03:33Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2015-12-11T16:31:49Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1795508</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1795508</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

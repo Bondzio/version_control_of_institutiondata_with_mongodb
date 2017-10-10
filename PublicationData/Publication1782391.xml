@@ -1,0 +1,110 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Evaluation of membranes for use in on-line cell separation during mammalian cell perfusion processes</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Heino</namePart>
+  <namePart type="family">Büntemeyer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10725</identifier></name>
+<name type="personal">
+  <namePart type="given">Christoph</namePart>
+  <namePart type="family">Bohme</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jürgen</namePart>
+  <namePart type="family">Lehmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Technische Fakultät</namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">In this study two microporous hollow fibre membranes were evaluated for their use as cell retention device in continuous perfusion systems. A chemically modified permanent hydrophillic PTFE membrane and a hydrophilized PP membrane were tested. To investigate the filtration characteristic under process conditions each membrane was tested during a long term perfusion cultivation of a hybridoma cell line. In both cultivations the conditions influencing membrane filtration (e.g. transmembrane flux) were kept constant. Filtration behaviour was investigated by monitoring transmembrane pressure and protein permeability. Transmembrane pressure was measured on-line with an autoclavable piezo-resistive pressure sensor. Protein permeability was determined by quantitative evaluation of unreduced, Coomassie stained SDS-PAGE. The membrane fouling process influences the filtration characteristic of both membranes in a different way. After fermentation the PP membrane was blocked by a thick gel layer located in the big outer pores of the asymmetric membrane structure. The hydraulic resistance was higher but the protein permeability was slightly better than of the PTFE membrane. For this reason the PP membrane should be preferred. On the other hand, transmembrane pressure decreases slower when the PTFE membrane is used, which favours this membrane for long term cultivations, especially when low molecular weight proteins (&lt;30 KD) are produced.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="buentemeyer_17.pdf">https://pub.uni-bielefeld.de/download/1782391/2313819</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1994</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>microfiltration</topic><topic>perfusion</topic><topic>Hybridomate</topic><topic>membrane</topic><topic>monoclonal antibody</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Cytotechnology</title></titleInfo>
+  <identifier type="issn">0920-9069</identifier>
+  <identifier type="eIssn">1573-0778</identifier>
+  <identifier type="MEDLINE">7765937</identifier>
+  <identifier type="ISI">A1994QC63400027</identifier><identifier type="urn">urn:nbn:de:0070-pub-17823914</identifier><identifier type="doi">10.1007/BF00762399</identifier>
+<part><detail type="volume"><number>15</number></detail><detail type="issue"><number>1-3</number></detail><extent unit="pages">243-251</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>Büntemeyer H, Bohme C, Lehmann J (1994) &lt;br /&gt;Evaluation of membranes for use in on-line cell separation during mammalian cell perfusion processes.&lt;br /&gt;Cytotechnology 15(1-3): 243-251.</bio1>
+<aps>H.  Büntemeyer, C.  Bohme, and J.  Lehmann, Evaluation of membranes for use in on-line cell separation during mammalian cell perfusion processes, Cytotechnology &lt;strong&gt;15&lt;/strong&gt;, 243-251 (1994).</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Büntemeyer, H., Bohme, C. &amp;amp; Lehmann, J. (1994). Evaluation of membranes for use in on-line cell separation during mammalian cell perfusion processes. &lt;em&gt;Cytotechnology&lt;/em&gt;, &lt;em&gt;15&lt;/em&gt;(1-3), 243-251. doi:10.1007/BF00762399.&lt;/div&gt;</dgps>
+<harvard1>Büntemeyer, H., Bohme, C., &amp;amp; Lehmann, J., 1994. Evaluation of membranes for use in on-line cell separation during mammalian cell perfusion processes. &lt;em&gt;Cytotechnology&lt;/em&gt;, 15(1-3), p 243-251.</harvard1>
+<ama>Büntemeyer H, Bohme C, Lehmann J. Evaluation of membranes for use in on-line cell separation during mammalian cell perfusion processes. &lt;em&gt;Cytotechnology&lt;/em&gt;. 1994;15(1-3):243-251.</ama>
+<default>Büntemeyer H, Bohme C, Lehmann J (1994) &lt;br /&gt;Cytotechnology 15(1-3): 243-251.</default>
+<wels>Büntemeyer, H.; Bohme, C.; Lehmann, J. (1994): Evaluation of membranes for use in on-line cell separation during mammalian cell perfusion processes &lt;em&gt;Cytotechnology&lt;/em&gt;,15:(1-3): 243-251.</wels>
+<lncs>Büntemeyer, H., Bohme, C., Lehmann, J.: Evaluation of membranes for use in on-line cell separation during mammalian cell perfusion processes. Cytotechnology. 15, 243-251 (1994).</lncs>
+<mla>Büntemeyer, Heino, Bohme, Christoph, and Lehmann, Jürgen. “Evaluation of membranes for use in on-line cell separation during mammalian cell perfusion processes”. &lt;em&gt;Cytotechnology&lt;/em&gt; 15.1-3 (1994): 243-251.</mla>
+<ieee>H. Büntemeyer, C. Bohme, and J. Lehmann, “Evaluation of membranes for use in on-line cell separation during mammalian cell perfusion processes”, &lt;em&gt;Cytotechnology&lt;/em&gt;,  vol. 15, 1994,  pp. 243-251.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Büntemeyer, H., Bohme, C., &amp;amp; Lehmann, J. (1994). Evaluation of membranes for use in on-line cell separation during mammalian cell perfusion processes. &lt;em&gt;Cytotechnology&lt;/em&gt;, &lt;em&gt;15&lt;/em&gt;(1-3), 243-251.&lt;/div&gt;</apa_indent>
+<frontiers>Büntemeyer, H., Bohme, C., and Lehmann, J. (1994). Evaluation of membranes for use in on-line cell separation during mammalian cell perfusion processes. &lt;em&gt;Cytotechnology&lt;/em&gt; 15, 243-251.</frontiers>
+<angewandte-chemie>H.  Büntemeyer, C.  Bohme, and J.  Lehmann, “Evaluation of membranes for use in on-line cell separation during mammalian cell perfusion processes”, &lt;em&gt;Cytotechnology&lt;/em&gt;, &lt;strong&gt;1994&lt;/strong&gt;, &lt;em&gt;15&lt;/em&gt;, 243-251.</angewandte-chemie>
+<apa>Büntemeyer, H., Bohme, C., &amp;amp; Lehmann, J. (1994). Evaluation of membranes for use in on-line cell separation during mammalian cell perfusion processes. &lt;em&gt;Cytotechnology&lt;/em&gt;, &lt;em&gt;15&lt;/em&gt;(1-3), 243-251.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Büntemeyer, Heino, Bohme, Christoph, and Lehmann, Jürgen. 1994. “Evaluation of membranes for use in on-line cell separation during mammalian cell perfusion processes”. &lt;em&gt;Cytotechnology&lt;/em&gt; 15 (1-3): 243-251.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1782391</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1782391</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1782391</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

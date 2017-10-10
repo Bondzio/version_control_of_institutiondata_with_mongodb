@@ -1,0 +1,101 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Le management néolibéral en Allemagne</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Detlef</namePart>
+  <namePart type="family">Sack</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">9106873</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">5656050</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">89044</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>ESPRIT</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Esprit</title></titleInfo>
+  <identifier type="issn">0014-0759</identifier>
+  <identifier type="eIssn">2111-4579</identifier>
+  <identifier type="ISI">000262264500012</identifier><identifier type="doi">10.3917/espri.812.0115</identifier>
+<part><detail type="issue"><number>12</number></detail><extent unit="pages">115-125</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Sack D (2008) &lt;br /&gt;Esprit (12): 115-125.</default>
+<wels>Sack, D. (2008): Le management néolibéral en Allemagne &lt;em&gt;Esprit&lt;/em&gt;,(12): 115-125.</wels>
+<aps> D.  Sack, Le management néolibéral en Allemagne, Esprit 115-125 (2008).</aps>
+<bio1>Sack D (2008) &lt;br /&gt;Le management néolibéral en Allemagne.&lt;br /&gt;Esprit (12): 115-125.</bio1>
+<ama>Sack D. Le management néolibéral en Allemagne. &lt;em&gt;Esprit&lt;/em&gt;. 2008;(12):115-125.</ama>
+<harvard1>Sack, D., 2008. Le management néolibéral en Allemagne. &lt;em&gt;Esprit&lt;/em&gt;, (12), p 115-125.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sack, D. (2008). Le management néolibéral en Allemagne. &lt;em&gt;Esprit&lt;/em&gt;, (12), 115-125. ESPRIT. doi:10.3917/espri.812.0115.&lt;/div&gt;</dgps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sack, Detlef. 2008. “Le management néolibéral en Allemagne”. &lt;em&gt;Esprit&lt;/em&gt;, no. 12: 115-125.&lt;/div&gt;</chicago>
+<frontiers>Sack, D. (2008). Le management néolibéral en Allemagne. &lt;em&gt;Esprit&lt;/em&gt;, 115-125.</frontiers>
+<angewandte-chemie>D.  Sack, “Le management néolibéral en Allemagne”, &lt;em&gt;Esprit&lt;/em&gt;, &lt;strong&gt;2008&lt;/strong&gt;, 115-125.</angewandte-chemie>
+<apa>Sack, D. (2008). Le management néolibéral en Allemagne. &lt;em&gt;Esprit&lt;/em&gt;(12), 115-125.</apa>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sack, D. (2008). Le management néolibéral en Allemagne. &lt;em&gt;Esprit&lt;/em&gt;(12), 115-125.&lt;/div&gt;</apa_indent>
+<mla>Sack, Detlef. “Le management néolibéral en Allemagne”. &lt;em&gt;Esprit&lt;/em&gt; 12 (2008): 115-125.</mla>
+<lncs> Sack, D.: Le management néolibéral en Allemagne. Esprit. 115-125 (2008).</lncs>
+<ieee> D. Sack, “Le management néolibéral en Allemagne”, &lt;em&gt;Esprit&lt;/em&gt;, 2008,  pp. 115-125.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1636209</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:58Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-08-05T11:47:58Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1636209</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1636209</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

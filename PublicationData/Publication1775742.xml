@@ -1,0 +1,96 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The intersection property of amalgamations</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Claus Michael</namePart>
+  <namePart type="family">Ringel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10583</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>SFB 701 Spectral Structures and Topological Methods in Mathematics</namePart>
+  <identifier type="unibi">435978</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Ringel_007.pdf">https://pub.uni-bielefeld.de/download/1775742/2312006</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1972</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Journal of pure and applied algebra</title></titleInfo>
+  <identifier type="issn">0022-4049</identifier><identifier type="urn">urn:nbn:de:0070-pub-17757421</identifier><identifier type="doi">10.1016/0022-4049(72)90010-2</identifier>
+<part><detail type="volume"><number>2</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">341-342</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ringel, Claus Michael. 1972. “The intersection property of amalgamations”. &lt;em&gt;Journal of pure and applied algebra&lt;/em&gt; 2 (4): 341-342.&lt;/div&gt;</chicago>
+<apa>Ringel, C. M. (1972). The intersection property of amalgamations. &lt;em&gt;Journal of pure and applied algebra&lt;/em&gt;, &lt;em&gt;2&lt;/em&gt;(4), 341-342.</apa>
+<angewandte-chemie>C. M.  Ringel, “The intersection property of amalgamations”, &lt;em&gt;Journal of pure and applied algebra&lt;/em&gt;, &lt;strong&gt;1972&lt;/strong&gt;, &lt;em&gt;2&lt;/em&gt;, 341-342.</angewandte-chemie>
+<frontiers>Ringel, C. M. (1972). The intersection property of amalgamations. &lt;em&gt;Journal of pure and applied algebra&lt;/em&gt; 2, 341-342.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ringel, C. M. (1972). The intersection property of amalgamations. &lt;em&gt;Journal of pure and applied algebra&lt;/em&gt;, &lt;em&gt;2&lt;/em&gt;(4), 341-342.&lt;/div&gt;</apa_indent>
+<ieee>C.M. Ringel, “The intersection property of amalgamations”, &lt;em&gt;Journal of pure and applied algebra&lt;/em&gt;,  vol. 2, 1972,  pp. 341-342.</ieee>
+<lncs>Ringel, C.M.: The intersection property of amalgamations. Journal of pure and applied algebra. 2, 341-342 (1972).</lncs>
+<mla>Ringel, Claus Michael. “The intersection property of amalgamations”. &lt;em&gt;Journal of pure and applied algebra&lt;/em&gt; 2.4 (1972): 341-342.</mla>
+<wels>Ringel, C. M. (1972): The intersection property of amalgamations &lt;em&gt;Journal of pure and applied algebra&lt;/em&gt;,2:(4): 341-342.</wels>
+<default>Ringel CM (1972) &lt;br /&gt;Journal of pure and applied algebra 2(4): 341-342.</default>
+<ama>Ringel CM. The intersection property of amalgamations. &lt;em&gt;Journal of pure and applied algebra&lt;/em&gt;. 1972;2(4):341-342.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ringel, C.M. (1972). The intersection property of amalgamations. &lt;em&gt;Journal of pure and applied algebra&lt;/em&gt;, &lt;em&gt;2&lt;/em&gt;(4), 341-342. doi:10.1016/0022-4049(72)90010-2.&lt;/div&gt;</dgps>
+<harvard1>Ringel, C.M., 1972. The intersection property of amalgamations. &lt;em&gt;Journal of pure and applied algebra&lt;/em&gt;, 2(4), p 341-342.</harvard1>
+<bio1>Ringel CM (1972) &lt;br /&gt;The intersection property of amalgamations.&lt;br /&gt;Journal of pure and applied algebra 2(4): 341-342.</bio1>
+<aps>C. M.  Ringel, The intersection property of amalgamations, Journal of pure and applied algebra &lt;strong&gt;2&lt;/strong&gt;, 341-342 (1972).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1775742</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1775742</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1775742</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

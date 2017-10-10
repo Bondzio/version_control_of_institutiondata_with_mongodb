@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Insect walking is based on a decentralized architecture revealing a simple and robust controller</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Holk</namePart>
+  <namePart type="family">Cruse</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21923</identifier></name>
+<name type="personal">
+  <namePart type="given">Volker</namePart>
+  <namePart type="family">Dürr</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21971</identifier></name>
+<name type="personal">
+  <namePart type="given">Josef</namePart>
+  <namePart type="family">Schmitz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">22032</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0003-2054-9124</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Biologische Kybernetik</namePart>
+  <identifier type="unibi">2685507</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Control of walking in rugged terrain requires one to incorporate different issues, such as the mechanical properties of legs and muscles, the neuronal control structures for the single leg, the mechanics and neuronal control structures for the coordination between legs, as well as central decisions that are based on external information and on internal states. Walking in predictable environments and fast running, to a large degree, rely on muscle mechanics. Conversely, slow walking in unpredictable terrain, e.g. climbing in rugged structures, has to rely on neuronal systems that monitor and intelligently react to specific properties of the environment. An arthropod model system that shows the latter abilities is the stick insect, based on which this review will be focused. An insect, when moving its six legs, has to control 18 joints, three per leg, and therefore has to control 18 degrees of freedom (d.f.). As the body position in space is determined by 6 d.f. only, there are 12 d.f. open to be selected. Therefore, a fundamental problem is as to how these extra d.f. are controlled. Based mainly on behavioural experiments and simulation studies, but also including neurophysiological results, the following control structures have been revealed. Legs act as basically independent systems. The quasi-rhythmic movement of the individual leg can be described to result from a structure that exploits mechanical coupling of the legs via the ground and the body. Furthermore, neuronally mediated influences act locally between neighbouring legs, leading to the emergence of insect-type gaits. The underlying controller can be described as a free gait controller. Cooperation of the legs being in stance mode is assumed to be based on mechanical coupling plus local positive feedback controllers. These controllers, acting on individual leg joints, transform a passive displacement of a joint into an active movement, generating synergistic assistance reflexes in all mechanically coupled joints. This architecture is summarized in the form of the artificial neural network, Walknet , that is heavily dependent on sensory feedback at the proprioceptive level. Exteroceptive feedback is exploited for global decisions, such as the walking direction and velocity.</abstract>
+
+<originInfo><publisher>ROYAL SOCIETY</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>walking
+Environment Neural network ENVIRONMENTS Information coordination Mechanics Muscle muscles leg legs Walking control climbing SYSTEMS system Arthropod model velocity direction LEVEL proprioceptive sensory walknet Artificial Neural Network REFLEXES Reflex Assistance reflex positive feedback Controller Gait movement ACT Simulation POSITION body JOINT Review Stick Insect insect running</topic><topic>pattern generation</topic><topic>insect</topic><topic>leg coordination</topic><topic>leg movement</topic><topic>gait</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Philos Transact A Math Phys Eng Sci</title></titleInfo>
+  <identifier type="issn">1364-503X</identifier>
+  <identifier type="eIssn">1471-2962</identifier>
+  <identifier type="MEDLINE">17148058</identifier>
+  <identifier type="ISI">000242771700013</identifier><identifier type="doi">10.1098/rsta.2006.1913</identifier>
+<part><detail type="volume"><number>365</number></detail><detail type="issue"><number>1850</number></detail><extent unit="pages">221-250</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Cruse, H.; Dürr, V.; Schmitz, J. (2007): Insect walking is based on a decentralized architecture revealing a simple and robust controller &lt;em&gt;Philos Transact A Math Phys Eng Sci&lt;/em&gt;,365:(1850): 221-250.</wels>
+<default>Cruse H, Dürr V, Schmitz J (2007) &lt;br /&gt;Philos Transact A Math Phys Eng Sci 365(1850): 221-250.</default>
+<ama>Cruse H, Dürr V, Schmitz J. Insect walking is based on a decentralized architecture revealing a simple and robust controller. &lt;em&gt;Philos Transact A Math Phys Eng Sci&lt;/em&gt;. 2007;365(1850):221-250.</ama>
+<harvard1>Cruse, H., Dürr, V., &amp;amp; Schmitz, J., 2007. Insect walking is based on a decentralized architecture revealing a simple and robust controller. &lt;em&gt;Philos Transact A Math Phys Eng Sci&lt;/em&gt;, 365(1850), p 221-250.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cruse, H., Dürr, V. &amp;amp; Schmitz, J. (2007). Insect walking is based on a decentralized architecture revealing a simple and robust controller. &lt;em&gt;Philos Transact A Math Phys Eng Sci&lt;/em&gt;, &lt;em&gt;365&lt;/em&gt;(1850), 221-250. ROYAL SOCIETY. doi:10.1098/rsta.2006.1913.&lt;/div&gt;</dgps>
+<bio1>Cruse H, Dürr V, Schmitz J (2007) &lt;br /&gt;Insect walking is based on a decentralized architecture revealing a simple and robust controller.&lt;br /&gt;Philos Transact A Math Phys Eng Sci 365(1850): 221-250.</bio1>
+<aps>H.  Cruse, V.  Dürr, and J.  Schmitz, Insect walking is based on a decentralized architecture revealing a simple and robust controller, Philos Transact A Math Phys Eng Sci &lt;strong&gt;365&lt;/strong&gt;, 221-250 (2007).</aps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cruse, Holk, Dürr, Volker, and Schmitz, Josef. 2007. “Insect walking is based on a decentralized architecture revealing a simple and robust controller”. &lt;em&gt;Philos Transact A Math Phys Eng Sci&lt;/em&gt; 365 (1850): 221-250.&lt;/div&gt;</chicago>
+<angewandte-chemie>H.  Cruse, V.  Dürr, and J.  Schmitz, “Insect walking is based on a decentralized architecture revealing a simple and robust controller”, &lt;em&gt;Philos Transact A Math Phys Eng Sci&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;365&lt;/em&gt;, 221-250.</angewandte-chemie>
+<apa>Cruse, H., Dürr, V., &amp;amp; Schmitz, J. (2007). Insect walking is based on a decentralized architecture revealing a simple and robust controller. &lt;em&gt;Philos Transact A Math Phys Eng Sci&lt;/em&gt;, &lt;em&gt;365&lt;/em&gt;(1850), 221-250.</apa>
+<frontiers>Cruse, H., Dürr, V., and Schmitz, J. (2007). Insect walking is based on a decentralized architecture revealing a simple and robust controller. &lt;em&gt;Philos Transact A Math Phys Eng Sci&lt;/em&gt; 365, 221-250.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cruse, H., Dürr, V., &amp;amp; Schmitz, J. (2007). Insect walking is based on a decentralized architecture revealing a simple and robust controller. &lt;em&gt;Philos Transact A Math Phys Eng Sci&lt;/em&gt;, &lt;em&gt;365&lt;/em&gt;(1850), 221-250.&lt;/div&gt;</apa_indent>
+<ieee>H. Cruse, V. Dürr, and J. Schmitz, “Insect walking is based on a decentralized architecture revealing a simple and robust controller”, &lt;em&gt;Philos Transact A Math Phys Eng Sci&lt;/em&gt;,  vol. 365, 2007,  pp. 221-250.</ieee>
+<lncs>Cruse, H., Dürr, V., Schmitz, J.: Insect walking is based on a decentralized architecture revealing a simple and robust controller. Philos Transact A Math Phys Eng Sci. 365, 221-250 (2007).</lncs>
+<mla>Cruse, Holk, Dürr, Volker, and Schmitz, Josef. “Insect walking is based on a decentralized architecture revealing a simple and robust controller”. &lt;em&gt;Philos Transact A Math Phys Eng Sci&lt;/em&gt; 365.1850 (2007): 221-250.</mla>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1596597</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:17:12Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-21T15:32:14Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1596597</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1596597</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

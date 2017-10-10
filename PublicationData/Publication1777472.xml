@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Some aspects of Hélène Metzger’s philosophy of science</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Martin</namePart>
+  <namePart type="family">Carrier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">107511</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Gad</namePart><namePart type="family">Freudenthal</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Abteilung Philosophie</namePart>
+  <identifier type="unibi">10024</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Wissenschafts- und Technikforschung</namePart>
+  <identifier type="unibi">10061</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Carrier_20.pdf">https://pub.uni-bielefeld.de/download/1777472/2312345</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Brill</publisher><dateIssued encoding="w3cdtf">1990</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Etudes sur, studies on Hélène Metzger</title></titleInfo>
+  <identifier type="isbn">90-04-09210-2</identifier><identifier type="urn">urn:nbn:de:0070-bipr-14211</identifier>
+<part><extent unit="pages">135-150</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>M. Carrier, “Some aspects of Hélène Metzger’s philosophy of science”, &lt;em&gt;Etudes sur, studies on Hélène Metzger&lt;/em&gt;, G. Freudenthal, ed., Collection de travaux de l&apos;Academie Internationale d&apos;Histoire des Sciences, 32,  Leiden: Brill, 1990,  pp.135-150.</ieee>
+<mla>Carrier, Martin. “Some aspects of Hélène Metzger’s philosophy of science”. &lt;em&gt;Etudes sur, studies on Hélène Metzger&lt;/em&gt;. Ed. Gad Freudenthal. Leiden: Brill, 1990. Collection de travaux de l&apos;Academie Internationale d&apos;Histoire des Sciences, 32. 135-150.</mla>
+<lncs>Carrier, M.: Some aspects of Hélène Metzger’s philosophy of science. In: Freudenthal, G. (ed.) Etudes sur, studies on Hélène Metzger. Collection de travaux de l&apos;Academie Internationale d&apos;Histoire des Sciences, 32. p. 135-150. Brill, Leiden (1990).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Carrier, M. (1990). Some aspects of Hélène Metzger’s philosophy of science. In G.  Freudenthal (Ed.), &lt;em&gt;Collection de travaux de l&apos;Academie Internationale d&apos;Histoire des Sciences, 32&lt;/em&gt;&lt;em&gt;. Etudes sur, studies on Hélène Metzger&lt;/em&gt; (pp. 135-150). Leiden: Brill.&lt;/div&gt;</apa_indent>
+<apa>Carrier, M. (1990). Some aspects of Hélène Metzger’s philosophy of science. In G.  Freudenthal (Ed.), &lt;em&gt;Collection de travaux de l&apos;Academie Internationale d&apos;Histoire des Sciences, 32&lt;/em&gt;&lt;em&gt;. Etudes sur, studies on Hélène Metzger&lt;/em&gt; (pp. 135-150). Leiden: Brill.</apa>
+<angewandte-chemie>M.  Carrier, in &lt;em&gt;Etudes sur, studies on Hélène Metzger&lt;/em&gt; (Ed.: G. Freudenthal), Brill, Leiden, &lt;strong&gt;1990&lt;/strong&gt;, p. 135-150.</angewandte-chemie>
+<frontiers>Carrier, M. (1990). “Some aspects of Hélène Metzger’s philosophy of science” in &lt;em&gt;Etudes sur, studies on Hélène Metzger&lt;/em&gt;, ed. G.  Freudenthal Collection de travaux de l&apos;Academie Internationale d&apos;Histoire des Sciences, 32 (Leiden: Brill), 135-150.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Carrier, Martin. 1990. “Some aspects of Hélène Metzger’s philosophy of science”. In &lt;em&gt;Etudes sur, studies on Hélène Metzger&lt;/em&gt;, ed. Gad Freudenthal, 135-150. Collection de travaux de l&apos;Academie Internationale d&apos;Histoire des Sciences, 32. Leiden: Brill.&lt;/div&gt;</chicago>
+<harvard1>Carrier, M., 1990. Some aspects of Hélène Metzger’s philosophy of science. In G.  Freudenthal, ed. &lt;em&gt;Etudes sur, studies on Hélène Metzger&lt;/em&gt;. Collection de travaux de l&apos;Academie Internationale d&apos;Histoire des Sciences, 32.  Leiden: Brill, pp. 135-150.</harvard1>
+<ama>Carrier M. Some aspects of Hélène Metzger’s philosophy of science. In: Freudenthal G, ed. &lt;em&gt;Etudes sur, studies on Hélène Metzger&lt;/em&gt;. Collection de travaux de l&apos;Academie Internationale d&apos;Histoire des Sciences, 32. Leiden: Brill;  1990: 135-150.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Carrier, M. (1990). Some aspects of Hélène Metzger’s philosophy of science (Collection de travaux de l&apos;Academie Internationale d&apos;Histoire des Sciences, 32). &lt;em&gt;Etudes sur, studies on Hélène Metzger&lt;/em&gt; (S. 135-150). Leiden: Brill.&lt;/div&gt;</dgps>
+<bio1>Carrier M (1990) &lt;br /&gt;Some aspects of Hélène Metzger’s philosophy of science. &lt;br /&gt;In:  Etudes sur, studies on Hélène Metzger. Freudenthal G (Ed); Collection de travaux de l&apos;Academie Internationale d&apos;Histoire des Sciences, 32,  Leiden: Brill:  135-150.</bio1>
+<aps>M.  Carrier, Some aspects of Hélène Metzger’s philosophy of science, in &lt;em&gt;Etudes sur, studies on Hélène Metzger&lt;/em&gt;, edited by G.  Freudenthal, Collection de travaux de l&apos;Academie Internationale d&apos;Histoire des Sciences, 32 (Brill, Leiden, 1990), p. 135-150.</aps>
+<wels>Carrier, M. (1990): Some aspects of Hélène Metzger’s philosophy of science. In: Gad Freudenthal (Hrsg.):  Etudes sur, studies on Hélène Metzger. Leiden: Brill. (Collection de travaux de l&apos;Academie Internationale d&apos;Histoire des Sciences, 32, ).  S. 135-150.</wels>
+<default>Carrier M (1990)  &lt;br /&gt;In:  Etudes sur, studies on Hélène Metzger. Freudenthal G (Ed); Collection de travaux de l&apos;Academie Internationale d&apos;Histoire des Sciences, 32, . Leiden: Brill:  135-150.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1777472</recordIdentifier><recordChangeDate encoding="w3cdtf">2013-11-27T09:49:13Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1777472</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1777472</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Hierarchical feed-forward network for object detection tasks</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Ingo</namePart>
+  <namePart type="family">Bax</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Gunther</namePart>
+  <namePart type="family">Heidemann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Helge</namePart>
+  <namePart type="family">Ritter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">91130</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Neuroinformatik</namePart>
+  <identifier type="unibi">10038</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Recent research on neocognitron-like neural feed-forward architectures, which have formerly been successfully applied to the recognition of artificial stimuli such as paperclip objects, now also opens up application to more natural stimuli. Such networks exhibit high-recognition performance with respect to translation, rotation, scaling and cluttered surroundings. In this contribution, we introduce a new type of hierarchical model, which is trained using a non-negative matrix factorization algorithm. In contrast to previous work, our approach cannot only classify objects but is also capable of rapid object detection in natural scenes. Thus, the time-consuming and conceptually unsatisfying split-up into a localization stage (e.g., using segmentation) and a subsequent classification can be avoided. The network consists of alternating layers of simple and complex cell planes and incorporates nonlinear processing schemes that have been proposed in recent literature. Learning of receptive field profiles for the lower layers of the network takes place by unsupervised learning whereas a final classification layer is trained supervised. This final layer is then utilized for detection. We test the classification performance of the network on images of natural objects which are systematically distorted. To test the ability to detect objects, cluttered natural background is used. (c) 2006 Society of Photo-Optical Instrumentation Engineers.</abstract>
+
+<originInfo><publisher>SPIE-INT SOCIETY OPTICAL ENGINEERING</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>neocognitron</topic><topic>neural processings</topic><topic>non-negative matrix factorization</topic><topic>object detection</topic><topic>object recognition</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Optical Engineering</title></titleInfo>
+  <identifier type="issn">0091-3286</identifier>
+  <identifier type="ISI">000239345200048</identifier><identifier type="doi">10.1117/1.2209948</identifier>
+<part><detail type="volume"><number>45</number></detail><detail type="issue"><number>6</number></detail>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Bax, I.; Heidemann, G.; Ritter, H. (2006): Hierarchical feed-forward network for object detection tasks &lt;em&gt;Optical Engineering&lt;/em&gt;,45:(6)</wels>
+<default>Bax I, Heidemann G, Ritter H (2006) &lt;br /&gt;Optical Engineering 45(6).</default>
+<harvard1>Bax, I., Heidemann, G., &amp;amp; Ritter, H., 2006. Hierarchical feed-forward network for object detection tasks. &lt;em&gt;Optical Engineering&lt;/em&gt;, 45(6).</harvard1>
+<ama>Bax I, Heidemann G, Ritter H. Hierarchical feed-forward network for object detection tasks. &lt;em&gt;Optical Engineering&lt;/em&gt;. 2006;45(6).</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bax, I., Heidemann, G. &amp;amp; Ritter, H. (2006). Hierarchical feed-forward network for object detection tasks. &lt;em&gt;Optical Engineering&lt;/em&gt;, &lt;em&gt;45&lt;/em&gt;(6). SPIE-INT SOCIETY OPTICAL ENGINEERING. doi:10.1117/1.2209948.&lt;/div&gt;</dgps>
+<bio1>Bax I, Heidemann G, Ritter H (2006) &lt;br /&gt;Hierarchical feed-forward network for object detection tasks.&lt;br /&gt;Optical Engineering 45(6).</bio1>
+<aps>I.  Bax, G.  Heidemann, and H.  Ritter, Hierarchical feed-forward network for object detection tasks, Optical Engineering &lt;strong&gt;45&lt;/strong&gt;, (2006).</aps>
+<angewandte-chemie>I.  Bax, G.  Heidemann, and H.  Ritter, “Hierarchical feed-forward network for object detection tasks”, &lt;em&gt;Optical Engineering&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;45&lt;/em&gt;.</angewandte-chemie>
+<apa>Bax, I., Heidemann, G., &amp;amp; Ritter, H. (2006). Hierarchical feed-forward network for object detection tasks. &lt;em&gt;Optical Engineering&lt;/em&gt;, &lt;em&gt;45&lt;/em&gt;(6).</apa>
+<frontiers>Bax, I., Heidemann, G., and Ritter, H. (2006). Hierarchical feed-forward network for object detection tasks. &lt;em&gt;Optical Engineering&lt;/em&gt; 45.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bax, Ingo, Heidemann, Gunther, and Ritter, Helge. 2006. “Hierarchical feed-forward network for object detection tasks”. &lt;em&gt;Optical Engineering&lt;/em&gt; 45 (6).&lt;/div&gt;</chicago>
+<ieee>I. Bax, G. Heidemann, and H. Ritter, “Hierarchical feed-forward network for object detection tasks”, &lt;em&gt;Optical Engineering&lt;/em&gt;,  vol. 45, 2006.</ieee>
+<lncs>Bax, I., Heidemann, G., Ritter, H.: Hierarchical feed-forward network for object detection tasks. Optical Engineering. 45, (2006).</lncs>
+<mla>Bax, Ingo, Heidemann, Gunther, and Ritter, Helge. “Hierarchical feed-forward network for object detection tasks”. &lt;em&gt;Optical Engineering&lt;/em&gt; 45.6 (2006).</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bax, I., Heidemann, G., &amp;amp; Ritter, H. (2006). Hierarchical feed-forward network for object detection tasks. &lt;em&gt;Optical Engineering&lt;/em&gt;, &lt;em&gt;45&lt;/em&gt;(6).&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1598400</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:19:23Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2015-01-26T10:34:52Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1598400</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1598400</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

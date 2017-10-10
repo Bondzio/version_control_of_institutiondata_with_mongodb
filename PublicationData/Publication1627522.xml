@@ -1,0 +1,99 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>From Ukkonen to McCreight and Weiner: A unifying view of linear-time suffix tree construction</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Robert</namePart>
+  <namePart type="family">Giegerich</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">147565</identifier></name>
+<name type="personal">
+  <namePart type="given">Stefan</namePart>
+  <namePart type="family">Kurtz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Praktische Informatik</namePart>
+  <identifier type="unibi">10039</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We review the linear-time suffix tree constructions by Weiner, McCreight, and Ukkonen. We use the terminology of the most recent algorithm, Ukkonen&apos;s on-line construction, to explain its historic predecessors. This reveals relationships much closer than one would expect, since the three algorithms are based on rather different intuitive ideas. Moreover, it completely explains the differences between these algorithms in terms of simplicity, efficiency, and implementation complexity.</abstract>
+
+<originInfo><publisher>SPRINGER VERLAG</publisher><dateIssued encoding="w3cdtf">1997</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>program transformation</topic><topic>on-line string matching</topic><topic>text processing</topic><topic>algorithm</topic><topic>suffix trees</topic><topic>linear-time</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>ALGORITHMICA</title></titleInfo>
+  <identifier type="issn">0178-4617</identifier>
+  <identifier type="ISI">A1997XW46600004</identifier><identifier type="doi">10.1007/PL00009177</identifier>
+<part><detail type="volume"><number>19</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">331-353</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Giegerich R, Kurtz S (1997) &lt;br /&gt;ALGORITHMICA 19(3): 331-353.</default>
+<wels>Giegerich, R.; Kurtz, S. (1997): From Ukkonen to McCreight and Weiner: A unifying view of linear-time suffix tree construction &lt;em&gt;ALGORITHMICA&lt;/em&gt;,19:(3): 331-353.</wels>
+<bio1>Giegerich R, Kurtz S (1997) &lt;br /&gt;From Ukkonen to McCreight and Weiner: A unifying view of linear-time suffix tree construction.&lt;br /&gt;ALGORITHMICA 19(3): 331-353.</bio1>
+<aps>R.  Giegerich and S.  Kurtz, From Ukkonen to McCreight and Weiner: A unifying view of linear-time suffix tree construction, ALGORITHMICA &lt;strong&gt;19&lt;/strong&gt;, 331-353 (1997).</aps>
+<harvard1>Giegerich, R., &amp;amp; Kurtz, S., 1997. From Ukkonen to McCreight and Weiner: A unifying view of linear-time suffix tree construction. &lt;em&gt;ALGORITHMICA&lt;/em&gt;, 19(3), p 331-353.</harvard1>
+<ama>Giegerich R, Kurtz S. From Ukkonen to McCreight and Weiner: A unifying view of linear-time suffix tree construction. &lt;em&gt;ALGORITHMICA&lt;/em&gt;. 1997;19(3):331-353.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Giegerich, R. &amp;amp; Kurtz, S. (1997). From Ukkonen to McCreight and Weiner: A unifying view of linear-time suffix tree construction. &lt;em&gt;ALGORITHMICA&lt;/em&gt;, &lt;em&gt;19&lt;/em&gt;(3), 331-353. SPRINGER VERLAG. doi:10.1007/PL00009177.&lt;/div&gt;</dgps>
+<frontiers>Giegerich, R., and Kurtz, S. (1997). From Ukkonen to McCreight and Weiner: A unifying view of linear-time suffix tree construction. &lt;em&gt;ALGORITHMICA&lt;/em&gt; 19, 331-353.</frontiers>
+<apa>Giegerich, R., &amp;amp; Kurtz, S. (1997). From Ukkonen to McCreight and Weiner: A unifying view of linear-time suffix tree construction. &lt;em&gt;ALGORITHMICA&lt;/em&gt;, &lt;em&gt;19&lt;/em&gt;(3), 331-353.</apa>
+<angewandte-chemie>R.  Giegerich, and S.  Kurtz, “From Ukkonen to McCreight and Weiner: A unifying view of linear-time suffix tree construction”, &lt;em&gt;ALGORITHMICA&lt;/em&gt;, &lt;strong&gt;1997&lt;/strong&gt;, &lt;em&gt;19&lt;/em&gt;, 331-353.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Giegerich, Robert, and Kurtz, Stefan. 1997. “From Ukkonen to McCreight and Weiner: A unifying view of linear-time suffix tree construction”. &lt;em&gt;ALGORITHMICA&lt;/em&gt; 19 (3): 331-353.&lt;/div&gt;</chicago>
+<mla>Giegerich, Robert, and Kurtz, Stefan. “From Ukkonen to McCreight and Weiner: A unifying view of linear-time suffix tree construction”. &lt;em&gt;ALGORITHMICA&lt;/em&gt; 19.3 (1997): 331-353.</mla>
+<lncs>Giegerich, R., Kurtz, S.: From Ukkonen to McCreight and Weiner: A unifying view of linear-time suffix tree construction. ALGORITHMICA. 19, 331-353 (1997).</lncs>
+<ieee>R. Giegerich and S. Kurtz, “From Ukkonen to McCreight and Weiner: A unifying view of linear-time suffix tree construction”, &lt;em&gt;ALGORITHMICA&lt;/em&gt;,  vol. 19, 1997,  pp. 331-353.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Giegerich, R., &amp;amp; Kurtz, S. (1997). From Ukkonen to McCreight and Weiner: A unifying view of linear-time suffix tree construction. &lt;em&gt;ALGORITHMICA&lt;/em&gt;, &lt;em&gt;19&lt;/em&gt;(3), 331-353.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1627522</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:22:20Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-11-22T12:26:59Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1627522</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1627522</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

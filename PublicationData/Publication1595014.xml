@@ -1,0 +1,130 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Erythromycin resistance-conferring plasmid pRSB105, isolated from a sewage treatment plant, harbors a new macrolide resistance determinant, an integron-containing Tn402-like element, and a large region of unknown function</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Schlüter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">55545</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0003-4830-310X</description></name>
+<name type="personal">
+  <namePart type="given">Rafael</namePart>
+  <namePart type="family">Szczepanowski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">112271</identifier></name>
+<name type="personal">
+  <namePart type="given">N.</namePart>
+  <namePart type="family">Kurz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Susanne</namePart>
+  <namePart type="family">Schneiker-Bekel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">113931</identifier></name>
+<name type="personal">
+  <namePart type="given">Irene</namePart>
+  <namePart type="family">Krahn</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">42262</identifier></name>
+<name type="personal">
+  <namePart type="given">Alfred</namePart>
+  <namePart type="family">Pühler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21937</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070639</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The erythromycin resistance plasmid pRSB105 was previously isolated from an activated sludge bacterial community of a municipal wastewater treatment plant. Compilation of the complete pRSB105 nucleotide sequence revealed that the plasmid is 57,137 bp in size and has a mean G+C content of 56.66 mol%. The pRSB105 backbone is composed of two different replication and/or partitioning modules and a functional mobilization region encoding the mobilization genes mobCDE and mobBA. The first replicon (Rept) is nearly identical to the corresponding replication module of the multiresistance plasmid pRSB101 isolated from an unknown activated sludge bacterium. Accordingly, pRSB101 and pRSB105 are sister plasmids belonging to a new plasmid family. The second replicon (Rep2) of pRSB105 was classified as a member of the IncP-6 group. While Rep1 confers replication ability only in gamma-proteobacteria, Rep2 extents the host range of the plasmid since it is also functional in the P-proteobacterium Ralstonia eutropha. Plasmid pRSB105 harbors the macrolide resistance genes mel and mph, encoding, respectively, a predicted ABC-type efflux permease and a macrolide-2&apos;-phosphotransferase. Erythromycin resistance is mainly attributed to mel, whereas mph contributes to erythromycin resistance to a lesser extent. The second resistance region, represented by an integron-containing Tn402-like element, includes a P-lactam (oxa10) and a trimethoprim (dftB2) resistance gene cassette. In addition to antibiotic resistance modules, pRSB105 encodes a functional restriction/modification system and two nonresistance regions of unknown function. The presence of different mobile genetic elements that flank resistance and nonresistance modules on pRSB105 indicates that these elements were involved in acquisition of accessory plasmid modules. Comparative genomics of pRSB105 and related plasmids elucidated that pRSB105 evolved by integration of distinct modules from different plasmid sources, including Pseudomonas aeruginosa plasmids, and thus represents a mosaic plasmid.</abstract>
+
+<originInfo><publisher>AMER SOC MICROBIOLOGY</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>APPLIED AND ENVIRONMENTAL MICROBIOLOGY</title></titleInfo>
+  <identifier type="issn">0099-2240</identifier>
+  <identifier type="MEDLINE">7261525</identifier>
+  <identifier type="ISI">000245156800032</identifier><identifier type="doi">10.1128/AEM.02159-06</identifier>
+<part><detail type="volume"><number>73</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">1952-1960</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps> A.  Schlüter, et al., Erythromycin resistance-conferring plasmid pRSB105, isolated from a sewage treatment plant, harbors a new macrolide resistance determinant, an integron-containing Tn402-like element, and a large region of unknown function, APPLIED AND ENVIRONMENTAL MICROBIOLOGY &lt;strong&gt;73&lt;/strong&gt;, 1952-1960 (2007).</aps>
+<bio1>Schlüter A, Szczepanowski R, Kurz N, Schneiker-Bekel S, Krahn I, Pühler A (2007) &lt;br /&gt;Erythromycin resistance-conferring plasmid pRSB105, isolated from a sewage treatment plant, harbors a new macrolide resistance determinant, an integron-containing Tn402-like element, and a large region of unknown function.&lt;br /&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY 73(6): 1952-1960.</bio1>
+<harvard1>Schlüter, A., et al., 2007. Erythromycin resistance-conferring plasmid pRSB105, isolated from a sewage treatment plant, harbors a new macrolide resistance determinant, an integron-containing Tn402-like element, and a large region of unknown function. &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt;, 73(6), p 1952-1960.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schlüter, A., Szczepanowski, R., Kurz, N., Schneiker-Bekel, S., Krahn, I. &amp;amp; Pühler, A. (2007). Erythromycin resistance-conferring plasmid pRSB105, isolated from a sewage treatment plant, harbors a new macrolide resistance determinant, an integron-containing Tn402-like element, and a large region of unknown function. &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt;, &lt;em&gt;73&lt;/em&gt;(6), 1952-1960. AMER SOC MICROBIOLOGY. doi:10.1128/AEM.02159-06.&lt;/div&gt;</dgps>
+<ama>Schlüter A, Szczepanowski R, Kurz N, Schneiker-Bekel S, Krahn I, Pühler A. Erythromycin resistance-conferring plasmid pRSB105, isolated from a sewage treatment plant, harbors a new macrolide resistance determinant, an integron-containing Tn402-like element, and a large region of unknown function. &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt;. 2007;73(6):1952-1960.</ama>
+<default>Schlüter A, Szczepanowski R, Kurz N, Schneiker-Bekel S, Krahn I, Pühler A (2007) &lt;br /&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY 73(6): 1952-1960.</default>
+<wels>Schlüter, A.; Szczepanowski, R.; Kurz, N.; Schneiker-Bekel, S.; Krahn, I.; Pühler, A. (2007): Erythromycin resistance-conferring plasmid pRSB105, isolated from a sewage treatment plant, harbors a new macrolide resistance determinant, an integron-containing Tn402-like element, and a large region of unknown function &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt;,73:(6): 1952-1960.</wels>
+<mla>Schlüter, Andreas, Szczepanowski, Rafael, Kurz, N., Schneiker-Bekel, Susanne, Krahn, Irene, and Pühler, Alfred. “Erythromycin resistance-conferring plasmid pRSB105, isolated from a sewage treatment plant, harbors a new macrolide resistance determinant, an integron-containing Tn402-like element, and a large region of unknown function”. &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt; 73.6 (2007): 1952-1960.</mla>
+<lncs> Schlüter, A., Szczepanowski, R., Kurz, N., Schneiker-Bekel, S., Krahn, I., Pühler, A.: Erythromycin resistance-conferring plasmid pRSB105, isolated from a sewage treatment plant, harbors a new macrolide resistance determinant, an integron-containing Tn402-like element, and a large region of unknown function. APPLIED AND ENVIRONMENTAL MICROBIOLOGY. 73, 1952-1960 (2007).</lncs>
+<ieee> A. Schlüter, et al., “Erythromycin resistance-conferring plasmid pRSB105, isolated from a sewage treatment plant, harbors a new macrolide resistance determinant, an integron-containing Tn402-like element, and a large region of unknown function”, &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt;,  vol. 73, 2007,  pp. 1952-1960.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schlüter, A., Szczepanowski, R., Kurz, N., Schneiker-Bekel, S., Krahn, I., &amp;amp; Pühler, A. (2007). Erythromycin resistance-conferring plasmid pRSB105, isolated from a sewage treatment plant, harbors a new macrolide resistance determinant, an integron-containing Tn402-like element, and a large region of unknown function. &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt;, &lt;em&gt;73&lt;/em&gt;(6), 1952-1960.&lt;/div&gt;</apa_indent>
+<frontiers>Schlüter, A., Szczepanowski, R., Kurz, N., Schneiker-Bekel, S., Krahn, I., and Pühler, A. (2007). Erythromycin resistance-conferring plasmid pRSB105, isolated from a sewage treatment plant, harbors a new macrolide resistance determinant, an integron-containing Tn402-like element, and a large region of unknown function. &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt; 73, 1952-1960.</frontiers>
+<apa>Schlüter, A., Szczepanowski, R., Kurz, N., Schneiker-Bekel, S., Krahn, I., &amp;amp; Pühler, A. (2007). Erythromycin resistance-conferring plasmid pRSB105, isolated from a sewage treatment plant, harbors a new macrolide resistance determinant, an integron-containing Tn402-like element, and a large region of unknown function. &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt;, &lt;em&gt;73&lt;/em&gt;(6), 1952-1960.</apa>
+<angewandte-chemie>A.  Schlüter, R.  Szczepanowski, N.  Kurz, S.  Schneiker-Bekel, I.  Krahn, and A.  Pühler, “Erythromycin resistance-conferring plasmid pRSB105, isolated from a sewage treatment plant, harbors a new macrolide resistance determinant, an integron-containing Tn402-like element, and a large region of unknown function”, &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;73&lt;/em&gt;, 1952-1960.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schlüter, Andreas, Szczepanowski, Rafael, Kurz, N., Schneiker-Bekel, Susanne, Krahn, Irene, and Pühler, Alfred. 2007. “Erythromycin resistance-conferring plasmid pRSB105, isolated from a sewage treatment plant, harbors a new macrolide resistance determinant, an integron-containing Tn402-like element, and a large region of unknown function”. &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt; 73 (6): 1952-1960.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1595014</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:31Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-18T10:09:17Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1595014</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1595014</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

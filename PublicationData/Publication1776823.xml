@@ -1,0 +1,108 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Production of a spin-polarized, metastable He(23 S) beam for studies in atomic and surface physics</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Günter</namePart>
+  <namePart type="family">Baum</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40173</identifier></name>
+<name type="personal">
+  <namePart type="given">Wilhelm</namePart>
+  <namePart type="family">Raith</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Hans</namePart>
+  <namePart type="family">Steidl</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40131</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">This beam was developed as a target for a crossed-beam electron-atom scattering experiment on the interaction of a polarized spin-1/2 electron with a polarized spin-1 atom. In the future this beam will be used in &quot;Spin-Polarized Metastable Atom Deexcitation Spectroscopy&quot; (SPMDS) for studying ferromagnetic surfaces without and with adsorbate layers. We use a discharge source for producing a beam of metastable helium atoms, a permanent sextupole magnet with a central stop at its exit for selecting He(2^3 S) atoms in the Zeeman substate ms=+1, a zero-field spin flipper for reversing the atomic beam polarization with respect to a magnetic guiding field, and a Stern-Gerlach magnet for analyzing the atomic polarization. At a distance of 90 cm beyond the exit of the sextupole, in the &quot;interaction region&quot; of an experiment, the polarized beam has a circular cross section of about 6 mm FWHM and a particle density of 1·10^7 atoms/cm^3. The reversible spin polarization was determined asP=0.90±0.02. A possible contamination of the beam with metastable singlet atoms is included within this value; the ground-state He atoms are not considered to be part of the polarized beam. An observed contamination with long-lived Rydberg atoms can easily be destroyed by applying a high electric field.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Baum_038.pdf">https://pub.uni-bielefeld.de/download/1776823/2312256</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1988</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Z.Phys. D</title></titleInfo>
+  <identifier type="issn">0178-7683</identifier>
+  <identifier type="eIssn">1434-6079</identifier>
+  <identifier type="ISI">A1988R076900011</identifier><identifier type="urn">urn:nbn:de:0070-pub-17768238</identifier><identifier type="doi">10.1007/BF01384851</identifier>
+<part><detail type="volume"><number>10</number></detail><detail type="issue"><number>2-3</number></detail><extent unit="pages">171-178</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>Baum G, Raith W, Steidl H (1988) &lt;br /&gt;Production of a spin-polarized, metastable He(23 S) beam for studies in atomic and surface physics.&lt;br /&gt;Z.Phys. D 10(2-3): 171-178.</bio1>
+<aps>G.  Baum, W.  Raith, and H.  Steidl, Production of a spin-polarized, metastable He(23 S) beam for studies in atomic and surface physics, Z.Phys. D &lt;strong&gt;10&lt;/strong&gt;, 171-178 (1988).</aps>
+<harvard1>Baum, G., Raith, W., &amp;amp; Steidl, H., 1988. Production of a spin-polarized, metastable He(23 S) beam for studies in atomic and surface physics. &lt;em&gt;Z.Phys. D&lt;/em&gt;, 10(2-3), p 171-178.</harvard1>
+<ama>Baum G, Raith W, Steidl H. Production of a spin-polarized, metastable He(23 S) beam for studies in atomic and surface physics. &lt;em&gt;Z.Phys. D&lt;/em&gt;. 1988;10(2-3):171-178.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baum, G., Raith, W. &amp;amp; Steidl, H. (1988). Production of a spin-polarized, metastable He(23 S) beam for studies in atomic and surface physics. &lt;em&gt;Z.Phys. D&lt;/em&gt;, &lt;em&gt;10&lt;/em&gt;(2-3), 171-178. doi:10.1007/BF01384851.&lt;/div&gt;</dgps>
+<default>Baum G, Raith W, Steidl H (1988) &lt;br /&gt;Z.Phys. D 10(2-3): 171-178.</default>
+<wels>Baum, G.; Raith, W.; Steidl, H. (1988): Production of a spin-polarized, metastable He(23 S) beam for studies in atomic and surface physics &lt;em&gt;Z.Phys. D&lt;/em&gt;,10:(2-3): 171-178.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baum, G., Raith, W., &amp;amp; Steidl, H. (1988). Production of a spin-polarized, metastable He(23 S) beam for studies in atomic and surface physics. &lt;em&gt;Z.Phys. D&lt;/em&gt;, &lt;em&gt;10&lt;/em&gt;(2-3), 171-178.&lt;/div&gt;</apa_indent>
+<mla>Baum, Günter, Raith, Wilhelm, and Steidl, Hans. “Production of a spin-polarized, metastable He(23 S) beam for studies in atomic and surface physics”. &lt;em&gt;Z.Phys. D&lt;/em&gt; 10.2-3 (1988): 171-178.</mla>
+<lncs>Baum, G., Raith, W., Steidl, H.: Production of a spin-polarized, metastable He(23 S) beam for studies in atomic and surface physics. Z.Phys. D. 10, 171-178 (1988).</lncs>
+<ieee>G. Baum, W. Raith, and H. Steidl, “Production of a spin-polarized, metastable He(23 S) beam for studies in atomic and surface physics”, &lt;em&gt;Z.Phys. D&lt;/em&gt;,  vol. 10, 1988,  pp. 171-178.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baum, Günter, Raith, Wilhelm, and Steidl, Hans. 1988. “Production of a spin-polarized, metastable He(23 S) beam for studies in atomic and surface physics”. &lt;em&gt;Z.Phys. D&lt;/em&gt; 10 (2-3): 171-178.&lt;/div&gt;</chicago>
+<frontiers>Baum, G., Raith, W., and Steidl, H. (1988). Production of a spin-polarized, metastable He(23 S) beam for studies in atomic and surface physics. &lt;em&gt;Z.Phys. D&lt;/em&gt; 10, 171-178.</frontiers>
+<apa>Baum, G., Raith, W., &amp;amp; Steidl, H. (1988). Production of a spin-polarized, metastable He(23 S) beam for studies in atomic and surface physics. &lt;em&gt;Z.Phys. D&lt;/em&gt;, &lt;em&gt;10&lt;/em&gt;(2-3), 171-178.</apa>
+<angewandte-chemie>G.  Baum, W.  Raith, and H.  Steidl, “Production of a spin-polarized, metastable He(23 S) beam for studies in atomic and surface physics”, &lt;em&gt;Z.Phys. D&lt;/em&gt;, &lt;strong&gt;1988&lt;/strong&gt;, &lt;em&gt;10&lt;/em&gt;, 171-178.</angewandte-chemie>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776823</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776823</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776823</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

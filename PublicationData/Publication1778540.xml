@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Drei Gedichte auf Georg Ehrenfried von Lüttichau, Vorbild für Graf Ehrenfried in Christian Reuters Lustspiel</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Johann Karl</namePart>
+  <namePart type="family">von Schroeder</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ulrich</namePart>
+  <namePart type="family">Seelbach</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">160975</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Linguistik und Literaturwissenschaft</namePart>
+  <identifier type="unibi">10019</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Seelbach_036.pdf">https://pub.uni-bielefeld.de/download/1778540/2312456</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1989</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Daphnis</title></titleInfo>
+  <identifier type="issn">0300-693x</identifier><identifier type="urn">urn:nbn:de:0070-bipr-16145</identifier>
+<part><detail type="volume"><number>18</number></detail><extent unit="pages">281-295</extent>
+</part>
+</relatedItem>
+
+<note type="nonBielefeld">yes</note>
+<extension>
+<bibliographicCitation>
+<default>von Schroeder JK, Seelbach U (1989) &lt;br /&gt;Daphnis 18: 281-295.</default>
+<wels>von Schroeder, J. K.; Seelbach, U. (1989): Drei Gedichte auf Georg Ehrenfried von Lüttichau, Vorbild für Graf Ehrenfried in Christian Reuters Lustspiel &lt;em&gt;Daphnis&lt;/em&gt;,18: 281-295.</wels>
+<aps>J. K.   von Schroeder and U.  Seelbach, Drei Gedichte auf Georg Ehrenfried von Lüttichau, Vorbild für Graf Ehrenfried in Christian Reuters Lustspiel, Daphnis &lt;strong&gt;18&lt;/strong&gt;, 281-295 (1989).</aps>
+<bio1>von Schroeder JK, Seelbach U (1989) &lt;br /&gt;Drei Gedichte auf Georg Ehrenfried von Lüttichau, Vorbild für Graf Ehrenfried in Christian Reuters Lustspiel.&lt;br /&gt;Daphnis 18: 281-295.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;von Schroeder, J.K. &amp;amp; Seelbach, U. (1989). Drei Gedichte auf Georg Ehrenfried von Lüttichau, Vorbild für Graf Ehrenfried in Christian Reuters Lustspiel. &lt;em&gt;Daphnis&lt;/em&gt;, &lt;em&gt;18&lt;/em&gt;, 281-295.&lt;/div&gt;</dgps>
+<ama>von Schroeder JK, Seelbach U. Drei Gedichte auf Georg Ehrenfried von Lüttichau, Vorbild für Graf Ehrenfried in Christian Reuters Lustspiel. &lt;em&gt;Daphnis&lt;/em&gt;. 1989;18:281-295.</ama>
+<harvard1>von Schroeder, J.K., &amp;amp; Seelbach, U., 1989. Drei Gedichte auf Georg Ehrenfried von Lüttichau, Vorbild für Graf Ehrenfried in Christian Reuters Lustspiel. &lt;em&gt;Daphnis&lt;/em&gt;, 18, p 281-295.</harvard1>
+<frontiers>von Schroeder, J. K., and Seelbach, U. (1989). Drei Gedichte auf Georg Ehrenfried von Lüttichau, Vorbild für Graf Ehrenfried in Christian Reuters Lustspiel. &lt;em&gt;Daphnis&lt;/em&gt; 18, 281-295.</frontiers>
+<apa>von Schroeder, J. K., &amp;amp; Seelbach, U. (1989). Drei Gedichte auf Georg Ehrenfried von Lüttichau, Vorbild für Graf Ehrenfried in Christian Reuters Lustspiel. &lt;em&gt;Daphnis&lt;/em&gt;, &lt;em&gt;18&lt;/em&gt;, 281-295.</apa>
+<angewandte-chemie>J. K.   von Schroeder, and U.  Seelbach, “Drei Gedichte auf Georg Ehrenfried von Lüttichau, Vorbild für Graf Ehrenfried in Christian Reuters Lustspiel”, &lt;em&gt;Daphnis&lt;/em&gt;, &lt;strong&gt;1989&lt;/strong&gt;, &lt;em&gt;18&lt;/em&gt;, 281-295.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;von Schroeder, Johann Karl, and Seelbach, Ulrich. 1989. “Drei Gedichte auf Georg Ehrenfried von Lüttichau, Vorbild für Graf Ehrenfried in Christian Reuters Lustspiel”. &lt;em&gt;Daphnis&lt;/em&gt; 18: 281-295.&lt;/div&gt;</chicago>
+<lncs>von Schroeder, J.K., Seelbach, U.: Drei Gedichte auf Georg Ehrenfried von Lüttichau, Vorbild für Graf Ehrenfried in Christian Reuters Lustspiel. Daphnis. 18, 281-295 (1989).</lncs>
+<mla>von Schroeder, Johann Karl, and Seelbach, Ulrich. “Drei Gedichte auf Georg Ehrenfried von Lüttichau, Vorbild für Graf Ehrenfried in Christian Reuters Lustspiel”. &lt;em&gt;Daphnis&lt;/em&gt; 18 (1989): 281-295.</mla>
+<ieee>J.K.  von Schroeder and U. Seelbach, “Drei Gedichte auf Georg Ehrenfried von Lüttichau, Vorbild für Graf Ehrenfried in Christian Reuters Lustspiel”, &lt;em&gt;Daphnis&lt;/em&gt;,  vol. 18, 1989,  pp. 281-295.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;von Schroeder, J. K., &amp;amp; Seelbach, U. (1989). Drei Gedichte auf Georg Ehrenfried von Lüttichau, Vorbild für Graf Ehrenfried in Christian Reuters Lustspiel. &lt;em&gt;Daphnis&lt;/em&gt;, &lt;em&gt;18&lt;/em&gt;, 281-295.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1778540</recordIdentifier><recordChangeDate encoding="w3cdtf">2015-01-16T14:07:52Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1778540</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1778540</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

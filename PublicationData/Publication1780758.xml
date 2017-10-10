@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Ergänzungsunterricht Fachbereich Sozialwissenschaften: ein Beispiel aus dem Kurs &quot;der verwaltete Wahnsinn&quot;</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Hans</namePart>
+  <namePart type="family">Hermsen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Gerlind</namePart><namePart type="family">Frink</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Wissenschaftliche Einrichtung Oberstufenkolleg</namePart>
+  <identifier type="unibi">11292831</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Hermsen_30.pdf">https://pub.uni-bielefeld.de/download/1780758/2313013</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1985</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Klausuren</title></titleInfo>
+  <identifier type="isbn">3-921912-21-0</identifier><identifier type="urn">urn:nbn:de:0070-bipr-22031</identifier>
+<part><extent unit="pages">142-152</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>H. Hermsen, “Ergänzungsunterricht Fachbereich Sozialwissenschaften: ein Beispiel aus dem Kurs &quot;der verwaltete Wahnsinn&quot;”, &lt;em&gt;Klausuren&lt;/em&gt;, G. Frink, ed., AMBOS ; 21 : Studien: Leistungsbewertung,  Bielefeld: 1985,  pp.142-152.</ieee>
+<lncs>Hermsen, H.: Ergänzungsunterricht Fachbereich Sozialwissenschaften: ein Beispiel aus dem Kurs &quot;der verwaltete Wahnsinn&quot;. In: Frink, G. (ed.) Klausuren. AMBOS ; 21 : Studien: Leistungsbewertung. p. 142-152. Bielefeld (1985).</lncs>
+<mla>Hermsen, Hans. “Ergänzungsunterricht Fachbereich Sozialwissenschaften: ein Beispiel aus dem Kurs &quot;der verwaltete Wahnsinn&quot;”. &lt;em&gt;Klausuren&lt;/em&gt;. Ed. Gerlind Frink. Bielefeld, 1985. AMBOS ; 21 : Studien: Leistungsbewertung. 142-152.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hermsen, H. (1985). Ergänzungsunterricht Fachbereich Sozialwissenschaften: ein Beispiel aus dem Kurs &quot;der verwaltete Wahnsinn&quot;. In G.  Frink (Ed.), &lt;em&gt;AMBOS ; 21 : Studien: Leistungsbewertung&lt;/em&gt;&lt;em&gt;. Klausuren&lt;/em&gt; (pp. 142-152). Bielefeld.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>H.  Hermsen, in &lt;em&gt;Klausuren&lt;/em&gt; (Ed.: G. Frink), Bielefeld, &lt;strong&gt;1985&lt;/strong&gt;, p. 142-152.</angewandte-chemie>
+<apa>Hermsen, H. (1985). Ergänzungsunterricht Fachbereich Sozialwissenschaften: ein Beispiel aus dem Kurs &quot;der verwaltete Wahnsinn&quot;. In G.  Frink (Ed.), &lt;em&gt;AMBOS ; 21 : Studien: Leistungsbewertung&lt;/em&gt;&lt;em&gt;. Klausuren&lt;/em&gt; (pp. 142-152). Bielefeld.</apa>
+<frontiers>Hermsen, H. (1985). “Ergänzungsunterricht Fachbereich Sozialwissenschaften: ein Beispiel aus dem Kurs &quot;der verwaltete Wahnsinn&quot;” in &lt;em&gt;Klausuren&lt;/em&gt;, ed. G.  Frink AMBOS ; 21 : Studien: Leistungsbewertung (Bielefeld), 142-152.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hermsen, Hans. 1985. “Ergänzungsunterricht Fachbereich Sozialwissenschaften: ein Beispiel aus dem Kurs &quot;der verwaltete Wahnsinn&quot;”. In &lt;em&gt;Klausuren&lt;/em&gt;, ed. Gerlind Frink, 142-152. AMBOS ; 21 : Studien: Leistungsbewertung. Bielefeld.&lt;/div&gt;</chicago>
+<ama>Hermsen H. Ergänzungsunterricht Fachbereich Sozialwissenschaften: ein Beispiel aus dem Kurs &quot;der verwaltete Wahnsinn&quot;. In: Frink G, ed. &lt;em&gt;Klausuren&lt;/em&gt;. AMBOS ; 21 : Studien: Leistungsbewertung. Bielefeld;  1985: 142-152.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hermsen, H. (1985). Ergänzungsunterricht Fachbereich Sozialwissenschaften: ein Beispiel aus dem Kurs &quot;der verwaltete Wahnsinn&quot; (AMBOS ; 21 : Studien: Leistungsbewertung). &lt;em&gt;Klausuren&lt;/em&gt; (S. 142-152). Bielefeld.&lt;/div&gt;</dgps>
+<harvard1>Hermsen, H., 1985. Ergänzungsunterricht Fachbereich Sozialwissenschaften: ein Beispiel aus dem Kurs &quot;der verwaltete Wahnsinn&quot;. In G.  Frink, ed. &lt;em&gt;Klausuren&lt;/em&gt;. AMBOS ; 21 : Studien: Leistungsbewertung.  Bielefeld, pp. 142-152.</harvard1>
+<bio1>Hermsen H (1985) &lt;br /&gt;Ergänzungsunterricht Fachbereich Sozialwissenschaften: ein Beispiel aus dem Kurs &quot;der verwaltete Wahnsinn&quot;. &lt;br /&gt;In:  Klausuren. Frink G (Ed); AMBOS ; 21 : Studien: Leistungsbewertung,  Bielefeld:  142-152.</bio1>
+<aps>H.  Hermsen, Ergänzungsunterricht Fachbereich Sozialwissenschaften: ein Beispiel aus dem Kurs &quot;der verwaltete Wahnsinn&quot;, in &lt;em&gt;Klausuren&lt;/em&gt;, edited by G.  Frink, AMBOS ; 21 : Studien: Leistungsbewertung (Bielefeld, 1985), p. 142-152.</aps>
+<wels>Hermsen, H. (1985): Ergänzungsunterricht Fachbereich Sozialwissenschaften: ein Beispiel aus dem Kurs &quot;der verwaltete Wahnsinn&quot;. In: Gerlind Frink (Hrsg.):  Klausuren. Bielefeld. (AMBOS ; 21 : Studien: Leistungsbewertung, ).  S. 142-152.</wels>
+<default>Hermsen H (1985)  &lt;br /&gt;In:  Klausuren. Frink G (Ed); AMBOS ; 21 : Studien: Leistungsbewertung, . Bielefeld:  142-152.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780758</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780758</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780758</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

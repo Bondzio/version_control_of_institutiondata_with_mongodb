@@ -1,0 +1,111 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Bayesian reasoning on qualitative descriptions from images and speech</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Gudrun</namePart>
+  <namePart type="family">Socher</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Gerhard</namePart>
+  <namePart type="family">Sagerer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10375</identifier></name>
+<name type="personal">
+  <namePart type="given">P.</namePart>
+  <namePart type="family">Perona</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Angewandte Informatik</namePart>
+  <identifier type="unibi">18304588</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Institute for Cognition and Robotics</namePart>
+  <identifier type="unibi">5408013</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Image understanding denotes not only the ability to extract specific, non-numerical information from images, but it implies also reasoning about the extracted information. We propose a qualitative representation for image understanding results, which is suitable for reasoning with Bayesian networks. Our qualitative representation is enhanced with probabilistic information to represent uncertainties and errors in the understanding of noisy sensory data. The probabilistic information is supplied to a Bayesian network in order to find the most plausible interpretation. We apply this approach for the integration of image and speech understanding in a scenario where we want to find objects in a visually observed scene which are verbally described by a human. Results demonstrate the performance of our approach. (C) 2000 Elsevier Science B.V. All rights reserved.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">2000</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>spatial relations</topic><topic>Bayesian networks</topic><topic>qualitative</topic><topic>description</topic><topic>image understanding</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Image and Vision Computing</title></titleInfo>
+  <identifier type="issn">0262-8856</identifier>
+  <identifier type="ISI">000085050400005</identifier><identifier type="doi">10.1016/S0262-8856(99)00024-4</identifier>
+<part><detail type="volume"><number>18</number></detail><detail type="issue"><number>2: Special Issue</number></detail><extent unit="pages">155-172</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Socher, G., Sagerer, G., and Perona, P. (2000). Bayesian reasoning on qualitative descriptions from images and speech. &lt;em&gt;Image and Vision Computing&lt;/em&gt; 18, 155-172.</frontiers>
+<apa>Socher, G., Sagerer, G., &amp;amp; Perona, P. (2000). Bayesian reasoning on qualitative descriptions from images and speech. &lt;em&gt;Image and Vision Computing&lt;/em&gt;, &lt;em&gt;18&lt;/em&gt;(2: Special Issue), 155-172.</apa>
+<angewandte-chemie>G.  Socher, G.  Sagerer, and P.  Perona, “Bayesian reasoning on qualitative descriptions from images and speech”, &lt;em&gt;Image and Vision Computing&lt;/em&gt;, &lt;strong&gt;2000&lt;/strong&gt;, &lt;em&gt;18&lt;/em&gt;, 155-172.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Socher, Gudrun, Sagerer, Gerhard, and Perona, P. 2000. “Bayesian reasoning on qualitative descriptions from images and speech”. &lt;em&gt;Image and Vision Computing&lt;/em&gt; 18 (2: Special Issue): 155-172.&lt;/div&gt;</chicago>
+<lncs>Socher, G., Sagerer, G., Perona, P.: Bayesian reasoning on qualitative descriptions from images and speech. Image and Vision Computing. 18, 155-172 (2000).</lncs>
+<mla>Socher, Gudrun, Sagerer, Gerhard, and Perona, P. “Bayesian reasoning on qualitative descriptions from images and speech”. &lt;em&gt;Image and Vision Computing&lt;/em&gt; 18.2: Special Issue (2000): 155-172.</mla>
+<ieee>G. Socher, G. Sagerer, and P. Perona, “Bayesian reasoning on qualitative descriptions from images and speech”, &lt;em&gt;Image and Vision Computing&lt;/em&gt;,  vol. 18, 2000,  pp. 155-172.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Socher, G., Sagerer, G., &amp;amp; Perona, P. (2000). Bayesian reasoning on qualitative descriptions from images and speech. &lt;em&gt;Image and Vision Computing&lt;/em&gt;, &lt;em&gt;18&lt;/em&gt;(2: Special Issue), 155-172.&lt;/div&gt;</apa_indent>
+<default>Socher G, Sagerer G, Perona P (2000) &lt;br /&gt;Image and Vision Computing 18(2: Special Issue): 155-172.</default>
+<wels>Socher, G.; Sagerer, G.; Perona, P. (2000): Bayesian reasoning on qualitative descriptions from images and speech &lt;em&gt;Image and Vision Computing&lt;/em&gt;,18:(2: Special Issue): 155-172.</wels>
+<bio1>Socher G, Sagerer G, Perona P (2000) &lt;br /&gt;Bayesian reasoning on qualitative descriptions from images and speech.&lt;br /&gt;Image and Vision Computing 18(2: Special Issue): 155-172.</bio1>
+<aps>G.  Socher, G.  Sagerer, and P.  Perona, Bayesian reasoning on qualitative descriptions from images and speech, Image and Vision Computing &lt;strong&gt;18&lt;/strong&gt;, 155-172 (2000).</aps>
+<harvard1>Socher, G., Sagerer, G., &amp;amp; Perona, P., 2000. Bayesian reasoning on qualitative descriptions from images and speech. &lt;em&gt;Image and Vision Computing&lt;/em&gt;, 18(2: Special Issue), p 155-172.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Socher, G., Sagerer, G. &amp;amp; Perona, P. (2000). Bayesian reasoning on qualitative descriptions from images and speech. &lt;em&gt;Image and Vision Computing&lt;/em&gt;, &lt;em&gt;18&lt;/em&gt;(2: Special Issue), 155-172. ELSEVIER SCIENCE BV. doi:10.1016/S0262-8856(99)00024-4.&lt;/div&gt;</dgps>
+<ama>Socher G, Sagerer G, Perona P. Bayesian reasoning on qualitative descriptions from images and speech. &lt;em&gt;Image and Vision Computing&lt;/em&gt;. 2000;18(2: Special Issue):155-172.</ama>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1620768</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:04:56Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2013-06-27T10:08:27Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1620768</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1620768</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

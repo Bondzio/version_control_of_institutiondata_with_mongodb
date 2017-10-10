@@ -1,0 +1,131 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Critical behaviour in baryonic matter</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">B.</namePart>
+  <namePart type="family">Berg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jürgen</namePart>
+  <namePart type="family">Engels</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40338</identifier></name>
+<name type="personal">
+  <namePart type="given">E.</namePart>
+  <namePart type="family">Kehl</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">B.</namePart>
+  <namePart type="family">Waltl</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Helmut</namePart>
+  <namePart type="family">Satz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40339</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Phänomenologie von Schwerionenkollisionen</namePart>
+  <identifier type="unibi">23470601</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Engels_018.pdf">https://pub.uni-bielefeld.de/download/1776290/2312134</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1986</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Zeitschrift für Physik, C: Particles and Fields</title></titleInfo>
+  <identifier type="issn">0170-9739</identifier>
+  <identifier type="eIssn">1434-6052</identifier>
+  <identifier type="INSPIRE">227166</identifier>
+  <identifier type="ISI">A1986C465100023</identifier><identifier type="urn">urn:nbn:de:0070-pub-17762904</identifier><identifier type="doi">10.1007/BF01559608</identifier>
+<part><detail type="volume"><number>31</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">167-174</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Berg, B., Engels, Jürgen, Kehl, E., Waltl, B., and Satz, Helmut. 1986. “Critical behaviour in baryonic matter”. &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt; 31 (1): 167-174.&lt;/div&gt;</chicago>
+<frontiers>Berg, B., Engels, J., Kehl, E., Waltl, B., and Satz, H. (1986). Critical behaviour in baryonic matter. &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt; 31, 167-174.</frontiers>
+<apa>Berg, B., Engels, J., Kehl, E., Waltl, B., &amp;amp; Satz, H. (1986). Critical behaviour in baryonic matter. &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt;, &lt;em&gt;31&lt;/em&gt;(1), 167-174.</apa>
+<angewandte-chemie>B.  Berg, J.  Engels, E.  Kehl, B.  Waltl, and H.  Satz, “Critical behaviour in baryonic matter”, &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt;, &lt;strong&gt;1986&lt;/strong&gt;, &lt;em&gt;31&lt;/em&gt;, 167-174.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Berg, B., Engels, J., Kehl, E., Waltl, B., &amp;amp; Satz, H. (1986). Critical behaviour in baryonic matter. &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt;, &lt;em&gt;31&lt;/em&gt;(1), 167-174.&lt;/div&gt;</apa_indent>
+<mla>Berg, B., Engels, Jürgen, Kehl, E., Waltl, B., and Satz, Helmut. “Critical behaviour in baryonic matter”. &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt; 31.1 (1986): 167-174.</mla>
+<lncs>Berg, B., Engels, J., Kehl, E., Waltl, B., Satz, H.: Critical behaviour in baryonic matter. Zeitschrift für Physik, C: Particles and Fields. 31, 167-174 (1986).</lncs>
+<ieee>B. Berg, et al., “Critical behaviour in baryonic matter”, &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt;,  vol. 31, 1986,  pp. 167-174.</ieee>
+<default>Berg B, Engels J, Kehl E, Waltl B, Satz H (1986) &lt;br /&gt;Zeitschrift für Physik, C: Particles and Fields 31(1): 167-174.</default>
+<wels>Berg, B.; Engels, J.; Kehl, E.; Waltl, B.; Satz, H. (1986): Critical behaviour in baryonic matter &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt;,31:(1): 167-174.</wels>
+<bio1>Berg B, Engels J, Kehl E, Waltl B, Satz H (1986) &lt;br /&gt;Critical behaviour in baryonic matter.&lt;br /&gt;Zeitschrift für Physik, C: Particles and Fields 31(1): 167-174.</bio1>
+<aps>B.  Berg, et al., Critical behaviour in baryonic matter, Zeitschrift für Physik, C: Particles and Fields &lt;strong&gt;31&lt;/strong&gt;, 167-174 (1986).</aps>
+<ama>Berg B, Engels J, Kehl E, Waltl B, Satz H. Critical behaviour in baryonic matter. &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt;. 1986;31(1):167-174.</ama>
+<harvard1>Berg, B., et al., 1986. Critical behaviour in baryonic matter. &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt;, 31(1), p 167-174.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Berg, B., Engels, J., Kehl, E., Waltl, B. &amp;amp; Satz, H. (1986). Critical behaviour in baryonic matter. &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt;, &lt;em&gt;31&lt;/em&gt;(1), 167-174. doi:10.1007/BF01559608.&lt;/div&gt;</dgps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776290</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776290</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776290</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

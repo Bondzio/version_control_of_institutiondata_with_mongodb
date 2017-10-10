@@ -1,0 +1,112 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>From image features to symbols and vice versa - Using graphs to loop data- and model-driven processing in visual assembly recognition</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">Bauckhage</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">4361661</identifier></name>
+<name type="personal">
+  <namePart type="given">Elke</namePart>
+  <namePart type="family">Braun</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">8703119</identifier></name>
+<name type="personal">
+  <namePart type="given">Gerhard</namePart>
+  <namePart type="family">Sagerer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10375</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Research Institute for Cognition and Robotics</namePart>
+  <identifier type="unibi">5408013</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Angewandte Informatik</namePart>
+  <identifier type="unibi">18304588</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Graphs and graph matching are powerful mechanisms for knowledge representation, pattern recognition and machine learning. Especially in computer vision their application is manifold. Graphs can characterize relations among image features like points or regions but they may also represent symbolic object knowledge. Hence, graph matching can accomplish recognition tasks on different levels of abstraction. In this contribution, we demonstrate that graphs may also bridge the gap between different levels of knowledge representation. We present a system for visual assembly monitoring that integrates bottom-up and top-down strategies for recognition and automatically generates and learns graph models to recognize assembled objects. Data-driven processing is subdived into three stages: first, elementary objects are recognized from low-level image features. Then, clusters of elementary objects are analyzed syntactically; if an assembly structure is found, it is translated into a graph that uniquely models the assembly. Finally, symbolic models like this are stored in a database so that individual assemblies can be recognized by means of graph matching. At the same time, these graphs enable top-down knowledge propagation: they are transformed into graphs which represent relations between image features and thus describe the visual appearance of the recently found assembly. Therefore, due to model-driven knowledge propagation assemblies may subsequently be recognized from graph matching on a lower computational level and tedious bottom-up processing becomes superfluous.</abstract>
+
+<originInfo><publisher>WORLD SCIENTIFIC PUBL CO PTE LTD</publisher><dateIssued encoding="w3cdtf">2004</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>assembly recognition</topic><topic>vision systems</topic><topic>graph matching</topic><topic>machine learning</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>International Journal of Pattern Recognition and Artificial Intelligence</title></titleInfo>
+  <identifier type="issn">0218-0014</identifier>
+  <identifier type="eIssn">1793-6381</identifier>
+  <identifier type="ISI">000221900700013</identifier><identifier type="doi">10.1142/S0218001404003198</identifier>
+<part><detail type="volume"><number>18</number></detail><detail type="issue"><number>03</number></detail><extent unit="pages">497-517</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Bauckhage, C.; Braun, E.; Sagerer, G. (2004): From image features to symbols and vice versa - Using graphs to loop data- and model-driven processing in visual assembly recognition &lt;em&gt;International Journal of Pattern Recognition and Artificial Intelligence&lt;/em&gt;,18:(03): 497-517.</wels>
+<default>Bauckhage C, Braun E, Sagerer G (2004) &lt;br /&gt;International Journal of Pattern Recognition and Artificial Intelligence 18(03): 497-517.</default>
+<ama>Bauckhage C, Braun E, Sagerer G. From image features to symbols and vice versa - Using graphs to loop data- and model-driven processing in visual assembly recognition. &lt;em&gt;International Journal of Pattern Recognition and Artificial Intelligence&lt;/em&gt;. 2004;18(03):497-517.</ama>
+<harvard1>Bauckhage, C., Braun, E., &amp;amp; Sagerer, G., 2004. From image features to symbols and vice versa - Using graphs to loop data- and model-driven processing in visual assembly recognition. &lt;em&gt;International Journal of Pattern Recognition and Artificial Intelligence&lt;/em&gt;, 18(03), p 497-517.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bauckhage, C., Braun, E. &amp;amp; Sagerer, G. (2004). From image features to symbols and vice versa - Using graphs to loop data- and model-driven processing in visual assembly recognition. &lt;em&gt;International Journal of Pattern Recognition and Artificial Intelligence&lt;/em&gt;, &lt;em&gt;18&lt;/em&gt;(03), 497-517. WORLD SCIENTIFIC PUBL CO PTE LTD. doi:10.1142/S0218001404003198.&lt;/div&gt;</dgps>
+<aps>C.  Bauckhage, E.  Braun, and G.  Sagerer, From image features to symbols and vice versa - Using graphs to loop data- and model-driven processing in visual assembly recognition, International Journal of Pattern Recognition and Artificial Intelligence &lt;strong&gt;18&lt;/strong&gt;, 497-517 (2004).</aps>
+<bio1>Bauckhage C, Braun E, Sagerer G (2004) &lt;br /&gt;From image features to symbols and vice versa - Using graphs to loop data- and model-driven processing in visual assembly recognition.&lt;br /&gt;International Journal of Pattern Recognition and Artificial Intelligence 18(03): 497-517.</bio1>
+<angewandte-chemie>C.  Bauckhage, E.  Braun, and G.  Sagerer, “From image features to symbols and vice versa - Using graphs to loop data- and model-driven processing in visual assembly recognition”, &lt;em&gt;International Journal of Pattern Recognition and Artificial Intelligence&lt;/em&gt;, &lt;strong&gt;2004&lt;/strong&gt;, &lt;em&gt;18&lt;/em&gt;, 497-517.</angewandte-chemie>
+<apa>Bauckhage, C., Braun, E., &amp;amp; Sagerer, G. (2004). From image features to symbols and vice versa - Using graphs to loop data- and model-driven processing in visual assembly recognition. &lt;em&gt;International Journal of Pattern Recognition and Artificial Intelligence&lt;/em&gt;, &lt;em&gt;18&lt;/em&gt;(03), 497-517.</apa>
+<frontiers>Bauckhage, C., Braun, E., and Sagerer, G. (2004). From image features to symbols and vice versa - Using graphs to loop data- and model-driven processing in visual assembly recognition. &lt;em&gt;International Journal of Pattern Recognition and Artificial Intelligence&lt;/em&gt; 18, 497-517.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bauckhage, Christian, Braun, Elke, and Sagerer, Gerhard. 2004. “From image features to symbols and vice versa - Using graphs to loop data- and model-driven processing in visual assembly recognition”. &lt;em&gt;International Journal of Pattern Recognition and Artificial Intelligence&lt;/em&gt; 18 (03): 497-517.&lt;/div&gt;</chicago>
+<ieee>C. Bauckhage, E. Braun, and G. Sagerer, “From image features to symbols and vice versa - Using graphs to loop data- and model-driven processing in visual assembly recognition”, &lt;em&gt;International Journal of Pattern Recognition and Artificial Intelligence&lt;/em&gt;,  vol. 18, 2004,  pp. 497-517.</ieee>
+<lncs>Bauckhage, C., Braun, E., Sagerer, G.: From image features to symbols and vice versa - Using graphs to loop data- and model-driven processing in visual assembly recognition. International Journal of Pattern Recognition and Artificial Intelligence. 18, 497-517 (2004).</lncs>
+<mla>Bauckhage, Christian, Braun, Elke, and Sagerer, Gerhard. “From image features to symbols and vice versa - Using graphs to loop data- and model-driven processing in visual assembly recognition”. &lt;em&gt;International Journal of Pattern Recognition and Artificial Intelligence&lt;/em&gt; 18.03 (2004): 497-517.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bauckhage, C., Braun, E., &amp;amp; Sagerer, G. (2004). From image features to symbols and vice versa - Using graphs to loop data- and model-driven processing in visual assembly recognition. &lt;em&gt;International Journal of Pattern Recognition and Artificial Intelligence&lt;/em&gt;, &lt;em&gt;18&lt;/em&gt;(03), 497-517.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1607699</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:57:33Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2013-06-27T09:17:15Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1607699</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1607699</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,102 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Perturbation and interlace theorems for the unitary eigenvalue problem</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ludwig</namePart>
+  <namePart type="family">Elsner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10509</identifier></name>
+<name type="personal">
+  <namePart type="given">Chunyang</namePart>
+  <namePart type="family">He</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Two aspects of the perturbation problem for the eigenvalues of a unitary matrix U are treated. Firstly, analogues of the Hoffman-Wielandt theorem and a Weyl-type theorem proved by Bhatia and Davis are derived, which are based on a different measure of the distance of spectra. Using a suitable parametrization of the unit circle by an angle, the new results are called tangent theorems, in contrast to the first-mentioned well-known results, which are sine theorems.  Moreover, we illuminate the unknown minimizing permutations in the above Weyl-type theorems. With respect to their angles the eigenvalues of U and U (the perturbed matrix) are naturally ordered on the unit circle counterclockwise, after a point is cut on the unit circle. We prove a well-known open conjecture; there exists a cutting point such that the Weyl-type theorems, both sine and tangent, are true when the ordered eigenvalues of U and U are paired with each other. Secondly, the Cauchy interlacing theorem for Hermitian matrices is generalized. It is shown that certain modified principal submatrices of U, called the modified kth leading principal submatrices, have the property that their eigenvalues interlace those of U. Finally we discuss block reflectors, appearing in the description of the modified principal submatrices, and generalize a result of Schreiber and Parlett.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Elsner_068.pdf">https://pub.uni-bielefeld.de/download/1780842/2313050</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1993</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Linear algebra and its applications</title></titleInfo>
+  <identifier type="issn">0024-3795</identifier>
+  <identifier type="ISI">A1993LK50900008</identifier><identifier type="urn">urn:nbn:de:0070-pub-17808421</identifier><identifier type="doi">10.1016/0024-3795(93)90469-5</identifier>
+<part><detail type="volume"><number>188-189</number></detail><extent unit="pages">207-229</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<angewandte-chemie>L.  Elsner, and C.  He, “Perturbation and interlace theorems for the unitary eigenvalue problem”, &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, &lt;strong&gt;1993&lt;/strong&gt;, &lt;em&gt;188-189&lt;/em&gt;, 207-229.</angewandte-chemie>
+<apa>Elsner, L., &amp;amp; He, C. (1993). Perturbation and interlace theorems for the unitary eigenvalue problem. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, &lt;em&gt;188-189&lt;/em&gt;, 207-229.</apa>
+<frontiers>Elsner, L., and He, C. (1993). Perturbation and interlace theorems for the unitary eigenvalue problem. &lt;em&gt;Linear algebra and its applications&lt;/em&gt; 188-189, 207-229.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Elsner, Ludwig, and He, Chunyang. 1993. “Perturbation and interlace theorems for the unitary eigenvalue problem”. &lt;em&gt;Linear algebra and its applications&lt;/em&gt; 188-189: 207-229.&lt;/div&gt;</chicago>
+<ieee>L. Elsner and C. He, “Perturbation and interlace theorems for the unitary eigenvalue problem”, &lt;em&gt;Linear algebra and its applications&lt;/em&gt;,  vol. 188-189, 1993,  pp. 207-229.</ieee>
+<lncs>Elsner, L., He, C.: Perturbation and interlace theorems for the unitary eigenvalue problem. Linear algebra and its applications. 188-189, 207-229 (1993).</lncs>
+<mla>Elsner, Ludwig, and He, Chunyang. “Perturbation and interlace theorems for the unitary eigenvalue problem”. &lt;em&gt;Linear algebra and its applications&lt;/em&gt; 188-189 (1993): 207-229.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Elsner, L., &amp;amp; He, C. (1993). Perturbation and interlace theorems for the unitary eigenvalue problem. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, &lt;em&gt;188-189&lt;/em&gt;, 207-229.&lt;/div&gt;</apa_indent>
+<wels>Elsner, L.; He, C. (1993): Perturbation and interlace theorems for the unitary eigenvalue problem &lt;em&gt;Linear algebra and its applications&lt;/em&gt;,188-189: 207-229.</wels>
+<default>Elsner L, He C (1993) &lt;br /&gt;Linear algebra and its applications 188-189: 207-229.</default>
+<ama>Elsner L, He C. Perturbation and interlace theorems for the unitary eigenvalue problem. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;. 1993;188-189:207-229.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Elsner, L. &amp;amp; He, C. (1993). Perturbation and interlace theorems for the unitary eigenvalue problem. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, &lt;em&gt;188-189&lt;/em&gt;, 207-229. doi:10.1016/0024-3795(93)90469-5.&lt;/div&gt;</dgps>
+<harvard1>Elsner, L., &amp;amp; He, C., 1993. Perturbation and interlace theorems for the unitary eigenvalue problem. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, 188-189, p 207-229.</harvard1>
+<aps>L.  Elsner and C.  He, Perturbation and interlace theorems for the unitary eigenvalue problem, Linear algebra and its applications &lt;strong&gt;188-189&lt;/strong&gt;, 207-229 (1993).</aps>
+<bio1>Elsner L, He C (1993) &lt;br /&gt;Perturbation and interlace theorems for the unitary eigenvalue problem.&lt;br /&gt;Linear algebra and its applications 188-189: 207-229.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780842</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780842</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780842</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

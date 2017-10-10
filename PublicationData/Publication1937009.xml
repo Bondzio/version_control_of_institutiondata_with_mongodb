@@ -1,0 +1,94 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>First-order approximation of Gram-Schmidt orthonormalization beats deflation in coupled PCA learning rules</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ralf</namePart>
+  <namePart type="family">Möller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">94532</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Technische Informatik</namePart>
+  <identifier type="unibi">10040</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">In coupled. learning rules for principal component analysis, eigenvectors and eigenvalues are simultaneously estimated in a coupled system of equations. Coupled single-neuron rules have favorable convergence properties. For the estimation of multiple eigenvectors, orthonormalization methods have to be applied, either full Gram-Schmidt orthonormalization, its first-order approximation as used in Oja&apos;s stochastic gradient ascent algorithm, or deflation as in Sanger&apos;s generalized Hebbian algorithm. This paper reports the observation that a first-order approximation of Gram-Schmidt orthonormalization is superior to the standard deflation procedure in coupled learning rules. The first-order approximation exhibits a smaller orthonormality error and produces eigenvectors and eigenvalues of better quality. This improvement is essential for applications where multiple principal eigenvectors have to be estimated simultaneously rather than sequentially. Moreover, loss of orthonormality may have an harmful effect on subsequent processing stages, like the computation of distance measures for competition in local PCA methods. (c) 2005 Elsevier B.V. All rights reserved.</abstract>
+
+<originInfo><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>deflation</topic><topic>principal component analysis</topic><topic>coupled learning rules</topic><topic>orthonormalization</topic><topic>Gram-Schmidt method</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Neurocomputing</title></titleInfo>
+  <identifier type="issn">0925-2312</identifier>
+  <identifier type="ISI">000239015000017</identifier><identifier type="doi">10.1016/j.neucom.2005.06.016</identifier>
+<part><detail type="volume"><number>69</number></detail><detail type="issue"><number>13-15</number></detail><extent unit="pages">1582-1590</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>R.  Möller, First-order approximation of Gram-Schmidt orthonormalization beats deflation in coupled PCA learning rules, Neurocomputing &lt;strong&gt;69&lt;/strong&gt;, 1582-1590 (2006).</aps>
+<bio1>Möller R (2006) &lt;br /&gt;First-order approximation of Gram-Schmidt orthonormalization beats deflation in coupled PCA learning rules.&lt;br /&gt;Neurocomputing 69(13-15): 1582-1590.</bio1>
+<ama>Möller R. First-order approximation of Gram-Schmidt orthonormalization beats deflation in coupled PCA learning rules. &lt;em&gt;Neurocomputing&lt;/em&gt;. 2006;69(13-15):1582-1590.</ama>
+<harvard1>Möller, R., 2006. First-order approximation of Gram-Schmidt orthonormalization beats deflation in coupled PCA learning rules. &lt;em&gt;Neurocomputing&lt;/em&gt;, 69(13-15), p 1582-1590.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Möller, R. (2006). First-order approximation of Gram-Schmidt orthonormalization beats deflation in coupled PCA learning rules. &lt;em&gt;Neurocomputing&lt;/em&gt;, &lt;em&gt;69&lt;/em&gt;(13-15), 1582-1590. doi:10.1016/j.neucom.2005.06.016.&lt;/div&gt;</dgps>
+<default>Möller R (2006) &lt;br /&gt;Neurocomputing 69(13-15): 1582-1590.</default>
+<wels>Möller, R. (2006): First-order approximation of Gram-Schmidt orthonormalization beats deflation in coupled PCA learning rules &lt;em&gt;Neurocomputing&lt;/em&gt;,69:(13-15): 1582-1590.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Möller, R. (2006). First-order approximation of Gram-Schmidt orthonormalization beats deflation in coupled PCA learning rules. &lt;em&gt;Neurocomputing&lt;/em&gt;, &lt;em&gt;69&lt;/em&gt;(13-15), 1582-1590.&lt;/div&gt;</apa_indent>
+<mla>Möller, Ralf. “First-order approximation of Gram-Schmidt orthonormalization beats deflation in coupled PCA learning rules”. &lt;em&gt;Neurocomputing&lt;/em&gt; 69.13-15 (2006): 1582-1590.</mla>
+<lncs>Möller, R.: First-order approximation of Gram-Schmidt orthonormalization beats deflation in coupled PCA learning rules. Neurocomputing. 69, 1582-1590 (2006).</lncs>
+<ieee>R. Möller, “First-order approximation of Gram-Schmidt orthonormalization beats deflation in coupled PCA learning rules”, &lt;em&gt;Neurocomputing&lt;/em&gt;,  vol. 69, 2006,  pp. 1582-1590.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Möller, Ralf. 2006. “First-order approximation of Gram-Schmidt orthonormalization beats deflation in coupled PCA learning rules”. &lt;em&gt;Neurocomputing&lt;/em&gt; 69 (13-15): 1582-1590.&lt;/div&gt;</chicago>
+<frontiers>Möller, R. (2006). First-order approximation of Gram-Schmidt orthonormalization beats deflation in coupled PCA learning rules. &lt;em&gt;Neurocomputing&lt;/em&gt; 69, 1582-1590.</frontiers>
+<angewandte-chemie>R.  Möller, “First-order approximation of Gram-Schmidt orthonormalization beats deflation in coupled PCA learning rules”, &lt;em&gt;Neurocomputing&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;69&lt;/em&gt;, 1582-1590.</angewandte-chemie>
+<apa>Möller, R. (2006). First-order approximation of Gram-Schmidt orthonormalization beats deflation in coupled PCA learning rules. &lt;em&gt;Neurocomputing&lt;/em&gt;, &lt;em&gt;69&lt;/em&gt;(13-15), 1582-1590.</apa>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1937009</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-12-08T15:36:16Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-23T14:02:58Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1937009</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1937009</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

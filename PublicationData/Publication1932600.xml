@@ -1,0 +1,105 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>A byl li plan?</title></titleInfo>
+
+
+
+
+
+<name type="personal">
+  <namePart type="given">Stephan</namePart>
+  <namePart type="family">Merl</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">17764</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Schule für Historische Forschung</namePart>
+  <identifier type="unibi">3652153</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>SFB 584 Das Politische als Kommunikationsraum in der Geschichte</namePart>
+  <identifier type="unibi">78418</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Osteuropäische Geschichte</namePart>
+  <identifier type="unibi">3791103</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><dateIssued encoding="w3cdtf">2010</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">rus</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Rodina</title></titleInfo>
+  <identifier type="issn">0235-7089</identifier>
+<part><detail type="volume"><number>4</number></detail><extent unit="pages">5-9</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>Merl S (2010) &lt;br /&gt;A byl li plan?&lt;br /&gt;Rodina 4: 5-9.</bio1>
+<aps>S.  Merl, A byl li plan?, Rodina &lt;strong&gt;4&lt;/strong&gt;, 5-9 (2010).</aps>
+<harvard1>Merl, S., 2010. A byl li plan? &lt;em&gt;Rodina&lt;/em&gt;, 4, p 5-9.</harvard1>
+<ama>Merl S. A byl li plan? &lt;em&gt;Rodina&lt;/em&gt;. 2010;4:5-9.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Merl, S. (2010). A byl li plan? &lt;em&gt;Rodina&lt;/em&gt;, &lt;em&gt;4&lt;/em&gt;, 5-9.&lt;/div&gt;</dgps>
+<default>Merl S (2010) &lt;br /&gt;Rodina 4: 5-9.</default>
+<wels>Merl, S. (2010): A byl li plan? &lt;em&gt;Rodina&lt;/em&gt;,4: 5-9.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Merl, S. (2010). A byl li plan? &lt;em&gt;Rodina&lt;/em&gt;, &lt;em&gt;4&lt;/em&gt;, 5-9.&lt;/div&gt;</apa_indent>
+<mla>Merl, Stephan. “A byl li plan?”. &lt;em&gt;Rodina&lt;/em&gt; 4 (2010): 5-9.</mla>
+<lncs>Merl, S.: A byl li plan? Rodina. 4, 5-9 (2010).</lncs>
+<ieee>S. Merl, “A byl li plan?”, &lt;em&gt;Rodina&lt;/em&gt;,  vol. 4, 2010,  pp. 5-9.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Merl, Stephan. 2010. “A byl li plan?”. &lt;em&gt;Rodina&lt;/em&gt; 4: 5-9.&lt;/div&gt;</chicago>
+<frontiers>Merl, S. (2010). A byl li plan? &lt;em&gt;Rodina&lt;/em&gt; 4, 5-9.</frontiers>
+<angewandte-chemie>S.  Merl, “A byl li plan?”, &lt;em&gt;Rodina&lt;/em&gt;, &lt;strong&gt;2010&lt;/strong&gt;, &lt;em&gt;4&lt;/em&gt;, 5-9.</angewandte-chemie>
+<apa>Merl, S. (2010). A byl li plan? &lt;em&gt;Rodina&lt;/em&gt;, &lt;em&gt;4&lt;/em&gt;, 5-9.</apa>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1932600</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-12-08T13:10:59Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-05T15:11:39Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1932600</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1932600</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

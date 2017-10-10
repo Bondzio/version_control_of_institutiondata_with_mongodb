@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Perspektiven der demographischen Entwicklung Deutschlands an der Schwelle zum 21. Jahrhundert</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Herwig</namePart>
+  <namePart type="family">Birg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">13197</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Herwig</namePart><namePart type="family">Birg</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Emeriti und pensionierte WissenschaftlerInnen</namePart>
+  <identifier type="unibi">4009911</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bevölkerungs- und Gesundheitsforschung</namePart>
+  <identifier type="unibi">10056</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT4367.pdf">https://pub.uni-bielefeld.de/download/1785213/2314784</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">2000</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Prosperität in einer alternden Gesellschaft</title></titleInfo>
+  <identifier type="isbn">3-89015-078-0</identifier><identifier type="urn">urn:nbn:de:0070-bipr-43677</identifier>
+<part><extent unit="pages">25-81</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>Birg H (2000) &lt;br /&gt;Perspektiven der demographischen Entwicklung Deutschlands an der Schwelle zum 21. Jahrhundert. &lt;br /&gt;In:  Prosperität in einer alternden Gesellschaft. Birg H (Ed); Kleine Handbibliothek / Frankfurter Institut - Stiftung Marktwirtschaft und Politik ; 29,  Bad Homburg:  25-81.</bio1>
+<aps>H.  Birg, Perspektiven der demographischen Entwicklung Deutschlands an der Schwelle zum 21. Jahrhundert, in &lt;em&gt;Prosperität in einer alternden Gesellschaft&lt;/em&gt;, edited by H.  Birg, Kleine Handbibliothek / Frankfurter Institut - Stiftung Marktwirtschaft und Politik ; 29 (Bad Homburg, 2000), p. 25-81.</aps>
+<ama>Birg H. Perspektiven der demographischen Entwicklung Deutschlands an der Schwelle zum 21. Jahrhundert. In: Birg H, ed. &lt;em&gt;Prosperität in einer alternden Gesellschaft&lt;/em&gt;. Kleine Handbibliothek / Frankfurter Institut - Stiftung Marktwirtschaft und Politik ; 29. Bad Homburg;  2000: 25-81.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Birg, H. (2000). Perspektiven der demographischen Entwicklung Deutschlands an der Schwelle zum 21. Jahrhundert (Kleine Handbibliothek / Frankfurter Institut - Stiftung Marktwirtschaft und Politik ; 29). &lt;em&gt;Prosperität in einer alternden Gesellschaft&lt;/em&gt; (S. 25-81). Bad Homburg.&lt;/div&gt;</dgps>
+<harvard1>Birg, H., 2000. Perspektiven der demographischen Entwicklung Deutschlands an der Schwelle zum 21. Jahrhundert. In H.  Birg, ed. &lt;em&gt;Prosperität in einer alternden Gesellschaft&lt;/em&gt;. Kleine Handbibliothek / Frankfurter Institut - Stiftung Marktwirtschaft und Politik ; 29.  Bad Homburg, pp. 25-81.</harvard1>
+<default>Birg H (2000)  &lt;br /&gt;In:  Prosperität in einer alternden Gesellschaft. Birg H (Ed); Kleine Handbibliothek / Frankfurter Institut - Stiftung Marktwirtschaft und Politik ; 29, . Bad Homburg:  25-81.</default>
+<wels>Birg, H. (2000): Perspektiven der demographischen Entwicklung Deutschlands an der Schwelle zum 21. Jahrhundert. In: Herwig Birg (Hrsg.):  Prosperität in einer alternden Gesellschaft. Bad Homburg. (Kleine Handbibliothek / Frankfurter Institut - Stiftung Marktwirtschaft und Politik ; 29, ).  S. 25-81.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Birg, H. (2000). Perspektiven der demographischen Entwicklung Deutschlands an der Schwelle zum 21. Jahrhundert. In H.  Birg (Ed.), &lt;em&gt;Kleine Handbibliothek / Frankfurter Institut - Stiftung Marktwirtschaft und Politik ; 29&lt;/em&gt;&lt;em&gt;. Prosperität in einer alternden Gesellschaft&lt;/em&gt; (pp. 25-81). Bad Homburg.&lt;/div&gt;</apa_indent>
+<lncs>Birg, H.: Perspektiven der demographischen Entwicklung Deutschlands an der Schwelle zum 21. Jahrhundert. In: Birg, H. (ed.) Prosperität in einer alternden Gesellschaft. Kleine Handbibliothek / Frankfurter Institut - Stiftung Marktwirtschaft und Politik ; 29. p. 25-81. Bad Homburg (2000).</lncs>
+<mla>Birg, Herwig. “Perspektiven der demographischen Entwicklung Deutschlands an der Schwelle zum 21. Jahrhundert”. &lt;em&gt;Prosperität in einer alternden Gesellschaft&lt;/em&gt;. Ed. Herwig Birg. Bad Homburg, 2000. Kleine Handbibliothek / Frankfurter Institut - Stiftung Marktwirtschaft und Politik ; 29. 25-81.</mla>
+<ieee>H. Birg, “Perspektiven der demographischen Entwicklung Deutschlands an der Schwelle zum 21. Jahrhundert”, &lt;em&gt;Prosperität in einer alternden Gesellschaft&lt;/em&gt;, H. Birg, ed., Kleine Handbibliothek / Frankfurter Institut - Stiftung Marktwirtschaft und Politik ; 29,  Bad Homburg: 2000,  pp.25-81.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Birg, Herwig. 2000. “Perspektiven der demographischen Entwicklung Deutschlands an der Schwelle zum 21. Jahrhundert”. In &lt;em&gt;Prosperität in einer alternden Gesellschaft&lt;/em&gt;, ed. Herwig Birg, 25-81. Kleine Handbibliothek / Frankfurter Institut - Stiftung Marktwirtschaft und Politik ; 29. Bad Homburg.&lt;/div&gt;</chicago>
+<frontiers>Birg, H. (2000). “Perspektiven der demographischen Entwicklung Deutschlands an der Schwelle zum 21. Jahrhundert” in &lt;em&gt;Prosperität in einer alternden Gesellschaft&lt;/em&gt;, ed. H.  Birg Kleine Handbibliothek / Frankfurter Institut - Stiftung Marktwirtschaft und Politik ; 29 (Bad Homburg), 25-81.</frontiers>
+<angewandte-chemie>H.  Birg, in &lt;em&gt;Prosperität in einer alternden Gesellschaft&lt;/em&gt; (Ed.: H. Birg), Bad Homburg, &lt;strong&gt;2000&lt;/strong&gt;, p. 25-81.</angewandte-chemie>
+<apa>Birg, H. (2000). Perspektiven der demographischen Entwicklung Deutschlands an der Schwelle zum 21. Jahrhundert. In H.  Birg (Ed.), &lt;em&gt;Kleine Handbibliothek / Frankfurter Institut - Stiftung Marktwirtschaft und Politik ; 29&lt;/em&gt;&lt;em&gt;. Prosperität in einer alternden Gesellschaft&lt;/em&gt; (pp. 25-81). Bad Homburg.</apa>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1785213</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1785213</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1785213</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

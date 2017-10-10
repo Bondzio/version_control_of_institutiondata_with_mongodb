@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Recent results on sufficiently large 3-manifolds</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Friedhelm</namePart>
+  <namePart type="family">Waldhausen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10607</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Richard James</namePart><namePart type="family">Milgram</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT3016.pdf">https://pub.uni-bielefeld.de/download/1782187/2313713</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>American Mathematical Society</publisher><dateIssued encoding="w3cdtf">1976</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Algebraic and geometric topology: proceedings of the Symposium in Pure Mathematics of the American Mathematical Society, held at Stanford University, Stanford, California, August 2 - 21, 1976</title></titleInfo>
+  <identifier type="isbn">0-8218-1433-8</identifier><identifier type="urn">urn:nbn:de:0070-bipr-30164</identifier>
+<part><detail type="volume"><number>vol. 2</number></detail><extent unit="pages">21-38</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Waldhausen F (1976)  &lt;br /&gt;In:  Algebraic and geometric topology: proceedings of the Symposium in Pure Mathematics of the American Mathematical Society, held at Stanford University, Stanford, California, August 2 - 21, 1976. Milgram RJ (Ed);vol. 2. Providence, RI: American Mathematical Society:  21-38.</default>
+<wels>Waldhausen, F. (1976): Recent results on sufficiently large 3-manifolds. In: Richard James Milgram (Hrsg.):  Algebraic and geometric topology: proceedings of the Symposium in Pure Mathematics of the American Mathematical Society, held at Stanford University, Stanford, California, August 2 - 21, 1976. Providence, RI: American Mathematical Society. (vol. 2).  S. 21-38.</wels>
+<aps>F.  Waldhausen, Recent results on sufficiently large 3-manifolds, in &lt;em&gt;Algebraic and geometric topology: proceedings of the Symposium in Pure Mathematics of the American Mathematical Society, held at Stanford University, Stanford, California, August 2 - 21, 1976&lt;/em&gt;, edited by R. J.  Milgram, &lt;strong&gt;vol. 2&lt;/strong&gt; (American Mathematical Society, Providence, Ri, 1976), p. 21-38.</aps>
+<bio1>Waldhausen F (1976) &lt;br /&gt;Recent results on sufficiently large 3-manifolds. &lt;br /&gt;In:  Algebraic and geometric topology: proceedings of the Symposium in Pure Mathematics of the American Mathematical Society, held at Stanford University, Stanford, California, August 2 - 21, 1976. Milgram RJ (Ed);vol. 2. Providence, RI: American Mathematical Society:  21-38.</bio1>
+<ama>Waldhausen F. Recent results on sufficiently large 3-manifolds. In: Milgram RJ, ed. &lt;em&gt;Algebraic and geometric topology: proceedings of the Symposium in Pure Mathematics of the American Mathematical Society, held at Stanford University, Stanford, California, August 2 - 21, 1976&lt;/em&gt;. Vol vol. 2. Providence, RI: American Mathematical Society;  1976: 21-38.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Waldhausen, F. (1976). Recent results on sufficiently large 3-manifolds. &lt;em&gt;Algebraic and geometric topology: proceedings of the Symposium in Pure Mathematics of the American Mathematical Society, held at Stanford University, Stanford, California, August 2 - 21, 1976&lt;/em&gt; (S. 21-38). Providence, RI: American Mathematical Society.&lt;/div&gt;</dgps>
+<harvard1>Waldhausen, F., 1976. Recent results on sufficiently large 3-manifolds. In R. J.  Milgram, ed. &lt;em&gt;Algebraic and geometric topology: proceedings of the Symposium in Pure Mathematics of the American Mathematical Society, held at Stanford University, Stanford, California, August 2 - 21, 1976&lt;/em&gt;. no.vol. 2  Providence, RI: American Mathematical Society, pp. 21-38.</harvard1>
+<frontiers>Waldhausen, F. (1976). “Recent results on sufficiently large 3-manifolds” in &lt;em&gt;Algebraic and geometric topology: proceedings of the Symposium in Pure Mathematics of the American Mathematical Society, held at Stanford University, Stanford, California, August 2 - 21, 1976&lt;/em&gt;, ed. R. J.  Milgram, vol. vol. 2, (Providence, RI: American Mathematical Society), 21-38.</frontiers>
+<angewandte-chemie>F.  Waldhausen, in &lt;em&gt;Algebraic and geometric topology: proceedings of the Symposium in Pure Mathematics of the American Mathematical Society, held at Stanford University, Stanford, California, August 2 - 21, 1976&lt;/em&gt; (Ed.: R.J. Milgram), American Mathematical Society, Providence, RI, &lt;strong&gt;1976&lt;/strong&gt;, p. 21-38.</angewandte-chemie>
+<apa>Waldhausen, F. (1976). Recent results on sufficiently large 3-manifolds. In R. J.  Milgram (Ed.), &lt;em&gt;Algebraic and geometric topology: proceedings of the Symposium in Pure Mathematics of the American Mathematical Society, held at Stanford University, Stanford, California, August 2 - 21, 1976&lt;/em&gt; (Vol. vol. 2, pp. 21-38). Providence, RI: American Mathematical Society.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Waldhausen, Friedhelm. 1976. “Recent results on sufficiently large 3-manifolds”. In &lt;em&gt;Algebraic and geometric topology: proceedings of the Symposium in Pure Mathematics of the American Mathematical Society, held at Stanford University, Stanford, California, August 2 - 21, 1976&lt;/em&gt;, ed. Richard James Milgram, vol. 2:21-38. Providence, RI: American Mathematical Society.&lt;/div&gt;</chicago>
+<mla>Waldhausen, Friedhelm. “Recent results on sufficiently large 3-manifolds”. &lt;em&gt;Algebraic and geometric topology: proceedings of the Symposium in Pure Mathematics of the American Mathematical Society, held at Stanford University, Stanford, California, August 2 - 21, 1976&lt;/em&gt;. Ed. Richard James Milgram. Providence, RI: American Mathematical Society, 1976.Vol. vol. 2. 21-38.</mla>
+<lncs>Waldhausen, F.: Recent results on sufficiently large 3-manifolds. In: Milgram, R.J. (ed.) Algebraic and geometric topology: proceedings of the Symposium in Pure Mathematics of the American Mathematical Society, held at Stanford University, Stanford, California, August 2 - 21, 1976. vol. 2, p. 21-38. American Mathematical Society, Providence, RI (1976).</lncs>
+<ieee>F. Waldhausen, “Recent results on sufficiently large 3-manifolds”, &lt;em&gt;Algebraic and geometric topology: proceedings of the Symposium in Pure Mathematics of the American Mathematical Society, held at Stanford University, Stanford, California, August 2 - 21, 1976&lt;/em&gt;, R.J. Milgram, ed., vol. vol. 2,  Providence, RI: American Mathematical Society, 1976,  pp.21-38.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Waldhausen, F. (1976). Recent results on sufficiently large 3-manifolds. In R. J.  Milgram (Ed.), &lt;em&gt;Algebraic and geometric topology: proceedings of the Symposium in Pure Mathematics of the American Mathematical Society, held at Stanford University, Stanford, California, August 2 - 21, 1976&lt;/em&gt; (Vol. vol. 2, pp. 21-38). Providence, RI: American Mathematical Society.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1782187</recordIdentifier><recordChangeDate encoding="w3cdtf">2014-06-27T13:13:07Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1782187</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1782187</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

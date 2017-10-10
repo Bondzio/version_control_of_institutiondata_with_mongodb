@@ -1,0 +1,96 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Der &quot;Künstlerroman&quot; Gottfrieds – Protest bürgerlicher &quot;Empfindsamkeit&quot; gegen höfisches &quot;Tugendsystem&quot;?</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Otto</namePart>
+  <namePart type="family">Langer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Linguistik und Literaturwissenschaft</namePart>
+  <identifier type="unibi">10019</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Langer_01.pdf">https://pub.uni-bielefeld.de/download/1776765/2312228</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1974</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Euphorion</title></titleInfo>
+  <identifier type="issn">0014-2328</identifier><identifier type="urn">urn:nbn:de:0070-bipr-12956</identifier>
+<part><detail type="volume"><number>68</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">1-41</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Langer, O. (1974). Der &quot;Künstlerroman&quot; Gottfrieds – Protest bürgerlicher &quot;Empfindsamkeit&quot; gegen höfisches &quot;Tugendsystem&quot;? &lt;em&gt;Euphorion&lt;/em&gt; 68, 1-41.</frontiers>
+<angewandte-chemie>O.  Langer, “Der &quot;Künstlerroman&quot; Gottfrieds – Protest bürgerlicher &quot;Empfindsamkeit&quot; gegen höfisches &quot;Tugendsystem&quot;?”, &lt;em&gt;Euphorion&lt;/em&gt;, &lt;strong&gt;1974&lt;/strong&gt;, &lt;em&gt;68&lt;/em&gt;, 1-41.</angewandte-chemie>
+<apa>Langer, O. (1974). Der &quot;Künstlerroman&quot; Gottfrieds – Protest bürgerlicher &quot;Empfindsamkeit&quot; gegen höfisches &quot;Tugendsystem&quot;? &lt;em&gt;Euphorion&lt;/em&gt;, &lt;em&gt;68&lt;/em&gt;(1), 1-41.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Langer, Otto. 1974. “Der &quot;Künstlerroman&quot; Gottfrieds – Protest bürgerlicher &quot;Empfindsamkeit&quot; gegen höfisches &quot;Tugendsystem&quot;?”. &lt;em&gt;Euphorion&lt;/em&gt; 68 (1): 1-41.&lt;/div&gt;</chicago>
+<lncs>Langer, O.: Der &quot;Künstlerroman&quot; Gottfrieds – Protest bürgerlicher &quot;Empfindsamkeit&quot; gegen höfisches &quot;Tugendsystem&quot;? Euphorion. 68, 1-41 (1974).</lncs>
+<mla>Langer, Otto. “Der &quot;Künstlerroman&quot; Gottfrieds – Protest bürgerlicher &quot;Empfindsamkeit&quot; gegen höfisches &quot;Tugendsystem&quot;?”. &lt;em&gt;Euphorion&lt;/em&gt; 68.1 (1974): 1-41.</mla>
+<ieee>O. Langer, “Der &quot;Künstlerroman&quot; Gottfrieds – Protest bürgerlicher &quot;Empfindsamkeit&quot; gegen höfisches &quot;Tugendsystem&quot;?”, &lt;em&gt;Euphorion&lt;/em&gt;,  vol. 68, 1974,  pp. 1-41.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Langer, O. (1974). Der &quot;Künstlerroman&quot; Gottfrieds – Protest bürgerlicher &quot;Empfindsamkeit&quot; gegen höfisches &quot;Tugendsystem&quot;? &lt;em&gt;Euphorion&lt;/em&gt;, &lt;em&gt;68&lt;/em&gt;(1), 1-41.&lt;/div&gt;</apa_indent>
+<default>Langer O (1974) &lt;br /&gt;Euphorion 68(1): 1-41.</default>
+<wels>Langer, O. (1974): Der &quot;Künstlerroman&quot; Gottfrieds – Protest bürgerlicher &quot;Empfindsamkeit&quot; gegen höfisches &quot;Tugendsystem&quot;? &lt;em&gt;Euphorion&lt;/em&gt;,68:(1): 1-41.</wels>
+<aps>O.  Langer, Der &quot;Künstlerroman&quot; Gottfrieds – Protest bürgerlicher &quot;Empfindsamkeit&quot; gegen höfisches &quot;Tugendsystem&quot;?, Euphorion &lt;strong&gt;68&lt;/strong&gt;, 1-41 (1974).</aps>
+<bio1>Langer O (1974) &lt;br /&gt;Der &quot;Künstlerroman&quot; Gottfrieds – Protest bürgerlicher &quot;Empfindsamkeit&quot; gegen höfisches &quot;Tugendsystem&quot;?&lt;br /&gt;Euphorion 68(1): 1-41.</bio1>
+<harvard1>Langer, O., 1974. Der &quot;Künstlerroman&quot; Gottfrieds – Protest bürgerlicher &quot;Empfindsamkeit&quot; gegen höfisches &quot;Tugendsystem&quot;? &lt;em&gt;Euphorion&lt;/em&gt;, 68(1), p 1-41.</harvard1>
+<ama>Langer O. Der &quot;Künstlerroman&quot; Gottfrieds – Protest bürgerlicher &quot;Empfindsamkeit&quot; gegen höfisches &quot;Tugendsystem&quot;? &lt;em&gt;Euphorion&lt;/em&gt;. 1974;68(1):1-41.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Langer, O. (1974). Der &quot;Künstlerroman&quot; Gottfrieds – Protest bürgerlicher &quot;Empfindsamkeit&quot; gegen höfisches &quot;Tugendsystem&quot;? &lt;em&gt;Euphorion&lt;/em&gt;, &lt;em&gt;68&lt;/em&gt;(1), 1-41.&lt;/div&gt;</dgps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776765</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776765</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776765</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

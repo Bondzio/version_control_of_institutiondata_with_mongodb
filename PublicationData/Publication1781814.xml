@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Verfahren zur Absatzvorausschätzung</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Peter</namePart>
+  <namePart type="family">Naeve</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">91053</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Günther</namePart><namePart type="family">Haedrich</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Wirtschaftswissenschaften</namePart>
+  <identifier type="unibi">10031</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT2791.pdf">https://pub.uni-bielefeld.de/download/1781814/2313528</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>de Gruyter</publisher><dateIssued encoding="w3cdtf">1977</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Operationale Entscheidungshilfen für die Marketingplanung: Herrn Professor Dr. Karl Christian Behrens zum 70. Geburtstag</title></titleInfo>
+  <identifier type="isbn">3-11-006882-6</identifier><identifier type="urn">urn:nbn:de:0070-bipr-27913</identifier>
+<part><extent unit="pages">53-68</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Naeve, P. (1977). Verfahren zur Absatzvorausschätzung (Marketing-Management ; 3). &lt;em&gt;Operationale Entscheidungshilfen für die Marketingplanung: Herrn Professor Dr. Karl Christian Behrens zum 70. Geburtstag&lt;/em&gt; (S. 53-68). Berlin [u.a.]: de Gruyter.&lt;/div&gt;</dgps>
+<ama>Naeve P. Verfahren zur Absatzvorausschätzung. In: Haedrich G, ed. &lt;em&gt;Operationale Entscheidungshilfen für die Marketingplanung: Herrn Professor Dr. Karl Christian Behrens zum 70. Geburtstag&lt;/em&gt;. Marketing-Management ; 3. Berlin [u.a.]: de Gruyter;  1977: 53-68.</ama>
+<harvard1>Naeve, P., 1977. Verfahren zur Absatzvorausschätzung. In G.  Haedrich, ed. &lt;em&gt;Operationale Entscheidungshilfen für die Marketingplanung: Herrn Professor Dr. Karl Christian Behrens zum 70. Geburtstag&lt;/em&gt;. Marketing-Management ; 3.  Berlin [u.a.]: de Gruyter, pp. 53-68.</harvard1>
+<bio1>Naeve P (1977) &lt;br /&gt;Verfahren zur Absatzvorausschätzung. &lt;br /&gt;In:  Operationale Entscheidungshilfen für die Marketingplanung: Herrn Professor Dr. Karl Christian Behrens zum 70. Geburtstag. Haedrich G (Ed); Marketing-Management ; 3,  Berlin [u.a.]: de Gruyter:  53-68.</bio1>
+<aps>P.  Naeve, Verfahren zur Absatzvorausschätzung, in &lt;em&gt;Operationale Entscheidungshilfen für die Marketingplanung: Herrn Professor Dr. Karl Christian Behrens zum 70. Geburtstag&lt;/em&gt;, edited by G.  Haedrich, Marketing-Management ; 3 (de Gruyter, Berlin [U.a.], 1977), p. 53-68.</aps>
+<wels>Naeve, P. (1977): Verfahren zur Absatzvorausschätzung. In: Günther Haedrich (Hrsg.):  Operationale Entscheidungshilfen für die Marketingplanung: Herrn Professor Dr. Karl Christian Behrens zum 70. Geburtstag. Berlin [u.a.]: de Gruyter. (Marketing-Management ; 3, ).  S. 53-68.</wels>
+<default>Naeve P (1977)  &lt;br /&gt;In:  Operationale Entscheidungshilfen für die Marketingplanung: Herrn Professor Dr. Karl Christian Behrens zum 70. Geburtstag. Haedrich G (Ed); Marketing-Management ; 3, . Berlin [u.a.]: de Gruyter:  53-68.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Naeve, P. (1977). Verfahren zur Absatzvorausschätzung. In G.  Haedrich (Ed.), &lt;em&gt;Marketing-Management ; 3&lt;/em&gt;&lt;em&gt;. Operationale Entscheidungshilfen für die Marketingplanung: Herrn Professor Dr. Karl Christian Behrens zum 70. Geburtstag&lt;/em&gt; (pp. 53-68). Berlin [u.a.]: de Gruyter.&lt;/div&gt;</apa_indent>
+<ieee>P. Naeve, “Verfahren zur Absatzvorausschätzung”, &lt;em&gt;Operationale Entscheidungshilfen für die Marketingplanung: Herrn Professor Dr. Karl Christian Behrens zum 70. Geburtstag&lt;/em&gt;, G. Haedrich, ed., Marketing-Management ; 3,  Berlin [u.a.]: de Gruyter, 1977,  pp.53-68.</ieee>
+<mla>Naeve, Peter. “Verfahren zur Absatzvorausschätzung”. &lt;em&gt;Operationale Entscheidungshilfen für die Marketingplanung: Herrn Professor Dr. Karl Christian Behrens zum 70. Geburtstag&lt;/em&gt;. Ed. Günther Haedrich. Berlin [u.a.]: de Gruyter, 1977. Marketing-Management ; 3. 53-68.</mla>
+<lncs>Naeve, P.: Verfahren zur Absatzvorausschätzung. In: Haedrich, G. (ed.) Operationale Entscheidungshilfen für die Marketingplanung: Herrn Professor Dr. Karl Christian Behrens zum 70. Geburtstag. Marketing-Management ; 3. p. 53-68. de Gruyter, Berlin [u.a.] (1977).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Naeve, Peter. 1977. “Verfahren zur Absatzvorausschätzung”. In &lt;em&gt;Operationale Entscheidungshilfen für die Marketingplanung: Herrn Professor Dr. Karl Christian Behrens zum 70. Geburtstag&lt;/em&gt;, ed. Günther Haedrich, 53-68. Marketing-Management ; 3. Berlin [u.a.]: de Gruyter.&lt;/div&gt;</chicago>
+<apa>Naeve, P. (1977). Verfahren zur Absatzvorausschätzung. In G.  Haedrich (Ed.), &lt;em&gt;Marketing-Management ; 3&lt;/em&gt;&lt;em&gt;. Operationale Entscheidungshilfen für die Marketingplanung: Herrn Professor Dr. Karl Christian Behrens zum 70. Geburtstag&lt;/em&gt; (pp. 53-68). Berlin [u.a.]: de Gruyter.</apa>
+<angewandte-chemie>P.  Naeve, in &lt;em&gt;Operationale Entscheidungshilfen für die Marketingplanung: Herrn Professor Dr. Karl Christian Behrens zum 70. Geburtstag&lt;/em&gt; (Ed.: G. Haedrich), De Gruyter, Berlin [u.a.], &lt;strong&gt;1977&lt;/strong&gt;, p. 53-68.</angewandte-chemie>
+<frontiers>Naeve, P. (1977). “Verfahren zur Absatzvorausschätzung” in &lt;em&gt;Operationale Entscheidungshilfen für die Marketingplanung: Herrn Professor Dr. Karl Christian Behrens zum 70. Geburtstag&lt;/em&gt;, ed. G.  Haedrich Marketing-Management ; 3 (Berlin [u.a.]: de Gruyter), 53-68.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781814</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781814</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781814</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

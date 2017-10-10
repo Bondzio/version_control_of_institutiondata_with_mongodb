@@ -1,0 +1,113 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The European Conference on Computational Biology</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Steffen</namePart>
+  <namePart type="family">Heber</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jens</namePart>
+  <namePart type="family">Stoye</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">65864</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-4656-7155</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Genominformatik</namePart>
+  <identifier type="unibi">66100</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group J. Stoye</namePart>
+  <identifier type="unibi">33067262</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>ELSEVIER SCI LTD</publisher><dateIssued encoding="w3cdtf">2003</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Drug Discovery Today</title></titleInfo>
+  <identifier type="issn">1359-6446</identifier>
+  <identifier type="MEDLINE">12568779</identifier>
+  <identifier type="ISI">000180684300007</identifier><identifier type="doi">10.1016/S1359-6446(02)02587-4</identifier>
+<part><detail type="volume"><number>8</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">113-114</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>Heber S, Stoye J (2003) &lt;br /&gt;The European Conference on Computational Biology.&lt;br /&gt;Drug Discovery Today 8(3): 113-114.</bio1>
+<aps>S.  Heber and J.  Stoye, The European Conference on Computational Biology, Drug Discovery Today &lt;strong&gt;8&lt;/strong&gt;, 113-114 (2003).</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heber, S. &amp;amp; Stoye, J. (2003). The European Conference on Computational Biology. &lt;em&gt;Drug Discovery Today&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;(3), 113-114. ELSEVIER SCI LTD. doi:10.1016/S1359-6446(02)02587-4.&lt;/div&gt;</dgps>
+<ama>Heber S, Stoye J. The European Conference on Computational Biology. &lt;em&gt;Drug Discovery Today&lt;/em&gt;. 2003;8(3):113-114.</ama>
+<harvard1>Heber, S., &amp;amp; Stoye, J., 2003. The European Conference on Computational Biology. &lt;em&gt;Drug Discovery Today&lt;/em&gt;, 8(3), p 113-114.</harvard1>
+<default>Heber S, Stoye J (2003) &lt;br /&gt;Drug Discovery Today 8(3): 113-114.</default>
+<wels>Heber, S.; Stoye, J. (2003): The European Conference on Computational Biology &lt;em&gt;Drug Discovery Today&lt;/em&gt;,8:(3): 113-114.</wels>
+<lncs>Heber, S., Stoye, J.: The European Conference on Computational Biology. Drug Discovery Today. 8, 113-114 (2003).</lncs>
+<mla>Heber, Steffen, and Stoye, Jens. “The European Conference on Computational Biology”. &lt;em&gt;Drug Discovery Today&lt;/em&gt; 8.3 (2003): 113-114.</mla>
+<ieee>S. Heber and J. Stoye, “The European Conference on Computational Biology”, &lt;em&gt;Drug Discovery Today&lt;/em&gt;,  vol. 8, 2003,  pp. 113-114.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heber, S., &amp;amp; Stoye, J. (2003). The European Conference on Computational Biology. &lt;em&gt;Drug Discovery Today&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;(3), 113-114.&lt;/div&gt;</apa_indent>
+<frontiers>Heber, S., and Stoye, J. (2003). The European Conference on Computational Biology. &lt;em&gt;Drug Discovery Today&lt;/em&gt; 8, 113-114.</frontiers>
+<apa>Heber, S., &amp;amp; Stoye, J. (2003). The European Conference on Computational Biology. &lt;em&gt;Drug Discovery Today&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;(3), 113-114.</apa>
+<angewandte-chemie>S.  Heber, and J.  Stoye, “The European Conference on Computational Biology”, &lt;em&gt;Drug Discovery Today&lt;/em&gt;, &lt;strong&gt;2003&lt;/strong&gt;, &lt;em&gt;8&lt;/em&gt;, 113-114.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heber, Steffen, and Stoye, Jens. 2003. “The European Conference on Computational Biology”. &lt;em&gt;Drug Discovery Today&lt;/em&gt; 8 (3): 113-114.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1612664</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:00:15Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-01-18T09:11:12Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1612664</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1612664</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

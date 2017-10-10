@@ -1,0 +1,99 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Organisation, Management, Planung</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Dieter</namePart>
+  <namePart type="family">Timmermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">156157</identifier></name>
+<name type="personal">
+  <namePart type="given">Frank</namePart>
+  <namePart type="family">Strikker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">88241</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Heinz-Hermann</namePart><namePart type="family">Krüger</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Werner</namePart><namePart type="family">Helsper</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">7978238</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">10.1007/978-3-663-09887-4_12 = 6., überarb. Aufl. 2004</abstract>
+
+<originInfo><publisher>VS Verlag für Sozialwissenschaften</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Einführung in Grundbegriffe und Grundfragen der Erziehungswissenschaft</title></titleInfo>
+  <identifier type="isbn">978-3-8252-8092-5</identifier>
+<part><detail type="volume"><number>1</number></detail><extent unit="pages">151-170</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Timmermann, Dieter, and Strikker, Frank. 2007. “Organisation, Management, Planung”. In &lt;em&gt;Einführung in Grundbegriffe und Grundfragen der Erziehungswissenschaft&lt;/em&gt;, ed. Heinz-Hermann Krüger and Werner Helsper, 8., durchges. Aufl., 1:151-170. Einführungskurs Erziehungswissenschaft. Wiesbaden: VS Verlag für Sozialwissenschaften.&lt;/div&gt;</chicago>
+<apa>Timmermann, D., &amp;amp; Strikker, F. (2007). Organisation, Management, Planung. In H. - H.  Krüger &amp;amp; W.  Helsper (Eds.), &lt;em&gt;Einführungskurs Erziehungswissenschaft: Vol. 1&lt;/em&gt;&lt;em&gt;. Einführung in Grundbegriffe und Grundfragen der Erziehungswissenschaft&lt;/em&gt; (8., durchges. Aufl., pp. 151-170). Wiesbaden: VS Verlag für Sozialwissenschaften.</apa>
+<angewandte-chemie>D.  Timmermann, and F.  Strikker, in &lt;em&gt;Einführung in Grundbegriffe und Grundfragen der Erziehungswissenschaft&lt;/em&gt; (Eds.: H.-H. Krüger, W. Helsper), Vs Verlag Für Sozialwissenschaften, Wiesbaden, &lt;strong&gt;2007&lt;/strong&gt;, p. 151-170.</angewandte-chemie>
+<frontiers>Timmermann, D., and Strikker, F. (2007). “Organisation, Management, Planung” in &lt;em&gt;Einführung in Grundbegriffe und Grundfragen der Erziehungswissenschaft&lt;/em&gt;, Krüger, H. - H., and Helsper, W. eds. Einführungskurs Erziehungswissenschaft, vol. 1, 8., durchges. Aufl. (Wiesbaden: VS Verlag für Sozialwissenschaften), 151-170.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Timmermann, D., &amp;amp; Strikker, F. (2007). Organisation, Management, Planung. In H. - H.  Krüger &amp;amp; W.  Helsper (Eds.), &lt;em&gt;Einführungskurs Erziehungswissenschaft: Vol. 1&lt;/em&gt;&lt;em&gt;. Einführung in Grundbegriffe und Grundfragen der Erziehungswissenschaft&lt;/em&gt; (8., durchges. Aufl., pp. 151-170). Wiesbaden: VS Verlag für Sozialwissenschaften.&lt;/div&gt;</apa_indent>
+<ieee> D. Timmermann and F. Strikker, “Organisation, Management, Planung”, &lt;em&gt;Einführung in Grundbegriffe und Grundfragen der Erziehungswissenschaft&lt;/em&gt;, H.-H. Krüger and W. Helsper, eds., Einführungskurs Erziehungswissenschaft, vol. 1, 8., durchges. Aufl.,  Wiesbaden: VS Verlag für Sozialwissenschaften, 2007,  pp.151-170.</ieee>
+<mla>Timmermann, Dieter, and Strikker, Frank. “Organisation, Management, Planung”. &lt;em&gt;Einführung in Grundbegriffe und Grundfragen der Erziehungswissenschaft&lt;/em&gt;. Ed. Heinz-Hermann Krüger and Werner Helsper. 8., durchges. Aufl. Wiesbaden: VS Verlag für Sozialwissenschaften, 2007.Vol. 1. Einführungskurs Erziehungswissenschaft. 151-170.</mla>
+<lncs> Timmermann, D., Strikker, F.: Organisation, Management, Planung. In: Krüger, H.-H. and Helsper, W. (eds.) Einführung in Grundbegriffe und Grundfragen der Erziehungswissenschaft. Einführungskurs Erziehungswissenschaft. 1, 8., durchges. Aufl. p. 151-170. VS Verlag für Sozialwissenschaften, Wiesbaden (2007).</lncs>
+<wels>Timmermann, D.; Strikker, F. (2007): Organisation, Management, Planung. In: Heinz-Hermann Krüger; Werner Helsper (Hrsg.):  Einführung in Grundbegriffe und Grundfragen der Erziehungswissenschaft. 8., durchges. Aufl. Wiesbaden: VS Verlag für Sozialwissenschaften. (Einführungskurs Erziehungswissenschaft, 1).  S. 151-170.</wels>
+<default>Timmermann D, Strikker F (2007)  &lt;br /&gt;In:  Einführung in Grundbegriffe und Grundfragen der Erziehungswissenschaft. Krüger H-H, Helsper W (Eds); Einführungskurs Erziehungswissenschaft, 1 8., durchges. Aufl. Wiesbaden: VS Verlag für Sozialwissenschaften:  151-170.</default>
+<harvard1>Timmermann, D., &amp;amp; Strikker, F., 2007. Organisation, Management, Planung. In H. - H.  Krüger &amp;amp; W.  Helsper, eds. &lt;em&gt;Einführung in Grundbegriffe und Grundfragen der Erziehungswissenschaft&lt;/em&gt;. Einführungskurs Erziehungswissenschaft. no.1 8., durchges. Aufl.  Wiesbaden: VS Verlag für Sozialwissenschaften, pp. 151-170.</harvard1>
+<ama>Timmermann D, Strikker F. Organisation, Management, Planung. In: Krüger H-H, Helsper W, eds. &lt;em&gt;Einführung in Grundbegriffe und Grundfragen der Erziehungswissenschaft&lt;/em&gt;. Einführungskurs Erziehungswissenschaft. Vol 1. 8., durchges. Aufl. Wiesbaden: VS Verlag für Sozialwissenschaften;  2007: 151-170.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Timmermann, D. &amp;amp; Strikker, F. (2007). Organisation, Management, Planung (Einführungskurs Erziehungswissenschaft). &lt;em&gt;Einführung in Grundbegriffe und Grundfragen der Erziehungswissenschaft&lt;/em&gt; (8., durchges. Aufl., S. 151-170). Wiesbaden: VS Verlag für Sozialwissenschaften.&lt;/div&gt;</dgps>
+<bio1>Timmermann D, Strikker F (2007) &lt;br /&gt;Organisation, Management, Planung. &lt;br /&gt;In:  Einführung in Grundbegriffe und Grundfragen der Erziehungswissenschaft. Krüger H-H, Helsper W (Eds); Einführungskurs Erziehungswissenschaft, 1. 8., durchges. Aufl. Wiesbaden: VS Verlag für Sozialwissenschaften:  151-170.</bio1>
+<aps> D.  Timmermann and F.  Strikker, Organisation, Management, Planung, in &lt;em&gt;Einführung in Grundbegriffe und Grundfragen der Erziehungswissenschaft&lt;/em&gt;, edited by H. - H.  Krüger and W.  Helsper, Einführungskurs Erziehungswissenschaft, &lt;strong&gt;1&lt;/strong&gt;, 8., durchges. Aufl. (VS Verlag für Sozialwissenschaften, Wiesbaden, 2007), p. 151-170.</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1859025</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-11-14T13:25:07Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-11-14T13:25:07Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1859025</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1859025</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

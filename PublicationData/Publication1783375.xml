@@ -1,0 +1,132 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Reciprocal regulation of glycine-rich RNA-binding proteins via an interlocked feedback loop coupling alternative splicing to nonsense-mediated decay in Arabidopsis</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Jan C.</namePart>
+  <namePart type="family">Schöning</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Corinna</namePart>
+  <namePart type="family">Streitner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">177013</identifier></name>
+<name type="personal">
+  <namePart type="given">Irmtraud M.</namePart>
+  <namePart type="family">Meyer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Yahong</namePart>
+  <namePart type="family">Gao</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Dorothee</namePart>
+  <namePart type="family">Staiger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">81014</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Genomforschung und Systembiologie</namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Molekulare Zellphysiologie</namePart>
+  <identifier type="unibi">2685209</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  D. Staiger</namePart>
+  <identifier type="unibi">33070658</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The Arabidopsis RNA-binding protein AtGRP8 undergoes negative autoregulation at the post-transcriptional level. An elevated AtGRP8 protein level promotes the use of a cryptic 5´ splice site to generate an alternatively spliced transcript, as_AtGRP8, retaining the 5´ half of the intron with a premature termination codon. In mutants defective in nonsense-mediated decay (NMD) abundance of as_AtGRP8 but not its pre-mRNA is elevated, indicating that as_AtGRP8 is a direct NMD target, thus limiting the production of functional AtGRP8 protein. In addition to its own pre-mRNA, AtGRP8 negatively regulates the AtGRP7 transcript through promoting the formation of the equivalent alternatively spliced as_AtGRP7 transcript, leading to a decrease in AtGRP7 abundance. Recombinant AtGRP8 binds to its own and the AtGRP7 pre-mRNA, suggesting that this interaction is relevant for the splicing decision in vivo. AtGRP7 itself is part of a negative autoregulatory circuit that influences circadian oscillations of its own and the AtGRP8 transcript through alternative splicing linked to NMD. Thus, we identify an interlocked feedback loop through which two RNA-binding proteins autoregulate and reciprocally crossregulate by coupling unproductive splicing to NMD. A high degree of evolutionary sequence conservation in the introns retained in as_AtGRP8 or as_AtGRP7 points to an important function of these sequences.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="NAR_01164.pdf">https://pub.uni-bielefeld.de/download/1783375/2314156</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Nucleic Acids Research</title></titleInfo>
+  <identifier type="issn">0305-1048</identifier>
+  <identifier type="eIssn">1362-4962</identifier>
+  <identifier type="MEDLINE">18987006</identifier>
+  <identifier type="ISI">000261904100009</identifier><identifier type="urn">urn:nbn:de:0070-pub-17833753</identifier><identifier type="doi">10.1093/nar/gkn847</identifier>
+<part><detail type="volume"><number>36</number></detail><detail type="issue"><number>22</number></detail><extent unit="pages">6977-6987</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schöning, J. C., Streitner, C., Meyer, I. M., Gao, Y., &amp;amp; Staiger, D. (2008). Reciprocal regulation of glycine-rich RNA-binding proteins via an interlocked feedback loop coupling alternative splicing to nonsense-mediated decay in Arabidopsis. &lt;em&gt;Nucleic Acids Research&lt;/em&gt;, &lt;em&gt;36&lt;/em&gt;(22), 6977-6987.&lt;/div&gt;</apa_indent>
+<mla>Schöning, Jan C., Streitner, Corinna, Meyer, Irmtraud M., Gao, Yahong, and Staiger, Dorothee. “Reciprocal regulation of glycine-rich RNA-binding proteins via an interlocked feedback loop coupling alternative splicing to nonsense-mediated decay in Arabidopsis”. &lt;em&gt;Nucleic Acids Research&lt;/em&gt; 36.22 (2008): 6977-6987.</mla>
+<lncs>Schöning, J.C., Streitner, C., Meyer, I.M., Gao, Y., Staiger, D.: Reciprocal regulation of glycine-rich RNA-binding proteins via an interlocked feedback loop coupling alternative splicing to nonsense-mediated decay in Arabidopsis. Nucleic Acids Research. 36, 6977-6987 (2008).</lncs>
+<ieee>J.C. Schöning, et al., “Reciprocal regulation of glycine-rich RNA-binding proteins via an interlocked feedback loop coupling alternative splicing to nonsense-mediated decay in Arabidopsis”, &lt;em&gt;Nucleic Acids Research&lt;/em&gt;,  vol. 36, 2008,  pp. 6977-6987.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schöning, Jan C., Streitner, Corinna, Meyer, Irmtraud M., Gao, Yahong, and Staiger, Dorothee. 2008. “Reciprocal regulation of glycine-rich RNA-binding proteins via an interlocked feedback loop coupling alternative splicing to nonsense-mediated decay in Arabidopsis”. &lt;em&gt;Nucleic Acids Research&lt;/em&gt; 36 (22): 6977-6987.&lt;/div&gt;</chicago>
+<frontiers>Schöning, J. C., Streitner, C., Meyer, I. M., Gao, Y., and Staiger, D. (2008). Reciprocal regulation of glycine-rich RNA-binding proteins via an interlocked feedback loop coupling alternative splicing to nonsense-mediated decay in Arabidopsis. &lt;em&gt;Nucleic Acids Research&lt;/em&gt; 36, 6977-6987.</frontiers>
+<apa>Schöning, J. C., Streitner, C., Meyer, I. M., Gao, Y., &amp;amp; Staiger, D. (2008). Reciprocal regulation of glycine-rich RNA-binding proteins via an interlocked feedback loop coupling alternative splicing to nonsense-mediated decay in Arabidopsis. &lt;em&gt;Nucleic Acids Research&lt;/em&gt;, &lt;em&gt;36&lt;/em&gt;(22), 6977-6987.</apa>
+<angewandte-chemie>J. C.  Schöning, C.  Streitner, I. M.  Meyer, Y.  Gao, and D.  Staiger, “Reciprocal regulation of glycine-rich RNA-binding proteins via an interlocked feedback loop coupling alternative splicing to nonsense-mediated decay in Arabidopsis”, &lt;em&gt;Nucleic Acids Research&lt;/em&gt;, &lt;strong&gt;2008&lt;/strong&gt;, &lt;em&gt;36&lt;/em&gt;, 6977-6987.</angewandte-chemie>
+<bio1>Schöning JC, Streitner C, Meyer IM, Gao Y, Staiger D (2008) &lt;br /&gt;Reciprocal regulation of glycine-rich RNA-binding proteins via an interlocked feedback loop coupling alternative splicing to nonsense-mediated decay in Arabidopsis.&lt;br /&gt;Nucleic Acids Research 36(22): 6977-6987.</bio1>
+<aps>J. C.  Schöning, et al., Reciprocal regulation of glycine-rich RNA-binding proteins via an interlocked feedback loop coupling alternative splicing to nonsense-mediated decay in Arabidopsis, Nucleic Acids Research &lt;strong&gt;36&lt;/strong&gt;, 6977-6987 (2008).</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schöning, J.C., Streitner, C., Meyer, I.M., Gao, Y. &amp;amp; Staiger, D. (2008). Reciprocal regulation of glycine-rich RNA-binding proteins via an interlocked feedback loop coupling alternative splicing to nonsense-mediated decay in Arabidopsis. &lt;em&gt;Nucleic Acids Research&lt;/em&gt;, &lt;em&gt;36&lt;/em&gt;(22), 6977-6987. doi:10.1093/nar/gkn847.&lt;/div&gt;</dgps>
+<harvard1>Schöning, J.C., et al., 2008. Reciprocal regulation of glycine-rich RNA-binding proteins via an interlocked feedback loop coupling alternative splicing to nonsense-mediated decay in Arabidopsis. &lt;em&gt;Nucleic Acids Research&lt;/em&gt;, 36(22), p 6977-6987.</harvard1>
+<ama>Schöning JC, Streitner C, Meyer IM, Gao Y, Staiger D. Reciprocal regulation of glycine-rich RNA-binding proteins via an interlocked feedback loop coupling alternative splicing to nonsense-mediated decay in Arabidopsis. &lt;em&gt;Nucleic Acids Research&lt;/em&gt;. 2008;36(22):6977-6987.</ama>
+<default>Schöning JC, Streitner C, Meyer IM, Gao Y, Staiger D (2008) &lt;br /&gt;Nucleic Acids Research 36(22): 6977-6987.</default>
+<wels>Schöning, J. C.; Streitner, C.; Meyer, I. M.; Gao, Y.; Staiger, D. (2008): Reciprocal regulation of glycine-rich RNA-binding proteins via an interlocked feedback loop coupling alternative splicing to nonsense-mediated decay in Arabidopsis &lt;em&gt;Nucleic Acids Research&lt;/em&gt;,36:(22): 6977-6987.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1783375</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1783375</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1783375</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

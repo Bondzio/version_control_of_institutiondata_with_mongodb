@@ -1,0 +1,93 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>An insect-inspired active vision approach for orientation estimation with panoramic images</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Wolfgang</namePart>
+  <namePart type="family">Stürzl</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">7577309</identifier></name>
+<name type="personal">
+  <namePart type="given">Ralf</namePart>
+  <namePart type="family">Möller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">94532</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Technische Informatik</namePart>
+  <identifier type="unibi">10040</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Springer</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Proc. IWINAC 07</title></titleInfo><identifier type="doi">10.1007/978-3-540-73053-8_6</identifier>
+<part><detail type="issue"><number>LNCS 4527</number></detail><extent unit="pages">61-70</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Stürzl, W., &amp;amp; Möller, R. (2007). An insect-inspired active vision approach for orientation estimation with panoramic images. &lt;em&gt;Proc. IWINAC 07&lt;/em&gt;(LNCS 4527), 61-70.&lt;/div&gt;</apa_indent>
+<ieee>W. Stürzl and R. Möller, “An insect-inspired active vision approach for orientation estimation with panoramic images”, &lt;em&gt;Proc. IWINAC 07&lt;/em&gt;, Springer, 2007,  pp.61-70.</ieee>
+<lncs>Stürzl, W., Möller, R.: An insect-inspired active vision approach for orientation estimation with panoramic images. Proc. IWINAC 07. p. 61-70. Springer (2007).</lncs>
+<mla>Stürzl, Wolfgang, and Möller, Ralf. “An insect-inspired active vision approach for orientation estimation with panoramic images”. &lt;em&gt;Proc. IWINAC 07&lt;/em&gt;. Springer, 2007. 61-70.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Stürzl, Wolfgang, and Möller, Ralf. 2007. “An insect-inspired active vision approach for orientation estimation with panoramic images”. In &lt;em&gt;Proc. IWINAC 07&lt;/em&gt;, 61-70. Springer.&lt;/div&gt;</chicago>
+<angewandte-chemie>W.  Stürzl, and R.  Möller, in &lt;em&gt;Proc. IWINAC 07&lt;/em&gt;, Springer, &lt;strong&gt;2007&lt;/strong&gt;, p. 61-70.</angewandte-chemie>
+<apa>Stürzl, W., &amp;amp; Möller, R. (2007). An insect-inspired active vision approach for orientation estimation with panoramic images. &lt;em&gt;Proc. IWINAC 07&lt;/em&gt;(LNCS 4527), 61-70.</apa>
+<frontiers>Stürzl, W., and Möller, R. (2007). “An insect-inspired active vision approach for orientation estimation with panoramic images” in &lt;em&gt;Proc. IWINAC 07&lt;/em&gt; (Springer), 61-70.</frontiers>
+<harvard1>Stürzl, W., &amp;amp; Möller, R., 2007. An insect-inspired active vision approach for orientation estimation with panoramic images. In &lt;em&gt;Proc. IWINAC 07&lt;/em&gt;.  Springer, pp. 61-70.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Stürzl, W. &amp;amp; Möller, R. (2007). An insect-inspired active vision approach for orientation estimation with panoramic images. &lt;em&gt;Proc. IWINAC 07&lt;/em&gt; (S. 61-70). Springer. doi:10.1007/978-3-540-73053-8_6.&lt;/div&gt;</dgps>
+<ama>Stürzl W, Möller R. An insect-inspired active vision approach for orientation estimation with panoramic images. In:  &lt;em&gt;Proc. IWINAC 07&lt;/em&gt;. Springer;  2007: 61-70.</ama>
+<bio1>Stürzl W, Möller R (2007) &lt;br /&gt;An insect-inspired active vision approach for orientation estimation with panoramic images. &lt;br /&gt;In:  Proc. IWINAC 07.  Springer:  61-70.</bio1>
+<aps>W.  Stürzl and R.  Möller, An insect-inspired active vision approach for orientation estimation with panoramic images, in &lt;em&gt;Proc. IWINAC 07&lt;/em&gt; (Springer, 2007), p. 61-70.</aps>
+<wels>Stürzl, W.; Möller, R. (2007): An insect-inspired active vision approach for orientation estimation with panoramic images. In: Proc. IWINAC 07. Springer.  S. 61-70.</wels>
+<default>Stürzl W, Möller R (2007)  &lt;br /&gt;In:  Proc. IWINAC 07. Springer:  61-70.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1936861</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-12-08T15:36:14Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-09T08:24:37Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1936861</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1936861</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

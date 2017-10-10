@@ -1,0 +1,153 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>High-resolution actinic defect inspection for extreme ultraviolet lithography multilayer mask blanks by photoemission electron microscopy</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">U</namePart>
+  <namePart type="family">Neuhäusler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Oelsner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J</namePart>
+  <namePart type="family">Slieh</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Brzeska</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Wonisch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">T</namePart>
+  <namePart type="family">Westerwalbesloh</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">H</namePart>
+  <namePart type="family">Bruckl</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Schicketanz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">N</namePart>
+  <namePart type="family">Weber</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Escher</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Merkel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">G</namePart>
+  <namePart type="family">Schonhense</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">U</namePart>
+  <namePart type="family">Kleineberg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ulrich</namePart>
+  <namePart type="family">Heinzmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40276</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33079537</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">29133467</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We report on the development and first experimental results of a &quot;at wavelength&quot; full-field imaging technique for defect inspection of multilayer mask blanks for extreme ultraviolet (EUV) lithography. According to the International Semiconductor Roadmap by Sematech, less than 5x10(-3) defects per cm(2) should be present on such multilayer mask blank to enable mass production of microelectronics using EUV lithography, thus fast high-resolution methods for mask defect inspection and localization are needed. Our approach uses a photoemission electron microscope in a normal incidence illumination mode at 13 nm to image the photoelectron emission induced by the EUV wave field on the multilayer mask blank surface. We show that by these means, buried defects in the multilayer stack can be probed down to a lateral size of 50 nm. (c) 2006 American Institute of Physics.</abstract>
+
+<originInfo><publisher>AMER INST PHYSICS</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>APPLIED PHYSICS LETTERS</title></titleInfo>
+  <identifier type="issn">0003-6951</identifier>
+  <identifier type="ISI">000235136700079</identifier><identifier type="doi">10.1063/1.2168263</identifier>
+<part><detail type="volume"><number>88</number></detail><detail type="issue"><number>5</number></detail>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<mla>Neuhäusler, U, Oelsner, A, Slieh, J, Brzeska, M, Wonisch, A, Westerwalbesloh, T, Bruckl, H, Schicketanz, M, Weber, N, Escher, M, Merkel, M, Schonhense, G, Kleineberg, U, and Heinzmann, Ulrich. “High-resolution actinic defect inspection for extreme ultraviolet lithography multilayer mask blanks by photoemission electron microscopy”. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt; 88.5 (2006): 053113.</mla>
+<lncs> Neuhäusler, U., Oelsner, A., Slieh, J., Brzeska, M., Wonisch, A., Westerwalbesloh, T., Bruckl, H., Schicketanz, M., Weber, N., Escher, M., Merkel, M., Schonhense, G., Kleineberg, U., Heinzmann, U.: High-resolution actinic defect inspection for extreme ultraviolet lithography multilayer mask blanks by photoemission electron microscopy. APPLIED PHYSICS LETTERS. 88, : 053113 (2006).</lncs>
+<ieee> U. Neuhäusler, et al., “High-resolution actinic defect inspection for extreme ultraviolet lithography multilayer mask blanks by photoemission electron microscopy”, &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;,  vol. 88, 2006, : 053113.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neuhäusler, U., Oelsner, A., Slieh, J., Brzeska, M., Wonisch, A., Westerwalbesloh, T., Bruckl, H., et al. (2006). High-resolution actinic defect inspection for extreme ultraviolet lithography multilayer mask blanks by photoemission electron microscopy. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, &lt;em&gt;88&lt;/em&gt;(5): 053113.&lt;/div&gt;</apa_indent>
+<frontiers>Neuhäusler, U., Oelsner, A., Slieh, J., Brzeska, M., Wonisch, A., Westerwalbesloh, T., Bruckl, H., Schicketanz, M., Weber, N., Escher, M., et al. (2006). High-resolution actinic defect inspection for extreme ultraviolet lithography multilayer mask blanks by photoemission electron microscopy. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt; 88:053113.</frontiers>
+<apa>Neuhäusler, U., Oelsner, A., Slieh, J., Brzeska, M., Wonisch, A., Westerwalbesloh, T., Bruckl, H., et al. (2006). High-resolution actinic defect inspection for extreme ultraviolet lithography multilayer mask blanks by photoemission electron microscopy. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, &lt;em&gt;88&lt;/em&gt;(5): 053113.</apa>
+<angewandte-chemie>U.  Neuhäusler, A.  Oelsner, J.  Slieh, M.  Brzeska, A.  Wonisch, T.  Westerwalbesloh, H.  Bruckl, M.  Schicketanz, N.  Weber, M.  Escher, et al., “High-resolution actinic defect inspection for extreme ultraviolet lithography multilayer mask blanks by photoemission electron microscopy”, &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;88&lt;/em&gt;, : 053113.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neuhäusler, U, Oelsner, A, Slieh, J, Brzeska, M, Wonisch, A, Westerwalbesloh, T, Bruckl, H, et al. 2006. “High-resolution actinic defect inspection for extreme ultraviolet lithography multilayer mask blanks by photoemission electron microscopy”. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt; 88 (5): 053113.&lt;/div&gt;</chicago>
+<bio1>Neuhäusler U, Oelsner A, Slieh J, Brzeska M, Wonisch A, Westerwalbesloh T, Bruckl H, Schicketanz M, Weber N, Escher M, Merkel M, Schonhense G, Kleineberg U, Heinzmann U (2006) &lt;br /&gt;High-resolution actinic defect inspection for extreme ultraviolet lithography multilayer mask blanks by photoemission electron microscopy.&lt;br /&gt;APPLIED PHYSICS LETTERS 88(5): 053113.</bio1>
+<aps> U.  Neuhäusler, et al., High-resolution actinic defect inspection for extreme ultraviolet lithography multilayer mask blanks by photoemission electron microscopy, APPLIED PHYSICS LETTERS &lt;strong&gt;88&lt;/strong&gt;, (2006).</aps>
+<harvard1>Neuhäusler, U., et al., 2006. High-resolution actinic defect inspection for extreme ultraviolet lithography multilayer mask blanks by photoemission electron microscopy. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, 88(5): 053113.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neuhäusler, U., Oelsner, A., Slieh, J., Brzeska, M., Wonisch, A., Westerwalbesloh, T., Bruckl, H., Schicketanz, M., Weber, N., Escher, M., Merkel, M., Schonhense, G., Kleineberg, U. &amp;amp; Heinzmann, U. (2006). High-resolution actinic defect inspection for extreme ultraviolet lithography multilayer mask blanks by photoemission electron microscopy. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, &lt;em&gt;88&lt;/em&gt;(5): 053113. AMER INST PHYSICS. doi:10.1063/1.2168263.&lt;/div&gt;</dgps>
+<ama>Neuhäusler U, Oelsner A, Slieh J, et al. High-resolution actinic defect inspection for extreme ultraviolet lithography multilayer mask blanks by photoemission electron microscopy. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;. 2006;88(5): 053113.</ama>
+<default>Neuhäusler U, Oelsner A, Slieh J, Brzeska M, Wonisch A, Westerwalbesloh T, Bruckl H, Schicketanz M, Weber N, Escher M, Merkel M, et al. (2006) &lt;br /&gt;APPLIED PHYSICS LETTERS 88(5): 053113.</default>
+<wels>Neuhäusler, U.; Oelsner, A.; Slieh, J.; Brzeska, M.; Wonisch, A.; Westerwalbesloh, T.; Bruckl, H.; Schicketanz, M.; Weber, N.; Escher, M.; Merkel, M.; Schonhense, G.; Kleineberg, U.; Heinzmann, U. (2006): High-resolution actinic defect inspection for extreme ultraviolet lithography multilayer mask blanks by photoemission electron microscopy &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;,88:(5):053113</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1600433</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:31:18Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-12T12:53:09Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1600433</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1600433</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

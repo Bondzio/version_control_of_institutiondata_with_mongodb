@@ -1,0 +1,104 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Seebeben mit Zuschauer: Die Tsunami-Katastrophe als Weltereignis</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Boris</namePart>
+  <namePart type="family">Holzer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">14852973</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">S.</namePart><namePart type="family">Nacke</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">R.</namePart><namePart type="family">Unelbach</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">T.</namePart><namePart type="family">Werron</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">89044</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">5656050</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>VS Verlag für Sozialwissenschaften</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Weltereignisse. Theoretische und empirische Perspektiven</title></titleInfo>
+  <identifier type="isbn">978-3-531-15311-7</identifier>
+<part><extent unit="pages">227-247</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<harvard1>Holzer, B., 2008. Seebeben mit Zuschauer: Die Tsunami-Katastrophe als Weltereignis. In S.  Nacke, R.  Unelbach, &amp;amp; T.  Werron, eds. &lt;em&gt;Weltereignisse. Theoretische und empirische Perspektiven&lt;/em&gt;.  Wiesbaden: VS Verlag für Sozialwissenschaften, pp. 227-247.</harvard1>
+<ama>Holzer B. Seebeben mit Zuschauer: Die Tsunami-Katastrophe als Weltereignis. In: Nacke S, Unelbach R, Werron T, eds. &lt;em&gt;Weltereignisse. Theoretische und empirische Perspektiven&lt;/em&gt;. Wiesbaden: VS Verlag für Sozialwissenschaften;  2008: 227-247.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Holzer, B. (2008). Seebeben mit Zuschauer: Die Tsunami-Katastrophe als Weltereignis. &lt;em&gt;Weltereignisse. Theoretische und empirische Perspektiven&lt;/em&gt; (S. 227-247). Wiesbaden: VS Verlag für Sozialwissenschaften.&lt;/div&gt;</dgps>
+<bio1>Holzer B (2008) &lt;br /&gt;Seebeben mit Zuschauer: Die Tsunami-Katastrophe als Weltereignis. &lt;br /&gt;In:  Weltereignisse. Theoretische und empirische Perspektiven. Nacke S, Unelbach R, Werron T (Eds); Wiesbaden: VS Verlag für Sozialwissenschaften:  227-247.</bio1>
+<aps> B.  Holzer, Seebeben mit Zuschauer: Die Tsunami-Katastrophe als Weltereignis, in &lt;em&gt;Weltereignisse. Theoretische und empirische Perspektiven&lt;/em&gt;, edited by S.  Nacke, et al. (VS Verlag für Sozialwissenschaften, Wiesbaden, 2008), p. 227-247.</aps>
+<wels>Holzer, B. (2008): Seebeben mit Zuschauer: Die Tsunami-Katastrophe als Weltereignis. In: S. Nacke; R. Unelbach; T. Werron (Hrsg.):  Weltereignisse. Theoretische und empirische Perspektiven. Wiesbaden: VS Verlag für Sozialwissenschaften.  S. 227-247.</wels>
+<default>Holzer B (2008)  &lt;br /&gt;In:  Weltereignisse. Theoretische und empirische Perspektiven. Nacke S, Unelbach R, Werron T (Eds);Wiesbaden: VS Verlag für Sozialwissenschaften:  227-247.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Holzer, B. (2008). Seebeben mit Zuschauer: Die Tsunami-Katastrophe als Weltereignis. In S.  Nacke, R.  Unelbach, &amp;amp; T.  Werron (Eds.), &lt;em&gt;Weltereignisse. Theoretische und empirische Perspektiven&lt;/em&gt; (pp. 227-247). Wiesbaden: VS Verlag für Sozialwissenschaften.&lt;/div&gt;</apa_indent>
+<ieee> B. Holzer, “Seebeben mit Zuschauer: Die Tsunami-Katastrophe als Weltereignis”, &lt;em&gt;Weltereignisse. Theoretische und empirische Perspektiven&lt;/em&gt;, S. Nacke, R. Unelbach, and T. Werron, eds.,  Wiesbaden: VS Verlag für Sozialwissenschaften, 2008,  pp.227-247.</ieee>
+<lncs> Holzer, B.: Seebeben mit Zuschauer: Die Tsunami-Katastrophe als Weltereignis. In: Nacke, S., Unelbach, R., and Werron, T. (eds.) Weltereignisse. Theoretische und empirische Perspektiven. p. 227-247. VS Verlag für Sozialwissenschaften, Wiesbaden (2008).</lncs>
+<mla>Holzer, Boris. “Seebeben mit Zuschauer: Die Tsunami-Katastrophe als Weltereignis”. &lt;em&gt;Weltereignisse. Theoretische und empirische Perspektiven&lt;/em&gt;. Ed. S. Nacke, R. Unelbach, and T. Werron. Wiesbaden: VS Verlag für Sozialwissenschaften, 2008. 227-247.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Holzer, Boris. 2008. “Seebeben mit Zuschauer: Die Tsunami-Katastrophe als Weltereignis”. In &lt;em&gt;Weltereignisse. Theoretische und empirische Perspektiven&lt;/em&gt;, ed. S. Nacke, R. Unelbach, and T. Werron, 227-247. Wiesbaden: VS Verlag für Sozialwissenschaften.&lt;/div&gt;</chicago>
+<angewandte-chemie>B.  Holzer, in &lt;em&gt;Weltereignisse. Theoretische und empirische Perspektiven&lt;/em&gt; (Eds.: S. Nacke, R. Unelbach, T. Werron), Vs Verlag Für Sozialwissenschaften, Wiesbaden, &lt;strong&gt;2008&lt;/strong&gt;, p. 227-247.</angewandte-chemie>
+<apa>Holzer, B. (2008). Seebeben mit Zuschauer: Die Tsunami-Katastrophe als Weltereignis. In S.  Nacke, R.  Unelbach, &amp;amp; T.  Werron (Eds.), &lt;em&gt;Weltereignisse. Theoretische und empirische Perspektiven&lt;/em&gt; (pp. 227-247). Wiesbaden: VS Verlag für Sozialwissenschaften.</apa>
+<frontiers>Holzer, B. (2008). “Seebeben mit Zuschauer: Die Tsunami-Katastrophe als Weltereignis” in &lt;em&gt;Weltereignisse. Theoretische und empirische Perspektiven&lt;/em&gt;, Nacke, S., Unelbach, R., and Werron, T. eds. (Wiesbaden: VS Verlag für Sozialwissenschaften), 227-247.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1857322</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-08-04T08:39:35Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-08-04T08:39:35Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1857322</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1857322</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

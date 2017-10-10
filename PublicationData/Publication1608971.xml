@@ -1,0 +1,108 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>A smooth test in proportional hazard survival models using local partial likelihood fitting</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Göran</namePart>
+  <namePart type="family">Kauermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">91009</identifier></name>
+<name type="personal">
+  <namePart type="given">Ursula</namePart>
+  <namePart type="family">Berger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">5867060</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10046</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10031</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Proportional hazard models for survival data, even though popular and numerically handy, suffer from the restrictive assumption that covariate effects are constant over survival time. A number of tests have been proposed to check this assumption. This paper contributes to this area by employing local estimates allowing to fit hazard models in which covariate effects are smoothly varying with time. A formal test is derived to check for proportional hazards against smooth hazards as alternative. The test proves to possess omnibus power in that it is powerful against arbitrary but smooth alternatives. Comparative simulations and two data examples accompany the presentation. Extensions are provided to multiple covariate settings, where the focus of interest is to decide which of the covariate effects vary with time.</abstract>
+
+<originInfo><publisher>KLUWER ACADEMIC PUBL</publisher><dateIssued encoding="w3cdtf">2003</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>smooth tests</topic><topic>local likelihood</topic><topic>cox model</topic><topic>proportional hazard model</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>LIFETIME DATA ANALYSIS</title></titleInfo>
+  <identifier type="issn">1380-7870</identifier>
+  <identifier type="MEDLINE">15000411</identifier>
+  <identifier type="ISI">000188196200005</identifier><identifier type="doi">10.1023/B:LIDA.0000012423.68151.da</identifier>
+<part><detail type="volume"><number>9</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">373-393</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<angewandte-chemie>G.  Kauermann, and U.  Berger, “A smooth test in proportional hazard survival models using local partial likelihood fitting”, &lt;em&gt;LIFETIME DATA ANALYSIS&lt;/em&gt;, &lt;strong&gt;2003&lt;/strong&gt;, &lt;em&gt;9&lt;/em&gt;, 373-393.</angewandte-chemie>
+<apa>Kauermann, G., &amp;amp; Berger, U. (2003). A smooth test in proportional hazard survival models using local partial likelihood fitting. &lt;em&gt;LIFETIME DATA ANALYSIS&lt;/em&gt;, &lt;em&gt;9&lt;/em&gt;(4), 373-393.</apa>
+<frontiers>Kauermann, G., and Berger, U. (2003). A smooth test in proportional hazard survival models using local partial likelihood fitting. &lt;em&gt;LIFETIME DATA ANALYSIS&lt;/em&gt; 9, 373-393.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kauermann, Göran, and Berger, Ursula. 2003. “A smooth test in proportional hazard survival models using local partial likelihood fitting”. &lt;em&gt;LIFETIME DATA ANALYSIS&lt;/em&gt; 9 (4): 373-393.&lt;/div&gt;</chicago>
+<ieee> G. Kauermann and U. Berger, “A smooth test in proportional hazard survival models using local partial likelihood fitting”, &lt;em&gt;LIFETIME DATA ANALYSIS&lt;/em&gt;,  vol. 9, 2003,  pp. 373-393.</ieee>
+<mla>Kauermann, Göran, and Berger, Ursula. “A smooth test in proportional hazard survival models using local partial likelihood fitting”. &lt;em&gt;LIFETIME DATA ANALYSIS&lt;/em&gt; 9.4 (2003): 373-393.</mla>
+<lncs> Kauermann, G., Berger, U.: A smooth test in proportional hazard survival models using local partial likelihood fitting. LIFETIME DATA ANALYSIS. 9, 373-393 (2003).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kauermann, G., &amp;amp; Berger, U. (2003). A smooth test in proportional hazard survival models using local partial likelihood fitting. &lt;em&gt;LIFETIME DATA ANALYSIS&lt;/em&gt;, &lt;em&gt;9&lt;/em&gt;(4), 373-393.&lt;/div&gt;</apa_indent>
+<wels>Kauermann, G.; Berger, U. (2003): A smooth test in proportional hazard survival models using local partial likelihood fitting &lt;em&gt;LIFETIME DATA ANALYSIS&lt;/em&gt;,9:(4): 373-393.</wels>
+<default>Kauermann G, Berger U (2003) &lt;br /&gt;LIFETIME DATA ANALYSIS 9(4): 373-393.</default>
+<harvard1>Kauermann, G., &amp;amp; Berger, U., 2003. A smooth test in proportional hazard survival models using local partial likelihood fitting. &lt;em&gt;LIFETIME DATA ANALYSIS&lt;/em&gt;, 9(4), p 373-393.</harvard1>
+<ama>Kauermann G, Berger U. A smooth test in proportional hazard survival models using local partial likelihood fitting. &lt;em&gt;LIFETIME DATA ANALYSIS&lt;/em&gt;. 2003;9(4):373-393.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kauermann, G. &amp;amp; Berger, U. (2003). A smooth test in proportional hazard survival models using local partial likelihood fitting. &lt;em&gt;LIFETIME DATA ANALYSIS&lt;/em&gt;, &lt;em&gt;9&lt;/em&gt;(4), 373-393. KLUWER ACADEMIC PUBL. doi:10.1023/B:LIDA.0000012423.68151.da.&lt;/div&gt;</dgps>
+<bio1>Kauermann G, Berger U (2003) &lt;br /&gt;A smooth test in proportional hazard survival models using local partial likelihood fitting.&lt;br /&gt;LIFETIME DATA ANALYSIS 9(4): 373-393.</bio1>
+<aps> G.  Kauermann and U.  Berger, A smooth test in proportional hazard survival models using local partial likelihood fitting, LIFETIME DATA ANALYSIS &lt;strong&gt;9&lt;/strong&gt;, 373-393 (2003).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1608971</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:58:07Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-09-23T10:08:35Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1608971</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1608971</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

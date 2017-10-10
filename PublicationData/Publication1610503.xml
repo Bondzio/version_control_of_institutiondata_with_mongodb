@@ -1,0 +1,137 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>QAlign: quality-based multiple alignments with dynamic phylogenetic analysis</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Michael</namePart>
+  <namePart type="family">Sammeth</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jörg</namePart>
+  <namePart type="family">Rothgänger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Wolfram</namePart>
+  <namePart type="family">Esser</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jürgen</namePart>
+  <namePart type="family">Albert</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jens</namePart>
+  <namePart type="family">Stoye</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">65864</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-4656-7155</description></name>
+<name type="personal">
+  <namePart type="given">Dag</namePart>
+  <namePart type="family">Harmsen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group J. Stoye</namePart>
+  <identifier type="unibi">33067262</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Genominformatik</namePart>
+  <identifier type="unibi">66100</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Integrating different alignment strategies, a layout editor and tools deriving phylogenetic trees in a &apos;multiple alignment environment&apos; helps to investigate and enhance results of multiple sequence alignment by hand. QAlign combines algorithms for fast progressive and accurate simultaneous multiple alignment with a versatile editor and a dynamic phylogenetic analysis in a convenient graphical user interface.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="1592.pdf">https://pub.uni-bielefeld.de/download/1610503/2311134</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>OXFORD UNIV PRESS</publisher><dateIssued encoding="w3cdtf">2003</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>BIOINFORMATICS</title></titleInfo>
+  <identifier type="issn">1367-4803</identifier>
+  <identifier type="eIssn">1460-2059</identifier>
+  <identifier type="MEDLINE">12912847</identifier>
+  <identifier type="ISI">000184878700024</identifier><identifier type="urn">urn:nbn:de:0070-pub-16105038</identifier><identifier type="doi">10.1093/bioinformatics/btg197</identifier>
+<part><detail type="volume"><number>19</number></detail><detail type="issue"><number>12</number></detail><extent unit="pages">1592-1593</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sammeth, M., Rothgänger, J., Esser, W., Albert, J., Stoye, J., &amp;amp; Harmsen, D. (2003). QAlign: quality-based multiple alignments with dynamic phylogenetic analysis. &lt;em&gt;BIOINFORMATICS&lt;/em&gt;, &lt;em&gt;19&lt;/em&gt;(12), 1592-1593.&lt;/div&gt;</apa_indent>
+<ieee>M. Sammeth, et al., “QAlign: quality-based multiple alignments with dynamic phylogenetic analysis”, &lt;em&gt;BIOINFORMATICS&lt;/em&gt;,  vol. 19, 2003,  pp. 1592-1593.</ieee>
+<mla>Sammeth, Michael, Rothgänger, Jörg, Esser, Wolfram, Albert, Jürgen, Stoye, Jens, and Harmsen, Dag. “QAlign: quality-based multiple alignments with dynamic phylogenetic analysis”. &lt;em&gt;BIOINFORMATICS&lt;/em&gt; 19.12 (2003): 1592-1593.</mla>
+<lncs>Sammeth, M., Rothgänger, J., Esser, W., Albert, J., Stoye, J., Harmsen, D.: QAlign: quality-based multiple alignments with dynamic phylogenetic analysis. BIOINFORMATICS. 19, 1592-1593 (2003).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sammeth, Michael, Rothgänger, Jörg, Esser, Wolfram, Albert, Jürgen, Stoye, Jens, and Harmsen, Dag. 2003. “QAlign: quality-based multiple alignments with dynamic phylogenetic analysis”. &lt;em&gt;BIOINFORMATICS&lt;/em&gt; 19 (12): 1592-1593.&lt;/div&gt;</chicago>
+<angewandte-chemie>M.  Sammeth, J.  Rothgänger, W.  Esser, J.  Albert, J.  Stoye, and D.  Harmsen, “QAlign: quality-based multiple alignments with dynamic phylogenetic analysis”, &lt;em&gt;BIOINFORMATICS&lt;/em&gt;, &lt;strong&gt;2003&lt;/strong&gt;, &lt;em&gt;19&lt;/em&gt;, 1592-1593.</angewandte-chemie>
+<apa>Sammeth, M., Rothgänger, J., Esser, W., Albert, J., Stoye, J., &amp;amp; Harmsen, D. (2003). QAlign: quality-based multiple alignments with dynamic phylogenetic analysis. &lt;em&gt;BIOINFORMATICS&lt;/em&gt;, &lt;em&gt;19&lt;/em&gt;(12), 1592-1593.</apa>
+<frontiers>Sammeth, M., Rothgänger, J., Esser, W., Albert, J., Stoye, J., and Harmsen, D. (2003). QAlign: quality-based multiple alignments with dynamic phylogenetic analysis. &lt;em&gt;BIOINFORMATICS&lt;/em&gt; 19, 1592-1593.</frontiers>
+<harvard1>Sammeth, M., et al., 2003. QAlign: quality-based multiple alignments with dynamic phylogenetic analysis. &lt;em&gt;BIOINFORMATICS&lt;/em&gt;, 19(12), p 1592-1593.</harvard1>
+<ama>Sammeth M, Rothgänger J, Esser W, Albert J, Stoye J, Harmsen D. QAlign: quality-based multiple alignments with dynamic phylogenetic analysis. &lt;em&gt;BIOINFORMATICS&lt;/em&gt;. 2003;19(12):1592-1593.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sammeth, M., Rothgänger, J., Esser, W., Albert, J., Stoye, J. &amp;amp; Harmsen, D. (2003). QAlign: quality-based multiple alignments with dynamic phylogenetic analysis. &lt;em&gt;BIOINFORMATICS&lt;/em&gt;, &lt;em&gt;19&lt;/em&gt;(12), 1592-1593. OXFORD UNIV PRESS. doi:10.1093/bioinformatics/btg197.&lt;/div&gt;</dgps>
+<aps>M.  Sammeth, et al., QAlign: quality-based multiple alignments with dynamic phylogenetic analysis, BIOINFORMATICS &lt;strong&gt;19&lt;/strong&gt;, 1592-1593 (2003).</aps>
+<bio1>Sammeth M, Rothgänger J, Esser W, Albert J, Stoye J, Harmsen D (2003) &lt;br /&gt;QAlign: quality-based multiple alignments with dynamic phylogenetic analysis.&lt;br /&gt;BIOINFORMATICS 19(12): 1592-1593.</bio1>
+<wels>Sammeth, M.; Rothgänger, J.; Esser, W.; Albert, J.; Stoye, J.; Harmsen, D. (2003): QAlign: quality-based multiple alignments with dynamic phylogenetic analysis &lt;em&gt;BIOINFORMATICS&lt;/em&gt;,19:(12): 1592-1593.</wels>
+<default>Sammeth M, Rothgänger J, Esser W, Albert J, Stoye J, Harmsen D (2003) &lt;br /&gt;BIOINFORMATICS 19(12): 1592-1593.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1610503</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:59:02Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-01-18T09:11:15Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1610503</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1610503</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

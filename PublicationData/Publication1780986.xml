@@ -1,0 +1,110 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>RELSPEZ - eine relationale Problemspezifikation - Konzept und Erfahrungsbericht</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Thorsten</namePart>
+  <namePart type="family">Spitta</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">41186</identifier></name>
+<name type="personal">
+  <namePart type="given">Antonio</namePart>
+  <namePart type="family">Schnieder</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Gerhard</namePart><namePart type="family">Goos</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10031</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+<name type="conference">
+  <namePart>GI-Arbeitstagung Werkzeuge der Programmiertechnik</namePart>
+</name>
+
+
+
+
+
+
+<abstract lang="eng">Method, tool and experiences of the requirement specification method RELSPEZ are presented. RELSPEZ is based on a relational data model and expresses input and output of every atomic processing of an application function on parts of the data model. Processing is described in a semi-formal manner. The method RELSPEZ was developed in an industrial software project and also applied there. The tool for running it is PET/X 116o. After a pilot application of RELSPEZ – and other specification methods – was recommended only to be used for incomplete specifications of user-relevant requirements. The reasons for such a revised use of the method are discussed.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Spitta_011.pdf">https://pub.uni-bielefeld.de/download/1780986/2313126</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Springer</publisher><dateIssued encoding="w3cdtf">1981</dateIssued><place><placeTerm type="text">Karlsruhe, Germany</placeTerm></place>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+<subject><topic>Software Engineering</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Werkzeuge der Programmiertechnik</title></titleInfo>
+  <identifier type="isbn">3-540-10725-8</identifier><identifier type="urn">urn:nbn:de:0070-pub-17809860</identifier>
+<part><extent unit="pages">169-180</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>Spitta T, Schnieder A (1981) &lt;br /&gt;RELSPEZ - eine relationale Problemspezifikation - Konzept und Erfahrungsbericht. &lt;br /&gt;In:  Werkzeuge der Programmiertechnik. Goos G (Ed); Informatik-Fachberichte 43, GI-Arbeitstagung Karlsruhe,  Berlin [u.a.]: Springer:  169-180.</bio1>
+<aps> T.  Spitta and A.  Schnieder, RELSPEZ - eine relationale Problemspezifikation - Konzept und Erfahrungsbericht, in &lt;em&gt;Werkzeuge der Programmiertechnik&lt;/em&gt;, edited by G.  Goos, Informatik-Fachberichte 43, GI-Arbeitstagung Karlsruhe (Springer, Berlin [U.a.], 1981), p. 169-180.</aps>
+<ama>Spitta T, Schnieder A. RELSPEZ - eine relationale Problemspezifikation - Konzept und Erfahrungsbericht. In: Goos G, ed. &lt;em&gt;Werkzeuge der Programmiertechnik&lt;/em&gt;. Informatik-Fachberichte 43, GI-Arbeitstagung Karlsruhe. Berlin [u.a.]: Springer;  1981: 169-180.</ama>
+<harvard1>Spitta, T., &amp;amp; Schnieder, A., 1981. RELSPEZ - eine relationale Problemspezifikation - Konzept und Erfahrungsbericht. In G.  Goos, ed. &lt;em&gt;Werkzeuge der Programmiertechnik&lt;/em&gt;. Informatik-Fachberichte 43, GI-Arbeitstagung Karlsruhe.  Berlin [u.a.]: Springer, pp. 169-180.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Spitta, T. &amp;amp; Schnieder, A. (1981). RELSPEZ - eine relationale Problemspezifikation - Konzept und Erfahrungsbericht (Informatik-Fachberichte 43, GI-Arbeitstagung Karlsruhe). &lt;em&gt;Werkzeuge der Programmiertechnik&lt;/em&gt; (S. 169-180). Gehalten auf der GI-Arbeitstagung Werkzeuge der Programmiertechnik, Berlin [u.a.]: Springer.&lt;/div&gt;</dgps>
+<default>Spitta T, Schnieder A (1981)  &lt;br /&gt;In:  Werkzeuge der Programmiertechnik. Goos G (Ed); Informatik-Fachberichte 43, GI-Arbeitstagung Karlsruhe, . Berlin [u.a.]: Springer:  169-180.</default>
+<wels>Spitta, T.; Schnieder, A. (1981): RELSPEZ - eine relationale Problemspezifikation - Konzept und Erfahrungsbericht. In: Gerhard Goos (Hrsg.):  Werkzeuge der Programmiertechnik. Berlin [u.a.]: Springer. (Informatik-Fachberichte 43, GI-Arbeitstagung Karlsruhe, ).  S. 169-180.</wels>
+<mla>Spitta, Thorsten, and Schnieder, Antonio. “RELSPEZ - eine relationale Problemspezifikation - Konzept und Erfahrungsbericht”. &lt;em&gt;Werkzeuge der Programmiertechnik&lt;/em&gt;. Ed. Gerhard Goos. Berlin [u.a.]: Springer, 1981. Informatik-Fachberichte 43, GI-Arbeitstagung Karlsruhe. 169-180.</mla>
+<lncs> Spitta, T., Schnieder, A.: RELSPEZ - eine relationale Problemspezifikation - Konzept und Erfahrungsbericht. In: Goos, G. (ed.) Werkzeuge der Programmiertechnik. Informatik-Fachberichte 43, GI-Arbeitstagung Karlsruhe. p. 169-180. Springer, Berlin [u.a.] (1981).</lncs>
+<ieee> T. Spitta and A. Schnieder, “RELSPEZ - eine relationale Problemspezifikation - Konzept und Erfahrungsbericht”, &lt;em&gt;Werkzeuge der Programmiertechnik&lt;/em&gt;, G. Goos, ed., Informatik-Fachberichte 43, GI-Arbeitstagung Karlsruhe,  Berlin [u.a.]: Springer, 1981,  pp.169-180.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Spitta, T., &amp;amp; Schnieder, A. (1981). RELSPEZ - eine relationale Problemspezifikation - Konzept und Erfahrungsbericht. In G.  Goos (Ed.), &lt;em&gt;Informatik-Fachberichte 43, GI-Arbeitstagung Karlsruhe&lt;/em&gt;&lt;em&gt;. Werkzeuge der Programmiertechnik&lt;/em&gt; (pp. 169-180). Berlin [u.a.]: Springer.&lt;/div&gt;</apa_indent>
+<frontiers>Spitta, T., and Schnieder, A. (1981). “RELSPEZ - eine relationale Problemspezifikation - Konzept und Erfahrungsbericht” in &lt;em&gt;Werkzeuge der Programmiertechnik&lt;/em&gt;, Goos, G. ed. Informatik-Fachberichte 43, GI-Arbeitstagung Karlsruhe (Berlin [u.a.]: Springer), 169-180.</frontiers>
+<angewandte-chemie>T.  Spitta, and A.  Schnieder, in &lt;em&gt;Werkzeuge der Programmiertechnik&lt;/em&gt; (Ed.: G. Goos), Springer, Berlin [u.a.], &lt;strong&gt;1981&lt;/strong&gt;, p. 169-180.</angewandte-chemie>
+<apa>Spitta, T., &amp;amp; Schnieder, A. (1981). RELSPEZ - eine relationale Problemspezifikation - Konzept und Erfahrungsbericht. In G.  Goos (Ed.), &lt;em&gt;Informatik-Fachberichte 43, GI-Arbeitstagung Karlsruhe&lt;/em&gt;&lt;em&gt;. Werkzeuge der Programmiertechnik&lt;/em&gt; (pp. 169-180). Berlin [u.a.]: Springer.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Spitta, Thorsten, and Schnieder, Antonio. 1981. “RELSPEZ - eine relationale Problemspezifikation - Konzept und Erfahrungsbericht”. In &lt;em&gt;Werkzeuge der Programmiertechnik&lt;/em&gt;, ed. Gerhard Goos, 169-180. Informatik-Fachberichte 43, GI-Arbeitstagung Karlsruhe. Berlin [u.a.]: Springer.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780986</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-09-24T10:35:32Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-09-24T10:37:40Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780986</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780986</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

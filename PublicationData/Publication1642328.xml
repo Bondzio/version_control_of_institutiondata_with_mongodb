@@ -1,0 +1,107 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>CORRELATED KELDYSH-FAISAL-REISS THEORY OF ABOVE-THRESHOLD DOUBLE-IONIZATION OF HE IN INTENSE LASER FIELDS</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">BECKER</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Farhard</namePart>
+  <namePart type="family">Faisal</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40255</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Theoretische Atom-, Molekül- und Laserphysik</namePart>
+  <identifier type="unibi">23470672</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We have developed a correlated Keldysh-Faisal-Reiss theory of laser-induced double ionization of a two-electron atom. The basic N-photon T matrix and the expression for N-photon triple-differential rates or cross sections (TDCS&apos;s) are derived. The theory is applied to investigate the TDCS&apos;s for very-high-order multiphoton double ionization of He with lasers of wavelength lambda = 248 nm and lambda = 617 nm. Comparison with the uncorrelated results reveals a dramatic influence of the final-state e-e correlation on the above-threshold TDCS&apos;s to be measured in coincidence experiments in intense laser fields. The limiting case of the TDCS&apos;s for weak-field double ionization of He by a synchroton photon is also investigated; the results confirm the earlier theoretical findings and recent experimental results in that case.</abstract>
+
+<originInfo><publisher>AMERICAN PHYSICAL SOC</publisher><dateIssued encoding="w3cdtf">1994</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>PHYSICAL REVIEW A</title></titleInfo>
+  <identifier type="issn">1050-2947</identifier>
+  <identifier type="eIssn">1094-1622</identifier>
+  <identifier type="MEDLINE">9911272</identifier>
+  <identifier type="ISI">A1994PL62700064</identifier><identifier type="doi">10.1103/PhysRevA.50.3256</identifier>
+<part><detail type="volume"><number>50</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">3256-3264</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>A. BECKER and F. Faisal, “CORRELATED KELDYSH-FAISAL-REISS THEORY OF ABOVE-THRESHOLD DOUBLE-IONIZATION OF HE IN INTENSE LASER FIELDS”, &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt;,  vol. 50, 1994,  pp. 3256-3264.</ieee>
+<mla>BECKER, A, and Faisal, Farhard. “CORRELATED KELDYSH-FAISAL-REISS THEORY OF ABOVE-THRESHOLD DOUBLE-IONIZATION OF HE IN INTENSE LASER FIELDS”. &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt; 50.4 (1994): 3256-3264.</mla>
+<lncs>BECKER, A., Faisal, F.: CORRELATED KELDYSH-FAISAL-REISS THEORY OF ABOVE-THRESHOLD DOUBLE-IONIZATION OF HE IN INTENSE LASER FIELDS. PHYSICAL REVIEW A. 50, 3256-3264 (1994).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;BECKER, A., &amp;amp; Faisal, F. (1994). CORRELATED KELDYSH-FAISAL-REISS THEORY OF ABOVE-THRESHOLD DOUBLE-IONIZATION OF HE IN INTENSE LASER FIELDS. &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt;, &lt;em&gt;50&lt;/em&gt;(4), 3256-3264.&lt;/div&gt;</apa_indent>
+<apa>BECKER, A., &amp;amp; Faisal, F. (1994). CORRELATED KELDYSH-FAISAL-REISS THEORY OF ABOVE-THRESHOLD DOUBLE-IONIZATION OF HE IN INTENSE LASER FIELDS. &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt;, &lt;em&gt;50&lt;/em&gt;(4), 3256-3264.</apa>
+<angewandte-chemie>A.  BECKER, and F.  Faisal, “CORRELATED KELDYSH-FAISAL-REISS THEORY OF ABOVE-THRESHOLD DOUBLE-IONIZATION OF HE IN INTENSE LASER FIELDS”, &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt;, &lt;strong&gt;1994&lt;/strong&gt;, &lt;em&gt;50&lt;/em&gt;, 3256-3264.</angewandte-chemie>
+<frontiers>BECKER, A., and Faisal, F. (1994). CORRELATED KELDYSH-FAISAL-REISS THEORY OF ABOVE-THRESHOLD DOUBLE-IONIZATION OF HE IN INTENSE LASER FIELDS. &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt; 50, 3256-3264.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;BECKER, A, and Faisal, Farhard. 1994. “CORRELATED KELDYSH-FAISAL-REISS THEORY OF ABOVE-THRESHOLD DOUBLE-IONIZATION OF HE IN INTENSE LASER FIELDS”. &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt; 50 (4): 3256-3264.&lt;/div&gt;</chicago>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;BECKER, A. &amp;amp; Faisal, F. (1994). CORRELATED KELDYSH-FAISAL-REISS THEORY OF ABOVE-THRESHOLD DOUBLE-IONIZATION OF HE IN INTENSE LASER FIELDS. &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt;, &lt;em&gt;50&lt;/em&gt;(4), 3256-3264. AMERICAN PHYSICAL SOC. doi:10.1103/PhysRevA.50.3256.&lt;/div&gt;</dgps>
+<harvard1>BECKER, A., &amp;amp; Faisal, F., 1994. CORRELATED KELDYSH-FAISAL-REISS THEORY OF ABOVE-THRESHOLD DOUBLE-IONIZATION OF HE IN INTENSE LASER FIELDS. &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt;, 50(4), p 3256-3264.</harvard1>
+<ama>BECKER A, Faisal F. CORRELATED KELDYSH-FAISAL-REISS THEORY OF ABOVE-THRESHOLD DOUBLE-IONIZATION OF HE IN INTENSE LASER FIELDS. &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt;. 1994;50(4):3256-3264.</ama>
+<aps>A.  BECKER and F.  Faisal, CORRELATED KELDYSH-FAISAL-REISS THEORY OF ABOVE-THRESHOLD DOUBLE-IONIZATION OF HE IN INTENSE LASER FIELDS, PHYSICAL REVIEW A &lt;strong&gt;50&lt;/strong&gt;, 3256-3264 (1994).</aps>
+<bio1>BECKER A, Faisal F (1994) &lt;br /&gt;CORRELATED KELDYSH-FAISAL-REISS THEORY OF ABOVE-THRESHOLD DOUBLE-IONIZATION OF HE IN INTENSE LASER FIELDS.&lt;br /&gt;PHYSICAL REVIEW A 50(4): 3256-3264.</bio1>
+<wels>BECKER, A.; Faisal, F. (1994): CORRELATED KELDYSH-FAISAL-REISS THEORY OF ABOVE-THRESHOLD DOUBLE-IONIZATION OF HE IN INTENSE LASER FIELDS &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt;,50:(4): 3256-3264.</wels>
+<default>BECKER A, Faisal F (1994) &lt;br /&gt;PHYSICAL REVIEW A 50(4): 3256-3264.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1642328</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:27:39Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-11-04T10:04:09Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1642328</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1642328</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

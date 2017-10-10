@@ -1,0 +1,154 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Cdc42 and phosphoinositide 3-kinase drive Rac-mediated actin polymerization downstream of c-Met in distinct and common pathways</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">T.</namePart>
+  <namePart type="family">Bosse</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J.</namePart>
+  <namePart type="family">Ehinger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A.</namePart>
+  <namePart type="family">Czuchra</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">S.</namePart>
+  <namePart type="family">Benesch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A.</namePart>
+  <namePart type="family">Steffen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">X.</namePart>
+  <namePart type="family">Wu</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">K.</namePart>
+  <namePart type="family">Schloen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Hartmut</namePart>
+  <namePart type="family">Niemann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">4887044</identifier></name>
+<name type="personal">
+  <namePart type="given">G.</namePart>
+  <namePart type="family">Scita</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">T. E.</namePart>
+  <namePart type="family">Stradal</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">C.</namePart>
+  <namePart type="family">Brakebusch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">K.</namePart>
+  <namePart type="family">Rottner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Biochemie und Biotechnik</namePart>
+  <identifier type="unibi">4838684</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Biochemie IV</namePart>
+  <identifier type="unibi">5370069</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  H. Niemann</namePart>
+  <identifier type="unibi">33086703</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Recombinant Fusion Proteins/genetics/metabolism</topic><topic>Proto-Oncogene Proteins c-met/genetics/*metabolism</topic><topic>inhibitors/genetics/*metabolism</topic><topic>1-Phosphatidylinositol 3-Kinase/antagonists &amp;</topic><topic>Animals</topic><topic>Cell Surface Extensions/metabolism</topic><topic>Bacterial Proteins/metabolism</topic><topic>Actins/*metabolism</topic><topic>cdc42 GTP-Binding Protein/genetics/*metabolism</topic><topic>rac1 GTP-Binding Protein/genetics/*metabolism</topic><topic>Enzyme Activation</topic><topic>Humans</topic><topic>Listeria monocytogenes/metabolism/pathogenicity</topic><topic>Membrane Proteins/metabolism</topic><topic>Mice</topic><topic>Mice</topic><topic>Knockout</topic><topic>Signal Transduction/*physiology</topic><topic>Wiskott-Aldrich Syndrome Protein Family/metabolism</topic><topic>Wiskott-Aldrich Syndrome Protein</topic><topic>Neuronal/genetics/metabolism</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Mol Cell Biol</title></titleInfo>
+  <identifier type="issn">0270-7306</identifier>
+  <identifier type="MEDLINE">17682062</identifier>
+  <identifier type="ISI">000249642600004</identifier><identifier type="doi">10.1128/MCB.00367-07</identifier>
+<part><detail type="volume"><number>27</number></detail><detail type="issue"><number>19</number></detail><extent unit="pages">6615-6628</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Bosse T, Ehinger J, Czuchra A, et al. Cdc42 and phosphoinositide 3-kinase drive Rac-mediated actin polymerization downstream of c-Met in distinct and common pathways. &lt;em&gt;Mol Cell Biol&lt;/em&gt;. 2007;27(19):6615-6628.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bosse, T., Ehinger, J., Czuchra, A., Benesch, S., Steffen, A., Wu, X., Schloen, K., Niemann, H., Scita, G., Stradal, T.E., Brakebusch, C. &amp;amp; Rottner, K. (2007). Cdc42 and phosphoinositide 3-kinase drive Rac-mediated actin polymerization downstream of c-Met in distinct and common pathways. &lt;em&gt;Mol Cell Biol&lt;/em&gt;, &lt;em&gt;27&lt;/em&gt;(19), 6615-6628. doi:10.1128/MCB.00367-07.&lt;/div&gt;</dgps>
+<harvard1>Bosse, T., et al., 2007. Cdc42 and phosphoinositide 3-kinase drive Rac-mediated actin polymerization downstream of c-Met in distinct and common pathways. &lt;em&gt;Mol Cell Biol&lt;/em&gt;, 27(19), p 6615-6628.</harvard1>
+<bio1>Bosse T, Ehinger J, Czuchra A, Benesch S, Steffen A, Wu X, Schloen K, Niemann H, Scita G, Stradal TE, Brakebusch C, Rottner K (2007) &lt;br /&gt;Cdc42 and phosphoinositide 3-kinase drive Rac-mediated actin polymerization downstream of c-Met in distinct and common pathways.&lt;br /&gt;Mol Cell Biol 27(19): 6615-6628.</bio1>
+<aps>T.  Bosse, et al., Cdc42 and phosphoinositide 3-kinase drive Rac-mediated actin polymerization downstream of c-Met in distinct and common pathways, Mol Cell Biol &lt;strong&gt;27&lt;/strong&gt;, 6615-6628 (2007).</aps>
+<wels>Bosse, T.; Ehinger, J.; Czuchra, A.; Benesch, S.; Steffen, A.; Wu, X.; Schloen, K.; Niemann, H.; Scita, G.; Stradal, T. E.; Brakebusch, C.; Rottner, K. (2007): Cdc42 and phosphoinositide 3-kinase drive Rac-mediated actin polymerization downstream of c-Met in distinct and common pathways &lt;em&gt;Mol Cell Biol&lt;/em&gt;,27:(19): 6615-6628.</wels>
+<default>Bosse T, Ehinger J, Czuchra A, Benesch S, Steffen A, Wu X, Schloen K, Niemann H, Scita G, Stradal TE, Brakebusch C, et al. (2007) &lt;br /&gt;Mol Cell Biol 27(19): 6615-6628.</default>
+<ieee>T. Bosse, et al., “Cdc42 and phosphoinositide 3-kinase drive Rac-mediated actin polymerization downstream of c-Met in distinct and common pathways”, &lt;em&gt;Mol Cell Biol&lt;/em&gt;,  vol. 27, 2007,  pp. 6615-6628.</ieee>
+<lncs>Bosse, T., Ehinger, J., Czuchra, A., Benesch, S., Steffen, A., Wu, X., Schloen, K., Niemann, H., Scita, G., Stradal, T.E., Brakebusch, C., Rottner, K.: Cdc42 and phosphoinositide 3-kinase drive Rac-mediated actin polymerization downstream of c-Met in distinct and common pathways. Mol Cell Biol. 27, 6615-6628 (2007).</lncs>
+<mla>Bosse, T., Ehinger, J., Czuchra, A., Benesch, S., Steffen, A., Wu, X., Schloen, K., Niemann, Hartmut, Scita, G., Stradal, T. E., Brakebusch, C., and Rottner, K. “Cdc42 and phosphoinositide 3-kinase drive Rac-mediated actin polymerization downstream of c-Met in distinct and common pathways”. &lt;em&gt;Mol Cell Biol&lt;/em&gt; 27.19 (2007): 6615-6628.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bosse, T., Ehinger, J., Czuchra, A., Benesch, S., Steffen, A., Wu, X., Schloen, K., et al. (2007). Cdc42 and phosphoinositide 3-kinase drive Rac-mediated actin polymerization downstream of c-Met in distinct and common pathways. &lt;em&gt;Mol Cell Biol&lt;/em&gt;, &lt;em&gt;27&lt;/em&gt;(19), 6615-6628.&lt;/div&gt;</apa_indent>
+<apa>Bosse, T., Ehinger, J., Czuchra, A., Benesch, S., Steffen, A., Wu, X., Schloen, K., et al. (2007). Cdc42 and phosphoinositide 3-kinase drive Rac-mediated actin polymerization downstream of c-Met in distinct and common pathways. &lt;em&gt;Mol Cell Biol&lt;/em&gt;, &lt;em&gt;27&lt;/em&gt;(19), 6615-6628.</apa>
+<angewandte-chemie>T.  Bosse, J.  Ehinger, A.  Czuchra, S.  Benesch, A.  Steffen, X.  Wu, K.  Schloen, H.  Niemann, G.  Scita, T. E.  Stradal, et al., “Cdc42 and phosphoinositide 3-kinase drive Rac-mediated actin polymerization downstream of c-Met in distinct and common pathways”, &lt;em&gt;Mol Cell Biol&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;27&lt;/em&gt;, 6615-6628.</angewandte-chemie>
+<frontiers>Bosse, T., Ehinger, J., Czuchra, A., Benesch, S., Steffen, A., Wu, X., Schloen, K., Niemann, H., Scita, G., Stradal, T. E., et al. (2007). Cdc42 and phosphoinositide 3-kinase drive Rac-mediated actin polymerization downstream of c-Met in distinct and common pathways. &lt;em&gt;Mol Cell Biol&lt;/em&gt; 27, 6615-6628.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bosse, T., Ehinger, J., Czuchra, A., Benesch, S., Steffen, A., Wu, X., Schloen, K., et al. 2007. “Cdc42 and phosphoinositide 3-kinase drive Rac-mediated actin polymerization downstream of c-Met in distinct and common pathways”. &lt;em&gt;Mol Cell Biol&lt;/em&gt; 27 (19): 6615-6628.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1927872</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-12-06T15:28:01Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-21T10:25:03Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1927872</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1927872</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

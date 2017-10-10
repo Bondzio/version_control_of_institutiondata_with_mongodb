@@ -1,0 +1,97 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>On the variation of the spectra of matrices</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ludwig</namePart>
+  <namePart type="family">Elsner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10509</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Elsner_028.pdf">https://pub.uni-bielefeld.de/download/1780304/2312864</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1982</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Linear algebra and its applications</title></titleInfo>
+  <identifier type="issn">0024-3795</identifier>
+  <identifier type="ISI">A1982PK11600010</identifier><identifier type="urn">urn:nbn:de:0070-pub-17803047</identifier><identifier type="doi">10.1016/0024-3795(82)90230-0</identifier>
+<part><detail type="volume"><number>47</number></detail><detail type="issue"><number>Oct</number></detail><extent unit="pages">127-138</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Elsner, Ludwig. 1982. “On the variation of the spectra of matrices”. &lt;em&gt;Linear algebra and its applications&lt;/em&gt; 47 (Oct): 127-138.&lt;/div&gt;</chicago>
+<apa>Elsner, L. (1982). On the variation of the spectra of matrices. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, &lt;em&gt;47&lt;/em&gt;(Oct), 127-138.</apa>
+<angewandte-chemie>L.  Elsner, “On the variation of the spectra of matrices”, &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, &lt;strong&gt;1982&lt;/strong&gt;, &lt;em&gt;47&lt;/em&gt;, 127-138.</angewandte-chemie>
+<frontiers>Elsner, L. (1982). On the variation of the spectra of matrices. &lt;em&gt;Linear algebra and its applications&lt;/em&gt; 47, 127-138.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Elsner, L. (1982). On the variation of the spectra of matrices. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, &lt;em&gt;47&lt;/em&gt;(Oct), 127-138.&lt;/div&gt;</apa_indent>
+<ieee>L. Elsner, “On the variation of the spectra of matrices”, &lt;em&gt;Linear algebra and its applications&lt;/em&gt;,  vol. 47, 1982,  pp. 127-138.</ieee>
+<mla>Elsner, Ludwig. “On the variation of the spectra of matrices”. &lt;em&gt;Linear algebra and its applications&lt;/em&gt; 47.Oct (1982): 127-138.</mla>
+<lncs>Elsner, L.: On the variation of the spectra of matrices. Linear algebra and its applications. 47, 127-138 (1982).</lncs>
+<wels>Elsner, L. (1982): On the variation of the spectra of matrices &lt;em&gt;Linear algebra and its applications&lt;/em&gt;,47:(Oct): 127-138.</wels>
+<default>Elsner L (1982) &lt;br /&gt;Linear algebra and its applications 47(Oct): 127-138.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Elsner, L. (1982). On the variation of the spectra of matrices. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, &lt;em&gt;47&lt;/em&gt;(Oct), 127-138. doi:10.1016/0024-3795(82)90230-0.&lt;/div&gt;</dgps>
+<harvard1>Elsner, L., 1982. On the variation of the spectra of matrices. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, 47(Oct), p 127-138.</harvard1>
+<ama>Elsner L. On the variation of the spectra of matrices. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;. 1982;47(Oct):127-138.</ama>
+<aps>L.  Elsner, On the variation of the spectra of matrices, Linear algebra and its applications &lt;strong&gt;47&lt;/strong&gt;, 127-138 (1982).</aps>
+<bio1>Elsner L (1982) &lt;br /&gt;On the variation of the spectra of matrices.&lt;br /&gt;Linear algebra and its applications 47(Oct): 127-138.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780304</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780304</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780304</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

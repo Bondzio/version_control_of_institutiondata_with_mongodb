@@ -1,0 +1,111 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Multi-loop calculations in the standard model: Techniques and applications</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Jochem</namePart>
+  <namePart type="family">Fleischer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40323</identifier></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Tentyukov</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">OL</namePart>
+  <namePart type="family">Veretin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Elektroschwache Wechselwirkungen</namePart>
+  <identifier type="unibi">23470617</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We present a review of the Bielefeld-Dubna activities on the multiloop calculations. In the first part a C-program DIANA (DIagram ANAlyser) for the automation of Feynman diagram evaluations is presented, in the second part various techniques for the evaluation of scalar diagrams are described, based on the Taylor expansion method and large mass expansion.</abstract>
+
+<originInfo><publisher>ACTA PHYSICA POLONICA B, JAGELLONIAN UNIV, INST PHYSICS</publisher><dateIssued encoding="w3cdtf">1997</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>ACTA PHYSICA POLONICA B</title></titleInfo>
+  <identifier type="issn">0587-4254</identifier>
+  <identifier type="arXiv">hep-ph/9711437</identifier>
+  <identifier type="INSPIRE">451479</identifier>
+  <identifier type="ISI">000071566700008</identifier>
+<part><detail type="volume"><number>28</number></detail><detail type="issue"><number>11</number></detail><extent unit="pages">2333-2350</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fleischer, Jochem, Tentyukov, M, and Veretin, OL. 1997. “Multi-loop calculations in the standard model: Techniques and applications”. In &lt;em&gt;ACTA PHYSICA POLONICA B&lt;/em&gt;, 28:2333-2350. ACTA PHYSICA POLONICA B, JAGELLONIAN UNIV, INST PHYSICS.&lt;/div&gt;</chicago>
+<apa>Fleischer, J., Tentyukov, M., &amp;amp; Veretin, O. L. (1997). Multi-loop calculations in the standard model: Techniques and applications. &lt;em&gt;ACTA PHYSICA POLONICA B&lt;/em&gt;, &lt;em&gt;28&lt;/em&gt;(11), 2333-2350.</apa>
+<angewandte-chemie>J.  Fleischer, M.  Tentyukov, and O. L.  Veretin, in &lt;em&gt;ACTA PHYSICA POLONICA B&lt;/em&gt;, Acta Physica Polonica B, Jagellonian Univ, Inst Physics, &lt;strong&gt;1997&lt;/strong&gt;, p. 2333-2350.</angewandte-chemie>
+<frontiers>Fleischer, J., Tentyukov, M., and Veretin, O. L. (1997). “Multi-loop calculations in the standard model: Techniques and applications” in &lt;em&gt;ACTA PHYSICA POLONICA B&lt;/em&gt;, vol. 28, (ACTA PHYSICA POLONICA B, JAGELLONIAN UNIV, INST PHYSICS), 2333-2350.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fleischer, J., Tentyukov, M., &amp;amp; Veretin, O. L. (1997). Multi-loop calculations in the standard model: Techniques and applications. &lt;em&gt;ACTA PHYSICA POLONICA B&lt;/em&gt;, &lt;em&gt;28&lt;/em&gt;(11), 2333-2350.&lt;/div&gt;</apa_indent>
+<ieee>J. Fleischer, M. Tentyukov, and O.L. Veretin, “Multi-loop calculations in the standard model: Techniques and applications”, &lt;em&gt;ACTA PHYSICA POLONICA B&lt;/em&gt;, vol. 28, ACTA PHYSICA POLONICA B, JAGELLONIAN UNIV, INST PHYSICS, 1997,  pp.2333-2350.</ieee>
+<mla>Fleischer, Jochem, Tentyukov, M, and Veretin, OL. “Multi-loop calculations in the standard model: Techniques and applications”. &lt;em&gt;ACTA PHYSICA POLONICA B&lt;/em&gt;. ACTA PHYSICA POLONICA B, JAGELLONIAN UNIV, INST PHYSICS, 1997.Vol. 28. 2333-2350.</mla>
+<lncs>Fleischer, J., Tentyukov, M., Veretin, O.L.: Multi-loop calculations in the standard model: Techniques and applications. ACTA PHYSICA POLONICA B. 28, p. 2333-2350. ACTA PHYSICA POLONICA B, JAGELLONIAN UNIV, INST PHYSICS (1997).</lncs>
+<wels>Fleischer, J.; Tentyukov, M.; Veretin, O. L. (1997): Multi-loop calculations in the standard model: Techniques and applications. In: ACTA PHYSICA POLONICA B. ACTA PHYSICA POLONICA B, JAGELLONIAN UNIV, INST PHYSICS. (28).  S. 2333-2350.</wels>
+<default>Fleischer J, Tentyukov M, Veretin OL (1997)  &lt;br /&gt;In:  ACTA PHYSICA POLONICA B. 28. ACTA PHYSICA POLONICA B, JAGELLONIAN UNIV, INST PHYSICS:  2333-2350.</default>
+<ama>Fleischer J, Tentyukov M, Veretin OL. Multi-loop calculations in the standard model: Techniques and applications. In:  &lt;em&gt;ACTA PHYSICA POLONICA B&lt;/em&gt;. Vol 28. ACTA PHYSICA POLONICA B, JAGELLONIAN UNIV, INST PHYSICS;  1997: 2333-2350.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fleischer, J., Tentyukov, M. &amp;amp; Veretin, O.L. (1997). Multi-loop calculations in the standard model: Techniques and applications. &lt;em&gt;ACTA PHYSICA POLONICA B&lt;/em&gt; (S. 2333-2350). ACTA PHYSICA POLONICA B, JAGELLONIAN UNIV, INST PHYSICS.&lt;/div&gt;</dgps>
+<harvard1>Fleischer, J., Tentyukov, M., &amp;amp; Veretin, O.L., 1997. Multi-loop calculations in the standard model: Techniques and applications. In &lt;em&gt;ACTA PHYSICA POLONICA B&lt;/em&gt;. no.28  ACTA PHYSICA POLONICA B, JAGELLONIAN UNIV, INST PHYSICS, pp. 2333-2350.</harvard1>
+<aps>J.  Fleischer, M.  Tentyukov, and O. L.  Veretin, Multi-loop calculations in the standard model: Techniques and applications, in &lt;em&gt;ACTA PHYSICA POLONICA B&lt;/em&gt;, &lt;strong&gt;28&lt;/strong&gt; (ACTA PHYSICA POLONICA B, JAGELLONIAN UNIV, INST PHYSICS, 1997), p. 2333-2350.</aps>
+<bio1>Fleischer J, Tentyukov M, Veretin OL (1997) &lt;br /&gt;Multi-loop calculations in the standard model: Techniques and applications. &lt;br /&gt;In:  ACTA PHYSICA POLONICA B. 28. ACTA PHYSICA POLONICA B, JAGELLONIAN UNIV, INST PHYSICS:  2333-2350.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1626508</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:22:00Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-13T14:12:48Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1626508</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1626508</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

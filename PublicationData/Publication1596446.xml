@@ -1,0 +1,107 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Spectral contrasts for landmark navigation</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Thomas</namePart>
+  <namePart type="family">Kollmeier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Frank</namePart>
+  <namePart type="family">Röben</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">94530</identifier></name>
+<name type="personal">
+  <namePart type="given">Wolfram</namePart>
+  <namePart type="family">Schenck</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">106076</identifier></name>
+<name type="personal">
+  <namePart type="given">Ralf</namePart>
+  <namePart type="family">Möller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">94532</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Technische Informatik</namePart>
+  <identifier type="unibi">10040</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Visual robot navigation in outdoor environments would benefit from an illumination-independent representation of images. We explore how such a representation, comprising a black skyline of objects in front of a white sky, can be obtained from dual-channel spectral contrast measures. Light from sky and natural objects under different conditions of illumination was analyzed by five spectral channels: ultraviolet, blue, green, red, and near infrared. Linear discriminant analysis was applied to determine the optimal linear separation between sky and object points. A statistical comparison shows that contrasts with large differences in the wavelength of the two channels, specifically ultraviolet-infrared, blue-infrared, and ultraviolet-red, yield the best separation. Within a single channel, the best separation was obtained for ultraviolet light. The gain in separation quality when all five channels were included is relatively small. (c) 2006 Optical Society of America.</abstract>
+
+<originInfo><publisher>OPTICAL SOC AMER</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Journal of the Optical Society of America A: Optics, Image Science &amp; Vision</title></titleInfo>
+  <identifier type="issn">1084-7529</identifier>
+  <identifier type="eIssn">1520-8532</identifier>
+  <identifier type="MEDLINE">17164837</identifier>
+  <identifier type="ISI">000243036300001</identifier><identifier type="doi">10.1364/JOSAA.24.000001</identifier>
+<part><detail type="volume"><number>24</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">1-10</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<mla>Kollmeier, Thomas, Röben, Frank, Schenck, Wolfram, and Möller, Ralf. “Spectral contrasts for landmark navigation”. &lt;em&gt;Journal of the Optical Society of America A: Optics, Image Science &amp;amp; Vision&lt;/em&gt; 24.1 (2007): 1-10.</mla>
+<lncs>Kollmeier, T., Röben, F., Schenck, W., Möller, R.: Spectral contrasts for landmark navigation. Journal of the Optical Society of America A: Optics, Image Science &amp;amp; Vision. 24, 1-10 (2007).</lncs>
+<ieee>T. Kollmeier, et al., “Spectral contrasts for landmark navigation”, &lt;em&gt;Journal of the Optical Society of America A: Optics, Image Science &amp;amp; Vision&lt;/em&gt;,  vol. 24, 2007,  pp. 1-10.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kollmeier, T., Röben, F., Schenck, W., &amp;amp; Möller, R. (2007). Spectral contrasts for landmark navigation. &lt;em&gt;Journal of the Optical Society of America A: Optics, Image Science &amp;amp; Vision&lt;/em&gt;, &lt;em&gt;24&lt;/em&gt;(1), 1-10.&lt;/div&gt;</apa_indent>
+<frontiers>Kollmeier, T., Röben, F., Schenck, W., and Möller, R. (2007). Spectral contrasts for landmark navigation. &lt;em&gt;Journal of the Optical Society of America A: Optics, Image Science &amp;amp; Vision&lt;/em&gt; 24, 1-10.</frontiers>
+<angewandte-chemie>T.  Kollmeier, F.  Röben, W.  Schenck, and R.  Möller, “Spectral contrasts for landmark navigation”, &lt;em&gt;Journal of the Optical Society of America A: Optics, Image Science &amp;amp; Vision&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;24&lt;/em&gt;, 1-10.</angewandte-chemie>
+<apa>Kollmeier, T., Röben, F., Schenck, W., &amp;amp; Möller, R. (2007). Spectral contrasts for landmark navigation. &lt;em&gt;Journal of the Optical Society of America A: Optics, Image Science &amp;amp; Vision&lt;/em&gt;, &lt;em&gt;24&lt;/em&gt;(1), 1-10.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kollmeier, Thomas, Röben, Frank, Schenck, Wolfram, and Möller, Ralf. 2007. “Spectral contrasts for landmark navigation”. &lt;em&gt;Journal of the Optical Society of America A: Optics, Image Science &amp;amp; Vision&lt;/em&gt; 24 (1): 1-10.&lt;/div&gt;</chicago>
+<aps>T.  Kollmeier, et al., Spectral contrasts for landmark navigation, Journal of the Optical Society of America A: Optics, Image Science &amp;amp; Vision &lt;strong&gt;24&lt;/strong&gt;, 1-10 (2007).</aps>
+<bio1>Kollmeier T, Röben F, Schenck W, Möller R (2007) &lt;br /&gt;Spectral contrasts for landmark navigation.&lt;br /&gt;Journal of the Optical Society of America A: Optics, Image Science &amp;amp; Vision 24(1): 1-10.</bio1>
+<ama>Kollmeier T, Röben F, Schenck W, Möller R. Spectral contrasts for landmark navigation. &lt;em&gt;Journal of the Optical Society of America A: Optics, Image Science &amp;amp; Vision&lt;/em&gt;. 2007;24(1):1-10.</ama>
+<harvard1>Kollmeier, T., et al., 2007. Spectral contrasts for landmark navigation. &lt;em&gt;Journal of the Optical Society of America A: Optics, Image Science &amp;amp; Vision&lt;/em&gt;, 24(1), p 1-10.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kollmeier, T., Röben, F., Schenck, W. &amp;amp; Möller, R. (2007). Spectral contrasts for landmark navigation. &lt;em&gt;Journal of the Optical Society of America A: Optics, Image Science &amp;amp; Vision&lt;/em&gt;, &lt;em&gt;24&lt;/em&gt;(1), 1-10. OPTICAL SOC AMER. doi:10.1364/JOSAA.24.000001.&lt;/div&gt;</dgps>
+<default>Kollmeier T, Röben F, Schenck W, Möller R (2007) &lt;br /&gt;Journal of the Optical Society of America A: Optics, Image Science &amp;amp; Vision 24(1): 1-10.</default>
+<wels>Kollmeier, T.; Röben, F.; Schenck, W.; Möller, R. (2007): Spectral contrasts for landmark navigation &lt;em&gt;Journal of the Optical Society of America A: Optics, Image Science &amp;amp; Vision&lt;/em&gt;,24:(1): 1-10.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1596446</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:17:08Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-21T15:24:16Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1596446</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1596446</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

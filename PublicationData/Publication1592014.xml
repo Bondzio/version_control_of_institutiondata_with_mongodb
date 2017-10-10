@@ -1,0 +1,140 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>X-ray and neutron small-angle scattering analysis of the complex formed by the met receptor and the Listeria monocytogenes invasion protein InlB</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Hartmut</namePart>
+  <namePart type="family">Niemann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">4887044</identifier></name>
+<name type="personal">
+  <namePart type="given">Maxim V.</namePart>
+  <namePart type="family">Petoukhov</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Michael</namePart>
+  <namePart type="family">Hartlein</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Martine</namePart>
+  <namePart type="family">Moulin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ermanno</namePart>
+  <namePart type="family">Gherardi</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Peter</namePart>
+  <namePart type="family">Timmins</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Dirk W.</namePart>
+  <namePart type="family">Heinz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Dmitri I.</namePart>
+  <namePart type="family">Svergun</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Biochemie und Biotechnik</namePart>
+  <identifier type="unibi">4838684</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Biochemie IV</namePart>
+  <identifier type="unibi">5370069</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  H. Niemann</namePart>
+  <identifier type="unibi">33086703</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The Listeria monocytogenes surface protein InIB binds to the extracellular domain of the human receptor tyrosine kinase Met, the product of the c-met proto-oncogene. InlB binding activates the Met receptor, leading to uptake of Listeria into normally nonphagocytic host cells. The N-terminal half of InIB (InlB(321)) is sufficient for Met binding and activation. The complex between this Met-binding domain of InIB and various constructs of the Met ectodomain was characterized by size exclusion chromatography and dynamic light scattering, and structural models were built using small-angle X-ray scattering and small-angle neutron scattering. Although most receptor tyrosine kinase ligands induce receptor dimerization, InlB(321) consistently binds the Met ectodomain with a 1:1 stoichiometry. A construct comprising the Sema and PSI domains of Met, although sufficient to bind the physiological Met ligand hepatocyte growth factor/scatter factor, does not form a complex with InlB(321) in solution, highlighting the importance of Met Ig domains for InIB binding. Small-angle X-ray scattering and small-angle neutron scattering measurements of ligand and receptor, both free and in complex, reveal an elongated shape for the receptor. The four Ig domains form a bent, rather than a fully extended, conformation, and InlB(321) binds to Sema and the first Ig domain of Met, in agreement with the recent crystal structure of a smaller Met fragment in complex with InlB(321), These results call into question whether receptor dimerization is the basic underlying event in InlB(321)-mediated Met activation and demonstrate differences in the mechanisms by which the physiological ligand hepatocyte growth factor/scatter factor and InlB(321) bind and activate the Met receptor. (C) 2008 Elsevier Ltd. All rights reserved.</abstract>
+
+<originInfo><publisher>ACADEMIC PRESS LTD ELSEVIER SCIENCE LTD</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>complex formation</topic><topic>neutron scattering</topic><topic>receptor</topic><topic>tyrosine kinase</topic><topic>small-angle scattering</topic><topic>rigid-body modeling</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF MOLECULAR BIOLOGY</title></titleInfo>
+  <identifier type="issn">0022-2836</identifier>
+  <identifier type="MEDLINE">18262542</identifier>
+  <identifier type="ISI">000254586100016</identifier><identifier type="doi">10.1016/j.jmb.2008.01.027</identifier>
+<part><detail type="volume"><number>377</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">489-500</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Niemann, H., Petoukhov, M.V., Hartlein, M., Moulin, M., Gherardi, E., Timmins, P., Heinz, D.W. &amp;amp; Svergun, D.I. (2008). X-ray and neutron small-angle scattering analysis of the complex formed by the met receptor and the Listeria monocytogenes invasion protein InlB. &lt;em&gt;JOURNAL OF MOLECULAR BIOLOGY&lt;/em&gt;, &lt;em&gt;377&lt;/em&gt;(2), 489-500. ACADEMIC PRESS LTD ELSEVIER SCIENCE LTD. doi:10.1016/j.jmb.2008.01.027.&lt;/div&gt;</dgps>
+<harvard1>Niemann, H., et al., 2008. X-ray and neutron small-angle scattering analysis of the complex formed by the met receptor and the Listeria monocytogenes invasion protein InlB. &lt;em&gt;JOURNAL OF MOLECULAR BIOLOGY&lt;/em&gt;, 377(2), p 489-500.</harvard1>
+<ama>Niemann H, Petoukhov MV, Hartlein M, et al. X-ray and neutron small-angle scattering analysis of the complex formed by the met receptor and the Listeria monocytogenes invasion protein InlB. &lt;em&gt;JOURNAL OF MOLECULAR BIOLOGY&lt;/em&gt;. 2008;377(2):489-500.</ama>
+<aps>H.  Niemann, et al., X-ray and neutron small-angle scattering analysis of the complex formed by the met receptor and the Listeria monocytogenes invasion protein InlB, JOURNAL OF MOLECULAR BIOLOGY &lt;strong&gt;377&lt;/strong&gt;, 489-500 (2008).</aps>
+<bio1>Niemann H, Petoukhov MV, Hartlein M, Moulin M, Gherardi E, Timmins P, Heinz DW, Svergun DI (2008) &lt;br /&gt;X-ray and neutron small-angle scattering analysis of the complex formed by the met receptor and the Listeria monocytogenes invasion protein InlB.&lt;br /&gt;JOURNAL OF MOLECULAR BIOLOGY 377(2): 489-500.</bio1>
+<wels>Niemann, H.; Petoukhov, M. V.; Hartlein, M.; Moulin, M.; Gherardi, E.; Timmins, P.; Heinz, D. W.; Svergun, D. I. (2008): X-ray and neutron small-angle scattering analysis of the complex formed by the met receptor and the Listeria monocytogenes invasion protein InlB &lt;em&gt;JOURNAL OF MOLECULAR BIOLOGY&lt;/em&gt;,377:(2): 489-500.</wels>
+<default>Niemann H, Petoukhov MV, Hartlein M, Moulin M, Gherardi E, Timmins P, Heinz DW, Svergun DI (2008) &lt;br /&gt;JOURNAL OF MOLECULAR BIOLOGY 377(2): 489-500.</default>
+<ieee>H. Niemann, et al., “X-ray and neutron small-angle scattering analysis of the complex formed by the met receptor and the Listeria monocytogenes invasion protein InlB”, &lt;em&gt;JOURNAL OF MOLECULAR BIOLOGY&lt;/em&gt;,  vol. 377, 2008,  pp. 489-500.</ieee>
+<lncs>Niemann, H., Petoukhov, M.V., Hartlein, M., Moulin, M., Gherardi, E., Timmins, P., Heinz, D.W., Svergun, D.I.: X-ray and neutron small-angle scattering analysis of the complex formed by the met receptor and the Listeria monocytogenes invasion protein InlB. JOURNAL OF MOLECULAR BIOLOGY. 377, 489-500 (2008).</lncs>
+<mla>Niemann, Hartmut, Petoukhov, Maxim V., Hartlein, Michael, Moulin, Martine, Gherardi, Ermanno, Timmins, Peter, Heinz, Dirk W., and Svergun, Dmitri I. “X-ray and neutron small-angle scattering analysis of the complex formed by the met receptor and the Listeria monocytogenes invasion protein InlB”. &lt;em&gt;JOURNAL OF MOLECULAR BIOLOGY&lt;/em&gt; 377.2 (2008): 489-500.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Niemann, H., Petoukhov, M. V., Hartlein, M., Moulin, M., Gherardi, E., Timmins, P., Heinz, D. W., et al. (2008). X-ray and neutron small-angle scattering analysis of the complex formed by the met receptor and the Listeria monocytogenes invasion protein InlB. &lt;em&gt;JOURNAL OF MOLECULAR BIOLOGY&lt;/em&gt;, &lt;em&gt;377&lt;/em&gt;(2), 489-500.&lt;/div&gt;</apa_indent>
+<apa>Niemann, H., Petoukhov, M. V., Hartlein, M., Moulin, M., Gherardi, E., Timmins, P., Heinz, D. W., et al. (2008). X-ray and neutron small-angle scattering analysis of the complex formed by the met receptor and the Listeria monocytogenes invasion protein InlB. &lt;em&gt;JOURNAL OF MOLECULAR BIOLOGY&lt;/em&gt;, &lt;em&gt;377&lt;/em&gt;(2), 489-500.</apa>
+<angewandte-chemie>H.  Niemann, M. V.  Petoukhov, M.  Hartlein, M.  Moulin, E.  Gherardi, P.  Timmins, D. W.  Heinz, and D. I.  Svergun, “X-ray and neutron small-angle scattering analysis of the complex formed by the met receptor and the Listeria monocytogenes invasion protein InlB”, &lt;em&gt;JOURNAL OF MOLECULAR BIOLOGY&lt;/em&gt;, &lt;strong&gt;2008&lt;/strong&gt;, &lt;em&gt;377&lt;/em&gt;, 489-500.</angewandte-chemie>
+<frontiers>Niemann, H., Petoukhov, M. V., Hartlein, M., Moulin, M., Gherardi, E., Timmins, P., Heinz, D. W., and Svergun, D. I. (2008). X-ray and neutron small-angle scattering analysis of the complex formed by the met receptor and the Listeria monocytogenes invasion protein InlB. &lt;em&gt;JOURNAL OF MOLECULAR BIOLOGY&lt;/em&gt; 377, 489-500.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Niemann, Hartmut, Petoukhov, Maxim V., Hartlein, Michael, Moulin, Martine, Gherardi, Ermanno, Timmins, Peter, Heinz, Dirk W., and Svergun, Dmitri I. 2008. “X-ray and neutron small-angle scattering analysis of the complex formed by the met receptor and the Listeria monocytogenes invasion protein InlB”. &lt;em&gt;JOURNAL OF MOLECULAR BIOLOGY&lt;/em&gt; 377 (2): 489-500.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1592014</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T11:50:12Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-21T09:56:00Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1592014</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1592014</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

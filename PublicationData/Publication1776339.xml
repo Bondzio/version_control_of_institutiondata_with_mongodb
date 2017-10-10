@@ -1,0 +1,101 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Wissensbasierte Informationsverarbeitung mit Expertensystemen: Wissen - Fachwissen - Erfahrungswissen</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ipke</namePart>
+  <namePart type="family">Wachsmuth</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">73476</identifier></name>
+<name type="personal">
+  <namePart type="given">Josef</namePart>
+  <namePart type="family">Meyer-Fujara</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Heinrich</namePart><namePart type="family">Best</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10044</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="SozTag_paper.pdf">https://pub.uni-bielefeld.de/download/1776339/2655891</url>
+  </location><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Westdt. Verl.</publisher><dateIssued encoding="w3cdtf">1994</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Informations- und Wissensverarbeitung in den Sozialwissenschaften: Beiträge zur Umsetzung neuer Informationstechnologien</title></titleInfo>
+  <identifier type="isbn">3-531-12501-X</identifier><identifier type="urn">urn:nbn:de:0070-bipr-12068</identifier>
+<part><extent unit="pages">103-113</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>I. Wachsmuth and J. Meyer-Fujara, “Wissensbasierte Informationsverarbeitung mit Expertensystemen: Wissen - Fachwissen - Erfahrungswissen”, &lt;em&gt;Informations- und Wissensverarbeitung in den Sozialwissenschaften: Beiträge zur Umsetzung neuer Informationstechnologien&lt;/em&gt;, H. Best, ed.,  Opladen: Westdt. Verl., 1994,  pp.103-113.</ieee>
+<mla>Wachsmuth, Ipke, and Meyer-Fujara, Josef. “Wissensbasierte Informationsverarbeitung mit Expertensystemen: Wissen - Fachwissen - Erfahrungswissen”. &lt;em&gt;Informations- und Wissensverarbeitung in den Sozialwissenschaften: Beiträge zur Umsetzung neuer Informationstechnologien&lt;/em&gt;. Ed. Heinrich Best. Opladen: Westdt. Verl., 1994. 103-113.</mla>
+<lncs>Wachsmuth, I., Meyer-Fujara, J.: Wissensbasierte Informationsverarbeitung mit Expertensystemen: Wissen - Fachwissen - Erfahrungswissen. In: Best, H. (ed.) Informations- und Wissensverarbeitung in den Sozialwissenschaften: Beiträge zur Umsetzung neuer Informationstechnologien. p. 103-113. Westdt. Verl., Opladen (1994).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wachsmuth, I., &amp;amp; Meyer-Fujara, J. (1994). Wissensbasierte Informationsverarbeitung mit Expertensystemen: Wissen - Fachwissen - Erfahrungswissen. In H.  Best (Ed.), &lt;em&gt;Informations- und Wissensverarbeitung in den Sozialwissenschaften: Beiträge zur Umsetzung neuer Informationstechnologien&lt;/em&gt; (pp. 103-113). Opladen: Westdt. Verl.&lt;/div&gt;</apa_indent>
+<apa>Wachsmuth, I., &amp;amp; Meyer-Fujara, J. (1994). Wissensbasierte Informationsverarbeitung mit Expertensystemen: Wissen - Fachwissen - Erfahrungswissen. In H.  Best (Ed.), &lt;em&gt;Informations- und Wissensverarbeitung in den Sozialwissenschaften: Beiträge zur Umsetzung neuer Informationstechnologien&lt;/em&gt; (pp. 103-113). Opladen: Westdt. Verl.</apa>
+<angewandte-chemie>I.  Wachsmuth, and J.  Meyer-Fujara, in &lt;em&gt;Informations- und Wissensverarbeitung in den Sozialwissenschaften: Beiträge zur Umsetzung neuer Informationstechnologien&lt;/em&gt; (Ed.: H. Best), Westdt. Verl., Opladen, &lt;strong&gt;1994&lt;/strong&gt;, p. 103-113.</angewandte-chemie>
+<frontiers>Wachsmuth, I., and Meyer-Fujara, J. (1994). “Wissensbasierte Informationsverarbeitung mit Expertensystemen: Wissen - Fachwissen - Erfahrungswissen” in &lt;em&gt;Informations- und Wissensverarbeitung in den Sozialwissenschaften: Beiträge zur Umsetzung neuer Informationstechnologien&lt;/em&gt;, ed. H.  Best (Opladen: Westdt. Verl.), 103-113.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wachsmuth, Ipke, and Meyer-Fujara, Josef. 1994. “Wissensbasierte Informationsverarbeitung mit Expertensystemen: Wissen - Fachwissen - Erfahrungswissen”. In &lt;em&gt;Informations- und Wissensverarbeitung in den Sozialwissenschaften: Beiträge zur Umsetzung neuer Informationstechnologien&lt;/em&gt;, ed. Heinrich Best, 103-113. Opladen: Westdt. Verl.&lt;/div&gt;</chicago>
+<ama>Wachsmuth I, Meyer-Fujara J. Wissensbasierte Informationsverarbeitung mit Expertensystemen: Wissen - Fachwissen - Erfahrungswissen. In: Best H, ed. &lt;em&gt;Informations- und Wissensverarbeitung in den Sozialwissenschaften: Beiträge zur Umsetzung neuer Informationstechnologien&lt;/em&gt;. Opladen: Westdt. Verl.;  1994: 103-113.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wachsmuth, I. &amp;amp; Meyer-Fujara, J. (1994). Wissensbasierte Informationsverarbeitung mit Expertensystemen: Wissen - Fachwissen - Erfahrungswissen. &lt;em&gt;Informations- und Wissensverarbeitung in den Sozialwissenschaften: Beiträge zur Umsetzung neuer Informationstechnologien&lt;/em&gt; (S. 103-113). Opladen: Westdt. Verl.&lt;/div&gt;</dgps>
+<harvard1>Wachsmuth, I., &amp;amp; Meyer-Fujara, J., 1994. Wissensbasierte Informationsverarbeitung mit Expertensystemen: Wissen - Fachwissen - Erfahrungswissen. In H.  Best, ed. &lt;em&gt;Informations- und Wissensverarbeitung in den Sozialwissenschaften: Beiträge zur Umsetzung neuer Informationstechnologien&lt;/em&gt;.  Opladen: Westdt. Verl., pp. 103-113.</harvard1>
+<bio1>Wachsmuth I, Meyer-Fujara J (1994) &lt;br /&gt;Wissensbasierte Informationsverarbeitung mit Expertensystemen: Wissen - Fachwissen - Erfahrungswissen. &lt;br /&gt;In:  Informations- und Wissensverarbeitung in den Sozialwissenschaften: Beiträge zur Umsetzung neuer Informationstechnologien. Best H (Ed); Opladen: Westdt. Verl.:  103-113.</bio1>
+<aps>I.  Wachsmuth and J.  Meyer-Fujara, Wissensbasierte Informationsverarbeitung mit Expertensystemen: Wissen - Fachwissen - Erfahrungswissen, in &lt;em&gt;Informations- und Wissensverarbeitung in den Sozialwissenschaften: Beiträge zur Umsetzung neuer Informationstechnologien&lt;/em&gt;, edited by H.  Best (Westdt. Verl., Opladen, 1994), p. 103-113.</aps>
+<wels>Wachsmuth, I.; Meyer-Fujara, J. (1994): Wissensbasierte Informationsverarbeitung mit Expertensystemen: Wissen - Fachwissen - Erfahrungswissen. In: Heinrich Best (Hrsg.):  Informations- und Wissensverarbeitung in den Sozialwissenschaften: Beiträge zur Umsetzung neuer Informationstechnologien. Opladen: Westdt. Verl.  S. 103-113.</wels>
+<default>Wachsmuth I, Meyer-Fujara J (1994)  &lt;br /&gt;In:  Informations- und Wissensverarbeitung in den Sozialwissenschaften: Beiträge zur Umsetzung neuer Informationstechnologien. Best H (Ed);Opladen: Westdt. Verl.:  103-113.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776339</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-03-15T09:24:28Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-03-15T09:24:28Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776339</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776339</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

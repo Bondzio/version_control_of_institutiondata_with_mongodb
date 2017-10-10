@@ -1,0 +1,158 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Prognostic value of serum [beta]2-microglobulin in HIV infection</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">J.</namePart>
+  <namePart type="family">Pedreira</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A.</namePart>
+  <namePart type="family">Castro</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">C.</namePart>
+  <namePart type="family">Pereiro</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">C.</namePart>
+  <namePart type="family">Barbuzano</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alexander</namePart>
+  <namePart type="family">Krämer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21463</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0003-2774-7860</description></name>
+<name type="personal">
+  <namePart type="given">James J.</namePart>
+  <namePart type="family">Goedert</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Helmut</namePart>
+  <namePart type="family">Wachter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Dietmar</namePart>
+  <namePart type="family">Fuchs</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Pere</namePart>
+  <namePart type="family">Domingo</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Esteban</namePart>
+  <namePart type="family">Martinez</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Cecilia</namePart>
+  <namePart type="family">Martinez</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Monserrat</namePart>
+  <namePart type="family">Fuster</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Mariano</namePart>
+  <namePart type="family">Cortes</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Maria A.</namePart>
+  <namePart type="family">Sambeat</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Josep</namePart>
+  <namePart type="family">Ris</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Josep</namePart>
+  <namePart type="family">Cadafalch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG 2 Biomedizinische Grundlagen und Bevölkerungsmedizin</namePart>
+  <identifier type="unibi">21332</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="kr_80.pdf">https://pub.uni-bielefeld.de/download/1784070/2314328</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1992</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>The Lancet</title></titleInfo>
+  <identifier type="issn">0140-6736</identifier>
+  <identifier type="MEDLINE">1353829</identifier>
+  <identifier type="ISI">A1992JH12500029</identifier><identifier type="urn">urn:nbn:de:0070-bipr-37485</identifier><identifier type="doi">10.1016/0140-6736(92)91445-E</identifier>
+<part><detail type="volume"><number>340</number></detail><detail type="issue"><number>8815</number></detail><extent unit="pages">370-372</extent>
+</part>
+</relatedItem>
+
+<note type="nonBielefeld">yes</note>
+<extension>
+<bibliographicCitation>
+<wels>Pedreira, J.; Castro, A.; Pereiro, C.; Barbuzano, C.; Krämer, A.; Goedert, J. J.; Wachter, H.; Fuchs, D.; Domingo, P.; Martinez, E.; Martinez, C.; Fuster, M.; Cortes, M.; Sambeat, M. A.; Ris, J.; Cadafalch, J. (1992): Prognostic value of serum [beta]2-microglobulin in HIV infection &lt;em&gt;The Lancet&lt;/em&gt;,340:(8815): 370-372.</wels>
+<default>Pedreira J, Castro A, Pereiro C, Barbuzano C, Krämer A, Goedert JJ, Wachter H, Fuchs D, Domingo P, Martinez E, Martinez C, et al. (1992) &lt;br /&gt;The Lancet 340(8815): 370-372.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Pedreira, J., Castro, A., Pereiro, C., Barbuzano, C., Krämer, A., Goedert, J.J., Wachter, H., Fuchs, D., Domingo, P., Martinez, E., Martinez, C., Fuster, M., Cortes, M., Sambeat, M.A., Ris, J. &amp;amp; Cadafalch, J. (1992). Prognostic value of serum [beta]2-microglobulin in HIV infection. &lt;em&gt;The Lancet&lt;/em&gt;, &lt;em&gt;340&lt;/em&gt;(8815), 370-372. doi:10.1016/0140-6736(92)91445-E.&lt;/div&gt;</dgps>
+<ama>Pedreira J, Castro A, Pereiro C, et al. Prognostic value of serum [beta]2-microglobulin in HIV infection. &lt;em&gt;The Lancet&lt;/em&gt;. 1992;340(8815):370-372.</ama>
+<harvard1>Pedreira, J., et al., 1992. Prognostic value of serum [beta]2-microglobulin in HIV infection. &lt;em&gt;The Lancet&lt;/em&gt;, 340(8815), p 370-372.</harvard1>
+<bio1>Pedreira J, Castro A, Pereiro C, Barbuzano C, Krämer A, Goedert JJ, Wachter H, Fuchs D, Domingo P, Martinez E, Martinez C, Fuster M, Cortes M, Sambeat MA, Ris J, Cadafalch J (1992) &lt;br /&gt;Prognostic value of serum [beta]2-microglobulin in HIV infection.&lt;br /&gt;The Lancet 340(8815): 370-372.</bio1>
+<aps>J.  Pedreira, et al., Prognostic value of serum [beta]2-microglobulin in HIV infection, The Lancet &lt;strong&gt;340&lt;/strong&gt;, 370-372 (1992).</aps>
+<apa>Pedreira, J., Castro, A., Pereiro, C., Barbuzano, C., Krämer, A., Goedert, J. J., Wachter, H., et al. (1992). Prognostic value of serum [beta]2-microglobulin in HIV infection. &lt;em&gt;The Lancet&lt;/em&gt;, &lt;em&gt;340&lt;/em&gt;(8815), 370-372.</apa>
+<angewandte-chemie>J.  Pedreira, A.  Castro, C.  Pereiro, C.  Barbuzano, A.  Krämer, J. J.  Goedert, H.  Wachter, D.  Fuchs, P.  Domingo, E.  Martinez, et al., “Prognostic value of serum [beta]2-microglobulin in HIV infection”, &lt;em&gt;The Lancet&lt;/em&gt;, &lt;strong&gt;1992&lt;/strong&gt;, &lt;em&gt;340&lt;/em&gt;, 370-372.</angewandte-chemie>
+<frontiers>Pedreira, J., Castro, A., Pereiro, C., Barbuzano, C., Krämer, A., Goedert, J. J., Wachter, H., Fuchs, D., Domingo, P., Martinez, E., et al. (1992). Prognostic value of serum [beta]2-microglobulin in HIV infection. &lt;em&gt;The Lancet&lt;/em&gt; 340, 370-372.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Pedreira, J., Castro, A., Pereiro, C., Barbuzano, C., Krämer, Alexander, Goedert, James J., Wachter, Helmut, et al. 1992. “Prognostic value of serum [beta]2-microglobulin in HIV infection”. &lt;em&gt;The Lancet&lt;/em&gt; 340 (8815): 370-372.&lt;/div&gt;</chicago>
+<ieee>J. Pedreira, et al., “Prognostic value of serum [beta]2-microglobulin in HIV infection”, &lt;em&gt;The Lancet&lt;/em&gt;,  vol. 340, 1992,  pp. 370-372.</ieee>
+<mla>Pedreira, J., Castro, A., Pereiro, C., Barbuzano, C., Krämer, Alexander, Goedert, James J., Wachter, Helmut, Fuchs, Dietmar, Domingo, Pere, Martinez, Esteban, Martinez, Cecilia, Fuster, Monserrat, Cortes, Mariano, Sambeat, Maria A., Ris, Josep, and Cadafalch, Josep. “Prognostic value of serum [beta]2-microglobulin in HIV infection”. &lt;em&gt;The Lancet&lt;/em&gt; 340.8815 (1992): 370-372.</mla>
+<lncs>Pedreira, J., Castro, A., Pereiro, C., Barbuzano, C., Krämer, A., Goedert, J.J., Wachter, H., Fuchs, D., Domingo, P., Martinez, E., Martinez, C., Fuster, M., Cortes, M., Sambeat, M.A., Ris, J., Cadafalch, J.: Prognostic value of serum [beta]2-microglobulin in HIV infection. The Lancet. 340, 370-372 (1992).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Pedreira, J., Castro, A., Pereiro, C., Barbuzano, C., Krämer, A., Goedert, J. J., Wachter, H., et al. (1992). Prognostic value of serum [beta]2-microglobulin in HIV infection. &lt;em&gt;The Lancet&lt;/em&gt;, &lt;em&gt;340&lt;/em&gt;(8815), 370-372.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1784070</recordIdentifier><recordChangeDate encoding="w3cdtf">2014-01-06T10:59:33Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1784070</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1784070</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

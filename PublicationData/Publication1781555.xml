@@ -1,0 +1,118 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Fachcode und studentische Kultur: zur Erforschung der Habitusausbildung in der Hochschule</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ludwig</namePart>
+  <namePart type="family">Huber</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">172028</identifier></name>
+<name type="personal">
+  <namePart type="given">Eckart</namePart>
+  <namePart type="family">Liebau</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Gerhard</namePart>
+  <namePart type="family">Portele</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Wolfgang</namePart>
+  <namePart type="family">Schütte</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">E.</namePart><namePart type="family">Becker</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10061</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10021</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT2566.pdf">https://pub.uni-bielefeld.de/download/1781555/2313338</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Beltz</publisher><dateIssued encoding="w3cdtf">1983</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Reflexionsprobleme der Hochschulforschung</title></titleInfo>
+  <identifier type="isbn">3-407-59075-X</identifier><identifier type="urn">urn:nbn:de:0070-bipr-25666</identifier>
+<part><detail type="volume"><number>75</number></detail><extent unit="pages">144-170</extent>
+</part>
+</relatedItem>
+
+<note type="nonBielefeld">yes</note>
+<extension>
+<bibliographicCitation>
+<apa>Huber, L., Liebau, E., Portele, G., &amp;amp; Schütte, W. (1983). Fachcode und studentische Kultur: zur Erforschung der Habitusausbildung in der Hochschule. In E.  Becker (Ed.), &lt;em&gt;Blickpunkt Hochschuldidaktik: Vol. 75&lt;/em&gt;&lt;em&gt;. Reflexionsprobleme der Hochschulforschung&lt;/em&gt; (pp. 144-170). Weinheim: Beltz.</apa>
+<angewandte-chemie>L.  Huber, E.  Liebau, G.  Portele, and W.  Schütte, in &lt;em&gt;Reflexionsprobleme der Hochschulforschung&lt;/em&gt; (Ed.: E. Becker), Beltz, Weinheim, &lt;strong&gt;1983&lt;/strong&gt;, p. 144-170.</angewandte-chemie>
+<frontiers>Huber, L., Liebau, E., Portele, G., and Schütte, W. (1983). “Fachcode und studentische Kultur: zur Erforschung der Habitusausbildung in der Hochschule” in &lt;em&gt;Reflexionsprobleme der Hochschulforschung&lt;/em&gt;, Becker, E. ed. Blickpunkt Hochschuldidaktik, vol. 75, (Weinheim: Beltz), 144-170.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Huber, Ludwig, Liebau, Eckart, Portele, Gerhard, and Schütte, Wolfgang. 1983. “Fachcode und studentische Kultur: zur Erforschung der Habitusausbildung in der Hochschule”. In &lt;em&gt;Reflexionsprobleme der Hochschulforschung&lt;/em&gt;, ed. E. Becker, 75:144-170. Blickpunkt Hochschuldidaktik. Weinheim: Beltz.&lt;/div&gt;</chicago>
+<ieee> L. Huber, et al., “Fachcode und studentische Kultur: zur Erforschung der Habitusausbildung in der Hochschule”, &lt;em&gt;Reflexionsprobleme der Hochschulforschung&lt;/em&gt;, E. Becker, ed., Blickpunkt Hochschuldidaktik, vol. 75,  Weinheim: Beltz, 1983,  pp.144-170.</ieee>
+<mla>Huber, Ludwig, Liebau, Eckart, Portele, Gerhard, and Schütte, Wolfgang. “Fachcode und studentische Kultur: zur Erforschung der Habitusausbildung in der Hochschule”. &lt;em&gt;Reflexionsprobleme der Hochschulforschung&lt;/em&gt;. Ed. E. Becker. Weinheim: Beltz, 1983.Vol. 75. Blickpunkt Hochschuldidaktik. 144-170.</mla>
+<lncs> Huber, L., Liebau, E., Portele, G., Schütte, W.: Fachcode und studentische Kultur: zur Erforschung der Habitusausbildung in der Hochschule. In: Becker, E. (ed.) Reflexionsprobleme der Hochschulforschung. Blickpunkt Hochschuldidaktik. 75, p. 144-170. Beltz, Weinheim (1983).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Huber, L., Liebau, E., Portele, G., &amp;amp; Schütte, W. (1983). Fachcode und studentische Kultur: zur Erforschung der Habitusausbildung in der Hochschule. In E.  Becker (Ed.), &lt;em&gt;Blickpunkt Hochschuldidaktik: Vol. 75&lt;/em&gt;&lt;em&gt;. Reflexionsprobleme der Hochschulforschung&lt;/em&gt; (pp. 144-170). Weinheim: Beltz.&lt;/div&gt;</apa_indent>
+<wels>Huber, L.; Liebau, E.; Portele, G.; Schütte, W. (1983): Fachcode und studentische Kultur: zur Erforschung der Habitusausbildung in der Hochschule. In: E. Becker (Hrsg.):  Reflexionsprobleme der Hochschulforschung. Weinheim: Beltz. (Blickpunkt Hochschuldidaktik, 75).  S. 144-170.</wels>
+<default>Huber L, Liebau E, Portele G, Schütte W (1983)  &lt;br /&gt;In:  Reflexionsprobleme der Hochschulforschung. Becker E (Ed); Blickpunkt Hochschuldidaktik, 75. Weinheim: Beltz:  144-170.</default>
+<harvard1>Huber, L., et al., 1983. Fachcode und studentische Kultur: zur Erforschung der Habitusausbildung in der Hochschule. In E.  Becker, ed. &lt;em&gt;Reflexionsprobleme der Hochschulforschung&lt;/em&gt;. Blickpunkt Hochschuldidaktik. no.75  Weinheim: Beltz, pp. 144-170.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Huber, L., Liebau, E., Portele, G. &amp;amp; Schütte, W. (1983). Fachcode und studentische Kultur: zur Erforschung der Habitusausbildung in der Hochschule (Blickpunkt Hochschuldidaktik). &lt;em&gt;Reflexionsprobleme der Hochschulforschung&lt;/em&gt; (S. 144-170). Weinheim: Beltz.&lt;/div&gt;</dgps>
+<ama>Huber L, Liebau E, Portele G, Schütte W. Fachcode und studentische Kultur: zur Erforschung der Habitusausbildung in der Hochschule. In: Becker E, ed. &lt;em&gt;Reflexionsprobleme der Hochschulforschung&lt;/em&gt;. Blickpunkt Hochschuldidaktik. Vol 75. Weinheim: Beltz;  1983: 144-170.</ama>
+<aps> L.  Huber, et al., Fachcode und studentische Kultur: zur Erforschung der Habitusausbildung in der Hochschule, in &lt;em&gt;Reflexionsprobleme der Hochschulforschung&lt;/em&gt;, edited by E.  Becker, Blickpunkt Hochschuldidaktik, &lt;strong&gt;75&lt;/strong&gt; (Beltz, Weinheim, 1983), p. 144-170.</aps>
+<bio1>Huber L, Liebau E, Portele G, Schütte W (1983) &lt;br /&gt;Fachcode und studentische Kultur: zur Erforschung der Habitusausbildung in der Hochschule. &lt;br /&gt;In:  Reflexionsprobleme der Hochschulforschung. Becker E (Ed); Blickpunkt Hochschuldidaktik, 75. Weinheim: Beltz:  144-170.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781555</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-08-11T10:20:05Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-08-11T10:20:05Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781555</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781555</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Is there something new that can be learned or solved by building statistical expert systems?</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Peter</namePart>
+  <namePart type="family">Naeve</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">91053</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Frank</namePart><namePart type="family">Faulbaum</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Wirtschaftswissenschaften</namePart>
+  <identifier type="unibi">10031</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Naeve_023.pdf">https://pub.uni-bielefeld.de/download/1781826/2313537</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Fischer</publisher><dateIssued encoding="w3cdtf">1990</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>SoftStat &apos;89: 5. Konferenz über die Wissenschaftliche Anwendung von Statistik-Software, Heidelberg, 1989</title></titleInfo>
+  <identifier type="isbn">3-437-50335-9</identifier><identifier type="urn">urn:nbn:de:0070-bipr-28010</identifier>
+<part><extent unit="pages">291-299</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Naeve P (1990)  &lt;br /&gt;In:  SoftStat &apos;89: 5. Konferenz über die Wissenschaftliche Anwendung von Statistik-Software, Heidelberg, 1989. Faulbaum F (Ed); Fortschritte der Statistik-Software ; 2, . Stuttgart [u.a.]: Fischer:  291-299.</default>
+<wels>Naeve, P. (1990): Is there something new that can be learned or solved by building statistical expert systems? In: Frank Faulbaum (Hrsg.):  SoftStat &apos;89: 5. Konferenz über die Wissenschaftliche Anwendung von Statistik-Software, Heidelberg, 1989. Stuttgart [u.a.]: Fischer. (Fortschritte der Statistik-Software ; 2, ).  S. 291-299.</wels>
+<bio1>Naeve P (1990) &lt;br /&gt;Is there something new that can be learned or solved by building statistical expert systems? &lt;br /&gt;In:  SoftStat &apos;89: 5. Konferenz über die Wissenschaftliche Anwendung von Statistik-Software, Heidelberg, 1989. Faulbaum F (Ed); Fortschritte der Statistik-Software ; 2,  Stuttgart [u.a.]: Fischer:  291-299.</bio1>
+<aps>P.  Naeve, Is there something new that can be learned or solved by building statistical expert systems?, in &lt;em&gt;SoftStat &apos;89: 5. Konferenz über die Wissenschaftliche Anwendung von Statistik-Software, Heidelberg, 1989&lt;/em&gt;, edited by F.  Faulbaum, Fortschritte der Statistik-Software ; 2 (Fischer, Stuttgart [U.a.], 1990), p. 291-299.</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Naeve, P. (1990). Is there something new that can be learned or solved by building statistical expert systems? (Fortschritte der Statistik-Software ; 2). &lt;em&gt;SoftStat &apos;89: 5. Konferenz über die Wissenschaftliche Anwendung von Statistik-Software, Heidelberg, 1989&lt;/em&gt; (S. 291-299). Stuttgart [u.a.]: Fischer.&lt;/div&gt;</dgps>
+<ama>Naeve P. Is there something new that can be learned or solved by building statistical expert systems? In: Faulbaum F, ed. &lt;em&gt;SoftStat &apos;89: 5. Konferenz über die Wissenschaftliche Anwendung von Statistik-Software, Heidelberg, 1989&lt;/em&gt;. Fortschritte der Statistik-Software ; 2. Stuttgart [u.a.]: Fischer;  1990: 291-299.</ama>
+<harvard1>Naeve, P., 1990. Is there something new that can be learned or solved by building statistical expert systems? In F.  Faulbaum, ed. &lt;em&gt;SoftStat &apos;89: 5. Konferenz über die Wissenschaftliche Anwendung von Statistik-Software, Heidelberg, 1989&lt;/em&gt;. Fortschritte der Statistik-Software ; 2.  Stuttgart [u.a.]: Fischer, pp. 291-299.</harvard1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Naeve, Peter. 1990. “Is there something new that can be learned or solved by building statistical expert systems?”. In &lt;em&gt;SoftStat &apos;89: 5. Konferenz über die Wissenschaftliche Anwendung von Statistik-Software, Heidelberg, 1989&lt;/em&gt;, ed. Frank Faulbaum, 291-299. Fortschritte der Statistik-Software ; 2. Stuttgart [u.a.]: Fischer.&lt;/div&gt;</chicago>
+<frontiers>Naeve, P. (1990). “Is there something new that can be learned or solved by building statistical expert systems?” in &lt;em&gt;SoftStat &apos;89: 5. Konferenz über die Wissenschaftliche Anwendung von Statistik-Software, Heidelberg, 1989&lt;/em&gt;, ed. F.  Faulbaum Fortschritte der Statistik-Software ; 2 (Stuttgart [u.a.]: Fischer), 291-299.</frontiers>
+<apa>Naeve, P. (1990). Is there something new that can be learned or solved by building statistical expert systems? In F.  Faulbaum (Ed.), &lt;em&gt;Fortschritte der Statistik-Software ; 2&lt;/em&gt;&lt;em&gt;. SoftStat &apos;89: 5. Konferenz über die Wissenschaftliche Anwendung von Statistik-Software, Heidelberg, 1989&lt;/em&gt; (pp. 291-299). Stuttgart [u.a.]: Fischer.</apa>
+<angewandte-chemie>P.  Naeve, in &lt;em&gt;SoftStat &apos;89: 5. Konferenz über die Wissenschaftliche Anwendung von Statistik-Software, Heidelberg, 1989&lt;/em&gt; (Ed.: F. Faulbaum), Fischer, Stuttgart [u.a.], &lt;strong&gt;1990&lt;/strong&gt;, p. 291-299.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Naeve, P. (1990). Is there something new that can be learned or solved by building statistical expert systems? In F.  Faulbaum (Ed.), &lt;em&gt;Fortschritte der Statistik-Software ; 2&lt;/em&gt;&lt;em&gt;. SoftStat &apos;89: 5. Konferenz über die Wissenschaftliche Anwendung von Statistik-Software, Heidelberg, 1989&lt;/em&gt; (pp. 291-299). Stuttgart [u.a.]: Fischer.&lt;/div&gt;</apa_indent>
+<lncs>Naeve, P.: Is there something new that can be learned or solved by building statistical expert systems? In: Faulbaum, F. (ed.) SoftStat &apos;89: 5. Konferenz über die Wissenschaftliche Anwendung von Statistik-Software, Heidelberg, 1989. Fortschritte der Statistik-Software ; 2. p. 291-299. Fischer, Stuttgart [u.a.] (1990).</lncs>
+<mla>Naeve, Peter. “Is there something new that can be learned or solved by building statistical expert systems?”. &lt;em&gt;SoftStat &apos;89: 5. Konferenz über die Wissenschaftliche Anwendung von Statistik-Software, Heidelberg, 1989&lt;/em&gt;. Ed. Frank Faulbaum. Stuttgart [u.a.]: Fischer, 1990. Fortschritte der Statistik-Software ; 2. 291-299.</mla>
+<ieee>P. Naeve, “Is there something new that can be learned or solved by building statistical expert systems?”, &lt;em&gt;SoftStat &apos;89: 5. Konferenz über die Wissenschaftliche Anwendung von Statistik-Software, Heidelberg, 1989&lt;/em&gt;, F. Faulbaum, ed., Fortschritte der Statistik-Software ; 2,  Stuttgart [u.a.]: Fischer, 1990,  pp.291-299.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781826</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781826</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781826</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

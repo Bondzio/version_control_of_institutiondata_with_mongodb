@@ -1,0 +1,111 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Strong Intramolecular Si-N Interactions in the Chlorosilanes Cl3-nHnSiOCH2CH2NMe2 (n=1-3)</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Michael</namePart>
+  <namePart type="family">Hagemann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Mix</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20152</identifier></name>
+<name type="personal">
+  <namePart type="given">Raphael</namePart>
+  <namePart type="family">Berger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">6344204</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-4314-6558</description></name>
+<name type="personal">
+  <namePart type="given">Tania</namePart>
+  <namePart type="family">Pape</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Norbert W.</namePart>
+  <namePart type="family">Mitzel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">4468926</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Anorganische Chemie und Strukturchemie</namePart>
+  <identifier type="unibi">17966</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The compounds Cl3SiOCH2CH2NMe2 (1) and Cl2HSiOCH2CH2NMe2 (2) were prepared by reactions of lithium 2-(dimethylamino)ethanolate with SiCl4 and HSO3. The analogous reaction with H2SiCl2 gave ClH2SiOCH2CH2NMe2 (3), but only in a mixture with Cl2HSiOCH2CH2NMe2 (2), from which it could not be separated. All compounds were characterized by IR and NMR (1(H), C-13, Si-29) spectroscopy, 1 and 2 by elemental analyses and by determination of their crystal structures. Cl3SiOCH2CH2NMe2 (1) and Cl2HSiOCH2CH2NMe2 (2) crystallize as monomeric ring compounds with pentacoordinate silicon atoms participating in intramolecular Si-N bonds [2.060(2) angstrom (1), 2.037(2) A (2)]. The dative bonds in 1 and 2 between the silicon and nitrogen atoms could also be proven to exist at low temperatures in solution in H-1, Si-29-HMBC-NMR experiments by detection of the scalar coupling between the 29Si and the protons of the NCH2 and NCH3 groups. A function describing the chemical shift delta Si-29(exp) dependent on the chemical shifts of the individual equilibrium components, the temperature, and the free enthalpy of reaction was worked out and fitted to the experimental VT-NMR data of 1 and 2. This provided values of the free reaction enthalpies of Delta G = -28.8 +/- 3.9 kJ . mol(-1) for 1 and Delta G = -22.3 +/- 0.4 kJ . mol(-1) for 2 and estimates for the chemical shifts of open-chain (index o) and ring conformers (index r) for 1 of delta(r) = -94 +/- 2 ppm and delta(o) = -36 +/- 5 ppm and for 2 of delta(r) = -82 +/- 1 ppm and delta(o) = -33 +/- 4 ppm. The value of delta(r) for 1 is very close to that obtained from a solid-state Si-29 MAS NMR spectrum. Quantumchemical calculations (up to MP2/TZVPP) gave largely differing geometries for 1 (with a Si...N distance of 3.072 angstrom), but well reproduced the geometry of 2. These differences are due to Cl...H and Cl...C repulsions and solid state effects, which can be modeled by conductor-like screening model calculations and also rationalized in terms of the topology of the electron density, which was analyzed in terms of the quantum theory of atoms in molecules.</abstract>
+
+<originInfo><publisher>AMER CHEMICAL SOC</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>INORGANIC CHEMISTRY</title></titleInfo>
+  <identifier type="issn">0020-1669</identifier>
+  <identifier type="eIssn">1520-510X</identifier>
+  <identifier type="MEDLINE">18847257</identifier>
+  <identifier type="ISI">000260791100051</identifier><identifier type="doi">10.1021/ic801205q</identifier>
+<part><detail type="volume"><number>47</number></detail><detail type="issue"><number>22</number></detail><extent unit="pages">10554-10564</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Hagemann, M.; Mix, A.; Berger, R.; Pape, T.; Mitzel, N. W. (2008): Strong Intramolecular Si-N Interactions in the Chlorosilanes Cl3-nHnSiOCH2CH2NMe2 (n=1-3) &lt;em&gt;INORGANIC CHEMISTRY&lt;/em&gt;,47:(22): 10554-10564.</wels>
+<default>Hagemann M, Mix A, Berger R, Pape T, Mitzel NW (2008) &lt;br /&gt;INORGANIC CHEMISTRY 47(22): 10554-10564.</default>
+<harvard1>Hagemann, M., et al., 2008. Strong Intramolecular Si-N Interactions in the Chlorosilanes Cl3-nHnSiOCH2CH2NMe2 (n=1-3). &lt;em&gt;INORGANIC CHEMISTRY&lt;/em&gt;, 47(22), p 10554-10564.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hagemann, M., Mix, A., Berger, R., Pape, T. &amp;amp; Mitzel, N.W. (2008). Strong Intramolecular Si-N Interactions in the Chlorosilanes Cl3-nHnSiOCH2CH2NMe2 (n=1-3). &lt;em&gt;INORGANIC CHEMISTRY&lt;/em&gt;, &lt;em&gt;47&lt;/em&gt;(22), 10554-10564. AMER CHEMICAL SOC. doi:10.1021/ic801205q.&lt;/div&gt;</dgps>
+<ama>Hagemann M, Mix A, Berger R, Pape T, Mitzel NW. Strong Intramolecular Si-N Interactions in the Chlorosilanes Cl3-nHnSiOCH2CH2NMe2 (n=1-3). &lt;em&gt;INORGANIC CHEMISTRY&lt;/em&gt;. 2008;47(22):10554-10564.</ama>
+<aps>M.  Hagemann, et al., Strong Intramolecular Si-N Interactions in the Chlorosilanes Cl3-nHnSiOCH2CH2NMe2 (n=1-3), INORGANIC CHEMISTRY &lt;strong&gt;47&lt;/strong&gt;, 10554-10564 (2008).</aps>
+<bio1>Hagemann M, Mix A, Berger R, Pape T, Mitzel NW (2008) &lt;br /&gt;Strong Intramolecular Si-N Interactions in the Chlorosilanes Cl3-nHnSiOCH2CH2NMe2 (n=1-3).&lt;br /&gt;INORGANIC CHEMISTRY 47(22): 10554-10564.</bio1>
+<angewandte-chemie>M.  Hagemann, A.  Mix, R.  Berger, T.  Pape, and N. W.  Mitzel, “Strong Intramolecular Si-N Interactions in the Chlorosilanes Cl3-nHnSiOCH2CH2NMe2 (n=1-3)”, &lt;em&gt;INORGANIC CHEMISTRY&lt;/em&gt;, &lt;strong&gt;2008&lt;/strong&gt;, &lt;em&gt;47&lt;/em&gt;, 10554-10564.</angewandte-chemie>
+<apa>Hagemann, M., Mix, A., Berger, R., Pape, T., &amp;amp; Mitzel, N. W. (2008). Strong Intramolecular Si-N Interactions in the Chlorosilanes Cl3-nHnSiOCH2CH2NMe2 (n=1-3). &lt;em&gt;INORGANIC CHEMISTRY&lt;/em&gt;, &lt;em&gt;47&lt;/em&gt;(22), 10554-10564.</apa>
+<frontiers>Hagemann, M., Mix, A., Berger, R., Pape, T., and Mitzel, N. W. (2008). Strong Intramolecular Si-N Interactions in the Chlorosilanes Cl3-nHnSiOCH2CH2NMe2 (n=1-3). &lt;em&gt;INORGANIC CHEMISTRY&lt;/em&gt; 47, 10554-10564.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hagemann, Michael, Mix, Andreas, Berger, Raphael, Pape, Tania, and Mitzel, Norbert W. 2008. “Strong Intramolecular Si-N Interactions in the Chlorosilanes Cl3-nHnSiOCH2CH2NMe2 (n=1-3)”. &lt;em&gt;INORGANIC CHEMISTRY&lt;/em&gt; 47 (22): 10554-10564.&lt;/div&gt;</chicago>
+<ieee>M. Hagemann, et al., “Strong Intramolecular Si-N Interactions in the Chlorosilanes Cl3-nHnSiOCH2CH2NMe2 (n=1-3)”, &lt;em&gt;INORGANIC CHEMISTRY&lt;/em&gt;,  vol. 47, 2008,  pp. 10554-10564.</ieee>
+<lncs>Hagemann, M., Mix, A., Berger, R., Pape, T., Mitzel, N.W.: Strong Intramolecular Si-N Interactions in the Chlorosilanes Cl3-nHnSiOCH2CH2NMe2 (n=1-3). INORGANIC CHEMISTRY. 47, 10554-10564 (2008).</lncs>
+<mla>Hagemann, Michael, Mix, Andreas, Berger, Raphael, Pape, Tania, and Mitzel, Norbert W. “Strong Intramolecular Si-N Interactions in the Chlorosilanes Cl3-nHnSiOCH2CH2NMe2 (n=1-3)”. &lt;em&gt;INORGANIC CHEMISTRY&lt;/em&gt; 47.22 (2008): 10554-10564.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hagemann, M., Mix, A., Berger, R., Pape, T., &amp;amp; Mitzel, N. W. (2008). Strong Intramolecular Si-N Interactions in the Chlorosilanes Cl3-nHnSiOCH2CH2NMe2 (n=1-3). &lt;em&gt;INORGANIC CHEMISTRY&lt;/em&gt;, &lt;em&gt;47&lt;/em&gt;(22), 10554-10564.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1636677</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:08:11Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-12-08T15:33:16Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1636677</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1636677</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

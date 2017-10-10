@@ -1,0 +1,144 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Genome-based analysis of biosynthetic aminotransferase genes of Corynebacterium glutamicum</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">AC</namePart>
+  <namePart type="family">McHardy</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Tauch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">22082</identifier></name>
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">Rückert</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">42238</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-9722-4435</description></name>
+<name type="personal">
+  <namePart type="given">Alfred</namePart>
+  <namePart type="family">Pühler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21937</identifier></name>
+<name type="personal">
+  <namePart type="given">Jörn</namePart>
+  <namePart type="family">Kalinowski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">147567</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070724</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070741</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070639</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Due to broad and overlapping substrate specificities, aminotransferases remain the last uncharacterized enzymes from most amino acid biosynthetic pathways in Corynebacterium glutamicum. We report here a complete description of all aminotransferases participating in the biosynthesis of the branched-chain amino acids and phenylalanine in C glutamicum. We used methods of profile analysis on the newly available genome sequence to systematically search for and characterize members of the four known aminotransferase classes. This led to the discovery of sixteen new, potential aminotransferase encoding genes in the C glutamicum genome, eleven of which were subsequently characterized experimentally with respect to their participation in different amino acid biosynthetic pathways. Disruption by insertion mutagenesis of ilvE, encoding a branched-chain amino acid aminotransferase, confirmed its function in leucine and isoleucine biosynthesis. Two double mutants lacking both ilvE and genes classified as class I aminotransferases exhibited additional auxotrophic requirements for valine and phenylalanine, respectively. In C glutamicum the branched-chain amino acid aminotransferase thus participates in four amino acid biosynthetic pathways, for which in case of valine and phenylalanine biosynthesis two additional enzymes with overlapping substrate specificity exist. The novel protein with aminotransferase activity in valine biosynthesis belongs to the very recently described MocR subfamily of GntR-type helix-turn-helix transcriptional regulators, is located upstream of a potential operon of a newly described pyridoxine biosynthetic pathway and when disrupted, gives rise to a pyridoxine auxotrophy. The theoretical and experimental data we present should further provide a solid platform for ongoing research and understanding of the network of aminotransferases which participate in amino acid biosynthesis in C glutamicum. (C) 2003 Elsevier B.V. All rights reserved.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">2003</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>acids</topic><topic>Corynebacterium glutamicum</topic><topic>branched-chain amino</topic><topic>GntR-type transcriptional regulator</topic><topic>HMM-based profile analysis</topic><topic>aminotransferase</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>J Biotechnol</title></titleInfo>
+  <identifier type="issn">0168-1656</identifier>
+  <identifier type="MEDLINE">12948641</identifier>
+  <identifier type="ISI">000185306500017</identifier><identifier type="doi">10.1016/S0168-1656(03)00161-5</identifier>
+<part><detail type="volume"><number>104</number></detail><detail type="issue"><number>1-3</number></detail><extent unit="pages">229-240</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;McHardy, AC, Tauch, Andreas, Rückert, Christian, Pühler, Alfred, and Kalinowski, Jörn. 2003. “Genome-based analysis of biosynthetic aminotransferase genes of Corynebacterium glutamicum”. &lt;em&gt;J Biotechnol&lt;/em&gt; 104 (1-3): 229-240.&lt;/div&gt;</chicago>
+<apa>McHardy, A. C., Tauch, A., Rückert, C., Pühler, A., &amp;amp; Kalinowski, J. (2003). Genome-based analysis of biosynthetic aminotransferase genes of Corynebacterium glutamicum. &lt;em&gt;J Biotechnol&lt;/em&gt;, &lt;em&gt;104&lt;/em&gt;(1-3), 229-240.</apa>
+<angewandte-chemie>A. C.  McHardy, A.  Tauch, C.  Rückert, A.  Pühler, and J.  Kalinowski, “Genome-based analysis of biosynthetic aminotransferase genes of Corynebacterium glutamicum”, &lt;em&gt;J Biotechnol&lt;/em&gt;, &lt;strong&gt;2003&lt;/strong&gt;, &lt;em&gt;104&lt;/em&gt;, 229-240.</angewandte-chemie>
+<frontiers>McHardy, A. C., Tauch, A., Rückert, C., Pühler, A., and Kalinowski, J. (2003). Genome-based analysis of biosynthetic aminotransferase genes of Corynebacterium glutamicum. &lt;em&gt;J Biotechnol&lt;/em&gt; 104, 229-240.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;McHardy, A. C., Tauch, A., Rückert, C., Pühler, A., &amp;amp; Kalinowski, J. (2003). Genome-based analysis of biosynthetic aminotransferase genes of Corynebacterium glutamicum. &lt;em&gt;J Biotechnol&lt;/em&gt;, &lt;em&gt;104&lt;/em&gt;(1-3), 229-240.&lt;/div&gt;</apa_indent>
+<ieee> A.C. McHardy, et al., “Genome-based analysis of biosynthetic aminotransferase genes of Corynebacterium glutamicum”, &lt;em&gt;J Biotechnol&lt;/em&gt;,  vol. 104, 2003,  pp. 229-240.</ieee>
+<lncs> McHardy, A.C., Tauch, A., Rückert, C., Pühler, A., Kalinowski, J.: Genome-based analysis of biosynthetic aminotransferase genes of Corynebacterium glutamicum. J Biotechnol. 104, 229-240 (2003).</lncs>
+<mla>McHardy, AC, Tauch, Andreas, Rückert, Christian, Pühler, Alfred, and Kalinowski, Jörn. “Genome-based analysis of biosynthetic aminotransferase genes of Corynebacterium glutamicum”. &lt;em&gt;J Biotechnol&lt;/em&gt; 104.1-3 (2003): 229-240.</mla>
+<wels>McHardy, A. C.; Tauch, A.; Rückert, C.; Pühler, A.; Kalinowski, J. (2003): Genome-based analysis of biosynthetic aminotransferase genes of Corynebacterium glutamicum &lt;em&gt;J Biotechnol&lt;/em&gt;,104:(1-3): 229-240.</wels>
+<default>McHardy AC, Tauch A, Rückert C, Pühler A, Kalinowski J (2003) &lt;br /&gt;J Biotechnol 104(1-3): 229-240.</default>
+<ama>McHardy AC, Tauch A, Rückert C, Pühler A, Kalinowski J. Genome-based analysis of biosynthetic aminotransferase genes of Corynebacterium glutamicum. &lt;em&gt;J Biotechnol&lt;/em&gt;. 2003;104(1-3):229-240.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;McHardy, A.C., Tauch, A., Rückert, C., Pühler, A. &amp;amp; Kalinowski, J. (2003). Genome-based analysis of biosynthetic aminotransferase genes of Corynebacterium glutamicum. &lt;em&gt;J Biotechnol&lt;/em&gt;, &lt;em&gt;104&lt;/em&gt;(1-3), 229-240. ELSEVIER SCIENCE BV. doi:10.1016/S0168-1656(03)00161-5.&lt;/div&gt;</dgps>
+<harvard1>McHardy, A.C., et al., 2003. Genome-based analysis of biosynthetic aminotransferase genes of Corynebacterium glutamicum. &lt;em&gt;J Biotechnol&lt;/em&gt;, 104(1-3), p 229-240.</harvard1>
+<aps> A. C.  McHardy, et al., Genome-based analysis of biosynthetic aminotransferase genes of Corynebacterium glutamicum, J Biotechnol &lt;strong&gt;104&lt;/strong&gt;, 229-240 (2003).</aps>
+<bio1>McHardy AC, Tauch A, Rückert C, Pühler A, Kalinowski J (2003) &lt;br /&gt;Genome-based analysis of biosynthetic aminotransferase genes of Corynebacterium glutamicum.&lt;br /&gt;J Biotechnol 104(1-3): 229-240.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1610274</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:58:57Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-09-22T08:58:10Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1610274</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1610274</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

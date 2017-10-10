@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Universal coding of integers and unbounded search trees</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Rudolf</namePart>
+  <namePart type="family">Ahlswede</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10479</identifier></name>
+<name type="personal">
+  <namePart type="given">TS</namePart>
+  <namePart type="family">Han</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">K</namePart>
+  <namePart type="family">Kobayashi</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">In this paper we study universal coding problems for the integers, in particular, establish rather tight lower and upper bounds for the Elias omega code and other codes, In these bounds, the so-called log-star function plays a central role. Furthermore, we investigate unbounded search trees induced by these codes, including the Bentley-Yao search tree, We will reveal beautiful recursion structures latent in these search trees as well as in these codes. Finally, we introduce the modified log-star function to reveal the existance of better prefix codes than Elias omega code and other known codes.</abstract>
+
+<originInfo><publisher>IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC</publisher><dateIssued encoding="w3cdtf">1997</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>universal coding</topic><topic>log-star function</topic><topic>Elias code</topic><topic>Stout</topic><topic>code</topic><topic>Bentley-Yao tree</topic><topic>search trees</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>IEEE TRANSACTIONS ON INFORMATION THEORY</title></titleInfo>
+  <identifier type="issn">0018-9448</identifier>
+  <identifier type="ISI">A1997WK54800022</identifier><identifier type="doi">10.1109/18.556122</identifier>
+<part><detail type="volume"><number>43</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">669-682</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Ahlswede, R.; Han, T. S.; Kobayashi, K. (1997): Universal coding of integers and unbounded search trees &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;,43:(2): 669-682.</wels>
+<default>Ahlswede R, Han TS, Kobayashi K (1997) &lt;br /&gt;IEEE TRANSACTIONS ON INFORMATION THEORY 43(2): 669-682.</default>
+<harvard1>Ahlswede, R., Han, T.S., &amp;amp; Kobayashi, K., 1997. Universal coding of integers and unbounded search trees. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, 43(2), p 669-682.</harvard1>
+<ama>Ahlswede R, Han TS, Kobayashi K. Universal coding of integers and unbounded search trees. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;. 1997;43(2):669-682.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R., Han, T.S. &amp;amp; Kobayashi, K. (1997). Universal coding of integers and unbounded search trees. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, &lt;em&gt;43&lt;/em&gt;(2), 669-682. IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC. doi:10.1109/18.556122.&lt;/div&gt;</dgps>
+<bio1>Ahlswede R, Han TS, Kobayashi K (1997) &lt;br /&gt;Universal coding of integers and unbounded search trees.&lt;br /&gt;IEEE TRANSACTIONS ON INFORMATION THEORY 43(2): 669-682.</bio1>
+<aps>R.  Ahlswede, T. S.  Han, and K.  Kobayashi, Universal coding of integers and unbounded search trees, IEEE TRANSACTIONS ON INFORMATION THEORY &lt;strong&gt;43&lt;/strong&gt;, 669-682 (1997).</aps>
+<apa>Ahlswede, R., Han, T. S., &amp;amp; Kobayashi, K. (1997). Universal coding of integers and unbounded search trees. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, &lt;em&gt;43&lt;/em&gt;(2), 669-682.</apa>
+<angewandte-chemie>R.  Ahlswede, T. S.  Han, and K.  Kobayashi, “Universal coding of integers and unbounded search trees”, &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, &lt;strong&gt;1997&lt;/strong&gt;, &lt;em&gt;43&lt;/em&gt;, 669-682.</angewandte-chemie>
+<frontiers>Ahlswede, R., Han, T. S., and Kobayashi, K. (1997). Universal coding of integers and unbounded search trees. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt; 43, 669-682.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, Rudolf, Han, TS, and Kobayashi, K. 1997. “Universal coding of integers and unbounded search trees”. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt; 43 (2): 669-682.&lt;/div&gt;</chicago>
+<ieee>R. Ahlswede, T.S. Han, and K. Kobayashi, “Universal coding of integers and unbounded search trees”, &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;,  vol. 43, 1997,  pp. 669-682.</ieee>
+<mla>Ahlswede, Rudolf, Han, TS, and Kobayashi, K. “Universal coding of integers and unbounded search trees”. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt; 43.2 (1997): 669-682.</mla>
+<lncs>Ahlswede, R., Han, T.S., Kobayashi, K.: Universal coding of integers and unbounded search trees. IEEE TRANSACTIONS ON INFORMATION THEORY. 43, 669-682 (1997).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R., Han, T. S., &amp;amp; Kobayashi, K. (1997). Universal coding of integers and unbounded search trees. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, &lt;em&gt;43&lt;/em&gt;(2), 669-682.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1637805</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:14:22Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-11-11T11:17:51Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1637805</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1637805</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

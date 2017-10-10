@@ -1,0 +1,102 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Ratio, decimals and fractions</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Friedhelm</namePart>
+  <namePart type="family">Padberg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10570</identifier></name>
+<name type="personal">
+  <namePart type="given">Leen</namePart>
+  <namePart type="family">Streefland</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Marjorie</namePart><namePart type="family">Carss</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>WE IDM</namePart>
+  <identifier type="unibi">10055</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Padberg_014.pdf">https://pub.uni-bielefeld.de/download/1776341/2312155</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Birkhäuser</publisher><dateIssued encoding="w3cdtf">1986</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Proceedings of the Fifth International Congress on Mathematical Education</title></titleInfo>
+  <identifier type="isbn">0-8176-3330-8</identifier><identifier type="urn">urn:nbn:de:0070-bipr-12076</identifier>
+<part><extent unit="pages">59-61</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Padberg, F.; Streefland, L. (1986): Ratio, decimals and fractions. In: Marjorie Carss (Hrsg.):  Proceedings of the Fifth International Congress on Mathematical Education. Boston: Birkhäuser.  S. 59-61.</wels>
+<default>Padberg F, Streefland L (1986)  &lt;br /&gt;In:  Proceedings of the Fifth International Congress on Mathematical Education. Carss M (Ed);Boston: Birkhäuser:  59-61.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Padberg, F. &amp;amp; Streefland, L. (1986). Ratio, decimals and fractions. &lt;em&gt;Proceedings of the Fifth International Congress on Mathematical Education&lt;/em&gt; (S. 59-61). Boston: Birkhäuser.&lt;/div&gt;</dgps>
+<ama>Padberg F, Streefland L. Ratio, decimals and fractions. In: Carss M, ed. &lt;em&gt;Proceedings of the Fifth International Congress on Mathematical Education&lt;/em&gt;. Boston: Birkhäuser;  1986: 59-61.</ama>
+<harvard1>Padberg, F., &amp;amp; Streefland, L., 1986. Ratio, decimals and fractions. In M.  Carss, ed. &lt;em&gt;Proceedings of the Fifth International Congress on Mathematical Education&lt;/em&gt;.  Boston: Birkhäuser, pp. 59-61.</harvard1>
+<aps>F.  Padberg and L.  Streefland, Ratio, decimals and fractions, in &lt;em&gt;Proceedings of the Fifth International Congress on Mathematical Education&lt;/em&gt;, edited by M.  Carss (Birkhäuser, Boston, 1986), p. 59-61.</aps>
+<bio1>Padberg F, Streefland L (1986) &lt;br /&gt;Ratio, decimals and fractions. &lt;br /&gt;In:  Proceedings of the Fifth International Congress on Mathematical Education. Carss M (Ed); Boston: Birkhäuser:  59-61.</bio1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Padberg, Friedhelm, and Streefland, Leen. 1986. “Ratio, decimals and fractions”. In &lt;em&gt;Proceedings of the Fifth International Congress on Mathematical Education&lt;/em&gt;, ed. Marjorie Carss, 59-61. Boston: Birkhäuser.&lt;/div&gt;</chicago>
+<apa>Padberg, F., &amp;amp; Streefland, L. (1986). Ratio, decimals and fractions. In M.  Carss (Ed.), &lt;em&gt;Proceedings of the Fifth International Congress on Mathematical Education&lt;/em&gt; (pp. 59-61). Boston: Birkhäuser.</apa>
+<angewandte-chemie>F.  Padberg, and L.  Streefland, in &lt;em&gt;Proceedings of the Fifth International Congress on Mathematical Education&lt;/em&gt; (Ed.: M. Carss), Birkhäuser, Boston, &lt;strong&gt;1986&lt;/strong&gt;, p. 59-61.</angewandte-chemie>
+<frontiers>Padberg, F., and Streefland, L. (1986). “Ratio, decimals and fractions” in &lt;em&gt;Proceedings of the Fifth International Congress on Mathematical Education&lt;/em&gt;, ed. M.  Carss (Boston: Birkhäuser), 59-61.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Padberg, F., &amp;amp; Streefland, L. (1986). Ratio, decimals and fractions. In M.  Carss (Ed.), &lt;em&gt;Proceedings of the Fifth International Congress on Mathematical Education&lt;/em&gt; (pp. 59-61). Boston: Birkhäuser.&lt;/div&gt;</apa_indent>
+<ieee>F. Padberg and L. Streefland, “Ratio, decimals and fractions”, &lt;em&gt;Proceedings of the Fifth International Congress on Mathematical Education&lt;/em&gt;, M. Carss, ed.,  Boston: Birkhäuser, 1986,  pp.59-61.</ieee>
+<lncs>Padberg, F., Streefland, L.: Ratio, decimals and fractions. In: Carss, M. (ed.) Proceedings of the Fifth International Congress on Mathematical Education. p. 59-61. Birkhäuser, Boston (1986).</lncs>
+<mla>Padberg, Friedhelm, and Streefland, Leen. “Ratio, decimals and fractions”. &lt;em&gt;Proceedings of the Fifth International Congress on Mathematical Education&lt;/em&gt;. Ed. Marjorie Carss. Boston: Birkhäuser, 1986. 59-61.</mla>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776341</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776341</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776341</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

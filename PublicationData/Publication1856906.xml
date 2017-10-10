@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>encyclopaedia entry</genre>
+
+<titleInfo><title>Bildungssoziologie</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Klaus</namePart>
+  <namePart type="family">Hurrelmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21484</identifier></name>
+<name type="personal">
+  <namePart type="given">Jürgen</namePart>
+  <namePart type="family">Mansel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21744</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Gerd</namePart><namePart type="family">Reinhold</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10058</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">7978137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Oldenbourg</publisher><dateIssued encoding="w3cdtf">1991</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+<subject><topic>education</topic><topic>education</topic><topic>Soziologie</topic><topic>Schule</topic><topic>Erziehungswissenschaft</topic><topic>Bildung</topic><topic>school</topic><topic>sociology</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Soziologie-Lexikon</title></titleInfo>
+  <identifier type="isbn">3-486-21259-1</identifier>
+<part><extent unit="pages">58-62</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hurrelmann, Klaus, and Mansel, Jürgen. 1991. “Bildungssoziologie”. In &lt;em&gt;Soziologie-Lexikon&lt;/em&gt;, ed. Gerd Reinhold, 58-62. München, Wien: Oldenbourg.&lt;/div&gt;</chicago>
+<angewandte-chemie>K.  Hurrelmann, and J.  Mansel, in &lt;em&gt;Soziologie-Lexikon&lt;/em&gt; (Ed.: G. Reinhold), Oldenbourg, München, Wien, &lt;strong&gt;1991&lt;/strong&gt;, p. 58-62.</angewandte-chemie>
+<apa>Hurrelmann, K., &amp;amp; Mansel, J. (1991). Bildungssoziologie. In G.  Reinhold (Ed.), &lt;em&gt;Soziologie-Lexikon&lt;/em&gt; (pp. 58-62). München, Wien: Oldenbourg.</apa>
+<frontiers>Hurrelmann, K., and Mansel, J. (1991). “Bildungssoziologie” in &lt;em&gt;Soziologie-Lexikon&lt;/em&gt;, Reinhold, G. ed. (München, Wien: Oldenbourg), 58-62.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hurrelmann, K., &amp;amp; Mansel, J. (1991). Bildungssoziologie. In G.  Reinhold (Ed.), &lt;em&gt;Soziologie-Lexikon&lt;/em&gt; (pp. 58-62). München, Wien: Oldenbourg.&lt;/div&gt;</apa_indent>
+<ieee> K. Hurrelmann and J. Mansel, “Bildungssoziologie”, &lt;em&gt;Soziologie-Lexikon&lt;/em&gt;, G. Reinhold, ed.,  München, Wien: Oldenbourg, 1991,  pp.58-62.</ieee>
+<lncs> Hurrelmann, K., Mansel, J.: Bildungssoziologie. In: Reinhold, G. (ed.) Soziologie-Lexikon. p. 58-62. Oldenbourg, München, Wien (1991).</lncs>
+<mla>Hurrelmann, Klaus, and Mansel, Jürgen. “Bildungssoziologie”. &lt;em&gt;Soziologie-Lexikon&lt;/em&gt;. Ed. Gerd Reinhold. München, Wien: Oldenbourg, 1991. 58-62.</mla>
+<wels>Hurrelmann, K.; Mansel, J. (1991): Bildungssoziologie. In: Gerd Reinhold (Hrsg.):  Soziologie-Lexikon. München, Wien: Oldenbourg.  S. 58-62.</wels>
+<default>Hurrelmann K, Mansel J (1991)  &lt;br /&gt;In:  Soziologie-Lexikon. Reinhold G (Ed);München, Wien: Oldenbourg:  58-62.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hurrelmann, K. &amp;amp; Mansel, J. (1991). Bildungssoziologie. &lt;em&gt;Soziologie-Lexikon&lt;/em&gt; (S. 58-62). München, Wien: Oldenbourg.&lt;/div&gt;</dgps>
+<ama>Hurrelmann K, Mansel J. Bildungssoziologie. In: Reinhold G, ed. &lt;em&gt;Soziologie-Lexikon&lt;/em&gt;. München, Wien: Oldenbourg;  1991: 58-62.</ama>
+<harvard1>Hurrelmann, K., &amp;amp; Mansel, J., 1991. Bildungssoziologie. In G.  Reinhold, ed. &lt;em&gt;Soziologie-Lexikon&lt;/em&gt;.  München, Wien: Oldenbourg, pp. 58-62.</harvard1>
+<aps> K.  Hurrelmann and J.  Mansel, Bildungssoziologie, in &lt;em&gt;Soziologie-Lexikon&lt;/em&gt;, edited by G.  Reinhold (Oldenbourg, München, Wien, 1991), p. 58-62.</aps>
+<bio1>Hurrelmann K, Mansel J (1991) &lt;br /&gt;Bildungssoziologie. &lt;br /&gt;In:  Soziologie-Lexikon. Reinhold G (Ed); München, Wien: Oldenbourg:  58-62.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1856906</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-08-11T13:02:27Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-08-11T13:02:27Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1856906</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1856906</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

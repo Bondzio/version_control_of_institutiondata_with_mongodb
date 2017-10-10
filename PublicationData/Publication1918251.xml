@@ -1,0 +1,99 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book</genre>
+
+<titleInfo><title>Eduard Mörike - Ästhetik und Geselligkeit</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+
+
+
+<name type="personal"><namePart type="given">Wolfgang</namePart><namePart type="family">Braungart</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role><identifier type="unibi">11652</identifier></name>
+<name type="personal"><namePart type="given">Ralf</namePart><namePart type="family">Simon</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">4961697</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10222814</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Niemeyer</publisher><dateIssued encoding="w3cdtf">2004</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host">
+  <identifier type="isbn">3-484-10864-9</identifier>
+  <identifier type="isbn">978-3-484-10864-6</identifier><identifier type="doi">10.1515/9783110929690</identifier>
+<part>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<mla>Wolfgang Braungart and Ralf Simon, eds. &lt;em&gt;Eduard Mörike - Ästhetik und Geselligkeit&lt;/em&gt;. Tübingen: Niemeyer, 2004.</mla>
+<lncs>Braungart, W., Simon, R. eds: Eduard Mörike - Ästhetik und Geselligkeit. Niemeyer, Tübingen (2004).</lncs>
+<ieee>W. Braungart and R. Simon, eds., &lt;em&gt;Eduard Mörike - Ästhetik und Geselligkeit&lt;/em&gt;,  Tübingen: Niemeyer, 2004.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Braungart W., &amp;amp; Simon R. (Eds.) (2004).  &lt;em&gt;Eduard Mörike - Ästhetik und Geselligkeit&lt;/em&gt;. Tübingen: Niemeyer.&lt;/div&gt;</apa_indent>
+<frontiers>Braungart, W., and Simon, R. eds. (2004). Eduard Mörike - Ästhetik und Geselligkeit. Tübingen: Niemeyer.</frontiers>
+<apa>Braungart W., &amp;amp; Simon R. (Eds.) (2004).  &lt;em&gt;Eduard Mörike - Ästhetik und Geselligkeit&lt;/em&gt;. Tübingen: Niemeyer.</apa>
+<angewandte-chemie>&lt;em&gt;Eduard Mörike - Ästhetik und Geselligkeit&lt;/em&gt;, Niemeyer, Tübingen, &lt;strong&gt;2004&lt;/strong&gt;.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Braungart, Wolfgang, and Simon, Ralf, eds. 2004. &lt;em&gt;Eduard Mörike - Ästhetik und Geselligkeit&lt;/em&gt;. Tübingen: Niemeyer.&lt;/div&gt;</chicago>
+<aps>W.  Braungart and R.  Simon, edited, Eduard Mörike - Ästhetik und Geselligkeit, (Niemeyer, Tübingen, 2004).</aps>
+<bio1>Braungart W, Simon R (Eds) (2004) &lt;br /&gt;&lt;em&gt;Eduard Mörike - Ästhetik und Geselligkeit&lt;/em&gt;.&lt;br /&gt;Tübingen: Niemeyer.</bio1>
+<harvard1>W.  Braungart &amp;amp; R.  Simon, eds., 2004. &lt;em&gt;Eduard Mörike - Ästhetik und Geselligkeit&lt;/em&gt;, Tübingen: Niemeyer.</harvard1>
+<ama>Braungart W, Simon R, eds. &lt;em&gt;Eduard Mörike - Ästhetik und Geselligkeit&lt;/em&gt;. Tübingen: Niemeyer; 2004.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;&lt;em&gt;Eduard Mörike - Ästhetik und Geselligkeit&lt;/em&gt;. (2004). &lt;em&gt;Eduard Mörike - Ästhetik und Geselligkeit&lt;/em&gt;.  (W. Braungart &amp;amp; R. Simon, Hrsg.). Tübingen: Niemeyer. doi:10.1515/9783110929690.&lt;/div&gt;</dgps>
+<default>Braungart W, Simon R (Eds) (2004) &lt;br /&gt;Tübingen: Niemeyer.</default>
+<wels>Wolfgang Braungart; Ralf Simon (Hrsg.) (2004): Eduard Mörike - Ästhetik und Geselligkeit. Tübingen: Niemeyer.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1918251</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-11-19T11:05:35Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-03-30T07:26:08Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1918251</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1918251</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

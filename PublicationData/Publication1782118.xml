@@ -1,0 +1,110 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Weiterbildendes Studium Umweltberatung</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Gernot</namePart>
+  <namePart type="family">Graeßner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">95235</identifier></name>
+<name type="personal">
+  <namePart type="given">Hans-Peter</namePart>
+  <namePart type="family">Obladen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Monika</namePart><namePart type="family">Zimmermann</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Erziehungswissenschaft</namePart>
+  <identifier type="unibi">10021</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG 6 - Weiterbildung &amp; Governance of Lifelong Learning</namePart>
+  <identifier type="unibi">7978238</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT2968.pdf">https://pub.uni-bielefeld.de/download/1782118/2313667</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Birkhäuser</publisher><dateIssued encoding="w3cdtf">1988</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Umweltberatung in Theorie und Praxis</title></titleInfo>
+  <identifier type="isbn">3-7643-1975-5</identifier><identifier type="urn">urn:nbn:de:0070-bipr-29688</identifier>
+<part>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Graeßner, Gernot, and Obladen, Hans-Peter. 1988. “Weiterbildendes Studium Umweltberatung”. In &lt;em&gt;Umweltberatung in Theorie und Praxis&lt;/em&gt;, ed. Monika Zimmermann. Stadtforschung aktuell ; 18. Basel [u.a.]: Birkhäuser.&lt;/div&gt;</chicago>
+<apa>Graeßner, G., &amp;amp; Obladen, H. - P. (1988). Weiterbildendes Studium Umweltberatung. In M.  Zimmermann (Ed.), &lt;em&gt;Stadtforschung aktuell ; 18&lt;/em&gt;&lt;em&gt;. Umweltberatung in Theorie und Praxis&lt;/em&gt; Basel [u.a.]: Birkhäuser.</apa>
+<angewandte-chemie>G.  Graeßner, and H. - P.  Obladen, in &lt;em&gt;Umweltberatung in Theorie und Praxis&lt;/em&gt; (Ed.: M. Zimmermann), Birkhäuser, Basel [u.a.], &lt;strong&gt;1988&lt;/strong&gt;.</angewandte-chemie>
+<frontiers>Graeßner, G., and Obladen, H. - P. (1988). “Weiterbildendes Studium Umweltberatung” in &lt;em&gt;Umweltberatung in Theorie und Praxis&lt;/em&gt;, ed. M.  Zimmermann Stadtforschung aktuell ; 18 (Basel [u.a.]: Birkhäuser).</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Graeßner, G., &amp;amp; Obladen, H. - P. (1988). Weiterbildendes Studium Umweltberatung. In M.  Zimmermann (Ed.), &lt;em&gt;Stadtforschung aktuell ; 18&lt;/em&gt;&lt;em&gt;. Umweltberatung in Theorie und Praxis&lt;/em&gt; Basel [u.a.]: Birkhäuser.&lt;/div&gt;</apa_indent>
+<ieee>G. Graeßner and H.-P. Obladen, “Weiterbildendes Studium Umweltberatung”, &lt;em&gt;Umweltberatung in Theorie und Praxis&lt;/em&gt;, M. Zimmermann, ed., Stadtforschung aktuell ; 18,  Basel [u.a.]: Birkhäuser, 1988.</ieee>
+<lncs>Graeßner, G., Obladen, H.-P.: Weiterbildendes Studium Umweltberatung. In: Zimmermann, M. (ed.) Umweltberatung in Theorie und Praxis. Stadtforschung aktuell ; 18.  Birkhäuser, Basel [u.a.] (1988).</lncs>
+<mla>Graeßner, Gernot, and Obladen, Hans-Peter. “Weiterbildendes Studium Umweltberatung”. &lt;em&gt;Umweltberatung in Theorie und Praxis&lt;/em&gt;. Ed. Monika Zimmermann. Basel [u.a.]: Birkhäuser, 1988. Stadtforschung aktuell ; 18.</mla>
+<wels>Graeßner, G.; Obladen, H. - P. (1988): Weiterbildendes Studium Umweltberatung. In: Monika Zimmermann (Hrsg.):  Umweltberatung in Theorie und Praxis. Basel [u.a.]: Birkhäuser. (Stadtforschung aktuell ; 18, ).</wels>
+<default>Graeßner G, Obladen H-P (1988)  &lt;br /&gt;In:  Umweltberatung in Theorie und Praxis. Zimmermann M (Ed); Stadtforschung aktuell ; 18, . Basel [u.a.]: Birkhäuser.</default>
+<ama>Graeßner G, Obladen H-P. Weiterbildendes Studium Umweltberatung. In: Zimmermann M, ed. &lt;em&gt;Umweltberatung in Theorie und Praxis&lt;/em&gt;. Stadtforschung aktuell ; 18. Basel [u.a.]: Birkhäuser;  1988.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Graeßner, G. &amp;amp; Obladen, H.-P. (1988). Weiterbildendes Studium Umweltberatung (Stadtforschung aktuell ; 18). &lt;em&gt;Umweltberatung in Theorie und Praxis&lt;/em&gt;. Basel [u.a.]: Birkhäuser.&lt;/div&gt;</dgps>
+<harvard1>Graeßner, G., &amp;amp; Obladen, H.-P., 1988. Weiterbildendes Studium Umweltberatung. In M.  Zimmermann, ed. &lt;em&gt;Umweltberatung in Theorie und Praxis&lt;/em&gt;. Stadtforschung aktuell ; 18.  Basel [u.a.]: Birkhäuser.</harvard1>
+<aps>G.  Graeßner and H. - P.  Obladen, Weiterbildendes Studium Umweltberatung, in &lt;em&gt;Umweltberatung in Theorie und Praxis&lt;/em&gt;, edited by M.  Zimmermann, Stadtforschung aktuell ; 18 (Birkhäuser, Basel [U.a.], 1988).</aps>
+<bio1>Graeßner G, Obladen H-P (1988) &lt;br /&gt;Weiterbildendes Studium Umweltberatung. &lt;br /&gt;In:  Umweltberatung in Theorie und Praxis. Zimmermann M (Ed); Stadtforschung aktuell ; 18,  Basel [u.a.]: Birkhäuser.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1782118</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1782118</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1782118</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

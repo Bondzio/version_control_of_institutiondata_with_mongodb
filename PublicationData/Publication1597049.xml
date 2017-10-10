@@ -1,0 +1,155 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Magnetic vortex core reversal by excitation with short bursts of an alternating field</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">B.</namePart>
+  <namePart type="family">Van Waeyenberge</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A.</namePart>
+  <namePart type="family">Puzic</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">H.</namePart>
+  <namePart type="family">Stoll</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">K. W.</namePart>
+  <namePart type="family">Chou</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">T.</namePart>
+  <namePart type="family">Tyliszczak</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">R.</namePart>
+  <namePart type="family">Hertel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M.</namePart>
+  <namePart type="family">Faehnle</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">H.</namePart>
+  <namePart type="family">Brueckl</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Karsten</namePart>
+  <namePart type="family">Rott</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40196</identifier></name>
+<name type="personal">
+  <namePart type="given">Günter</namePart>
+  <namePart type="family">Reiss</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40207</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-0918-5940</description></name>
+<name type="personal">
+  <namePart type="given">I.</namePart>
+  <namePart type="family">Neudecker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">D.</namePart>
+  <namePart type="family">Weiss</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">C. H.</namePart>
+  <namePart type="family">Back</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">G.</namePart>
+  <namePart type="family">Schuetz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Dünne Schichten &amp; Physik der Nanostrukturen</namePart>
+  <identifier type="unibi">28536538</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  G. Reiss</namePart>
+  <identifier type="unibi">33079602</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The vortex state, characterized by a curling magnetization, is one of the equilibrium configurations of soft magnetic materials(1-4) and occurs in thin ferromagnetic square and disk-shaped elements of micrometre size and below. The interplay between the magneto-static and the exchange energy favours an in-plane, closed flux domain structure. This curling magnetization turns out of the plane at the centre of the vortex structure, in an area with a radius of about 10 nanometres-the vortex core(5-7). The vortex state has a specific excitation mode: the in-plane gyration of the vortex structure about its equilibrium position(8-10). The sense of gyration is determined by the vortex core polarization(11). Here we report on the controlled manipulation of the vortex core polarization by excitation with small bursts of an alternating magnetic field. The vortex motion was imaged by time-resolved scanning transmission X-ray microscopy(12). We demonstrate that the sense of gyration of the vortex structure can be reversed by applying short bursts of the sinusoidal excitation field with amplitude of about 1.5 mT. This reversal unambiguously indicates a switching of the out-of-plane core polarization. The observed switching mechanism, which can be understood in the framework of micromagnetic theory, gives insights into basic magnetization dynamics and their possible application in data storage.</abstract>
+
+<originInfo><publisher>NATURE PUBLISHING GROUP</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>NATURE</title></titleInfo>
+  <identifier type="issn">0028-0836</identifier>
+  <identifier type="eIssn">1476-4687</identifier>
+  <identifier type="MEDLINE">17122851</identifier>
+  <identifier type="ISI">000242215700040</identifier><identifier type="doi">10.1038/nature05240</identifier>
+<part><detail type="volume"><number>444</number></detail><detail type="issue"><number>7118</number></detail><extent unit="pages">461-464</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>B. Van Waeyenberge, et al., “Magnetic vortex core reversal by excitation with short bursts of an alternating field”, &lt;em&gt;NATURE&lt;/em&gt;,  vol. 444, 2006,  pp. 461-464.</ieee>
+<lncs>Van Waeyenberge, B., Puzic, A., Stoll, H., Chou, K.W., Tyliszczak, T., Hertel, R., Faehnle, M., Brueckl, H., Rott, K., Reiss, G., Neudecker, I., Weiss, D., Back, C.H., Schuetz, G.: Magnetic vortex core reversal by excitation with short bursts of an alternating field. NATURE. 444, 461-464 (2006).</lncs>
+<mla>Van Waeyenberge, B., Puzic, A., Stoll, H., Chou, K. W., Tyliszczak, T., Hertel, R., Faehnle, M., Brueckl, H., Rott, Karsten, Reiss, Günter, Neudecker, I., Weiss, D., Back, C. H., and Schuetz, G. “Magnetic vortex core reversal by excitation with short bursts of an alternating field”. &lt;em&gt;NATURE&lt;/em&gt; 444.7118 (2006): 461-464.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Van Waeyenberge, B., Puzic, A., Stoll, H., Chou, K. W., Tyliszczak, T., Hertel, R., Faehnle, M., et al. (2006). Magnetic vortex core reversal by excitation with short bursts of an alternating field. &lt;em&gt;NATURE&lt;/em&gt;, &lt;em&gt;444&lt;/em&gt;(7118), 461-464.&lt;/div&gt;</apa_indent>
+<apa>Van Waeyenberge, B., Puzic, A., Stoll, H., Chou, K. W., Tyliszczak, T., Hertel, R., Faehnle, M., et al. (2006). Magnetic vortex core reversal by excitation with short bursts of an alternating field. &lt;em&gt;NATURE&lt;/em&gt;, &lt;em&gt;444&lt;/em&gt;(7118), 461-464.</apa>
+<angewandte-chemie>B.  Van Waeyenberge, A.  Puzic, H.  Stoll, K. W.  Chou, T.  Tyliszczak, R.  Hertel, M.  Faehnle, H.  Brueckl, K.  Rott, G.  Reiss, et al., “Magnetic vortex core reversal by excitation with short bursts of an alternating field”, &lt;em&gt;NATURE&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;444&lt;/em&gt;, 461-464.</angewandte-chemie>
+<frontiers>Van Waeyenberge, B., Puzic, A., Stoll, H., Chou, K. W., Tyliszczak, T., Hertel, R., Faehnle, M., Brueckl, H., Rott, K., Reiss, G., et al. (2006). Magnetic vortex core reversal by excitation with short bursts of an alternating field. &lt;em&gt;NATURE&lt;/em&gt; 444, 461-464.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Van Waeyenberge, B., Puzic, A., Stoll, H., Chou, K. W., Tyliszczak, T., Hertel, R., Faehnle, M., et al. 2006. “Magnetic vortex core reversal by excitation with short bursts of an alternating field”. &lt;em&gt;NATURE&lt;/em&gt; 444 (7118): 461-464.&lt;/div&gt;</chicago>
+<ama>Van Waeyenberge B, Puzic A, Stoll H, et al. Magnetic vortex core reversal by excitation with short bursts of an alternating field. &lt;em&gt;NATURE&lt;/em&gt;. 2006;444(7118):461-464.</ama>
+<harvard1>Van Waeyenberge, B., et al., 2006. Magnetic vortex core reversal by excitation with short bursts of an alternating field. &lt;em&gt;NATURE&lt;/em&gt;, 444(7118), p 461-464.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Van Waeyenberge, B., Puzic, A., Stoll, H., Chou, K.W., Tyliszczak, T., Hertel, R., Faehnle, M., Brueckl, H., Rott, K., Reiss, G., Neudecker, I., Weiss, D., Back, C.H. &amp;amp; Schuetz, G. (2006). Magnetic vortex core reversal by excitation with short bursts of an alternating field. &lt;em&gt;NATURE&lt;/em&gt;, &lt;em&gt;444&lt;/em&gt;(7118), 461-464. NATURE PUBLISHING GROUP. doi:10.1038/nature05240.&lt;/div&gt;</dgps>
+<bio1>Van Waeyenberge B, Puzic A, Stoll H, Chou KW, Tyliszczak T, Hertel R, Faehnle M, Brueckl H, Rott K, Reiss G, Neudecker I, Weiss D, Back CH, Schuetz G (2006) &lt;br /&gt;Magnetic vortex core reversal by excitation with short bursts of an alternating field.&lt;br /&gt;NATURE 444(7118): 461-464.</bio1>
+<aps>B.  Van Waeyenberge, et al., Magnetic vortex core reversal by excitation with short bursts of an alternating field, NATURE &lt;strong&gt;444&lt;/strong&gt;, 461-464 (2006).</aps>
+<wels>Van Waeyenberge, B.; Puzic, A.; Stoll, H.; Chou, K. W.; Tyliszczak, T.; Hertel, R.; Faehnle, M.; Brueckl, H.; Rott, K.; Reiss, G.; Neudecker, I.; Weiss, D.; Back, C. H.; Schuetz, G. (2006): Magnetic vortex core reversal by excitation with short bursts of an alternating field &lt;em&gt;NATURE&lt;/em&gt;,444:(7118): 461-464.</wels>
+<default>Van Waeyenberge B, Puzic A, Stoll H, Chou KW, Tyliszczak T, Hertel R, Faehnle M, Brueckl H, Rott K, Reiss G, Neudecker I, et al. (2006) &lt;br /&gt;NATURE 444(7118): 461-464.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1597049</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:18:39Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-15T08:16:43Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1597049</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1597049</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

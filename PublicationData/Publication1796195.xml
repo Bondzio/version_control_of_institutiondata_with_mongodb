@@ -1,0 +1,111 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Hyperparameter learning in probabilistic prototype-based models</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Petra</namePart>
+  <namePart type="family">Schneider</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Michael</namePart>
+  <namePart type="family">Biehl</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Barbara</namePart>
+  <namePart type="family">Hammer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">18302458</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Theoretical Computer Science / Theoretische Informatik</namePart>
+  <identifier type="unibi">10037</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Center of Excellence - Cognitive Interaction Technology CITEC</namePart>
+  <identifier type="unibi">8014655</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We present two approaches to extend Robust Soft Learning Vector Quantization (RSLVQ). This algorithm for nearest prototype classification is derived from an explicit cost function and follows the dynamics of a stochastic gradient ascent. The RSLVQ cost function is defined in terms of a likelihood ratio and involves a hyperparameter which is kept constant during training. We propose to adapt the hyperparameter in the training phase based on the gradient information. Besides, we propose to base the classifier&apos;s decision on the value of the likelihood ratio instead of using the distance based classification approach. Experiments on artificial and real life data show that the hyperparameter crucially influences the performance of RSLVQ. However, it is not possible to estimate the best value from the data prior to learning. We show that the proposed variant of RSLVQ is very robust with respect to the initial value of the hyperparameter. The classification approach based on the likelihood ratio turns out to be superior to distance based classification, if local hyperparameters are adapted for each prototype. (C) 2010 Elsevier B.V. All rights reserved.</abstract>
+
+<originInfo><publisher>Elsevier BV</publisher><dateIssued encoding="w3cdtf">2010</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Robust Soft LVQ</topic><topic>Distance based</topic><topic>Learning vector quantization</topic><topic>Likelihood</topic><topic>classification</topic><topic>Hyperparameter</topic><topic>Cost function</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Neurocomputing</title></titleInfo>
+  <identifier type="issn">0925-2312</identifier>
+  <identifier type="ISI">000276481200009</identifier><identifier type="doi">10.1016/j.neucom.2009.11.021</identifier>
+<part><detail type="volume"><number>73</number></detail><detail type="issue"><number>7-9</number></detail><extent unit="pages">1117-1124</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>Schneider P, Biehl M, Hammer B (2010) &lt;br /&gt;Hyperparameter learning in probabilistic prototype-based models.&lt;br /&gt;Neurocomputing 73(7-9): 1117-1124.</bio1>
+<aps>P.  Schneider, M.  Biehl, and B.  Hammer, Hyperparameter learning in probabilistic prototype-based models, Neurocomputing &lt;strong&gt;73&lt;/strong&gt;, 1117-1124 (2010).</aps>
+<ama>Schneider P, Biehl M, Hammer B. Hyperparameter learning in probabilistic prototype-based models. &lt;em&gt;Neurocomputing&lt;/em&gt;. 2010;73(7-9):1117-1124.</ama>
+<harvard1>Schneider, P., Biehl, M., &amp;amp; Hammer, B., 2010. Hyperparameter learning in probabilistic prototype-based models. &lt;em&gt;Neurocomputing&lt;/em&gt;, 73(7-9), p 1117-1124.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schneider, P., Biehl, M. &amp;amp; Hammer, B. (2010). Hyperparameter learning in probabilistic prototype-based models. &lt;em&gt;Neurocomputing&lt;/em&gt;, &lt;em&gt;73&lt;/em&gt;(7-9), 1117-1124. Elsevier BV. doi:10.1016/j.neucom.2009.11.021.&lt;/div&gt;</dgps>
+<default>Schneider P, Biehl M, Hammer B (2010) &lt;br /&gt;Neurocomputing 73(7-9): 1117-1124.</default>
+<wels>Schneider, P.; Biehl, M.; Hammer, B. (2010): Hyperparameter learning in probabilistic prototype-based models &lt;em&gt;Neurocomputing&lt;/em&gt;,73:(7-9): 1117-1124.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schneider, P., Biehl, M., &amp;amp; Hammer, B. (2010). Hyperparameter learning in probabilistic prototype-based models. &lt;em&gt;Neurocomputing&lt;/em&gt;, &lt;em&gt;73&lt;/em&gt;(7-9), 1117-1124.&lt;/div&gt;</apa_indent>
+<mla>Schneider, Petra, Biehl, Michael, and Hammer, Barbara. “Hyperparameter learning in probabilistic prototype-based models”. &lt;em&gt;Neurocomputing&lt;/em&gt; 73.7-9 (2010): 1117-1124.</mla>
+<lncs>Schneider, P., Biehl, M., Hammer, B.: Hyperparameter learning in probabilistic prototype-based models. Neurocomputing. 73, 1117-1124 (2010).</lncs>
+<ieee>P. Schneider, M. Biehl, and B. Hammer, “Hyperparameter learning in probabilistic prototype-based models”, &lt;em&gt;Neurocomputing&lt;/em&gt;,  vol. 73, 2010,  pp. 1117-1124.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schneider, Petra, Biehl, Michael, and Hammer, Barbara. 2010. “Hyperparameter learning in probabilistic prototype-based models”. &lt;em&gt;Neurocomputing&lt;/em&gt; 73 (7-9): 1117-1124.&lt;/div&gt;</chicago>
+<frontiers>Schneider, P., Biehl, M., and Hammer, B. (2010). Hyperparameter learning in probabilistic prototype-based models. &lt;em&gt;Neurocomputing&lt;/em&gt; 73, 1117-1124.</frontiers>
+<angewandte-chemie>P.  Schneider, M.  Biehl, and B.  Hammer, “Hyperparameter learning in probabilistic prototype-based models”, &lt;em&gt;Neurocomputing&lt;/em&gt;, &lt;strong&gt;2010&lt;/strong&gt;, &lt;em&gt;73&lt;/em&gt;, 1117-1124.</angewandte-chemie>
+<apa>Schneider, P., Biehl, M., &amp;amp; Hammer, B. (2010). Hyperparameter learning in probabilistic prototype-based models. &lt;em&gt;Neurocomputing&lt;/em&gt;, &lt;em&gt;73&lt;/em&gt;(7-9), 1117-1124.</apa>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1796195</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-10-14T09:04:01Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-03-01T09:25:51Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1796195</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1796195</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

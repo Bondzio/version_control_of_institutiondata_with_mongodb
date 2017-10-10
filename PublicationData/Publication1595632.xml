@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Transverse flow in relativistic viscous hydrodynamics</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Rudolf</namePart>
+  <namePart type="family">Baier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40336</identifier></name>
+<name type="personal">
+  <namePart type="given">Paul</namePart>
+  <namePart type="family">Romatschke</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Urs Achim</namePart>
+  <namePart type="family">Wiedemann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">23470601</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Hydrodynamic model simulations of Au-Au collisions at RHIC have indicated recently, that with improved simulations in the coming years, it may be feasible to quantify the viscosity of the matter produced in heavy ion collisions. To this end, a consistent fluid dynamic description of viscous effects is clearly needed. In this note, we observe that a recently used, approximate form of the 2nd order Israel-Stewart viscous hydrodynamic equations of motion cannot account consistently for the transverse flow fields, which are expected to develop in heavy ion collisions. We identify the appropriate equations of motion.</abstract>
+
+<originInfo><publisher>Elsevier</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host">
+  <identifier type="issn">0375-9474</identifier>
+  <identifier type="arXiv">nucl-th/0604006</identifier>
+  <identifier type="INSPIRE">713724</identifier>
+  <identifier type="ISI">000244425500044</identifier><identifier type="doi">10.1016/j.nuclphysa.2006.10.016</identifier>
+<part><detail type="volume"><number>782</number></detail><extent unit="pages">313C-318C</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Baier, R.; Romatschke, P.; Wiedemann, U. A. (2007): Transverse flow in relativistic viscous hydrodynamics. Elsevier. (Nucl.Phys. A, 782).  S. 313C-318C.</wels>
+<default>Baier R, Romatschke P, Wiedemann UA (2007) .</default>
+<ama>Baier R, Romatschke P, Wiedemann UA. Transverse flow in relativistic viscous hydrodynamics.</ama>
+<harvard1>Baier, R., Romatschke, P., &amp;amp; Wiedemann, U.A., 2007. Transverse flow in relativistic viscous hydrodynamics.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baier, R., Romatschke, P. &amp;amp; Wiedemann, U.A. (2007). Transverse flow in relativistic viscous hydrodynamics (Nucl.Phys. A) (S. 313C-318C). Elsevier. doi:10.1016/j.nuclphysa.2006.10.016.&lt;/div&gt;</dgps>
+<aps> R.  Baier, P.  Romatschke, and U. A.  Wiedemann, Transverse flow in relativistic viscous hydrodynamics, Nucl.Phys. A, &lt;strong&gt;782&lt;/strong&gt; (Elsevier, 2007), p. 313C-318C.</aps>
+<bio1>Baier R, Romatschke P, Wiedemann UA (2007) &lt;br /&gt;Transverse flow in relativistic viscous hydrodynamics.</bio1>
+<apa>Baier, R., Romatschke, P., &amp;amp; Wiedemann, U. A. (2007). &lt;em&gt;Transverse flow in relativistic viscous hydrodynamics&lt;/em&gt;. Presented at the .</apa>
+<angewandte-chemie>R.  Baier, P.  Romatschke, and U. A.  Wiedemann, Elsevier, &lt;strong&gt;2007&lt;/strong&gt;, p. 313C-318C.</angewandte-chemie>
+<frontiers>Baier, R., Romatschke, P., and Wiedemann, U. A. (2007).“Transverse flow in relativistic viscous hydrodynamics”.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baier, Rudolf, Romatschke, Paul, and Wiedemann, Urs Achim. 2007. “Transverse flow in relativistic viscous hydrodynamics”. Presented at the , 782:313C-318C. Nucl.Phys. A. Elsevier.&lt;/div&gt;</chicago>
+<ieee> R. Baier, P. Romatschke, and U.A. Wiedemann, “Transverse flow in relativistic viscous hydrodynamics”, Elsevier, 2007.</ieee>
+<lncs> Baier, R., Romatschke, P., Wiedemann, U.A.: Transverse flow in relativistic viscous hydrodynamics. (2007).</lncs>
+<mla>Baier, Rudolf, Romatschke, Paul, and Wiedemann, Urs Achim. “Transverse flow in relativistic viscous hydrodynamics”., Elsevier, 2007.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baier, R., Romatschke, P., &amp;amp; Wiedemann, U. A. (2007). &lt;em&gt;Transverse flow in relativistic viscous hydrodynamics&lt;/em&gt;. Presented at the .&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1595632</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:44Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-24T12:58:11Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1595632</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1595632</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Dynamisme économique et démographie: de l&apos;harmonie preétablie à la disharmonie</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Herwig</namePart>
+  <namePart type="family">Birg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">13197</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">René</namePart><namePart type="family">Lasserre</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Emeriti und pensionierte WissenschaftlerInnen</namePart>
+  <identifier type="unibi">4009911</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bevölkerungs- und Gesundheitsforschung</namePart>
+  <identifier type="unibi">10056</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT3439.pdf">https://pub.uni-bielefeld.de/download/1783015/2314095</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Centre d&apos;information et de recherche sur l&apos;Allemagne contemporaine</publisher><dateIssued encoding="w3cdtf">1988</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>L&apos; Evolution démographique et ses conséquences en République fédérale d&apos;Allemagne et en France</title></titleInfo>
+  <identifier type="isbn">2-905518-13-8</identifier><identifier type="urn">urn:nbn:de:0070-bipr-34399</identifier>
+<part><extent unit="pages">9-34</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<harvard1>Birg, H., 1988. Dynamisme économique et démographie: de l&apos;harmonie preétablie à la disharmonie. In R.  Lasserre, ed. &lt;em&gt;L&apos; Evolution démographique et ses conséquences en République fédérale d&apos;Allemagne et en France&lt;/em&gt;. Travaux et documents du C.I.R.A.C. ; 11.  Paris: Centre d&apos;information et de recherche sur l&apos;Allemagne contemporaine, pp. 9-34.</harvard1>
+<ama>Birg H. Dynamisme économique et démographie: de l&apos;harmonie preétablie à la disharmonie. In: Lasserre R, ed. &lt;em&gt;L&apos; Evolution démographique et ses conséquences en République fédérale d&apos;Allemagne et en France&lt;/em&gt;. Travaux et documents du C.I.R.A.C. ; 11. Paris: Centre d&apos;information et de recherche sur l&apos;Allemagne contemporaine;  1988: 9-34.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Birg, H. (1988). Dynamisme économique et démographie: de l&apos;harmonie preétablie à la disharmonie (Travaux et documents du C.I.R.A.C. ; 11). &lt;em&gt;L&apos; Evolution démographique et ses conséquences en République fédérale d&apos;Allemagne et en France&lt;/em&gt; (S. 9-34). Paris: Centre d&apos;information et de recherche sur l&apos;Allemagne contemporaine.&lt;/div&gt;</dgps>
+<bio1>Birg H (1988) &lt;br /&gt;Dynamisme économique et démographie: de l&apos;harmonie preétablie à la disharmonie. &lt;br /&gt;In:  L&apos; Evolution démographique et ses conséquences en République fédérale d&apos;Allemagne et en France. Lasserre R (Ed); Travaux et documents du C.I.R.A.C. ; 11,  Paris: Centre d&apos;information et de recherche sur l&apos;Allemagne contemporaine:  9-34.</bio1>
+<aps>H.  Birg, Dynamisme économique et démographie: de l&apos;harmonie preétablie à la disharmonie, in &lt;em&gt;L&apos; Evolution démographique et ses conséquences en République fédérale d&apos;Allemagne et en France&lt;/em&gt;, edited by R.  Lasserre, Travaux et documents du C.I.R.A.C. ; 11 (Centre d&apos;information et de recherche sur l&apos;Allemagne contemporaine, Paris, 1988), p. 9-34.</aps>
+<wels>Birg, H. (1988): Dynamisme économique et démographie: de l&apos;harmonie preétablie à la disharmonie. In: René Lasserre (Hrsg.):  L&apos; Evolution démographique et ses conséquences en République fédérale d&apos;Allemagne et en France. Paris: Centre d&apos;information et de recherche sur l&apos;Allemagne contemporaine. (Travaux et documents du C.I.R.A.C. ; 11, ).  S. 9-34.</wels>
+<default>Birg H (1988)  &lt;br /&gt;In:  L&apos; Evolution démographique et ses conséquences en République fédérale d&apos;Allemagne et en France. Lasserre R (Ed); Travaux et documents du C.I.R.A.C. ; 11, . Paris: Centre d&apos;information et de recherche sur l&apos;Allemagne contemporaine:  9-34.</default>
+<ieee>H. Birg, “Dynamisme économique et démographie: de l&apos;harmonie preétablie à la disharmonie”, &lt;em&gt;L&apos; Evolution démographique et ses conséquences en République fédérale d&apos;Allemagne et en France&lt;/em&gt;, R. Lasserre, ed., Travaux et documents du C.I.R.A.C. ; 11,  Paris: Centre d&apos;information et de recherche sur l&apos;Allemagne contemporaine, 1988,  pp.9-34.</ieee>
+<lncs>Birg, H.: Dynamisme économique et démographie: de l&apos;harmonie preétablie à la disharmonie. In: Lasserre, R. (ed.) L&apos; Evolution démographique et ses conséquences en République fédérale d&apos;Allemagne et en France. Travaux et documents du C.I.R.A.C. ; 11. p. 9-34. Centre d&apos;information et de recherche sur l&apos;Allemagne contemporaine, Paris (1988).</lncs>
+<mla>Birg, Herwig. “Dynamisme économique et démographie: de l&apos;harmonie preétablie à la disharmonie”. &lt;em&gt;L&apos; Evolution démographique et ses conséquences en République fédérale d&apos;Allemagne et en France&lt;/em&gt;. Ed. René Lasserre. Paris: Centre d&apos;information et de recherche sur l&apos;Allemagne contemporaine, 1988. Travaux et documents du C.I.R.A.C. ; 11. 9-34.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Birg, H. (1988). Dynamisme économique et démographie: de l&apos;harmonie preétablie à la disharmonie. In R.  Lasserre (Ed.), &lt;em&gt;Travaux et documents du C.I.R.A.C. ; 11&lt;/em&gt;&lt;em&gt;. L&apos; Evolution démographique et ses conséquences en République fédérale d&apos;Allemagne et en France&lt;/em&gt; (pp. 9-34). Paris: Centre d&apos;information et de recherche sur l&apos;Allemagne contemporaine.&lt;/div&gt;</apa_indent>
+<apa>Birg, H. (1988). Dynamisme économique et démographie: de l&apos;harmonie preétablie à la disharmonie. In R.  Lasserre (Ed.), &lt;em&gt;Travaux et documents du C.I.R.A.C. ; 11&lt;/em&gt;&lt;em&gt;. L&apos; Evolution démographique et ses conséquences en République fédérale d&apos;Allemagne et en France&lt;/em&gt; (pp. 9-34). Paris: Centre d&apos;information et de recherche sur l&apos;Allemagne contemporaine.</apa>
+<angewandte-chemie>H.  Birg, in &lt;em&gt;L&apos; Evolution démographique et ses conséquences en République fédérale d&apos;Allemagne et en France&lt;/em&gt; (Ed.: R. Lasserre), Centre D&apos;information Et De Recherche Sur L&apos;allemagne Contemporaine, Paris, &lt;strong&gt;1988&lt;/strong&gt;, p. 9-34.</angewandte-chemie>
+<frontiers>Birg, H. (1988). “Dynamisme économique et démographie: de l&apos;harmonie preétablie à la disharmonie” in &lt;em&gt;L&apos; Evolution démographique et ses conséquences en République fédérale d&apos;Allemagne et en France&lt;/em&gt;, ed. R.  Lasserre Travaux et documents du C.I.R.A.C. ; 11 (Paris: Centre d&apos;information et de recherche sur l&apos;Allemagne contemporaine), 9-34.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Birg, Herwig. 1988. “Dynamisme économique et démographie: de l&apos;harmonie preétablie à la disharmonie”. In &lt;em&gt;L&apos; Evolution démographique et ses conséquences en République fédérale d&apos;Allemagne et en France&lt;/em&gt;, ed. René Lasserre, 9-34. Travaux et documents du C.I.R.A.C. ; 11. Paris: Centre d&apos;information et de recherche sur l&apos;Allemagne contemporaine.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1783015</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1783015</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1783015</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

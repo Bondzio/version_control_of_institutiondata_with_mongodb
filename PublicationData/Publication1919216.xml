@@ -1,0 +1,118 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>The Problem of Chromosome Reincorporation in DCJ Sorting and Halving</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Jakub</namePart>
+  <namePart type="family">Kovac</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">17903134</identifier></name>
+<name type="personal">
+  <namePart type="given">Marilia</namePart>
+  <namePart type="family">Braga</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10754562</identifier></name>
+<name type="personal">
+  <namePart type="given">Jens</namePart>
+  <namePart type="family">Stoye</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">65864</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-4656-7155</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Genominformatik</namePart>
+  <identifier type="unibi">66100</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group J. Stoye</namePart>
+  <identifier type="unibi">33067262</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+<name type="conference">
+  <namePart>Recomb-CG 2010</namePart>
+</name>
+
+
+
+
+
+
+
+<originInfo><dateIssued encoding="w3cdtf">2010</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Proc. of Recomb-CG 2010</title></titleInfo><identifier type="doi">10.1007/978-3-642-16181-0_2</identifier>
+<part><detail type="volume"><number>6398</number></detail><extent unit="pages">13-24</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>J. Kovac, M. Braga, and J. Stoye, “The Problem of Chromosome Reincorporation in DCJ Sorting and Halving”, &lt;em&gt;Proc. of Recomb-CG 2010&lt;/em&gt;, LNBI, vol. 6398, 2010,  pp.13-24.</ieee>
+<lncs>Kovac, J., Braga, M., Stoye, J.: The Problem of Chromosome Reincorporation in DCJ Sorting and Halving. Proc. of Recomb-CG 2010. LNBI. 6398, p. 13-24. (2010).</lncs>
+<mla>Kovac, Jakub, Braga, Marilia, and Stoye, Jens. “The Problem of Chromosome Reincorporation in DCJ Sorting and Halving”. &lt;em&gt;Proc. of Recomb-CG 2010&lt;/em&gt;. 2010.Vol. 6398. LNBI. 13-24.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kovac, J., Braga, M., &amp;amp; Stoye, J. (2010). The Problem of Chromosome Reincorporation in DCJ Sorting and Halving. &lt;em&gt;Proc. of Recomb-CG 2010&lt;/em&gt;, &lt;em&gt;6398&lt;/em&gt;, 13-24.&lt;/div&gt;</apa_indent>
+<apa>Kovac, J., Braga, M., &amp;amp; Stoye, J. (2010). The Problem of Chromosome Reincorporation in DCJ Sorting and Halving. &lt;em&gt;Proc. of Recomb-CG 2010&lt;/em&gt;, &lt;em&gt;6398&lt;/em&gt;, 13-24.</apa>
+<angewandte-chemie>J.  Kovac, M.  Braga, and J.  Stoye, in &lt;em&gt;Proc. of Recomb-CG 2010&lt;/em&gt;, &lt;strong&gt;2010&lt;/strong&gt;, p. 13-24.</angewandte-chemie>
+<frontiers>Kovac, J., Braga, M., and Stoye, J. (2010). “The Problem of Chromosome Reincorporation in DCJ Sorting and Halving” in &lt;em&gt;Proc. of Recomb-CG 2010&lt;/em&gt; LNBI, vol. 6398, 13-24.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kovac, Jakub, Braga, Marilia, and Stoye, Jens. 2010. “The Problem of Chromosome Reincorporation in DCJ Sorting and Halving”. In &lt;em&gt;Proc. of Recomb-CG 2010&lt;/em&gt;, 6398:13-24. LNBI.&lt;/div&gt;</chicago>
+<ama>Kovac J, Braga M, Stoye J. The Problem of Chromosome Reincorporation in DCJ Sorting and Halving. In:  &lt;em&gt;Proc. of Recomb-CG 2010&lt;/em&gt;. LNBI. Vol 6398. 2010: 13-24.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kovac, J., Braga, M. &amp;amp; Stoye, J. (2010). The Problem of Chromosome Reincorporation in DCJ Sorting and Halving (LNBI). &lt;em&gt;Proc. of Recomb-CG 2010&lt;/em&gt; (S. 13-24). Gehalten auf der Recomb-CG 2010. doi:10.1007/978-3-642-16181-0_2.&lt;/div&gt;</dgps>
+<harvard1>Kovac, J., Braga, M., &amp;amp; Stoye, J., 2010. The Problem of Chromosome Reincorporation in DCJ Sorting and Halving. In &lt;em&gt;Proc. of Recomb-CG 2010&lt;/em&gt;. LNBI. no.6398 pp. 13-24.</harvard1>
+<bio1>Kovac J, Braga M, Stoye J (2010) &lt;br /&gt;The Problem of Chromosome Reincorporation in DCJ Sorting and Halving. &lt;br /&gt;In:  Proc. of Recomb-CG 2010.  LNBI, 6398. 13-24.</bio1>
+<aps>J.  Kovac, M.  Braga, and J.  Stoye, The Problem of Chromosome Reincorporation in DCJ Sorting and Halving, in &lt;em&gt;Proc. of Recomb-CG 2010&lt;/em&gt;, LNBI, &lt;strong&gt;6398&lt;/strong&gt; (2010), p. 13-24.</aps>
+<wels>Kovac, J.; Braga, M.; Stoye, J. (2010): The Problem of Chromosome Reincorporation in DCJ Sorting and Halving. In: Proc. of Recomb-CG 2010. (LNBI, 6398).  S. 13-24.</wels>
+<default>Kovac J, Braga M, Stoye J (2010)  &lt;br /&gt;In:  Proc. of Recomb-CG 2010.  LNBI, 6398.  13-24.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1919216</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-11-23T20:45:36Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-01-18T09:11:20Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1919216</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1919216</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

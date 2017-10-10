@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>An integral physico-chemical model for bioexcitability</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Eberhard</namePart>
+  <namePart type="family">Neumann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20317</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Michael</namePart><namePart type="family">Conrad</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Chemie</namePart>
+  <identifier type="unibi">10018</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Neumann_B_02.pdf">https://pub.uni-bielefeld.de/download/1776967/2312281</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Springer</publisher><dateIssued encoding="w3cdtf">1974</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Physics and mathematics of the nervous system: proceedings of a summer school organized by the International Centre for Theoretical Physics, Trieste ... held at Trieste, August 21 - 31, 1973</title></titleInfo>
+  <identifier type="isbn">3-540-07014-1</identifier><identifier type="urn">urn:nbn:de:0070-bipr-13492</identifier>
+<part><extent unit="pages">42-81</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Neumann E. An integral physico-chemical model for bioexcitability. In: Conrad M, ed. &lt;em&gt;Physics and mathematics of the nervous system: proceedings of a summer school organized by the International Centre for Theoretical Physics, Trieste .. held at Trieste, August 21 - 31, 1973&lt;/em&gt;. Lecture notes in biomathematics ; 4. Berlin: Springer;  1974: 42-81.</ama>
+<harvard1>Neumann, E., 1974. An integral physico-chemical model for bioexcitability. In M.  Conrad, ed. &lt;em&gt;Physics and mathematics of the nervous system: proceedings of a summer school organized by the International Centre for Theoretical Physics, Trieste .. held at Trieste, August 21 - 31, 1973&lt;/em&gt;. Lecture notes in biomathematics ; 4.  Berlin: Springer, pp. 42-81.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neumann, E. (1974). An integral physico-chemical model for bioexcitability (Lecture notes in biomathematics ; 4). &lt;em&gt;Physics and mathematics of the nervous system: proceedings of a summer school organized by the International Centre for Theoretical Physics, Trieste .. held at Trieste, August 21 - 31, 1973&lt;/em&gt; (S. 42-81). Berlin: Springer.&lt;/div&gt;</dgps>
+<aps>E.  Neumann, An integral physico-chemical model for bioexcitability, in &lt;em&gt;Physics and mathematics of the nervous system: proceedings of a summer school organized by the International Centre for Theoretical Physics, Trieste .. held at Trieste, August 21 - 31, 1973&lt;/em&gt;, edited by M.  Conrad, Lecture notes in biomathematics ; 4 (Springer, Berlin, 1974), p. 42-81.</aps>
+<bio1>Neumann E (1974) &lt;br /&gt;An integral physico-chemical model for bioexcitability. &lt;br /&gt;In:  Physics and mathematics of the nervous system: proceedings of a summer school organized by the International Centre for Theoretical Physics, Trieste .. held at Trieste, August 21 - 31, 1973. Conrad M (Ed); Lecture notes in biomathematics ; 4,  Berlin: Springer:  42-81.</bio1>
+<wels>Neumann, E. (1974): An integral physico-chemical model for bioexcitability. In: Michael Conrad (Hrsg.):  Physics and mathematics of the nervous system: proceedings of a summer school organized by the International Centre for Theoretical Physics, Trieste .. held at Trieste, August 21 - 31, 1973. Berlin: Springer. (Lecture notes in biomathematics ; 4, ).  S. 42-81.</wels>
+<default>Neumann E (1974)  &lt;br /&gt;In:  Physics and mathematics of the nervous system: proceedings of a summer school organized by the International Centre for Theoretical Physics, Trieste .. held at Trieste, August 21 - 31, 1973. Conrad M (Ed); Lecture notes in biomathematics ; 4, . Berlin: Springer:  42-81.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neumann, E. (1974). An integral physico-chemical model for bioexcitability. In M.  Conrad (Ed.), &lt;em&gt;Lecture notes in biomathematics ; 4&lt;/em&gt;&lt;em&gt;. Physics and mathematics of the nervous system: proceedings of a summer school organized by the International Centre for Theoretical Physics, Trieste .. held at Trieste, August 21 - 31, 1973&lt;/em&gt; (pp. 42-81). Berlin: Springer.&lt;/div&gt;</apa_indent>
+<ieee>E. Neumann, “An integral physico-chemical model for bioexcitability”, &lt;em&gt;Physics and mathematics of the nervous system: proceedings of a summer school organized by the International Centre for Theoretical Physics, Trieste .. held at Trieste, August 21 - 31, 1973&lt;/em&gt;, M. Conrad, ed., Lecture notes in biomathematics ; 4,  Berlin: Springer, 1974,  pp.42-81.</ieee>
+<mla>Neumann, Eberhard. “An integral physico-chemical model for bioexcitability”. &lt;em&gt;Physics and mathematics of the nervous system: proceedings of a summer school organized by the International Centre for Theoretical Physics, Trieste .. held at Trieste, August 21 - 31, 1973&lt;/em&gt;. Ed. Michael Conrad. Berlin: Springer, 1974. Lecture notes in biomathematics ; 4. 42-81.</mla>
+<lncs>Neumann, E.: An integral physico-chemical model for bioexcitability. In: Conrad, M. (ed.) Physics and mathematics of the nervous system: proceedings of a summer school organized by the International Centre for Theoretical Physics, Trieste .. held at Trieste, August 21 - 31, 1973. Lecture notes in biomathematics ; 4. p. 42-81. Springer, Berlin (1974).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neumann, Eberhard. 1974. “An integral physico-chemical model for bioexcitability”. In &lt;em&gt;Physics and mathematics of the nervous system: proceedings of a summer school organized by the International Centre for Theoretical Physics, Trieste .. held at Trieste, August 21 - 31, 1973&lt;/em&gt;, ed. Michael Conrad, 42-81. Lecture notes in biomathematics ; 4. Berlin: Springer.&lt;/div&gt;</chicago>
+<apa>Neumann, E. (1974). An integral physico-chemical model for bioexcitability. In M.  Conrad (Ed.), &lt;em&gt;Lecture notes in biomathematics ; 4&lt;/em&gt;&lt;em&gt;. Physics and mathematics of the nervous system: proceedings of a summer school organized by the International Centre for Theoretical Physics, Trieste .. held at Trieste, August 21 - 31, 1973&lt;/em&gt; (pp. 42-81). Berlin: Springer.</apa>
+<angewandte-chemie>E.  Neumann, in &lt;em&gt;Physics and mathematics of the nervous system: proceedings of a summer school organized by the International Centre for Theoretical Physics, Trieste .. held at Trieste, August 21 - 31, 1973&lt;/em&gt; (Ed.: M. Conrad), Springer, Berlin, &lt;strong&gt;1974&lt;/strong&gt;, p. 42-81.</angewandte-chemie>
+<frontiers>Neumann, E. (1974). “An integral physico-chemical model for bioexcitability” in &lt;em&gt;Physics and mathematics of the nervous system: proceedings of a summer school organized by the International Centre for Theoretical Physics, Trieste .. held at Trieste, August 21 - 31, 1973&lt;/em&gt;, ed. M.  Conrad Lecture notes in biomathematics ; 4 (Berlin: Springer), 42-81.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776967</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776967</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776967</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,105 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Modeling visual landmark navigation with autonomous agents</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">D.</namePart>
+  <namePart type="family">Lambrinos</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ralf</namePart>
+  <namePart type="family">Möller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">94532</identifier></name>
+<name type="personal">
+  <namePart type="given">R.</namePart>
+  <namePart type="family">Pfeifer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">R.</namePart>
+  <namePart type="family">Wehner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">N.</namePart><namePart type="family">Elsner</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">R.</namePart><namePart type="family">Wehner</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>AG Technische Informatik</namePart>
+  <identifier type="unibi">10040</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Georg Thieme Verlag</publisher><dateIssued encoding="w3cdtf">1998</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Proc. Neurobiol. Conf. Göttingen</title></titleInfo>
+<part><extent unit="pages">19</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lambrinos, D., Möller, R., Pfeifer, R., &amp;amp; Wehner, R. (1998). Modeling visual landmark navigation with autonomous agents. In N.  Elsner &amp;amp; R.  Wehner (Eds.), &lt;em&gt;Proc. Neurobiol. Conf. Göttingen&lt;/em&gt; Stuttgart: Georg Thieme Verlag.&lt;/div&gt;</apa_indent>
+<lncs>Lambrinos, D., Möller, R., Pfeifer, R., Wehner, R.: Modeling visual landmark navigation with autonomous agents. In: Elsner, N. and Wehner, R. (eds.) Proc. Neurobiol. Conf. Göttingen.  Georg Thieme Verlag, Stuttgart (1998).</lncs>
+<mla>Lambrinos, D., Möller, Ralf, Pfeifer, R., and Wehner, R. “Modeling visual landmark navigation with autonomous agents”. &lt;em&gt;Proc. Neurobiol. Conf. Göttingen&lt;/em&gt;. Ed. N. Elsner and R. Wehner. Stuttgart: Georg Thieme Verlag, 1998.</mla>
+<ieee>D. Lambrinos, et al., “Modeling visual landmark navigation with autonomous agents”, &lt;em&gt;Proc. Neurobiol. Conf. Göttingen&lt;/em&gt;, N. Elsner and R. Wehner, eds.,  Stuttgart: Georg Thieme Verlag, 1998.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lambrinos, D., Möller, Ralf, Pfeifer, R., and Wehner, R. 1998. “Modeling visual landmark navigation with autonomous agents”. In &lt;em&gt;Proc. Neurobiol. Conf. Göttingen&lt;/em&gt;, ed. N. Elsner and R. Wehner. Stuttgart: Georg Thieme Verlag.&lt;/div&gt;</chicago>
+<frontiers>Lambrinos, D., Möller, R., Pfeifer, R., and Wehner, R. (1998). “Modeling visual landmark navigation with autonomous agents” in &lt;em&gt;Proc. Neurobiol. Conf. Göttingen&lt;/em&gt;, ed. N.  Elsner and R.  Wehner (Stuttgart: Georg Thieme Verlag).</frontiers>
+<angewandte-chemie>D.  Lambrinos, R.  Möller, R.  Pfeifer, and R.  Wehner, in &lt;em&gt;Proc. Neurobiol. Conf. Göttingen&lt;/em&gt; (Eds.: N. Elsner, R. Wehner), Georg Thieme Verlag, Stuttgart, &lt;strong&gt;1998&lt;/strong&gt;.</angewandte-chemie>
+<apa>Lambrinos, D., Möller, R., Pfeifer, R., &amp;amp; Wehner, R. (1998). Modeling visual landmark navigation with autonomous agents. In N.  Elsner &amp;amp; R.  Wehner (Eds.), &lt;em&gt;Proc. Neurobiol. Conf. Göttingen&lt;/em&gt; Stuttgart: Georg Thieme Verlag.</apa>
+<aps>D.  Lambrinos, et al., Modeling visual landmark navigation with autonomous agents, in &lt;em&gt;Proc. Neurobiol. Conf. Göttingen&lt;/em&gt;, edited by N.  Elsner and R.  Wehner (Georg Thieme Verlag, Stuttgart, 1998).</aps>
+<bio1>Lambrinos D, Möller R, Pfeifer R, Wehner R (1998) &lt;br /&gt;Modeling visual landmark navigation with autonomous agents. &lt;br /&gt;In:  Proc. Neurobiol. Conf. Göttingen. Elsner N, Wehner R (Eds); Stuttgart: Georg Thieme Verlag.</bio1>
+<harvard1>Lambrinos, D., et al., 1998. Modeling visual landmark navigation with autonomous agents. In N.  Elsner &amp;amp; R.  Wehner, eds. &lt;em&gt;Proc. Neurobiol. Conf. Göttingen&lt;/em&gt;.  Stuttgart: Georg Thieme Verlag.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lambrinos, D., Möller, R., Pfeifer, R. &amp;amp; Wehner, R. (1998). Modeling visual landmark navigation with autonomous agents. &lt;em&gt;Proc. Neurobiol. Conf. Göttingen&lt;/em&gt;. Stuttgart: Georg Thieme Verlag.&lt;/div&gt;</dgps>
+<ama>Lambrinos D, Möller R, Pfeifer R, Wehner R. Modeling visual landmark navigation with autonomous agents. In: Elsner N, Wehner R, eds. &lt;em&gt;Proc. Neurobiol. Conf. Göttingen&lt;/em&gt;. Stuttgart: Georg Thieme Verlag;  1998.</ama>
+<default>Lambrinos D, Möller R, Pfeifer R, Wehner R (1998)  &lt;br /&gt;In:  Proc. Neurobiol. Conf. Göttingen. Elsner N, Wehner R (Eds);Stuttgart: Georg Thieme Verlag.</default>
+<wels>Lambrinos, D.; Möller, R.; Pfeifer, R.; Wehner, R. (1998): Modeling visual landmark navigation with autonomous agents. In: N. Elsner; R. Wehner (Hrsg.):  Proc. Neurobiol. Conf. Göttingen. Stuttgart: Georg Thieme Verlag.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1936962</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-12-08T15:36:16Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-09T08:24:37Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1936962</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1936962</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

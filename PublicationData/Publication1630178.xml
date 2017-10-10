@@ -1,0 +1,101 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>THERMODYNAMICS OF A PION GAS</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">David</namePart>
+  <namePart type="family">Miller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">63473</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">1977</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>PHYSICS LETTERS A</title></titleInfo>
+  <identifier type="issn">0375-9601</identifier>
+  <identifier type="INSPIRE">124734</identifier>
+  <identifier type="ISI">A1977DK74400005</identifier><identifier type="doi">10.1016/0375-9601(77)90616-8</identifier>
+<part><detail type="volume"><number>61</number></detail><detail type="issue"><number>5</number></detail><extent unit="pages">291-292</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Miller, D. (1977): THERMODYNAMICS OF A PION GAS &lt;em&gt;PHYSICS LETTERS A&lt;/em&gt;,61:(5): 291-292.</wels>
+<default>Miller D (1977) &lt;br /&gt;PHYSICS LETTERS A 61(5): 291-292.</default>
+<ama>Miller D. THERMODYNAMICS OF A PION GAS. &lt;em&gt;PHYSICS LETTERS A&lt;/em&gt;. 1977;61(5):291-292.</ama>
+<harvard1>Miller, D., 1977. THERMODYNAMICS OF A PION GAS. &lt;em&gt;PHYSICS LETTERS A&lt;/em&gt;, 61(5), p 291-292.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Miller, D. (1977). THERMODYNAMICS OF A PION GAS. &lt;em&gt;PHYSICS LETTERS A&lt;/em&gt;, &lt;em&gt;61&lt;/em&gt;(5), 291-292. ELSEVIER SCIENCE BV. doi:10.1016/0375-9601(77)90616-8.&lt;/div&gt;</dgps>
+<bio1>Miller D (1977) &lt;br /&gt;THERMODYNAMICS OF A PION GAS.&lt;br /&gt;PHYSICS LETTERS A 61(5): 291-292.</bio1>
+<aps>D.  Miller, THERMODYNAMICS OF A PION GAS, PHYSICS LETTERS A &lt;strong&gt;61&lt;/strong&gt;, 291-292 (1977).</aps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Miller, David. 1977. “THERMODYNAMICS OF A PION GAS”. &lt;em&gt;PHYSICS LETTERS A&lt;/em&gt; 61 (5): 291-292.&lt;/div&gt;</chicago>
+<angewandte-chemie>D.  Miller, “THERMODYNAMICS OF A PION GAS”, &lt;em&gt;PHYSICS LETTERS A&lt;/em&gt;, &lt;strong&gt;1977&lt;/strong&gt;, &lt;em&gt;61&lt;/em&gt;, 291-292.</angewandte-chemie>
+<apa>Miller, D. (1977). THERMODYNAMICS OF A PION GAS. &lt;em&gt;PHYSICS LETTERS A&lt;/em&gt;, &lt;em&gt;61&lt;/em&gt;(5), 291-292.</apa>
+<frontiers>Miller, D. (1977). THERMODYNAMICS OF A PION GAS. &lt;em&gt;PHYSICS LETTERS A&lt;/em&gt; 61, 291-292.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Miller, D. (1977). THERMODYNAMICS OF A PION GAS. &lt;em&gt;PHYSICS LETTERS A&lt;/em&gt;, &lt;em&gt;61&lt;/em&gt;(5), 291-292.&lt;/div&gt;</apa_indent>
+<ieee>D. Miller, “THERMODYNAMICS OF A PION GAS”, &lt;em&gt;PHYSICS LETTERS A&lt;/em&gt;,  vol. 61, 1977,  pp. 291-292.</ieee>
+<mla>Miller, David. “THERMODYNAMICS OF A PION GAS”. &lt;em&gt;PHYSICS LETTERS A&lt;/em&gt; 61.5 (1977): 291-292.</mla>
+<lncs>Miller, D.: THERMODYNAMICS OF A PION GAS. PHYSICS LETTERS A. 61, 291-292 (1977).</lncs>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1630178</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:31:05Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-08-30T07:07:25Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1630178</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1630178</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

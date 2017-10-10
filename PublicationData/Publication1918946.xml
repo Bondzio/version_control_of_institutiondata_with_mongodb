@@ -1,0 +1,110 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference abstract</genre>
+
+<titleInfo><title>Index Structures in Biological Sequence Analysis: From Simplicity to Complexity and Back</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Jens</namePart>
+  <namePart type="family">Stoye</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">65864</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-4656-7155</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Research Group J. Stoye</namePart>
+  <identifier type="unibi">33067262</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Genominformatik</namePart>
+  <identifier type="unibi">66100</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+<name type="conference">
+  <namePart>JOBIM 2006</namePart>
+</name>
+
+
+
+
+
+
+
+<originInfo><dateIssued encoding="w3cdtf">2006</dateIssued><place><placeTerm type="text">Bordeaux, France</placeTerm></place>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host">
+<part><extent unit="pages">3-3</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Stoye, J. (2006): Index Structures in Biological Sequence Analysis: From Simplicity to Complexity and Back.  S. 3-3.</wels>
+<default>Stoye J (2006)  &lt;br /&gt;Presented at the JOBIM 2006, Bordeaux, France.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Stoye, J. (2006). Index Structures in Biological Sequence Analysis: From Simplicity to Complexity and Back (S. 3-3). Gehalten auf der JOBIM 2006.&lt;/div&gt;</dgps>
+<ama>Stoye J. Index Structures in Biological Sequence Analysis: From Simplicity to Complexity and Back. Presented at the JOBIM 2006, Bordeaux, France.</ama>
+<harvard1>Stoye, J., 2006. Index Structures in Biological Sequence Analysis: From Simplicity to Complexity and Back. Presented at the JOBIM 2006, Bordeaux, France.</harvard1>
+<aps>J.  Stoye, Index Structures in Biological Sequence Analysis: From Simplicity to Complexity and Back, (2006), p. 3-3.</aps>
+<bio1>Stoye J (2006) &lt;br /&gt;Index Structures in Biological Sequence Analysis: From Simplicity to Complexity and Back. &lt;br /&gt;Presented at the JOBIM 2006, Bordeaux, France.</bio1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Stoye, Jens. 2006. “Index Structures in Biological Sequence Analysis: From Simplicity to Complexity and Back”. Presented at the JOBIM 2006, Bordeaux, France , 3-3.&lt;/div&gt;</chicago>
+<apa>Stoye, J. (2006). &lt;em&gt;Index Structures in Biological Sequence Analysis: From Simplicity to Complexity and Back&lt;/em&gt;. Presented at the JOBIM 2006, Bordeaux, France.</apa>
+<angewandte-chemie>J.  Stoye, &lt;strong&gt;2006&lt;/strong&gt;, p. 3-3.</angewandte-chemie>
+<frontiers>Stoye, J. (2006).“Index Structures in Biological Sequence Analysis: From Simplicity to Complexity and Back”. Presented at the JOBIM 2006, Bordeaux, France.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Stoye, J. (2006). &lt;em&gt;Index Structures in Biological Sequence Analysis: From Simplicity to Complexity and Back&lt;/em&gt;. Presented at the JOBIM 2006, Bordeaux, France.&lt;/div&gt;</apa_indent>
+<ieee>J. Stoye, “Index Structures in Biological Sequence Analysis: From Simplicity to Complexity and Back”, Presented at the JOBIM 2006, Bordeaux, France, 2006.</ieee>
+<mla>Stoye, Jens. “Index Structures in Biological Sequence Analysis: From Simplicity to Complexity and Back”. Presented at the JOBIM 2006, Bordeaux, France, 2006.</mla>
+<lncs>Stoye, J.: Index Structures in Biological Sequence Analysis: From Simplicity to Complexity and Back. Presented at the JOBIM 2006, Bordeaux, France (2006).</lncs>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1918946</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-11-23T10:51:07Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-01-18T09:11:14Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1918946</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1918946</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

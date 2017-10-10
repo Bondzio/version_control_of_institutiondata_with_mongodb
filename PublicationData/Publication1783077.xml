@@ -1,0 +1,110 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>An efficient low-energy electron-spin-polarization analyzer</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">M.</namePart>
+  <namePart type="family">Erbudak</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Norbert</namePart>
+  <namePart type="family">Müller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">74650</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Lehrstuhl für Molekül- und Oberflächenphysik</namePart>
+  <identifier type="unibi">29133467</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Centrum für Biotechnologie</namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The spin-orbit coupling in the scattering of electrons at the surface of a gold crystal induces a spin-dependent absorption of electrons. A huge spin dependence of the absorbed current is observed, which promises the realization of an electron-spin-polarization analyzer with an efficiency of over 10 -2. Applied Physics Letters is copyrighted by The American Institute of Physics.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="mueller_13.pdf">https://pub.uni-bielefeld.de/download/1783077/2314118</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1981</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Applied physics letters</title></titleInfo>
+  <identifier type="issn">0003-6951</identifier>
+  <identifier type="ISI">A1981LJ96300039</identifier><identifier type="urn">urn:nbn:de:0070-pub-17830770</identifier><identifier type="doi">10.1063/1.92418</identifier>
+<part><detail type="volume"><number>38</number></detail><detail type="issue"><number>7</number></detail><extent unit="pages">575-577</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa>Erbudak, M., &amp;amp; Müller, N. (1981). An efficient low-energy electron-spin-polarization analyzer. &lt;em&gt;Applied physics letters&lt;/em&gt;, &lt;em&gt;38&lt;/em&gt;(7), 575-577.</apa>
+<angewandte-chemie>M.  Erbudak, and N.  Müller, “An efficient low-energy electron-spin-polarization analyzer”, &lt;em&gt;Applied physics letters&lt;/em&gt;, &lt;strong&gt;1981&lt;/strong&gt;, &lt;em&gt;38&lt;/em&gt;, 575-577.</angewandte-chemie>
+<frontiers>Erbudak, M., and Müller, N. (1981). An efficient low-energy electron-spin-polarization analyzer. &lt;em&gt;Applied physics letters&lt;/em&gt; 38, 575-577.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Erbudak, M., and Müller, Norbert. 1981. “An efficient low-energy electron-spin-polarization analyzer”. &lt;em&gt;Applied physics letters&lt;/em&gt; 38 (7): 575-577.&lt;/div&gt;</chicago>
+<ieee>M. Erbudak and N. Müller, “An efficient low-energy electron-spin-polarization analyzer”, &lt;em&gt;Applied physics letters&lt;/em&gt;,  vol. 38, 1981,  pp. 575-577.</ieee>
+<lncs>Erbudak, M., Müller, N.: An efficient low-energy electron-spin-polarization analyzer. Applied physics letters. 38, 575-577 (1981).</lncs>
+<mla>Erbudak, M., and Müller, Norbert. “An efficient low-energy electron-spin-polarization analyzer”. &lt;em&gt;Applied physics letters&lt;/em&gt; 38.7 (1981): 575-577.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Erbudak, M., &amp;amp; Müller, N. (1981). An efficient low-energy electron-spin-polarization analyzer. &lt;em&gt;Applied physics letters&lt;/em&gt;, &lt;em&gt;38&lt;/em&gt;(7), 575-577.&lt;/div&gt;</apa_indent>
+<wels>Erbudak, M.; Müller, N. (1981): An efficient low-energy electron-spin-polarization analyzer &lt;em&gt;Applied physics letters&lt;/em&gt;,38:(7): 575-577.</wels>
+<default>Erbudak M, Müller N (1981) &lt;br /&gt;Applied physics letters 38(7): 575-577.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Erbudak, M. &amp;amp; Müller, N. (1981). An efficient low-energy electron-spin-polarization analyzer. &lt;em&gt;Applied physics letters&lt;/em&gt;, &lt;em&gt;38&lt;/em&gt;(7), 575-577. doi:10.1063/1.92418.&lt;/div&gt;</dgps>
+<harvard1>Erbudak, M., &amp;amp; Müller, N., 1981. An efficient low-energy electron-spin-polarization analyzer. &lt;em&gt;Applied physics letters&lt;/em&gt;, 38(7), p 575-577.</harvard1>
+<ama>Erbudak M, Müller N. An efficient low-energy electron-spin-polarization analyzer. &lt;em&gt;Applied physics letters&lt;/em&gt;. 1981;38(7):575-577.</ama>
+<bio1>Erbudak M, Müller N (1981) &lt;br /&gt;An efficient low-energy electron-spin-polarization analyzer.&lt;br /&gt;Applied physics letters 38(7): 575-577.</bio1>
+<aps>M.  Erbudak and N.  Müller, An efficient low-energy electron-spin-polarization analyzer, Applied physics letters &lt;strong&gt;38&lt;/strong&gt;, 575-577 (1981).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1783077</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1783077</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1783077</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

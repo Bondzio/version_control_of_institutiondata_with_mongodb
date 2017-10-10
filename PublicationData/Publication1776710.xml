@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Cloning, sequencing, and overexpression of gene 16 of salmonella bacteriophage P22</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Bettina</namePart>
+  <namePart type="family">Umlauf</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Brigitte</namePart>
+  <namePart type="family">Dreiseikelmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">22023</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Gentechnologie/Mikrobiologie</namePart>
+  <identifier type="unibi">2685250</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">It has been suggested that gene product 16 of bacteriophage P22 forms a pore for DNA transfer and/or that it functions as a pilot protein guiding the DNA across the membrane. We have cloned gene 16 and determined the nucleotide sequence. Within the sequenced region there is an open reading frame that could encode a protein of 609 amino acids having a molecular weight of 64,366. The hydropathic plot of this protein does not reveal putative membrane-spanning regions as expected for a protein forming a membrane pore. Overproduction of gene product 16 in Escherichia coli was successful only in a mutant in which the La protease was inactivated. Gene 16 mutants of phage P22 were not able to infect recBCD mutants of Salmonella typhimurium nor was protein 16, synthesized in E. colifrom a plasmid, able to substitute for the pilot protein of phage T4. It seems that gene product 16 is not a pilot protein in the meaning of binding to the ends of linear DNA, thus protecting it from degradation by nucleases.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="dreiseikelmann_13.pdf">https://pub.uni-bielefeld.de/download/1776710/2312204</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1992</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Virology</title></titleInfo>
+  <identifier type="issn">0042-6822</identifier>
+  <identifier type="MEDLINE">1585633</identifier>
+  <identifier type="ISI">A1992HU51100009</identifier><identifier type="urn">urn:nbn:de:0070-pub-17767101</identifier><identifier type="doi">10.1016/0042-6822(92)90503-H</identifier>
+<part><detail type="volume"><number>188</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">495-501</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Umlauf B, Dreiseikelmann B (1992) &lt;br /&gt;Virology 188(2): 495-501.</default>
+<wels>Umlauf, B.; Dreiseikelmann, B. (1992): Cloning, sequencing, and overexpression of gene 16 of salmonella bacteriophage P22 &lt;em&gt;Virology&lt;/em&gt;,188:(2): 495-501.</wels>
+<bio1>Umlauf B, Dreiseikelmann B (1992) &lt;br /&gt;Cloning, sequencing, and overexpression of gene 16 of salmonella bacteriophage P22.&lt;br /&gt;Virology 188(2): 495-501.</bio1>
+<aps>B.  Umlauf and B.  Dreiseikelmann, Cloning, sequencing, and overexpression of gene 16 of salmonella bacteriophage P22, Virology &lt;strong&gt;188&lt;/strong&gt;, 495-501 (1992).</aps>
+<harvard1>Umlauf, B., &amp;amp; Dreiseikelmann, B., 1992. Cloning, sequencing, and overexpression of gene 16 of salmonella bacteriophage P22. &lt;em&gt;Virology&lt;/em&gt;, 188(2), p 495-501.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Umlauf, B. &amp;amp; Dreiseikelmann, B. (1992). Cloning, sequencing, and overexpression of gene 16 of salmonella bacteriophage P22. &lt;em&gt;Virology&lt;/em&gt;, &lt;em&gt;188&lt;/em&gt;(2), 495-501. doi:10.1016/0042-6822(92)90503-H.&lt;/div&gt;</dgps>
+<ama>Umlauf B, Dreiseikelmann B. Cloning, sequencing, and overexpression of gene 16 of salmonella bacteriophage P22. &lt;em&gt;Virology&lt;/em&gt;. 1992;188(2):495-501.</ama>
+<frontiers>Umlauf, B., and Dreiseikelmann, B. (1992). Cloning, sequencing, and overexpression of gene 16 of salmonella bacteriophage P22. &lt;em&gt;Virology&lt;/em&gt; 188, 495-501.</frontiers>
+<apa>Umlauf, B., &amp;amp; Dreiseikelmann, B. (1992). Cloning, sequencing, and overexpression of gene 16 of salmonella bacteriophage P22. &lt;em&gt;Virology&lt;/em&gt;, &lt;em&gt;188&lt;/em&gt;(2), 495-501.</apa>
+<angewandte-chemie>B.  Umlauf, and B.  Dreiseikelmann, “Cloning, sequencing, and overexpression of gene 16 of salmonella bacteriophage P22”, &lt;em&gt;Virology&lt;/em&gt;, &lt;strong&gt;1992&lt;/strong&gt;, &lt;em&gt;188&lt;/em&gt;, 495-501.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Umlauf, Bettina, and Dreiseikelmann, Brigitte. 1992. “Cloning, sequencing, and overexpression of gene 16 of salmonella bacteriophage P22”. &lt;em&gt;Virology&lt;/em&gt; 188 (2): 495-501.&lt;/div&gt;</chicago>
+<lncs>Umlauf, B., Dreiseikelmann, B.: Cloning, sequencing, and overexpression of gene 16 of salmonella bacteriophage P22. Virology. 188, 495-501 (1992).</lncs>
+<mla>Umlauf, Bettina, and Dreiseikelmann, Brigitte. “Cloning, sequencing, and overexpression of gene 16 of salmonella bacteriophage P22”. &lt;em&gt;Virology&lt;/em&gt; 188.2 (1992): 495-501.</mla>
+<ieee>B. Umlauf and B. Dreiseikelmann, “Cloning, sequencing, and overexpression of gene 16 of salmonella bacteriophage P22”, &lt;em&gt;Virology&lt;/em&gt;,  vol. 188, 1992,  pp. 495-501.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Umlauf, B., &amp;amp; Dreiseikelmann, B. (1992). Cloning, sequencing, and overexpression of gene 16 of salmonella bacteriophage P22. &lt;em&gt;Virology&lt;/em&gt;, &lt;em&gt;188&lt;/em&gt;(2), 495-501.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776710</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776710</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776710</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

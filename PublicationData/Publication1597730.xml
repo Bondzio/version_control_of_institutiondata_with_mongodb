@@ -1,0 +1,118 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Imitation learning and response facilitation in embodied agents</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Stefan</namePart>
+  <namePart type="family">Kopp</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">14743</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-4047-9277</description></name>
+<name type="personal">
+  <namePart type="given">Olaf</namePart>
+  <namePart type="family">Graeser</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Research Institute for Cognition and Robotics</namePart>
+  <identifier type="unibi">5408013</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Sociable Agents</namePart>
+  <identifier type="unibi">24110177</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Wissensbasierte Systeme</namePart>
+  <identifier type="unibi">10044</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+<name type="conference">
+  <namePart>6th International Conference on Intelligent Virtual Agents</namePart>
+</name>
+
+
+
+
+
+
+<abstract lang="eng">Imitation is supposedly a fundamental mechanism for humans to learn new actions and to gain knowledge about another&apos;s intentions. The basis of this behavior seems to be a direct influencing of the motor system by the perceptual system, affording fast, selective enhancement of a motor response already in the repertoire (response facilitation) as well as learning and delayed reproduction of new actions (true imitation). In this paper, we present an approach to attain these capabilities in virtual embodied agents. Building upon a computational motor control model, our approach connects visual representations of observed hand and arm movements to graph-based representations of motor commands. Forward and inverse models are employed to allow for both fast mimicking responses as well as imitation learning.</abstract>
+
+<originInfo><publisher>Springer</publisher><dateIssued encoding="w3cdtf">2006</dateIssued><place><placeTerm type="text">Marina Del Rey, CA, USA</placeTerm></place>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Inelligent Virtual Agents, Proceedings</title></titleInfo>
+  <identifier type="issn">0302-9743</identifier>
+  <identifier type="isbn">3-540-37593-7</identifier>
+  <identifier type="ISI">000240268400003</identifier><identifier type="doi">10.1007/11821830_3</identifier>
+<part><extent unit="pages">28-41</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>S. Kopp and O. Graeser, “Imitation learning and response facilitation in embodied agents”, &lt;em&gt;Inelligent Virtual Agents, Proceedings&lt;/em&gt;, Lecture Notes in Artificial Intelligence, 4133,  Berlin: Springer, 2006,  pp.28-41.</ieee>
+<mla>Kopp, Stefan, and Graeser, Olaf. “Imitation learning and response facilitation in embodied agents”. &lt;em&gt;Inelligent Virtual Agents, Proceedings&lt;/em&gt;. Berlin: Springer, 2006. Lecture Notes in Artificial Intelligence, 4133. 28-41.</mla>
+<lncs>Kopp, S., Graeser, O.: Imitation learning and response facilitation in embodied agents. Inelligent Virtual Agents, Proceedings. Lecture Notes in Artificial Intelligence, 4133. p. 28-41. Springer, Berlin (2006).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kopp, S., &amp;amp; Graeser, O. (2006). Imitation learning and response facilitation in embodied agents. &lt;em&gt;Inelligent Virtual Agents, Proceedings&lt;/em&gt;, 28-41.&lt;/div&gt;</apa_indent>
+<apa>Kopp, S., &amp;amp; Graeser, O. (2006). Imitation learning and response facilitation in embodied agents. &lt;em&gt;Inelligent Virtual Agents, Proceedings&lt;/em&gt;, 28-41.</apa>
+<angewandte-chemie>S.  Kopp, and O.  Graeser, in &lt;em&gt;Inelligent Virtual Agents, Proceedings&lt;/em&gt;, Springer, Berlin, &lt;strong&gt;2006&lt;/strong&gt;, p. 28-41.</angewandte-chemie>
+<frontiers>Kopp, S., and Graeser, O. (2006). “Imitation learning and response facilitation in embodied agents” in &lt;em&gt;Inelligent Virtual Agents, Proceedings&lt;/em&gt; Lecture Notes in Artificial Intelligence, 4133 (Berlin: Springer), 28-41.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kopp, Stefan, and Graeser, Olaf. 2006. “Imitation learning and response facilitation in embodied agents”. In &lt;em&gt;Inelligent Virtual Agents, Proceedings&lt;/em&gt;, 28-41. Lecture Notes in Artificial Intelligence, 4133. Berlin: Springer.&lt;/div&gt;</chicago>
+<harvard1>Kopp, S., &amp;amp; Graeser, O., 2006. Imitation learning and response facilitation in embodied agents. In &lt;em&gt;Inelligent Virtual Agents, Proceedings&lt;/em&gt;. Lecture Notes in Artificial Intelligence, 4133.  Berlin: Springer, pp. 28-41.</harvard1>
+<ama>Kopp S, Graeser O. Imitation learning and response facilitation in embodied agents. In:  &lt;em&gt;Inelligent Virtual Agents, Proceedings&lt;/em&gt;. Lecture Notes in Artificial Intelligence, 4133. Berlin: Springer;  2006: 28-41.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kopp, S. &amp;amp; Graeser, O. (2006). Imitation learning and response facilitation in embodied agents (Lecture Notes in Artificial Intelligence, 4133). &lt;em&gt;Inelligent Virtual Agents, Proceedings&lt;/em&gt; (S. 28-41). Gehalten auf der 6th International Conference on Intelligent Virtual Agents, Berlin: Springer. doi:10.1007/11821830_3.&lt;/div&gt;</dgps>
+<aps>S.  Kopp and O.  Graeser, Imitation learning and response facilitation in embodied agents, in &lt;em&gt;Inelligent Virtual Agents, Proceedings&lt;/em&gt;, Lecture Notes in Artificial Intelligence, 4133 (Springer, Berlin, 2006), p. 28-41.</aps>
+<bio1>Kopp S, Graeser O (2006) &lt;br /&gt;Imitation learning and response facilitation in embodied agents. &lt;br /&gt;In:  Inelligent Virtual Agents, Proceedings.  Lecture Notes in Artificial Intelligence, 4133,  Berlin: Springer:  28-41.</bio1>
+<wels>Kopp, S.; Graeser, O. (2006): Imitation learning and response facilitation in embodied agents. In: Inelligent Virtual Agents, Proceedings. Berlin: Springer. (Lecture Notes in Artificial Intelligence, 4133, ).  S. 28-41.</wels>
+<default>Kopp S, Graeser O (2006)  &lt;br /&gt;In:  Inelligent Virtual Agents, Proceedings.  Lecture Notes in Artificial Intelligence, 4133, . Berlin: Springer:  28-41.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1597730</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:19:00Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2015-12-16T08:08:38Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1597730</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1597730</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,116 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The analysis of Polyakov loop and spin correlators in finite volumes</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Jürgen</namePart>
+  <namePart type="family">Engels</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40338</identifier></name>
+<name type="personal">
+  <namePart type="given">V. K.</namePart>
+  <namePart type="family">Mitrjushkin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Thomas</namePart>
+  <namePart type="family">Neuhaus</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">23561533</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Elementarteilchen und Quantenfelder</namePart>
+  <identifier type="unibi">23470443</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We derive an analytic expression for point-to-point correlation functions of the Polyakov loop based on the transfer matrix formalism. The contributions from the eigenvalues of the transfer matrix including and beyond the mass gap are investigated both for the 2d Ising model and in finite temperature SU(2) gauge theory. We find that the leading matrix element shows similar scaling properties in both models. Just above the critical point we obtain for SU(2) a Debye screening mass mu(D)/T almost-equal-to 4, independent of the volume.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Engels_006.pdf">https://pub.uni-bielefeld.de/download/1776246/2312123</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1994</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Nuclear Physics, B: Proceedings Supplements</title></titleInfo>
+  <identifier type="issn">0920-5632</identifier>
+  <identifier type="arXiv">hep-lat/9311055</identifier>
+  <identifier type="INSPIRE">360732</identifier>
+  <identifier type="ISI">A1994NJ62500058</identifier><identifier type="urn">urn:nbn:de:0070-pub-17762461</identifier><identifier type="doi">10.1016/0920-5632(94)90372-7</identifier>
+<part><detail type="volume"><number>34</number></detail><extent unit="pages">298-300</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, J., Mitrjushkin, V. K., &amp;amp; Neuhaus, T. (1994). The analysis of Polyakov loop and spin correlators in finite volumes. &lt;em&gt;Nuclear Physics, B: Proceedings Supplements&lt;/em&gt;, &lt;em&gt;34&lt;/em&gt;, 298-300.&lt;/div&gt;</apa_indent>
+<mla>Engels, Jürgen, Mitrjushkin, V. K., and Neuhaus, Thomas. “The analysis of Polyakov loop and spin correlators in finite volumes”. &lt;em&gt;Nuclear Physics, B: Proceedings Supplements&lt;/em&gt; 34 (1994): 298-300.</mla>
+<lncs>Engels, J., Mitrjushkin, V.K., Neuhaus, T.: The analysis of Polyakov loop and spin correlators in finite volumes. Nuclear Physics, B: Proceedings Supplements. 34, 298-300 (1994).</lncs>
+<ieee>J. Engels, V.K. Mitrjushkin, and T. Neuhaus, “The analysis of Polyakov loop and spin correlators in finite volumes”, &lt;em&gt;Nuclear Physics, B: Proceedings Supplements&lt;/em&gt;,  vol. 34, 1994,  pp. 298-300.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, Jürgen, Mitrjushkin, V. K., and Neuhaus, Thomas. 1994. “The analysis of Polyakov loop and spin correlators in finite volumes”. &lt;em&gt;Nuclear Physics, B: Proceedings Supplements&lt;/em&gt; 34: 298-300.&lt;/div&gt;</chicago>
+<frontiers>Engels, J., Mitrjushkin, V. K., and Neuhaus, T. (1994). The analysis of Polyakov loop and spin correlators in finite volumes. &lt;em&gt;Nuclear Physics, B: Proceedings Supplements&lt;/em&gt; 34, 298-300.</frontiers>
+<angewandte-chemie>J.  Engels, V. K.  Mitrjushkin, and T.  Neuhaus, “The analysis of Polyakov loop and spin correlators in finite volumes”, &lt;em&gt;Nuclear Physics, B: Proceedings Supplements&lt;/em&gt;, &lt;strong&gt;1994&lt;/strong&gt;, &lt;em&gt;34&lt;/em&gt;, 298-300.</angewandte-chemie>
+<apa>Engels, J., Mitrjushkin, V. K., &amp;amp; Neuhaus, T. (1994). The analysis of Polyakov loop and spin correlators in finite volumes. &lt;em&gt;Nuclear Physics, B: Proceedings Supplements&lt;/em&gt;, &lt;em&gt;34&lt;/em&gt;, 298-300.</apa>
+<bio1>Engels J, Mitrjushkin VK, Neuhaus T (1994) &lt;br /&gt;The analysis of Polyakov loop and spin correlators in finite volumes.&lt;br /&gt;Nuclear Physics, B: Proceedings Supplements 34: 298-300.</bio1>
+<aps>J.  Engels, V. K.  Mitrjushkin, and T.  Neuhaus, The analysis of Polyakov loop and spin correlators in finite volumes, Nuclear Physics, B: Proceedings Supplements &lt;strong&gt;34&lt;/strong&gt;, 298-300 (1994).</aps>
+<ama>Engels J, Mitrjushkin VK, Neuhaus T. The analysis of Polyakov loop and spin correlators in finite volumes. &lt;em&gt;Nuclear Physics, B: Proceedings Supplements&lt;/em&gt;. 1994;34:298-300.</ama>
+<harvard1>Engels, J., Mitrjushkin, V.K., &amp;amp; Neuhaus, T., 1994. The analysis of Polyakov loop and spin correlators in finite volumes. &lt;em&gt;Nuclear Physics, B: Proceedings Supplements&lt;/em&gt;, 34, p 298-300.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, J., Mitrjushkin, V.K. &amp;amp; Neuhaus, T. (1994). The analysis of Polyakov loop and spin correlators in finite volumes. &lt;em&gt;Nuclear Physics, B: Proceedings Supplements&lt;/em&gt;, &lt;em&gt;34&lt;/em&gt;, 298-300. doi:10.1016/0920-5632(94)90372-7.&lt;/div&gt;</dgps>
+<default>Engels J, Mitrjushkin VK, Neuhaus T (1994) &lt;br /&gt;Nuclear Physics, B: Proceedings Supplements 34: 298-300.</default>
+<wels>Engels, J.; Mitrjushkin, V. K.; Neuhaus, T. (1994): The analysis of Polyakov loop and spin correlators in finite volumes &lt;em&gt;Nuclear Physics, B: Proceedings Supplements&lt;/em&gt;,34: 298-300.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776246</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776246</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776246</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

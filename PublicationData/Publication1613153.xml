@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Epidemic spreading in a variety of scale free networks</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Dimitry</namePart>
+  <namePart type="family">Volchenkov</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40284</identifier></name>
+<name type="personal">
+  <namePart type="given">L</namePart>
+  <namePart type="family">Volchenkova</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Philippe</namePart>
+  <namePart type="family">Blanchard</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40322</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">29104678</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We have shown that the epidemic spreading in scale-free networks is very sensitive to the statistics of degree distribution characterized by the index gamma, the effective spreading rate lambda, the social strategy used by individuals to choose a partner, and the policy of administrating a cure to an infected node. Depending on the interplay of these four factors, the stationary fractions of infected population F-gamma as well as the epidemic threshold properties can be essentially different. We have given an example of the evolutionary scale-free network which is disposed to the spreading and the persistence of infections at any spreading rate lambda&gt;0 for any gamma. Probably, it is impossible to obtain a simple immunization program that can be simultaneously effective for all types of scale-free networks. We have also studied the dynamical solutions for the evolution equation governed by the epidemic spreading in scale-free networks and found that for the case of vanishingly small cure rate delta&lt;&lt;1 the initial configuration of infected nodes would feature the solution for very long times.</abstract>
+
+<originInfo><publisher>AMERICAN PHYSICAL SOC</publisher><dateIssued encoding="w3cdtf">2002</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>PHYSICAL REVIEW E</title></titleInfo>
+  <identifier type="issn">1063-651X</identifier>
+  <identifier type="eIssn">1095-3787</identifier>
+  <identifier type="MEDLINE">12443289</identifier>
+  <identifier type="ISI">000179176300048</identifier><identifier type="doi">10.1103/PhysRevE.66.046137</identifier>
+<part><detail type="volume"><number>66</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">6137-6146</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>Volchenkov D, Volchenkova L, Blanchard P (2002) &lt;br /&gt;Epidemic spreading in a variety of scale free networks.&lt;br /&gt;PHYSICAL REVIEW E 66(4): 6137-6146.</bio1>
+<aps> D.  Volchenkov, L.  Volchenkova, and P.  Blanchard, Epidemic spreading in a variety of scale free networks, PHYSICAL REVIEW E &lt;strong&gt;66&lt;/strong&gt;, 6137-6146 (2002).</aps>
+<harvard1>Volchenkov, D., Volchenkova, L., &amp;amp; Blanchard, P., 2002. Epidemic spreading in a variety of scale free networks. &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt;, 66(4), p 6137-6146.</harvard1>
+<ama>Volchenkov D, Volchenkova L, Blanchard P. Epidemic spreading in a variety of scale free networks. &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt;. 2002;66(4):6137-6146.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Volchenkov, D., Volchenkova, L. &amp;amp; Blanchard, P. (2002). Epidemic spreading in a variety of scale free networks. &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt;, &lt;em&gt;66&lt;/em&gt;(4), 6137-6146. AMERICAN PHYSICAL SOC. doi:10.1103/PhysRevE.66.046137.&lt;/div&gt;</dgps>
+<default>Volchenkov D, Volchenkova L, Blanchard P (2002) &lt;br /&gt;PHYSICAL REVIEW E 66(4): 6137-6146.</default>
+<wels>Volchenkov, D.; Volchenkova, L.; Blanchard, P. (2002): Epidemic spreading in a variety of scale free networks &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt;,66:(4): 6137-6146.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Volchenkov, D., Volchenkova, L., &amp;amp; Blanchard, P. (2002). Epidemic spreading in a variety of scale free networks. &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt;, &lt;em&gt;66&lt;/em&gt;(4), 6137-6146.&lt;/div&gt;</apa_indent>
+<mla>Volchenkov, Dimitry, Volchenkova, L, and Blanchard, Philippe. “Epidemic spreading in a variety of scale free networks”. &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt; 66.4 (2002): 6137-6146.</mla>
+<lncs> Volchenkov, D., Volchenkova, L., Blanchard, P.: Epidemic spreading in a variety of scale free networks. PHYSICAL REVIEW E. 66, 6137-6146 (2002).</lncs>
+<ieee> D. Volchenkov, L. Volchenkova, and P. Blanchard, “Epidemic spreading in a variety of scale free networks”, &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt;,  vol. 66, 2002,  pp. 6137-6146.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Volchenkov, Dimitry, Volchenkova, L, and Blanchard, Philippe. 2002. “Epidemic spreading in a variety of scale free networks”. &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt; 66 (4): 6137-6146.&lt;/div&gt;</chicago>
+<frontiers>Volchenkov, D., Volchenkova, L., and Blanchard, P. (2002). Epidemic spreading in a variety of scale free networks. &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt; 66, 6137-6146.</frontiers>
+<apa>Volchenkov, D., Volchenkova, L., &amp;amp; Blanchard, P. (2002). Epidemic spreading in a variety of scale free networks. &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt;, &lt;em&gt;66&lt;/em&gt;(4), 6137-6146.</apa>
+<angewandte-chemie>D.  Volchenkov, L.  Volchenkova, and P.  Blanchard, “Epidemic spreading in a variety of scale free networks”, &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt;, &lt;strong&gt;2002&lt;/strong&gt;, &lt;em&gt;66&lt;/em&gt;, 6137-6146.</angewandte-chemie>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1613153</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:00:29Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-09-21T12:53:46Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1613153</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1613153</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

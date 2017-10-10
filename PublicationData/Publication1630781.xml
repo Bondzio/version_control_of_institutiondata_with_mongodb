@@ -1,0 +1,134 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Based Upon Repeat Pattern (BURP): an algorithm to characterize the long-term evolution of Staphylococcus aureus populations based on spa polymorphisms</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Alexander</namePart>
+  <namePart type="family">Mellmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Thomas</namePart>
+  <namePart type="family">Weniger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Christoph</namePart>
+  <namePart type="family">Berssenbrügge</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jörg</namePart>
+  <namePart type="family">Rothgänger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Michael</namePart>
+  <namePart type="family">Sammeth</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jens</namePart>
+  <namePart type="family">Stoye</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">65864</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-4656-7155</description></name>
+<name type="personal">
+  <namePart type="given">Dag</namePart>
+  <namePart type="family">Harmsen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Genominformatik</namePart>
+  <identifier type="unibi">66100</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group J. Stoye</namePart>
+  <identifier type="unibi">33067262</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Background: For typing of Staphylococcus aureus, DNA sequencing of the repeat region of the protein A ( spa) gene is a well established discriminatory method for outbreak investigations. Recently, it was hypothesized that this region also reflects long-term epidemiology. However, no automated and objective algorithm existed to cluster different repeat regions. In this study, the Based Upon Repeat Pattern ( BURP) implementation that is a heuristic variant of the newly described EDSI algorithm was investigated to infer the clonal relatedness of different spa types. For calibration of BURP parameters, 400 representative S. aureus strains with different spa types were characterized by MLST and clustered using eBURST as &quot;gold standard&quot; for their phylogeny. Typing concordance analysis between eBURST and BURP clustering ( spa-CC) were performed using all possible BURP parameters to determine their optimal combination. BURP was subsequently evaluated with a strain collection reflecting the breadth of diversity of S. aureus (JCM 2002; 40: 4544). Results: In total, the 400 strains exhibited 122 different MLST types. eBURST grouped them into 23 clonal complexes (CC; 354 isolates) and 33 singletons (46 isolates). BURP clustering of spa types using all possible parameter combinations and subsequent comparison with eBURST CCs resulted in concordances ranging from 8.2 to 96.2%. However, 96.2% concordance was reached only if spa types shorter than 8 repeats were excluded, which resulted in 37% excluded spa types. Therefore, the optimal combination of the BURP parameters was &quot;exclude spa types shorter than 5 repeats&quot; and &quot;cluster spa types into spa-CC if cost distances are less than 4&quot; exhibiting 95.3% concordance to eBURST. This algorithm identified 24 spa-CCs, 40 singletons, and excluded only 7.8% spa types. Analyzing the natural population with these parameters, the comparison of whole-genome micro-array groupings ( at the level of 0.31 Pearson correlation index) and spa-CCs gave a concordance of 87.1%; BURP spa-CCs vs. manually grouped spa types resulted in 95.7% concordance. Conclusion: BURP is the first automated and objective tool to infer clonal relatedness from spa repeat regions. It is able to extract an evolutionary signal rather congruent to MLST and micro-array data.</abstract>
+
+<originInfo><publisher>BIOMED CENTRAL LTD</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>BMC MICROBIOLOGY</title></titleInfo>
+  <identifier type="issn">1471-2180</identifier>
+  <identifier type="MEDLINE">17967176</identifier>
+  <identifier type="ISI">000252407300001</identifier><identifier type="doi">10.1186/1471-2180-7-98</identifier>
+<part><detail type="volume"><number>7</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">98</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Mellmann, Alexander, Weniger, Thomas, Berssenbrügge, Christoph, Rothgänger, Jörg, Sammeth, Michael, Stoye, Jens, and Harmsen, Dag. 2007. “Based Upon Repeat Pattern (BURP): an algorithm to characterize the long-term evolution of Staphylococcus aureus populations based on spa polymorphisms”. &lt;em&gt;BMC MICROBIOLOGY&lt;/em&gt; 7 (1).&lt;/div&gt;</chicago>
+<apa>Mellmann, A., Weniger, T., Berssenbrügge, C., Rothgänger, J., Sammeth, M., Stoye, J., &amp;amp; Harmsen, D. (2007). Based Upon Repeat Pattern (BURP): an algorithm to characterize the long-term evolution of Staphylococcus aureus populations based on spa polymorphisms. &lt;em&gt;BMC MICROBIOLOGY&lt;/em&gt;, &lt;em&gt;7&lt;/em&gt;(1).</apa>
+<angewandte-chemie>A.  Mellmann, T.  Weniger, C.  Berssenbrügge, J.  Rothgänger, M.  Sammeth, J.  Stoye, and D.  Harmsen, “Based Upon Repeat Pattern (BURP): an algorithm to characterize the long-term evolution of Staphylococcus aureus populations based on spa polymorphisms”, &lt;em&gt;BMC MICROBIOLOGY&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;7&lt;/em&gt;.</angewandte-chemie>
+<frontiers>Mellmann, A., Weniger, T., Berssenbrügge, C., Rothgänger, J., Sammeth, M., Stoye, J., and Harmsen, D. (2007). Based Upon Repeat Pattern (BURP): an algorithm to characterize the long-term evolution of Staphylococcus aureus populations based on spa polymorphisms. &lt;em&gt;BMC MICROBIOLOGY&lt;/em&gt; 7.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Mellmann, A., Weniger, T., Berssenbrügge, C., Rothgänger, J., Sammeth, M., Stoye, J., &amp;amp; Harmsen, D. (2007). Based Upon Repeat Pattern (BURP): an algorithm to characterize the long-term evolution of Staphylococcus aureus populations based on spa polymorphisms. &lt;em&gt;BMC MICROBIOLOGY&lt;/em&gt;, &lt;em&gt;7&lt;/em&gt;(1).&lt;/div&gt;</apa_indent>
+<ieee>A. Mellmann, et al., “Based Upon Repeat Pattern (BURP): an algorithm to characterize the long-term evolution of Staphylococcus aureus populations based on spa polymorphisms”, &lt;em&gt;BMC MICROBIOLOGY&lt;/em&gt;,  vol. 7, 2007.</ieee>
+<mla>Mellmann, Alexander, Weniger, Thomas, Berssenbrügge, Christoph, Rothgänger, Jörg, Sammeth, Michael, Stoye, Jens, and Harmsen, Dag. “Based Upon Repeat Pattern (BURP): an algorithm to characterize the long-term evolution of Staphylococcus aureus populations based on spa polymorphisms”. &lt;em&gt;BMC MICROBIOLOGY&lt;/em&gt; 7.1 (2007).</mla>
+<lncs>Mellmann, A., Weniger, T., Berssenbrügge, C., Rothgänger, J., Sammeth, M., Stoye, J., Harmsen, D.: Based Upon Repeat Pattern (BURP): an algorithm to characterize the long-term evolution of Staphylococcus aureus populations based on spa polymorphisms. BMC MICROBIOLOGY. 7, (2007).</lncs>
+<wels>Mellmann, A.; Weniger, T.; Berssenbrügge, C.; Rothgänger, J.; Sammeth, M.; Stoye, J.; Harmsen, D. (2007): Based Upon Repeat Pattern (BURP): an algorithm to characterize the long-term evolution of Staphylococcus aureus populations based on spa polymorphisms &lt;em&gt;BMC MICROBIOLOGY&lt;/em&gt;,7:(1)</wels>
+<default>Mellmann A, Weniger T, Berssenbrügge C, Rothgänger J, Sammeth M, Stoye J, Harmsen D (2007) &lt;br /&gt;BMC MICROBIOLOGY 7(1).</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Mellmann, A., Weniger, T., Berssenbrügge, C., Rothgänger, J., Sammeth, M., Stoye, J. &amp;amp; Harmsen, D. (2007). Based Upon Repeat Pattern (BURP): an algorithm to characterize the long-term evolution of Staphylococcus aureus populations based on spa polymorphisms. &lt;em&gt;BMC MICROBIOLOGY&lt;/em&gt;, &lt;em&gt;7&lt;/em&gt;(1). BIOMED CENTRAL LTD. doi:10.1186/1471-2180-7-98.&lt;/div&gt;</dgps>
+<ama>Mellmann A, Weniger T, Berssenbrügge C, et al. Based Upon Repeat Pattern (BURP): an algorithm to characterize the long-term evolution of Staphylococcus aureus populations based on spa polymorphisms. &lt;em&gt;BMC MICROBIOLOGY&lt;/em&gt;. 2007;7(1).</ama>
+<harvard1>Mellmann, A., et al., 2007. Based Upon Repeat Pattern (BURP): an algorithm to characterize the long-term evolution of Staphylococcus aureus populations based on spa polymorphisms. &lt;em&gt;BMC MICROBIOLOGY&lt;/em&gt;, 7(1).</harvard1>
+<aps>A.  Mellmann, et al., Based Upon Repeat Pattern (BURP): an algorithm to characterize the long-term evolution of Staphylococcus aureus populations based on spa polymorphisms, BMC MICROBIOLOGY &lt;strong&gt;7&lt;/strong&gt;, (2007).</aps>
+<bio1>Mellmann A, Weniger T, Berssenbrügge C, Rothgänger J, Sammeth M, Stoye J, Harmsen D (2007) &lt;br /&gt;Based Upon Repeat Pattern (BURP): an algorithm to characterize the long-term evolution of Staphylococcus aureus populations based on spa polymorphisms.&lt;br /&gt;BMC MICROBIOLOGY 7(1).</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1630781</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:05:14Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-01-18T09:11:12Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1630781</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1630781</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

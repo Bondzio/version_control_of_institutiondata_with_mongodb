@@ -1,0 +1,121 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>EST sequencing and time course microarray hybridizations identify more than 700 Medicago truncatula genes with developmental expression regulation in flowers and pods</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">Firnhaber</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alfred</namePart>
+  <namePart type="family">Pühler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21937</identifier></name>
+<name type="personal">
+  <namePart type="given">Helge</namePart>
+  <namePart type="family">Küster</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070639</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">To evaluate the molecular mechanisms during pod and seed formation in legumes, starting with the development of reproductive organs, we constructed two cDNA libraries from developing flowers (MtFLOW) and pods including seeds (MtPOSE) of the model plant Medicago truncatula Gaertner. A total of 2,516 expressed sequence tags (ESTs) clustered into 1,776 non-redundant sequences (2k-set), which were annotated and assigned to functional classes. While about 30% of the ESTs encoded proteins of yet unknown function, typical annotations pointed to seed storage proteins, LTPs and lipoxygenases. The 2k-set was used to upgrade Mt6k-RIT microarrays (Kuster et al. in J Biotechnol 108: 95, 2004) to Mt8k versions representing approximately 6,300 nonredundant M. truncatula genes. These were used to perform time course expression profiling studies based on hybridizations of samples that covered eight different developmental stages from flower buds to almost mature pods versus leaves as a common reference. About 180 up- and 70 downregulated genes were typically found for each stage and in total, 782 genes were either twofold up- or downregulated in at least one of the eight stages investigated. Based on this set, a combination of self-organizing map and hierarchical clustering revealed genes displaying expression regulation during characteristic stages of M. truncatula flower and pod development. Amongst those, several genes encoded proteins related to seed metabolism and development including novel regulators and proteins involved in signaling.</abstract>
+
+<originInfo><publisher>SPRINGER</publisher><dateIssued encoding="w3cdtf">2005</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>time course expression profiling</topic><topic>pod development</topic><topic>transcription factor</topic><topic>Mt8k cDNA</topic><topic>microarray</topic><topic>flower development</topic><topic>expression profile clustering</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Planta</title></titleInfo>
+  <identifier type="issn">0032-0935</identifier>
+  <identifier type="eIssn">1432-2048</identifier>
+  <identifier type="MEDLINE">15968508</identifier>
+  <identifier type="ISI">000232498200006</identifier><identifier type="doi">10.1007/s00425-005-1543-3</identifier>
+<part><detail type="volume"><number>222</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">269-283</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Firnhaber, C.; Pühler, A.; Küster, H. (2005): EST sequencing and time course microarray hybridizations identify more than 700 Medicago truncatula genes with developmental expression regulation in flowers and pods &lt;em&gt;Planta&lt;/em&gt;,222:(2): 269-283.</wels>
+<default>Firnhaber C, Pühler A, Küster H (2005) &lt;br /&gt;Planta 222(2): 269-283.</default>
+<ama>Firnhaber C, Pühler A, Küster H. EST sequencing and time course microarray hybridizations identify more than 700 Medicago truncatula genes with developmental expression regulation in flowers and pods. &lt;em&gt;Planta&lt;/em&gt;. 2005;222(2):269-283.</ama>
+<harvard1>Firnhaber, C., Pühler, A., &amp;amp; Küster, H., 2005. EST sequencing and time course microarray hybridizations identify more than 700 Medicago truncatula genes with developmental expression regulation in flowers and pods. &lt;em&gt;Planta&lt;/em&gt;, 222(2), p 269-283.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Firnhaber, C., Pühler, A. &amp;amp; Küster, H. (2005). EST sequencing and time course microarray hybridizations identify more than 700 Medicago truncatula genes with developmental expression regulation in flowers and pods. &lt;em&gt;Planta&lt;/em&gt;, &lt;em&gt;222&lt;/em&gt;(2), 269-283. SPRINGER. doi:10.1007/s00425-005-1543-3.&lt;/div&gt;</dgps>
+<aps> C.  Firnhaber, A.  Pühler, and H.  Küster, EST sequencing and time course microarray hybridizations identify more than 700 Medicago truncatula genes with developmental expression regulation in flowers and pods, Planta &lt;strong&gt;222&lt;/strong&gt;, 269-283 (2005).</aps>
+<bio1>Firnhaber C, Pühler A, Küster H (2005) &lt;br /&gt;EST sequencing and time course microarray hybridizations identify more than 700 Medicago truncatula genes with developmental expression regulation in flowers and pods.&lt;br /&gt;Planta 222(2): 269-283.</bio1>
+<angewandte-chemie>C.  Firnhaber, A.  Pühler, and H.  Küster, “EST sequencing and time course microarray hybridizations identify more than 700 Medicago truncatula genes with developmental expression regulation in flowers and pods”, &lt;em&gt;Planta&lt;/em&gt;, &lt;strong&gt;2005&lt;/strong&gt;, &lt;em&gt;222&lt;/em&gt;, 269-283.</angewandte-chemie>
+<apa>Firnhaber, C., Pühler, A., &amp;amp; Küster, H. (2005). EST sequencing and time course microarray hybridizations identify more than 700 Medicago truncatula genes with developmental expression regulation in flowers and pods. &lt;em&gt;Planta&lt;/em&gt;, &lt;em&gt;222&lt;/em&gt;(2), 269-283.</apa>
+<frontiers>Firnhaber, C., Pühler, A., and Küster, H. (2005). EST sequencing and time course microarray hybridizations identify more than 700 Medicago truncatula genes with developmental expression regulation in flowers and pods. &lt;em&gt;Planta&lt;/em&gt; 222, 269-283.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Firnhaber, Christian, Pühler, Alfred, and Küster, Helge. 2005. “EST sequencing and time course microarray hybridizations identify more than 700 Medicago truncatula genes with developmental expression regulation in flowers and pods”. &lt;em&gt;Planta&lt;/em&gt; 222 (2): 269-283.&lt;/div&gt;</chicago>
+<ieee> C. Firnhaber, A. Pühler, and H. Küster, “EST sequencing and time course microarray hybridizations identify more than 700 Medicago truncatula genes with developmental expression regulation in flowers and pods”, &lt;em&gt;Planta&lt;/em&gt;,  vol. 222, 2005,  pp. 269-283.</ieee>
+<mla>Firnhaber, Christian, Pühler, Alfred, and Küster, Helge. “EST sequencing and time course microarray hybridizations identify more than 700 Medicago truncatula genes with developmental expression regulation in flowers and pods”. &lt;em&gt;Planta&lt;/em&gt; 222.2 (2005): 269-283.</mla>
+<lncs> Firnhaber, C., Pühler, A., Küster, H.: EST sequencing and time course microarray hybridizations identify more than 700 Medicago truncatula genes with developmental expression regulation in flowers and pods. Planta. 222, 269-283 (2005).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Firnhaber, C., Pühler, A., &amp;amp; Küster, H. (2005). EST sequencing and time course microarray hybridizations identify more than 700 Medicago truncatula genes with developmental expression regulation in flowers and pods. &lt;em&gt;Planta&lt;/em&gt;, &lt;em&gt;222&lt;/em&gt;(2), 269-283.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1601922</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:32:02Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-09-28T13:49:32Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1601922</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1601922</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

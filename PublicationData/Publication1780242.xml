@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Können Computer sinnvoll den Geometrieunterricht bereichern?</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Günter</namePart>
+  <namePart type="family">Graumann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10520</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Willibald</namePart><namePart type="family">Dörfler</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Graumann_038.pdf">https://pub.uni-bielefeld.de/download/1780242/2312814</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Hoelder-Pichler-Tempsky</publisher><dateIssued encoding="w3cdtf">1991</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Computer - Mensch - Maschine: Beiträge zum 6. Internationalen Symposium für ´Didaktik der Mathematik´ in Klagenfurt vom 23. - 27. 9. 1990</title></titleInfo>
+  <identifier type="isbn">3-209-01452-3</identifier><identifier type="urn">urn:nbn:de:0070-bipr-19970</identifier>
+<part><extent unit="pages">103-110</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>Graumann G (1991) &lt;br /&gt;Können Computer sinnvoll den Geometrieunterricht bereichern? &lt;br /&gt;In:  Computer - Mensch - Maschine: Beiträge zum 6. Internationalen Symposium für ´Didaktik der Mathematik´ in Klagenfurt vom 23. - 27. 9. 1990. Dörfler W (Ed); Schriftenreihe Didaktik der Mathematik ; 21,  Wien: Hoelder-Pichler-Tempsky:  103-110.</bio1>
+<aps>G.  Graumann, Können Computer sinnvoll den Geometrieunterricht bereichern?, in &lt;em&gt;Computer - Mensch - Maschine: Beiträge zum 6. Internationalen Symposium für ´Didaktik der Mathematik´ in Klagenfurt vom 23. - 27. 9. 1990&lt;/em&gt;, edited by W.  Dörfler, Schriftenreihe Didaktik der Mathematik ; 21 (Hoelder-Pichler-Tempsky, Wien, 1991), p. 103-110.</aps>
+<ama>Graumann G. Können Computer sinnvoll den Geometrieunterricht bereichern? In: Dörfler W, ed. &lt;em&gt;Computer - Mensch - Maschine: Beiträge zum 6. Internationalen Symposium für ´Didaktik der Mathematik´ in Klagenfurt vom 23. - 27. 9. 1990&lt;/em&gt;. Schriftenreihe Didaktik der Mathematik ; 21. Wien: Hoelder-Pichler-Tempsky;  1991: 103-110.</ama>
+<harvard1>Graumann, G., 1991. Können Computer sinnvoll den Geometrieunterricht bereichern? In W.  Dörfler, ed. &lt;em&gt;Computer - Mensch - Maschine: Beiträge zum 6. Internationalen Symposium für ´Didaktik der Mathematik´ in Klagenfurt vom 23. - 27. 9. 1990&lt;/em&gt;. Schriftenreihe Didaktik der Mathematik ; 21.  Wien: Hoelder-Pichler-Tempsky, pp. 103-110.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Graumann, G. (1991). Können Computer sinnvoll den Geometrieunterricht bereichern? (Schriftenreihe Didaktik der Mathematik ; 21). &lt;em&gt;Computer - Mensch - Maschine: Beiträge zum 6. Internationalen Symposium für ´Didaktik der Mathematik´ in Klagenfurt vom 23. - 27. 9. 1990&lt;/em&gt; (S. 103-110). Wien: Hoelder-Pichler-Tempsky.&lt;/div&gt;</dgps>
+<default>Graumann G (1991)  &lt;br /&gt;In:  Computer - Mensch - Maschine: Beiträge zum 6. Internationalen Symposium für ´Didaktik der Mathematik´ in Klagenfurt vom 23. - 27. 9. 1990. Dörfler W (Ed); Schriftenreihe Didaktik der Mathematik ; 21, . Wien: Hoelder-Pichler-Tempsky:  103-110.</default>
+<wels>Graumann, G. (1991): Können Computer sinnvoll den Geometrieunterricht bereichern? In: Willibald Dörfler (Hrsg.):  Computer - Mensch - Maschine: Beiträge zum 6. Internationalen Symposium für ´Didaktik der Mathematik´ in Klagenfurt vom 23. - 27. 9. 1990. Wien: Hoelder-Pichler-Tempsky. (Schriftenreihe Didaktik der Mathematik ; 21, ).  S. 103-110.</wels>
+<mla>Graumann, Günter. “Können Computer sinnvoll den Geometrieunterricht bereichern?”. &lt;em&gt;Computer - Mensch - Maschine: Beiträge zum 6. Internationalen Symposium für ´Didaktik der Mathematik´ in Klagenfurt vom 23. - 27. 9. 1990&lt;/em&gt;. Ed. Willibald Dörfler. Wien: Hoelder-Pichler-Tempsky, 1991. Schriftenreihe Didaktik der Mathematik ; 21. 103-110.</mla>
+<lncs>Graumann, G.: Können Computer sinnvoll den Geometrieunterricht bereichern? In: Dörfler, W. (ed.) Computer - Mensch - Maschine: Beiträge zum 6. Internationalen Symposium für ´Didaktik der Mathematik´ in Klagenfurt vom 23. - 27. 9. 1990. Schriftenreihe Didaktik der Mathematik ; 21. p. 103-110. Hoelder-Pichler-Tempsky, Wien (1991).</lncs>
+<ieee>G. Graumann, “Können Computer sinnvoll den Geometrieunterricht bereichern?”, &lt;em&gt;Computer - Mensch - Maschine: Beiträge zum 6. Internationalen Symposium für ´Didaktik der Mathematik´ in Klagenfurt vom 23. - 27. 9. 1990&lt;/em&gt;, W. Dörfler, ed., Schriftenreihe Didaktik der Mathematik ; 21,  Wien: Hoelder-Pichler-Tempsky, 1991,  pp.103-110.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Graumann, G. (1991). Können Computer sinnvoll den Geometrieunterricht bereichern? In W.  Dörfler (Ed.), &lt;em&gt;Schriftenreihe Didaktik der Mathematik ; 21&lt;/em&gt;&lt;em&gt;. Computer - Mensch - Maschine: Beiträge zum 6. Internationalen Symposium für ´Didaktik der Mathematik´ in Klagenfurt vom 23. - 27. 9. 1990&lt;/em&gt; (pp. 103-110). Wien: Hoelder-Pichler-Tempsky.&lt;/div&gt;</apa_indent>
+<frontiers>Graumann, G. (1991). “Können Computer sinnvoll den Geometrieunterricht bereichern?” in &lt;em&gt;Computer - Mensch - Maschine: Beiträge zum 6. Internationalen Symposium für ´Didaktik der Mathematik´ in Klagenfurt vom 23. - 27. 9. 1990&lt;/em&gt;, ed. W.  Dörfler Schriftenreihe Didaktik der Mathematik ; 21 (Wien: Hoelder-Pichler-Tempsky), 103-110.</frontiers>
+<apa>Graumann, G. (1991). Können Computer sinnvoll den Geometrieunterricht bereichern? In W.  Dörfler (Ed.), &lt;em&gt;Schriftenreihe Didaktik der Mathematik ; 21&lt;/em&gt;&lt;em&gt;. Computer - Mensch - Maschine: Beiträge zum 6. Internationalen Symposium für ´Didaktik der Mathematik´ in Klagenfurt vom 23. - 27. 9. 1990&lt;/em&gt; (pp. 103-110). Wien: Hoelder-Pichler-Tempsky.</apa>
+<angewandte-chemie>G.  Graumann, in &lt;em&gt;Computer - Mensch - Maschine: Beiträge zum 6. Internationalen Symposium für ´Didaktik der Mathematik´ in Klagenfurt vom 23. - 27. 9. 1990&lt;/em&gt; (Ed.: W. Dörfler), Hoelder-Pichler-Tempsky, Wien, &lt;strong&gt;1991&lt;/strong&gt;, p. 103-110.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Graumann, Günter. 1991. “Können Computer sinnvoll den Geometrieunterricht bereichern?”. In &lt;em&gt;Computer - Mensch - Maschine: Beiträge zum 6. Internationalen Symposium für ´Didaktik der Mathematik´ in Klagenfurt vom 23. - 27. 9. 1990&lt;/em&gt;, ed. Willibald Dörfler, 103-110. Schriftenreihe Didaktik der Mathematik ; 21. Wien: Hoelder-Pichler-Tempsky.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780242</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780242</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780242</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

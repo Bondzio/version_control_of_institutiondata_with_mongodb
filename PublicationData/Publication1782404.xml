@@ -1,0 +1,118 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The Super-Spinner: a low cost animal cell culture bioreactor for the CO 2 incubator</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">R.</namePart>
+  <namePart type="family">Heidemann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">U.</namePart>
+  <namePart type="family">Riese</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Dirk</namePart>
+  <namePart type="family">Lütkemeyer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10736</identifier></name>
+<name type="personal">
+  <namePart type="given">Heino</namePart>
+  <namePart type="family">Büntemeyer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10725</identifier></name>
+<name type="personal">
+  <namePart type="given">Jürgen</namePart>
+  <namePart type="family">Lehmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Technische Fakultät</namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The production of small quantities of monoclonal antibodies and recombinant proteins was carried out using a new low cost production system, the Super Spinner. Into a 1 1 standard Duran(R) flask a membrane stirrer equipped with a polypropylene hollow fiber membrane was installed to improve the oxygen supply by bubble-free aeration. The aeration was facilitated by using the CO2 conditioned incubator gas, which was pumped through the membrane stirrer via a small membrane pump. The maximal oxygen transfer rate (OTR(max)) of the Super Spinner was detected. For this purpose one spinner flask was equipped with an oxygen electrode. The OTR(max) was measured by the dynamic method. The ratio of membrane length to culture volume was adapted corresponding to the oxygen uptake rate of the cells according to the desired cell density. A balanced nutrient supply resulted in an optimal formation and yield of products.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="buentemeyer_21.pdf">https://pub.uni-bielefeld.de/download/1782404/2313822</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1994</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>ANTIBODIES</topic><topic>SUPER-SPINNER</topic><topic>RECOMBINANT CHO CELL LINES</topic><topic>MEMBRANE AERATION</topic><topic>T-PA</topic><topic>AT III</topic><topic>CO2 INCUBATOR</topic><topic>HYBRIDOMAS</topic><topic>MONOCLONAL</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Cytotechnology</title></titleInfo>
+  <identifier type="issn">0920-9069</identifier>
+  <identifier type="eIssn">1573-0778</identifier>
+  <identifier type="MEDLINE">7765107</identifier>
+  <identifier type="ISI">A1994PA38800001</identifier><identifier type="urn">urn:nbn:de:0070-pub-17824041</identifier><identifier type="doi">10.1007/BF00772190</identifier>
+<part><detail type="volume"><number>14</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">1-9</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>R.  Heidemann, et al., The Super-Spinner: a low cost animal cell culture bioreactor for the CO 2 incubator, Cytotechnology &lt;strong&gt;14&lt;/strong&gt;, 1-9 (1994).</aps>
+<bio1>Heidemann R, Riese U, Lütkemeyer D, Büntemeyer H, Lehmann J (1994) &lt;br /&gt;The Super-Spinner: a low cost animal cell culture bioreactor for the CO 2 incubator.&lt;br /&gt;Cytotechnology 14(1): 1-9.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heidemann, R., Riese, U., Lütkemeyer, D., Büntemeyer, H. &amp;amp; Lehmann, J. (1994). The Super-Spinner: a low cost animal cell culture bioreactor for the CO 2 incubator. &lt;em&gt;Cytotechnology&lt;/em&gt;, &lt;em&gt;14&lt;/em&gt;(1), 1-9. doi:10.1007/BF00772190.&lt;/div&gt;</dgps>
+<harvard1>Heidemann, R., et al., 1994. The Super-Spinner: a low cost animal cell culture bioreactor for the CO 2 incubator. &lt;em&gt;Cytotechnology&lt;/em&gt;, 14(1), p 1-9.</harvard1>
+<ama>Heidemann R, Riese U, Lütkemeyer D, Büntemeyer H, Lehmann J. The Super-Spinner: a low cost animal cell culture bioreactor for the CO 2 incubator. &lt;em&gt;Cytotechnology&lt;/em&gt;. 1994;14(1):1-9.</ama>
+<default>Heidemann R, Riese U, Lütkemeyer D, Büntemeyer H, Lehmann J (1994) &lt;br /&gt;Cytotechnology 14(1): 1-9.</default>
+<wels>Heidemann, R.; Riese, U.; Lütkemeyer, D.; Büntemeyer, H.; Lehmann, J. (1994): The Super-Spinner: a low cost animal cell culture bioreactor for the CO 2 incubator &lt;em&gt;Cytotechnology&lt;/em&gt;,14:(1): 1-9.</wels>
+<mla>Heidemann, R., Riese, U., Lütkemeyer, Dirk, Büntemeyer, Heino, and Lehmann, Jürgen. “The Super-Spinner: a low cost animal cell culture bioreactor for the CO 2 incubator”. &lt;em&gt;Cytotechnology&lt;/em&gt; 14.1 (1994): 1-9.</mla>
+<lncs>Heidemann, R., Riese, U., Lütkemeyer, D., Büntemeyer, H., Lehmann, J.: The Super-Spinner: a low cost animal cell culture bioreactor for the CO 2 incubator. Cytotechnology. 14, 1-9 (1994).</lncs>
+<ieee>R. Heidemann, et al., “The Super-Spinner: a low cost animal cell culture bioreactor for the CO 2 incubator”, &lt;em&gt;Cytotechnology&lt;/em&gt;,  vol. 14, 1994,  pp. 1-9.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heidemann, R., Riese, U., Lütkemeyer, D., Büntemeyer, H., &amp;amp; Lehmann, J. (1994). The Super-Spinner: a low cost animal cell culture bioreactor for the CO 2 incubator. &lt;em&gt;Cytotechnology&lt;/em&gt;, &lt;em&gt;14&lt;/em&gt;(1), 1-9.&lt;/div&gt;</apa_indent>
+<frontiers>Heidemann, R., Riese, U., Lütkemeyer, D., Büntemeyer, H., and Lehmann, J. (1994). The Super-Spinner: a low cost animal cell culture bioreactor for the CO 2 incubator. &lt;em&gt;Cytotechnology&lt;/em&gt; 14, 1-9.</frontiers>
+<apa>Heidemann, R., Riese, U., Lütkemeyer, D., Büntemeyer, H., &amp;amp; Lehmann, J. (1994). The Super-Spinner: a low cost animal cell culture bioreactor for the CO 2 incubator. &lt;em&gt;Cytotechnology&lt;/em&gt;, &lt;em&gt;14&lt;/em&gt;(1), 1-9.</apa>
+<angewandte-chemie>R.  Heidemann, U.  Riese, D.  Lütkemeyer, H.  Büntemeyer, and J.  Lehmann, “The Super-Spinner: a low cost animal cell culture bioreactor for the CO 2 incubator”, &lt;em&gt;Cytotechnology&lt;/em&gt;, &lt;strong&gt;1994&lt;/strong&gt;, &lt;em&gt;14&lt;/em&gt;, 1-9.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heidemann, R., Riese, U., Lütkemeyer, Dirk, Büntemeyer, Heino, and Lehmann, Jürgen. 1994. “The Super-Spinner: a low cost animal cell culture bioreactor for the CO 2 incubator”. &lt;em&gt;Cytotechnology&lt;/em&gt; 14 (1): 1-9.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1782404</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1782404</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1782404</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

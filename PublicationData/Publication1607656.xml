@@ -1,0 +1,101 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>A discipline of dynamic programming over sequence data</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Robert</namePart>
+  <namePart type="family">Giegerich</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">147565</identifier></name>
+<name type="personal">
+  <namePart type="given">C</namePart>
+  <namePart type="family">Meyer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Peter</namePart>
+  <namePart type="family">Steffen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">65488</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Praktische Informatik</namePart>
+  <identifier type="unibi">10039</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Dynamic programming is a classical programming technique, applicable in a wide variety ofdomains such as stochastic systems analysis, operations research, combinatorics of discrete structures, flow problems, parsing of ambiguous languages, and biosequence analysis. Little methodology has hitherto been available to guide the design of such algorithms. The matrix recurrences that typically describe a dynamic programming algorithm are difficult to construct, error-prone to implement, and, in nontrivial applications, almost impossible to debug completely. This article introduces a discipline designed to alleviate this problem. We describe an algebraic style of dynamic programming over sequence data. We define its formal framework, based on a combination of grammars and algebras, and including a formalization of Bellman&apos;s Principle. We suggest a language used for algorithm design on a convenient level of abstraction. We outline three ways of implementing this language, including an embedding in a lazy functional language. The workings of the new method are illustrated by a series of examples drawn from diverse areas of computer science. (C) 2004 Elsevier B.V. All rights reserved.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">2004</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>SCIENCE OF COMPUTER PROGRAMMING</title></titleInfo>
+  <identifier type="issn">0167-6423</identifier>
+  <identifier type="ISI">000221939800002</identifier><identifier type="doi">10.1016/j.scico.2003.12.005</identifier>
+<part><detail type="volume"><number>51</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">215-263</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Giegerich, R., Meyer, C., &amp;amp; Steffen, P. (2004). A discipline of dynamic programming over sequence data. &lt;em&gt;SCIENCE OF COMPUTER PROGRAMMING&lt;/em&gt;, &lt;em&gt;51&lt;/em&gt;(3), 215-263.&lt;/div&gt;</apa_indent>
+<ieee>R. Giegerich, C. Meyer, and P. Steffen, “A discipline of dynamic programming over sequence data”, &lt;em&gt;SCIENCE OF COMPUTER PROGRAMMING&lt;/em&gt;,  vol. 51, 2004,  pp. 215-263.</ieee>
+<lncs>Giegerich, R., Meyer, C., Steffen, P.: A discipline of dynamic programming over sequence data. SCIENCE OF COMPUTER PROGRAMMING. 51, 215-263 (2004).</lncs>
+<mla>Giegerich, Robert, Meyer, C, and Steffen, Peter. “A discipline of dynamic programming over sequence data”. &lt;em&gt;SCIENCE OF COMPUTER PROGRAMMING&lt;/em&gt; 51.3 (2004): 215-263.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Giegerich, Robert, Meyer, C, and Steffen, Peter. 2004. “A discipline of dynamic programming over sequence data”. &lt;em&gt;SCIENCE OF COMPUTER PROGRAMMING&lt;/em&gt; 51 (3): 215-263.&lt;/div&gt;</chicago>
+<apa>Giegerich, R., Meyer, C., &amp;amp; Steffen, P. (2004). A discipline of dynamic programming over sequence data. &lt;em&gt;SCIENCE OF COMPUTER PROGRAMMING&lt;/em&gt;, &lt;em&gt;51&lt;/em&gt;(3), 215-263.</apa>
+<angewandte-chemie>R.  Giegerich, C.  Meyer, and P.  Steffen, “A discipline of dynamic programming over sequence data”, &lt;em&gt;SCIENCE OF COMPUTER PROGRAMMING&lt;/em&gt;, &lt;strong&gt;2004&lt;/strong&gt;, &lt;em&gt;51&lt;/em&gt;, 215-263.</angewandte-chemie>
+<frontiers>Giegerich, R., Meyer, C., and Steffen, P. (2004). A discipline of dynamic programming over sequence data. &lt;em&gt;SCIENCE OF COMPUTER PROGRAMMING&lt;/em&gt; 51, 215-263.</frontiers>
+<ama>Giegerich R, Meyer C, Steffen P. A discipline of dynamic programming over sequence data. &lt;em&gt;SCIENCE OF COMPUTER PROGRAMMING&lt;/em&gt;. 2004;51(3):215-263.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Giegerich, R., Meyer, C. &amp;amp; Steffen, P. (2004). A discipline of dynamic programming over sequence data. &lt;em&gt;SCIENCE OF COMPUTER PROGRAMMING&lt;/em&gt;, &lt;em&gt;51&lt;/em&gt;(3), 215-263. ELSEVIER SCIENCE BV. doi:10.1016/j.scico.2003.12.005.&lt;/div&gt;</dgps>
+<harvard1>Giegerich, R., Meyer, C., &amp;amp; Steffen, P., 2004. A discipline of dynamic programming over sequence data. &lt;em&gt;SCIENCE OF COMPUTER PROGRAMMING&lt;/em&gt;, 51(3), p 215-263.</harvard1>
+<aps>R.  Giegerich, C.  Meyer, and P.  Steffen, A discipline of dynamic programming over sequence data, SCIENCE OF COMPUTER PROGRAMMING &lt;strong&gt;51&lt;/strong&gt;, 215-263 (2004).</aps>
+<bio1>Giegerich R, Meyer C, Steffen P (2004) &lt;br /&gt;A discipline of dynamic programming over sequence data.&lt;br /&gt;SCIENCE OF COMPUTER PROGRAMMING 51(3): 215-263.</bio1>
+<wels>Giegerich, R.; Meyer, C.; Steffen, P. (2004): A discipline of dynamic programming over sequence data &lt;em&gt;SCIENCE OF COMPUTER PROGRAMMING&lt;/em&gt;,51:(3): 215-263.</wels>
+<default>Giegerich R, Meyer C, Steffen P (2004) &lt;br /&gt;SCIENCE OF COMPUTER PROGRAMMING 51(3): 215-263.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1607656</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:57:31Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-11-22T12:18:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1607656</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1607656</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

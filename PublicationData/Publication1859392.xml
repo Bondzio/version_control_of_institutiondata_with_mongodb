@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Making Gender Visible: Affirmative Action Programmes in German Universities</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ursula</namePart>
+  <namePart type="family">Müller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">13182</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Paul</namePart><namePart type="family">Fogelberg</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Jeff</namePart><namePart type="family">Hearn</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Liisa</namePart><namePart type="family">Husu</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Teija</namePart><namePart type="family">Mankinnen</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Interdisziplinäres Zentrum für Frauen- und Geschlechterforschung</namePart>
+  <identifier type="unibi">10068</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Fakultät für Soziologie</namePart>
+  <identifier type="unibi">10030</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Yliopistopaino Helsinki Univ. Press</publisher><dateIssued encoding="w3cdtf">1999</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Hard Work in the Academy. Research and interventions on gender inequalities in higher education</title></titleInfo>
+  <identifier type="isbn">951-570-456-1</identifier>
+<part><extent unit="pages">51-66</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, U. (1999). Making Gender Visible: Affirmative Action Programmes in German Universities. &lt;em&gt;Hard Work in the Academy. Research and interventions on gender inequalities in higher education&lt;/em&gt; (S. 51-66). Helsinki: Yliopistopaino Helsinki Univ. Press.&lt;/div&gt;</dgps>
+<ama>Müller U. Making Gender Visible: Affirmative Action Programmes in German Universities. In: Fogelberg P, Hearn J, Husu L, Mankinnen T, eds. &lt;em&gt;Hard Work in the Academy. Research and interventions on gender inequalities in higher education&lt;/em&gt;. Helsinki: Yliopistopaino Helsinki Univ. Press;  1999: 51-66.</ama>
+<harvard1>Müller, U., 1999. Making Gender Visible: Affirmative Action Programmes in German Universities. In P.  Fogelberg, et al., eds. &lt;em&gt;Hard Work in the Academy. Research and interventions on gender inequalities in higher education&lt;/em&gt;.  Helsinki: Yliopistopaino Helsinki Univ. Press, pp. 51-66.</harvard1>
+<bio1>Müller U (1999) &lt;br /&gt;Making Gender Visible: Affirmative Action Programmes in German Universities. &lt;br /&gt;In:  Hard Work in the Academy. Research and interventions on gender inequalities in higher education. Fogelberg P, Hearn J, Husu L, Mankinnen T (Eds); Helsinki: Yliopistopaino Helsinki Univ. Press:  51-66.</bio1>
+<aps>U.  Müller, Making Gender Visible: Affirmative Action Programmes in German Universities, in &lt;em&gt;Hard Work in the Academy. Research and interventions on gender inequalities in higher education&lt;/em&gt;, edited by P.  Fogelberg, et al. (Yliopistopaino Helsinki Univ. Press, Helsinki, 1999), p. 51-66.</aps>
+<wels>Müller, U. (1999): Making Gender Visible: Affirmative Action Programmes in German Universities. In: Paul Fogelberg; Jeff Hearn; Liisa Husu; Teija Mankinnen (Hrsg.):  Hard Work in the Academy. Research and interventions on gender inequalities in higher education. Helsinki: Yliopistopaino Helsinki Univ. Press.  S. 51-66.</wels>
+<default>Müller U (1999)  &lt;br /&gt;In:  Hard Work in the Academy. Research and interventions on gender inequalities in higher education. Fogelberg P, Hearn J, Husu L, Mankinnen T (Eds);Helsinki: Yliopistopaino Helsinki Univ. Press:  51-66.</default>
+<ieee>U. Müller, “Making Gender Visible: Affirmative Action Programmes in German Universities”, &lt;em&gt;Hard Work in the Academy. Research and interventions on gender inequalities in higher education&lt;/em&gt;, P. Fogelberg, et al., eds.,  Helsinki: Yliopistopaino Helsinki Univ. Press, 1999,  pp.51-66.</ieee>
+<mla>Müller, Ursula. “Making Gender Visible: Affirmative Action Programmes in German Universities”. &lt;em&gt;Hard Work in the Academy. Research and interventions on gender inequalities in higher education&lt;/em&gt;. Ed. Paul Fogelberg, Jeff Hearn, Liisa Husu, and Teija Mankinnen. Helsinki: Yliopistopaino Helsinki Univ. Press, 1999. 51-66.</mla>
+<lncs>Müller, U.: Making Gender Visible: Affirmative Action Programmes in German Universities. In: Fogelberg, P., Hearn, J., Husu, L., and Mankinnen, T. (eds.) Hard Work in the Academy. Research and interventions on gender inequalities in higher education. p. 51-66. Yliopistopaino Helsinki Univ. Press, Helsinki (1999).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, U. (1999). Making Gender Visible: Affirmative Action Programmes in German Universities. In P.  Fogelberg, J.  Hearn, L.  Husu, &amp;amp; T.  Mankinnen (Eds.), &lt;em&gt;Hard Work in the Academy. Research and interventions on gender inequalities in higher education&lt;/em&gt; (pp. 51-66). Helsinki: Yliopistopaino Helsinki Univ. Press.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>U.  Müller, in &lt;em&gt;Hard Work in the Academy. Research and interventions on gender inequalities in higher education&lt;/em&gt; (Eds.: P. Fogelberg, J. Hearn, L. Husu, T. Mankinnen), Yliopistopaino Helsinki Univ. Press, Helsinki, &lt;strong&gt;1999&lt;/strong&gt;, p. 51-66.</angewandte-chemie>
+<apa>Müller, U. (1999). Making Gender Visible: Affirmative Action Programmes in German Universities. In P.  Fogelberg, J.  Hearn, L.  Husu, &amp;amp; T.  Mankinnen (Eds.), &lt;em&gt;Hard Work in the Academy. Research and interventions on gender inequalities in higher education&lt;/em&gt; (pp. 51-66). Helsinki: Yliopistopaino Helsinki Univ. Press.</apa>
+<frontiers>Müller, U. (1999). “Making Gender Visible: Affirmative Action Programmes in German Universities” in &lt;em&gt;Hard Work in the Academy. Research and interventions on gender inequalities in higher education&lt;/em&gt;, ed. P.  Fogelberg, J.  Hearn, L.  Husu, and T.  Mankinnen (Helsinki: Yliopistopaino Helsinki Univ. Press), 51-66.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, Ursula. 1999. “Making Gender Visible: Affirmative Action Programmes in German Universities”. In &lt;em&gt;Hard Work in the Academy. Research and interventions on gender inequalities in higher education&lt;/em&gt;, ed. Paul Fogelberg, Jeff Hearn, Liisa Husu, and Teija Mankinnen, 51-66. Helsinki: Yliopistopaino Helsinki Univ. Press.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1859392</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-12-11T08:29:14Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1859392</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1859392</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

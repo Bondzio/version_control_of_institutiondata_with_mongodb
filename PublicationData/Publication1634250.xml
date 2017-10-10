@@ -1,0 +1,112 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Integer Cech cohomology of icosahedral projection tilings</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Franz</namePart>
+  <namePart type="family">Gähler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">9062142</identifier></name>
+<name type="personal">
+  <namePart type="given">John</namePart>
+  <namePart type="family">Hunton</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Johannes</namePart>
+  <namePart type="family">Kellendonk</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>SFB 701 Spectral Structures and Topological Methods in Mathematics</namePart>
+  <identifier type="unibi">435978</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The integer Cech cohomology of canonical projection tilings of dimension three and codimension three is derived. These formulae are then evaluated for several icosahedral tilings known from the literature. Rather surprisingly, the cohomologies of all these tilings turn out to have torsion. This is the case even for the Danzer tiling, which is, in some sense, the simplest of all icosahedral tilings. This result is in contrast to the case of two-dimensional canonical projection tilings, where many examples without torsion are known.</abstract>
+
+<originInfo><publisher>OLDENBOURG VERLAG</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Cohomology</topic><topic>Torsion</topic><topic>Tilings</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>ZEITSCHRIFT FUR KRISTALLOGRAPHIE</title></titleInfo>
+  <identifier type="issn">0044-2968</identifier>
+  <identifier type="arXiv">0809.4442</identifier>
+  <identifier type="ISI">000265184100022</identifier><identifier type="doi">10.1524/zkri.2008.1070</identifier>
+<part><detail type="volume"><number>223</number></detail><detail type="issue"><number>11-12</number></detail><extent unit="pages">801-804</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gähler, F., Hunton, J., &amp;amp; Kellendonk, J. (2008). Integer Cech cohomology of icosahedral projection tilings. &lt;em&gt;ZEITSCHRIFT FUR KRISTALLOGRAPHIE&lt;/em&gt;, &lt;em&gt;223&lt;/em&gt;(11-12), 801-804.&lt;/div&gt;</apa_indent>
+<mla>Gähler, Franz, Hunton, John, and Kellendonk, Johannes. “Integer Cech cohomology of icosahedral projection tilings”. &lt;em&gt;ZEITSCHRIFT FUR KRISTALLOGRAPHIE&lt;/em&gt; 223.11-12 (2008): 801-804.</mla>
+<lncs>Gähler, F., Hunton, J., Kellendonk, J.: Integer Cech cohomology of icosahedral projection tilings. ZEITSCHRIFT FUR KRISTALLOGRAPHIE. 223, 801-804 (2008).</lncs>
+<ieee>F. Gähler, J. Hunton, and J. Kellendonk, “Integer Cech cohomology of icosahedral projection tilings”, &lt;em&gt;ZEITSCHRIFT FUR KRISTALLOGRAPHIE&lt;/em&gt;,  vol. 223, 2008,  pp. 801-804.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gähler, Franz, Hunton, John, and Kellendonk, Johannes. 2008. “Integer Cech cohomology of icosahedral projection tilings”. &lt;em&gt;ZEITSCHRIFT FUR KRISTALLOGRAPHIE&lt;/em&gt; 223 (11-12): 801-804.&lt;/div&gt;</chicago>
+<frontiers>Gähler, F., Hunton, J., and Kellendonk, J. (2008). Integer Cech cohomology of icosahedral projection tilings. &lt;em&gt;ZEITSCHRIFT FUR KRISTALLOGRAPHIE&lt;/em&gt; 223, 801-804.</frontiers>
+<apa>Gähler, F., Hunton, J., &amp;amp; Kellendonk, J. (2008). Integer Cech cohomology of icosahedral projection tilings. &lt;em&gt;ZEITSCHRIFT FUR KRISTALLOGRAPHIE&lt;/em&gt;, &lt;em&gt;223&lt;/em&gt;(11-12), 801-804.</apa>
+<angewandte-chemie>F.  Gähler, J.  Hunton, and J.  Kellendonk, “Integer Cech cohomology of icosahedral projection tilings”, &lt;em&gt;ZEITSCHRIFT FUR KRISTALLOGRAPHIE&lt;/em&gt;, &lt;strong&gt;2008&lt;/strong&gt;, &lt;em&gt;223&lt;/em&gt;, 801-804.</angewandte-chemie>
+<aps>F.  Gähler, J.  Hunton, and J.  Kellendonk, Integer Cech cohomology of icosahedral projection tilings, ZEITSCHRIFT FUR KRISTALLOGRAPHIE &lt;strong&gt;223&lt;/strong&gt;, 801-804 (2008).</aps>
+<bio1>Gähler F, Hunton J, Kellendonk J (2008) &lt;br /&gt;Integer Cech cohomology of icosahedral projection tilings.&lt;br /&gt;ZEITSCHRIFT FUR KRISTALLOGRAPHIE 223(11-12): 801-804.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gähler, F., Hunton, J. &amp;amp; Kellendonk, J. (2008). Integer Cech cohomology of icosahedral projection tilings. &lt;em&gt;ZEITSCHRIFT FUR KRISTALLOGRAPHIE&lt;/em&gt;, &lt;em&gt;223&lt;/em&gt;(11-12), 801-804. OLDENBOURG VERLAG. doi:10.1524/zkri.2008.1070.&lt;/div&gt;</dgps>
+<ama>Gähler F, Hunton J, Kellendonk J. Integer Cech cohomology of icosahedral projection tilings. &lt;em&gt;ZEITSCHRIFT FUR KRISTALLOGRAPHIE&lt;/em&gt;. 2008;223(11-12):801-804.</ama>
+<harvard1>Gähler, F., Hunton, J., &amp;amp; Kellendonk, J., 2008. Integer Cech cohomology of icosahedral projection tilings. &lt;em&gt;ZEITSCHRIFT FUR KRISTALLOGRAPHIE&lt;/em&gt;, 223(11-12), p 801-804.</harvard1>
+<default>Gähler F, Hunton J, Kellendonk J (2008) &lt;br /&gt;ZEITSCHRIFT FUR KRISTALLOGRAPHIE 223(11-12): 801-804.</default>
+<wels>Gähler, F.; Hunton, J.; Kellendonk, J. (2008): Integer Cech cohomology of icosahedral projection tilings &lt;em&gt;ZEITSCHRIFT FUR KRISTALLOGRAPHIE&lt;/em&gt;,223:(11-12): 801-804.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1634250</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:13Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-11-03T09:17:50Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1634250</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1634250</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

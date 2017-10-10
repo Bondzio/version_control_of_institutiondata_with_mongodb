@@ -1,0 +1,117 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>On the similarity of sets of permutations and its applications to genome comparison</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Anne</namePart>
+  <namePart type="family">Bergeron</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jens</namePart>
+  <namePart type="family">Stoye</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">65864</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-4656-7155</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Research Group J. Stoye</namePart>
+  <identifier type="unibi">33067262</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Genominformatik</namePart>
+  <identifier type="unibi">66100</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The comparison of genomes with the same gene content relies on our ability to compare permutations, either by measuring how much they differ, or by measuring how much they are alike. With the notable exception of the breakpoint distance, which is based on the concept of conserved adjacencies, measures of distance do not generalize easily to sets of more than two permutations. In this paper, we present a basic unifying notion, conserved intervals, as a powerful generalization of adjacencies, and as a key feature of genome rearrangement theories. We also show that sets of conserved intervals have elegant nesting and chaining properties that allow the development of compact graphic representations, and linear time algorithms to manipulate them.</abstract>
+
+<originInfo><publisher>MARY ANN LIEBERT INC</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>genome comparison</topic><topic>conserved intervals</topic><topic>distance</topic><topic>interval</topic><topic>gene order analysis</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF COMPUTATIONAL BIOLOGY</title></titleInfo>
+  <identifier type="issn">1066-5277</identifier>
+  <identifier type="eIssn">1557-8666</identifier>
+  <identifier type="MEDLINE">17037962</identifier>
+  <identifier type="ISI">000241414800005</identifier><identifier type="doi">10.1089/cmb.2006.13.1340</identifier>
+<part><detail type="volume"><number>13</number></detail><detail type="issue"><number>7</number></detail><extent unit="pages">1340-1354</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Bergeron, A.; Stoye, J. (2006): On the similarity of sets of permutations and its applications to genome comparison &lt;em&gt;JOURNAL OF COMPUTATIONAL BIOLOGY&lt;/em&gt;,13:(7): 1340-1354.</wels>
+<default>Bergeron A, Stoye J (2006) &lt;br /&gt;JOURNAL OF COMPUTATIONAL BIOLOGY 13(7): 1340-1354.</default>
+<ama>Bergeron A, Stoye J. On the similarity of sets of permutations and its applications to genome comparison. &lt;em&gt;JOURNAL OF COMPUTATIONAL BIOLOGY&lt;/em&gt;. 2006;13(7):1340-1354.</ama>
+<harvard1>Bergeron, A., &amp;amp; Stoye, J., 2006. On the similarity of sets of permutations and its applications to genome comparison. &lt;em&gt;JOURNAL OF COMPUTATIONAL BIOLOGY&lt;/em&gt;, 13(7), p 1340-1354.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bergeron, A. &amp;amp; Stoye, J. (2006). On the similarity of sets of permutations and its applications to genome comparison. &lt;em&gt;JOURNAL OF COMPUTATIONAL BIOLOGY&lt;/em&gt;, &lt;em&gt;13&lt;/em&gt;(7), 1340-1354. MARY ANN LIEBERT INC. doi:10.1089/cmb.2006.13.1340.&lt;/div&gt;</dgps>
+<bio1>Bergeron A, Stoye J (2006) &lt;br /&gt;On the similarity of sets of permutations and its applications to genome comparison.&lt;br /&gt;JOURNAL OF COMPUTATIONAL BIOLOGY 13(7): 1340-1354.</bio1>
+<aps>A.  Bergeron and J.  Stoye, On the similarity of sets of permutations and its applications to genome comparison, JOURNAL OF COMPUTATIONAL BIOLOGY &lt;strong&gt;13&lt;/strong&gt;, 1340-1354 (2006).</aps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bergeron, Anne, and Stoye, Jens. 2006. “On the similarity of sets of permutations and its applications to genome comparison”. &lt;em&gt;JOURNAL OF COMPUTATIONAL BIOLOGY&lt;/em&gt; 13 (7): 1340-1354.&lt;/div&gt;</chicago>
+<apa>Bergeron, A., &amp;amp; Stoye, J. (2006). On the similarity of sets of permutations and its applications to genome comparison. &lt;em&gt;JOURNAL OF COMPUTATIONAL BIOLOGY&lt;/em&gt;, &lt;em&gt;13&lt;/em&gt;(7), 1340-1354.</apa>
+<angewandte-chemie>A.  Bergeron, and J.  Stoye, “On the similarity of sets of permutations and its applications to genome comparison”, &lt;em&gt;JOURNAL OF COMPUTATIONAL BIOLOGY&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;13&lt;/em&gt;, 1340-1354.</angewandte-chemie>
+<frontiers>Bergeron, A., and Stoye, J. (2006). On the similarity of sets of permutations and its applications to genome comparison. &lt;em&gt;JOURNAL OF COMPUTATIONAL BIOLOGY&lt;/em&gt; 13, 1340-1354.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bergeron, A., &amp;amp; Stoye, J. (2006). On the similarity of sets of permutations and its applications to genome comparison. &lt;em&gt;JOURNAL OF COMPUTATIONAL BIOLOGY&lt;/em&gt;, &lt;em&gt;13&lt;/em&gt;(7), 1340-1354.&lt;/div&gt;</apa_indent>
+<ieee>A. Bergeron and J. Stoye, “On the similarity of sets of permutations and its applications to genome comparison”, &lt;em&gt;JOURNAL OF COMPUTATIONAL BIOLOGY&lt;/em&gt;,  vol. 13, 2006,  pp. 1340-1354.</ieee>
+<lncs>Bergeron, A., Stoye, J.: On the similarity of sets of permutations and its applications to genome comparison. JOURNAL OF COMPUTATIONAL BIOLOGY. 13, 1340-1354 (2006).</lncs>
+<mla>Bergeron, Anne, and Stoye, Jens. “On the similarity of sets of permutations and its applications to genome comparison”. &lt;em&gt;JOURNAL OF COMPUTATIONAL BIOLOGY&lt;/em&gt; 13.7 (2006): 1340-1354.</mla>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1597313</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:18:48Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-01-18T09:11:16Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1597313</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1597313</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

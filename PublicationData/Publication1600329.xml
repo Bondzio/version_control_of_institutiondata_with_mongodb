@@ -1,0 +1,131 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>A rapid reporter system using GFP as a reporter protein for identification and screening of synthetic stationary-phase promoters in Escherichia coli</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Gerd</namePart>
+  <namePart type="family">Miksch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11020</identifier></name>
+<name type="personal">
+  <namePart type="given">F</namePart>
+  <namePart type="family">Bettenworth</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Karl</namePart>
+  <namePart type="family">Friehs</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11015</identifier></name>
+<name type="personal">
+  <namePart type="given">Erwin</namePart>
+  <namePart type="family">Flaschel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11014</identifier></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Saalbach</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Tim Wilhelm</namePart>
+  <namePart type="family">Nattkemper</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11602</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group T. Nattkemper</namePart>
+  <identifier type="unibi">33067409</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Technische Fakultät</namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">To develop a rapid reporter system for the screening of stationary-phase promoters in Escherichia coli, the expression pattern of the green fluorescent protein (GFP) during bacterial cultivation was compared with that of the commonly used beta-galactosidase. Using GFP with enhanced fluorescence, the expression pattern of both reporter systems GFP and beta-galactosidase were similar and showed a typical induction of gene activity of the reporter genes, i.e. increase of expression at the transition from exponential to stationary phase. The expression was affected by the culture medium, i.e. in contrast to the complex medium (LB medium), the stationary-phase specific induction was only observed in synthetic medium (M9) when amino acids were added, whereas there was generally no induction in MOPS medium. To develop a rapid screening method on agar plates for stationary-phase promoters, a photographic approach was used, continued with computational image treatment. A screening method is presented which enables an on-line monitoring of gene activity.</abstract>
+
+<originInfo><publisher>SPRINGER</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>APPLIED MICROBIOLOGY AND BIOTECHNOLOGY</title></titleInfo>
+  <identifier type="issn">0175-7598</identifier>
+  <identifier type="eIssn">1432-0614</identifier>
+  <identifier type="MEDLINE">16012833</identifier>
+  <identifier type="ISI">000235569900012</identifier><identifier type="doi">10.1007/s00253-005-0060-4</identifier>
+<part><detail type="volume"><number>70</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">229-236</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Miksch G, Bettenworth F, Friehs K, Flaschel E, Saalbach A, Nattkemper TW (2006) &lt;br /&gt;APPLIED MICROBIOLOGY AND BIOTECHNOLOGY 70(2): 229-236.</default>
+<wels>Miksch, G.; Bettenworth, F.; Friehs, K.; Flaschel, E.; Saalbach, A.; Nattkemper, T. W. (2006): A rapid reporter system using GFP as a reporter protein for identification and screening of synthetic stationary-phase promoters in Escherichia coli &lt;em&gt;APPLIED MICROBIOLOGY AND BIOTECHNOLOGY&lt;/em&gt;,70:(2): 229-236.</wels>
+<bio1>Miksch G, Bettenworth F, Friehs K, Flaschel E, Saalbach A, Nattkemper TW (2006) &lt;br /&gt;A rapid reporter system using GFP as a reporter protein for identification and screening of synthetic stationary-phase promoters in Escherichia coli.&lt;br /&gt;APPLIED MICROBIOLOGY AND BIOTECHNOLOGY 70(2): 229-236.</bio1>
+<aps>G.  Miksch, et al., A rapid reporter system using GFP as a reporter protein for identification and screening of synthetic stationary-phase promoters in Escherichia coli, APPLIED MICROBIOLOGY AND BIOTECHNOLOGY &lt;strong&gt;70&lt;/strong&gt;, 229-236 (2006).</aps>
+<harvard1>Miksch, G., et al., 2006. A rapid reporter system using GFP as a reporter protein for identification and screening of synthetic stationary-phase promoters in Escherichia coli. &lt;em&gt;APPLIED MICROBIOLOGY AND BIOTECHNOLOGY&lt;/em&gt;, 70(2), p 229-236.</harvard1>
+<ama>Miksch G, Bettenworth F, Friehs K, Flaschel E, Saalbach A, Nattkemper TW. A rapid reporter system using GFP as a reporter protein for identification and screening of synthetic stationary-phase promoters in Escherichia coli. &lt;em&gt;APPLIED MICROBIOLOGY AND BIOTECHNOLOGY&lt;/em&gt;. 2006;70(2):229-236.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Miksch, G., Bettenworth, F., Friehs, K., Flaschel, E., Saalbach, A. &amp;amp; Nattkemper, T.W. (2006). A rapid reporter system using GFP as a reporter protein for identification and screening of synthetic stationary-phase promoters in Escherichia coli. &lt;em&gt;APPLIED MICROBIOLOGY AND BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;70&lt;/em&gt;(2), 229-236. SPRINGER. doi:10.1007/s00253-005-0060-4.&lt;/div&gt;</dgps>
+<frontiers>Miksch, G., Bettenworth, F., Friehs, K., Flaschel, E., Saalbach, A., and Nattkemper, T. W. (2006). A rapid reporter system using GFP as a reporter protein for identification and screening of synthetic stationary-phase promoters in Escherichia coli. &lt;em&gt;APPLIED MICROBIOLOGY AND BIOTECHNOLOGY&lt;/em&gt; 70, 229-236.</frontiers>
+<angewandte-chemie>G.  Miksch, F.  Bettenworth, K.  Friehs, E.  Flaschel, A.  Saalbach, and T. W.  Nattkemper, “A rapid reporter system using GFP as a reporter protein for identification and screening of synthetic stationary-phase promoters in Escherichia coli”, &lt;em&gt;APPLIED MICROBIOLOGY AND BIOTECHNOLOGY&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;70&lt;/em&gt;, 229-236.</angewandte-chemie>
+<apa>Miksch, G., Bettenworth, F., Friehs, K., Flaschel, E., Saalbach, A., &amp;amp; Nattkemper, T. W. (2006). A rapid reporter system using GFP as a reporter protein for identification and screening of synthetic stationary-phase promoters in Escherichia coli. &lt;em&gt;APPLIED MICROBIOLOGY AND BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;70&lt;/em&gt;(2), 229-236.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Miksch, Gerd, Bettenworth, F, Friehs, Karl, Flaschel, Erwin, Saalbach, A, and Nattkemper, Tim Wilhelm. 2006. “A rapid reporter system using GFP as a reporter protein for identification and screening of synthetic stationary-phase promoters in Escherichia coli”. &lt;em&gt;APPLIED MICROBIOLOGY AND BIOTECHNOLOGY&lt;/em&gt; 70 (2): 229-236.&lt;/div&gt;</chicago>
+<mla>Miksch, Gerd, Bettenworth, F, Friehs, Karl, Flaschel, Erwin, Saalbach, A, and Nattkemper, Tim Wilhelm. “A rapid reporter system using GFP as a reporter protein for identification and screening of synthetic stationary-phase promoters in Escherichia coli”. &lt;em&gt;APPLIED MICROBIOLOGY AND BIOTECHNOLOGY&lt;/em&gt; 70.2 (2006): 229-236.</mla>
+<lncs>Miksch, G., Bettenworth, F., Friehs, K., Flaschel, E., Saalbach, A., Nattkemper, T.W.: A rapid reporter system using GFP as a reporter protein for identification and screening of synthetic stationary-phase promoters in Escherichia coli. APPLIED MICROBIOLOGY AND BIOTECHNOLOGY. 70, 229-236 (2006).</lncs>
+<ieee>G. Miksch, et al., “A rapid reporter system using GFP as a reporter protein for identification and screening of synthetic stationary-phase promoters in Escherichia coli”, &lt;em&gt;APPLIED MICROBIOLOGY AND BIOTECHNOLOGY&lt;/em&gt;,  vol. 70, 2006,  pp. 229-236.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Miksch, G., Bettenworth, F., Friehs, K., Flaschel, E., Saalbach, A., &amp;amp; Nattkemper, T. W. (2006). A rapid reporter system using GFP as a reporter protein for identification and screening of synthetic stationary-phase promoters in Escherichia coli. &lt;em&gt;APPLIED MICROBIOLOGY AND BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;70&lt;/em&gt;(2), 229-236.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1600329</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:31:13Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-26T12:38:49Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1600329</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1600329</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

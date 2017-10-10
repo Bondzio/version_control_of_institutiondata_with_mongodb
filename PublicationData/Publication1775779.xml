@@ -1,0 +1,107 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>One- and two-photon production of very highly excited states of caesium</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">A. F. J.</namePart>
+  <namePart type="family">van Raan</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Günter</namePart>
+  <namePart type="family">Baum</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40173</identifier></name>
+<name type="personal">
+  <namePart type="given">Wilhelm</namePart>
+  <namePart type="family">Raith</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Very highly excited p states of Cs with principal quantum numbers 30 &lt; or = Eta &lt; or = 85 were produced by one-step photoexcitation with frequency-doubled light from a flash-lamp-pumped dye laser. Field ionization was employed for selective detection. Ionization occurs at field strengths E &gt; or = Emin with a sharp threshold. The relation Emin(n*) varies as (n*)-4 was verified over a wide range. Two-photon excitation to a very high state via a virtual intermediate state leads to immediate ionization of most of the excited atoms; in this case the ion signal as a function of the light intensity I is not proportional to Ik, k &gt; or = 2, whereas a direct two-photon transition into the continuum yields proportionality with Ito the power of 2.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Baum_011.pdf">https://pub.uni-bielefeld.de/download/1775779/2312021</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1976</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>J.Phys. B</title></titleInfo>
+  <identifier type="issn">0022-3700</identifier>
+  <identifier type="ISI">A1976BS18000002</identifier><identifier type="urn">urn:nbn:de:0070-pub-17757796</identifier><identifier type="doi">10.1088/0022-3700/9/7/002</identifier>
+<part><detail type="volume"><number>9</number></detail><detail type="issue"><number>7</number></detail><extent unit="pages">L173-L176</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>van Raan AFJ, Baum G, Raith W. One- and two-photon production of very highly excited states of caesium. &lt;em&gt;J.Phys. B&lt;/em&gt;. 1976;9(7):L173-L176.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;van Raan, A.F.J., Baum, G. &amp;amp; Raith, W. (1976). One- and two-photon production of very highly excited states of caesium. &lt;em&gt;J.Phys. B&lt;/em&gt;, &lt;em&gt;9&lt;/em&gt;(7), L173-L176. doi:10.1088/0022-3700/9/7/002.&lt;/div&gt;</dgps>
+<harvard1>van Raan, A.F.J., Baum, G., &amp;amp; Raith, W., 1976. One- and two-photon production of very highly excited states of caesium. &lt;em&gt;J.Phys. B&lt;/em&gt;, 9(7), p L173-L176.</harvard1>
+<aps>A. F. J.  van Raan, G.  Baum, and W.  Raith, One- and two-photon production of very highly excited states of caesium, J.Phys. B &lt;strong&gt;9&lt;/strong&gt;, L173-L176 (1976).</aps>
+<bio1>van Raan AFJ, Baum G, Raith W (1976) &lt;br /&gt;One- and two-photon production of very highly excited states of caesium.&lt;br /&gt;J.Phys. B 9(7): L173-L176.</bio1>
+<wels>van Raan, A. F. J.; Baum, G.; Raith, W. (1976): One- and two-photon production of very highly excited states of caesium &lt;em&gt;J.Phys. B&lt;/em&gt;,9:(7): L173-L176.</wels>
+<default>van Raan AFJ, Baum G, Raith W (1976) &lt;br /&gt;J.Phys. B 9(7): L173-L176.</default>
+<ieee>A.F.J. van Raan, G. Baum, and W. Raith, “One- and two-photon production of very highly excited states of caesium”, &lt;em&gt;J.Phys. B&lt;/em&gt;,  vol. 9, 1976,  pp. L173-L176.</ieee>
+<mla>van Raan, A. F. J., Baum, Günter, and Raith, Wilhelm. “One- and two-photon production of very highly excited states of caesium”. &lt;em&gt;J.Phys. B&lt;/em&gt; 9.7 (1976): L173-L176.</mla>
+<lncs>van Raan, A.F.J., Baum, G., Raith, W.: One- and two-photon production of very highly excited states of caesium. J.Phys. B. 9, L173-L176 (1976).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;van Raan, A. F. J., Baum, G., &amp;amp; Raith, W. (1976). One- and two-photon production of very highly excited states of caesium. &lt;em&gt;J.Phys. B&lt;/em&gt;, &lt;em&gt;9&lt;/em&gt;(7), L173-L176.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>A. F. J.  van Raan, G.  Baum, and W.  Raith, “One- and two-photon production of very highly excited states of caesium”, &lt;em&gt;J.Phys. B&lt;/em&gt;, &lt;strong&gt;1976&lt;/strong&gt;, &lt;em&gt;9&lt;/em&gt;, L173-L176.</angewandte-chemie>
+<apa>van Raan, A. F. J., Baum, G., &amp;amp; Raith, W. (1976). One- and two-photon production of very highly excited states of caesium. &lt;em&gt;J.Phys. B&lt;/em&gt;, &lt;em&gt;9&lt;/em&gt;(7), L173-L176.</apa>
+<frontiers>van Raan, A. F. J., Baum, G., and Raith, W. (1976). One- and two-photon production of very highly excited states of caesium. &lt;em&gt;J.Phys. B&lt;/em&gt; 9, L173-L176.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;van Raan, A. F. J., Baum, Günter, and Raith, Wilhelm. 1976. “One- and two-photon production of very highly excited states of caesium”. &lt;em&gt;J.Phys. B&lt;/em&gt; 9 (7): L173-L176.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1775779</recordIdentifier><recordChangeDate encoding="w3cdtf">2013-02-17T18:30:43Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1775779</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1775779</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

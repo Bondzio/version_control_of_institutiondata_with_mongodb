@@ -1,0 +1,117 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>On the similarity of sets of permutations and its applications to genome comparison</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Anne</namePart>
+  <namePart type="family">Bergeron</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jens</namePart>
+  <namePart type="family">Stoye</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">65864</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-4656-7155</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Research Group J. Stoye</namePart>
+  <identifier type="unibi">33067262</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Genominformatik</namePart>
+  <identifier type="unibi">66100</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+<name type="conference">
+  <namePart>COCOON 2003</namePart>
+</name>
+
+
+
+
+
+
+<abstract lang="eng">The comparison of genomes with the same gene content relies on our ability to compare permutations, either by measuring how much they differ, or by measuring how much they are alike. With the notable exception of the breakpoint distance, which is based on the concept of conserved adjacencies, measures of distance do not generalize easily to sets of more than two permutations. In this paper, we present a basic unifying notion, conserved intervals, as a powerful generalization of adjacencies, and as a key feature of genome rearrangement theories. We also show that sets of conserved intervals have elegant nesting and chaining properties that allow the development of compact graphic representations, and linear time algorithms to manipulate them.</abstract>
+
+<originInfo><dateIssued encoding="w3cdtf">2003</dateIssued><place><placeTerm type="text">Big Sky, MT, USA</placeTerm></place>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Proc. of COCOON 2003</title></titleInfo>
+  <identifier type="issn">0302-9743</identifier>
+  <identifier type="ISI">000185044800009</identifier><identifier type="doi">10.1007/3-540-45071-8_9</identifier>
+<part><detail type="volume"><number>2697</number></detail><extent unit="pages">68-79</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Bergeron, A., and Stoye, J. (2003). “On the similarity of sets of permutations and its applications to genome comparison” in &lt;em&gt;Proc. of COCOON 2003&lt;/em&gt; LNCS, vol. 2697, 68-79.</frontiers>
+<angewandte-chemie>A.  Bergeron, and J.  Stoye, in &lt;em&gt;Proc. of COCOON 2003&lt;/em&gt;, &lt;strong&gt;2003&lt;/strong&gt;, p. 68-79.</angewandte-chemie>
+<apa>Bergeron, A., &amp;amp; Stoye, J. (2003). On the similarity of sets of permutations and its applications to genome comparison. &lt;em&gt;Proc. of COCOON 2003&lt;/em&gt;, &lt;em&gt;2697&lt;/em&gt;, 68-79.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bergeron, Anne, and Stoye, Jens. 2003. “On the similarity of sets of permutations and its applications to genome comparison”. In &lt;em&gt;Proc. of COCOON 2003&lt;/em&gt;, 2697:68-79. LNCS.&lt;/div&gt;</chicago>
+<lncs>Bergeron, A., Stoye, J.: On the similarity of sets of permutations and its applications to genome comparison. Proc. of COCOON 2003. LNCS. 2697, p. 68-79. (2003).</lncs>
+<mla>Bergeron, Anne, and Stoye, Jens. “On the similarity of sets of permutations and its applications to genome comparison”. &lt;em&gt;Proc. of COCOON 2003&lt;/em&gt;. 2003.Vol. 2697. LNCS. 68-79.</mla>
+<ieee>A. Bergeron and J. Stoye, “On the similarity of sets of permutations and its applications to genome comparison”, &lt;em&gt;Proc. of COCOON 2003&lt;/em&gt;, LNCS, vol. 2697, 2003,  pp.68-79.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bergeron, A., &amp;amp; Stoye, J. (2003). On the similarity of sets of permutations and its applications to genome comparison. &lt;em&gt;Proc. of COCOON 2003&lt;/em&gt;, &lt;em&gt;2697&lt;/em&gt;, 68-79.&lt;/div&gt;</apa_indent>
+<default>Bergeron A, Stoye J (2003)  &lt;br /&gt;In:  Proc. of COCOON 2003.  LNCS, 2697.  68-79.</default>
+<wels>Bergeron, A.; Stoye, J. (2003): On the similarity of sets of permutations and its applications to genome comparison. In: Proc. of COCOON 2003. (LNCS, 2697).  S. 68-79.</wels>
+<bio1>Bergeron A, Stoye J (2003) &lt;br /&gt;On the similarity of sets of permutations and its applications to genome comparison. &lt;br /&gt;In:  Proc. of COCOON 2003.  LNCS, 2697. 68-79.</bio1>
+<aps>A.  Bergeron and J.  Stoye, On the similarity of sets of permutations and its applications to genome comparison, in &lt;em&gt;Proc. of COCOON 2003&lt;/em&gt;, LNCS, &lt;strong&gt;2697&lt;/strong&gt; (2003), p. 68-79.</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bergeron, A. &amp;amp; Stoye, J. (2003). On the similarity of sets of permutations and its applications to genome comparison (LNCS). &lt;em&gt;Proc. of COCOON 2003&lt;/em&gt; (S. 68-79). Gehalten auf der COCOON 2003. doi:10.1007/3-540-45071-8_9.&lt;/div&gt;</dgps>
+<ama>Bergeron A, Stoye J. On the similarity of sets of permutations and its applications to genome comparison. In:  &lt;em&gt;Proc. of COCOON 2003&lt;/em&gt;. LNCS. Vol 2697. 2003: 68-79.</ama>
+<harvard1>Bergeron, A., &amp;amp; Stoye, J., 2003. On the similarity of sets of permutations and its applications to genome comparison. In &lt;em&gt;Proc. of COCOON 2003&lt;/em&gt;. LNCS. no.2697 pp. 68-79.</harvard1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1610433</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:58:59Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-01-18T09:11:15Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1610433</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1610433</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

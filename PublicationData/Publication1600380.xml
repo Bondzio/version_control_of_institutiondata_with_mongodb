@@ -1,0 +1,115 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>A magnetic molecule detection system - A comparison of different setups by computer simulation</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Willi</namePart>
+  <namePart type="family">Schepper</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40195</identifier></name>
+<name type="personal">
+  <namePart type="given">J</namePart>
+  <namePart type="family">Schotter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">H</namePart>
+  <namePart type="family">Bruckl</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Günter</namePart>
+  <namePart type="family">Reiss</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40207</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-0918-5940</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33079602</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">28536538</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The results of micromagnetic calculations of GMR sensors are shown under the influence of the stray fields of magnetic beads (microspheres), aligned out of plane or in plane of the sensor layers. These detection cases show very different characteristics and sensitivities. An analytical formula can be presented showing the GMR signal dependence on the bead height and the bead and sensor dimensions. (c) 2005 Elsevier B.V. All rights reserved.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>micromagnetism</topic><topic>single molecule detection</topic><topic>sensor modelling</topic>
+</subject>
+
+
+<relatedItem type="host">
+  <identifier type="issn">0921-4526</identifier>
+  <identifier type="ISI">000235229900081</identifier><identifier type="doi">10.1016/j.physb.2005.10.080</identifier>
+<part><detail type="volume"><number>372</number></detail><detail type="issue"><number>1-2</number></detail><extent unit="pages">337-340</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schepper, W., Schotter, J., Bruckl, H. &amp;amp; Reiss, G. (2006). A magnetic molecule detection system - A comparison of different setups by computer simulation (PHYSICA B-CONDENSED MATTER) (S. 337-340). ELSEVIER SCIENCE BV. doi:10.1016/j.physb.2005.10.080.&lt;/div&gt;</dgps>
+<harvard1>Schepper, W., et al., 2006. A magnetic molecule detection system - A comparison of different setups by computer simulation.</harvard1>
+<ama>Schepper W, Schotter J, Bruckl H, Reiss G. A magnetic molecule detection system - A comparison of different setups by computer simulation.</ama>
+<bio1>Schepper W, Schotter J, Bruckl H, Reiss G (2006) &lt;br /&gt;A magnetic molecule detection system - A comparison of different setups by computer simulation.</bio1>
+<aps> W.  Schepper, et al., A magnetic molecule detection system - A comparison of different setups by computer simulation, PHYSICA B-CONDENSED MATTER, &lt;strong&gt;372&lt;/strong&gt; (ELSEVIER SCIENCE BV, 2006), p. 337-340.</aps>
+<wels>Schepper, W.; Schotter, J.; Bruckl, H.; Reiss, G. (2006): A magnetic molecule detection system - A comparison of different setups by computer simulation. ELSEVIER SCIENCE BV. (PHYSICA B-CONDENSED MATTER, 372).  S. 337-340.</wels>
+<default>Schepper W, Schotter J, Bruckl H, Reiss G (2006) .</default>
+<ieee> W. Schepper, et al., “A magnetic molecule detection system - A comparison of different setups by computer simulation”, ELSEVIER SCIENCE BV, 2006.</ieee>
+<lncs> Schepper, W., Schotter, J., Bruckl, H., Reiss, G.: A magnetic molecule detection system - A comparison of different setups by computer simulation. (2006).</lncs>
+<mla>Schepper, Willi, Schotter, J, Bruckl, H, and Reiss, Günter. “A magnetic molecule detection system - A comparison of different setups by computer simulation”., ELSEVIER SCIENCE BV, 2006.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schepper, W., Schotter, J., Bruckl, H., &amp;amp; Reiss, G. (2006). &lt;em&gt;A magnetic molecule detection system - A comparison of different setups by computer simulation&lt;/em&gt;. Presented at the .&lt;/div&gt;</apa_indent>
+<angewandte-chemie>W.  Schepper, J.  Schotter, H.  Bruckl, and G.  Reiss, Elsevier Science Bv, &lt;strong&gt;2006&lt;/strong&gt;, p. 337-340.</angewandte-chemie>
+<apa>Schepper, W., Schotter, J., Bruckl, H., &amp;amp; Reiss, G. (2006). &lt;em&gt;A magnetic molecule detection system - A comparison of different setups by computer simulation&lt;/em&gt;. Presented at the .</apa>
+<frontiers>Schepper, W., Schotter, J., Bruckl, H., and Reiss, G. (2006).“A magnetic molecule detection system - A comparison of different setups by computer simulation”.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schepper, Willi, Schotter, J, Bruckl, H, and Reiss, Günter. 2006. “A magnetic molecule detection system - A comparison of different setups by computer simulation”. Presented at the , 372:337-340. PHYSICA B-CONDENSED MATTER. ELSEVIER SCIENCE BV.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1600380</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:31:16Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-13T13:14:09Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1600380</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1600380</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

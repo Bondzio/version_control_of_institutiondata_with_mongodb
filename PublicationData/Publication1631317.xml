@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Thermal hadron production by QCD Hawking radiation</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Helmut</namePart>
+  <namePart type="family">Satz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40339</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">23470601</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The QCD counterpart of Hawking radiation from black holes leads to thermal hadron production in high energy collisions, from e(+)e(-) annihilation to heavy ion interactions. This hadronic radiation is emitted at a universal temperature T similar or equal to (sigma/2 pi)(1/2), where the string tension or measures the colour field at the event horizon of confinement. Moreover, the emitted radiation is thermal &quot;at birth&quot;, since the event horizon prevents all information transfer, no memory has to be destroyed kinetically.</abstract>
+
+<originInfo><publisher>PROGRESS THEORETICAL PHYSICS PUBLICATION OFFICE</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host">
+  <identifier type="issn">0375-9687</identifier>
+  <identifier type="arXiv">hep-ph/0612151</identifier>
+  <identifier type="INSPIRE">774337</identifier>
+  <identifier type="ISI">000251015200054</identifier><identifier type="doi">10.1143/PTPS.168.338</identifier>
+<part><detail type="issue"><number>168</number></detail><extent unit="pages">338-346</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee> H. Satz, “Thermal hadron production by QCD Hawking radiation”, PROGRESS THEORETICAL PHYSICS PUBLICATION OFFICE, 2007.</ieee>
+<mla>Satz, Helmut. “Thermal hadron production by QCD Hawking radiation”., PROGRESS THEORETICAL PHYSICS PUBLICATION OFFICE, 2007.</mla>
+<lncs> Satz, H.: Thermal hadron production by QCD Hawking radiation. (2007).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Satz, H. (2007). &lt;em&gt;Thermal hadron production by QCD Hawking radiation&lt;/em&gt;. Presented at the .&lt;/div&gt;</apa_indent>
+<apa>Satz, H. (2007). &lt;em&gt;Thermal hadron production by QCD Hawking radiation&lt;/em&gt;. Presented at the .</apa>
+<angewandte-chemie>H.  Satz, Progress Theoretical Physics Publication Office, &lt;strong&gt;2007&lt;/strong&gt;, p. 338-346.</angewandte-chemie>
+<frontiers>Satz, H. (2007).“Thermal hadron production by QCD Hawking radiation”.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Satz, Helmut. 2007. “Thermal hadron production by QCD Hawking radiation”. Presented at the , 338-346. PROGRESS OF THEORETICAL PHYSICS SUPPLEMENT. PROGRESS THEORETICAL PHYSICS PUBLICATION OFFICE.&lt;/div&gt;</chicago>
+<harvard1>Satz, H., 2007. Thermal hadron production by QCD Hawking radiation.</harvard1>
+<ama>Satz H. Thermal hadron production by QCD Hawking radiation.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Satz, H. (2007). Thermal hadron production by QCD Hawking radiation (PROGRESS OF THEORETICAL PHYSICS SUPPLEMENT) (S. 338-346). PROGRESS THEORETICAL PHYSICS PUBLICATION OFFICE. doi:10.1143/PTPS.168.338.&lt;/div&gt;</dgps>
+<aps> H.  Satz, Thermal hadron production by QCD Hawking radiation, PROGRESS OF THEORETICAL PHYSICS SUPPLEMENT (PROGRESS THEORETICAL PHYSICS PUBLICATION OFFICE, 2007), p. 338-346.</aps>
+<bio1>Satz H (2007) &lt;br /&gt;Thermal hadron production by QCD Hawking radiation.</bio1>
+<wels>Satz, H. (2007): Thermal hadron production by QCD Hawking radiation. PROGRESS THEORETICAL PHYSICS PUBLICATION OFFICE. (PROGRESS OF THEORETICAL PHYSICS SUPPLEMENT, ).  S. 338-346.</wels>
+<default>Satz H (2007) .</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1631317</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:05:38Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-24T12:56:29Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1631317</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1631317</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,101 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Unsupervised Learning of a Kinematic Arm Model</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Heiko</namePart>
+  <namePart type="family">Hoffmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ralf</namePart>
+  <namePart type="family">Möller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">94532</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">O.</namePart><namePart type="family">Kaynak</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">E.</namePart><namePart type="family">Alpaydin</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">E.</namePart><namePart type="family">Oja</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">L.</namePart><namePart type="family">Xu</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>AG Technische Informatik</namePart>
+  <identifier type="unibi">10040</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Springer</publisher><dateIssued encoding="w3cdtf">2003</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Artificial Neural Networks and Neural Information Processing –- ICANN/ICONIP 2003</title></titleInfo>
+<part><extent unit="pages">463-470</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>H.  Hoffmann and R.  Möller, Unsupervised Learning of a Kinematic Arm Model, in &lt;em&gt;Artificial Neural Networks and Neural Information Processing –- ICANN/ICONIP 2003&lt;/em&gt;, edited by O.  Kaynak, et al., Lecture Notes in Computer Sciences 2714 (Springer, 2003), p. 463-470.</aps>
+<bio1>Hoffmann H, Möller R (2003) &lt;br /&gt;Unsupervised Learning of a Kinematic Arm Model. &lt;br /&gt;In:  Artificial Neural Networks and Neural Information Processing –- ICANN/ICONIP 2003. Kaynak O, Alpaydin E, Oja E, Xu L (Eds); Lecture Notes in Computer Sciences 2714,  Springer:  463-470.</bio1>
+<ama>Hoffmann H, Möller R. Unsupervised Learning of a Kinematic Arm Model. In: Kaynak O, Alpaydin E, Oja E, Xu L, eds. &lt;em&gt;Artificial Neural Networks and Neural Information Processing –- ICANN/ICONIP 2003&lt;/em&gt;. Lecture Notes in Computer Sciences 2714. Springer;  2003: 463-470.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hoffmann, H. &amp;amp; Möller, R. (2003). Unsupervised Learning of a Kinematic Arm Model (Lecture Notes in Computer Sciences 2714). &lt;em&gt;Artificial Neural Networks and Neural Information Processing –- ICANN/ICONIP 2003&lt;/em&gt; (S. 463-470). Springer.&lt;/div&gt;</dgps>
+<harvard1>Hoffmann, H., &amp;amp; Möller, R., 2003. Unsupervised Learning of a Kinematic Arm Model. In O.  Kaynak, et al., eds. &lt;em&gt;Artificial Neural Networks and Neural Information Processing –- ICANN/ICONIP 2003&lt;/em&gt;. Lecture Notes in Computer Sciences 2714.  Springer, pp. 463-470.</harvard1>
+<default>Hoffmann H, Möller R (2003)  &lt;br /&gt;In:  Artificial Neural Networks and Neural Information Processing –- ICANN/ICONIP 2003. Kaynak O, Alpaydin E, Oja E, Xu L (Eds); Lecture Notes in Computer Sciences 2714, . Springer:  463-470.</default>
+<wels>Hoffmann, H.; Möller, R. (2003): Unsupervised Learning of a Kinematic Arm Model. In: O. Kaynak; E. Alpaydin; E. Oja; L. Xu (Hrsg.):  Artificial Neural Networks and Neural Information Processing –- ICANN/ICONIP 2003. Springer. (Lecture Notes in Computer Sciences 2714, ).  S. 463-470.</wels>
+<mla>Hoffmann, Heiko, and Möller, Ralf. “Unsupervised Learning of a Kinematic Arm Model”. &lt;em&gt;Artificial Neural Networks and Neural Information Processing –- ICANN/ICONIP 2003&lt;/em&gt;. Ed. O. Kaynak, E. Alpaydin, E. Oja, and L. Xu. Springer, 2003. Lecture Notes in Computer Sciences 2714. 463-470.</mla>
+<lncs>Hoffmann, H., Möller, R.: Unsupervised Learning of a Kinematic Arm Model. In: Kaynak, O., Alpaydin, E., Oja, E., and Xu, L. (eds.) Artificial Neural Networks and Neural Information Processing –- ICANN/ICONIP 2003. Lecture Notes in Computer Sciences 2714. p. 463-470. Springer (2003).</lncs>
+<ieee>H. Hoffmann and R. Möller, “Unsupervised Learning of a Kinematic Arm Model”, &lt;em&gt;Artificial Neural Networks and Neural Information Processing –- ICANN/ICONIP 2003&lt;/em&gt;, O. Kaynak, et al., eds., Lecture Notes in Computer Sciences 2714, Springer, 2003,  pp.463-470.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hoffmann, H., &amp;amp; Möller, R. (2003). Unsupervised Learning of a Kinematic Arm Model. In O.  Kaynak, E.  Alpaydin, E.  Oja, &amp;amp; L.  Xu (Eds.), &lt;em&gt;Lecture Notes in Computer Sciences 2714&lt;/em&gt;&lt;em&gt;. Artificial Neural Networks and Neural Information Processing –- ICANN/ICONIP 2003&lt;/em&gt; (pp. 463-470). Springer.&lt;/div&gt;</apa_indent>
+<frontiers>Hoffmann, H., and Möller, R. (2003). “Unsupervised Learning of a Kinematic Arm Model” in &lt;em&gt;Artificial Neural Networks and Neural Information Processing –- ICANN/ICONIP 2003&lt;/em&gt;, ed. O.  Kaynak, E.  Alpaydin, E.  Oja, and L.  Xu Lecture Notes in Computer Sciences 2714 (Springer), 463-470.</frontiers>
+<angewandte-chemie>H.  Hoffmann, and R.  Möller, in &lt;em&gt;Artificial Neural Networks and Neural Information Processing –- ICANN/ICONIP 2003&lt;/em&gt; (Eds.: O. Kaynak, E. Alpaydin, E. Oja, L. Xu), Springer, &lt;strong&gt;2003&lt;/strong&gt;, p. 463-470.</angewandte-chemie>
+<apa>Hoffmann, H., &amp;amp; Möller, R. (2003). Unsupervised Learning of a Kinematic Arm Model. In O.  Kaynak, E.  Alpaydin, E.  Oja, &amp;amp; L.  Xu (Eds.), &lt;em&gt;Lecture Notes in Computer Sciences 2714&lt;/em&gt;&lt;em&gt;. Artificial Neural Networks and Neural Information Processing –- ICANN/ICONIP 2003&lt;/em&gt; (pp. 463-470). Springer.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hoffmann, Heiko, and Möller, Ralf. 2003. “Unsupervised Learning of a Kinematic Arm Model”. In &lt;em&gt;Artificial Neural Networks and Neural Information Processing –- ICANN/ICONIP 2003&lt;/em&gt;, ed. O. Kaynak, E. Alpaydin, E. Oja, and L. Xu, 463-470. Lecture Notes in Computer Sciences 2714. Springer.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1936917</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-12-08T15:36:16Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-09T08:24:37Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1936917</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1936917</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

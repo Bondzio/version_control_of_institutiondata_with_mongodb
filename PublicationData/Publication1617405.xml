@@ -1,0 +1,109 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Electron acceleration in combined laser and uniform electric fields</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">YI</namePart>
+  <namePart type="family">Salamin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">CH</namePart>
+  <namePart type="family">Keitel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Farhard</namePart>
+  <namePart type="family">Faisal</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40255</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Theoretische Atom-, Molekül- und Laserphysik</namePart>
+  <identifier type="unibi">23470672</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">An exact analytical solution for the equation of motion of a single relativistic electron, injected initially at some angle xi to the propagation direction of a linearly polarized plane-wave laser field of arbitrary intensity and a uniform electric field oriented anti-parallel to the laser propagation direction, is developed. The solution is then used to investigate the issue of electron acceleration to high energies in the prescribed fields. It is found that, in principle, an electron may be accelerated from rest or motion to several hundred GeV, if the uniform electric field strength E-s approaches a critical value E-s(c) = (m&lt;(&lt;omega&gt;)over tilde&gt;c)/(2 pi Ne), where m and e are the mass and charge of the electron, c is the speed of light in vacuum, N is the number of field cycles in the pulse and &lt;(&lt;omega&gt;)over tilde&gt; is the Doppler-shifted frequency of the laser field as seen by the electron upon initial injection. The radiation losses during acceleration are shown to be negligible and the spectrum of the radiation emitted along the initial direction of motion (parallel injection) of the electron is shown to consist mostly of the fundamental laser frequency.</abstract>
+
+<originInfo><publisher>IOP PUBLISHING LTD</publisher><dateIssued encoding="w3cdtf">2001</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF PHYSICS A-MATHEMATICAL AND GENERAL</title></titleInfo>
+  <identifier type="issn">0305-4470</identifier>
+  <identifier type="ISI">000168112300019</identifier>
+<part><detail type="volume"><number>34</number></detail><detail type="issue"><number>13</number></detail><extent unit="pages">2819-2837</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Salamin YI, Keitel CH, Faisal F. Electron acceleration in combined laser and uniform electric fields. &lt;em&gt;JOURNAL OF PHYSICS A-MATHEMATICAL AND GENERAL&lt;/em&gt;. 2001;34(13):2819-2837.</ama>
+<harvard1>Salamin, Y.I., Keitel, C.H., &amp;amp; Faisal, F., 2001. Electron acceleration in combined laser and uniform electric fields. &lt;em&gt;JOURNAL OF PHYSICS A-MATHEMATICAL AND GENERAL&lt;/em&gt;, 34(13), p 2819-2837.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Salamin, Y.I., Keitel, C.H. &amp;amp; Faisal, F. (2001). Electron acceleration in combined laser and uniform electric fields. &lt;em&gt;JOURNAL OF PHYSICS A-MATHEMATICAL AND GENERAL&lt;/em&gt;, &lt;em&gt;34&lt;/em&gt;(13), 2819-2837. IOP PUBLISHING LTD.&lt;/div&gt;</dgps>
+<aps>Y. I.  Salamin, C. H.  Keitel, and F.  Faisal, Electron acceleration in combined laser and uniform electric fields, JOURNAL OF PHYSICS A-MATHEMATICAL AND GENERAL &lt;strong&gt;34&lt;/strong&gt;, 2819-2837 (2001).</aps>
+<bio1>Salamin YI, Keitel CH, Faisal F (2001) &lt;br /&gt;Electron acceleration in combined laser and uniform electric fields.&lt;br /&gt;JOURNAL OF PHYSICS A-MATHEMATICAL AND GENERAL 34(13): 2819-2837.</bio1>
+<wels>Salamin, Y. I.; Keitel, C. H.; Faisal, F. (2001): Electron acceleration in combined laser and uniform electric fields &lt;em&gt;JOURNAL OF PHYSICS A-MATHEMATICAL AND GENERAL&lt;/em&gt;,34:(13): 2819-2837.</wels>
+<default>Salamin YI, Keitel CH, Faisal F (2001) &lt;br /&gt;JOURNAL OF PHYSICS A-MATHEMATICAL AND GENERAL 34(13): 2819-2837.</default>
+<ieee>Y.I. Salamin, C.H. Keitel, and F. Faisal, “Electron acceleration in combined laser and uniform electric fields”, &lt;em&gt;JOURNAL OF PHYSICS A-MATHEMATICAL AND GENERAL&lt;/em&gt;,  vol. 34, 2001,  pp. 2819-2837.</ieee>
+<mla>Salamin, YI, Keitel, CH, and Faisal, Farhard. “Electron acceleration in combined laser and uniform electric fields”. &lt;em&gt;JOURNAL OF PHYSICS A-MATHEMATICAL AND GENERAL&lt;/em&gt; 34.13 (2001): 2819-2837.</mla>
+<lncs>Salamin, Y.I., Keitel, C.H., Faisal, F.: Electron acceleration in combined laser and uniform electric fields. JOURNAL OF PHYSICS A-MATHEMATICAL AND GENERAL. 34, 2819-2837 (2001).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Salamin, Y. I., Keitel, C. H., &amp;amp; Faisal, F. (2001). Electron acceleration in combined laser and uniform electric fields. &lt;em&gt;JOURNAL OF PHYSICS A-MATHEMATICAL AND GENERAL&lt;/em&gt;, &lt;em&gt;34&lt;/em&gt;(13), 2819-2837.&lt;/div&gt;</apa_indent>
+<apa>Salamin, Y. I., Keitel, C. H., &amp;amp; Faisal, F. (2001). Electron acceleration in combined laser and uniform electric fields. &lt;em&gt;JOURNAL OF PHYSICS A-MATHEMATICAL AND GENERAL&lt;/em&gt;, &lt;em&gt;34&lt;/em&gt;(13), 2819-2837.</apa>
+<angewandte-chemie>Y. I.  Salamin, C. H.  Keitel, and F.  Faisal, “Electron acceleration in combined laser and uniform electric fields”, &lt;em&gt;JOURNAL OF PHYSICS A-MATHEMATICAL AND GENERAL&lt;/em&gt;, &lt;strong&gt;2001&lt;/strong&gt;, &lt;em&gt;34&lt;/em&gt;, 2819-2837.</angewandte-chemie>
+<frontiers>Salamin, Y. I., Keitel, C. H., and Faisal, F. (2001). Electron acceleration in combined laser and uniform electric fields. &lt;em&gt;JOURNAL OF PHYSICS A-MATHEMATICAL AND GENERAL&lt;/em&gt; 34, 2819-2837.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Salamin, YI, Keitel, CH, and Faisal, Farhard. 2001. “Electron acceleration in combined laser and uniform electric fields”. &lt;em&gt;JOURNAL OF PHYSICS A-MATHEMATICAL AND GENERAL&lt;/em&gt; 34 (13): 2819-2837.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1617405</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:03:13Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-11-04T10:03:30Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1617405</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1617405</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

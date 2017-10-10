@@ -1,0 +1,193 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Single-Molecule Experiments to Elucidate the Minimal Requirement for DNA Recognition by Transcription Factor Epitopes</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Katrin</namePart>
+  <namePart type="family">Wollschläger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Katharina</namePart>
+  <namePart type="family">Gaus</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andre</namePart>
+  <namePart type="family">Körnig</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Rainer</namePart>
+  <namePart type="family">Eckel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Sven-David</namePart>
+  <namePart type="family">Wilking</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Matthew</namePart>
+  <namePart type="family">McIntosh</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Zsuzsanna</namePart>
+  <namePart type="family">Majer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Anke</namePart>
+  <namePart type="family">Becker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Robert</namePart>
+  <namePart type="family">Ros</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Dario</namePart>
+  <namePart type="family">Anselmetti</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40180</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-8720-4369</description></name>
+<name type="personal">
+  <namePart type="given">Norbert</namePart>
+  <namePart type="family">Sewald</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20281</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2161137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">4838684</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">29125395</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">17977</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33086655</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">16941123</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33079524</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Interactions between proteins and DNA are essential for the regulation of cellular processes in all living organisms. In this context, it is of special interest to investigate the sequence-specific molecular recognition between transcription factors and their cognate DNA sequences. As a model system, peptide and protein epitopes of the DNA-binding domain (DBD) of the transcription factor PhoB from Escherichia coli are analyzed with respect to DNA binding at the single-molecule level. Peptides representing the amphiphilic recognition helix of the PhoB DBD (amino acids 190-209) are chemically synthesized and C-terminally modified with a linker for atomic force microscopy-dynamic force spectroscopy experiments (AFM-DFS), For comparison, the entire PhoB DBD is overexpressed in E. coli and purified using an intein-mediated protein purification method. To facilitate immobilization for AFM-DFS experiments, an additional cysteine residue is ligated to the protein. Quantitative AFM-DFS analysis proves the specificity of the interaction and yields force-related properties and kinetic data, such as thermal dissociation rate constants. An alanine scan for strategic residues in both peptide and protein sequences is performed to reveal the contributions of single amino acid residues to the molecular-recognition process. Additionally, DNA binding is substantiated by electrophoretic mobility-shift experiments. Structural differences of the peptides, proteins, and DNA upon complex formation are analyzed by circular dichroism spectroscopy. This combination of techniques eventually provides a concise picture of the contribution of epitopes or single amino acids in PhoB to DNA binding.</abstract>
+
+<originInfo><publisher>Wiley-Blackwell</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>single-molecule</topic><topic>circular dichroism</topic><topic>AFM-DFS</topic><topic>studies</topic><topic>peptides</topic><topic>DNA recognition</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>SMALL</title></titleInfo>
+  <identifier type="issn">1613-6810</identifier>
+  <identifier type="eIssn">1613-6829</identifier>
+  <identifier type="MEDLINE">19199332</identifier>
+  <identifier type="ISI">000264327500012</identifier><identifier type="doi">10.1002/smll.200800945</identifier>
+<part><detail type="volume"><number>5</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">484-495</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<lncs>Wollschläger, K., Gaus, K., Körnig, A., Eckel, R., Wilking, S.-D., McIntosh, M., Majer, Z., Becker, A., Ros, R., Anselmetti, D., Sewald, N.: Single-Molecule Experiments to Elucidate the Minimal Requirement for DNA Recognition by Transcription Factor Epitopes. SMALL. 5, 484-495 (2009).</lncs>
+<mla>Wollschläger, Katrin, Gaus, Katharina, Körnig, Andre, Eckel, Rainer, Wilking, Sven-David, McIntosh, Matthew, Majer, Zsuzsanna, Becker, Anke, Ros, Robert, Anselmetti, Dario, and Sewald, Norbert. “Single-Molecule Experiments to Elucidate the Minimal Requirement for DNA Recognition by Transcription Factor Epitopes”. &lt;em&gt;SMALL&lt;/em&gt; 5.4 (2009): 484-495.</mla>
+<ieee>K. Wollschläger, et al., “Single-Molecule Experiments to Elucidate the Minimal Requirement for DNA Recognition by Transcription Factor Epitopes”, &lt;em&gt;SMALL&lt;/em&gt;,  vol. 5, 2009,  pp. 484-495.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wollschläger, K., Gaus, K., Körnig, A., Eckel, R., Wilking, S. - D., McIntosh, M., Majer, Z., et al. (2009). Single-Molecule Experiments to Elucidate the Minimal Requirement for DNA Recognition by Transcription Factor Epitopes. &lt;em&gt;SMALL&lt;/em&gt;, &lt;em&gt;5&lt;/em&gt;(4), 484-495.&lt;/div&gt;</apa_indent>
+<frontiers>Wollschläger, K., Gaus, K., Körnig, A., Eckel, R., Wilking, S. - D., McIntosh, M., Majer, Z., Becker, A., Ros, R., Anselmetti, D., et al. (2009). Single-Molecule Experiments to Elucidate the Minimal Requirement for DNA Recognition by Transcription Factor Epitopes. &lt;em&gt;SMALL&lt;/em&gt; 5, 484-495.</frontiers>
+<angewandte-chemie>K.  Wollschläger, K.  Gaus, A.  Körnig, R.  Eckel, S. - D.  Wilking, M.  McIntosh, Z.  Majer, A.  Becker, R.  Ros, D.  Anselmetti, et al., “Single-Molecule Experiments to Elucidate the Minimal Requirement for DNA Recognition by Transcription Factor Epitopes”, &lt;em&gt;SMALL&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;5&lt;/em&gt;, 484-495.</angewandte-chemie>
+<apa>Wollschläger, K., Gaus, K., Körnig, A., Eckel, R., Wilking, S. - D., McIntosh, M., Majer, Z., et al. (2009). Single-Molecule Experiments to Elucidate the Minimal Requirement for DNA Recognition by Transcription Factor Epitopes. &lt;em&gt;SMALL&lt;/em&gt;, &lt;em&gt;5&lt;/em&gt;(4), 484-495.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wollschläger, Katrin, Gaus, Katharina, Körnig, Andre, Eckel, Rainer, Wilking, Sven-David, McIntosh, Matthew, Majer, Zsuzsanna, et al. 2009. “Single-Molecule Experiments to Elucidate the Minimal Requirement for DNA Recognition by Transcription Factor Epitopes”. &lt;em&gt;SMALL&lt;/em&gt; 5 (4): 484-495.&lt;/div&gt;</chicago>
+<bio1>Wollschläger K, Gaus K, Körnig A, Eckel R, Wilking S-D, McIntosh M, Majer Z, Becker A, Ros R, Anselmetti D, Sewald N (2009) &lt;br /&gt;Single-Molecule Experiments to Elucidate the Minimal Requirement for DNA Recognition by Transcription Factor Epitopes.&lt;br /&gt;SMALL 5(4): 484-495.</bio1>
+<aps>K.  Wollschläger, et al., Single-Molecule Experiments to Elucidate the Minimal Requirement for DNA Recognition by Transcription Factor Epitopes, SMALL &lt;strong&gt;5&lt;/strong&gt;, 484-495 (2009).</aps>
+<ama>Wollschläger K, Gaus K, Körnig A, et al. Single-Molecule Experiments to Elucidate the Minimal Requirement for DNA Recognition by Transcription Factor Epitopes. &lt;em&gt;SMALL&lt;/em&gt;. 2009;5(4):484-495.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wollschläger, K., Gaus, K., Körnig, A., Eckel, R., Wilking, S.-D., McIntosh, M., Majer, Z., Becker, A., Ros, R., Anselmetti, D. &amp;amp; Sewald, N. (2009). Single-Molecule Experiments to Elucidate the Minimal Requirement for DNA Recognition by Transcription Factor Epitopes. &lt;em&gt;SMALL&lt;/em&gt;, &lt;em&gt;5&lt;/em&gt;(4), 484-495. Wiley-Blackwell. doi:10.1002/smll.200800945.&lt;/div&gt;</dgps>
+<harvard1>Wollschläger, K., et al., 2009. Single-Molecule Experiments to Elucidate the Minimal Requirement for DNA Recognition by Transcription Factor Epitopes. &lt;em&gt;SMALL&lt;/em&gt;, 5(4), p 484-495.</harvard1>
+<default>Wollschläger K, Gaus K, Körnig A, Eckel R, Wilking S-D, McIntosh M, Majer Z, Becker A, Ros R, Anselmetti D, Sewald N (2009) &lt;br /&gt;SMALL 5(4): 484-495.</default>
+<wels>Wollschläger, K.; Gaus, K.; Körnig, A.; Eckel, R.; Wilking, S. - D.; McIntosh, M.; Majer, Z.; Becker, A.; Ros, R.; Anselmetti, D.; Sewald, N. (2009): Single-Molecule Experiments to Elucidate the Minimal Requirement for DNA Recognition by Transcription Factor Epitopes &lt;em&gt;SMALL&lt;/em&gt;,5:(4): 484-495.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1634861</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:28Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-02-04T14:35:22Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1634861</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1634861</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

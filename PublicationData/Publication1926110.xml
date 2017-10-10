@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Stochastic response restrictions</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Harry</namePart>
+  <namePart type="family">Haupt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">6141079</identifier></name>
+<name type="personal">
+  <namePart type="given">Walter</namePart>
+  <namePart type="family">Oberhofer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Wirtschaftswissenschaften</namePart>
+  <identifier type="unibi">10031</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">This paper considers the implementation of prior stochastic information on unknown outcomes of the response variables into estimation and forecasting of systems of linear regression equations in the context of time series, cross sections, pooled and longitudinal data models. The established approach proves particularly useful when only aggregated information on the response variables is available, as is frequently the case in applied statistics. We address the combination of prior stochastic and sample information as an extension of standard Gauss-Markov theory. Prior stochastic information could be given in the form of experts&apos; expectations, or from estimations and/or projections of other models. A classical (i.e. non-Bayesian) regression framework for the incorporation of prior knowledge in generalized least-squares estimation and prediction is developed.</abstract>
+
+<originInfo><dateIssued encoding="w3cdtf">2005</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Stochastic response restrictions BLU Gauss-Markov theory</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Journal of Multivariate Analysis</title></titleInfo>
+  <identifier type="issn">0047-259X</identifier>
+  <identifier type="ISI">000229701600005</identifier><identifier type="doi">10.1016/j.jmva.2004.08.006</identifier>
+<part><detail type="volume"><number>95</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">66-75</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Haupt, H.; Oberhofer, W. (2005): Stochastic response restrictions &lt;em&gt;Journal of Multivariate Analysis&lt;/em&gt;,95:(1): 66-75.</wels>
+<default>Haupt H, Oberhofer W (2005) &lt;br /&gt;Journal of Multivariate Analysis 95(1): 66-75.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Haupt, H. &amp;amp; Oberhofer, W. (2005). Stochastic response restrictions. &lt;em&gt;Journal of Multivariate Analysis&lt;/em&gt;, &lt;em&gt;95&lt;/em&gt;(1), 66-75. doi:10.1016/j.jmva.2004.08.006.&lt;/div&gt;</dgps>
+<ama>Haupt H, Oberhofer W. Stochastic response restrictions. &lt;em&gt;Journal of Multivariate Analysis&lt;/em&gt;. 2005;95(1):66-75.</ama>
+<harvard1>Haupt, H., &amp;amp; Oberhofer, W., 2005. Stochastic response restrictions. &lt;em&gt;Journal of Multivariate Analysis&lt;/em&gt;, 95(1), p 66-75.</harvard1>
+<aps>H.  Haupt and W.  Oberhofer, Stochastic response restrictions, Journal of Multivariate Analysis &lt;strong&gt;95&lt;/strong&gt;, 66-75 (2005).</aps>
+<bio1>Haupt H, Oberhofer W (2005) &lt;br /&gt;Stochastic response restrictions.&lt;br /&gt;Journal of Multivariate Analysis 95(1): 66-75.</bio1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Haupt, Harry, and Oberhofer, Walter. 2005. “Stochastic response restrictions”. &lt;em&gt;Journal of Multivariate Analysis&lt;/em&gt; 95 (1): 66-75.&lt;/div&gt;</chicago>
+<apa>Haupt, H., &amp;amp; Oberhofer, W. (2005). Stochastic response restrictions. &lt;em&gt;Journal of Multivariate Analysis&lt;/em&gt;, &lt;em&gt;95&lt;/em&gt;(1), 66-75.</apa>
+<angewandte-chemie>H.  Haupt, and W.  Oberhofer, “Stochastic response restrictions”, &lt;em&gt;Journal of Multivariate Analysis&lt;/em&gt;, &lt;strong&gt;2005&lt;/strong&gt;, &lt;em&gt;95&lt;/em&gt;, 66-75.</angewandte-chemie>
+<frontiers>Haupt, H., and Oberhofer, W. (2005). Stochastic response restrictions. &lt;em&gt;Journal of Multivariate Analysis&lt;/em&gt; 95, 66-75.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Haupt, H., &amp;amp; Oberhofer, W. (2005). Stochastic response restrictions. &lt;em&gt;Journal of Multivariate Analysis&lt;/em&gt;, &lt;em&gt;95&lt;/em&gt;(1), 66-75.&lt;/div&gt;</apa_indent>
+<ieee>H. Haupt and W. Oberhofer, “Stochastic response restrictions”, &lt;em&gt;Journal of Multivariate Analysis&lt;/em&gt;,  vol. 95, 2005,  pp. 66-75.</ieee>
+<mla>Haupt, Harry, and Oberhofer, Walter. “Stochastic response restrictions”. &lt;em&gt;Journal of Multivariate Analysis&lt;/em&gt; 95.1 (2005): 66-75.</mla>
+<lncs>Haupt, H., Oberhofer, W.: Stochastic response restrictions. Journal of Multivariate Analysis. 95, 66-75 (2005).</lncs>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1926110</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-12-03T15:05:08Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2013-07-24T08:23:24Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1926110</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1926110</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

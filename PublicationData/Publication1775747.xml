@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>A class of balanced non-uniserial rings</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Vlastimil</namePart>
+  <namePart type="family">Dlab</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Claus Michael</namePart>
+  <namePart type="family">Ringel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10583</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>SFB 701 Spectral Structures and Topological Methods in Mathematics</namePart>
+  <identifier type="unibi">435978</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Ringel_010.pdf">https://pub.uni-bielefeld.de/download/1775747/2312008</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1972</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Mathematische Annalen</title></titleInfo>
+  <identifier type="issn">0025-5831</identifier><identifier type="urn">urn:nbn:de:0070-bipr-9865</identifier>
+<part><detail type="volume"><number>195</number></detail><extent unit="pages">279-291</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Dlab, Vlastimil, and Ringel, Claus Michael. 1972. “A class of balanced non-uniserial rings”. &lt;em&gt;Mathematische Annalen&lt;/em&gt; 195: 279-291.&lt;/div&gt;</chicago>
+<angewandte-chemie>V.  Dlab, and C. M.  Ringel, “A class of balanced non-uniserial rings”, &lt;em&gt;Mathematische Annalen&lt;/em&gt;, &lt;strong&gt;1972&lt;/strong&gt;, &lt;em&gt;195&lt;/em&gt;, 279-291.</angewandte-chemie>
+<apa>Dlab, V., &amp;amp; Ringel, C. M. (1972). A class of balanced non-uniserial rings. &lt;em&gt;Mathematische Annalen&lt;/em&gt;, &lt;em&gt;195&lt;/em&gt;, 279-291.</apa>
+<frontiers>Dlab, V., and Ringel, C. M. (1972). A class of balanced non-uniserial rings. &lt;em&gt;Mathematische Annalen&lt;/em&gt; 195, 279-291.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Dlab, V., &amp;amp; Ringel, C. M. (1972). A class of balanced non-uniserial rings. &lt;em&gt;Mathematische Annalen&lt;/em&gt;, &lt;em&gt;195&lt;/em&gt;, 279-291.&lt;/div&gt;</apa_indent>
+<ieee>V. Dlab and C.M. Ringel, “A class of balanced non-uniserial rings”, &lt;em&gt;Mathematische Annalen&lt;/em&gt;,  vol. 195, 1972,  pp. 279-291.</ieee>
+<mla>Dlab, Vlastimil, and Ringel, Claus Michael. “A class of balanced non-uniserial rings”. &lt;em&gt;Mathematische Annalen&lt;/em&gt; 195 (1972): 279-291.</mla>
+<lncs>Dlab, V., Ringel, C.M.: A class of balanced non-uniserial rings. Mathematische Annalen. 195, 279-291 (1972).</lncs>
+<wels>Dlab, V.; Ringel, C. M. (1972): A class of balanced non-uniserial rings &lt;em&gt;Mathematische Annalen&lt;/em&gt;,195: 279-291.</wels>
+<default>Dlab V, Ringel CM (1972) &lt;br /&gt;Mathematische Annalen 195: 279-291.</default>
+<ama>Dlab V, Ringel CM. A class of balanced non-uniserial rings. &lt;em&gt;Mathematische Annalen&lt;/em&gt;. 1972;195:279-291.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Dlab, V. &amp;amp; Ringel, C.M. (1972). A class of balanced non-uniserial rings. &lt;em&gt;Mathematische Annalen&lt;/em&gt;, &lt;em&gt;195&lt;/em&gt;, 279-291.&lt;/div&gt;</dgps>
+<harvard1>Dlab, V., &amp;amp; Ringel, C.M., 1972. A class of balanced non-uniserial rings. &lt;em&gt;Mathematische Annalen&lt;/em&gt;, 195, p 279-291.</harvard1>
+<aps>V.  Dlab and C. M.  Ringel, A class of balanced non-uniserial rings, Mathematische Annalen &lt;strong&gt;195&lt;/strong&gt;, 279-291 (1972).</aps>
+<bio1>Dlab V, Ringel CM (1972) &lt;br /&gt;A class of balanced non-uniserial rings.&lt;br /&gt;Mathematische Annalen 195: 279-291.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1775747</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1775747</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1775747</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

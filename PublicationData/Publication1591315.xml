@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Experimental and numerical methods for studying the flame structure</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Katharina</namePart>
+  <namePart type="family">Kohse-Höinghaus</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20770</identifier></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Brockhinke</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20287</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">17978</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Laminar premixed flames under laboratory conditions often at reduced pressures are of great interest for combustion chemistry and environmental pollution. Recently, there has been considerable progress in studying the combustion of hydrocarbons, oxygenates, and their mixtures. Methods of laser diagnostics, including cavity ring-down spectroscopy and laser induced fluorescence, combined with a number of mass spectrometry techniques for in situ studies of flames allow measurements of concentrations of major species and intermediate products in flames. The structure of fuel molecules and the effect of fuel composition on the structure of intermediate products were studied from the viewpoint of formation of undesired and potentially harmful combustion products in hydrocarbon and oxygenate flames. Chemiluminescence was studied using data on collisional energy transfer. Low-temperature combustion of strongly diluted mixtures in a flow type reactor was investigated.</abstract>
+
+<originInfo><publisher>Springer Science + Business Media</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>oxygenates</topic><topic>laser</topic><topic>diagnostics flames</topic><topic>numerical modeling</topic><topic>flame structure</topic><topic>molecular beam mass spectrometry</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>COMBUSTION, EXPLOSION, AND SHOCK WAVES</title></titleInfo>
+  <identifier type="issn">0010-5082</identifier>
+  <identifier type="eIssn">1573-8345</identifier>
+  <identifier type="ISI">000268870100001</identifier><identifier type="doi">10.1007/s10573-009-0046-0</identifier>
+<part><detail type="volume"><number>45</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">349-364</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Kohse-Höinghaus, K., and Brockhinke, A. (2009). Experimental and numerical methods for studying the flame structure. &lt;em&gt;COMBUSTION, EXPLOSION, AND SHOCK WAVES&lt;/em&gt; 45, 349-364.</frontiers>
+<apa>Kohse-Höinghaus, K., &amp;amp; Brockhinke, A. (2009). Experimental and numerical methods for studying the flame structure. &lt;em&gt;COMBUSTION, EXPLOSION, AND SHOCK WAVES&lt;/em&gt;, &lt;em&gt;45&lt;/em&gt;(4), 349-364.</apa>
+<angewandte-chemie>K.  Kohse-Höinghaus, and A.  Brockhinke, “Experimental and numerical methods for studying the flame structure”, &lt;em&gt;COMBUSTION, EXPLOSION, AND SHOCK WAVES&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;45&lt;/em&gt;, 349-364.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kohse-Höinghaus, Katharina, and Brockhinke, Andreas. 2009. “Experimental and numerical methods for studying the flame structure”. &lt;em&gt;COMBUSTION, EXPLOSION, AND SHOCK WAVES&lt;/em&gt; 45 (4): 349-364.&lt;/div&gt;</chicago>
+<lncs>Kohse-Höinghaus, K., Brockhinke, A.: Experimental and numerical methods for studying the flame structure. COMBUSTION, EXPLOSION, AND SHOCK WAVES. 45, 349-364 (2009).</lncs>
+<mla>Kohse-Höinghaus, Katharina, and Brockhinke, Andreas. “Experimental and numerical methods for studying the flame structure”. &lt;em&gt;COMBUSTION, EXPLOSION, AND SHOCK WAVES&lt;/em&gt; 45.4 (2009): 349-364.</mla>
+<ieee>K. Kohse-Höinghaus and A. Brockhinke, “Experimental and numerical methods for studying the flame structure”, &lt;em&gt;COMBUSTION, EXPLOSION, AND SHOCK WAVES&lt;/em&gt;,  vol. 45, 2009,  pp. 349-364.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kohse-Höinghaus, K., &amp;amp; Brockhinke, A. (2009). Experimental and numerical methods for studying the flame structure. &lt;em&gt;COMBUSTION, EXPLOSION, AND SHOCK WAVES&lt;/em&gt;, &lt;em&gt;45&lt;/em&gt;(4), 349-364.&lt;/div&gt;</apa_indent>
+<default>Kohse-Höinghaus K, Brockhinke A (2009) &lt;br /&gt;COMBUSTION, EXPLOSION, AND SHOCK WAVES 45(4): 349-364.</default>
+<wels>Kohse-Höinghaus, K.; Brockhinke, A. (2009): Experimental and numerical methods for studying the flame structure &lt;em&gt;COMBUSTION, EXPLOSION, AND SHOCK WAVES&lt;/em&gt;,45:(4): 349-364.</wels>
+<aps>K.  Kohse-Höinghaus and A.  Brockhinke, Experimental and numerical methods for studying the flame structure, COMBUSTION, EXPLOSION, AND SHOCK WAVES &lt;strong&gt;45&lt;/strong&gt;, 349-364 (2009).</aps>
+<bio1>Kohse-Höinghaus K, Brockhinke A (2009) &lt;br /&gt;Experimental and numerical methods for studying the flame structure.&lt;br /&gt;COMBUSTION, EXPLOSION, AND SHOCK WAVES 45(4): 349-364.</bio1>
+<ama>Kohse-Höinghaus K, Brockhinke A. Experimental and numerical methods for studying the flame structure. &lt;em&gt;COMBUSTION, EXPLOSION, AND SHOCK WAVES&lt;/em&gt;. 2009;45(4):349-364.</ama>
+<harvard1>Kohse-Höinghaus, K., &amp;amp; Brockhinke, A., 2009. Experimental and numerical methods for studying the flame structure. &lt;em&gt;COMBUSTION, EXPLOSION, AND SHOCK WAVES&lt;/em&gt;, 45(4), p 349-364.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kohse-Höinghaus, K. &amp;amp; Brockhinke, A. (2009). Experimental and numerical methods for studying the flame structure. &lt;em&gt;COMBUSTION, EXPLOSION, AND SHOCK WAVES&lt;/em&gt;, &lt;em&gt;45&lt;/em&gt;(4), 349-364. Springer Science + Business Media. doi:10.1007/s10573-009-0046-0.&lt;/div&gt;</dgps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1591315</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-26T09:45:46Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-02-01T12:00:59Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1591315</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1591315</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,119 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Computation of the spatial string tension in high temperature SU(2)gauge theory</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">G. S.</namePart>
+  <namePart type="family">Bali</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">K.</namePart>
+  <namePart type="family">Schilling</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jochen</namePart>
+  <namePart type="family">Fingberg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">U. M.</namePart>
+  <namePart type="family">Heller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Frithjof</namePart>
+  <namePart type="family">Karsch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40326</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">A detailed investigation of the temperature dependence of the spatial string tension sigma(s) in SU(2) gauge theory is presented. A sustained performance of 3 GFLOPS on a 64K Connection Machine CM-2 equivalent has been achieved. Scaling of sigma(s) between beta = 2.5115 and beta = 2.74, on large lattices, is demonstrated. Below the critical temperature, T(c), sigma(s) remains constant. For temperatures larger than 2T(c) the temperature dependence can be parametrized by sigma(s) (T) = (0.369 +/- 0.014)2g4(T)T2, where g(T) is a 2-loop running coupling constant with the scale parameter determined as LAMBDA(T) = (0.076 +/- 0.013)T(c).</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT3881.pdf">https://pub.uni-bielefeld.de/download/1784474/2314452</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1993</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>SU(2) gauge theory</topic><topic>Lattice gauge theory</topic><topic>Finite temperature QCD</topic><topic>String tension</topic><topic>Dimensional reduction</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>International journal of modern physics, C</title></titleInfo>
+  <identifier type="issn">0129-1831</identifier>
+  <identifier type="eIssn">1793-6586</identifier>
+  <identifier type="arXiv">hep-lat/9308003</identifier>
+  <identifier type="INSPIRE">357209</identifier>
+  <identifier type="ISI">A1993MQ88300013</identifier><identifier type="urn">urn:nbn:de:0070-bipr-38813</identifier><identifier type="doi">10.1142/S0129183193000938</identifier>
+<part><detail type="volume"><number>4</number></detail><detail type="issue"><number>06</number></detail><extent unit="pages">1179-1193</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Bali GS, Schilling K, Fingberg J, Heller UM, Karsch F (1993) &lt;br /&gt;International journal of modern physics, C 4(06): 1179-1193.</default>
+<wels>Bali, G. S.; Schilling, K.; Fingberg, J.; Heller, U. M.; Karsch, F. (1993): Computation of the spatial string tension in high temperature SU(2)gauge theory &lt;em&gt;International journal of modern physics, C&lt;/em&gt;,4:(06): 1179-1193.</wels>
+<aps>G. S.  Bali, et al., Computation of the spatial string tension in high temperature SU(2)gauge theory, International journal of modern physics, C &lt;strong&gt;4&lt;/strong&gt;, 1179-1193 (1993).</aps>
+<bio1>Bali GS, Schilling K, Fingberg J, Heller UM, Karsch F (1993) &lt;br /&gt;Computation of the spatial string tension in high temperature SU(2)gauge theory.&lt;br /&gt;International journal of modern physics, C 4(06): 1179-1193.</bio1>
+<ama>Bali GS, Schilling K, Fingberg J, Heller UM, Karsch F. Computation of the spatial string tension in high temperature SU(2)gauge theory. &lt;em&gt;International journal of modern physics, C&lt;/em&gt;. 1993;4(06):1179-1193.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bali, G.S., Schilling, K., Fingberg, J., Heller, U.M. &amp;amp; Karsch, F. (1993). Computation of the spatial string tension in high temperature SU(2)gauge theory. &lt;em&gt;International journal of modern physics, C&lt;/em&gt;, &lt;em&gt;4&lt;/em&gt;(06), 1179-1193. doi:10.1142/S0129183193000938.&lt;/div&gt;</dgps>
+<harvard1>Bali, G.S., et al., 1993. Computation of the spatial string tension in high temperature SU(2)gauge theory. &lt;em&gt;International journal of modern physics, C&lt;/em&gt;, 4(06), p 1179-1193.</harvard1>
+<frontiers>Bali, G. S., Schilling, K., Fingberg, J., Heller, U. M., and Karsch, F. (1993). Computation of the spatial string tension in high temperature SU(2)gauge theory. &lt;em&gt;International journal of modern physics, C&lt;/em&gt; 4, 1179-1193.</frontiers>
+<angewandte-chemie>G. S.  Bali, K.  Schilling, J.  Fingberg, U. M.  Heller, and F.  Karsch, “Computation of the spatial string tension in high temperature SU(2)gauge theory”, &lt;em&gt;International journal of modern physics, C&lt;/em&gt;, &lt;strong&gt;1993&lt;/strong&gt;, &lt;em&gt;4&lt;/em&gt;, 1179-1193.</angewandte-chemie>
+<apa>Bali, G. S., Schilling, K., Fingberg, J., Heller, U. M., &amp;amp; Karsch, F. (1993). Computation of the spatial string tension in high temperature SU(2)gauge theory. &lt;em&gt;International journal of modern physics, C&lt;/em&gt;, &lt;em&gt;4&lt;/em&gt;(06), 1179-1193.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bali, G. S., Schilling, K., Fingberg, Jochen, Heller, U. M., and Karsch, Frithjof. 1993. “Computation of the spatial string tension in high temperature SU(2)gauge theory”. &lt;em&gt;International journal of modern physics, C&lt;/em&gt; 4 (06): 1179-1193.&lt;/div&gt;</chicago>
+<mla>Bali, G. S., Schilling, K., Fingberg, Jochen, Heller, U. M., and Karsch, Frithjof. “Computation of the spatial string tension in high temperature SU(2)gauge theory”. &lt;em&gt;International journal of modern physics, C&lt;/em&gt; 4.06 (1993): 1179-1193.</mla>
+<lncs>Bali, G.S., Schilling, K., Fingberg, J., Heller, U.M., Karsch, F.: Computation of the spatial string tension in high temperature SU(2)gauge theory. International journal of modern physics, C. 4, 1179-1193 (1993).</lncs>
+<ieee>G.S. Bali, et al., “Computation of the spatial string tension in high temperature SU(2)gauge theory”, &lt;em&gt;International journal of modern physics, C&lt;/em&gt;,  vol. 4, 1993,  pp. 1179-1193.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bali, G. S., Schilling, K., Fingberg, J., Heller, U. M., &amp;amp; Karsch, F. (1993). Computation of the spatial string tension in high temperature SU(2)gauge theory. &lt;em&gt;International journal of modern physics, C&lt;/em&gt;, &lt;em&gt;4&lt;/em&gt;(06), 1179-1193.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1784474</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1784474</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1784474</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

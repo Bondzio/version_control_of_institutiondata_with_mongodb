@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Method for comparing finite temperature field theory results with lattice data</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">G.</namePart>
+  <namePart type="family">Cvetic</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Reinhart</namePart>
+  <namePart type="family">Kögerler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40327</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">23470443</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The values of the presently available truncated perturbative expressions for the pressure of the quark-gluon plasma at finite temperatures and finite chemical potential are trustworthy only at very large energies. When used down to temperatures close to the critical one (T-c), they suffer from large uncertainties due to the renormalization scale freedom. In order to reduce these uncertainties, we perform resummations of the pressure by applying two specific Pade-related approximants to the available perturbation series for the short-distance and for the long-distance contributions. In the two contributions, we use two different renormalization scales which reflect different energy regions contributing to the different parts. Application of the obtained expressions at low temperatures is made possible by replacing the usual four-loop (MS) over bar beta function for alpha(s) by its Borel-Pade resummation, thus eliminating the unphysical Landau singularities of alpha(s). The obtained results are remarkably insensitive to the chosen renormalization scale and can be compared with lattice results-for the pressure p, the chemical potential contribution Delta p to the pressure, and various susceptibilities. A good qualitative agreement with the lattice results is revealed down to temperatures close to T-c.</abstract>
+
+<originInfo><publisher>AMERICAN PHYSICAL SOC</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>PHYSICAL REVIEW D</title></titleInfo>
+  <identifier type="issn">1550-7998</identifier>
+  <identifier type="eIssn">1550-2368</identifier>
+  <identifier type="arXiv">hep-ph/0612130</identifier>
+  <identifier type="INSPIRE">734031</identifier>
+  <identifier type="ISI">000245333000029</identifier><identifier type="doi">10.1103/PhysRevD.75.054016</identifier>
+<part><detail type="volume"><number>75</number></detail><detail type="issue"><number>5</number></detail>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa>Cvetic, G., &amp;amp; Kögerler, R. (2007). Method for comparing finite temperature field theory results with lattice data. &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt;, &lt;em&gt;75&lt;/em&gt;(5): 054016.</apa>
+<angewandte-chemie>G.  Cvetic, and R.  Kögerler, “Method for comparing finite temperature field theory results with lattice data”, &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;75&lt;/em&gt;, : 054016.</angewandte-chemie>
+<frontiers>Cvetic, G., and Kögerler, R. (2007). Method for comparing finite temperature field theory results with lattice data. &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt; 75:054016.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cvetic, G., and Kögerler, Reinhart. 2007. “Method for comparing finite temperature field theory results with lattice data”. &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt; 75 (5): 054016.&lt;/div&gt;</chicago>
+<ieee> G. Cvetic and R. Kögerler, “Method for comparing finite temperature field theory results with lattice data”, &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt;,  vol. 75, 2007, : 054016.</ieee>
+<lncs> Cvetic, G., Kögerler, R.: Method for comparing finite temperature field theory results with lattice data. PHYSICAL REVIEW D. 75, : 054016 (2007).</lncs>
+<mla>Cvetic, G., and Kögerler, Reinhart. “Method for comparing finite temperature field theory results with lattice data”. &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt; 75.5 (2007): 054016.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cvetic, G., &amp;amp; Kögerler, R. (2007). Method for comparing finite temperature field theory results with lattice data. &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt;, &lt;em&gt;75&lt;/em&gt;(5): 054016.&lt;/div&gt;</apa_indent>
+<wels>Cvetic, G.; Kögerler, R. (2007): Method for comparing finite temperature field theory results with lattice data &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt;,75:(5):054016</wels>
+<default>Cvetic G, Kögerler R (2007) &lt;br /&gt;PHYSICAL REVIEW D 75(5): 054016.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cvetic, G. &amp;amp; Kögerler, R. (2007). Method for comparing finite temperature field theory results with lattice data. &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt;, &lt;em&gt;75&lt;/em&gt;(5): 054016. AMERICAN PHYSICAL SOC. doi:10.1103/PhysRevD.75.054016.&lt;/div&gt;</dgps>
+<harvard1>Cvetic, G., &amp;amp; Kögerler, R., 2007. Method for comparing finite temperature field theory results with lattice data. &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt;, 75(5): 054016.</harvard1>
+<ama>Cvetic G, Kögerler R. Method for comparing finite temperature field theory results with lattice data. &lt;em&gt;PHYSICAL REVIEW D&lt;/em&gt;. 2007;75(5): 054016.</ama>
+<bio1>Cvetic G, Kögerler R (2007) &lt;br /&gt;Method for comparing finite temperature field theory results with lattice data.&lt;br /&gt;PHYSICAL REVIEW D 75(5): 054016.</bio1>
+<aps> G.  Cvetic and R.  Kögerler, Method for comparing finite temperature field theory results with lattice data, PHYSICAL REVIEW D &lt;strong&gt;75&lt;/strong&gt;, (2007).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1594893</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:28Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-24T12:27:28Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1594893</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1594893</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

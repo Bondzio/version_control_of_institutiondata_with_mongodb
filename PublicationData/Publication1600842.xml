@@ -1,0 +1,105 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Reliability of field programmable magnetic logic gate arrays</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Günter</namePart>
+  <namePart type="family">Reiss</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40207</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-0918-5940</description></name>
+<name type="personal">
+  <namePart type="given">D</namePart>
+  <namePart type="family">Meyners</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Dünne Schichten &amp; Physik der Nanostrukturen</namePart>
+  <identifier type="unibi">28536538</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  G. Reiss</namePart>
+  <identifier type="unibi">33079602</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">In concepts for logic circuits using hysteretic magnetoresistive effects, one gains advantages of magnetic thin-film elements, e.g., nonvolatility, radiation hardness and nondestructive readout. The requirements concerning reproducibility of resistance and magnetoresistance, however, are much more stringent than for memory applications. Using experimental data of magnetic logic circuits, we show that the variances of resistance and magnetoresistance, and the amplitude of the magnetoresistance, determine the yield of working logic gates. The current magnetoresistance of 75% for CoFeB/Al2O3 junctions is close to the minimum required value. More than 250% obtained with MgO barriers, however, will allow a fault tolerant production. (c) 2006 American Institute of Physics.</abstract>
+
+<originInfo><publisher>AMER INST PHYSICS</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>APPLIED PHYSICS LETTERS</title></titleInfo>
+  <identifier type="issn">0003-6951</identifier>
+  <identifier type="ISI">000234968600099</identifier><identifier type="doi">10.1063/1.2167609</identifier>
+<part><detail type="volume"><number>88</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">043505</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Reiss, G., and Meyners, D. (2006). Reliability of field programmable magnetic logic gate arrays. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt; 88.</frontiers>
+<angewandte-chemie>G.  Reiss, and D.  Meyners, “Reliability of field programmable magnetic logic gate arrays”, &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;88&lt;/em&gt;.</angewandte-chemie>
+<apa>Reiss, G., &amp;amp; Meyners, D. (2006). Reliability of field programmable magnetic logic gate arrays. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, &lt;em&gt;88&lt;/em&gt;(4).</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Reiss, Günter, and Meyners, D. 2006. “Reliability of field programmable magnetic logic gate arrays”. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt; 88 (4).&lt;/div&gt;</chicago>
+<mla>Reiss, Günter, and Meyners, D. “Reliability of field programmable magnetic logic gate arrays”. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt; 88.4 (2006).</mla>
+<lncs>Reiss, G., Meyners, D.: Reliability of field programmable magnetic logic gate arrays. APPLIED PHYSICS LETTERS. 88, (2006).</lncs>
+<ieee>G. Reiss and D. Meyners, “Reliability of field programmable magnetic logic gate arrays”, &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;,  vol. 88, 2006.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Reiss, G., &amp;amp; Meyners, D. (2006). Reliability of field programmable magnetic logic gate arrays. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, &lt;em&gt;88&lt;/em&gt;(4).&lt;/div&gt;</apa_indent>
+<default>Reiss G, Meyners D (2006) &lt;br /&gt;APPLIED PHYSICS LETTERS 88(4).</default>
+<wels>Reiss, G.; Meyners, D. (2006): Reliability of field programmable magnetic logic gate arrays &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;,88:(4)</wels>
+<bio1>Reiss G, Meyners D (2006) &lt;br /&gt;Reliability of field programmable magnetic logic gate arrays.&lt;br /&gt;APPLIED PHYSICS LETTERS 88(4).</bio1>
+<aps>G.  Reiss and D.  Meyners, Reliability of field programmable magnetic logic gate arrays, APPLIED PHYSICS LETTERS &lt;strong&gt;88&lt;/strong&gt;, (2006).</aps>
+<harvard1>Reiss, G., &amp;amp; Meyners, D., 2006. Reliability of field programmable magnetic logic gate arrays. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, 88(4).</harvard1>
+<ama>Reiss G, Meyners D. Reliability of field programmable magnetic logic gate arrays. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;. 2006;88(4).</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Reiss, G. &amp;amp; Meyners, D. (2006). Reliability of field programmable magnetic logic gate arrays. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, &lt;em&gt;88&lt;/em&gt;(4). AMER INST PHYSICS. doi:10.1063/1.2167609.&lt;/div&gt;</dgps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1600842</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:31:26Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-15T07:48:36Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1600842</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1600842</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

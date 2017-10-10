@@ -1,0 +1,111 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Comparison of hip fracture incidence and trends between Germany and Austria 1995-2004: an epidemiological study</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Eva</namePart>
+  <namePart type="family">Mann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Gabriele</namePart>
+  <namePart type="family">Meyer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Burkhart</namePart>
+  <namePart type="family">Haastert</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andrea</namePart>
+  <namePart type="family">Icks</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">132879</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Gesundheitswissenschaften</namePart>
+  <identifier type="unibi">10046</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Background Several studies evaluated variations in hip fracture incidences, as well as trends of the hip fracture incidences. Comparisons of trends are lacking so far. We compared the incidence rates and, in particular, its trends between Austria and Germany 1995 to 2004 analysing national hospital discharge diagnosis register data.  Methods Annual frequencies of hip fractures and corresponding incidences per 100,000 person years were estimated, overall and stratified for sex and age, assuming Poisson distribution. Multiple Poisson regression models including country and calendar year, age and sex were used to analyse differences in incidence and trend. The difference of annual changes between the two countries was explored using an interaction term (calender year * country).  Results Overall, the increase of hip fracture risk was 1.31 fold higher (95% CI 1.29-1.34) in Austria compared to Germany, adjusted for age, sex, and calendar year. The risk increase was comparable for both sexes (males: RR 1.35 (1.32-1.37), females: RR 1.31 (1.29-1.33)). Hip fracture trend from 1995 to 2004 indicates an increase in both countries without a statistically significant difference between Austria and Germany (interaction term: p = 0.67).  Conclusion In this study comparing hip fracture incidences and its trend using pooled data, the incidence in Austria was 30% higher compared to its neighbouring country Germany. For both countries a similar increasing trend of hip fracture incidence over the 10-year study period was calculated. The results need confirmation by other studies.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="mann.pdf">https://pub.uni-bielefeld.de/download/1785270/2314812</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Springer Science + Business Media</publisher><dateIssued encoding="w3cdtf">2010</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>BMC Public Health</title></titleInfo>
+  <identifier type="issn">1471-2458</identifier>
+  <identifier type="MEDLINE">20113471</identifier>
+  <identifier type="ISI">000275406200001</identifier><identifier type="urn">urn:nbn:de:0070-pub-17852707</identifier><identifier type="doi">10.1186/1471-2458-10-46</identifier>
+<part><detail type="volume"><number>10</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">46</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Mann, E., Meyer, G., Haastert, B., &amp;amp; Icks, A. (2010). Comparison of hip fracture incidence and trends between Germany and Austria 1995-2004: an epidemiological study. &lt;em&gt;BMC Public Health&lt;/em&gt;, &lt;em&gt;10&lt;/em&gt;(1).&lt;/div&gt;</apa_indent>
+<mla>Mann, Eva, Meyer, Gabriele, Haastert, Burkhart, and Icks, Andrea. “Comparison of hip fracture incidence and trends between Germany and Austria 1995-2004: an epidemiological study”. &lt;em&gt;BMC Public Health&lt;/em&gt; 10.1 (2010).</mla>
+<lncs>Mann, E., Meyer, G., Haastert, B., Icks, A.: Comparison of hip fracture incidence and trends between Germany and Austria 1995-2004: an epidemiological study. BMC Public Health. 10, (2010).</lncs>
+<ieee>E. Mann, et al., “Comparison of hip fracture incidence and trends between Germany and Austria 1995-2004: an epidemiological study”, &lt;em&gt;BMC Public Health&lt;/em&gt;,  vol. 10, 2010.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Mann, Eva, Meyer, Gabriele, Haastert, Burkhart, and Icks, Andrea. 2010. “Comparison of hip fracture incidence and trends between Germany and Austria 1995-2004: an epidemiological study”. &lt;em&gt;BMC Public Health&lt;/em&gt; 10 (1).&lt;/div&gt;</chicago>
+<frontiers>Mann, E., Meyer, G., Haastert, B., and Icks, A. (2010). Comparison of hip fracture incidence and trends between Germany and Austria 1995-2004: an epidemiological study. &lt;em&gt;BMC Public Health&lt;/em&gt; 10.</frontiers>
+<angewandte-chemie>E.  Mann, G.  Meyer, B.  Haastert, and A.  Icks, “Comparison of hip fracture incidence and trends between Germany and Austria 1995-2004: an epidemiological study”, &lt;em&gt;BMC Public Health&lt;/em&gt;, &lt;strong&gt;2010&lt;/strong&gt;, &lt;em&gt;10&lt;/em&gt;.</angewandte-chemie>
+<apa>Mann, E., Meyer, G., Haastert, B., &amp;amp; Icks, A. (2010). Comparison of hip fracture incidence and trends between Germany and Austria 1995-2004: an epidemiological study. &lt;em&gt;BMC Public Health&lt;/em&gt;, &lt;em&gt;10&lt;/em&gt;(1).</apa>
+<bio1>Mann E, Meyer G, Haastert B, Icks A (2010) &lt;br /&gt;Comparison of hip fracture incidence and trends between Germany and Austria 1995-2004: an epidemiological study.&lt;br /&gt;BMC Public Health 10(1).</bio1>
+<aps>E.  Mann, et al., Comparison of hip fracture incidence and trends between Germany and Austria 1995-2004: an epidemiological study, BMC Public Health &lt;strong&gt;10&lt;/strong&gt;, (2010).</aps>
+<ama>Mann E, Meyer G, Haastert B, Icks A. Comparison of hip fracture incidence and trends between Germany and Austria 1995-2004: an epidemiological study. &lt;em&gt;BMC Public Health&lt;/em&gt;. 2010;10(1).</ama>
+<harvard1>Mann, E., et al., 2010. Comparison of hip fracture incidence and trends between Germany and Austria 1995-2004: an epidemiological study. &lt;em&gt;BMC Public Health&lt;/em&gt;, 10(1).</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Mann, E., Meyer, G., Haastert, B. &amp;amp; Icks, A. (2010). Comparison of hip fracture incidence and trends between Germany and Austria 1995-2004: an epidemiological study. &lt;em&gt;BMC Public Health&lt;/em&gt;, &lt;em&gt;10&lt;/em&gt;(1). Springer Science + Business Media. doi:10.1186/1471-2458-10-46.&lt;/div&gt;</dgps>
+<default>Mann E, Meyer G, Haastert B, Icks A (2010) &lt;br /&gt;BMC Public Health 10(1).</default>
+<wels>Mann, E.; Meyer, G.; Haastert, B.; Icks, A. (2010): Comparison of hip fracture incidence and trends between Germany and Austria 1995-2004: an epidemiological study &lt;em&gt;BMC Public Health&lt;/em&gt;,10:(1)</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1785270</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-03-09T13:01:43Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1785270</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1785270</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

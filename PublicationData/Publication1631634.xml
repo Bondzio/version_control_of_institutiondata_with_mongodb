@@ -1,0 +1,105 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Tracing the first step to speciation: ecological and genetic differentiation of a salamander population in a small forest</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Sebastian</namePart>
+  <namePart type="family">Steinfartz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">164260</identifier></name>
+<name type="personal">
+  <namePart type="given">Markus</namePart>
+  <namePart type="family">Weitere</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Diethard</namePart>
+  <namePart type="family">Tautz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2528935</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Mechanisms and processes of ecologically driven adaptive speciation are best studied in natural situations where the splitting process is still occurring, i.e. before complete reproductive isolation is achieved. Here, we present a case of an early stage of adaptive differentiation under sympatric conditions in the fire salamander, Salamandra salamandra, that allows inferring the underlying processes for the split. Larvae of S. salamandra normally mature in small streams until metamorphosis, but in an old, continuous forest area near Bonn (the Kottenforst), we found salamander larvae not only in small streams but also in shallow ponds, which are ecologically very different from small streams. Common-environment experiments with larvae from both habitat types reveal specific adaptations to these different ecological conditions. Mitochondrial and microsatellite analyses show that the two ecologically differentiated groups also show signs of genetic differentiation. A parallel analysis of animals from a neighbouring much larger forest area (the Eifel), in which larvae mature only in streams, shows no signs of genetic differentiation, indicating that gene flow between ecologically similar types can occur over large distances. Hence, geographical factors cannot explain the differential larval habitat adaptations in the Kottenforst, in particular since adult life and mating of S. salamandra is strictly terrestrial and not associated with larval habitats. We propose therefore that the evolution of these adaptations was coupled with the evolution of cues for assortative mating which would be in line with models of sympatric speciation that suggest a co-evolution of habitat adaptations and associated mating signals.</abstract>
+
+<originInfo><publisher>BLACKWELL PUBLISHING</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>pond reproduction</topic><topic>population</topic><topic>differentiation</topic><topic>sympatric speciation</topic><topic>amphibians</topic><topic>adaptive speciation</topic><topic>Salamandra salamandra</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>MOLECULAR ECOLOGY</title></titleInfo>
+  <identifier type="issn">0962-1083</identifier>
+  <identifier type="eIssn">1365-294X</identifier>
+  <identifier type="MEDLINE">17877714</identifier>
+  <identifier type="ISI">000250273400012</identifier><identifier type="doi">10.1111/j.1365-294X.2007.03490.x</identifier>
+<part><detail type="volume"><number>16</number></detail><detail type="issue"><number>21</number></detail><extent unit="pages">4550-4561</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Steinfartz, Sebastian, Weitere, Markus, and Tautz, Diethard. 2007. “Tracing the first step to speciation: ecological and genetic differentiation of a salamander population in a small forest”. &lt;em&gt;MOLECULAR ECOLOGY&lt;/em&gt; 16 (21): 4550-4561.&lt;/div&gt;</chicago>
+<apa>Steinfartz, S., Weitere, M., &amp;amp; Tautz, D. (2007). Tracing the first step to speciation: ecological and genetic differentiation of a salamander population in a small forest. &lt;em&gt;MOLECULAR ECOLOGY&lt;/em&gt;, &lt;em&gt;16&lt;/em&gt;(21), 4550-4561.</apa>
+<angewandte-chemie>S.  Steinfartz, M.  Weitere, and D.  Tautz, “Tracing the first step to speciation: ecological and genetic differentiation of a salamander population in a small forest”, &lt;em&gt;MOLECULAR ECOLOGY&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;16&lt;/em&gt;, 4550-4561.</angewandte-chemie>
+<frontiers>Steinfartz, S., Weitere, M., and Tautz, D. (2007). Tracing the first step to speciation: ecological and genetic differentiation of a salamander population in a small forest. &lt;em&gt;MOLECULAR ECOLOGY&lt;/em&gt; 16, 4550-4561.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Steinfartz, S., Weitere, M., &amp;amp; Tautz, D. (2007). Tracing the first step to speciation: ecological and genetic differentiation of a salamander population in a small forest. &lt;em&gt;MOLECULAR ECOLOGY&lt;/em&gt;, &lt;em&gt;16&lt;/em&gt;(21), 4550-4561.&lt;/div&gt;</apa_indent>
+<ieee> S. Steinfartz, M. Weitere, and D. Tautz, “Tracing the first step to speciation: ecological and genetic differentiation of a salamander population in a small forest”, &lt;em&gt;MOLECULAR ECOLOGY&lt;/em&gt;,  vol. 16, 2007,  pp. 4550-4561.</ieee>
+<lncs> Steinfartz, S., Weitere, M., Tautz, D.: Tracing the first step to speciation: ecological and genetic differentiation of a salamander population in a small forest. MOLECULAR ECOLOGY. 16, 4550-4561 (2007).</lncs>
+<mla>Steinfartz, Sebastian, Weitere, Markus, and Tautz, Diethard. “Tracing the first step to speciation: ecological and genetic differentiation of a salamander population in a small forest”. &lt;em&gt;MOLECULAR ECOLOGY&lt;/em&gt; 16.21 (2007): 4550-4561.</mla>
+<wels>Steinfartz, S.; Weitere, M.; Tautz, D. (2007): Tracing the first step to speciation: ecological and genetic differentiation of a salamander population in a small forest &lt;em&gt;MOLECULAR ECOLOGY&lt;/em&gt;,16:(21): 4550-4561.</wels>
+<default>Steinfartz S, Weitere M, Tautz D (2007) &lt;br /&gt;MOLECULAR ECOLOGY 16(21): 4550-4561.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Steinfartz, S., Weitere, M. &amp;amp; Tautz, D. (2007). Tracing the first step to speciation: ecological and genetic differentiation of a salamander population in a small forest. &lt;em&gt;MOLECULAR ECOLOGY&lt;/em&gt;, &lt;em&gt;16&lt;/em&gt;(21), 4550-4561. BLACKWELL PUBLISHING. doi:10.1111/j.1365-294X.2007.03490.x.&lt;/div&gt;</dgps>
+<harvard1>Steinfartz, S., Weitere, M., &amp;amp; Tautz, D., 2007. Tracing the first step to speciation: ecological and genetic differentiation of a salamander population in a small forest. &lt;em&gt;MOLECULAR ECOLOGY&lt;/em&gt;, 16(21), p 4550-4561.</harvard1>
+<ama>Steinfartz S, Weitere M, Tautz D. Tracing the first step to speciation: ecological and genetic differentiation of a salamander population in a small forest. &lt;em&gt;MOLECULAR ECOLOGY&lt;/em&gt;. 2007;16(21):4550-4561.</ama>
+<aps> S.  Steinfartz, M.  Weitere, and D.  Tautz, Tracing the first step to speciation: ecological and genetic differentiation of a salamander population in a small forest, MOLECULAR ECOLOGY &lt;strong&gt;16&lt;/strong&gt;, 4550-4561 (2007).</aps>
+<bio1>Steinfartz S, Weitere M, Tautz D (2007) &lt;br /&gt;Tracing the first step to speciation: ecological and genetic differentiation of a salamander population in a small forest.&lt;br /&gt;MOLECULAR ECOLOGY 16(21): 4550-4561.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1631634</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:05:52Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-18T10:01:37Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1631634</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1631634</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

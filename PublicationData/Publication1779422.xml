@@ -1,0 +1,102 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Systematische Verzerrungen in der Beurteilung von Personen: Faktum oder Fiktion?</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Peter</namePart>
+  <namePart type="family">Borkenau</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alois</namePart>
+  <namePart type="family">Angleitner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">33671</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">D.</namePart><namePart type="family">Albert</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Abteilung für Psychologie</namePart>
+  <identifier type="unibi">10026</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Angleitner_26.pdf">https://pub.uni-bielefeld.de/download/1779422/2312705</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Hogrefe</publisher><dateIssued encoding="w3cdtf">1985</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Bericht über den 34. Kongress der Deutschen Gesellschaft für Psychologie</title></titleInfo>
+  <identifier type="isbn">3-8017-0240-5</identifier><identifier type="urn">urn:nbn:de:0070-bipr-18807</identifier>
+<part><detail type="volume"><number>vol. 1: Grundlagenforschung</number></detail><extent unit="pages">327-330</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<harvard1>Borkenau, P., &amp;amp; Angleitner, A., 1985. Systematische Verzerrungen in der Beurteilung von Personen: Faktum oder Fiktion? In D.  Albert, ed. &lt;em&gt;Bericht über den 34. Kongress der Deutschen Gesellschaft für Psychologie&lt;/em&gt;. no.vol. 1: Grundlagenforschung  Göttingen ; Bern ; Wien [u.a.]: Hogrefe, pp. 327-330.</harvard1>
+<ama>Borkenau P, Angleitner A. Systematische Verzerrungen in der Beurteilung von Personen: Faktum oder Fiktion? In: Albert D, ed. &lt;em&gt;Bericht über den 34. Kongress der Deutschen Gesellschaft für Psychologie&lt;/em&gt;. Vol vol. 1: Grundlagenforschung. Göttingen ; Bern ; Wien [u.a.]: Hogrefe;  1985: 327-330.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Borkenau, P. &amp;amp; Angleitner, A. (1985). Systematische Verzerrungen in der Beurteilung von Personen: Faktum oder Fiktion? &lt;em&gt;Bericht über den 34. Kongress der Deutschen Gesellschaft für Psychologie&lt;/em&gt; (S. 327-330). Göttingen ; Bern ; Wien [u.a.]: Hogrefe.&lt;/div&gt;</dgps>
+<aps>P.  Borkenau and A.  Angleitner, Systematische Verzerrungen in der Beurteilung von Personen: Faktum oder Fiktion?, in &lt;em&gt;Bericht über den 34. Kongress der Deutschen Gesellschaft für Psychologie&lt;/em&gt;, edited by D.  Albert, &lt;strong&gt;vol. 1: Grundlagenforschung&lt;/strong&gt; (Hogrefe, Göttingen ; Bern ; Wien [U.a.], 1985), p. 327-330.</aps>
+<bio1>Borkenau P, Angleitner A (1985) &lt;br /&gt;Systematische Verzerrungen in der Beurteilung von Personen: Faktum oder Fiktion? &lt;br /&gt;In:  Bericht über den 34. Kongress der Deutschen Gesellschaft für Psychologie. Albert D (Ed);vol. 1: Grundlagenforschung. Göttingen ; Bern ; Wien [u.a.]: Hogrefe:  327-330.</bio1>
+<wels>Borkenau, P.; Angleitner, A. (1985): Systematische Verzerrungen in der Beurteilung von Personen: Faktum oder Fiktion? In: D. Albert (Hrsg.):  Bericht über den 34. Kongress der Deutschen Gesellschaft für Psychologie. Göttingen ; Bern ; Wien [u.a.]: Hogrefe. (vol. 1: Grundlagenforschung).  S. 327-330.</wels>
+<default>Borkenau P, Angleitner A (1985)  &lt;br /&gt;In:  Bericht über den 34. Kongress der Deutschen Gesellschaft für Psychologie. Albert D (Ed);vol. 1: Grundlagenforschung. Göttingen ; Bern ; Wien [u.a.]: Hogrefe:  327-330.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Borkenau, P., &amp;amp; Angleitner, A. (1985). Systematische Verzerrungen in der Beurteilung von Personen: Faktum oder Fiktion? In D.  Albert (Ed.), &lt;em&gt;Bericht über den 34. Kongress der Deutschen Gesellschaft für Psychologie&lt;/em&gt; (Vol. vol. 1: Grundlagenforschung, pp. 327-330). Göttingen ; Bern ; Wien [u.a.]: Hogrefe.&lt;/div&gt;</apa_indent>
+<ieee>P. Borkenau and A. Angleitner, “Systematische Verzerrungen in der Beurteilung von Personen: Faktum oder Fiktion?”, &lt;em&gt;Bericht über den 34. Kongress der Deutschen Gesellschaft für Psychologie&lt;/em&gt;, D. Albert, ed., vol. vol. 1: Grundlagenforschung,  Göttingen ; Bern ; Wien [u.a.]: Hogrefe, 1985,  pp.327-330.</ieee>
+<lncs>Borkenau, P., Angleitner, A.: Systematische Verzerrungen in der Beurteilung von Personen: Faktum oder Fiktion? In: Albert, D. (ed.) Bericht über den 34. Kongress der Deutschen Gesellschaft für Psychologie. vol. 1: Grundlagenforschung, p. 327-330. Hogrefe, Göttingen ; Bern ; Wien [u.a.] (1985).</lncs>
+<mla>Borkenau, Peter, and Angleitner, Alois. “Systematische Verzerrungen in der Beurteilung von Personen: Faktum oder Fiktion?”. &lt;em&gt;Bericht über den 34. Kongress der Deutschen Gesellschaft für Psychologie&lt;/em&gt;. Ed. D. Albert. Göttingen ; Bern ; Wien [u.a.]: Hogrefe, 1985.Vol. vol. 1: Grundlagenforschung. 327-330.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Borkenau, Peter, and Angleitner, Alois. 1985. “Systematische Verzerrungen in der Beurteilung von Personen: Faktum oder Fiktion?”. In &lt;em&gt;Bericht über den 34. Kongress der Deutschen Gesellschaft für Psychologie&lt;/em&gt;, ed. D. Albert, vol. 1: Grundlagenforschung:327-330. Göttingen ; Bern ; Wien [u.a.]: Hogrefe.&lt;/div&gt;</chicago>
+<angewandte-chemie>P.  Borkenau, and A.  Angleitner, in &lt;em&gt;Bericht über den 34. Kongress der Deutschen Gesellschaft für Psychologie&lt;/em&gt; (Ed.: D. Albert), Hogrefe, Göttingen ; Bern ; Wien [u.a.], &lt;strong&gt;1985&lt;/strong&gt;, p. 327-330.</angewandte-chemie>
+<apa>Borkenau, P., &amp;amp; Angleitner, A. (1985). Systematische Verzerrungen in der Beurteilung von Personen: Faktum oder Fiktion? In D.  Albert (Ed.), &lt;em&gt;Bericht über den 34. Kongress der Deutschen Gesellschaft für Psychologie&lt;/em&gt; (Vol. vol. 1: Grundlagenforschung, pp. 327-330). Göttingen ; Bern ; Wien [u.a.]: Hogrefe.</apa>
+<frontiers>Borkenau, P., and Angleitner, A. (1985). “Systematische Verzerrungen in der Beurteilung von Personen: Faktum oder Fiktion?” in &lt;em&gt;Bericht über den 34. Kongress der Deutschen Gesellschaft für Psychologie&lt;/em&gt;, ed. D.  Albert, vol. vol. 1: Grundlagenforschung, (Göttingen ; Bern ; Wien [u.a.]: Hogrefe), 327-330.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1779422</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1779422</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1779422</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

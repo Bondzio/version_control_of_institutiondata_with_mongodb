@@ -1,0 +1,96 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Die Theorie der Schweigespirale</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Uwe</namePart>
+  <namePart type="family">Sander</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">57718</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Uwe</namePart><namePart type="family">Sander</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Friederike</namePart><namePart type="family">von Gross</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Kai-Uwe</namePart><namePart type="family">Hugger</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">7978378</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>VS Verlag</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Handbuch Medienpädagogik</title></titleInfo>
+  <identifier type="isbn">3-531-15016-2</identifier><identifier type="doi">10.1007/978-3-531-91158-8_39</identifier>
+<part><extent unit="pages">278-282</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Sander, U. (2008). “Die Theorie der Schweigespirale” in &lt;em&gt;Handbuch Medienpädagogik&lt;/em&gt;, Sander, U., von Gross, F., and Hugger, K. - U. eds. (Wiesbaden: VS Verlag), 278-282.</frontiers>
+<apa>Sander, U. (2008). Die Theorie der Schweigespirale. In U.  Sander, F.  von Gross, &amp;amp; K. - U.  Hugger (Eds.), &lt;em&gt;Handbuch Medienpädagogik&lt;/em&gt; (pp. 278-282). Wiesbaden: VS Verlag.</apa>
+<angewandte-chemie>U.  Sander, in &lt;em&gt;Handbuch Medienpädagogik&lt;/em&gt; (Eds.: U. Sander, F. von Gross, K.-U. Hugger), Vs Verlag, Wiesbaden, &lt;strong&gt;2008&lt;/strong&gt;, p. 278-282.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sander, Uwe. 2008. “Die Theorie der Schweigespirale”. In &lt;em&gt;Handbuch Medienpädagogik&lt;/em&gt;, ed. Uwe Sander, Friederike von Gross, and Kai-Uwe Hugger, 278-282. Wiesbaden: VS Verlag.&lt;/div&gt;</chicago>
+<mla>Sander, Uwe. “Die Theorie der Schweigespirale”. &lt;em&gt;Handbuch Medienpädagogik&lt;/em&gt;. Ed. Uwe Sander, Friederike von Gross, and Kai-Uwe Hugger. Wiesbaden: VS Verlag, 2008. 278-282.</mla>
+<lncs> Sander, U.: Die Theorie der Schweigespirale. In: Sander, U., von Gross, F., and Hugger, K.-U. (eds.) Handbuch Medienpädagogik. p. 278-282. VS Verlag, Wiesbaden (2008).</lncs>
+<ieee> U. Sander, “Die Theorie der Schweigespirale”, &lt;em&gt;Handbuch Medienpädagogik&lt;/em&gt;, U. Sander, F. von Gross, and K.-U. Hugger, eds.,  Wiesbaden: VS Verlag, 2008,  pp.278-282.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sander, U. (2008). Die Theorie der Schweigespirale. In U.  Sander, F.  von Gross, &amp;amp; K. - U.  Hugger (Eds.), &lt;em&gt;Handbuch Medienpädagogik&lt;/em&gt; (pp. 278-282). Wiesbaden: VS Verlag.&lt;/div&gt;</apa_indent>
+<default>Sander U (2008)  &lt;br /&gt;In:  Handbuch Medienpädagogik. Sander U, von Gross F, Hugger K-U (Eds);Wiesbaden: VS Verlag:  278-282.</default>
+<wels>Sander, U. (2008): Die Theorie der Schweigespirale. In: Uwe Sander; Friederike von Gross; Kai-Uwe Hugger (Hrsg.):  Handbuch Medienpädagogik. Wiesbaden: VS Verlag.  S. 278-282.</wels>
+<aps> U.  Sander, Die Theorie der Schweigespirale, in &lt;em&gt;Handbuch Medienpädagogik&lt;/em&gt;, edited by U.  Sander, et al. (VS Verlag, Wiesbaden, 2008), p. 278-282.</aps>
+<bio1>Sander U (2008) &lt;br /&gt;Die Theorie der Schweigespirale. &lt;br /&gt;In:  Handbuch Medienpädagogik. Sander U, von Gross F, Hugger K-U (Eds); Wiesbaden: VS Verlag:  278-282.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sander, U. (2008). Die Theorie der Schweigespirale. &lt;em&gt;Handbuch Medienpädagogik&lt;/em&gt; (S. 278-282). Wiesbaden: VS Verlag. doi:10.1007/978-3-531-91158-8_39.&lt;/div&gt;</dgps>
+<harvard1>Sander, U., 2008. Die Theorie der Schweigespirale. In U.  Sander, F.  von Gross, &amp;amp; K. - U.  Hugger, eds. &lt;em&gt;Handbuch Medienpädagogik&lt;/em&gt;.  Wiesbaden: VS Verlag, pp. 278-282.</harvard1>
+<ama>Sander U. Die Theorie der Schweigespirale. In: Sander U, von Gross F, Hugger K-U, eds. &lt;em&gt;Handbuch Medienpädagogik&lt;/em&gt;. Wiesbaden: VS Verlag;  2008: 278-282.</ama>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1858647</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-08-05T11:25:36Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-08-05T11:25:36Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1858647</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1858647</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,93 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>A multi-purpose visual classification system</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">G</namePart>
+  <namePart type="family">Heidemann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Wirtschaftswissenschaften</namePart>
+  <identifier type="unibi">10031</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">A computer vision system which can be trained to classification tasks from sample views is presented. It consists of several artificial neural networks which realize local PCA with subsequent expert nets as classifiers. The major benefit of the approach-is that entirely different tasks can be solved with one and the same system without modifications or extensive parameter tuning. Therefore, the architecture is an example for the potential which lies in view based recognition: Making complicated tasks solvable with less and less expert knowledge.</abstract>
+
+<originInfo><publisher>SPRINGER-VERLAG BERLIN</publisher><dateIssued encoding="w3cdtf">2001</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>COMPUTATIONAL INTELLIGENCE: THEORY AND APPLICATIONS, PROCEEDINGS</title></titleInfo>
+  <identifier type="isbn">3-540-42732-5</identifier>
+  <identifier type="ISI">000237080600034</identifier>
+<part><detail type="volume"><number>2206</number></detail><extent unit="pages">305-312</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heidemann, G. (2001). A multi-purpose visual classification system (Lecture notes in computer science ;). &lt;em&gt;COMPUTATIONAL INTELLIGENCE: THEORY AND APPLICATIONS, PROCEEDINGS&lt;/em&gt; (S. 305-312). SPRINGER-VERLAG BERLIN.&lt;/div&gt;</dgps>
+<ama>Heidemann G. A multi-purpose visual classification system. In:  &lt;em&gt;COMPUTATIONAL INTELLIGENCE: THEORY AND APPLICATIONS, PROCEEDINGS&lt;/em&gt;. Lecture notes in computer science ;. Vol 2206. SPRINGER-VERLAG BERLIN;  2001: 305-312.</ama>
+<harvard1>Heidemann, G., 2001. A multi-purpose visual classification system. In &lt;em&gt;COMPUTATIONAL INTELLIGENCE: THEORY AND APPLICATIONS, PROCEEDINGS&lt;/em&gt;. Lecture notes in computer science ;. no.2206  SPRINGER-VERLAG BERLIN, pp. 305-312.</harvard1>
+<aps>G.  Heidemann, A multi-purpose visual classification system, in &lt;em&gt;COMPUTATIONAL INTELLIGENCE: THEORY AND APPLICATIONS, PROCEEDINGS&lt;/em&gt;, Lecture notes in computer science ;, &lt;strong&gt;2206&lt;/strong&gt; (SPRINGER-VERLAG BERLIN, 2001), p. 305-312.</aps>
+<bio1>Heidemann G (2001) &lt;br /&gt;A multi-purpose visual classification system. &lt;br /&gt;In:  COMPUTATIONAL INTELLIGENCE: THEORY AND APPLICATIONS, PROCEEDINGS.  Lecture notes in computer science ;, 2206. SPRINGER-VERLAG BERLIN:  305-312.</bio1>
+<wels>Heidemann, G. (2001): A multi-purpose visual classification system. In: COMPUTATIONAL INTELLIGENCE: THEORY AND APPLICATIONS, PROCEEDINGS. SPRINGER-VERLAG BERLIN. (Lecture notes in computer science ;, 2206).  S. 305-312.</wels>
+<default>Heidemann G (2001)  &lt;br /&gt;In:  COMPUTATIONAL INTELLIGENCE: THEORY AND APPLICATIONS, PROCEEDINGS.  Lecture notes in computer science ;, 2206. SPRINGER-VERLAG BERLIN:  305-312.</default>
+<ieee>G. Heidemann, “A multi-purpose visual classification system”, &lt;em&gt;COMPUTATIONAL INTELLIGENCE: THEORY AND APPLICATIONS, PROCEEDINGS&lt;/em&gt;, Lecture notes in computer science ;, vol. 2206, SPRINGER-VERLAG BERLIN, 2001,  pp.305-312.</ieee>
+<lncs>Heidemann, G.: A multi-purpose visual classification system. COMPUTATIONAL INTELLIGENCE: THEORY AND APPLICATIONS, PROCEEDINGS. Lecture notes in computer science ;. 2206, p. 305-312. SPRINGER-VERLAG BERLIN (2001).</lncs>
+<mla>Heidemann, G. “A multi-purpose visual classification system”. &lt;em&gt;COMPUTATIONAL INTELLIGENCE: THEORY AND APPLICATIONS, PROCEEDINGS&lt;/em&gt;. SPRINGER-VERLAG BERLIN, 2001.Vol. 2206. Lecture notes in computer science ;. 305-312.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heidemann, G. (2001). A multi-purpose visual classification system. &lt;em&gt;COMPUTATIONAL INTELLIGENCE: THEORY AND APPLICATIONS, PROCEEDINGS&lt;/em&gt;, &lt;em&gt;2206&lt;/em&gt;, 305-312.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>G.  Heidemann, in &lt;em&gt;COMPUTATIONAL INTELLIGENCE: THEORY AND APPLICATIONS, PROCEEDINGS&lt;/em&gt;, Springer-Verlag Berlin, &lt;strong&gt;2001&lt;/strong&gt;, p. 305-312.</angewandte-chemie>
+<apa>Heidemann, G. (2001). A multi-purpose visual classification system. &lt;em&gt;COMPUTATIONAL INTELLIGENCE: THEORY AND APPLICATIONS, PROCEEDINGS&lt;/em&gt;, &lt;em&gt;2206&lt;/em&gt;, 305-312.</apa>
+<frontiers>Heidemann, G. (2001). “A multi-purpose visual classification system” in &lt;em&gt;COMPUTATIONAL INTELLIGENCE: THEORY AND APPLICATIONS, PROCEEDINGS&lt;/em&gt; Lecture notes in computer science ;, vol. 2206, (SPRINGER-VERLAG BERLIN), 305-312.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heidemann, G. 2001. “A multi-purpose visual classification system”. In &lt;em&gt;COMPUTATIONAL INTELLIGENCE: THEORY AND APPLICATIONS, PROCEEDINGS&lt;/em&gt;, 2206:305-312. Lecture notes in computer science ;. SPRINGER-VERLAG BERLIN.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1599370</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:19:54Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2015-02-24T09:39:22Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1599370</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1599370</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

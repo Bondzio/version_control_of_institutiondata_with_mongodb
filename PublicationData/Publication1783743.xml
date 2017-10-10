@@ -1,0 +1,99 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>CoryneRegNet 4.0: a reference database for corynebacterial gene regulatory networks</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Jan</namePart>
+  <namePart type="family">Baumbach</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Centrum für Biotechnologie</namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Background: Detailed information on DNA-binding transcription factors (the key players in the regulation of gene expression) and on transcriptional regulatory interactions of microorganisms deduced from literature-derived knowledge, computer predictions and global DNA microarray hybridization experiments, has opened the way for the genome-wide analysis of transcriptional regulatory networks. The large-scale reconstruction of these networks allows the in silico analysis of cell behavior in response to changing environmental conditions. We previously published CoryneRegNet, an ontology-based data warehouse of corynebacterial transcription factors and regulatory networks. Initially, it was designed to provide methods for the analysis and visualization of the gene regulatory network of Corynebacterium glutamicum. Results: Now we introduce CoryneRegNet release 4.0, which integrates data on the gene regulatory networks of 4 corynebacteria, 2 mycobacteria and the model organism Escherichia coli K12. As the previous versions, CoryneRegNet provides a web-based user interface to access the database content, to allow various queries, and to support the reconstruction, analysis and visualization of regulatory networks at different hierarchical levels. In this article, we present the further improved database content of CoryneRegNet along with novel analysis features. The network visualization feature GraphVis now allows the inter-species comparisons of reconstructed gene regulatory networks and the projection of gene expression levels onto that networks. Therefore, we added stimulon data directly into the database, but also provide Web Service access to the DNA microarray analysis platform EMMA. Additionally, CoryneRegNet now provides a SOAP based Web Service server, which can easily be consumed by other bioinformatics software systems. Stimulons (imported from the database, or uploaded by the user) can be analyzed in the context of known transcriptional regulatory networks to predict putative contradictions or further gene regulatory interactions. Furthermore, it integrates protein clusters by means of heuristically solving the weighted graph cluster editing problem. In addition, it provides Web Service based access to up to date gene annotation data from GenDB. Conclusion: The release 4.0 of CoryneRegNet is a comprehensive system for the integrated analysis of procaryotic gene regulatory networks. It is a versatile systems biology platform to support the efficient and large-scale analysis of transcriptional regulation of gene expression in microorganisms. It is publicly available at http://www.CoryneRegNet.DE.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="24.pdf">https://pub.uni-bielefeld.de/download/1783743/2314257</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>BMC Bioinformatics</title></titleInfo>
+  <identifier type="issn">1471-2105</identifier>
+  <identifier type="MEDLINE">17986320</identifier>
+  <identifier type="ISI">000252550700001</identifier><identifier type="urn">urn:nbn:de:0070-pub-17837438</identifier><identifier type="doi">10.1186/1471-2105-8-429</identifier>
+<part><detail type="volume"><number>8</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">429</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baumbach, Jan. 2007. “CoryneRegNet 4.0: a reference database for corynebacterial gene regulatory networks”. &lt;em&gt;BMC Bioinformatics&lt;/em&gt; 8 (1).&lt;/div&gt;</chicago>
+<frontiers>Baumbach, J. (2007). CoryneRegNet 4.0: a reference database for corynebacterial gene regulatory networks. &lt;em&gt;BMC Bioinformatics&lt;/em&gt; 8.</frontiers>
+<angewandte-chemie>J.  Baumbach, “CoryneRegNet 4.0: a reference database for corynebacterial gene regulatory networks”, &lt;em&gt;BMC Bioinformatics&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;8&lt;/em&gt;.</angewandte-chemie>
+<apa>Baumbach, J. (2007). CoryneRegNet 4.0: a reference database for corynebacterial gene regulatory networks. &lt;em&gt;BMC Bioinformatics&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;(1).</apa>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baumbach, J. (2007). CoryneRegNet 4.0: a reference database for corynebacterial gene regulatory networks. &lt;em&gt;BMC Bioinformatics&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;(1).&lt;/div&gt;</apa_indent>
+<mla>Baumbach, Jan. “CoryneRegNet 4.0: a reference database for corynebacterial gene regulatory networks”. &lt;em&gt;BMC Bioinformatics&lt;/em&gt; 8.1 (2007).</mla>
+<lncs>Baumbach, J.: CoryneRegNet 4.0: a reference database for corynebacterial gene regulatory networks. BMC Bioinformatics. 8, (2007).</lncs>
+<ieee>J. Baumbach, “CoryneRegNet 4.0: a reference database for corynebacterial gene regulatory networks”, &lt;em&gt;BMC Bioinformatics&lt;/em&gt;,  vol. 8, 2007.</ieee>
+<default>Baumbach J (2007) &lt;br /&gt;BMC Bioinformatics 8(1).</default>
+<wels>Baumbach, J. (2007): CoryneRegNet 4.0: a reference database for corynebacterial gene regulatory networks &lt;em&gt;BMC Bioinformatics&lt;/em&gt;,8:(1)</wels>
+<bio1>Baumbach J (2007) &lt;br /&gt;CoryneRegNet 4.0: a reference database for corynebacterial gene regulatory networks.&lt;br /&gt;BMC Bioinformatics 8(1).</bio1>
+<aps>J.  Baumbach, CoryneRegNet 4.0: a reference database for corynebacterial gene regulatory networks, BMC Bioinformatics &lt;strong&gt;8&lt;/strong&gt;, (2007).</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baumbach, J. (2007). CoryneRegNet 4.0: a reference database for corynebacterial gene regulatory networks. &lt;em&gt;BMC Bioinformatics&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;(1). doi:10.1186/1471-2105-8-429.&lt;/div&gt;</dgps>
+<harvard1>Baumbach, J., 2007. CoryneRegNet 4.0: a reference database for corynebacterial gene regulatory networks. &lt;em&gt;BMC Bioinformatics&lt;/em&gt;, 8(1).</harvard1>
+<ama>Baumbach J. CoryneRegNet 4.0: a reference database for corynebacterial gene regulatory networks. &lt;em&gt;BMC Bioinformatics&lt;/em&gt;. 2007;8(1).</ama>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1783743</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-02-24T13:21:17Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1783743</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1783743</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

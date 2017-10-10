@@ -1,0 +1,99 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Arbitrarily varying multiple-access channels - Part I - Ericson&apos;s symmetrizability is adequate, Gubner&apos;s conjecture is true</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Rudolf</namePart>
+  <namePart type="family">Ahlswede</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10479</identifier></name>
+<name type="personal">
+  <namePart type="given">Ning</namePart>
+  <namePart type="family">Cai</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">In 1981 Jahn used the elimination technique of the first author to determine the average errors capacity region of an arbitrarily varying multiple-access channel (AVMAC), when this region has nonempty interior. Here we remove this restriction. In his thesis (1990), Gubner missed this result because he used the first author&apos;s first approach to the MAC, which is based on conditional decoding, and not the first author&apos;s second approach, which is based on maximum likelihood decoding. This second approach was originally needed for a kind of compound MAC. For the AVMAC the difference between the approaches is naturally even more essential.</abstract>
+
+<originInfo><publisher>IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC</publisher><dateIssued encoding="w3cdtf">1999</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Ahlswede&apos;s dichotomy</topic><topic>capacity region</topic><topic>jamming</topic><topic>arbitrarily varying multiple-access channels</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>IEEE Transactions on Information Theory</title></titleInfo>
+  <identifier type="issn">0018-9448</identifier>
+  <identifier type="ISI">000078972500034</identifier>
+<part><detail type="volume"><number>45</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">742-749</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<lncs>Ahlswede, R., Cai, N.: Arbitrarily varying multiple-access channels - Part I - Ericson&apos;s symmetrizability is adequate, Gubner&apos;s conjecture is true. IEEE Transactions on Information Theory. 45, 742-749 (1999).</lncs>
+<mla>Ahlswede, Rudolf, and Cai, Ning. “Arbitrarily varying multiple-access channels - Part I - Ericson&apos;s symmetrizability is adequate, Gubner&apos;s conjecture is true”. &lt;em&gt;IEEE Transactions on Information Theory&lt;/em&gt; 45.2 (1999): 742-749.</mla>
+<ieee>R. Ahlswede and N. Cai, “Arbitrarily varying multiple-access channels - Part I - Ericson&apos;s symmetrizability is adequate, Gubner&apos;s conjecture is true”, &lt;em&gt;IEEE Transactions on Information Theory&lt;/em&gt;,  vol. 45, 1999,  pp. 742-749.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R., &amp;amp; Cai, N. (1999). Arbitrarily varying multiple-access channels - Part I - Ericson&apos;s symmetrizability is adequate, Gubner&apos;s conjecture is true. &lt;em&gt;IEEE Transactions on Information Theory&lt;/em&gt;, &lt;em&gt;45&lt;/em&gt;(2), 742-749.&lt;/div&gt;</apa_indent>
+<frontiers>Ahlswede, R., and Cai, N. (1999). Arbitrarily varying multiple-access channels - Part I - Ericson&apos;s symmetrizability is adequate, Gubner&apos;s conjecture is true. &lt;em&gt;IEEE Transactions on Information Theory&lt;/em&gt; 45, 742-749.</frontiers>
+<angewandte-chemie>R.  Ahlswede, and N.  Cai, “Arbitrarily varying multiple-access channels - Part I - Ericson&apos;s symmetrizability is adequate, Gubner&apos;s conjecture is true”, &lt;em&gt;IEEE Transactions on Information Theory&lt;/em&gt;, &lt;strong&gt;1999&lt;/strong&gt;, &lt;em&gt;45&lt;/em&gt;, 742-749.</angewandte-chemie>
+<apa>Ahlswede, R., &amp;amp; Cai, N. (1999). Arbitrarily varying multiple-access channels - Part I - Ericson&apos;s symmetrizability is adequate, Gubner&apos;s conjecture is true. &lt;em&gt;IEEE Transactions on Information Theory&lt;/em&gt;, &lt;em&gt;45&lt;/em&gt;(2), 742-749.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, Rudolf, and Cai, Ning. 1999. “Arbitrarily varying multiple-access channels - Part I - Ericson&apos;s symmetrizability is adequate, Gubner&apos;s conjecture is true”. &lt;em&gt;IEEE Transactions on Information Theory&lt;/em&gt; 45 (2): 742-749.&lt;/div&gt;</chicago>
+<aps>R.  Ahlswede and N.  Cai, Arbitrarily varying multiple-access channels - Part I - Ericson&apos;s symmetrizability is adequate, Gubner&apos;s conjecture is true, IEEE Transactions on Information Theory &lt;strong&gt;45&lt;/strong&gt;, 742-749 (1999).</aps>
+<bio1>Ahlswede R, Cai N (1999) &lt;br /&gt;Arbitrarily varying multiple-access channels - Part I - Ericson&apos;s symmetrizability is adequate, Gubner&apos;s conjecture is true.&lt;br /&gt;IEEE Transactions on Information Theory 45(2): 742-749.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R. &amp;amp; Cai, N. (1999). Arbitrarily varying multiple-access channels - Part I - Ericson&apos;s symmetrizability is adequate, Gubner&apos;s conjecture is true. &lt;em&gt;IEEE Transactions on Information Theory&lt;/em&gt;, &lt;em&gt;45&lt;/em&gt;(2), 742-749. IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC.&lt;/div&gt;</dgps>
+<harvard1>Ahlswede, R., &amp;amp; Cai, N., 1999. Arbitrarily varying multiple-access channels - Part I - Ericson&apos;s symmetrizability is adequate, Gubner&apos;s conjecture is true. &lt;em&gt;IEEE Transactions on Information Theory&lt;/em&gt;, 45(2), p 742-749.</harvard1>
+<ama>Ahlswede R, Cai N. Arbitrarily varying multiple-access channels - Part I - Ericson&apos;s symmetrizability is adequate, Gubner&apos;s conjecture is true. &lt;em&gt;IEEE Transactions on Information Theory&lt;/em&gt;. 1999;45(2):742-749.</ama>
+<default>Ahlswede R, Cai N (1999) &lt;br /&gt;IEEE Transactions on Information Theory 45(2): 742-749.</default>
+<wels>Ahlswede, R.; Cai, N. (1999): Arbitrarily varying multiple-access channels - Part I - Ericson&apos;s symmetrizability is adequate, Gubner&apos;s conjecture is true &lt;em&gt;IEEE Transactions on Information Theory&lt;/em&gt;,45:(2): 742-749.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1623402</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:06:06Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-04-12T12:11:15Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1623402</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1623402</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

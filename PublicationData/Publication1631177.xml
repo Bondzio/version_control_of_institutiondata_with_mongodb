@@ -1,0 +1,133 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Magnetic tunnel junctions</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Günter</namePart>
+  <namePart type="family">Reiss</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40207</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-0918-5940</description></name>
+<name type="personal">
+  <namePart type="given">Jan-Michael</namePart>
+  <namePart type="family">Schmalhorst</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40191</identifier></name>
+<name type="personal">
+  <namePart type="given">Andy</namePart>
+  <namePart type="family">Thomas</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40188</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0001-8594-9060</description></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Hütten</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40194</identifier></name>
+<name type="personal">
+  <namePart type="given">Shinji</namePart>
+  <namePart type="family">Yuasa</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2161137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33079566</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33079602</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">28536538</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">In magnetoelectronic devices large opportunities are opened by the spin dependent tunneling resistance, where a strong dependence of the tunneling current on the relative orientation of the magnetization of the electrodes is found. Within a short time, the amplitude of the resistance change of the junctions increased dramatically. We will cover Al-O and MgO based junctions and present highly spin-polarized electrode materials such as Heusler alloys. Furthermore, we will give a short overview on applications such as read heads in hard disk drives, storage cells in MRAMs, field programmable logic circuits and biochips. Finally, we will discuss the currently growing field of current induced magnetization switching.</abstract>
+
+<originInfo><publisher>SPRINGER-VERLAG BERLIN</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>MAGNETIC HETEROSTRUCTURES</title></titleInfo>
+  <identifier type="issn">0081-3869</identifier>
+  <identifier type="ISI">000251353900006</identifier><identifier type="doi">10.1007/978-3-540-73462-8-6</identifier>
+<part><detail type="volume"><number>227</number></detail><extent unit="pages">291-333</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Reiss, G.; Schmalhorst, J. - M.; Thomas, A.; Hütten, A.; Yuasa, S. (2008): Magnetic tunnel junctions &lt;em&gt;MAGNETIC HETEROSTRUCTURES&lt;/em&gt;,227: 291-333.</wels>
+<default>Reiss G, Schmalhorst J-M, Thomas A, Hütten A, Yuasa S (2008) &lt;br /&gt;MAGNETIC HETEROSTRUCTURES 227: 291-333.</default>
+<harvard1>Reiss, G., et al., 2008. Magnetic tunnel junctions. &lt;em&gt;MAGNETIC HETEROSTRUCTURES&lt;/em&gt;, 227, p 291-333.</harvard1>
+<ama>Reiss G, Schmalhorst J-M, Thomas A, Hütten A, Yuasa S. Magnetic tunnel junctions. &lt;em&gt;MAGNETIC HETEROSTRUCTURES&lt;/em&gt;. 2008;227:291-333.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Reiss, G., Schmalhorst, J.-M., Thomas, A., Hütten, A. &amp;amp; Yuasa, S. (2008). Magnetic tunnel junctions. &lt;em&gt;MAGNETIC HETEROSTRUCTURES&lt;/em&gt;, &lt;em&gt;227&lt;/em&gt;, 291-333. SPRINGER-VERLAG BERLIN. doi:10.1007/978-3-540-73462-8-6.&lt;/div&gt;</dgps>
+<aps>G.  Reiss, et al., Magnetic tunnel junctions, MAGNETIC HETEROSTRUCTURES &lt;strong&gt;227&lt;/strong&gt;, 291-333 (2008).</aps>
+<bio1>Reiss G, Schmalhorst J-M, Thomas A, Hütten A, Yuasa S (2008) &lt;br /&gt;Magnetic tunnel junctions.&lt;br /&gt;MAGNETIC HETEROSTRUCTURES 227: 291-333.</bio1>
+<angewandte-chemie>G.  Reiss, J. - M.  Schmalhorst, A.  Thomas, A.  Hütten, and S.  Yuasa, “Magnetic tunnel junctions”, &lt;em&gt;MAGNETIC HETEROSTRUCTURES&lt;/em&gt;, &lt;strong&gt;2008&lt;/strong&gt;, &lt;em&gt;227&lt;/em&gt;, 291-333.</angewandte-chemie>
+<apa>Reiss, G., Schmalhorst, J. - M., Thomas, A., Hütten, A., &amp;amp; Yuasa, S. (2008). Magnetic tunnel junctions. &lt;em&gt;MAGNETIC HETEROSTRUCTURES&lt;/em&gt;, &lt;em&gt;227&lt;/em&gt;, 291-333.</apa>
+<frontiers>Reiss, G., Schmalhorst, J. - M., Thomas, A., Hütten, A., and Yuasa, S. (2008). Magnetic tunnel junctions. &lt;em&gt;MAGNETIC HETEROSTRUCTURES&lt;/em&gt; 227, 291-333.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Reiss, Günter, Schmalhorst, Jan-Michael, Thomas, Andy, Hütten, Andreas, and Yuasa, Shinji. 2008. “Magnetic tunnel junctions”. &lt;em&gt;MAGNETIC HETEROSTRUCTURES&lt;/em&gt; 227: 291-333.&lt;/div&gt;</chicago>
+<ieee>G. Reiss, et al., “Magnetic tunnel junctions”, &lt;em&gt;MAGNETIC HETEROSTRUCTURES&lt;/em&gt;,  vol. 227, 2008,  pp. 291-333.</ieee>
+<lncs>Reiss, G., Schmalhorst, J.-M., Thomas, A., Hütten, A., Yuasa, S.: Magnetic tunnel junctions. MAGNETIC HETEROSTRUCTURES. 227, 291-333 (2008).</lncs>
+<mla>Reiss, Günter, Schmalhorst, Jan-Michael, Thomas, Andy, Hütten, Andreas, and Yuasa, Shinji. “Magnetic tunnel junctions”. &lt;em&gt;MAGNETIC HETEROSTRUCTURES&lt;/em&gt; 227 (2008): 291-333.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Reiss, G., Schmalhorst, J. - M., Thomas, A., Hütten, A., &amp;amp; Yuasa, S. (2008). Magnetic tunnel junctions. &lt;em&gt;MAGNETIC HETEROSTRUCTURES&lt;/em&gt;, &lt;em&gt;227&lt;/em&gt;, 291-333.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1631177</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:05:32Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-02-23T14:03:38Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1631177</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1631177</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

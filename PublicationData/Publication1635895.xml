@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference abstract</genre>
+
+<titleInfo><title>Attentional capture by invisible colors and shapes</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Ulrich</namePart>
+  <namePart type="family">Ansorge</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Gernot</namePart>
+  <namePart type="family">Horstmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">34315</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10026</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+<name type="conference">
+  <namePart>XXIX International Congress of Psychology</namePart>
+</name>
+
+
+
+
+
+
+
+<originInfo><publisher>PSYCHOLOGY PRESS</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host">
+  <identifier type="issn">0020-7594</identifier>
+  <identifier type="ISI">000259264308560</identifier>
+<part><detail type="volume"><number>43</number></detail><detail type="issue"><number>3-4 (SI: Abstracts of the XXIX International Congress of Psychology)</number></detail><extent unit="pages">727-727</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ansorge, U., &amp;amp; Horstmann, G. (2008). &lt;em&gt;Attentional capture by invisible colors and shapes&lt;/em&gt;. Presented at the XXIX International Congress of Psychology.&lt;/div&gt;</apa_indent>
+<ieee> U. Ansorge and G. Horstmann, “Attentional capture by invisible colors and shapes”, Presented at the XXIX International Congress of Psychology, PSYCHOLOGY PRESS, 2008.</ieee>
+<mla>Ansorge, Ulrich, and Horstmann, Gernot. “Attentional capture by invisible colors and shapes”. Presented at the XXIX International Congress of Psychology, PSYCHOLOGY PRESS, 2008.</mla>
+<lncs> Ansorge, U., Horstmann, G.: Attentional capture by invisible colors and shapes. Presented at the XXIX International Congress of Psychology (2008).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ansorge, Ulrich, and Horstmann, Gernot. 2008. “Attentional capture by invisible colors and shapes”. Presented at the XXIX International Congress of Psychology , 43:727-727. INTERNATIONAL JOURNAL OF PSYCHOLOGY. PSYCHOLOGY PRESS.&lt;/div&gt;</chicago>
+<apa>Ansorge, U., &amp;amp; Horstmann, G. (2008). &lt;em&gt;Attentional capture by invisible colors and shapes&lt;/em&gt;. Presented at the XXIX International Congress of Psychology.</apa>
+<angewandte-chemie>U.  Ansorge, and G.  Horstmann, Psychology Press, &lt;strong&gt;2008&lt;/strong&gt;, p. 727-727.</angewandte-chemie>
+<frontiers>Ansorge, U., and Horstmann, G. (2008).“Attentional capture by invisible colors and shapes”. Presented at the XXIX International Congress of Psychology.</frontiers>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ansorge, U. &amp;amp; Horstmann, G. (2008). Attentional capture by invisible colors and shapes (INTERNATIONAL JOURNAL OF PSYCHOLOGY) (S. 727-727). Gehalten auf der XXIX International Congress of Psychology, PSYCHOLOGY PRESS.&lt;/div&gt;</dgps>
+<ama>Ansorge U, Horstmann G. Attentional capture by invisible colors and shapes. Presented at the XXIX International Congress of Psychology.</ama>
+<harvard1>Ansorge, U., &amp;amp; Horstmann, G., 2008. Attentional capture by invisible colors and shapes. Presented at the XXIX International Congress of Psychology</harvard1>
+<bio1>Ansorge U, Horstmann G (2008) &lt;br /&gt;Attentional capture by invisible colors and shapes. &lt;br /&gt;Presented at the XXIX International Congress of Psychology.</bio1>
+<aps> U.  Ansorge and G.  Horstmann, Attentional capture by invisible colors and shapes, INTERNATIONAL JOURNAL OF PSYCHOLOGY, &lt;strong&gt;43&lt;/strong&gt; (PSYCHOLOGY PRESS, 2008), p. 727-727.</aps>
+<wels>Ansorge, U.; Horstmann, G. (2008): Attentional capture by invisible colors and shapes. PSYCHOLOGY PRESS. (INTERNATIONAL JOURNAL OF PSYCHOLOGY, 43).  S. 727-727.</wels>
+<default>Ansorge U, Horstmann G (2008)  &lt;br /&gt;Presented at the XXIX International Congress of Psychology.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1635895</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:52Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-06T11:38:07Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1635895</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1635895</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

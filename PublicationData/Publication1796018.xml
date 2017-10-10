@@ -1,0 +1,116 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Local matrix learning in clustering and applications for manifold visualization</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Banchar</namePart>
+  <namePart type="family">Arnonkijpanich</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alexander</namePart>
+  <namePart type="family">Hasenfuss</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Barbara</namePart>
+  <namePart type="family">Hammer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">18302458</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Center of Excellence - Cognitive Interaction Technology CITEC</namePart>
+  <identifier type="unibi">8014655</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Theoretical Computer Science / Theoretische Informatik</namePart>
+  <identifier type="unibi">10037</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+<name type="conference">
+  <namePart>The 18th International Conference on Artificial Neural Networks, ICANN 2008</namePart>
+</name>
+
+
+
+
+
+
+<abstract lang="eng">Electronic data sets are increasing rapidly with respect to both, size of the data sets and data resolution, i.e. dimensionality, such that adequate data inspection and data visualization have become central issues of data mining. In this article, we present an extension of classical clustering schemes by local matrix adaptation, which allows a better representation of data by means of clusters with an arbitrary spherical shape. Unlike previous proposals, the method is derived from a global cost function. The focus of this article is to demonstrate the applicability of this matrix clustering scheme to low-dimensional data embedding for data inspection. The proposed method is based on matrix learning for neural gas and manifold charting. This provides an explicit mapping of a given high-dimensional data space to low dimensionality. We demonstrate the usefulness of this method for data inspection and manifold visualization. (C) 2009 Elsevier Ltd. All rights reserved.</abstract>
+
+<originInfo><publisher>Elsevier</publisher><dateIssued encoding="w3cdtf">2010</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Dimensionality reduction</topic><topic>visualization</topic><topic>Manifold charting</topic><topic>Neural gas</topic><topic>Matrix learning</topic><topic>Data</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Neural Networks</title></titleInfo>
+  <identifier type="issn">0893-6080</identifier>
+  <identifier type="MEDLINE">20056379</identifier>
+  <identifier type="ISI">000277227900004</identifier><identifier type="doi">10.1016/j.neunet.2009.12.003</identifier>
+<part><detail type="volume"><number>23</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">476-486</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<angewandte-chemie>B.  Arnonkijpanich, A.  Hasenfuss, and B.  Hammer, in &lt;em&gt;Neural Networks&lt;/em&gt;, Elsevier, &lt;strong&gt;2010&lt;/strong&gt;, p. 476-486.</angewandte-chemie>
+<apa>Arnonkijpanich, B., Hasenfuss, A., &amp;amp; Hammer, B. (2010). Local matrix learning in clustering and applications for manifold visualization. &lt;em&gt;Neural Networks&lt;/em&gt;, &lt;em&gt;23&lt;/em&gt;(4), 476-486.</apa>
+<frontiers>Arnonkijpanich, B., Hasenfuss, A., and Hammer, B. (2010). “Local matrix learning in clustering and applications for manifold visualization” in &lt;em&gt;Neural Networks&lt;/em&gt;, vol. 23, (Elsevier), 476-486.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Arnonkijpanich, Banchar, Hasenfuss, Alexander, and Hammer, Barbara. 2010. “Local matrix learning in clustering and applications for manifold visualization”. In &lt;em&gt;Neural Networks&lt;/em&gt;, 23:476-486. Elsevier.&lt;/div&gt;</chicago>
+<ieee>B. Arnonkijpanich, A. Hasenfuss, and B. Hammer, “Local matrix learning in clustering and applications for manifold visualization”, &lt;em&gt;Neural Networks&lt;/em&gt;, vol. 23, Elsevier, 2010,  pp.476-486.</ieee>
+<mla>Arnonkijpanich, Banchar, Hasenfuss, Alexander, and Hammer, Barbara. “Local matrix learning in clustering and applications for manifold visualization”. &lt;em&gt;Neural Networks&lt;/em&gt;. Elsevier, 2010.Vol. 23. 476-486.</mla>
+<lncs>Arnonkijpanich, B., Hasenfuss, A., Hammer, B.: Local matrix learning in clustering and applications for manifold visualization. Neural Networks. 23, p. 476-486. Elsevier (2010).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Arnonkijpanich, B., Hasenfuss, A., &amp;amp; Hammer, B. (2010). Local matrix learning in clustering and applications for manifold visualization. &lt;em&gt;Neural Networks&lt;/em&gt;, &lt;em&gt;23&lt;/em&gt;(4), 476-486.&lt;/div&gt;</apa_indent>
+<wels>Arnonkijpanich, B.; Hasenfuss, A.; Hammer, B. (2010): Local matrix learning in clustering and applications for manifold visualization. In: Neural Networks. Elsevier. (23).  S. 476-486.</wels>
+<default>Arnonkijpanich B, Hasenfuss A, Hammer B (2010)  &lt;br /&gt;In:  Neural Networks. 23. Elsevier:  476-486.</default>
+<harvard1>Arnonkijpanich, B., Hasenfuss, A., &amp;amp; Hammer, B., 2010. Local matrix learning in clustering and applications for manifold visualization. In &lt;em&gt;Neural Networks&lt;/em&gt;. no.23  Elsevier, pp. 476-486.</harvard1>
+<ama>Arnonkijpanich B, Hasenfuss A, Hammer B. Local matrix learning in clustering and applications for manifold visualization. In:  &lt;em&gt;Neural Networks&lt;/em&gt;. Vol 23. Elsevier;  2010: 476-486.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Arnonkijpanich, B., Hasenfuss, A. &amp;amp; Hammer, B. (2010). Local matrix learning in clustering and applications for manifold visualization. &lt;em&gt;Neural Networks&lt;/em&gt; (S. 476-486). Gehalten auf der The 18th International Conference on Artificial Neural Networks, ICANN 2008, Elsevier. doi:10.1016/j.neunet.2009.12.003.&lt;/div&gt;</dgps>
+<bio1>Arnonkijpanich B, Hasenfuss A, Hammer B (2010) &lt;br /&gt;Local matrix learning in clustering and applications for manifold visualization. &lt;br /&gt;In:  Neural Networks. 23. Elsevier:  476-486.</bio1>
+<aps>B.  Arnonkijpanich, A.  Hasenfuss, and B.  Hammer, Local matrix learning in clustering and applications for manifold visualization, in &lt;em&gt;Neural Networks&lt;/em&gt;, &lt;strong&gt;23&lt;/strong&gt; (Elsevier, 2010), p. 476-486.</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1796018</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-10-14T09:03:53Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-05-23T14:43:33Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1796018</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1796018</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

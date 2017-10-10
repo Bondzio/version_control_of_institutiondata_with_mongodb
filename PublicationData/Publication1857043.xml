@@ -1,0 +1,94 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Gleichgewicht</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Thorsten</namePart>
+  <namePart type="family">Hippe</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">160432</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Reinhold</namePart><namePart type="family">Hedtke</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Birgit</namePart><namePart type="family">Weber</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">5656122</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Wochenschau-Verl.</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Wörterbuch ökonomische Bildung</title></titleInfo>
+  <identifier type="isbn">978-3-89974370-8</identifier>
+<part><extent unit="pages">144-145</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<angewandte-chemie>T.  Hippe, in &lt;em&gt;Wörterbuch ökonomische Bildung&lt;/em&gt; (Eds.: R. Hedtke, B. Weber), Wochenschau-Verl., Schwalbach/Ts., &lt;strong&gt;2008&lt;/strong&gt;, p. 144-145.</angewandte-chemie>
+<apa>Hippe, T. (2008). Gleichgewicht. In R.  Hedtke &amp;amp; B.  Weber (Eds.), &lt;em&gt;Wörterbuch ökonomische Bildung&lt;/em&gt; (pp. 144-145). Schwalbach/Ts.: Wochenschau-Verl.</apa>
+<frontiers>Hippe, T. (2008). “Gleichgewicht” in &lt;em&gt;Wörterbuch ökonomische Bildung&lt;/em&gt;, Hedtke, R., and Weber, B. eds. (Schwalbach/Ts.: Wochenschau-Verl.), 144-145.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hippe, Thorsten. 2008. “Gleichgewicht”. In &lt;em&gt;Wörterbuch ökonomische Bildung&lt;/em&gt;, ed. Reinhold Hedtke and Birgit Weber, 144-145. Schwalbach/Ts.: Wochenschau-Verl.&lt;/div&gt;</chicago>
+<ieee> T. Hippe, “Gleichgewicht”, &lt;em&gt;Wörterbuch ökonomische Bildung&lt;/em&gt;, R. Hedtke and B. Weber, eds.,  Schwalbach/Ts.: Wochenschau-Verl., 2008,  pp.144-145.</ieee>
+<mla>Hippe, Thorsten. “Gleichgewicht”. &lt;em&gt;Wörterbuch ökonomische Bildung&lt;/em&gt;. Ed. Reinhold Hedtke and Birgit Weber. Schwalbach/Ts.: Wochenschau-Verl., 2008. 144-145.</mla>
+<lncs> Hippe, T.: Gleichgewicht. In: Hedtke, R. and Weber, B. (eds.) Wörterbuch ökonomische Bildung. p. 144-145. Wochenschau-Verl., Schwalbach/Ts. (2008).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hippe, T. (2008). Gleichgewicht. In R.  Hedtke &amp;amp; B.  Weber (Eds.), &lt;em&gt;Wörterbuch ökonomische Bildung&lt;/em&gt; (pp. 144-145). Schwalbach/Ts.: Wochenschau-Verl.&lt;/div&gt;</apa_indent>
+<wels>Hippe, T. (2008): Gleichgewicht. In: Reinhold Hedtke; Birgit Weber (Hrsg.):  Wörterbuch ökonomische Bildung. Schwalbach/Ts.: Wochenschau-Verl.  S. 144-145.</wels>
+<default>Hippe T (2008)  &lt;br /&gt;In:  Wörterbuch ökonomische Bildung. Hedtke R, Weber B (Eds);Schwalbach/Ts.: Wochenschau-Verl.:  144-145.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hippe, T. (2008). Gleichgewicht. &lt;em&gt;Wörterbuch ökonomische Bildung&lt;/em&gt; (S. 144-145). Schwalbach/Ts.: Wochenschau-Verl.&lt;/div&gt;</dgps>
+<harvard1>Hippe, T., 2008. Gleichgewicht. In R.  Hedtke &amp;amp; B.  Weber, eds. &lt;em&gt;Wörterbuch ökonomische Bildung&lt;/em&gt;.  Schwalbach/Ts.: Wochenschau-Verl., pp. 144-145.</harvard1>
+<ama>Hippe T. Gleichgewicht. In: Hedtke R, Weber B, eds. &lt;em&gt;Wörterbuch ökonomische Bildung&lt;/em&gt;. Schwalbach/Ts.: Wochenschau-Verl.;  2008: 144-145.</ama>
+<aps> T.  Hippe, Gleichgewicht, in &lt;em&gt;Wörterbuch ökonomische Bildung&lt;/em&gt;, edited by R.  Hedtke and B.  Weber (Wochenschau-Verl., Schwalbach/ts., 2008), p. 144-145.</aps>
+<bio1>Hippe T (2008) &lt;br /&gt;Gleichgewicht. &lt;br /&gt;In:  Wörterbuch ökonomische Bildung. Hedtke R, Weber B (Eds); Schwalbach/Ts.: Wochenschau-Verl.:  144-145.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1857043</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-08-04T09:07:48Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-08-04T09:07:48Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1857043</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1857043</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

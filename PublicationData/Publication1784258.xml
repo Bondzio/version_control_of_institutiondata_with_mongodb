@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Computer simulation of the hydrostatic skeleton: the physical equivalent, mathematics and application to worm-like forms</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">M.</namePart>
+  <namePart type="family">Wadepuhl</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Wolf-Jürgen</namePart>
+  <namePart type="family">Beyn</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The functional principles of a hydrostatic skeleton were combined to obtain a physical model which includes geometry, number and length-tension relationships of the elastic elements in the body wall, internal volume and internal pressure. The model skeleton with pre-set internal volume assumes a certain shape and develops a specific internal pressure in order to minimize the potential energy stored in the elastic elements. This shape is calculated as equilibrium state by using finite element methods and optimization techniques. This model is flexible enough to accommodate different geometries and length-tension-relationships of the elastic elements. Presently, the model is implemented with linear length-tension relationships and certain geometrical restrictions, such as uniform width over the entire animal, and rectangular cross sections; the general case is outlined. First simulations with the “unit-worm” yield stable solutions, i.e. stable shapes for all combinations of parameters tested so far. They define the conditions for bringing all muscles to an optimal operating point. We detected a pressure maximum with increasing volume, assessed the contribution of circular muscles to bending, and determined the shapes of animals with different muscle activations in each body half (Chapman-matrix). We summarize our results by the volume rule and stabilization rule, two simple concepts which predict changes in shape as the result of muscle activation.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="beyn_08.pdf">https://pub.uni-bielefeld.de/download/1784258/2314362</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1989</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Journal of Theoretical Biology</title></titleInfo>
+  <identifier type="issn">0022-5193</identifier>
+  <identifier type="MEDLINE">2811399</identifier>
+  <identifier type="ISI">A1989T647100002</identifier><identifier type="urn">urn:nbn:de:0070-pub-17842584</identifier><identifier type="doi">10.1016/S0022-5193(89)80155-9</identifier>
+<part><detail type="volume"><number>136</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">379-402</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Wadepuhl, M.; Beyn, W. - J. (1989): Computer simulation of the hydrostatic skeleton: the physical equivalent, mathematics and application to worm-like forms &lt;em&gt;Journal of Theoretical Biology&lt;/em&gt;,136:(4): 379-402.</wels>
+<default>Wadepuhl M, Beyn W-J (1989) &lt;br /&gt;Journal of Theoretical Biology 136(4): 379-402.</default>
+<ama>Wadepuhl M, Beyn W-J. Computer simulation of the hydrostatic skeleton: the physical equivalent, mathematics and application to worm-like forms. &lt;em&gt;Journal of Theoretical Biology&lt;/em&gt;. 1989;136(4):379-402.</ama>
+<harvard1>Wadepuhl, M., &amp;amp; Beyn, W.-J., 1989. Computer simulation of the hydrostatic skeleton: the physical equivalent, mathematics and application to worm-like forms. &lt;em&gt;Journal of Theoretical Biology&lt;/em&gt;, 136(4), p 379-402.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wadepuhl, M. &amp;amp; Beyn, W.-J. (1989). Computer simulation of the hydrostatic skeleton: the physical equivalent, mathematics and application to worm-like forms. &lt;em&gt;Journal of Theoretical Biology&lt;/em&gt;, &lt;em&gt;136&lt;/em&gt;(4), 379-402. doi:10.1016/S0022-5193(89)80155-9.&lt;/div&gt;</dgps>
+<aps>M.  Wadepuhl and W. - J.  Beyn, Computer simulation of the hydrostatic skeleton: the physical equivalent, mathematics and application to worm-like forms, Journal of Theoretical Biology &lt;strong&gt;136&lt;/strong&gt;, 379-402 (1989).</aps>
+<bio1>Wadepuhl M, Beyn W-J (1989) &lt;br /&gt;Computer simulation of the hydrostatic skeleton: the physical equivalent, mathematics and application to worm-like forms.&lt;br /&gt;Journal of Theoretical Biology 136(4): 379-402.</bio1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wadepuhl, M., and Beyn, Wolf-Jürgen. 1989. “Computer simulation of the hydrostatic skeleton: the physical equivalent, mathematics and application to worm-like forms”. &lt;em&gt;Journal of Theoretical Biology&lt;/em&gt; 136 (4): 379-402.&lt;/div&gt;</chicago>
+<angewandte-chemie>M.  Wadepuhl, and W. - J.  Beyn, “Computer simulation of the hydrostatic skeleton: the physical equivalent, mathematics and application to worm-like forms”, &lt;em&gt;Journal of Theoretical Biology&lt;/em&gt;, &lt;strong&gt;1989&lt;/strong&gt;, &lt;em&gt;136&lt;/em&gt;, 379-402.</angewandte-chemie>
+<apa>Wadepuhl, M., &amp;amp; Beyn, W. - J. (1989). Computer simulation of the hydrostatic skeleton: the physical equivalent, mathematics and application to worm-like forms. &lt;em&gt;Journal of Theoretical Biology&lt;/em&gt;, &lt;em&gt;136&lt;/em&gt;(4), 379-402.</apa>
+<frontiers>Wadepuhl, M., and Beyn, W. - J. (1989). Computer simulation of the hydrostatic skeleton: the physical equivalent, mathematics and application to worm-like forms. &lt;em&gt;Journal of Theoretical Biology&lt;/em&gt; 136, 379-402.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wadepuhl, M., &amp;amp; Beyn, W. - J. (1989). Computer simulation of the hydrostatic skeleton: the physical equivalent, mathematics and application to worm-like forms. &lt;em&gt;Journal of Theoretical Biology&lt;/em&gt;, &lt;em&gt;136&lt;/em&gt;(4), 379-402.&lt;/div&gt;</apa_indent>
+<ieee>M. Wadepuhl and W.-J. Beyn, “Computer simulation of the hydrostatic skeleton: the physical equivalent, mathematics and application to worm-like forms”, &lt;em&gt;Journal of Theoretical Biology&lt;/em&gt;,  vol. 136, 1989,  pp. 379-402.</ieee>
+<lncs>Wadepuhl, M., Beyn, W.-J.: Computer simulation of the hydrostatic skeleton: the physical equivalent, mathematics and application to worm-like forms. Journal of Theoretical Biology. 136, 379-402 (1989).</lncs>
+<mla>Wadepuhl, M., and Beyn, Wolf-Jürgen. “Computer simulation of the hydrostatic skeleton: the physical equivalent, mathematics and application to worm-like forms”. &lt;em&gt;Journal of Theoretical Biology&lt;/em&gt; 136.4 (1989): 379-402.</mla>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1784258</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1784258</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1784258</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

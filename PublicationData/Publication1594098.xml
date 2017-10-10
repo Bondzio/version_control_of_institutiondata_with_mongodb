@@ -1,0 +1,161 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Complete genome sequence of the prototype lactic acid bacterium Lactococcus lactis subsp cremoris MG1363</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Udo</namePart>
+  <namePart type="family">Wegmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Mary</namePart>
+  <namePart type="family">O&apos;Connell-Motherwy</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Aldert</namePart>
+  <namePart type="family">Zomer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Girbe</namePart>
+  <namePart type="family">Buist</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Claire</namePart>
+  <namePart type="family">Shearman</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Carlos</namePart>
+  <namePart type="family">Canchaya</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Marco</namePart>
+  <namePart type="family">Ventura</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alexander</namePart>
+  <namePart type="family">Goesmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">152495</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-7086-2568</description></name>
+<name type="personal">
+  <namePart type="given">Michael J.</namePart>
+  <namePart type="family">Gasson</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Oscar P.</namePart>
+  <namePart type="family">Kuipers</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Douwe</namePart>
+  <namePart type="family">van Sinderen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jan</namePart>
+  <namePart type="family">Kok</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Bioinformatics Resource Facility</namePart>
+  <identifier type="unibi">441927</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group A. Goesmann</namePart>
+  <identifier type="unibi">33067438</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Computational Genomics</namePart>
+  <identifier type="unibi">29609402</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>AMER SOC MICROBIOLOGY</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF BACTERIOLOGY</title></titleInfo>
+  <identifier type="issn">0021-9193</identifier>
+  <identifier type="MEDLINE">17307855</identifier>
+  <identifier type="ISI">000246029300034</identifier><identifier type="doi">10.1128/JB.01768-06</identifier>
+<part><detail type="volume"><number>189</number></detail><detail type="issue"><number>8</number></detail><extent unit="pages">3256-3270</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Wegmann U, O&apos;Connell-Motherwy M, Zomer A, Buist G, Shearman C, Canchaya C, Ventura M, Goesmann A, Gasson MJ, Kuipers OP, van Sinderen D, et al. (2007) &lt;br /&gt;JOURNAL OF BACTERIOLOGY 189(8): 3256-3270.</default>
+<wels>Wegmann, U.; O&apos;Connell-Motherwy, M.; Zomer, A.; Buist, G.; Shearman, C.; Canchaya, C.; Ventura, M.; Goesmann, A.; Gasson, M. J.; Kuipers, O. P.; van Sinderen, D.; Kok, J. (2007): Complete genome sequence of the prototype lactic acid bacterium Lactococcus lactis subsp cremoris MG1363 &lt;em&gt;JOURNAL OF BACTERIOLOGY&lt;/em&gt;,189:(8): 3256-3270.</wels>
+<aps>U.  Wegmann, et al., Complete genome sequence of the prototype lactic acid bacterium Lactococcus lactis subsp cremoris MG1363, JOURNAL OF BACTERIOLOGY &lt;strong&gt;189&lt;/strong&gt;, 3256-3270 (2007).</aps>
+<bio1>Wegmann U, O&apos;Connell-Motherwy M, Zomer A, Buist G, Shearman C, Canchaya C, Ventura M, Goesmann A, Gasson MJ, Kuipers OP, van Sinderen D, Kok J (2007) &lt;br /&gt;Complete genome sequence of the prototype lactic acid bacterium Lactococcus lactis subsp cremoris MG1363.&lt;br /&gt;JOURNAL OF BACTERIOLOGY 189(8): 3256-3270.</bio1>
+<ama>Wegmann U, O&apos;Connell-Motherwy M, Zomer A, et al. Complete genome sequence of the prototype lactic acid bacterium Lactococcus lactis subsp cremoris MG1363. &lt;em&gt;JOURNAL OF BACTERIOLOGY&lt;/em&gt;. 2007;189(8):3256-3270.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wegmann, U., O&apos;Connell-Motherwy, M., Zomer, A., Buist, G., Shearman, C., Canchaya, C., Ventura, M., Goesmann, A., Gasson, M.J., Kuipers, O.P., van Sinderen, D. &amp;amp; Kok, J. (2007). Complete genome sequence of the prototype lactic acid bacterium Lactococcus lactis subsp cremoris MG1363. &lt;em&gt;JOURNAL OF BACTERIOLOGY&lt;/em&gt;, &lt;em&gt;189&lt;/em&gt;(8), 3256-3270. AMER SOC MICROBIOLOGY. doi:10.1128/JB.01768-06.&lt;/div&gt;</dgps>
+<harvard1>Wegmann, U., et al., 2007. Complete genome sequence of the prototype lactic acid bacterium Lactococcus lactis subsp cremoris MG1363. &lt;em&gt;JOURNAL OF BACTERIOLOGY&lt;/em&gt;, 189(8), p 3256-3270.</harvard1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wegmann, Udo, O&apos;Connell-Motherwy, Mary, Zomer, Aldert, Buist, Girbe, Shearman, Claire, Canchaya, Carlos, Ventura, Marco, et al. 2007. “Complete genome sequence of the prototype lactic acid bacterium Lactococcus lactis subsp cremoris MG1363”. &lt;em&gt;JOURNAL OF BACTERIOLOGY&lt;/em&gt; 189 (8): 3256-3270.&lt;/div&gt;</chicago>
+<frontiers>Wegmann, U., O&apos;Connell-Motherwy, M., Zomer, A., Buist, G., Shearman, C., Canchaya, C., Ventura, M., Goesmann, A., Gasson, M. J., Kuipers, O. P., et al. (2007). Complete genome sequence of the prototype lactic acid bacterium Lactococcus lactis subsp cremoris MG1363. &lt;em&gt;JOURNAL OF BACTERIOLOGY&lt;/em&gt; 189, 3256-3270.</frontiers>
+<apa>Wegmann, U., O&apos;Connell-Motherwy, M., Zomer, A., Buist, G., Shearman, C., Canchaya, C., Ventura, M., et al. (2007). Complete genome sequence of the prototype lactic acid bacterium Lactococcus lactis subsp cremoris MG1363. &lt;em&gt;JOURNAL OF BACTERIOLOGY&lt;/em&gt;, &lt;em&gt;189&lt;/em&gt;(8), 3256-3270.</apa>
+<angewandte-chemie>U.  Wegmann, M.  O&apos;Connell-Motherwy, A.  Zomer, G.  Buist, C.  Shearman, C.  Canchaya, M.  Ventura, A.  Goesmann, M. J.  Gasson, O. P.  Kuipers, et al., “Complete genome sequence of the prototype lactic acid bacterium Lactococcus lactis subsp cremoris MG1363”, &lt;em&gt;JOURNAL OF BACTERIOLOGY&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;189&lt;/em&gt;, 3256-3270.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wegmann, U., O&apos;Connell-Motherwy, M., Zomer, A., Buist, G., Shearman, C., Canchaya, C., Ventura, M., et al. (2007). Complete genome sequence of the prototype lactic acid bacterium Lactococcus lactis subsp cremoris MG1363. &lt;em&gt;JOURNAL OF BACTERIOLOGY&lt;/em&gt;, &lt;em&gt;189&lt;/em&gt;(8), 3256-3270.&lt;/div&gt;</apa_indent>
+<lncs>Wegmann, U., O&apos;Connell-Motherwy, M., Zomer, A., Buist, G., Shearman, C., Canchaya, C., Ventura, M., Goesmann, A., Gasson, M.J., Kuipers, O.P., van Sinderen, D., Kok, J.: Complete genome sequence of the prototype lactic acid bacterium Lactococcus lactis subsp cremoris MG1363. JOURNAL OF BACTERIOLOGY. 189, 3256-3270 (2007).</lncs>
+<mla>Wegmann, Udo, O&apos;Connell-Motherwy, Mary, Zomer, Aldert, Buist, Girbe, Shearman, Claire, Canchaya, Carlos, Ventura, Marco, Goesmann, Alexander, Gasson, Michael J., Kuipers, Oscar P., van Sinderen, Douwe, and Kok, Jan. “Complete genome sequence of the prototype lactic acid bacterium Lactococcus lactis subsp cremoris MG1363”. &lt;em&gt;JOURNAL OF BACTERIOLOGY&lt;/em&gt; 189.8 (2007): 3256-3270.</mla>
+<ieee>U. Wegmann, et al., “Complete genome sequence of the prototype lactic acid bacterium Lactococcus lactis subsp cremoris MG1363”, &lt;em&gt;JOURNAL OF BACTERIOLOGY&lt;/em&gt;,  vol. 189, 2007,  pp. 3256-3270.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1594098</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:12Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-02-14T12:40:24Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1594098</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1594098</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

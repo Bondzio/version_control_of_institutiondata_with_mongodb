@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Was Sport alles ist und sein kann: wie man Sport definieren oder beschreiben kann</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Dietrich</namePart>
+  <namePart type="family">Kurz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">120538</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Helmut</namePart><namePart type="family">Digel</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Arbeitsbereich IV - Sport und Erziehung</namePart>
+  <identifier type="unibi">28978161</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Kurz_031.pdf">https://pub.uni-bielefeld.de/download/1779226/2312601</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Rowohlt</publisher><dateIssued encoding="w3cdtf">1983</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Lehren im Sport</title></titleInfo>
+  <identifier type="isbn">3-499-17050-7</identifier><identifier type="urn">urn:nbn:de:0070-bipr-17759</identifier>
+<part><extent unit="pages">13-25</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kurz, Dietrich. 1983. “Was Sport alles ist und sein kann: wie man Sport definieren oder beschreiben kann”. In &lt;em&gt;Lehren im Sport&lt;/em&gt;, ed. Helmut Digel, 13-25. Rororo ; 7050 : rororo-Sachbuch : rororo-Sportbücher. Reinbek bei Hamburg: Rowohlt.&lt;/div&gt;</chicago>
+<frontiers>Kurz, D. (1983). “Was Sport alles ist und sein kann: wie man Sport definieren oder beschreiben kann” in &lt;em&gt;Lehren im Sport&lt;/em&gt;, ed. H.  Digel Rororo ; 7050 : rororo-Sachbuch : rororo-Sportbücher (Reinbek bei Hamburg: Rowohlt), 13-25.</frontiers>
+<apa>Kurz, D. (1983). Was Sport alles ist und sein kann: wie man Sport definieren oder beschreiben kann. In H.  Digel (Ed.), &lt;em&gt;Rororo ; 7050 : rororo-Sachbuch : rororo-Sportbücher&lt;/em&gt;&lt;em&gt;. Lehren im Sport&lt;/em&gt; (pp. 13-25). Reinbek bei Hamburg: Rowohlt.</apa>
+<angewandte-chemie>D.  Kurz, in &lt;em&gt;Lehren im Sport&lt;/em&gt; (Ed.: H. Digel), Rowohlt, Reinbek bei Hamburg, &lt;strong&gt;1983&lt;/strong&gt;, p. 13-25.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kurz, D. (1983). Was Sport alles ist und sein kann: wie man Sport definieren oder beschreiben kann. In H.  Digel (Ed.), &lt;em&gt;Rororo ; 7050 : rororo-Sachbuch : rororo-Sportbücher&lt;/em&gt;&lt;em&gt;. Lehren im Sport&lt;/em&gt; (pp. 13-25). Reinbek bei Hamburg: Rowohlt.&lt;/div&gt;</apa_indent>
+<mla>Kurz, Dietrich. “Was Sport alles ist und sein kann: wie man Sport definieren oder beschreiben kann”. &lt;em&gt;Lehren im Sport&lt;/em&gt;. Ed. Helmut Digel. Reinbek bei Hamburg: Rowohlt, 1983. Rororo ; 7050 : rororo-Sachbuch : rororo-Sportbücher. 13-25.</mla>
+<lncs>Kurz, D.: Was Sport alles ist und sein kann: wie man Sport definieren oder beschreiben kann. In: Digel, H. (ed.) Lehren im Sport. Rororo ; 7050 : rororo-Sachbuch : rororo-Sportbücher. p. 13-25. Rowohlt, Reinbek bei Hamburg (1983).</lncs>
+<ieee>D. Kurz, “Was Sport alles ist und sein kann: wie man Sport definieren oder beschreiben kann”, &lt;em&gt;Lehren im Sport&lt;/em&gt;, H. Digel, ed., Rororo ; 7050 : rororo-Sachbuch : rororo-Sportbücher,  Reinbek bei Hamburg: Rowohlt, 1983,  pp.13-25.</ieee>
+<default>Kurz D (1983)  &lt;br /&gt;In:  Lehren im Sport. Digel H (Ed); Rororo ; 7050 : rororo-Sachbuch : rororo-Sportbücher, . Reinbek bei Hamburg: Rowohlt:  13-25.</default>
+<wels>Kurz, D. (1983): Was Sport alles ist und sein kann: wie man Sport definieren oder beschreiben kann. In: Helmut Digel (Hrsg.):  Lehren im Sport. Reinbek bei Hamburg: Rowohlt. (Rororo ; 7050 : rororo-Sachbuch : rororo-Sportbücher, ).  S. 13-25.</wels>
+<aps>D.  Kurz, Was Sport alles ist und sein kann: wie man Sport definieren oder beschreiben kann, in &lt;em&gt;Lehren im Sport&lt;/em&gt;, edited by H.  Digel, Rororo ; 7050 : rororo-Sachbuch : rororo-Sportbücher (Rowohlt, Reinbek Bei Hamburg, 1983), p. 13-25.</aps>
+<bio1>Kurz D (1983) &lt;br /&gt;Was Sport alles ist und sein kann: wie man Sport definieren oder beschreiben kann. &lt;br /&gt;In:  Lehren im Sport. Digel H (Ed); Rororo ; 7050 : rororo-Sachbuch : rororo-Sportbücher,  Reinbek bei Hamburg: Rowohlt:  13-25.</bio1>
+<ama>Kurz D. Was Sport alles ist und sein kann: wie man Sport definieren oder beschreiben kann. In: Digel H, ed. &lt;em&gt;Lehren im Sport&lt;/em&gt;. Rororo ; 7050 : rororo-Sachbuch : rororo-Sportbücher. Reinbek bei Hamburg: Rowohlt;  1983: 13-25.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kurz, D. (1983). Was Sport alles ist und sein kann: wie man Sport definieren oder beschreiben kann (Rororo ; 7050 : rororo-Sachbuch : rororo-Sportbücher). &lt;em&gt;Lehren im Sport&lt;/em&gt; (S. 13-25). Reinbek bei Hamburg: Rowohlt.&lt;/div&gt;</dgps>
+<harvard1>Kurz, D., 1983. Was Sport alles ist und sein kann: wie man Sport definieren oder beschreiben kann. In H.  Digel, ed. &lt;em&gt;Lehren im Sport&lt;/em&gt;. Rororo ; 7050 : rororo-Sachbuch : rororo-Sportbücher.  Reinbek bei Hamburg: Rowohlt, pp. 13-25.</harvard1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1779226</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1779226</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1779226</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

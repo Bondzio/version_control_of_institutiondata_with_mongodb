@@ -1,0 +1,114 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Movement detectors of the correlation type provide sufficient information for local computation of the 2-D velocity field</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Werner</namePart>
+  <namePart type="family">Reichardt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">R. W.</namePart>
+  <namePart type="family">Schlögel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Martin</namePart>
+  <namePart type="family">Egelhaaf</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">156194</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-9336-4270</description></name>
+
+
+
+<name type="personal"><namePart type="given">Hermann</namePart><namePart type="family">Haken</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Biologie</namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Neurobiologie</namePart>
+  <identifier type="unibi">2684834</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Egelhaaf_12.pdf">https://pub.uni-bielefeld.de/download/1776715/2312207</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Springer</publisher><dateIssued encoding="w3cdtf">1988</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Neural and synergetic computers: proceedings of the international symposium at Schloß Elmau, Bavaria, June 13 - 17, 1988</title></titleInfo>
+  <identifier type="isbn">3-540-50339-0</identifier><identifier type="urn">urn:nbn:de:0070-bipr-12694</identifier>
+<part><extent unit="pages">170-179</extent>
+</part>
+</relatedItem>
+
+<note type="nonBielefeld">yes</note>
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Reichardt, W., Schlögel, R.W. &amp;amp; Egelhaaf, M. (1988). Movement detectors of the correlation type provide sufficient information for local computation of the 2-D velocity field (Springer series in synergetics ; 42). &lt;em&gt;Neural and synergetic computers: proceedings of the international symposium at Schloß Elmau, Bavaria, June 13 - 17, 1988&lt;/em&gt; (S. 170-179). Berlin: Springer.&lt;/div&gt;</dgps>
+<harvard1>Reichardt, W., Schlögel, R.W., &amp;amp; Egelhaaf, M., 1988. Movement detectors of the correlation type provide sufficient information for local computation of the 2-D velocity field. In H.  Haken, ed. &lt;em&gt;Neural and synergetic computers: proceedings of the international symposium at Schloß Elmau, Bavaria, June 13 - 17, 1988&lt;/em&gt;. Springer series in synergetics ; 42.  Berlin: Springer, pp. 170-179.</harvard1>
+<ama>Reichardt W, Schlögel RW, Egelhaaf M. Movement detectors of the correlation type provide sufficient information for local computation of the 2-D velocity field. In: Haken H, ed. &lt;em&gt;Neural and synergetic computers: proceedings of the international symposium at Schloß Elmau, Bavaria, June 13 - 17, 1988&lt;/em&gt;. Springer series in synergetics ; 42. Berlin: Springer;  1988: 170-179.</ama>
+<aps>W.  Reichardt, R. W.  Schlögel, and M.  Egelhaaf, Movement detectors of the correlation type provide sufficient information for local computation of the 2-D velocity field, in &lt;em&gt;Neural and synergetic computers: proceedings of the international symposium at Schloß Elmau, Bavaria, June 13 - 17, 1988&lt;/em&gt;, edited by H.  Haken, Springer series in synergetics ; 42 (Springer, Berlin, 1988), p. 170-179.</aps>
+<bio1>Reichardt W, Schlögel RW, Egelhaaf M (1988) &lt;br /&gt;Movement detectors of the correlation type provide sufficient information for local computation of the 2-D velocity field. &lt;br /&gt;In:  Neural and synergetic computers: proceedings of the international symposium at Schloß Elmau, Bavaria, June 13 - 17, 1988. Haken H (Ed); Springer series in synergetics ; 42,  Berlin: Springer:  170-179.</bio1>
+<wels>Reichardt, W.; Schlögel, R. W.; Egelhaaf, M. (1988): Movement detectors of the correlation type provide sufficient information for local computation of the 2-D velocity field. In: Hermann Haken (Hrsg.):  Neural and synergetic computers: proceedings of the international symposium at Schloß Elmau, Bavaria, June 13 - 17, 1988. Berlin: Springer. (Springer series in synergetics ; 42, ).  S. 170-179.</wels>
+<default>Reichardt W, Schlögel RW, Egelhaaf M (1988)  &lt;br /&gt;In:  Neural and synergetic computers: proceedings of the international symposium at Schloß Elmau, Bavaria, June 13 - 17, 1988. Haken H (Ed); Springer series in synergetics ; 42, . Berlin: Springer:  170-179.</default>
+<ieee>W. Reichardt, R.W. Schlögel, and M. Egelhaaf, “Movement detectors of the correlation type provide sufficient information for local computation of the 2-D velocity field”, &lt;em&gt;Neural and synergetic computers: proceedings of the international symposium at Schloß Elmau, Bavaria, June 13 - 17, 1988&lt;/em&gt;, H. Haken, ed., Springer series in synergetics ; 42,  Berlin: Springer, 1988,  pp.170-179.</ieee>
+<lncs>Reichardt, W., Schlögel, R.W., Egelhaaf, M.: Movement detectors of the correlation type provide sufficient information for local computation of the 2-D velocity field. In: Haken, H. (ed.) Neural and synergetic computers: proceedings of the international symposium at Schloß Elmau, Bavaria, June 13 - 17, 1988. Springer series in synergetics ; 42. p. 170-179. Springer, Berlin (1988).</lncs>
+<mla>Reichardt, Werner, Schlögel, R. W., and Egelhaaf, Martin. “Movement detectors of the correlation type provide sufficient information for local computation of the 2-D velocity field”. &lt;em&gt;Neural and synergetic computers: proceedings of the international symposium at Schloß Elmau, Bavaria, June 13 - 17, 1988&lt;/em&gt;. Ed. Hermann Haken. Berlin: Springer, 1988. Springer series in synergetics ; 42. 170-179.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Reichardt, W., Schlögel, R. W., &amp;amp; Egelhaaf, M. (1988). Movement detectors of the correlation type provide sufficient information for local computation of the 2-D velocity field. In H.  Haken (Ed.), &lt;em&gt;Springer series in synergetics ; 42&lt;/em&gt;&lt;em&gt;. Neural and synergetic computers: proceedings of the international symposium at Schloß Elmau, Bavaria, June 13 - 17, 1988&lt;/em&gt; (pp. 170-179). Berlin: Springer.&lt;/div&gt;</apa_indent>
+<apa>Reichardt, W., Schlögel, R. W., &amp;amp; Egelhaaf, M. (1988). Movement detectors of the correlation type provide sufficient information for local computation of the 2-D velocity field. In H.  Haken (Ed.), &lt;em&gt;Springer series in synergetics ; 42&lt;/em&gt;&lt;em&gt;. Neural and synergetic computers: proceedings of the international symposium at Schloß Elmau, Bavaria, June 13 - 17, 1988&lt;/em&gt; (pp. 170-179). Berlin: Springer.</apa>
+<angewandte-chemie>W.  Reichardt, R. W.  Schlögel, and M.  Egelhaaf, in &lt;em&gt;Neural and synergetic computers: proceedings of the international symposium at Schloß Elmau, Bavaria, June 13 - 17, 1988&lt;/em&gt; (Ed.: H. Haken), Springer, Berlin, &lt;strong&gt;1988&lt;/strong&gt;, p. 170-179.</angewandte-chemie>
+<frontiers>Reichardt, W., Schlögel, R. W., and Egelhaaf, M. (1988). “Movement detectors of the correlation type provide sufficient information for local computation of the 2-D velocity field” in &lt;em&gt;Neural and synergetic computers: proceedings of the international symposium at Schloß Elmau, Bavaria, June 13 - 17, 1988&lt;/em&gt;, ed. H.  Haken Springer series in synergetics ; 42 (Berlin: Springer), 170-179.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Reichardt, Werner, Schlögel, R. W., and Egelhaaf, Martin. 1988. “Movement detectors of the correlation type provide sufficient information for local computation of the 2-D velocity field”. In &lt;em&gt;Neural and synergetic computers: proceedings of the international symposium at Schloß Elmau, Bavaria, June 13 - 17, 1988&lt;/em&gt;, ed. Hermann Haken, 170-179. Springer series in synergetics ; 42. Berlin: Springer.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776715</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776715</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776715</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,132 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Where to Look Next? Combining Static and Dynamic Proto-objects in a TVA-based Model of Visual Attention</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Marco</namePart>
+  <namePart type="family">Wischnewski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">8911306</identifier></name>
+<name type="personal">
+  <namePart type="given">Anna</namePart>
+  <namePart type="family">Belardinelli</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11715377</identifier></name>
+<name type="personal">
+  <namePart type="given">Werner X.</namePart>
+  <namePart type="family">Schneider</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">8139667</identifier></name>
+<name type="personal">
+  <namePart type="given">Jochen J.</namePart>
+  <namePart type="family">Steil</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11608</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Technische Fakultät</namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Center of Excellence - Cognitive Interaction Technology CITEC</namePart>
+  <identifier type="unibi">8014655</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Arbeitseinheit 01 - Neurokognitive Psychologie</namePart>
+  <identifier type="unibi">33694</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Institute for Cognition and Robotics</namePart>
+  <identifier type="unibi">5408013</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">To decide &quot;Where to look next ?&quot; is a central function of the attention system of humans, animals and robots. Control of attention depends on three factors, that is, low-level static and dynamic visual features of the environment (bottom-up), medium-level visual features of proto-objects and the task (top-down). We present a novel integrated computational model that includes all these factors in a coherent architecture based on findings and constraints from the primate visual system. The model combines spatially inhomogeneous processing of static features, spatio-temporal motion features and task-dependent priority control in the form of the first computational implementation of saliency computation as specified by the &quot;Theory of Visual Attention&quot; (TVA, [7]). Importantly, static and dynamic processing streams are fused at the level of visual proto-objects, that is, ellipsoidal visual units that have the additional medium-level features of position, size, shape and orientation of the principal axis. Proto-objects serve as input to the TVA process that combines top-down and bottom-up information for computing attentional priorities so that relatively complex search tasks can be implemented. To this end, separately computed static and dynamic proto-objects are filtered and subsequently merged into one combined map of proto-objects. For each proto-object, attentional priorities in the form of attentional weights are computed according to TVA. The target of the next saccade is the center of gravity of the proto-object with the highest weight according to the task. We illustrate the approach by applying it to several real world image sequences and show that it is robust to parameter variations.</abstract>
+
+<originInfo><publisher>Springer Science + Business Media</publisher><dateIssued encoding="w3cdtf">2010</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>TVA</topic><topic>Modeling visual attention</topic><topic>Proto-objects</topic><topic>Static and dynamic features</topic><topic>Inhomogeneity</topic><topic>Top-down control</topic><topic>Natural scenes</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Cognitive Computation</title></titleInfo>
+  <identifier type="issn">1866-9956</identifier>
+  <identifier type="eIssn">1866-9964</identifier>
+  <identifier type="ISI">000292777400012</identifier><identifier type="doi">10.1007/s12559-010-9080-1</identifier>
+<part><detail type="volume"><number>2</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">326-343</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wischnewski, Marco, Belardinelli, Anna, Schneider, Werner X., and Steil, Jochen J. 2010. “Where to Look Next? Combining Static and Dynamic Proto-objects in a TVA-based Model of Visual Attention”. &lt;em&gt;Cognitive Computation&lt;/em&gt; 2 (4): 326-343.&lt;/div&gt;</chicago>
+<angewandte-chemie>M.  Wischnewski, A.  Belardinelli, W. X.  Schneider, and J. J.  Steil, “Where to Look Next? Combining Static and Dynamic Proto-objects in a TVA-based Model of Visual Attention”, &lt;em&gt;Cognitive Computation&lt;/em&gt;, &lt;strong&gt;2010&lt;/strong&gt;, &lt;em&gt;2&lt;/em&gt;, 326-343.</angewandte-chemie>
+<apa>Wischnewski, M., Belardinelli, A., Schneider, W. X., &amp;amp; Steil, J. J. (2010). Where to Look Next? Combining Static and Dynamic Proto-objects in a TVA-based Model of Visual Attention. &lt;em&gt;Cognitive Computation&lt;/em&gt;, &lt;em&gt;2&lt;/em&gt;(4), 326-343.</apa>
+<frontiers>Wischnewski, M., Belardinelli, A., Schneider, W. X., and Steil, J. J. (2010). Where to Look Next? Combining Static and Dynamic Proto-objects in a TVA-based Model of Visual Attention. &lt;em&gt;Cognitive Computation&lt;/em&gt; 2, 326-343.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wischnewski, M., Belardinelli, A., Schneider, W. X., &amp;amp; Steil, J. J. (2010). Where to Look Next? Combining Static and Dynamic Proto-objects in a TVA-based Model of Visual Attention. &lt;em&gt;Cognitive Computation&lt;/em&gt;, &lt;em&gt;2&lt;/em&gt;(4), 326-343.&lt;/div&gt;</apa_indent>
+<ieee>M. Wischnewski, et al., “Where to Look Next? Combining Static and Dynamic Proto-objects in a TVA-based Model of Visual Attention”, &lt;em&gt;Cognitive Computation&lt;/em&gt;,  vol. 2, 2010,  pp. 326-343.</ieee>
+<mla>Wischnewski, Marco, Belardinelli, Anna, Schneider, Werner X., and Steil, Jochen J. “Where to Look Next? Combining Static and Dynamic Proto-objects in a TVA-based Model of Visual Attention”. &lt;em&gt;Cognitive Computation&lt;/em&gt; 2.4 (2010): 326-343.</mla>
+<lncs>Wischnewski, M., Belardinelli, A., Schneider, W.X., Steil, J.J.: Where to Look Next? Combining Static and Dynamic Proto-objects in a TVA-based Model of Visual Attention. Cognitive Computation. 2, 326-343 (2010).</lncs>
+<wels>Wischnewski, M.; Belardinelli, A.; Schneider, W. X.; Steil, J. J. (2010): Where to Look Next? Combining Static and Dynamic Proto-objects in a TVA-based Model of Visual Attention &lt;em&gt;Cognitive Computation&lt;/em&gt;,2:(4): 326-343.</wels>
+<default>Wischnewski M, Belardinelli A, Schneider WX, Steil JJ (2010) &lt;br /&gt;Cognitive Computation 2(4): 326-343.</default>
+<harvard1>Wischnewski, M., et al., 2010. Where to Look Next? Combining Static and Dynamic Proto-objects in a TVA-based Model of Visual Attention. &lt;em&gt;Cognitive Computation&lt;/em&gt;, 2(4), p 326-343.</harvard1>
+<ama>Wischnewski M, Belardinelli A, Schneider WX, Steil JJ. Where to Look Next? Combining Static and Dynamic Proto-objects in a TVA-based Model of Visual Attention. &lt;em&gt;Cognitive Computation&lt;/em&gt;. 2010;2(4):326-343.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wischnewski, M., Belardinelli, A., Schneider, W.X. &amp;amp; Steil, J.J. (2010). Where to Look Next? Combining Static and Dynamic Proto-objects in a TVA-based Model of Visual Attention. &lt;em&gt;Cognitive Computation&lt;/em&gt;, &lt;em&gt;2&lt;/em&gt;(4), 326-343. Springer Science + Business Media. doi:10.1007/s12559-010-9080-1.&lt;/div&gt;</dgps>
+<aps>M.  Wischnewski, et al., Where to Look Next? Combining Static and Dynamic Proto-objects in a TVA-based Model of Visual Attention, Cognitive Computation &lt;strong&gt;2&lt;/strong&gt;, 326-343 (2010).</aps>
+<bio1>Wischnewski M, Belardinelli A, Schneider WX, Steil JJ (2010) &lt;br /&gt;Where to Look Next? Combining Static and Dynamic Proto-objects in a TVA-based Model of Visual Attention.&lt;br /&gt;Cognitive Computation 2(4): 326-343.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1928034</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-12-06T16:37:29Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2014-08-25T14:27:37Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1928034</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1928034</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,115 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>An augmented reality human-computer interface for object localization in a cognitive vision system</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">H.</namePart>
+  <namePart type="family">Siegl</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Marc</namePart>
+  <namePart type="family">Hanheide</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">45581</identifier></name>
+<name type="personal">
+  <namePart type="given">Sebastian</namePart>
+  <namePart type="family">Wrede</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">76091</identifier></name>
+<name type="personal">
+  <namePart type="given">A.</namePart>
+  <namePart type="family">Pinz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Research Institute for Cognition and Robotics</namePart>
+  <identifier type="unibi">5408013</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Technische Fakultät</namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The European Cognitive Vision project VAMPIRE uses mobile AR-kits to interact with a visual active memory for teaching and retrieval purposes. This paper describes concept and technical realization of the used mobile AR-kits and discusses interactive learning and retrieval in office environments, and the active memory infrastructure. The focus is on 3D interaction for pointing in a scene coordinate system. This is achieved by 3D augmented pointing, which combines inside-out tracking for head pose recovery and 3D stereo human-computer interaction. Experimental evaluation shows that the accuracy of this 3D cursor is within a few centimeters, which is sufficient to point at an object in an office. Finally, an application of the cursor in VAMPIRE is presented, where in addition to the mobile system, at least one stationary active camera is used to obtain different views of an object. There are many potential applications, for example an improved view-based object recognition. (C) 2006 Elsevier B.V. All rights reserved.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>3D cursor</topic><topic>human-computer interaction</topic><topic>mobile augmented reality</topic><topic>cognitive vision system</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>IMAGE AND VISION COMPUTING</title></titleInfo>
+  <identifier type="issn">0262-8856</identifier>
+  <identifier type="ISI">000250131000008</identifier><identifier type="doi">10.1016/j.imavis.2006.04.027</identifier>
+<part><detail type="volume"><number>25</number></detail><detail type="issue"><number>12</number></detail><extent unit="pages">1895-1903</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Siegl, H., Hanheide, M., Wrede, S., &amp;amp; Pinz, A. (2007). An augmented reality human-computer interface for object localization in a cognitive vision system. &lt;em&gt;IMAGE AND VISION COMPUTING&lt;/em&gt;, &lt;em&gt;25&lt;/em&gt;(12), 1895-1903.&lt;/div&gt;</apa_indent>
+<mla>Siegl, H., Hanheide, Marc, Wrede, Sebastian, and Pinz, A. “An augmented reality human-computer interface for object localization in a cognitive vision system”. &lt;em&gt;IMAGE AND VISION COMPUTING&lt;/em&gt; 25.12 (2007): 1895-1903.</mla>
+<lncs>Siegl, H., Hanheide, M., Wrede, S., Pinz, A.: An augmented reality human-computer interface for object localization in a cognitive vision system. IMAGE AND VISION COMPUTING. 25, 1895-1903 (2007).</lncs>
+<ieee>H. Siegl, et al., “An augmented reality human-computer interface for object localization in a cognitive vision system”, &lt;em&gt;IMAGE AND VISION COMPUTING&lt;/em&gt;,  vol. 25, 2007,  pp. 1895-1903.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Siegl, H., Hanheide, Marc, Wrede, Sebastian, and Pinz, A. 2007. “An augmented reality human-computer interface for object localization in a cognitive vision system”. &lt;em&gt;IMAGE AND VISION COMPUTING&lt;/em&gt; 25 (12): 1895-1903.&lt;/div&gt;</chicago>
+<frontiers>Siegl, H., Hanheide, M., Wrede, S., and Pinz, A. (2007). An augmented reality human-computer interface for object localization in a cognitive vision system. &lt;em&gt;IMAGE AND VISION COMPUTING&lt;/em&gt; 25, 1895-1903.</frontiers>
+<apa>Siegl, H., Hanheide, M., Wrede, S., &amp;amp; Pinz, A. (2007). An augmented reality human-computer interface for object localization in a cognitive vision system. &lt;em&gt;IMAGE AND VISION COMPUTING&lt;/em&gt;, &lt;em&gt;25&lt;/em&gt;(12), 1895-1903.</apa>
+<angewandte-chemie>H.  Siegl, M.  Hanheide, S.  Wrede, and A.  Pinz, “An augmented reality human-computer interface for object localization in a cognitive vision system”, &lt;em&gt;IMAGE AND VISION COMPUTING&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;25&lt;/em&gt;, 1895-1903.</angewandte-chemie>
+<bio1>Siegl H, Hanheide M, Wrede S, Pinz A (2007) &lt;br /&gt;An augmented reality human-computer interface for object localization in a cognitive vision system.&lt;br /&gt;IMAGE AND VISION COMPUTING 25(12): 1895-1903.</bio1>
+<aps>H.  Siegl, et al., An augmented reality human-computer interface for object localization in a cognitive vision system, IMAGE AND VISION COMPUTING &lt;strong&gt;25&lt;/strong&gt;, 1895-1903 (2007).</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Siegl, H., Hanheide, M., Wrede, S. &amp;amp; Pinz, A. (2007). An augmented reality human-computer interface for object localization in a cognitive vision system. &lt;em&gt;IMAGE AND VISION COMPUTING&lt;/em&gt;, &lt;em&gt;25&lt;/em&gt;(12), 1895-1903. ELSEVIER SCIENCE BV. doi:10.1016/j.imavis.2006.04.027.&lt;/div&gt;</dgps>
+<ama>Siegl H, Hanheide M, Wrede S, Pinz A. An augmented reality human-computer interface for object localization in a cognitive vision system. &lt;em&gt;IMAGE AND VISION COMPUTING&lt;/em&gt;. 2007;25(12):1895-1903.</ama>
+<harvard1>Siegl, H., et al., 2007. An augmented reality human-computer interface for object localization in a cognitive vision system. &lt;em&gt;IMAGE AND VISION COMPUTING&lt;/em&gt;, 25(12), p 1895-1903.</harvard1>
+<default>Siegl H, Hanheide M, Wrede S, Pinz A (2007) &lt;br /&gt;IMAGE AND VISION COMPUTING 25(12): 1895-1903.</default>
+<wels>Siegl, H.; Hanheide, M.; Wrede, S.; Pinz, A. (2007): An augmented reality human-computer interface for object localization in a cognitive vision system &lt;em&gt;IMAGE AND VISION COMPUTING&lt;/em&gt;,25:(12): 1895-1903.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1631765</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:05:55Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-06-08T11:57:33Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1631765</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1631765</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

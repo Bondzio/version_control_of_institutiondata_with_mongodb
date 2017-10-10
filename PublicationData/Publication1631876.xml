@@ -1,0 +1,151 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Helicobacter exploits integrin for type IV secretion and kinase activation</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Terry</namePart>
+  <namePart type="family">Kwok</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Dana</namePart>
+  <namePart type="family">Zabler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Sylwia</namePart>
+  <namePart type="family">Urman</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Manfred</namePart>
+  <namePart type="family">Rohde</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Roland</namePart>
+  <namePart type="family">Hartig</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Silja</namePart>
+  <namePart type="family">Wessler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Rolf</namePart>
+  <namePart type="family">Misselwitz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Juergen</namePart>
+  <namePart type="family">Berger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Norbert</namePart>
+  <namePart type="family">Sewald</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20281</identifier></name>
+<name type="personal">
+  <namePart type="given">Wolfgang</namePart>
+  <namePart type="family">Koenig</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Steffen</namePart>
+  <namePart type="family">Backert</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Biochemie und Biotechnik</namePart>
+  <identifier type="unibi">4838684</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Organische Chemie III</namePart>
+  <identifier type="unibi">17977</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  N. Sewald</namePart>
+  <identifier type="unibi">33086655</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Integrins are important mammalian receptors involved in normal cellular functions as well as pathogenesis of chronic inflammation and cancer. We propose that integrins are exploited by the gastric pathogen and type-1 carcinogen Helicobacter pylori for injection of the bacterial oncoprotein cytotoxin-associated gene A (CagA) into gastric epithelial cells. Virulent H. pylori express a type-IV secretion pilus that injects CagA into the host cell; CagA then becomes tyrosine-phosphorylated by Src family kinases. However, the identity of the host cell receptor involved in this process has remained unknown. Here we show that the H. pylori CagL protein is a specialized adhesin that is targeted to the pilus surface, where it binds to and activates integrin alpha(5)beta(1) receptor on gastric epithelial cells through an arginine-glycine-aspartate motif. This interaction triggers CagA delivery into target cells as well as activation of focal adhesion kinase and Src. Our findings provide insights into the role of integrins in H.-pylori-induced pathogenesis. CagL may be exploited as a new molecular tool for our further understanding of integrin signalling.</abstract>
+
+<originInfo><publisher>NATURE PUBLISHING GROUP</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>NATURE</title></titleInfo>
+  <identifier type="issn">0028-0836</identifier>
+  <identifier type="eIssn">1476-4687</identifier>
+  <identifier type="MEDLINE">17943123</identifier>
+  <identifier type="ISI">000250230600037</identifier><identifier type="doi">10.1038/nature06187</identifier>
+<part><detail type="volume"><number>449</number></detail><detail type="issue"><number>7164</number></detail><extent unit="pages">862-866</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Kwok T, Zabler D, Urman S, et al. Helicobacter exploits integrin for type IV secretion and kinase activation. &lt;em&gt;NATURE&lt;/em&gt;. 2007;449(7164):862-866.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kwok, T., Zabler, D., Urman, S., Rohde, M., Hartig, R., Wessler, S., Misselwitz, R., Berger, J., Sewald, N., Koenig, W. &amp;amp; Backert, S. (2007). Helicobacter exploits integrin for type IV secretion and kinase activation. &lt;em&gt;NATURE&lt;/em&gt;, &lt;em&gt;449&lt;/em&gt;(7164), 862-866. NATURE PUBLISHING GROUP. doi:10.1038/nature06187.&lt;/div&gt;</dgps>
+<harvard1>Kwok, T., et al., 2007. Helicobacter exploits integrin for type IV secretion and kinase activation. &lt;em&gt;NATURE&lt;/em&gt;, 449(7164), p 862-866.</harvard1>
+<bio1>Kwok T, Zabler D, Urman S, Rohde M, Hartig R, Wessler S, Misselwitz R, Berger J, Sewald N, Koenig W, Backert S (2007) &lt;br /&gt;Helicobacter exploits integrin for type IV secretion and kinase activation.&lt;br /&gt;NATURE 449(7164): 862-866.</bio1>
+<aps>T.  Kwok, et al., Helicobacter exploits integrin for type IV secretion and kinase activation, NATURE &lt;strong&gt;449&lt;/strong&gt;, 862-866 (2007).</aps>
+<wels>Kwok, T.; Zabler, D.; Urman, S.; Rohde, M.; Hartig, R.; Wessler, S.; Misselwitz, R.; Berger, J.; Sewald, N.; Koenig, W.; Backert, S. (2007): Helicobacter exploits integrin for type IV secretion and kinase activation &lt;em&gt;NATURE&lt;/em&gt;,449:(7164): 862-866.</wels>
+<default>Kwok T, Zabler D, Urman S, Rohde M, Hartig R, Wessler S, Misselwitz R, Berger J, Sewald N, Koenig W, Backert S (2007) &lt;br /&gt;NATURE 449(7164): 862-866.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kwok, T., Zabler, D., Urman, S., Rohde, M., Hartig, R., Wessler, S., Misselwitz, R., et al. (2007). Helicobacter exploits integrin for type IV secretion and kinase activation. &lt;em&gt;NATURE&lt;/em&gt;, &lt;em&gt;449&lt;/em&gt;(7164), 862-866.&lt;/div&gt;</apa_indent>
+<ieee>T. Kwok, et al., “Helicobacter exploits integrin for type IV secretion and kinase activation”, &lt;em&gt;NATURE&lt;/em&gt;,  vol. 449, 2007,  pp. 862-866.</ieee>
+<mla>Kwok, Terry, Zabler, Dana, Urman, Sylwia, Rohde, Manfred, Hartig, Roland, Wessler, Silja, Misselwitz, Rolf, Berger, Juergen, Sewald, Norbert, Koenig, Wolfgang, and Backert, Steffen. “Helicobacter exploits integrin for type IV secretion and kinase activation”. &lt;em&gt;NATURE&lt;/em&gt; 449.7164 (2007): 862-866.</mla>
+<lncs>Kwok, T., Zabler, D., Urman, S., Rohde, M., Hartig, R., Wessler, S., Misselwitz, R., Berger, J., Sewald, N., Koenig, W., Backert, S.: Helicobacter exploits integrin for type IV secretion and kinase activation. NATURE. 449, 862-866 (2007).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kwok, Terry, Zabler, Dana, Urman, Sylwia, Rohde, Manfred, Hartig, Roland, Wessler, Silja, Misselwitz, Rolf, et al. 2007. “Helicobacter exploits integrin for type IV secretion and kinase activation”. &lt;em&gt;NATURE&lt;/em&gt; 449 (7164): 862-866.&lt;/div&gt;</chicago>
+<angewandte-chemie>T.  Kwok, D.  Zabler, S.  Urman, M.  Rohde, R.  Hartig, S.  Wessler, R.  Misselwitz, J.  Berger, N.  Sewald, W.  Koenig, et al., “Helicobacter exploits integrin for type IV secretion and kinase activation”, &lt;em&gt;NATURE&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;449&lt;/em&gt;, 862-866.</angewandte-chemie>
+<apa>Kwok, T., Zabler, D., Urman, S., Rohde, M., Hartig, R., Wessler, S., Misselwitz, R., et al. (2007). Helicobacter exploits integrin for type IV secretion and kinase activation. &lt;em&gt;NATURE&lt;/em&gt;, &lt;em&gt;449&lt;/em&gt;(7164), 862-866.</apa>
+<frontiers>Kwok, T., Zabler, D., Urman, S., Rohde, M., Hartig, R., Wessler, S., Misselwitz, R., Berger, J., Sewald, N., Koenig, W., et al. (2007). Helicobacter exploits integrin for type IV secretion and kinase activation. &lt;em&gt;NATURE&lt;/em&gt; 449, 862-866.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1631876</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:05:59Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-03T09:18:06Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1631876</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1631876</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,133 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Glycosphingolipids in vascular endothelial cells: relationship of heterogeneity in Gb3Cer/CD77 receptor expression with differential Shiga toxin 1 cytotoxicity</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Christian H.</namePart>
+  <namePart type="family">Schweppe</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Martina</namePart>
+  <namePart type="family">Bielaszewska</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Gottfried</namePart>
+  <namePart type="family">Pohlentz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alexander W.</namePart>
+  <namePart type="family">Friedrich</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Heino</namePart>
+  <namePart type="family">Büntemeyer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10725</identifier></name>
+<name type="personal">
+  <namePart type="given">M. Alexander</namePart>
+  <namePart type="family">Schmidt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Kwang S.</namePart>
+  <namePart type="family">Kim</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jasna</namePart>
+  <namePart type="family">Peter-Katalinic</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Helge</namePart>
+  <namePart type="family">Karch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Johannes</namePart>
+  <namePart type="family">Müthing</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">94612</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Technische Fakultät</namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Shiga toxin (Stx) 1 binds to the glycosphingolipid (GSL) globotriaosylceramide (Gb3Cer/CD77) and injures human endothelial cells. In order to gain insight into Stx1-induced cellular impairment, we analysed in detail the molecular heterogeneity of Stx1 receptors in two endothelial cell lines differing in their Stx1-sensitivity. We observed a moderate sensitivity to Stx1 of human brain microvascular endothelial cells (HBMECs, CD50 &gt; 200 ng/ml), but a considerably higher mortality rate in cultures of EA.hy 926 cells, a cell line derived from human umbilical vein endothelial cells (CD50 of 0.2 ng/ml). Immunofluorescence microscopy demonstrated the presence of Gb3Cer in both cell lines, but showed an enhanced content of Gb3Cer in EA.hy 926 cells. Solid phase overlay binding assays of isolated GSLs combined with nanoelectrospray ionization quadrupole time-of-flight mass spectrometry demonstrated a balanced proportion of Gb3Cer and globotetraosylceramide (Gb4Cer) in HBMECs, but an increase of Gb3Cer and absence of Gb4Cer in EA.hy 926 cells. Gb3Cer species with C24:1/C24:0 fatty acids were found to dominate over those with C16:0 fatty acids in EA.hy 926 cells, but were similarly distributed in HBMECs. Reverse transcriptase polymerase chain reaction indicated the concomitant presence of Gb3Cer and Gb4Cer synthases in HBMECs, whereas EA.hy 926 cells expressed Gb3Cer synthase, but completely lacked Gb4Cer synthase. This deficiency, resulting in the accumulation of Gb3Cer in EA.hy 926 cells, represents the most prominent molecular reason that underlies the different Stx1 sensitivities of HBMECs and EA.hy 926 endothelial cells.</abstract>
+
+<originInfo><publisher>SPRINGER</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>glycosyltransferases</topic><topic>glycolipids</topic><topic>HBMECs</topic><topic>EA.hy 926 cells</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>GLYCOCONJUGATE JOURNAL</title></titleInfo>
+  <identifier type="issn">0282-0080</identifier>
+  <identifier type="eIssn">1573-4986</identifier>
+  <identifier type="MEDLINE">18176841</identifier>
+  <identifier type="ISI">000254302800001</identifier><identifier type="doi">10.1007/s10719-007-9091-7</identifier>
+<part><detail type="volume"><number>25</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">291-304</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schweppe, C.H., Bielaszewska, M., Pohlentz, G., Friedrich, A.W., Büntemeyer, H., Schmidt, M.A., Kim, K.S., Peter-Katalinic, J., Karch, H. &amp;amp; Müthing, J. (2008). Glycosphingolipids in vascular endothelial cells: relationship of heterogeneity in Gb3Cer/CD77 receptor expression with differential Shiga toxin 1 cytotoxicity. &lt;em&gt;GLYCOCONJUGATE JOURNAL&lt;/em&gt;, &lt;em&gt;25&lt;/em&gt;(4), 291-304. SPRINGER. doi:10.1007/s10719-007-9091-7.&lt;/div&gt;</dgps>
+<ama>Schweppe CH, Bielaszewska M, Pohlentz G, et al. Glycosphingolipids in vascular endothelial cells: relationship of heterogeneity in Gb3Cer/CD77 receptor expression with differential Shiga toxin 1 cytotoxicity. &lt;em&gt;GLYCOCONJUGATE JOURNAL&lt;/em&gt;. 2008;25(4):291-304.</ama>
+<harvard1>Schweppe, C.H., et al., 2008. Glycosphingolipids in vascular endothelial cells: relationship of heterogeneity in Gb3Cer/CD77 receptor expression with differential Shiga toxin 1 cytotoxicity. &lt;em&gt;GLYCOCONJUGATE JOURNAL&lt;/em&gt;, 25(4), p 291-304.</harvard1>
+<aps>C. H.  Schweppe, et al., Glycosphingolipids in vascular endothelial cells: relationship of heterogeneity in Gb3Cer/CD77 receptor expression with differential Shiga toxin 1 cytotoxicity, GLYCOCONJUGATE JOURNAL &lt;strong&gt;25&lt;/strong&gt;, 291-304 (2008).</aps>
+<bio1>Schweppe CH, Bielaszewska M, Pohlentz G, Friedrich AW, Büntemeyer H, Schmidt MA, Kim KS, Peter-Katalinic J, Karch H, Müthing J (2008) &lt;br /&gt;Glycosphingolipids in vascular endothelial cells: relationship of heterogeneity in Gb3Cer/CD77 receptor expression with differential Shiga toxin 1 cytotoxicity.&lt;br /&gt;GLYCOCONJUGATE JOURNAL 25(4): 291-304.</bio1>
+<wels>Schweppe, C. H.; Bielaszewska, M.; Pohlentz, G.; Friedrich, A. W.; Büntemeyer, H.; Schmidt, M. A.; Kim, K. S.; Peter-Katalinic, J.; Karch, H.; Müthing, J. (2008): Glycosphingolipids in vascular endothelial cells: relationship of heterogeneity in Gb3Cer/CD77 receptor expression with differential Shiga toxin 1 cytotoxicity &lt;em&gt;GLYCOCONJUGATE JOURNAL&lt;/em&gt;,25:(4): 291-304.</wels>
+<default>Schweppe CH, Bielaszewska M, Pohlentz G, Friedrich AW, Büntemeyer H, Schmidt MA, Kim KS, Peter-Katalinic J, Karch H, Müthing J (2008) &lt;br /&gt;GLYCOCONJUGATE JOURNAL 25(4): 291-304.</default>
+<ieee>C.H. Schweppe, et al., “Glycosphingolipids in vascular endothelial cells: relationship of heterogeneity in Gb3Cer/CD77 receptor expression with differential Shiga toxin 1 cytotoxicity”, &lt;em&gt;GLYCOCONJUGATE JOURNAL&lt;/em&gt;,  vol. 25, 2008,  pp. 291-304.</ieee>
+<mla>Schweppe, Christian H., Bielaszewska, Martina, Pohlentz, Gottfried, Friedrich, Alexander W., Büntemeyer, Heino, Schmidt, M. Alexander, Kim, Kwang S., Peter-Katalinic, Jasna, Karch, Helge, and Müthing, Johannes. “Glycosphingolipids in vascular endothelial cells: relationship of heterogeneity in Gb3Cer/CD77 receptor expression with differential Shiga toxin 1 cytotoxicity”. &lt;em&gt;GLYCOCONJUGATE JOURNAL&lt;/em&gt; 25.4 (2008): 291-304.</mla>
+<lncs>Schweppe, C.H., Bielaszewska, M., Pohlentz, G., Friedrich, A.W., Büntemeyer, H., Schmidt, M.A., Kim, K.S., Peter-Katalinic, J., Karch, H., Müthing, J.: Glycosphingolipids in vascular endothelial cells: relationship of heterogeneity in Gb3Cer/CD77 receptor expression with differential Shiga toxin 1 cytotoxicity. GLYCOCONJUGATE JOURNAL. 25, 291-304 (2008).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schweppe, C. H., Bielaszewska, M., Pohlentz, G., Friedrich, A. W., Büntemeyer, H., Schmidt, M. A., Kim, K. S., et al. (2008). Glycosphingolipids in vascular endothelial cells: relationship of heterogeneity in Gb3Cer/CD77 receptor expression with differential Shiga toxin 1 cytotoxicity. &lt;em&gt;GLYCOCONJUGATE JOURNAL&lt;/em&gt;, &lt;em&gt;25&lt;/em&gt;(4), 291-304.&lt;/div&gt;</apa_indent>
+<apa>Schweppe, C. H., Bielaszewska, M., Pohlentz, G., Friedrich, A. W., Büntemeyer, H., Schmidt, M. A., Kim, K. S., et al. (2008). Glycosphingolipids in vascular endothelial cells: relationship of heterogeneity in Gb3Cer/CD77 receptor expression with differential Shiga toxin 1 cytotoxicity. &lt;em&gt;GLYCOCONJUGATE JOURNAL&lt;/em&gt;, &lt;em&gt;25&lt;/em&gt;(4), 291-304.</apa>
+<angewandte-chemie>C. H.  Schweppe, M.  Bielaszewska, G.  Pohlentz, A. W.  Friedrich, H.  Büntemeyer, M. A.  Schmidt, K. S.  Kim, J.  Peter-Katalinic, H.  Karch, and J.  Müthing, “Glycosphingolipids in vascular endothelial cells: relationship of heterogeneity in Gb3Cer/CD77 receptor expression with differential Shiga toxin 1 cytotoxicity”, &lt;em&gt;GLYCOCONJUGATE JOURNAL&lt;/em&gt;, &lt;strong&gt;2008&lt;/strong&gt;, &lt;em&gt;25&lt;/em&gt;, 291-304.</angewandte-chemie>
+<frontiers>Schweppe, C. H., Bielaszewska, M., Pohlentz, G., Friedrich, A. W., Büntemeyer, H., Schmidt, M. A., Kim, K. S., Peter-Katalinic, J., Karch, H., and Müthing, J. (2008). Glycosphingolipids in vascular endothelial cells: relationship of heterogeneity in Gb3Cer/CD77 receptor expression with differential Shiga toxin 1 cytotoxicity. &lt;em&gt;GLYCOCONJUGATE JOURNAL&lt;/em&gt; 25, 291-304.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schweppe, Christian H., Bielaszewska, Martina, Pohlentz, Gottfried, Friedrich, Alexander W., Büntemeyer, Heino, Schmidt, M. Alexander, Kim, Kwang S., Peter-Katalinic, Jasna, Karch, Helge, and Müthing, Johannes. 2008. “Glycosphingolipids in vascular endothelial cells: relationship of heterogeneity in Gb3Cer/CD77 receptor expression with differential Shiga toxin 1 cytotoxicity”. &lt;em&gt;GLYCOCONJUGATE JOURNAL&lt;/em&gt; 25 (4): 291-304.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1592110</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T11:50:19Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-12T09:43:50Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1592110</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1592110</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

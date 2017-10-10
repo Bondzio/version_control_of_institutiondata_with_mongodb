@@ -1,0 +1,105 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Elektronen-Spinpolarisation bei der Photoionisation unpolarisierter Cäsiumatome mit zirkularpolarisiertem Licht: Untersuchung des Fano-Effekts am Cäsium</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ulrich</namePart>
+  <namePart type="family">Heinzmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40276</identifier></name>
+<name type="personal">
+  <namePart type="given">J.</namePart>
+  <namePart type="family">Kessler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J.</namePart>
+  <namePart type="family">Lorenz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Lehrstuhl für Molekül- und Oberflächenphysik</namePart>
+  <identifier type="unibi">29133467</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Photoelectrons ejected from cesium atoms by circularly polarized light of certain wavelengths are highly spinpolarized according to Fano’s theory. Measurements of the spinpolarization of photoelectrons along the wavelength spectrum are reported. The highest degree of spinpolarization obtained experimentally is 100%. Our results reveal a small deviation from the theoretically predicted spinpolarization. Apart from giving information on the influence of spin-orbit interaction on the photoionization process, the Fano-effect turns out to be a simple and efficient method for producing polarized electron beams. Though not designed as a polarized electron source, our present apparatus yields a beam of 0.3x10(-10) Ampere with a polarization of 81 +- 3% when a broad unfiltered spectral band is irradiated.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Heinzmann_002.pdf">https://pub.uni-bielefeld.de/download/1776931/2312260</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1970</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Zeitschrift für Physik</title></titleInfo>
+  <identifier type="issn">0044-3328</identifier><identifier type="urn">urn:nbn:de:0070-bipr-13271</identifier>
+<part><detail type="volume"><number>240</number></detail><extent unit="pages">231-240</extent>
+</part>
+</relatedItem>
+
+<note type="nonBielefeld">yes</note>
+<extension>
+<bibliographicCitation>
+<aps>U.  Heinzmann, J.  Kessler, and J.  Lorenz, Elektronen-Spinpolarisation bei der Photoionisation unpolarisierter Cäsiumatome mit zirkularpolarisiertem Licht: Untersuchung des Fano-Effekts am Cäsium, Zeitschrift für Physik &lt;strong&gt;240&lt;/strong&gt;, 231-240 (1970).</aps>
+<bio1>Heinzmann U, Kessler J, Lorenz J (1970) &lt;br /&gt;Elektronen-Spinpolarisation bei der Photoionisation unpolarisierter Cäsiumatome mit zirkularpolarisiertem Licht: Untersuchung des Fano-Effekts am Cäsium.&lt;br /&gt;Zeitschrift für Physik 240: 231-240.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heinzmann, U., Kessler, J. &amp;amp; Lorenz, J. (1970). Elektronen-Spinpolarisation bei der Photoionisation unpolarisierter Cäsiumatome mit zirkularpolarisiertem Licht: Untersuchung des Fano-Effekts am Cäsium. &lt;em&gt;Zeitschrift für Physik&lt;/em&gt;, &lt;em&gt;240&lt;/em&gt;, 231-240.&lt;/div&gt;</dgps>
+<harvard1>Heinzmann, U., Kessler, J., &amp;amp; Lorenz, J., 1970. Elektronen-Spinpolarisation bei der Photoionisation unpolarisierter Cäsiumatome mit zirkularpolarisiertem Licht: Untersuchung des Fano-Effekts am Cäsium. &lt;em&gt;Zeitschrift für Physik&lt;/em&gt;, 240, p 231-240.</harvard1>
+<ama>Heinzmann U, Kessler J, Lorenz J. Elektronen-Spinpolarisation bei der Photoionisation unpolarisierter Cäsiumatome mit zirkularpolarisiertem Licht: Untersuchung des Fano-Effekts am Cäsium. &lt;em&gt;Zeitschrift für Physik&lt;/em&gt;. 1970;240:231-240.</ama>
+<default>Heinzmann U, Kessler J, Lorenz J (1970) &lt;br /&gt;Zeitschrift für Physik 240: 231-240.</default>
+<wels>Heinzmann, U.; Kessler, J.; Lorenz, J. (1970): Elektronen-Spinpolarisation bei der Photoionisation unpolarisierter Cäsiumatome mit zirkularpolarisiertem Licht: Untersuchung des Fano-Effekts am Cäsium &lt;em&gt;Zeitschrift für Physik&lt;/em&gt;,240: 231-240.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heinzmann, U., Kessler, J., &amp;amp; Lorenz, J. (1970). Elektronen-Spinpolarisation bei der Photoionisation unpolarisierter Cäsiumatome mit zirkularpolarisiertem Licht: Untersuchung des Fano-Effekts am Cäsium. &lt;em&gt;Zeitschrift für Physik&lt;/em&gt;, &lt;em&gt;240&lt;/em&gt;, 231-240.&lt;/div&gt;</apa_indent>
+<lncs>Heinzmann, U., Kessler, J., Lorenz, J.: Elektronen-Spinpolarisation bei der Photoionisation unpolarisierter Cäsiumatome mit zirkularpolarisiertem Licht: Untersuchung des Fano-Effekts am Cäsium. Zeitschrift für Physik. 240, 231-240 (1970).</lncs>
+<mla>Heinzmann, Ulrich, Kessler, J., and Lorenz, J. “Elektronen-Spinpolarisation bei der Photoionisation unpolarisierter Cäsiumatome mit zirkularpolarisiertem Licht: Untersuchung des Fano-Effekts am Cäsium”. &lt;em&gt;Zeitschrift für Physik&lt;/em&gt; 240 (1970): 231-240.</mla>
+<ieee>U. Heinzmann, J. Kessler, and J. Lorenz, “Elektronen-Spinpolarisation bei der Photoionisation unpolarisierter Cäsiumatome mit zirkularpolarisiertem Licht: Untersuchung des Fano-Effekts am Cäsium”, &lt;em&gt;Zeitschrift für Physik&lt;/em&gt;,  vol. 240, 1970,  pp. 231-240.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heinzmann, Ulrich, Kessler, J., and Lorenz, J. 1970. “Elektronen-Spinpolarisation bei der Photoionisation unpolarisierter Cäsiumatome mit zirkularpolarisiertem Licht: Untersuchung des Fano-Effekts am Cäsium”. &lt;em&gt;Zeitschrift für Physik&lt;/em&gt; 240: 231-240.&lt;/div&gt;</chicago>
+<frontiers>Heinzmann, U., Kessler, J., and Lorenz, J. (1970). Elektronen-Spinpolarisation bei der Photoionisation unpolarisierter Cäsiumatome mit zirkularpolarisiertem Licht: Untersuchung des Fano-Effekts am Cäsium. &lt;em&gt;Zeitschrift für Physik&lt;/em&gt; 240, 231-240.</frontiers>
+<angewandte-chemie>U.  Heinzmann, J.  Kessler, and J.  Lorenz, “Elektronen-Spinpolarisation bei der Photoionisation unpolarisierter Cäsiumatome mit zirkularpolarisiertem Licht: Untersuchung des Fano-Effekts am Cäsium”, &lt;em&gt;Zeitschrift für Physik&lt;/em&gt;, &lt;strong&gt;1970&lt;/strong&gt;, &lt;em&gt;240&lt;/em&gt;, 231-240.</angewandte-chemie>
+<apa>Heinzmann, U., Kessler, J., &amp;amp; Lorenz, J. (1970). Elektronen-Spinpolarisation bei der Photoionisation unpolarisierter Cäsiumatome mit zirkularpolarisiertem Licht: Untersuchung des Fano-Effekts am Cäsium. &lt;em&gt;Zeitschrift für Physik&lt;/em&gt;, &lt;em&gt;240&lt;/em&gt;, 231-240.</apa>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776931</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776931</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776931</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

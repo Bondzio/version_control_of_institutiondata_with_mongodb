@@ -1,0 +1,111 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Force dependence of transition rates in atomic friction</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Mykhaylo</namePart>
+  <namePart type="family">Evstigneev</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">118403</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-7056-2573</description></name>
+<name type="personal">
+  <namePart type="given">Andre</namePart>
+  <namePart type="family">Schirmeisen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Lars</namePart>
+  <namePart type="family">Jansen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Harald</namePart>
+  <namePart type="family">Fuchs</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Peter</namePart>
+  <namePart type="family">Reimann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">70631</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">29105470</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The lateral forces during stick-slip motion of an atomic force microscope cantilever on highly oriented pyrolytic graphite are measured and analyzed. We identify the regimes where thermally activated interstitial hopping of the cantilever tip proceeds according to a single-step reaction scheme and extract the corresponding force-dependent transition rates directly from the experimental data. We find that such a single-step reaction scenario is valid only at relatively high velocities, while at slower pulling speeds, a more complicated hopping mechanism must be at work. We suggest formation of multiple bonds of the tip-sample contact as a possible candidate for this mechanism.</abstract>
+
+<originInfo><publisher>AMERICAN PHYSICAL SOC</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>PHYSICAL REVIEW LETTERS</title></titleInfo>
+  <identifier type="issn">0031-9007</identifier>
+  <identifier type="eIssn">1079-7114</identifier>
+  <identifier type="MEDLINE">17280262</identifier>
+  <identifier type="ISI">000242888700007</identifier><identifier type="doi">10.1103/PhysRevLett.97.240601</identifier>
+<part><detail type="volume"><number>97</number></detail><detail type="issue"><number>24</number></detail>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Evstigneev M, Schirmeisen A, Jansen L, Fuchs H, Reimann P (2006) &lt;br /&gt;PHYSICAL REVIEW LETTERS 97(24): 240601.</default>
+<wels>Evstigneev, M.; Schirmeisen, A.; Jansen, L.; Fuchs, H.; Reimann, P. (2006): Force dependence of transition rates in atomic friction &lt;em&gt;PHYSICAL REVIEW LETTERS&lt;/em&gt;,97:(24):240601</wels>
+<aps> M.  Evstigneev, et al., Force dependence of transition rates in atomic friction, PHYSICAL REVIEW LETTERS &lt;strong&gt;97&lt;/strong&gt;, (2006).</aps>
+<bio1>Evstigneev M, Schirmeisen A, Jansen L, Fuchs H, Reimann P (2006) &lt;br /&gt;Force dependence of transition rates in atomic friction.&lt;br /&gt;PHYSICAL REVIEW LETTERS 97(24): 240601.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Evstigneev, M., Schirmeisen, A., Jansen, L., Fuchs, H. &amp;amp; Reimann, P. (2006). Force dependence of transition rates in atomic friction. &lt;em&gt;PHYSICAL REVIEW LETTERS&lt;/em&gt;, &lt;em&gt;97&lt;/em&gt;(24): 240601. AMERICAN PHYSICAL SOC. doi:10.1103/PhysRevLett.97.240601.&lt;/div&gt;</dgps>
+<harvard1>Evstigneev, M., et al., 2006. Force dependence of transition rates in atomic friction. &lt;em&gt;PHYSICAL REVIEW LETTERS&lt;/em&gt;, 97(24): 240601.</harvard1>
+<ama>Evstigneev M, Schirmeisen A, Jansen L, Fuchs H, Reimann P. Force dependence of transition rates in atomic friction. &lt;em&gt;PHYSICAL REVIEW LETTERS&lt;/em&gt;. 2006;97(24): 240601.</ama>
+<frontiers>Evstigneev, M., Schirmeisen, A., Jansen, L., Fuchs, H., and Reimann, P. (2006). Force dependence of transition rates in atomic friction. &lt;em&gt;PHYSICAL REVIEW LETTERS&lt;/em&gt; 97:240601.</frontiers>
+<apa>Evstigneev, M., Schirmeisen, A., Jansen, L., Fuchs, H., &amp;amp; Reimann, P. (2006). Force dependence of transition rates in atomic friction. &lt;em&gt;PHYSICAL REVIEW LETTERS&lt;/em&gt;, &lt;em&gt;97&lt;/em&gt;(24): 240601.</apa>
+<angewandte-chemie>M.  Evstigneev, A.  Schirmeisen, L.  Jansen, H.  Fuchs, and P.  Reimann, “Force dependence of transition rates in atomic friction”, &lt;em&gt;PHYSICAL REVIEW LETTERS&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;97&lt;/em&gt;, : 240601.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Evstigneev, Mykhaylo, Schirmeisen, Andre, Jansen, Lars, Fuchs, Harald, and Reimann, Peter. 2006. “Force dependence of transition rates in atomic friction”. &lt;em&gt;PHYSICAL REVIEW LETTERS&lt;/em&gt; 97 (24): 240601.&lt;/div&gt;</chicago>
+<mla>Evstigneev, Mykhaylo, Schirmeisen, Andre, Jansen, Lars, Fuchs, Harald, and Reimann, Peter. “Force dependence of transition rates in atomic friction”. &lt;em&gt;PHYSICAL REVIEW LETTERS&lt;/em&gt; 97.24 (2006): 240601.</mla>
+<lncs> Evstigneev, M., Schirmeisen, A., Jansen, L., Fuchs, H., Reimann, P.: Force dependence of transition rates in atomic friction. PHYSICAL REVIEW LETTERS. 97, : 240601 (2006).</lncs>
+<ieee> M. Evstigneev, et al., “Force dependence of transition rates in atomic friction”, &lt;em&gt;PHYSICAL REVIEW LETTERS&lt;/em&gt;,  vol. 97, 2006, : 240601.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Evstigneev, M., Schirmeisen, A., Jansen, L., Fuchs, H., &amp;amp; Reimann, P. (2006). Force dependence of transition rates in atomic friction. &lt;em&gt;PHYSICAL REVIEW LETTERS&lt;/em&gt;, &lt;em&gt;97&lt;/em&gt;(24): 240601.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1596424</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:17:07Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-10T12:22:03Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1596424</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1596424</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

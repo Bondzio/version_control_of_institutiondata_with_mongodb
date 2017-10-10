@@ -1,0 +1,101 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>NEUTROPHIL PROCOLLAGENASE CAN BE ACTIVATED BY STROMELYSIN-2</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">V</namePart>
+  <namePart type="family">KNAUPER</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">G</namePart>
+  <namePart type="family">MURPHY</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Harald</namePart>
+  <namePart type="family">Tschesche</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">19406</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Biochemie I</namePart>
+  <identifier type="unibi">17967</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>NEW YORK ACAD SCIENCES</publisher><dateIssued encoding="w3cdtf">1994</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>INHIBITION OF MATRIX METALLOPROTEINASES: THERAPEUTIC POTENTIAL</title></titleInfo>
+  <identifier type="issn">0077-8923</identifier>
+  <identifier type="MEDLINE">7978810</identifier>
+  <identifier type="ISI">A1994BD10L00037</identifier><identifier type="doi">10.1111/j.1749-6632.1994.tb24755.x</identifier>
+<part><detail type="volume"><number>732</number></detail><extent unit="pages">367-368</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;KNAUPER, V., MURPHY, G. &amp;amp; Tschesche, H. (1994). NEUTROPHIL PROCOLLAGENASE CAN BE ACTIVATED BY STROMELYSIN-2. &lt;em&gt;INHIBITION OF MATRIX METALLOPROTEINASES: THERAPEUTIC POTENTIAL&lt;/em&gt; (S. 367-368). NEW YORK ACAD SCIENCES. doi:10.1111/j.1749-6632.1994.tb24755.x.&lt;/div&gt;</dgps>
+<harvard1>KNAUPER, V., MURPHY, G., &amp;amp; Tschesche, H., 1994. NEUTROPHIL PROCOLLAGENASE CAN BE ACTIVATED BY STROMELYSIN-2. In &lt;em&gt;INHIBITION OF MATRIX METALLOPROTEINASES: THERAPEUTIC POTENTIAL&lt;/em&gt;. no.732  NEW YORK ACAD SCIENCES, pp. 367-368.</harvard1>
+<ama>KNAUPER V, MURPHY G, Tschesche H. NEUTROPHIL PROCOLLAGENASE CAN BE ACTIVATED BY STROMELYSIN-2. In:  &lt;em&gt;INHIBITION OF MATRIX METALLOPROTEINASES: THERAPEUTIC POTENTIAL&lt;/em&gt;. Vol 732. NEW YORK ACAD SCIENCES;  1994: 367-368.</ama>
+<aps>V.  KNAUPER, G.  MURPHY, and H.  Tschesche, NEUTROPHIL PROCOLLAGENASE CAN BE ACTIVATED BY STROMELYSIN-2, in &lt;em&gt;INHIBITION OF MATRIX METALLOPROTEINASES: THERAPEUTIC POTENTIAL&lt;/em&gt;, &lt;strong&gt;732&lt;/strong&gt; (NEW YORK ACAD SCIENCES, 1994), p. 367-368.</aps>
+<bio1>KNAUPER V, MURPHY G, Tschesche H (1994) &lt;br /&gt;NEUTROPHIL PROCOLLAGENASE CAN BE ACTIVATED BY STROMELYSIN-2. &lt;br /&gt;In:  INHIBITION OF MATRIX METALLOPROTEINASES: THERAPEUTIC POTENTIAL. 732. NEW YORK ACAD SCIENCES:  367-368.</bio1>
+<wels>KNAUPER, V.; MURPHY, G.; Tschesche, H. (1994): NEUTROPHIL PROCOLLAGENASE CAN BE ACTIVATED BY STROMELYSIN-2. In: INHIBITION OF MATRIX METALLOPROTEINASES: THERAPEUTIC POTENTIAL. NEW YORK ACAD SCIENCES. (732).  S. 367-368.</wels>
+<default>KNAUPER V, MURPHY G, Tschesche H (1994)  &lt;br /&gt;In:  INHIBITION OF MATRIX METALLOPROTEINASES: THERAPEUTIC POTENTIAL. 732. NEW YORK ACAD SCIENCES:  367-368.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;KNAUPER, V., MURPHY, G., &amp;amp; Tschesche, H. (1994). NEUTROPHIL PROCOLLAGENASE CAN BE ACTIVATED BY STROMELYSIN-2. &lt;em&gt;INHIBITION OF MATRIX METALLOPROTEINASES: THERAPEUTIC POTENTIAL&lt;/em&gt;, &lt;em&gt;732&lt;/em&gt;, 367-368.&lt;/div&gt;</apa_indent>
+<ieee>V. KNAUPER, G. MURPHY, and H. Tschesche, “NEUTROPHIL PROCOLLAGENASE CAN BE ACTIVATED BY STROMELYSIN-2”, &lt;em&gt;INHIBITION OF MATRIX METALLOPROTEINASES: THERAPEUTIC POTENTIAL&lt;/em&gt;, vol. 732, NEW YORK ACAD SCIENCES, 1994,  pp.367-368.</ieee>
+<lncs>KNAUPER, V., MURPHY, G., Tschesche, H.: NEUTROPHIL PROCOLLAGENASE CAN BE ACTIVATED BY STROMELYSIN-2. INHIBITION OF MATRIX METALLOPROTEINASES: THERAPEUTIC POTENTIAL. 732, p. 367-368. NEW YORK ACAD SCIENCES (1994).</lncs>
+<mla>KNAUPER, V, MURPHY, G, and Tschesche, Harald. “NEUTROPHIL PROCOLLAGENASE CAN BE ACTIVATED BY STROMELYSIN-2”. &lt;em&gt;INHIBITION OF MATRIX METALLOPROTEINASES: THERAPEUTIC POTENTIAL&lt;/em&gt;. NEW YORK ACAD SCIENCES, 1994.Vol. 732. 367-368.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;KNAUPER, V, MURPHY, G, and Tschesche, Harald. 1994. “NEUTROPHIL PROCOLLAGENASE CAN BE ACTIVATED BY STROMELYSIN-2”. In &lt;em&gt;INHIBITION OF MATRIX METALLOPROTEINASES: THERAPEUTIC POTENTIAL&lt;/em&gt;, 732:367-368. NEW YORK ACAD SCIENCES.&lt;/div&gt;</chicago>
+<angewandte-chemie>V.  KNAUPER, G.  MURPHY, and H.  Tschesche, in &lt;em&gt;INHIBITION OF MATRIX METALLOPROTEINASES: THERAPEUTIC POTENTIAL&lt;/em&gt;, New York Acad Sciences, &lt;strong&gt;1994&lt;/strong&gt;, p. 367-368.</angewandte-chemie>
+<apa>KNAUPER, V., MURPHY, G., &amp;amp; Tschesche, H. (1994). NEUTROPHIL PROCOLLAGENASE CAN BE ACTIVATED BY STROMELYSIN-2. &lt;em&gt;INHIBITION OF MATRIX METALLOPROTEINASES: THERAPEUTIC POTENTIAL&lt;/em&gt;, &lt;em&gt;732&lt;/em&gt;, 367-368.</apa>
+<frontiers>KNAUPER, V., MURPHY, G., and Tschesche, H. (1994). “NEUTROPHIL PROCOLLAGENASE CAN BE ACTIVATED BY STROMELYSIN-2” in &lt;em&gt;INHIBITION OF MATRIX METALLOPROTEINASES: THERAPEUTIC POTENTIAL&lt;/em&gt;, vol. 732, (NEW YORK ACAD SCIENCES), 367-368.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1640732</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:15:58Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-12-08T12:23:57Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1640732</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1640732</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

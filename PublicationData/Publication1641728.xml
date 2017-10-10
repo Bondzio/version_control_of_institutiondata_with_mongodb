@@ -1,0 +1,111 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>SEARCH FOR SCALING DIMENSIONS FOR RANDOM SURFACES WITH C=1</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">J</namePart>
+  <namePart type="family">AMBJORN</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">P</namePart>
+  <namePart type="family">BIALAS</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Z</namePart>
+  <namePart type="family">BURDA</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J</namePart>
+  <namePart type="family">JURKIEWICZ</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Bengt</namePart>
+  <namePart type="family">Petersson</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40337</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We study numerically the fractal structure of the intrinsic geometry of random surfaces coupled to matter fields with c = 1. Using baby universe surgery it was possible to simulate randomly triangulated surfaces made of 260 000 triangles. We observe the first indication that the branching and Hausdorff dimensions saturate. We estimate d(0) approximate to 2.5 and get a lower bound d(H) &gt; 3.0.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">1995</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>PHYSICS LETTERS B</title></titleInfo>
+  <identifier type="issn">0370-2693</identifier>
+  <identifier type="arXiv">hep-th/9408124</identifier>
+  <identifier type="INSPIRE">375897</identifier>
+  <identifier type="ISI">A1995QC49900010</identifier><identifier type="doi">10.1016/0370-2693(94)01381-L</identifier>
+<part><detail type="volume"><number>342</number></detail><detail type="issue"><number>1-4</number></detail><extent unit="pages">58-65</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>AMBJORN, J.; BIALAS, P.; BURDA, Z.; JURKIEWICZ, J.; Petersson, B. (1995): SEARCH FOR SCALING DIMENSIONS FOR RANDOM SURFACES WITH C=1 &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt;,342:(1-4): 58-65.</wels>
+<default>AMBJORN J, BIALAS P, BURDA Z, JURKIEWICZ J, Petersson B (1995) &lt;br /&gt;PHYSICS LETTERS B 342(1-4): 58-65.</default>
+<ama>AMBJORN J, BIALAS P, BURDA Z, JURKIEWICZ J, Petersson B. SEARCH FOR SCALING DIMENSIONS FOR RANDOM SURFACES WITH C=1. &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt;. 1995;342(1-4):58-65.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;AMBJORN, J., BIALAS, P., BURDA, Z., JURKIEWICZ, J. &amp;amp; Petersson, B. (1995). SEARCH FOR SCALING DIMENSIONS FOR RANDOM SURFACES WITH C=1. &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt;, &lt;em&gt;342&lt;/em&gt;(1-4), 58-65. ELSEVIER SCIENCE BV. doi:10.1016/0370-2693(94)01381-L.&lt;/div&gt;</dgps>
+<harvard1>AMBJORN, J., et al., 1995. SEARCH FOR SCALING DIMENSIONS FOR RANDOM SURFACES WITH C=1. &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt;, 342(1-4), p 58-65.</harvard1>
+<bio1>AMBJORN J, BIALAS P, BURDA Z, JURKIEWICZ J, Petersson B (1995) &lt;br /&gt;SEARCH FOR SCALING DIMENSIONS FOR RANDOM SURFACES WITH C=1.&lt;br /&gt;PHYSICS LETTERS B 342(1-4): 58-65.</bio1>
+<aps>J.  AMBJORN, et al., SEARCH FOR SCALING DIMENSIONS FOR RANDOM SURFACES WITH C=1, PHYSICS LETTERS B &lt;strong&gt;342&lt;/strong&gt;, 58-65 (1995).</aps>
+<apa>AMBJORN, J., BIALAS, P., BURDA, Z., JURKIEWICZ, J., &amp;amp; Petersson, B. (1995). SEARCH FOR SCALING DIMENSIONS FOR RANDOM SURFACES WITH C=1. &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt;, &lt;em&gt;342&lt;/em&gt;(1-4), 58-65.</apa>
+<angewandte-chemie>J.  AMBJORN, P.  BIALAS, Z.  BURDA, J.  JURKIEWICZ, and B.  Petersson, “SEARCH FOR SCALING DIMENSIONS FOR RANDOM SURFACES WITH C=1”, &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt;, &lt;strong&gt;1995&lt;/strong&gt;, &lt;em&gt;342&lt;/em&gt;, 58-65.</angewandte-chemie>
+<frontiers>AMBJORN, J., BIALAS, P., BURDA, Z., JURKIEWICZ, J., and Petersson, B. (1995). SEARCH FOR SCALING DIMENSIONS FOR RANDOM SURFACES WITH C=1. &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt; 342, 58-65.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;AMBJORN, J, BIALAS, P, BURDA, Z, JURKIEWICZ, J, and Petersson, Bengt. 1995. “SEARCH FOR SCALING DIMENSIONS FOR RANDOM SURFACES WITH C=1”. &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt; 342 (1-4): 58-65.&lt;/div&gt;</chicago>
+<ieee>J. AMBJORN, et al., “SEARCH FOR SCALING DIMENSIONS FOR RANDOM SURFACES WITH C=1”, &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt;,  vol. 342, 1995,  pp. 58-65.</ieee>
+<lncs>AMBJORN, J., BIALAS, P., BURDA, Z., JURKIEWICZ, J., Petersson, B.: SEARCH FOR SCALING DIMENSIONS FOR RANDOM SURFACES WITH C=1. PHYSICS LETTERS B. 342, 58-65 (1995).</lncs>
+<mla>AMBJORN, J, BIALAS, P, BURDA, Z, JURKIEWICZ, J, and Petersson, Bengt. “SEARCH FOR SCALING DIMENSIONS FOR RANDOM SURFACES WITH C=1”. &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt; 342.1-4 (1995): 58-65.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;AMBJORN, J., BIALAS, P., BURDA, Z., JURKIEWICZ, J., &amp;amp; Petersson, B. (1995). SEARCH FOR SCALING DIMENSIONS FOR RANDOM SURFACES WITH C=1. &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt;, &lt;em&gt;342&lt;/em&gt;(1-4), 58-65.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1641728</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:27:24Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-15T14:01:07Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1641728</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1641728</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

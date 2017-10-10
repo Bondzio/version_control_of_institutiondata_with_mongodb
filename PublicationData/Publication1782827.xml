@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Magie: V. Praktisch-theologisch</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Heinz</namePart>
+  <namePart type="family">Streib</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40417</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Hans Dieter</namePart><namePart type="family">Betz</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Geschichtswissenschaft, Philosophie und Theologie</namePart>
+  <identifier type="unibi">10022</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Abteilung Theologie</namePart>
+  <identifier type="unibi">10034</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT3351.pdf">https://pub.uni-bielefeld.de/download/1782827/2314016</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Mohr</publisher><dateIssued encoding="w3cdtf">2002</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Religion in Geschichte und Gegenwart: Handwörterbuch für Theologie und Religionswissenschaft</title></titleInfo>
+  <identifier type="isbn">3-16-146945-3</identifier><identifier type="urn">urn:nbn:de:0070-bipr-33512</identifier>
+<part><detail type="volume"><number>5: L - M</number></detail><extent unit="pages">674-675</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<harvard1>Streib, H., 2002. Magie: V. Praktisch-theologisch. In H. D.  Betz, ed. &lt;em&gt;Religion in Geschichte und Gegenwart: Handwörterbuch für Theologie und Religionswissenschaft&lt;/em&gt;. no.5: L - M 4., völlig neu bearb. Aufl.  Tübingen: Mohr, pp. 674-675.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Streib, H. (2002). Magie: V. Praktisch-theologisch. &lt;em&gt;Religion in Geschichte und Gegenwart: Handwörterbuch für Theologie und Religionswissenschaft&lt;/em&gt; (4., völlig neu bearb. Aufl., S. 674-675). Tübingen: Mohr.&lt;/div&gt;</dgps>
+<ama>Streib H. Magie: V. Praktisch-theologisch. In: Betz HD, ed. &lt;em&gt;Religion in Geschichte und Gegenwart: Handwörterbuch für Theologie und Religionswissenschaft&lt;/em&gt;. Vol 5: L - M. 4., völlig neu bearb. Aufl. Tübingen: Mohr;  2002: 674-675.</ama>
+<aps>H.  Streib, Magie: V. Praktisch-theologisch, in &lt;em&gt;Religion in Geschichte und Gegenwart: Handwörterbuch für Theologie und Religionswissenschaft&lt;/em&gt;, edited by H. D.  Betz, &lt;strong&gt;5: L - M&lt;/strong&gt;, 4., völlig neu bearb. Aufl. (Mohr, Tübingen, 2002), p. 674-675.</aps>
+<bio1>Streib H (2002) &lt;br /&gt;Magie: V. Praktisch-theologisch. &lt;br /&gt;In:  Religion in Geschichte und Gegenwart: Handwörterbuch für Theologie und Religionswissenschaft. Betz HD (Ed);5: L - M. 4., völlig neu bearb. Aufl. Tübingen: Mohr:  674-675.</bio1>
+<wels>Streib, H. (2002): Magie: V. Praktisch-theologisch. In: Hans Dieter Betz (Hrsg.):  Religion in Geschichte und Gegenwart: Handwörterbuch für Theologie und Religionswissenschaft. 4., völlig neu bearb. Aufl. Tübingen: Mohr. (5: L - M).  S. 674-675.</wels>
+<default>Streib H (2002)  &lt;br /&gt;In:  Religion in Geschichte und Gegenwart: Handwörterbuch für Theologie und Religionswissenschaft. Betz HD (Ed);5: L - M 4., völlig neu bearb. Aufl. Tübingen: Mohr:  674-675.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Streib, H. (2002). Magie: V. Praktisch-theologisch. In H. D.  Betz (Ed.), &lt;em&gt;Religion in Geschichte und Gegenwart: Handwörterbuch für Theologie und Religionswissenschaft&lt;/em&gt; (4., völlig neu bearb. Aufl., Vol. 5: L - M, pp. 674-675). Tübingen: Mohr.&lt;/div&gt;</apa_indent>
+<ieee>H. Streib, “Magie: V. Praktisch-theologisch”, &lt;em&gt;Religion in Geschichte und Gegenwart: Handwörterbuch für Theologie und Religionswissenschaft&lt;/em&gt;, H.D. Betz, ed., vol. 5: L - M, 4., völlig neu bearb. Aufl.,  Tübingen: Mohr, 2002,  pp.674-675.</ieee>
+<mla>Streib, Heinz. “Magie: V. Praktisch-theologisch”. &lt;em&gt;Religion in Geschichte und Gegenwart: Handwörterbuch für Theologie und Religionswissenschaft&lt;/em&gt;. Ed. Hans Dieter Betz. 4., völlig neu bearb. Aufl. Tübingen: Mohr, 2002.Vol. 5: L - M. 674-675.</mla>
+<lncs>Streib, H.: Magie: V. Praktisch-theologisch. In: Betz, H.D. (ed.) Religion in Geschichte und Gegenwart: Handwörterbuch für Theologie und Religionswissenschaft. 5: L - M, 4., völlig neu bearb. Aufl. p. 674-675. Mohr, Tübingen (2002).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Streib, Heinz. 2002. “Magie: V. Praktisch-theologisch”. In &lt;em&gt;Religion in Geschichte und Gegenwart: Handwörterbuch für Theologie und Religionswissenschaft&lt;/em&gt;, ed. Hans Dieter Betz, 4., völlig neu bearb. Aufl., 5: L - M:674-675. Tübingen: Mohr.&lt;/div&gt;</chicago>
+<angewandte-chemie>H.  Streib, in &lt;em&gt;Religion in Geschichte und Gegenwart: Handwörterbuch für Theologie und Religionswissenschaft&lt;/em&gt; (Ed.: H.D. Betz), Mohr, Tübingen, &lt;strong&gt;2002&lt;/strong&gt;, p. 674-675.</angewandte-chemie>
+<apa>Streib, H. (2002). Magie: V. Praktisch-theologisch. In H. D.  Betz (Ed.), &lt;em&gt;Religion in Geschichte und Gegenwart: Handwörterbuch für Theologie und Religionswissenschaft&lt;/em&gt; (4., völlig neu bearb. Aufl., Vol. 5: L - M, pp. 674-675). Tübingen: Mohr.</apa>
+<frontiers>Streib, H. (2002). “Magie: V. Praktisch-theologisch” in &lt;em&gt;Religion in Geschichte und Gegenwart: Handwörterbuch für Theologie und Religionswissenschaft&lt;/em&gt;, ed. H. D.  Betz, vol. 5: L - M, 4., völlig neu bearb. Aufl. (Tübingen: Mohr), 674-675.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1782827</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1782827</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1782827</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

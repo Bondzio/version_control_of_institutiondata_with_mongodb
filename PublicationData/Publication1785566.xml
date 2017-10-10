@@ -1,0 +1,114 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Das Wannenbad im Röhrenwerk</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Thomas</namePart>
+  <namePart type="family">Welskopp</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">123889</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Christian</namePart><namePart type="family">Kleinschmidt</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">3791091</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">6747229</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">3652153</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Thomas_Welskopp_2008_Das_Wannenbad_im_RAhrenwerk.pdf">https://pub.uni-bielefeld.de/download/1785566/2314979</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Klartext-Verlag</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Kuriosa der Wirtschafts-, Unternehmens- und Technikgeschichte: Miniaturen einer &quot;fröhlichen Wissenschaft&quot;</title></titleInfo>
+  <identifier type="isbn">978-3-89861-969-1</identifier><identifier type="urn">urn:nbn:de:0070-pub-17855660</identifier>
+<part><extent unit="pages">137-140</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa>Welskopp, T. (2008). Das Wannenbad im Röhrenwerk. In C.  Kleinschmidt (Ed.), &lt;em&gt;Kuriosa der Wirtschafts-, Unternehmens- und Technikgeschichte: Miniaturen einer &quot;fröhlichen Wissenschaft&quot;&lt;/em&gt; (pp. 137-140). Essen: Klartext-Verlag.</apa>
+<angewandte-chemie>T.  Welskopp, in &lt;em&gt;Kuriosa der Wirtschafts-, Unternehmens- und Technikgeschichte: Miniaturen einer &quot;fröhlichen Wissenschaft&quot;&lt;/em&gt; (Ed.: C. Kleinschmidt), Klartext-Verlag, Essen, &lt;strong&gt;2008&lt;/strong&gt;, p. 137-140.</angewandte-chemie>
+<frontiers>Welskopp, T. (2008). “Das Wannenbad im Röhrenwerk” in &lt;em&gt;Kuriosa der Wirtschafts-, Unternehmens- und Technikgeschichte: Miniaturen einer &quot;fröhlichen Wissenschaft&quot;&lt;/em&gt;, ed. C.  Kleinschmidt (Essen: Klartext-Verlag), 137-140.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Welskopp, Thomas. 2008. “Das Wannenbad im Röhrenwerk”. In &lt;em&gt;Kuriosa der Wirtschafts-, Unternehmens- und Technikgeschichte: Miniaturen einer &quot;fröhlichen Wissenschaft&quot;&lt;/em&gt;, ed. Christian Kleinschmidt, 137-140. Essen: Klartext-Verlag.&lt;/div&gt;</chicago>
+<ieee>T. Welskopp, “Das Wannenbad im Röhrenwerk”, &lt;em&gt;Kuriosa der Wirtschafts-, Unternehmens- und Technikgeschichte: Miniaturen einer &quot;fröhlichen Wissenschaft&quot;&lt;/em&gt;, C. Kleinschmidt, ed.,  Essen: Klartext-Verlag, 2008,  pp.137-140.</ieee>
+<lncs>Welskopp, T.: Das Wannenbad im Röhrenwerk. In: Kleinschmidt, C. (ed.) Kuriosa der Wirtschafts-, Unternehmens- und Technikgeschichte: Miniaturen einer &quot;fröhlichen Wissenschaft&quot;. p. 137-140. Klartext-Verlag, Essen (2008).</lncs>
+<mla>Welskopp, Thomas. “Das Wannenbad im Röhrenwerk”. &lt;em&gt;Kuriosa der Wirtschafts-, Unternehmens- und Technikgeschichte: Miniaturen einer &quot;fröhlichen Wissenschaft&quot;&lt;/em&gt;. Ed. Christian Kleinschmidt. Essen: Klartext-Verlag, 2008. 137-140.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Welskopp, T. (2008). Das Wannenbad im Röhrenwerk. In C.  Kleinschmidt (Ed.), &lt;em&gt;Kuriosa der Wirtschafts-, Unternehmens- und Technikgeschichte: Miniaturen einer &quot;fröhlichen Wissenschaft&quot;&lt;/em&gt; (pp. 137-140). Essen: Klartext-Verlag.&lt;/div&gt;</apa_indent>
+<wels>Welskopp, T. (2008): Das Wannenbad im Röhrenwerk. In: Christian Kleinschmidt (Hrsg.):  Kuriosa der Wirtschafts-, Unternehmens- und Technikgeschichte: Miniaturen einer &quot;fröhlichen Wissenschaft&quot;. Essen: Klartext-Verlag.  S. 137-140.</wels>
+<default>Welskopp T (2008)  &lt;br /&gt;In:  Kuriosa der Wirtschafts-, Unternehmens- und Technikgeschichte: Miniaturen einer &quot;fröhlichen Wissenschaft&quot;. Kleinschmidt C (Ed);Essen: Klartext-Verlag:  137-140.</default>
+<ama>Welskopp T. Das Wannenbad im Röhrenwerk. In: Kleinschmidt C, ed. &lt;em&gt;Kuriosa der Wirtschafts-, Unternehmens- und Technikgeschichte: Miniaturen einer &quot;fröhlichen Wissenschaft&quot;&lt;/em&gt;. Essen: Klartext-Verlag;  2008: 137-140.</ama>
+<harvard1>Welskopp, T., 2008. Das Wannenbad im Röhrenwerk. In C.  Kleinschmidt, ed. &lt;em&gt;Kuriosa der Wirtschafts-, Unternehmens- und Technikgeschichte: Miniaturen einer &quot;fröhlichen Wissenschaft&quot;&lt;/em&gt;.  Essen: Klartext-Verlag, pp. 137-140.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Welskopp, T. (2008). Das Wannenbad im Röhrenwerk. &lt;em&gt;Kuriosa der Wirtschafts-, Unternehmens- und Technikgeschichte: Miniaturen einer &quot;fröhlichen Wissenschaft&quot;&lt;/em&gt; (S. 137-140). Essen: Klartext-Verlag.&lt;/div&gt;</dgps>
+<aps>T.  Welskopp, Das Wannenbad im Röhrenwerk, in &lt;em&gt;Kuriosa der Wirtschafts-, Unternehmens- und Technikgeschichte: Miniaturen einer &quot;fröhlichen Wissenschaft&quot;&lt;/em&gt;, edited by C.  Kleinschmidt (Klartext-Verlag, Essen, 2008), p. 137-140.</aps>
+<bio1>Welskopp T (2008) &lt;br /&gt;Das Wannenbad im Röhrenwerk. &lt;br /&gt;In:  Kuriosa der Wirtschafts-, Unternehmens- und Technikgeschichte: Miniaturen einer &quot;fröhlichen Wissenschaft&quot;. Kleinschmidt C (Ed); Essen: Klartext-Verlag:  137-140.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1785566</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-02-15T14:24:54Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-02-15T14:24:54Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1785566</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1785566</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

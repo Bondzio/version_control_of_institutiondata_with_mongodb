@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Die Vielfalt der Wissenschaften oder warum die Psychologie kein Zweig der Physik ist</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Martin</namePart>
+  <namePart type="family">Carrier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">107511</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Andreas</namePart><namePart type="family">Elepfandt</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Wissenschafts- und Technikforschung</namePart>
+  <identifier type="unibi">10061</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Abteilung Philosophie</namePart>
+  <identifier type="unibi">10024</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Carrier_07.pdf">https://pub.uni-bielefeld.de/download/1777464/2312337</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Univ.-Verl. Konstanz</publisher><dateIssued encoding="w3cdtf">1993</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Denkmaschinen? Interdisziplinäre Perspektiven zum Thema Gehirn und Geist</title></titleInfo>
+  <identifier type="isbn">3-87940-457-7</identifier><identifier type="urn">urn:nbn:de:0070-bipr-14131</identifier>
+<part><extent unit="pages">99-115</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Carrier, M. (1993). Die Vielfalt der Wissenschaften oder warum die Psychologie kein Zweig der Physik ist. In A.  Elepfandt (Ed.), &lt;em&gt;Konstanzer Bibliothek ; 19&lt;/em&gt;&lt;em&gt;. Denkmaschinen? Interdisziplinäre Perspektiven zum Thema Gehirn und Geist&lt;/em&gt; (pp. 99-115). Konstanz: Univ.-Verl. Konstanz.&lt;/div&gt;</apa_indent>
+<ieee>M. Carrier, “Die Vielfalt der Wissenschaften oder warum die Psychologie kein Zweig der Physik ist”, &lt;em&gt;Denkmaschinen? Interdisziplinäre Perspektiven zum Thema Gehirn und Geist&lt;/em&gt;, A. Elepfandt, ed., Konstanzer Bibliothek ; 19,  Konstanz: Univ.-Verl. Konstanz, 1993,  pp.99-115.</ieee>
+<mla>Carrier, Martin. “Die Vielfalt der Wissenschaften oder warum die Psychologie kein Zweig der Physik ist”. &lt;em&gt;Denkmaschinen? Interdisziplinäre Perspektiven zum Thema Gehirn und Geist&lt;/em&gt;. Ed. Andreas Elepfandt. Konstanz: Univ.-Verl. Konstanz, 1993. Konstanzer Bibliothek ; 19. 99-115.</mla>
+<lncs>Carrier, M.: Die Vielfalt der Wissenschaften oder warum die Psychologie kein Zweig der Physik ist. In: Elepfandt, A. (ed.) Denkmaschinen? Interdisziplinäre Perspektiven zum Thema Gehirn und Geist. Konstanzer Bibliothek ; 19. p. 99-115. Univ.-Verl. Konstanz, Konstanz (1993).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Carrier, Martin. 1993. “Die Vielfalt der Wissenschaften oder warum die Psychologie kein Zweig der Physik ist”. In &lt;em&gt;Denkmaschinen? Interdisziplinäre Perspektiven zum Thema Gehirn und Geist&lt;/em&gt;, ed. Andreas Elepfandt, 99-115. Konstanzer Bibliothek ; 19. Konstanz: Univ.-Verl. Konstanz.&lt;/div&gt;</chicago>
+<angewandte-chemie>M.  Carrier, in &lt;em&gt;Denkmaschinen? Interdisziplinäre Perspektiven zum Thema Gehirn und Geist&lt;/em&gt; (Ed.: A. Elepfandt), Univ.-Verl. Konstanz, Konstanz, &lt;strong&gt;1993&lt;/strong&gt;, p. 99-115.</angewandte-chemie>
+<apa>Carrier, M. (1993). Die Vielfalt der Wissenschaften oder warum die Psychologie kein Zweig der Physik ist. In A.  Elepfandt (Ed.), &lt;em&gt;Konstanzer Bibliothek ; 19&lt;/em&gt;&lt;em&gt;. Denkmaschinen? Interdisziplinäre Perspektiven zum Thema Gehirn und Geist&lt;/em&gt; (pp. 99-115). Konstanz: Univ.-Verl. Konstanz.</apa>
+<frontiers>Carrier, M. (1993). “Die Vielfalt der Wissenschaften oder warum die Psychologie kein Zweig der Physik ist” in &lt;em&gt;Denkmaschinen? Interdisziplinäre Perspektiven zum Thema Gehirn und Geist&lt;/em&gt;, ed. A.  Elepfandt Konstanzer Bibliothek ; 19 (Konstanz: Univ.-Verl. Konstanz), 99-115.</frontiers>
+<harvard1>Carrier, M., 1993. Die Vielfalt der Wissenschaften oder warum die Psychologie kein Zweig der Physik ist. In A.  Elepfandt, ed. &lt;em&gt;Denkmaschinen? Interdisziplinäre Perspektiven zum Thema Gehirn und Geist&lt;/em&gt;. Konstanzer Bibliothek ; 19.  Konstanz: Univ.-Verl. Konstanz, pp. 99-115.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Carrier, M. (1993). Die Vielfalt der Wissenschaften oder warum die Psychologie kein Zweig der Physik ist (Konstanzer Bibliothek ; 19). &lt;em&gt;Denkmaschinen? Interdisziplinäre Perspektiven zum Thema Gehirn und Geist&lt;/em&gt; (S. 99-115). Konstanz: Univ.-Verl. Konstanz.&lt;/div&gt;</dgps>
+<ama>Carrier M. Die Vielfalt der Wissenschaften oder warum die Psychologie kein Zweig der Physik ist. In: Elepfandt A, ed. &lt;em&gt;Denkmaschinen? Interdisziplinäre Perspektiven zum Thema Gehirn und Geist&lt;/em&gt;. Konstanzer Bibliothek ; 19. Konstanz: Univ.-Verl. Konstanz;  1993: 99-115.</ama>
+<aps>M.  Carrier, Die Vielfalt der Wissenschaften oder warum die Psychologie kein Zweig der Physik ist, in &lt;em&gt;Denkmaschinen? Interdisziplinäre Perspektiven zum Thema Gehirn und Geist&lt;/em&gt;, edited by A.  Elepfandt, Konstanzer Bibliothek ; 19 (Univ.-Verl. Konstanz, Konstanz, 1993), p. 99-115.</aps>
+<bio1>Carrier M (1993) &lt;br /&gt;Die Vielfalt der Wissenschaften oder warum die Psychologie kein Zweig der Physik ist. &lt;br /&gt;In:  Denkmaschinen? Interdisziplinäre Perspektiven zum Thema Gehirn und Geist. Elepfandt A (Ed); Konstanzer Bibliothek ; 19,  Konstanz: Univ.-Verl. Konstanz:  99-115.</bio1>
+<wels>Carrier, M. (1993): Die Vielfalt der Wissenschaften oder warum die Psychologie kein Zweig der Physik ist. In: Andreas Elepfandt (Hrsg.):  Denkmaschinen? Interdisziplinäre Perspektiven zum Thema Gehirn und Geist. Konstanz: Univ.-Verl. Konstanz. (Konstanzer Bibliothek ; 19, ).  S. 99-115.</wels>
+<default>Carrier M (1993)  &lt;br /&gt;In:  Denkmaschinen? Interdisziplinäre Perspektiven zum Thema Gehirn und Geist. Elepfandt A (Ed); Konstanzer Bibliothek ; 19, . Konstanz: Univ.-Verl. Konstanz:  99-115.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1777464</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1777464</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1777464</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

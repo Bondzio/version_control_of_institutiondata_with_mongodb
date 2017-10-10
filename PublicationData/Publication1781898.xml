@@ -1,0 +1,95 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>The spectrum of a finite dimensional algebra</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Claus Michael</namePart>
+  <namePart type="family">Ringel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10583</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Ringel_038.pdf">https://pub.uni-bielefeld.de/download/1781898/2313569</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Springer</publisher><dateIssued encoding="w3cdtf">1979</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Ring theory ; 1978</title></titleInfo><identifier type="urn">urn:nbn:de:0070-bipr-28366</identifier>
+<part><extent unit="pages">535-798</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Ringel CM (1979)  &lt;br /&gt;In:  Ring theory ; 1978.  Lecture notes in pure and applied mathematics ; 51, . Berlin, Heidelberg: Springer:  535-798.</default>
+<wels>Ringel, C. M. (1979): The spectrum of a finite dimensional algebra. In: Ring theory ; 1978. Berlin, Heidelberg: Springer. (Lecture notes in pure and applied mathematics ; 51, ).  S. 535-798.</wels>
+<aps>C. M.  Ringel, The spectrum of a finite dimensional algebra, in &lt;em&gt;Ring theory ; 1978&lt;/em&gt;, Lecture notes in pure and applied mathematics ; 51 (Springer, Berlin, Heidelberg, 1979), p. 535-798.</aps>
+<bio1>Ringel CM (1979) &lt;br /&gt;The spectrum of a finite dimensional algebra. &lt;br /&gt;In:  Ring theory ; 1978.  Lecture notes in pure and applied mathematics ; 51,  Berlin, Heidelberg: Springer:  535-798.</bio1>
+<ama>Ringel CM. The spectrum of a finite dimensional algebra. In:  &lt;em&gt;Ring theory ; 1978&lt;/em&gt;. Lecture notes in pure and applied mathematics ; 51. Berlin, Heidelberg: Springer;  1979: 535-798.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ringel, C.M. (1979). The spectrum of a finite dimensional algebra (Lecture notes in pure and applied mathematics ; 51). &lt;em&gt;Ring theory ; 1978&lt;/em&gt; (S. 535-798). Berlin, Heidelberg: Springer.&lt;/div&gt;</dgps>
+<harvard1>Ringel, C.M., 1979. The spectrum of a finite dimensional algebra. In &lt;em&gt;Ring theory ; 1978&lt;/em&gt;. Lecture notes in pure and applied mathematics ; 51.  Berlin, Heidelberg: Springer, pp. 535-798.</harvard1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ringel, Claus Michael. 1979. “The spectrum of a finite dimensional algebra”. In &lt;em&gt;Ring theory ; 1978&lt;/em&gt;, 535-798. Lecture notes in pure and applied mathematics ; 51. Berlin, Heidelberg: Springer.&lt;/div&gt;</chicago>
+<frontiers>Ringel, C. M. (1979). “The spectrum of a finite dimensional algebra” in &lt;em&gt;Ring theory ; 1978&lt;/em&gt; Lecture notes in pure and applied mathematics ; 51 (Berlin, Heidelberg: Springer), 535-798.</frontiers>
+<apa>Ringel, C. M. (1979). The spectrum of a finite dimensional algebra. &lt;em&gt;Ring theory ; 1978&lt;/em&gt;, 535-798.</apa>
+<angewandte-chemie>C. M.  Ringel, in &lt;em&gt;Ring theory ; 1978&lt;/em&gt;, Springer, Berlin, Heidelberg, &lt;strong&gt;1979&lt;/strong&gt;, p. 535-798.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ringel, C. M. (1979). The spectrum of a finite dimensional algebra. &lt;em&gt;Ring theory ; 1978&lt;/em&gt;, 535-798.&lt;/div&gt;</apa_indent>
+<mla>Ringel, Claus Michael. “The spectrum of a finite dimensional algebra”. &lt;em&gt;Ring theory ; 1978&lt;/em&gt;. Berlin, Heidelberg: Springer, 1979. Lecture notes in pure and applied mathematics ; 51. 535-798.</mla>
+<lncs>Ringel, C.M.: The spectrum of a finite dimensional algebra. Ring theory ; 1978. Lecture notes in pure and applied mathematics ; 51. p. 535-798. Springer, Berlin, Heidelberg (1979).</lncs>
+<ieee>C.M. Ringel, “The spectrum of a finite dimensional algebra”, &lt;em&gt;Ring theory ; 1978&lt;/em&gt;, Lecture notes in pure and applied mathematics ; 51,  Berlin, Heidelberg: Springer, 1979,  pp.535-798.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781898</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781898</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781898</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

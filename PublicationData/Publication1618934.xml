@@ -1,0 +1,108 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Size, shape and secondary structure of calponin</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">EA</namePart>
+  <namePart type="family">Czurylo</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">W</namePart>
+  <namePart type="family">Eimer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">N</namePart>
+  <namePart type="family">Kulikova</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Thomas</namePart>
+  <namePart type="family">Hellweg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">19511146</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Physikalische Chemie III</namePart>
+  <identifier type="unibi">17981</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The overall size and shape of the chicken gizzard calponin (CaP) h1 molecule was investigated by dynamic light scattering (DLS) measurements. From the DLS experiments, a z-averaged translational diffusion coefficient is derived (5.75 +/- 0.3) x 10(-7)cm(2) s(-1), which corresponds to a hydrodynamic radius of 3.72 nm for calponin. The frictional ratio (1.8 for the unhydrated molecule and 1.5 for the hydrated one) suggests a pronounced anisotropic structure for the molecule. An ellipsoidal model in length 19.4 nm and with a diameter of 2.6 nm used for hydrodynamic calculations was found to reproduce the DLS experimental data. The evaluation of the secondary structure of CaP h1 from the CD spectra by two independent methods has revealed that it contains, on average, 23% helix, 19% beta-strand, 18% beta-turns and loops, and 40% of remainder structures. These values are in good agreement with those predicted from the amino-acid sequence. Predictions used for CaP h1 were applied to other isoforms of known sequences and revealed that all calponins share a common secondary structure. Moreover, the predicted structure of the calponin CH domain is identical to that found by X-ray studies of the spectrin, fimbrin and utrophin CH domains.</abstract>
+
+<originInfo><publisher>ACTA BIOCHIMICA POLONICA</publisher><dateIssued encoding="w3cdtf">2000</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>calponin</topic><topic>circular dichroism</topic><topic>dynamic light scattering</topic><topic>structure estimation</topic><topic>secondary</topic><topic>secondary structure prediction</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>ACTA BIOCHIMICA POLONICA</title></titleInfo>
+  <identifier type="issn">0001-527X</identifier>
+  <identifier type="MEDLINE">11310978</identifier>
+  <identifier type="ISI">000089634000024</identifier>
+<part><detail type="volume"><number>47</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">791-806</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Czurylo, E. A.; Eimer, W.; Kulikova, N.; Hellweg, T. (2000): Size, shape and secondary structure of calponin &lt;em&gt;ACTA BIOCHIMICA POLONICA&lt;/em&gt;,47:(3): 791-806.</wels>
+<default>Czurylo EA, Eimer W, Kulikova N, Hellweg T (2000) &lt;br /&gt;ACTA BIOCHIMICA POLONICA 47(3): 791-806.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Czurylo, E.A., Eimer, W., Kulikova, N. &amp;amp; Hellweg, T. (2000). Size, shape and secondary structure of calponin. &lt;em&gt;ACTA BIOCHIMICA POLONICA&lt;/em&gt;, &lt;em&gt;47&lt;/em&gt;(3), 791-806. ACTA BIOCHIMICA POLONICA.&lt;/div&gt;</dgps>
+<harvard1>Czurylo, E.A., et al., 2000. Size, shape and secondary structure of calponin. &lt;em&gt;ACTA BIOCHIMICA POLONICA&lt;/em&gt;, 47(3), p 791-806.</harvard1>
+<ama>Czurylo EA, Eimer W, Kulikova N, Hellweg T. Size, shape and secondary structure of calponin. &lt;em&gt;ACTA BIOCHIMICA POLONICA&lt;/em&gt;. 2000;47(3):791-806.</ama>
+<aps>E. A.  Czurylo, et al., Size, shape and secondary structure of calponin, ACTA BIOCHIMICA POLONICA &lt;strong&gt;47&lt;/strong&gt;, 791-806 (2000).</aps>
+<bio1>Czurylo EA, Eimer W, Kulikova N, Hellweg T (2000) &lt;br /&gt;Size, shape and secondary structure of calponin.&lt;br /&gt;ACTA BIOCHIMICA POLONICA 47(3): 791-806.</bio1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Czurylo, EA, Eimer, W, Kulikova, N, and Hellweg, Thomas. 2000. “Size, shape and secondary structure of calponin”. &lt;em&gt;ACTA BIOCHIMICA POLONICA&lt;/em&gt; 47 (3): 791-806.&lt;/div&gt;</chicago>
+<angewandte-chemie>E. A.  Czurylo, W.  Eimer, N.  Kulikova, and T.  Hellweg, “Size, shape and secondary structure of calponin”, &lt;em&gt;ACTA BIOCHIMICA POLONICA&lt;/em&gt;, &lt;strong&gt;2000&lt;/strong&gt;, &lt;em&gt;47&lt;/em&gt;, 791-806.</angewandte-chemie>
+<apa>Czurylo, E. A., Eimer, W., Kulikova, N., &amp;amp; Hellweg, T. (2000). Size, shape and secondary structure of calponin. &lt;em&gt;ACTA BIOCHIMICA POLONICA&lt;/em&gt;, &lt;em&gt;47&lt;/em&gt;(3), 791-806.</apa>
+<frontiers>Czurylo, E. A., Eimer, W., Kulikova, N., and Hellweg, T. (2000). Size, shape and secondary structure of calponin. &lt;em&gt;ACTA BIOCHIMICA POLONICA&lt;/em&gt; 47, 791-806.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Czurylo, E. A., Eimer, W., Kulikova, N., &amp;amp; Hellweg, T. (2000). Size, shape and secondary structure of calponin. &lt;em&gt;ACTA BIOCHIMICA POLONICA&lt;/em&gt;, &lt;em&gt;47&lt;/em&gt;(3), 791-806.&lt;/div&gt;</apa_indent>
+<ieee>E.A. Czurylo, et al., “Size, shape and secondary structure of calponin”, &lt;em&gt;ACTA BIOCHIMICA POLONICA&lt;/em&gt;,  vol. 47, 2000,  pp. 791-806.</ieee>
+<mla>Czurylo, EA, Eimer, W, Kulikova, N, and Hellweg, Thomas. “Size, shape and secondary structure of calponin”. &lt;em&gt;ACTA BIOCHIMICA POLONICA&lt;/em&gt; 47.3 (2000): 791-806.</mla>
+<lncs>Czurylo, E.A., Eimer, W., Kulikova, N., Hellweg, T.: Size, shape and secondary structure of calponin. ACTA BIOCHIMICA POLONICA. 47, 791-806 (2000).</lncs>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1618934</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:03:57Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-10-06T15:59:11Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1618934</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1618934</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

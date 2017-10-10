@@ -1,0 +1,111 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Konzept und Studienplan für eine Fachrichtung &quot;Wirtschaftsinformatik&quot; im Studiengang Informatik der TU Berlin</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Holger</namePart>
+  <namePart type="family">Franck</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Thorsten</namePart>
+  <namePart type="family">Spitta</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">41186</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Gerhard</namePart><namePart type="family">Goos</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">J.</namePart><namePart type="family">Hartmanis</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Wirtschaftswissenschaften</namePart>
+  <identifier type="unibi">10031</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+<name type="conference">
+  <namePart>4. GI Jahrestagung</namePart>
+</name>
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT2353.pdf">https://pub.uni-bielefeld.de/download/1781098/2313160</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Springer</publisher><dateIssued encoding="w3cdtf">1974</dateIssued><place><placeTerm type="text">Berlin</placeTerm></place>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+<subject><topic>Campus-Management</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Proceedings</title></titleInfo>
+  <identifier type="isbn">3-540-07141-5</identifier><identifier type="urn">urn:nbn:de:0070-bipr-23532</identifier>
+<part><extent unit="pages">703-712</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Franck H, Spitta T (1974)  &lt;br /&gt;In:  Proceedings. Goos G, Hartmanis J (Eds); Lecture Notes in Computer Science 26, . Berlin - Heidelberg [u.a.]: Springer:  703-712.</default>
+<wels>Franck, H.; Spitta, T. (1974): Konzept und Studienplan für eine Fachrichtung &quot;Wirtschaftsinformatik&quot; im Studiengang Informatik der TU Berlin. In: Gerhard Goos; J. Hartmanis (Hrsg.):  Proceedings. Berlin - Heidelberg [u.a.]: Springer. (Lecture Notes in Computer Science 26, ).  S. 703-712.</wels>
+<bio1>Franck H, Spitta T (1974) &lt;br /&gt;Konzept und Studienplan für eine Fachrichtung &quot;Wirtschaftsinformatik&quot; im Studiengang Informatik der TU Berlin. &lt;br /&gt;In:  Proceedings. Goos G, Hartmanis J (Eds); Lecture Notes in Computer Science 26,  Berlin - Heidelberg [u.a.]: Springer:  703-712.</bio1>
+<aps>H.  Franck and T.  Spitta, Konzept und Studienplan für eine Fachrichtung &quot;Wirtschaftsinformatik&quot; im Studiengang Informatik der TU Berlin, in &lt;em&gt;Proceedings&lt;/em&gt;, edited by G.  Goos and J.  Hartmanis, Lecture Notes in Computer Science 26 (Springer, Berlin - Heidelberg [U.a.], 1974), p. 703-712.</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Franck, H. &amp;amp; Spitta, T. (1974). Konzept und Studienplan für eine Fachrichtung &quot;Wirtschaftsinformatik&quot; im Studiengang Informatik der TU Berlin (Lecture Notes in Computer Science 26). &lt;em&gt;Proceedings&lt;/em&gt; (S. 703-712). Gehalten auf der 4. GI Jahrestagung, Berlin - Heidelberg [u.a.]: Springer.&lt;/div&gt;</dgps>
+<ama>Franck H, Spitta T. Konzept und Studienplan für eine Fachrichtung &quot;Wirtschaftsinformatik&quot; im Studiengang Informatik der TU Berlin. In: Goos G, Hartmanis J, eds. &lt;em&gt;Proceedings&lt;/em&gt;. Lecture Notes in Computer Science 26. Berlin - Heidelberg [u.a.]: Springer;  1974: 703-712.</ama>
+<harvard1>Franck, H., &amp;amp; Spitta, T., 1974. Konzept und Studienplan für eine Fachrichtung &quot;Wirtschaftsinformatik&quot; im Studiengang Informatik der TU Berlin. In G.  Goos &amp;amp; J.  Hartmanis, eds. &lt;em&gt;Proceedings&lt;/em&gt;. Lecture Notes in Computer Science 26.  Berlin - Heidelberg [u.a.]: Springer, pp. 703-712.</harvard1>
+<frontiers>Franck, H., and Spitta, T. (1974). “Konzept und Studienplan für eine Fachrichtung &quot;Wirtschaftsinformatik&quot; im Studiengang Informatik der TU Berlin” in &lt;em&gt;Proceedings&lt;/em&gt;, ed. G.  Goos and J.  Hartmanis Lecture Notes in Computer Science 26 (Berlin - Heidelberg [u.a.]: Springer), 703-712.</frontiers>
+<apa>Franck, H., &amp;amp; Spitta, T. (1974). Konzept und Studienplan für eine Fachrichtung &quot;Wirtschaftsinformatik&quot; im Studiengang Informatik der TU Berlin. In G.  Goos &amp;amp; J.  Hartmanis (Eds.), &lt;em&gt;Lecture Notes in Computer Science 26&lt;/em&gt;&lt;em&gt;. Proceedings&lt;/em&gt; (pp. 703-712). Berlin - Heidelberg [u.a.]: Springer.</apa>
+<angewandte-chemie>H.  Franck, and T.  Spitta, in &lt;em&gt;Proceedings&lt;/em&gt; (Eds.: G. Goos, J. Hartmanis), Springer, Berlin - Heidelberg [u.a.], &lt;strong&gt;1974&lt;/strong&gt;, p. 703-712.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Franck, Holger, and Spitta, Thorsten. 1974. “Konzept und Studienplan für eine Fachrichtung &quot;Wirtschaftsinformatik&quot; im Studiengang Informatik der TU Berlin”. In &lt;em&gt;Proceedings&lt;/em&gt;, ed. Gerhard Goos and J. Hartmanis, 703-712. Lecture Notes in Computer Science 26. Berlin - Heidelberg [u.a.]: Springer.&lt;/div&gt;</chicago>
+<lncs>Franck, H., Spitta, T.: Konzept und Studienplan für eine Fachrichtung &quot;Wirtschaftsinformatik&quot; im Studiengang Informatik der TU Berlin. In: Goos, G. and Hartmanis, J. (eds.) Proceedings. Lecture Notes in Computer Science 26. p. 703-712. Springer, Berlin - Heidelberg [u.a.] (1974).</lncs>
+<mla>Franck, Holger, and Spitta, Thorsten. “Konzept und Studienplan für eine Fachrichtung &quot;Wirtschaftsinformatik&quot; im Studiengang Informatik der TU Berlin”. &lt;em&gt;Proceedings&lt;/em&gt;. Ed. Gerhard Goos and J. Hartmanis. Berlin - Heidelberg [u.a.]: Springer, 1974. Lecture Notes in Computer Science 26. 703-712.</mla>
+<ieee>H. Franck and T. Spitta, “Konzept und Studienplan für eine Fachrichtung &quot;Wirtschaftsinformatik&quot; im Studiengang Informatik der TU Berlin”, &lt;em&gt;Proceedings&lt;/em&gt;, G. Goos and J. Hartmanis, eds., Lecture Notes in Computer Science 26,  Berlin - Heidelberg [u.a.]: Springer, 1974,  pp.703-712.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Franck, H., &amp;amp; Spitta, T. (1974). Konzept und Studienplan für eine Fachrichtung &quot;Wirtschaftsinformatik&quot; im Studiengang Informatik der TU Berlin. In G.  Goos &amp;amp; J.  Hartmanis (Eds.), &lt;em&gt;Lecture Notes in Computer Science 26&lt;/em&gt;&lt;em&gt;. Proceedings&lt;/em&gt; (pp. 703-712). Berlin - Heidelberg [u.a.]: Springer.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781098</recordIdentifier><recordChangeDate encoding="w3cdtf">2014-06-13T19:43:21Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781098</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781098</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

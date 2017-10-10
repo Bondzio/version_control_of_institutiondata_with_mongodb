@@ -1,0 +1,124 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Identification of genistein-inducible and type III-secreted proteins of Bradyrhizobium japonicum</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Christin</namePart>
+  <namePart type="family">Suess</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jana</namePart>
+  <namePart type="family">Hempel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Susanne</namePart>
+  <namePart type="family">Zehner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andrea</namePart>
+  <namePart type="family">Krause</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Thomas</namePart>
+  <namePart type="family">Patschkowski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">64842</identifier></name>
+<name type="personal">
+  <namePart type="given">Michael</namePart>
+  <namePart type="family">Goettfert</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2685540</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Flagellin is the bulk protein secreted by Bradyrhizobium japonicum. For easier identification of minor protein fractions, the flagellin genes bll6865 and bll6866 were deleted. Extracellular proteins of the corresponding mutant were purified and separated by 2D gel electrophoresis. Several of the protein spots were detectable only after addition of genistein to the growth medium-genistein is an isoflavone secreted by soybean that activates the expression of genes encoding a type III secretion system. These secreted proteins were not present in supernatants of mutants in which conserved genes of the type III secretion system or the regulatory gene ttsI, which is essential for activation of the type III secretion system, are deleted. Out of 22 Genistein-inducible protein spots 8 different proteins could be identified by mass spectrometry. One of the proteins, Blr1752, has similarity to NopP of Rhizobium sp. strain NGR234 that is known to be secreted. Another protein is Blr1656 (GunA2) that was shown previously to have endoglucanase activity. Three proteins have similarity to subunits of the flagellar apparatus. Some proteins appeared in several separate spots indicating posttranslational modification. A conserved tts box motif was found in the putative promoter region of six genes encoding secreted proteins. (c) 2006 Elsevier B.V. All rights reserved.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Bradyrhizobium japonicum</topic><topic>flavonoid</topic><topic>type III secretion</topic><topic>nodulation outer protein</topic><topic>symbiosis</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF BIOTECHNOLOGY</title></titleInfo>
+  <identifier type="issn">0168-1656</identifier>
+  <identifier type="MEDLINE">16707185</identifier>
+  <identifier type="ISI">000241262200008</identifier><identifier type="doi">10.1016/j.jbiotec.20063.03.037</identifier>
+<part><detail type="volume"><number>126</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">69-77</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Suess C, Hempel J, Zehner S, Krause A, Patschkowski T, Goettfert M (2006) &lt;br /&gt;JOURNAL OF BIOTECHNOLOGY 126(1): 69-77.</default>
+<wels>Suess, C.; Hempel, J.; Zehner, S.; Krause, A.; Patschkowski, T.; Goettfert, M. (2006): Identification of genistein-inducible and type III-secreted proteins of Bradyrhizobium japonicum &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;,126:(1): 69-77.</wels>
+<bio1>Suess C, Hempel J, Zehner S, Krause A, Patschkowski T, Goettfert M (2006) &lt;br /&gt;Identification of genistein-inducible and type III-secreted proteins of Bradyrhizobium japonicum.&lt;br /&gt;JOURNAL OF BIOTECHNOLOGY 126(1): 69-77.</bio1>
+<aps> C.  Suess, et al., Identification of genistein-inducible and type III-secreted proteins of Bradyrhizobium japonicum, JOURNAL OF BIOTECHNOLOGY &lt;strong&gt;126&lt;/strong&gt;, 69-77 (2006).</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Suess, C., Hempel, J., Zehner, S., Krause, A., Patschkowski, T. &amp;amp; Goettfert, M. (2006). Identification of genistein-inducible and type III-secreted proteins of Bradyrhizobium japonicum. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;126&lt;/em&gt;(1), 69-77. ELSEVIER SCIENCE BV. doi:10.1016/j.jbiotec.20063.03.037.&lt;/div&gt;</dgps>
+<harvard1>Suess, C., et al., 2006. Identification of genistein-inducible and type III-secreted proteins of Bradyrhizobium japonicum. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, 126(1), p 69-77.</harvard1>
+<ama>Suess C, Hempel J, Zehner S, Krause A, Patschkowski T, Goettfert M. Identification of genistein-inducible and type III-secreted proteins of Bradyrhizobium japonicum. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;. 2006;126(1):69-77.</ama>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Suess, Christin, Hempel, Jana, Zehner, Susanne, Krause, Andrea, Patschkowski, Thomas, and Goettfert, Michael. 2006. “Identification of genistein-inducible and type III-secreted proteins of Bradyrhizobium japonicum”. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt; 126 (1): 69-77.&lt;/div&gt;</chicago>
+<frontiers>Suess, C., Hempel, J., Zehner, S., Krause, A., Patschkowski, T., and Goettfert, M. (2006). Identification of genistein-inducible and type III-secreted proteins of Bradyrhizobium japonicum. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt; 126, 69-77.</frontiers>
+<angewandte-chemie>C.  Suess, J.  Hempel, S.  Zehner, A.  Krause, T.  Patschkowski, and M.  Goettfert, “Identification of genistein-inducible and type III-secreted proteins of Bradyrhizobium japonicum”, &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;126&lt;/em&gt;, 69-77.</angewandte-chemie>
+<apa>Suess, C., Hempel, J., Zehner, S., Krause, A., Patschkowski, T., &amp;amp; Goettfert, M. (2006). Identification of genistein-inducible and type III-secreted proteins of Bradyrhizobium japonicum. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;126&lt;/em&gt;(1), 69-77.</apa>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Suess, C., Hempel, J., Zehner, S., Krause, A., Patschkowski, T., &amp;amp; Goettfert, M. (2006). Identification of genistein-inducible and type III-secreted proteins of Bradyrhizobium japonicum. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;126&lt;/em&gt;(1), 69-77.&lt;/div&gt;</apa_indent>
+<mla>Suess, Christin, Hempel, Jana, Zehner, Susanne, Krause, Andrea, Patschkowski, Thomas, and Goettfert, Michael. “Identification of genistein-inducible and type III-secreted proteins of Bradyrhizobium japonicum”. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt; 126.1 (2006): 69-77.</mla>
+<lncs> Suess, C., Hempel, J., Zehner, S., Krause, A., Patschkowski, T., Goettfert, M.: Identification of genistein-inducible and type III-secreted proteins of Bradyrhizobium japonicum. JOURNAL OF BIOTECHNOLOGY. 126, 69-77 (2006).</lncs>
+<ieee> C. Suess, et al., “Identification of genistein-inducible and type III-secreted proteins of Bradyrhizobium japonicum”, &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;,  vol. 126, 2006,  pp. 69-77.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1597418</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:18:50Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-04T13:31:15Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1597418</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1597418</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

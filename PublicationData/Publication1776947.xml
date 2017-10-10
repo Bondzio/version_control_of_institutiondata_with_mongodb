@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Angle- and spin-resolved photoelectron spectroscopy</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ulrich</namePart>
+  <namePart type="family">Heinzmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40276</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Hans</namePart><namePart type="family">Kleinpoppen</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Lehrstuhl für Molekül- und Oberflächenphysik</namePart>
+  <identifier type="unibi">29133467</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Centrum für Biotechnologie</namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Heinzmann_052.pdf">https://pub.uni-bielefeld.de/download/1776947/2312265</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Plenum Press</publisher><dateIssued encoding="w3cdtf">1985</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Fundamental processes in atomic collision physics: proceedings of a NATO Advanced Study Inst. on Fundamental Processes in Atomic Collision Physics, held Sept. 10 - 21, 1984, in Santa Flavia, Italy</title></titleInfo>
+  <identifier type="isbn">0-306-42114-3</identifier><identifier type="urn">urn:nbn:de:0070-bipr-13328</identifier>
+<part><extent unit="pages">269-293</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<mla>Heinzmann, Ulrich. “Angle- and spin-resolved photoelectron spectroscopy”. &lt;em&gt;Fundamental processes in atomic collision physics: proceedings of a NATO Advanced Study Inst. on Fundamental Processes in Atomic Collision Physics, held Sept. 10 - 21, 1984, in Santa Flavia, Italy&lt;/em&gt;. Ed. Hans Kleinpoppen. New York: Plenum Press, 1985. NATO ASI series : Ser. B ; 134. 269-293.</mla>
+<lncs>Heinzmann, U.: Angle- and spin-resolved photoelectron spectroscopy. In: Kleinpoppen, H. (ed.) Fundamental processes in atomic collision physics: proceedings of a NATO Advanced Study Inst. on Fundamental Processes in Atomic Collision Physics, held Sept. 10 - 21, 1984, in Santa Flavia, Italy. NATO ASI series : Ser. B ; 134. p. 269-293. Plenum Press, New York (1985).</lncs>
+<ieee>U. Heinzmann, “Angle- and spin-resolved photoelectron spectroscopy”, &lt;em&gt;Fundamental processes in atomic collision physics: proceedings of a NATO Advanced Study Inst. on Fundamental Processes in Atomic Collision Physics, held Sept. 10 - 21, 1984, in Santa Flavia, Italy&lt;/em&gt;, H. Kleinpoppen, ed., NATO ASI series : Ser. B ; 134,  New York: Plenum Press, 1985,  pp.269-293.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heinzmann, U. (1985). Angle- and spin-resolved photoelectron spectroscopy. In H.  Kleinpoppen (Ed.), &lt;em&gt;NATO ASI series : Ser. B ; 134&lt;/em&gt;&lt;em&gt;. Fundamental processes in atomic collision physics: proceedings of a NATO Advanced Study Inst. on Fundamental Processes in Atomic Collision Physics, held Sept. 10 - 21, 1984, in Santa Flavia, Italy&lt;/em&gt; (pp. 269-293). New York: Plenum Press.&lt;/div&gt;</apa_indent>
+<frontiers>Heinzmann, U. (1985). “Angle- and spin-resolved photoelectron spectroscopy” in &lt;em&gt;Fundamental processes in atomic collision physics: proceedings of a NATO Advanced Study Inst. on Fundamental Processes in Atomic Collision Physics, held Sept. 10 - 21, 1984, in Santa Flavia, Italy&lt;/em&gt;, ed. H.  Kleinpoppen NATO ASI series : Ser. B ; 134 (New York: Plenum Press), 269-293.</frontiers>
+<apa>Heinzmann, U. (1985). Angle- and spin-resolved photoelectron spectroscopy. In H.  Kleinpoppen (Ed.), &lt;em&gt;NATO ASI series : Ser. B ; 134&lt;/em&gt;&lt;em&gt;. Fundamental processes in atomic collision physics: proceedings of a NATO Advanced Study Inst. on Fundamental Processes in Atomic Collision Physics, held Sept. 10 - 21, 1984, in Santa Flavia, Italy&lt;/em&gt; (pp. 269-293). New York: Plenum Press.</apa>
+<angewandte-chemie>U.  Heinzmann, in &lt;em&gt;Fundamental processes in atomic collision physics: proceedings of a NATO Advanced Study Inst. on Fundamental Processes in Atomic Collision Physics, held Sept. 10 - 21, 1984, in Santa Flavia, Italy&lt;/em&gt; (Ed.: H. Kleinpoppen), Plenum Press, New York, &lt;strong&gt;1985&lt;/strong&gt;, p. 269-293.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heinzmann, Ulrich. 1985. “Angle- and spin-resolved photoelectron spectroscopy”. In &lt;em&gt;Fundamental processes in atomic collision physics: proceedings of a NATO Advanced Study Inst. on Fundamental Processes in Atomic Collision Physics, held Sept. 10 - 21, 1984, in Santa Flavia, Italy&lt;/em&gt;, ed. Hans Kleinpoppen, 269-293. NATO ASI series : Ser. B ; 134. New York: Plenum Press.&lt;/div&gt;</chicago>
+<aps>U.  Heinzmann, Angle- and spin-resolved photoelectron spectroscopy, in &lt;em&gt;Fundamental processes in atomic collision physics: proceedings of a NATO Advanced Study Inst. on Fundamental Processes in Atomic Collision Physics, held Sept. 10 - 21, 1984, in Santa Flavia, Italy&lt;/em&gt;, edited by H.  Kleinpoppen, NATO ASI series : Ser. B ; 134 (Plenum Press, New York, 1985), p. 269-293.</aps>
+<bio1>Heinzmann U (1985) &lt;br /&gt;Angle- and spin-resolved photoelectron spectroscopy. &lt;br /&gt;In:  Fundamental processes in atomic collision physics: proceedings of a NATO Advanced Study Inst. on Fundamental Processes in Atomic Collision Physics, held Sept. 10 - 21, 1984, in Santa Flavia, Italy. Kleinpoppen H (Ed); NATO ASI series : Ser. B ; 134,  New York: Plenum Press:  269-293.</bio1>
+<ama>Heinzmann U. Angle- and spin-resolved photoelectron spectroscopy. In: Kleinpoppen H, ed. &lt;em&gt;Fundamental processes in atomic collision physics: proceedings of a NATO Advanced Study Inst. on Fundamental Processes in Atomic Collision Physics, held Sept. 10 - 21, 1984, in Santa Flavia, Italy&lt;/em&gt;. NATO ASI series : Ser. B ; 134. New York: Plenum Press;  1985: 269-293.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heinzmann, U. (1985). Angle- and spin-resolved photoelectron spectroscopy (NATO ASI series : Ser. B ; 134). &lt;em&gt;Fundamental processes in atomic collision physics: proceedings of a NATO Advanced Study Inst. on Fundamental Processes in Atomic Collision Physics, held Sept. 10 - 21, 1984, in Santa Flavia, Italy&lt;/em&gt; (S. 269-293). New York: Plenum Press.&lt;/div&gt;</dgps>
+<harvard1>Heinzmann, U., 1985. Angle- and spin-resolved photoelectron spectroscopy. In H.  Kleinpoppen, ed. &lt;em&gt;Fundamental processes in atomic collision physics: proceedings of a NATO Advanced Study Inst. on Fundamental Processes in Atomic Collision Physics, held Sept. 10 - 21, 1984, in Santa Flavia, Italy&lt;/em&gt;. NATO ASI series : Ser. B ; 134.  New York: Plenum Press, pp. 269-293.</harvard1>
+<default>Heinzmann U (1985)  &lt;br /&gt;In:  Fundamental processes in atomic collision physics: proceedings of a NATO Advanced Study Inst. on Fundamental Processes in Atomic Collision Physics, held Sept. 10 - 21, 1984, in Santa Flavia, Italy. Kleinpoppen H (Ed); NATO ASI series : Ser. B ; 134, . New York: Plenum Press:  269-293.</default>
+<wels>Heinzmann, U. (1985): Angle- and spin-resolved photoelectron spectroscopy. In: Hans Kleinpoppen (Hrsg.):  Fundamental processes in atomic collision physics: proceedings of a NATO Advanced Study Inst. on Fundamental Processes in Atomic Collision Physics, held Sept. 10 - 21, 1984, in Santa Flavia, Italy. New York: Plenum Press. (NATO ASI series : Ser. B ; 134, ).  S. 269-293.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776947</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776947</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776947</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

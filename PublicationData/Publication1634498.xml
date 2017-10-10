@@ -1,0 +1,132 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Establishment of a high content assay for the identification and characterisation of bioactivities in crude bacterial extracts that interfere with the eukaryotic cell cycle</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Nickels A.</namePart>
+  <namePart type="family">Jensen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Klaus</namePart>
+  <namePart type="family">Gerth</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Tim</namePart>
+  <namePart type="family">Grotjohann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Dieter</namePart>
+  <namePart type="family">Kapp</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Matthias</namePart>
+  <namePart type="family">Keck</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Karsten</namePart>
+  <namePart type="family">Niehaus</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21913</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2685540</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">40200282</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">High content microscopy as a screening tool to identify bioactive agents has provided researchers with the ability to characterise biological activities at the level of single cells. Here. we describe the development and the application of a high content screening assay for the identification and characterisation of cytostatic bioactivities from Myxobacteria extracts. In an automated microscopy assay Sf9 insect cells were visualised utilising the stains bisbenzimide Hoechst 33342, calcein AM, and propidium iodide. Imaging data were processed by the ScanR Analysis software to determine the ploidy and vitality of each cell and to quantify cell populations. More than 98% of the Sf9 cells were viable and the culture consisted of diploid (similar to 30%), tetraploid (similar to 60%), polyploidic(&lt;10%) and apoptotic (&lt;5%) cells. Treatment with the reference substances blasticidin, colchicine, paclitaxel, and cytochalasin D induced changes in ploidy and vitality, which were characteristic for the respective bioactive substance. Furthermore, crude extracts from the chivosazole producing Myxobactrium Sorangium cellulosum So ce56 induced an increase of polyploid cells and a decrease in total cell Want, while a mutant producing nearly no chivosazole triggered none of these effects. Purified chivosazole induced the same effects as the wild type extract. Similar effects have been observed For the reference compound cytochalasin D. On the basis of this assay, crude extracts of ten different Myxobacteria cultures were screened. Three extracts exhibited strong cytotoxic activities, further five extracts induced weak change in the Ploidy distribution, and two extracts showed no detectable effect within the assay. Therefore, this robust assay provides the ability to discover and characterise cytotoxic and cytostatic bioactivities in crude bacterial extracts. (C) 2009 Elsevier B.V. All rights reserved.</abstract>
+
+<originInfo><publisher>Elsevier BV</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Drug discovery</topic><topic>Sf9</topic><topic>cells</topic><topic>High content screening microscopy</topic><topic>ScanR</topic><topic>Myxobacteria</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Journal of Biotechnology</title></titleInfo>
+  <identifier type="issn">0168-1656</identifier>
+  <identifier type="MEDLINE">19111838</identifier>
+  <identifier type="ISI">000265007100017</identifier><identifier type="doi">10.1016/j.jbiotec.2008.12.002</identifier>
+<part><detail type="volume"><number>140</number></detail><detail type="issue"><number>1-2</number></detail><extent unit="pages">124-134</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Jensen, N. A., Gerth, K., Grotjohann, T., Kapp, D., Keck, M., &amp;amp; Niehaus, K. (2009). Establishment of a high content assay for the identification and characterisation of bioactivities in crude bacterial extracts that interfere with the eukaryotic cell cycle. &lt;em&gt;Journal of Biotechnology&lt;/em&gt;, &lt;em&gt;140&lt;/em&gt;(1-2), 124-134.&lt;/div&gt;</apa_indent>
+<ieee>N.A. Jensen, et al., “Establishment of a high content assay for the identification and characterisation of bioactivities in crude bacterial extracts that interfere with the eukaryotic cell cycle”, &lt;em&gt;Journal of Biotechnology&lt;/em&gt;,  vol. 140, 2009,  pp. 124-134.</ieee>
+<mla>Jensen, Nickels A., Gerth, Klaus, Grotjohann, Tim, Kapp, Dieter, Keck, Matthias, and Niehaus, Karsten. “Establishment of a high content assay for the identification and characterisation of bioactivities in crude bacterial extracts that interfere with the eukaryotic cell cycle”. &lt;em&gt;Journal of Biotechnology&lt;/em&gt; 140.1-2 (2009): 124-134.</mla>
+<lncs>Jensen, N.A., Gerth, K., Grotjohann, T., Kapp, D., Keck, M., Niehaus, K.: Establishment of a high content assay for the identification and characterisation of bioactivities in crude bacterial extracts that interfere with the eukaryotic cell cycle. Journal of Biotechnology. 140, 124-134 (2009).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Jensen, Nickels A., Gerth, Klaus, Grotjohann, Tim, Kapp, Dieter, Keck, Matthias, and Niehaus, Karsten. 2009. “Establishment of a high content assay for the identification and characterisation of bioactivities in crude bacterial extracts that interfere with the eukaryotic cell cycle”. &lt;em&gt;Journal of Biotechnology&lt;/em&gt; 140 (1-2): 124-134.&lt;/div&gt;</chicago>
+<angewandte-chemie>N. A.  Jensen, K.  Gerth, T.  Grotjohann, D.  Kapp, M.  Keck, and K.  Niehaus, “Establishment of a high content assay for the identification and characterisation of bioactivities in crude bacterial extracts that interfere with the eukaryotic cell cycle”, &lt;em&gt;Journal of Biotechnology&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;140&lt;/em&gt;, 124-134.</angewandte-chemie>
+<apa>Jensen, N. A., Gerth, K., Grotjohann, T., Kapp, D., Keck, M., &amp;amp; Niehaus, K. (2009). Establishment of a high content assay for the identification and characterisation of bioactivities in crude bacterial extracts that interfere with the eukaryotic cell cycle. &lt;em&gt;Journal of Biotechnology&lt;/em&gt;, &lt;em&gt;140&lt;/em&gt;(1-2), 124-134.</apa>
+<frontiers>Jensen, N. A., Gerth, K., Grotjohann, T., Kapp, D., Keck, M., and Niehaus, K. (2009). Establishment of a high content assay for the identification and characterisation of bioactivities in crude bacterial extracts that interfere with the eukaryotic cell cycle. &lt;em&gt;Journal of Biotechnology&lt;/em&gt; 140, 124-134.</frontiers>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Jensen, N.A., Gerth, K., Grotjohann, T., Kapp, D., Keck, M. &amp;amp; Niehaus, K. (2009). Establishment of a high content assay for the identification and characterisation of bioactivities in crude bacterial extracts that interfere with the eukaryotic cell cycle. &lt;em&gt;Journal of Biotechnology&lt;/em&gt;, &lt;em&gt;140&lt;/em&gt;(1-2), 124-134. Elsevier BV. doi:10.1016/j.jbiotec.2008.12.002.&lt;/div&gt;</dgps>
+<ama>Jensen NA, Gerth K, Grotjohann T, Kapp D, Keck M, Niehaus K. Establishment of a high content assay for the identification and characterisation of bioactivities in crude bacterial extracts that interfere with the eukaryotic cell cycle. &lt;em&gt;Journal of Biotechnology&lt;/em&gt;. 2009;140(1-2):124-134.</ama>
+<harvard1>Jensen, N.A., et al., 2009. Establishment of a high content assay for the identification and characterisation of bioactivities in crude bacterial extracts that interfere with the eukaryotic cell cycle. &lt;em&gt;Journal of Biotechnology&lt;/em&gt;, 140(1-2), p 124-134.</harvard1>
+<aps>N. A.  Jensen, et al., Establishment of a high content assay for the identification and characterisation of bioactivities in crude bacterial extracts that interfere with the eukaryotic cell cycle, Journal of Biotechnology &lt;strong&gt;140&lt;/strong&gt;, 124-134 (2009).</aps>
+<bio1>Jensen NA, Gerth K, Grotjohann T, Kapp D, Keck M, Niehaus K (2009) &lt;br /&gt;Establishment of a high content assay for the identification and characterisation of bioactivities in crude bacterial extracts that interfere with the eukaryotic cell cycle.&lt;br /&gt;Journal of Biotechnology 140(1-2): 124-134.</bio1>
+<wels>Jensen, N. A.; Gerth, K.; Grotjohann, T.; Kapp, D.; Keck, M.; Niehaus, K. (2009): Establishment of a high content assay for the identification and characterisation of bioactivities in crude bacterial extracts that interfere with the eukaryotic cell cycle &lt;em&gt;Journal of Biotechnology&lt;/em&gt;,140:(1-2): 124-134.</wels>
+<default>Jensen NA, Gerth K, Grotjohann T, Kapp D, Keck M, Niehaus K (2009) &lt;br /&gt;Journal of Biotechnology 140(1-2): 124-134.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1634498</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:19Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2015-12-22T11:21:56Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1634498</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1634498</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

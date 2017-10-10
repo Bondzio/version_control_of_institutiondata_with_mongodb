@@ -1,0 +1,94 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Recursive evaluation of expectation values (r(k)) for arbitrary states of the relativistic one-electron atom</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Dirk</namePart>
+  <namePart type="family">Andrae</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20327</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Theoretische Chemie</namePart>
+  <identifier type="unibi">17982</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">An algorithm for the recursive evaluation of expectation values (r(k)) for a given state of the relativistic one-electron atom with a point-like nucleus of charge number Z is proposed. In contrast to previous approaches, the present algorithm is based on only a single recurrence relation, which is a recurrence relation for a special type of generalized hypergeometric F-3(2) series. Two sequences of values of such 3 F-2 series are generated. Finally, the members of these two sequences are assembled to yield the expectation values. The algorithm can be considered as a relativistic analogue of the Kramers-Pasternack recursion for expectation values (r(k)) for states of the non-relativistic hydrogen-like atom. As an application closed-form expressions for (r(k)), -6 less than or equal to k less than or equal to 5, were derived. In addition, numerical values for (r(k)) are given for some representative states of one-electron atoms with Z = 1, 80 and 137.</abstract>
+
+<originInfo><publisher>IOP PUBLISHING LTD</publisher><dateIssued encoding="w3cdtf">1997</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS</title></titleInfo>
+  <identifier type="issn">0953-4075</identifier>
+  <identifier type="eIssn">1361-6455</identifier>
+  <identifier type="ISI">A1997YD77800008</identifier><identifier type="doi">10.1088/0953-4075/30/20/008</identifier>
+<part><detail type="volume"><number>30</number></detail><detail type="issue"><number>20</number></detail><extent unit="pages">4435-4451</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Andrae, Dirk. 1997. “Recursive evaluation of expectation values (r(k)) for arbitrary states of the relativistic one-electron atom”. &lt;em&gt;JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS&lt;/em&gt; 30 (20): 4435-4451.&lt;/div&gt;</chicago>
+<frontiers>Andrae, D. (1997). Recursive evaluation of expectation values (r(k)) for arbitrary states of the relativistic one-electron atom. &lt;em&gt;JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS&lt;/em&gt; 30, 4435-4451.</frontiers>
+<apa>Andrae, D. (1997). Recursive evaluation of expectation values (r(k)) for arbitrary states of the relativistic one-electron atom. &lt;em&gt;JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS&lt;/em&gt;, &lt;em&gt;30&lt;/em&gt;(20), 4435-4451.</apa>
+<angewandte-chemie>D.  Andrae, “Recursive evaluation of expectation values (r(k)) for arbitrary states of the relativistic one-electron atom”, &lt;em&gt;JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS&lt;/em&gt;, &lt;strong&gt;1997&lt;/strong&gt;, &lt;em&gt;30&lt;/em&gt;, 4435-4451.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Andrae, D. (1997). Recursive evaluation of expectation values (r(k)) for arbitrary states of the relativistic one-electron atom. &lt;em&gt;JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS&lt;/em&gt;, &lt;em&gt;30&lt;/em&gt;(20), 4435-4451.&lt;/div&gt;</apa_indent>
+<lncs>Andrae, D.: Recursive evaluation of expectation values (r(k)) for arbitrary states of the relativistic one-electron atom. JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS. 30, 4435-4451 (1997).</lncs>
+<mla>Andrae, Dirk. “Recursive evaluation of expectation values (r(k)) for arbitrary states of the relativistic one-electron atom”. &lt;em&gt;JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS&lt;/em&gt; 30.20 (1997): 4435-4451.</mla>
+<ieee>D. Andrae, “Recursive evaluation of expectation values (r(k)) for arbitrary states of the relativistic one-electron atom”, &lt;em&gt;JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS&lt;/em&gt;,  vol. 30, 1997,  pp. 4435-4451.</ieee>
+<default>Andrae D (1997) &lt;br /&gt;JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS 30(20): 4435-4451.</default>
+<wels>Andrae, D. (1997): Recursive evaluation of expectation values (r(k)) for arbitrary states of the relativistic one-electron atom &lt;em&gt;JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS&lt;/em&gt;,30:(20): 4435-4451.</wels>
+<bio1>Andrae D (1997) &lt;br /&gt;Recursive evaluation of expectation values (r(k)) for arbitrary states of the relativistic one-electron atom.&lt;br /&gt;JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS 30(20): 4435-4451.</bio1>
+<aps>D.  Andrae, Recursive evaluation of expectation values (r(k)) for arbitrary states of the relativistic one-electron atom, JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS &lt;strong&gt;30&lt;/strong&gt;, 4435-4451 (1997).</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Andrae, D. (1997). Recursive evaluation of expectation values (r(k)) for arbitrary states of the relativistic one-electron atom. &lt;em&gt;JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS&lt;/em&gt;, &lt;em&gt;30&lt;/em&gt;(20), 4435-4451. IOP PUBLISHING LTD. doi:10.1088/0953-4075/30/20/008.&lt;/div&gt;</dgps>
+<ama>Andrae D. Recursive evaluation of expectation values (r(k)) for arbitrary states of the relativistic one-electron atom. &lt;em&gt;JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS&lt;/em&gt;. 1997;30(20):4435-4451.</ama>
+<harvard1>Andrae, D., 1997. Recursive evaluation of expectation values (r(k)) for arbitrary states of the relativistic one-electron atom. &lt;em&gt;JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS&lt;/em&gt;, 30(20), p 4435-4451.</harvard1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1627292</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:22:13Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-07T16:48:27Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1627292</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1627292</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

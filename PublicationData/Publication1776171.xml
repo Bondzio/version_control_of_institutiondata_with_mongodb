@@ -1,0 +1,96 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The imbedding of special incidence structures: preliminary report</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Günter</namePart>
+  <namePart type="family">Graumann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10520</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Graumann_003.pdf">https://pub.uni-bielefeld.de/download/1776171/2312081</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1970</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Notices of the American Mathematical Society</title></titleInfo>
+  <identifier type="issn">1088-9477</identifier><identifier type="urn">urn:nbn:de:0070-bipr-11243</identifier>
+<part><detail type="volume"><number>119</number></detail><extent unit="pages">248</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Graumann, G. (1970). The imbedding of special incidence structures: preliminary report. &lt;em&gt;Notices of the American Mathematical Society&lt;/em&gt; 119.</frontiers>
+<apa>Graumann, G. (1970). The imbedding of special incidence structures: preliminary report. &lt;em&gt;Notices of the American Mathematical Society&lt;/em&gt;, &lt;em&gt;119&lt;/em&gt;.</apa>
+<angewandte-chemie>G.  Graumann, “The imbedding of special incidence structures: preliminary report”, &lt;em&gt;Notices of the American Mathematical Society&lt;/em&gt;, &lt;strong&gt;1970&lt;/strong&gt;, &lt;em&gt;119&lt;/em&gt;.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Graumann, Günter. 1970. “The imbedding of special incidence structures: preliminary report”. &lt;em&gt;Notices of the American Mathematical Society&lt;/em&gt; 119.&lt;/div&gt;</chicago>
+<mla>Graumann, Günter. “The imbedding of special incidence structures: preliminary report”. &lt;em&gt;Notices of the American Mathematical Society&lt;/em&gt; 119 (1970).</mla>
+<lncs>Graumann, G.: The imbedding of special incidence structures: preliminary report. Notices of the American Mathematical Society. 119, (1970).</lncs>
+<ieee>G. Graumann, “The imbedding of special incidence structures: preliminary report”, &lt;em&gt;Notices of the American Mathematical Society&lt;/em&gt;,  vol. 119, 1970.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Graumann, G. (1970). The imbedding of special incidence structures: preliminary report. &lt;em&gt;Notices of the American Mathematical Society&lt;/em&gt;, &lt;em&gt;119&lt;/em&gt;.&lt;/div&gt;</apa_indent>
+<default>Graumann G (1970) &lt;br /&gt;Notices of the American Mathematical Society 119.</default>
+<wels>Graumann, G. (1970): The imbedding of special incidence structures: preliminary report &lt;em&gt;Notices of the American Mathematical Society&lt;/em&gt;,119</wels>
+<aps>G.  Graumann, The imbedding of special incidence structures: preliminary report, Notices of the American Mathematical Society &lt;strong&gt;119&lt;/strong&gt;, (1970).</aps>
+<bio1>Graumann G (1970) &lt;br /&gt;The imbedding of special incidence structures: preliminary report.&lt;br /&gt;Notices of the American Mathematical Society 119.</bio1>
+<harvard1>Graumann, G., 1970. The imbedding of special incidence structures: preliminary report. &lt;em&gt;Notices of the American Mathematical Society&lt;/em&gt;, 119.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Graumann, G. (1970). The imbedding of special incidence structures: preliminary report. &lt;em&gt;Notices of the American Mathematical Society&lt;/em&gt;, &lt;em&gt;119&lt;/em&gt;.&lt;/div&gt;</dgps>
+<ama>Graumann G. The imbedding of special incidence structures: preliminary report. &lt;em&gt;Notices of the American Mathematical Society&lt;/em&gt;. 1970;119.</ama>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776171</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776171</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776171</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,102 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Ländliche Entwicklung</title></titleInfo>
+
+
+
+
+
+<name type="personal">
+  <namePart type="given">Jürgen</namePart>
+  <namePart type="family">Breckenkamp</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">124680</identifier></name>
+<name type="personal">
+  <namePart type="given">Pitt</namePart>
+  <namePart type="family">Reitmaier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Oliver</namePart>
+  <namePart type="family">Razum</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">134970</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Oliver</namePart><namePart type="family">Razum</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Jürgen</namePart><namePart type="family">Breckenkamp</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Pitt</namePart><namePart type="family">Reitmaier</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>AG 3 Epidemiologie &amp; International Public Health</namePart>
+  <identifier type="unibi">21333</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Peter Lang Verlagsgruppe</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Kindergesundheit in Entwicklungsländern</title></titleInfo>
+<part><extent unit="pages">133-148</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Breckenkamp J, Reitmaier P, Razum O (2008)  &lt;br /&gt;In:  Kindergesundheit in Entwicklungsländern. Razum O, Breckenkamp J, Reitmaier P (Eds);Frankfurt/M.: Peter Lang Verlagsgruppe:  133-148.</default>
+<wels>Breckenkamp, J.; Reitmaier, P.; Razum, O. (2008): Ländliche Entwicklung. In: Oliver Razum; Jürgen Breckenkamp; Pitt Reitmaier (Hrsg.):  Kindergesundheit in Entwicklungsländern. Frankfurt/M.: Peter Lang Verlagsgruppe.  S. 133-148.</wels>
+<bio1>Breckenkamp J, Reitmaier P, Razum O (2008) &lt;br /&gt;Ländliche Entwicklung. &lt;br /&gt;In:  Kindergesundheit in Entwicklungsländern. Razum O, Breckenkamp J, Reitmaier P (Eds); Frankfurt/M.: Peter Lang Verlagsgruppe:  133-148.</bio1>
+<aps>J.  Breckenkamp, P.  Reitmaier, and O.  Razum, Ländliche Entwicklung, in &lt;em&gt;Kindergesundheit in Entwicklungsländern&lt;/em&gt;, edited by O.  Razum, et al. (Peter Lang Verlagsgruppe, Frankfurt/m., 2008), p. 133-148.</aps>
+<ama>Breckenkamp J, Reitmaier P, Razum O. Ländliche Entwicklung. In: Razum O, Breckenkamp J, Reitmaier P, eds. &lt;em&gt;Kindergesundheit in Entwicklungsländern&lt;/em&gt;. Frankfurt/M.: Peter Lang Verlagsgruppe;  2008: 133-148.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Breckenkamp, J., Reitmaier, P. &amp;amp; Razum, O. (2008). Ländliche Entwicklung. &lt;em&gt;Kindergesundheit in Entwicklungsländern&lt;/em&gt; (S. 133-148). Frankfurt/M.: Peter Lang Verlagsgruppe.&lt;/div&gt;</dgps>
+<harvard1>Breckenkamp, J., Reitmaier, P., &amp;amp; Razum, O., 2008. Ländliche Entwicklung. In O.  Razum, J.  Breckenkamp, &amp;amp; P.  Reitmaier, eds. &lt;em&gt;Kindergesundheit in Entwicklungsländern&lt;/em&gt;.  Frankfurt/M.: Peter Lang Verlagsgruppe, pp. 133-148.</harvard1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Breckenkamp, Jürgen, Reitmaier, Pitt, and Razum, Oliver. 2008. “Ländliche Entwicklung”. In &lt;em&gt;Kindergesundheit in Entwicklungsländern&lt;/em&gt;, ed. Oliver Razum, Jürgen Breckenkamp, and Pitt Reitmaier, 133-148. Frankfurt/M.: Peter Lang Verlagsgruppe.&lt;/div&gt;</chicago>
+<frontiers>Breckenkamp, J., Reitmaier, P., and Razum, O. (2008). “Ländliche Entwicklung” in &lt;em&gt;Kindergesundheit in Entwicklungsländern&lt;/em&gt;, ed. O.  Razum, J.  Breckenkamp, and P.  Reitmaier (Frankfurt/M.: Peter Lang Verlagsgruppe), 133-148.</frontiers>
+<angewandte-chemie>J.  Breckenkamp, P.  Reitmaier, and O.  Razum, in &lt;em&gt;Kindergesundheit in Entwicklungsländern&lt;/em&gt; (Eds.: O. Razum, J. Breckenkamp, P. Reitmaier), Peter Lang Verlagsgruppe, Frankfurt/M., &lt;strong&gt;2008&lt;/strong&gt;, p. 133-148.</angewandte-chemie>
+<apa>Breckenkamp, J., Reitmaier, P., &amp;amp; Razum, O. (2008). Ländliche Entwicklung. In O.  Razum, J.  Breckenkamp, &amp;amp; P.  Reitmaier (Eds.), &lt;em&gt;Kindergesundheit in Entwicklungsländern&lt;/em&gt; (pp. 133-148). Frankfurt/M.: Peter Lang Verlagsgruppe.</apa>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Breckenkamp, J., Reitmaier, P., &amp;amp; Razum, O. (2008). Ländliche Entwicklung. In O.  Razum, J.  Breckenkamp, &amp;amp; P.  Reitmaier (Eds.), &lt;em&gt;Kindergesundheit in Entwicklungsländern&lt;/em&gt; (pp. 133-148). Frankfurt/M.: Peter Lang Verlagsgruppe.&lt;/div&gt;</apa_indent>
+<lncs>Breckenkamp, J., Reitmaier, P., Razum, O.: Ländliche Entwicklung. In: Razum, O., Breckenkamp, J., and Reitmaier, P. (eds.) Kindergesundheit in Entwicklungsländern. p. 133-148. Peter Lang Verlagsgruppe, Frankfurt/M. (2008).</lncs>
+<mla>Breckenkamp, Jürgen, Reitmaier, Pitt, and Razum, Oliver. “Ländliche Entwicklung”. &lt;em&gt;Kindergesundheit in Entwicklungsländern&lt;/em&gt;. Ed. Oliver Razum, Jürgen Breckenkamp, and Pitt Reitmaier. Frankfurt/M.: Peter Lang Verlagsgruppe, 2008. 133-148.</mla>
+<ieee>J. Breckenkamp, P. Reitmaier, and O. Razum, “Ländliche Entwicklung”, &lt;em&gt;Kindergesundheit in Entwicklungsländern&lt;/em&gt;, O. Razum, J. Breckenkamp, and P. Reitmaier, eds.,  Frankfurt/M.: Peter Lang Verlagsgruppe, 2008,  pp.133-148.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1923173</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-12-01T10:48:53Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2013-07-10T10:57:42Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1923173</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1923173</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

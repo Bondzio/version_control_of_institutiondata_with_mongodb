@@ -1,0 +1,102 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Bidding for envy-freeness: A procedural approach to n-player fair-division problems</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Claus-Jochen</namePart>
+  <namePart type="family">Haake</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">63284</identifier></name>
+<name type="personal">
+  <namePart type="given">Matthias G.</namePart>
+  <namePart type="family">Raith</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Francis E</namePart>
+  <namePart type="family">Su</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10053</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We develop a procedure for implementing an efficient and envy-free allocation of m objects among n individuals with the possibility of monetary side-payments, assuming that players have quasi-linear utility functions. The procedure eliminates envy by compensating envious players. It is fully descriptive and says explicitly which compensations should be made, and in what order. Moreover, it is simple enough to be carried out without computer support. We formally characterize the properties of the procedure, show how it establishes envy-freeness with minimal resources, and demonstrate its application to a wide class of fair-division problems.</abstract>
+
+<originInfo><publisher>SPRINGER-VERLAG</publisher><dateIssued encoding="w3cdtf">2002</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>SOCIAL CHOICE AND WELFARE</title></titleInfo>
+  <identifier type="issn">0176-1714</identifier>
+  <identifier type="eIssn">1432-217X</identifier>
+  <identifier type="ISI">000178746900003</identifier><identifier type="doi">10.1007/s003550100149</identifier>
+<part><detail type="volume"><number>19</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">723-749</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Haake, Claus-Jochen, Raith, Matthias G., and Su, Francis E. 2002. “Bidding for envy-freeness: A procedural approach to n-player fair-division problems”. &lt;em&gt;SOCIAL CHOICE AND WELFARE&lt;/em&gt; 19 (4): 723-749.&lt;/div&gt;</chicago>
+<frontiers>Haake, C. - J., Raith, M. G., and Su, F. E. (2002). Bidding for envy-freeness: A procedural approach to n-player fair-division problems. &lt;em&gt;SOCIAL CHOICE AND WELFARE&lt;/em&gt; 19, 723-749.</frontiers>
+<apa>Haake, C. - J., Raith, M. G., &amp;amp; Su, F. E. (2002). Bidding for envy-freeness: A procedural approach to n-player fair-division problems. &lt;em&gt;SOCIAL CHOICE AND WELFARE&lt;/em&gt;, &lt;em&gt;19&lt;/em&gt;(4), 723-749.</apa>
+<angewandte-chemie>C. - J.  Haake, M. G.  Raith, and F. E.  Su, “Bidding for envy-freeness: A procedural approach to n-player fair-division problems”, &lt;em&gt;SOCIAL CHOICE AND WELFARE&lt;/em&gt;, &lt;strong&gt;2002&lt;/strong&gt;, &lt;em&gt;19&lt;/em&gt;, 723-749.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Haake, C. - J., Raith, M. G., &amp;amp; Su, F. E. (2002). Bidding for envy-freeness: A procedural approach to n-player fair-division problems. &lt;em&gt;SOCIAL CHOICE AND WELFARE&lt;/em&gt;, &lt;em&gt;19&lt;/em&gt;(4), 723-749.&lt;/div&gt;</apa_indent>
+<mla>Haake, Claus-Jochen, Raith, Matthias G., and Su, Francis E. “Bidding for envy-freeness: A procedural approach to n-player fair-division problems”. &lt;em&gt;SOCIAL CHOICE AND WELFARE&lt;/em&gt; 19.4 (2002): 723-749.</mla>
+<lncs> Haake, C.-J., Raith, M.G., Su, F.E.: Bidding for envy-freeness: A procedural approach to n-player fair-division problems. SOCIAL CHOICE AND WELFARE. 19, 723-749 (2002).</lncs>
+<ieee> C.-J. Haake, M.G. Raith, and F.E. Su, “Bidding for envy-freeness: A procedural approach to n-player fair-division problems”, &lt;em&gt;SOCIAL CHOICE AND WELFARE&lt;/em&gt;,  vol. 19, 2002,  pp. 723-749.</ieee>
+<default>Haake C-J, Raith MG, Su FE (2002) &lt;br /&gt;SOCIAL CHOICE AND WELFARE 19(4): 723-749.</default>
+<wels>Haake, C. - J.; Raith, M. G.; Su, F. E. (2002): Bidding for envy-freeness: A procedural approach to n-player fair-division problems &lt;em&gt;SOCIAL CHOICE AND WELFARE&lt;/em&gt;,19:(4): 723-749.</wels>
+<aps> C. - J.  Haake, M. G.  Raith, and F. E.  Su, Bidding for envy-freeness: A procedural approach to n-player fair-division problems, SOCIAL CHOICE AND WELFARE &lt;strong&gt;19&lt;/strong&gt;, 723-749 (2002).</aps>
+<bio1>Haake C-J, Raith MG, Su FE (2002) &lt;br /&gt;Bidding for envy-freeness: A procedural approach to n-player fair-division problems.&lt;br /&gt;SOCIAL CHOICE AND WELFARE 19(4): 723-749.</bio1>
+<harvard1>Haake, C.-J., Raith, M.G., &amp;amp; Su, F.E., 2002. Bidding for envy-freeness: A procedural approach to n-player fair-division problems. &lt;em&gt;SOCIAL CHOICE AND WELFARE&lt;/em&gt;, 19(4), p 723-749.</harvard1>
+<ama>Haake C-J, Raith MG, Su FE. Bidding for envy-freeness: A procedural approach to n-player fair-division problems. &lt;em&gt;SOCIAL CHOICE AND WELFARE&lt;/em&gt;. 2002;19(4):723-749.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Haake, C.-J., Raith, M.G. &amp;amp; Su, F.E. (2002). Bidding for envy-freeness: A procedural approach to n-player fair-division problems. &lt;em&gt;SOCIAL CHOICE AND WELFARE&lt;/em&gt;, &lt;em&gt;19&lt;/em&gt;(4), 723-749. SPRINGER-VERLAG. doi:10.1007/s003550100149.&lt;/div&gt;</dgps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1613374</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:00:35Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-09-21T12:58:58Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1613374</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1613374</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

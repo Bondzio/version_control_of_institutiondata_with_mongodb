@@ -1,0 +1,99 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Interacting quantum and classical continuous systems - I. The piecewise deterministic dynamics</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Philippe</namePart>
+  <namePart type="family">Blanchard</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40322</identifier></name>
+<name type="personal">
+  <namePart type="given">R</namePart>
+  <namePart type="family">Olkiewicz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Mathematische Physik</namePart>
+  <identifier type="unibi">29104678</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">A mathematical construction of a Markov-Feller process associated with a completely positive coupling between classical and quantum systems is proposed. The example of the free classical particle on the Lobatchevski space Q interacting with the quantum system characterized by coherent states on Q is considered.</abstract>
+
+<originInfo><publisher>KLUWER ACADEMIC/PLENUM PUBL</publisher><dateIssued encoding="w3cdtf">1999</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>deterministic process</topic><topic>piecewise</topic><topic>dissipative dynamics</topic><topic>completely positive coupling</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF STATISTICAL PHYSICS</title></titleInfo>
+  <identifier type="issn">0022-4715</identifier>
+  <identifier type="ISI">000080506000010</identifier><identifier type="doi">10.1023/A:1004587117602</identifier>
+<part><detail type="volume"><number>94</number></detail><detail type="issue"><number>5/6</number></detail><extent unit="pages">913-931</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Blanchard, P. &amp;amp; Olkiewicz, R. (1999). Interacting quantum and classical continuous systems - I. The piecewise deterministic dynamics. &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt;, &lt;em&gt;94&lt;/em&gt;(5/6), 913-931. KLUWER ACADEMIC/PLENUM PUBL. doi:10.1023/A:1004587117602.&lt;/div&gt;</dgps>
+<ama>Blanchard P, Olkiewicz R. Interacting quantum and classical continuous systems - I. The piecewise deterministic dynamics. &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt;. 1999;94(5/6):913-931.</ama>
+<harvard1>Blanchard, P., &amp;amp; Olkiewicz, R., 1999. Interacting quantum and classical continuous systems - I. The piecewise deterministic dynamics. &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt;, 94(5/6), p 913-931.</harvard1>
+<aps>P.  Blanchard and R.  Olkiewicz, Interacting quantum and classical continuous systems - I. The piecewise deterministic dynamics, JOURNAL OF STATISTICAL PHYSICS &lt;strong&gt;94&lt;/strong&gt;, 913-931 (1999).</aps>
+<bio1>Blanchard P, Olkiewicz R (1999) &lt;br /&gt;Interacting quantum and classical continuous systems - I. The piecewise deterministic dynamics.&lt;br /&gt;JOURNAL OF STATISTICAL PHYSICS 94(5/6): 913-931.</bio1>
+<wels>Blanchard, P.; Olkiewicz, R. (1999): Interacting quantum and classical continuous systems - I. The piecewise deterministic dynamics &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt;,94:(5/6): 913-931.</wels>
+<default>Blanchard P, Olkiewicz R (1999) &lt;br /&gt;JOURNAL OF STATISTICAL PHYSICS 94(5/6): 913-931.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Blanchard, P., &amp;amp; Olkiewicz, R. (1999). Interacting quantum and classical continuous systems - I. The piecewise deterministic dynamics. &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt;, &lt;em&gt;94&lt;/em&gt;(5/6), 913-931.&lt;/div&gt;</apa_indent>
+<ieee>P. Blanchard and R. Olkiewicz, “Interacting quantum and classical continuous systems - I. The piecewise deterministic dynamics”, &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt;,  vol. 94, 1999,  pp. 913-931.</ieee>
+<lncs>Blanchard, P., Olkiewicz, R.: Interacting quantum and classical continuous systems - I. The piecewise deterministic dynamics. JOURNAL OF STATISTICAL PHYSICS. 94, 913-931 (1999).</lncs>
+<mla>Blanchard, Philippe, and Olkiewicz, R. “Interacting quantum and classical continuous systems - I. The piecewise deterministic dynamics”. &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt; 94.5/6 (1999): 913-931.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Blanchard, Philippe, and Olkiewicz, R. 1999. “Interacting quantum and classical continuous systems - I. The piecewise deterministic dynamics”. &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt; 94 (5/6): 913-931.&lt;/div&gt;</chicago>
+<angewandte-chemie>P.  Blanchard, and R.  Olkiewicz, “Interacting quantum and classical continuous systems - I. The piecewise deterministic dynamics”, &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt;, &lt;strong&gt;1999&lt;/strong&gt;, &lt;em&gt;94&lt;/em&gt;, 913-931.</angewandte-chemie>
+<apa>Blanchard, P., &amp;amp; Olkiewicz, R. (1999). Interacting quantum and classical continuous systems - I. The piecewise deterministic dynamics. &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt;, &lt;em&gt;94&lt;/em&gt;(5/6), 913-931.</apa>
+<frontiers>Blanchard, P., and Olkiewicz, R. (1999). Interacting quantum and classical continuous systems - I. The piecewise deterministic dynamics. &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt; 94, 913-931.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1622966</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:05:55Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-17T14:10:38Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1622966</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1622966</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

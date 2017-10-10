@@ -1,0 +1,153 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Spatially resolved ferromagnetic resonance: Imaging of ferromagnetic eigenmodes</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Puzic</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">B</namePart>
+  <namePart type="family">Van Waeyenberge</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">KW</namePart>
+  <namePart type="family">Chou</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">P</namePart>
+  <namePart type="family">Fischer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">H</namePart>
+  <namePart type="family">Stoll</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">G</namePart>
+  <namePart type="family">Schutz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">T</namePart>
+  <namePart type="family">Tyliszczak</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Karsten</namePart>
+  <namePart type="family">Rott</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40196</identifier></name>
+<name type="personal">
+  <namePart type="given">H</namePart>
+  <namePart type="family">Bruckl</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Günter</namePart>
+  <namePart type="family">Reiss</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40207</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-0918-5940</description></name>
+<name type="personal">
+  <namePart type="given">I</namePart>
+  <namePart type="family">Neudecker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">T</namePart>
+  <namePart type="family">Haug</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Buess</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">CH</namePart>
+  <namePart type="family">Back</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Dünne Schichten &amp; Physik der Nanostrukturen</namePart>
+  <identifier type="unibi">28536538</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  G. Reiss</namePart>
+  <identifier type="unibi">33079602</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Fast magnetization dynamics of ferromagnetic elements on sub-micron length scales is currently attracting substantial scientific interest. Studying the ferromagnetic eigenmodes in such systems provides valuable information in order to trace back the dynamical response to the underlying micromagnetic properties. The inherent time structure of third generation synchrotron sources allows for time-resolved imaging (time resolution: 70-100 ps) of magnetization dynamics at soft x-ray microscopes (lateral resolution down to 20 nm). Stroboscopic pump-and-probe experiments were performed on micron-sized Permalloy samples at a full-field magnetic transmission x-ray microscope (XM-1, beamline 6.1.2) at the ALS at Berkeley, CA. Complementary to these time-domain experiments a frequency-domain &quot;spatially resolved ferromagnetic resonance&quot; (SR-FMR) technique was applied to magnetic x-ray microscopy. In contrast to time-domain measurements which reflect a broadband excitation of the magnetization, the frequency-domain SR-FMR technique allows for detailed studies of specific ferrornagnetic eigenmodes. First SR-FMR experiments at a scanning x-ray transmission microscope (STXM, ALS, BL 11.0.2) are reported. The sample, a 1 X 1 mu m(2) Permalloy pattern, was excited by an alternating magnetic field with a frequency of 250 MHz. By varying the phase relation between the sine excitation and the x-ray flashes of the synchrotron, the dynamics of a vortex motion eigenmode was investigated in time and space. (c) 2005 American Institute of Physics.</abstract>
+
+<originInfo><publisher>AMER INST PHYSICS</publisher><dateIssued encoding="w3cdtf">2005</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF APPLIED PHYSICS</title></titleInfo>
+  <identifier type="issn">0021-8979</identifier>
+  <identifier type="ISI">000230168300281</identifier><identifier type="doi">10.1063/1.1860971</identifier>
+<part><detail type="volume"><number>97</number></detail><detail type="issue"><number>10</number></detail>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Puzic, A., Van Waeyenberge, B., Chou, K. W., Fischer, P., Stoll, H., Schutz, G., Tyliszczak, T., et al. (2005). Spatially resolved ferromagnetic resonance: Imaging of ferromagnetic eigenmodes. &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;, &lt;em&gt;97&lt;/em&gt;(10).&lt;/div&gt;</apa_indent>
+<mla>Puzic, A, Van Waeyenberge, B, Chou, KW, Fischer, P, Stoll, H, Schutz, G, Tyliszczak, T, Rott, Karsten, Bruckl, H, Reiss, Günter, Neudecker, I, Haug, T, Buess, M, and Back, CH. “Spatially resolved ferromagnetic resonance: Imaging of ferromagnetic eigenmodes”. &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;. AMER INST PHYSICS, 2005.Vol. 97.</mla>
+<lncs>Puzic, A., Van Waeyenberge, B., Chou, K.W., Fischer, P., Stoll, H., Schutz, G., Tyliszczak, T., Rott, K., Bruckl, H., Reiss, G., Neudecker, I., Haug, T., Buess, M., Back, C.H.: Spatially resolved ferromagnetic resonance: Imaging of ferromagnetic eigenmodes. JOURNAL OF APPLIED PHYSICS. 97,  AMER INST PHYSICS (2005).</lncs>
+<ieee>A. Puzic, et al., “Spatially resolved ferromagnetic resonance: Imaging of ferromagnetic eigenmodes”, &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;, vol. 97, AMER INST PHYSICS, 2005.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Puzic, A, Van Waeyenberge, B, Chou, KW, Fischer, P, Stoll, H, Schutz, G, Tyliszczak, T, et al. 2005. “Spatially resolved ferromagnetic resonance: Imaging of ferromagnetic eigenmodes”. In &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;. Vol. 97. AMER INST PHYSICS.&lt;/div&gt;</chicago>
+<frontiers>Puzic, A., Van Waeyenberge, B., Chou, K. W., Fischer, P., Stoll, H., Schutz, G., Tyliszczak, T., Rott, K., Bruckl, H., Reiss, G., et al. (2005). “Spatially resolved ferromagnetic resonance: Imaging of ferromagnetic eigenmodes” in &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;, vol. 97, (AMER INST PHYSICS).</frontiers>
+<angewandte-chemie>A.  Puzic, B.  Van Waeyenberge, K. W.  Chou, P.  Fischer, H.  Stoll, G.  Schutz, T.  Tyliszczak, K.  Rott, H.  Bruckl, G.  Reiss, et al., in &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;, Amer Inst Physics, &lt;strong&gt;2005&lt;/strong&gt;.</angewandte-chemie>
+<apa>Puzic, A., Van Waeyenberge, B., Chou, K. W., Fischer, P., Stoll, H., Schutz, G., Tyliszczak, T., et al. (2005). Spatially resolved ferromagnetic resonance: Imaging of ferromagnetic eigenmodes. &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;, &lt;em&gt;97&lt;/em&gt;(10).</apa>
+<bio1>Puzic A, Van Waeyenberge B, Chou KW, Fischer P, Stoll H, Schutz G, Tyliszczak T, Rott K, Bruckl H, Reiss G, Neudecker I, Haug T, Buess M, Back CH (2005) &lt;br /&gt;Spatially resolved ferromagnetic resonance: Imaging of ferromagnetic eigenmodes. &lt;br /&gt;In:  JOURNAL OF APPLIED PHYSICS. 97. AMER INST PHYSICS.</bio1>
+<aps>A.  Puzic, et al., Spatially resolved ferromagnetic resonance: Imaging of ferromagnetic eigenmodes, in &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;, &lt;strong&gt;97&lt;/strong&gt; (AMER INST PHYSICS, 2005).</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Puzic, A., Van Waeyenberge, B., Chou, K.W., Fischer, P., Stoll, H., Schutz, G., Tyliszczak, T., Rott, K., Bruckl, H., Reiss, G., Neudecker, I., Haug, T., Buess, M. &amp;amp; Back, C.H. (2005). Spatially resolved ferromagnetic resonance: Imaging of ferromagnetic eigenmodes. &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;. AMER INST PHYSICS. doi:10.1063/1.1860971.&lt;/div&gt;</dgps>
+<ama>Puzic A, Van Waeyenberge B, Chou KW, et al. Spatially resolved ferromagnetic resonance: Imaging of ferromagnetic eigenmodes. In:  &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;. Vol 97. AMER INST PHYSICS;  2005.</ama>
+<harvard1>Puzic, A., et al., 2005. Spatially resolved ferromagnetic resonance: Imaging of ferromagnetic eigenmodes. In &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;. no.97  AMER INST PHYSICS.</harvard1>
+<default>Puzic A, Van Waeyenberge B, Chou KW, Fischer P, Stoll H, Schutz G, Tyliszczak T, Rott K, Bruckl H, Reiss G, Neudecker I, et al. (2005)  &lt;br /&gt;In:  JOURNAL OF APPLIED PHYSICS. 97. AMER INST PHYSICS.</default>
+<wels>Puzic, A.; Van Waeyenberge, B.; Chou, K. W.; Fischer, P.; Stoll, H.; Schutz, G.; Tyliszczak, T.; Rott, K.; Bruckl, H.; Reiss, G.; Neudecker, I.; Haug, T.; Buess, M.; Back, C. H. (2005): Spatially resolved ferromagnetic resonance: Imaging of ferromagnetic eigenmodes. In: JOURNAL OF APPLIED PHYSICS. AMER INST PHYSICS. (97).</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1603060</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:39:46Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-15T09:37:13Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1603060</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1603060</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

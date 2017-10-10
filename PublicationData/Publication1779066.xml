@@ -1,0 +1,128 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Politische Dimensionen und Leitbilder</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Irene</namePart>
+  <namePart type="family">Below</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">3674183</identifier></name>
+<name type="personal">
+  <namePart type="given">Joachim</namePart>
+  <namePart type="family">Borner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Werner</namePart>
+  <namePart type="family">Hennings</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">91885</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Soziologie</namePart>
+  <identifier type="unibi">10030</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Abteilung Kunst und Musik</namePart>
+  <identifier type="unibi">10035</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Arbeitsbereich 9 - Didaktik der Sozialwissenschaften</namePart>
+  <identifier type="unibi">5656122</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Wissenschaftliche Einrichtung Oberstufenkolleg</namePart>
+  <identifier type="unibi">11292831</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Hennings_025.pdf">https://pub.uni-bielefeld.de/download/1779066/2312530</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1994</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Praxis der Umweltbildung</title></titleInfo>
+  <identifier type="isbn">3-921912-88-1</identifier><identifier type="urn">urn:nbn:de:0070-bipr-17031</identifier>
+<part><detail type="volume"><number>1: Ergebnisse der Tagung &apos;&apos;Praxis der Umweltbildung - Neue Ansätze auf der Sekundarstufe II in Ost- und Westdeutschland&apos;&apos;, 12. - 14. Mai 1993 im Oberstufen-Kolleg Bielefeld</number></detail><extent unit="pages">189-195</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>I.  Below, J.  Borner, and W.  Hennings, Politische Dimensionen und Leitbilder, in &lt;em&gt;Praxis der Umweltbildung&lt;/em&gt;, AMBOS-Sonderband, &lt;strong&gt;1: Ergebnisse der Tagung &apos;&apos;Praxis der Umweltbildung - Neue Ansätze auf der Sekundarstufe II in Ost- und Westdeutschland&apos;&apos;, 12. - 14. Mai 1993 im Oberstufen-Kolleg Bielefeld&lt;/strong&gt; (Bielefeld, 1994), p. 189-195.</aps>
+<bio1>Below I, Borner J, Hennings W (1994) &lt;br /&gt;Politische Dimensionen und Leitbilder. &lt;br /&gt;In:  Praxis der Umweltbildung.  AMBOS-Sonderband, 1: Ergebnisse der Tagung &apos;&apos;Praxis der Umweltbildung - Neue Ansätze auf der Sekundarstufe II in Ost- und Westdeutschland&apos;&apos;, 12. - 14. Mai 1993 im Oberstufen-Kolleg Bielefeld. Bielefeld:  189-195.</bio1>
+<harvard1>Below, I., Borner, J., &amp;amp; Hennings, W., 1994. Politische Dimensionen und Leitbilder. In &lt;em&gt;Praxis der Umweltbildung&lt;/em&gt;. AMBOS-Sonderband. no.1: Ergebnisse der Tagung &apos;&apos;Praxis der Umweltbildung - Neue Ansätze auf der Sekundarstufe II in Ost- und Westdeutschland&apos;&apos;, 12. - 14. Mai 1993 im Oberstufen-Kolleg Bielefeld  Bielefeld, pp. 189-195.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Below, I., Borner, J. &amp;amp; Hennings, W. (1994). Politische Dimensionen und Leitbilder (AMBOS-Sonderband). &lt;em&gt;Praxis der Umweltbildung&lt;/em&gt; (S. 189-195). Bielefeld.&lt;/div&gt;</dgps>
+<ama>Below I, Borner J, Hennings W. Politische Dimensionen und Leitbilder. In:  &lt;em&gt;Praxis der Umweltbildung&lt;/em&gt;. AMBOS-Sonderband. Vol 1: Ergebnisse der Tagung &apos;&apos;Praxis der Umweltbildung - Neue Ansätze auf der Sekundarstufe II in Ost- und Westdeutschland&apos;&apos;, 12. - 14. Mai 1993 im Oberstufen-Kolleg Bielefeld. Bielefeld;  1994: 189-195.</ama>
+<default>Below I, Borner J, Hennings W (1994)  &lt;br /&gt;In:  Praxis der Umweltbildung.  AMBOS-Sonderband, 1: Ergebnisse der Tagung &apos;&apos;Praxis der Umweltbildung - Neue Ansätze auf der Sekundarstufe II in Ost- und Westdeutschland&apos;&apos;, 12. - 14. Mai 1993 im Oberstufen-Kolleg Bielefeld. Bielefeld:  189-195.</default>
+<wels>Below, I.; Borner, J.; Hennings, W. (1994): Politische Dimensionen und Leitbilder. In: Praxis der Umweltbildung. Bielefeld. (AMBOS-Sonderband, 1: Ergebnisse der Tagung &apos;&apos;Praxis der Umweltbildung - Neue Ansätze auf der Sekundarstufe II in Ost- und Westdeutschland&apos;&apos;, 12. - 14. Mai 1993 im Oberstufen-Kolleg Bielefeld).  S. 189-195.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Below, I., Borner, J., &amp;amp; Hennings, W. (1994). Politische Dimensionen und Leitbilder. &lt;em&gt;Praxis der Umweltbildung&lt;/em&gt;, &lt;em&gt;1: Ergebnisse der Tagung &apos;&apos;Praxis der Umweltbildung - Neue Ansätze auf der Sekundarstufe II in Ost- und Westdeutschland&apos;&apos;, 12. - 14. Mai 1993 im Oberstufen-Kolleg Bielefeld&lt;/em&gt;, 189-195.&lt;/div&gt;</apa_indent>
+<lncs>Below, I., Borner, J., Hennings, W.: Politische Dimensionen und Leitbilder. Praxis der Umweltbildung. AMBOS-Sonderband. 1: Ergebnisse der Tagung &apos;&apos;Praxis der Umweltbildung - Neue Ansätze auf der Sekundarstufe II in Ost- und Westdeutschland&apos;&apos;, 12. - 14. Mai 1993 im Oberstufen-Kolleg Bielefeld, p. 189-195. Bielefeld (1994).</lncs>
+<mla>Below, Irene, Borner, Joachim, and Hennings, Werner. “Politische Dimensionen und Leitbilder”. &lt;em&gt;Praxis der Umweltbildung&lt;/em&gt;. Bielefeld, 1994.Vol. 1: Ergebnisse der Tagung &apos;&apos;Praxis der Umweltbildung - Neue Ansätze auf der Sekundarstufe II in Ost- und Westdeutschland&apos;&apos;, 12. - 14. Mai 1993 im Oberstufen-Kolleg Bielefeld. AMBOS-Sonderband. 189-195.</mla>
+<ieee>I. Below, J. Borner, and W. Hennings, “Politische Dimensionen und Leitbilder”, &lt;em&gt;Praxis der Umweltbildung&lt;/em&gt;, AMBOS-Sonderband, vol. 1: Ergebnisse der Tagung &apos;&apos;Praxis der Umweltbildung - Neue Ansätze auf der Sekundarstufe II in Ost- und Westdeutschland&apos;&apos;, 12. - 14. Mai 1993 im Oberstufen-Kolleg Bielefeld,  Bielefeld: 1994,  pp.189-195.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Below, Irene, Borner, Joachim, and Hennings, Werner. 1994. “Politische Dimensionen und Leitbilder”. In &lt;em&gt;Praxis der Umweltbildung&lt;/em&gt;, 1: Ergebnisse der Tagung &apos;&apos;Praxis der Umweltbildung - Neue Ansätze auf der Sekundarstufe II in Ost- und Westdeutschland&apos;&apos;, 12. - 14. Mai 1993 im Oberstufen-Kolleg Bielefeld:189-195. AMBOS-Sonderband. Bielefeld.&lt;/div&gt;</chicago>
+<frontiers>Below, I., Borner, J., and Hennings, W. (1994). “Politische Dimensionen und Leitbilder” in &lt;em&gt;Praxis der Umweltbildung&lt;/em&gt; AMBOS-Sonderband, vol. 1: Ergebnisse der Tagung &apos;&apos;Praxis der Umweltbildung - Neue Ansätze auf der Sekundarstufe II in Ost- und Westdeutschland&apos;&apos;, 12. - 14. Mai 1993 im Oberstufen-Kolleg Bielefeld, (Bielefeld), 189-195.</frontiers>
+<apa>Below, I., Borner, J., &amp;amp; Hennings, W. (1994). Politische Dimensionen und Leitbilder. &lt;em&gt;Praxis der Umweltbildung&lt;/em&gt;, &lt;em&gt;1: Ergebnisse der Tagung &apos;&apos;Praxis der Umweltbildung - Neue Ansätze auf der Sekundarstufe II in Ost- und Westdeutschland&apos;&apos;, 12. - 14. Mai 1993 im Oberstufen-Kolleg Bielefeld&lt;/em&gt;, 189-195.</apa>
+<angewandte-chemie>I.  Below, J.  Borner, and W.  Hennings, in &lt;em&gt;Praxis der Umweltbildung&lt;/em&gt;, Bielefeld, &lt;strong&gt;1994&lt;/strong&gt;, p. 189-195.</angewandte-chemie>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1779066</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-09-14T09:20:44Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1779066</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1779066</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book</genre>
+
+<titleInfo><title>A biography approach to theoretical demography</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Herwig</namePart>
+  <namePart type="family">Birg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">13197</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Emeriti und pensionierte WissenschaftlerInnen</namePart>
+  <identifier type="unibi">4009911</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bevölkerungs- und Gesundheitsforschung</namePart>
+  <identifier type="unibi">10056</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT3110.pdf">https://pub.uni-bielefeld.de/download/1782334/2313802</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Univ. Bielefeld, Inst. für Bevölkerungsforschung u. Sozialpolitik</publisher><dateIssued encoding="w3cdtf">1987</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Demographie</topic><topic>Biographie</topic>
+</subject>
+
+
+<relatedItem type="host">
+  <identifier type="isbn">3-923340-12-5</identifier><identifier type="urn">urn:nbn:de:0070-bipr-31108</identifier>
+<part>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>Birg H (1987) &lt;br /&gt;&lt;em&gt;A biography approach to theoretical demography&lt;/em&gt;. IBS-Materialien ; 23.&lt;br /&gt;Bielefeld: Univ. Bielefeld, Inst. für Bevölkerungsforschung u. Sozialpolitik.</bio1>
+<aps>H.  Birg, A biography approach to theoretical demography, IBS-Materialien ; 23 (Univ. Bielefeld, Inst. für Bevölkerungsforschung u. Sozialpolitik, Bielefeld, 1987).</aps>
+<ama>Birg H. &lt;em&gt;A biography approach to theoretical demography&lt;/em&gt;. IBS-Materialien ; 23. Bielefeld: Univ. Bielefeld, Inst. für Bevölkerungsforschung u. Sozialpolitik; 1987.</ama>
+<harvard1>Birg, H., 1987. &lt;em&gt;A biography approach to theoretical demography&lt;/em&gt;, IBS-Materialien ; 23, Bielefeld: Univ. Bielefeld, Inst. für Bevölkerungsforschung u. Sozialpolitik.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Birg, H. (1987). &lt;em&gt;A biography approach to theoretical demography&lt;/em&gt; (IBS-Materialien ; 23). Bielefeld: Univ. Bielefeld, Inst. für Bevölkerungsforschung u. Sozialpolitik.&lt;/div&gt;</dgps>
+<default>Birg H (1987)  IBS-Materialien ; 23.&lt;br /&gt;Bielefeld: Univ. Bielefeld, Inst. für Bevölkerungsforschung u. Sozialpolitik.</default>
+<wels>Birg, H. (1987): A biography approach to theoretical demography. Bielefeld: Univ. Bielefeld, Inst. für Bevölkerungsforschung u. Sozialpolitik.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Birg, H. (1987).  &lt;em&gt;A biography approach to theoretical demography&lt;/em&gt; (IBS-Materialien ; 23). Bielefeld: Univ. Bielefeld, Inst. für Bevölkerungsforschung u. Sozialpolitik.&lt;/div&gt;</apa_indent>
+<mla>Birg, Herwig. &lt;em&gt;A biography approach to theoretical demography&lt;/em&gt;. Bielefeld: Univ. Bielefeld, Inst. für Bevölkerungsforschung u. Sozialpolitik, 1987. IBS-Materialien ; 23.</mla>
+<lncs>Birg, H.: A biography approach to theoretical demography. IBS-Materialien ; 23. Univ. Bielefeld, Inst. für Bevölkerungsforschung u. Sozialpolitik, Bielefeld (1987).</lncs>
+<ieee>H. Birg, &lt;em&gt;A biography approach to theoretical demography&lt;/em&gt;, IBS-Materialien ; 23,  Bielefeld: Univ. Bielefeld, Inst. für Bevölkerungsforschung u. Sozialpolitik, 1987.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Birg, Herwig. 1987. &lt;em&gt;A biography approach to theoretical demography&lt;/em&gt;. IBS-Materialien ; 23. Bielefeld: Univ. Bielefeld, Inst. für Bevölkerungsforschung u. Sozialpolitik.&lt;/div&gt;</chicago>
+<frontiers>Birg, H. (1987). A biography approach to theoretical demography. &lt;em&gt;IBS-Materialien ; 23&lt;/em&gt;, Bielefeld: Univ. Bielefeld, Inst. für Bevölkerungsforschung u. Sozialpolitik.</frontiers>
+<apa>Birg, H. (1987).  &lt;em&gt;A biography approach to theoretical demography&lt;/em&gt; (IBS-Materialien ; 23). Bielefeld: Univ. Bielefeld, Inst. für Bevölkerungsforschung u. Sozialpolitik.</apa>
+<angewandte-chemie>H.  Birg, &lt;em&gt;A biography approach to theoretical demography&lt;/em&gt;, Univ. Bielefeld, Inst. Für Bevölkerungsforschung U. Sozialpolitik, Bielefeld, &lt;strong&gt;1987&lt;/strong&gt;.</angewandte-chemie>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1782334</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1782334</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1782334</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,121 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Improvement of a beta-glucanase activity test by taking into account the batch reactor balance of the test system</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Usama</namePart>
+  <namePart type="family">Beshay</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Gerd</namePart>
+  <namePart type="family">Miksch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11020</identifier></name>
+<name type="personal">
+  <namePart type="given">Erwin</namePart>
+  <namePart type="family">Flaschel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11014</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Research Group  E. Flaschel</namePart>
+  <identifier type="unibi">33086526</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Biochemie und Biotechnik</namePart>
+  <identifier type="unibi">4838684</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Fermentationstechnik</namePart>
+  <identifier type="unibi">10042</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Activity tests of enzymes are often applied for determining their concentration. In the easiest case, just one product concentration is measured after a given time. This often leads to nonlinear dependences of the apparent activity with enzyme protein concentration. A general solution of this problem consists in using the balance equation of the assay system, which commonly represents a batch reactor. Here, the balance equation of the batch for a general Michaelis Menten-type reaction kinetics is used as the calibration function. The correlation of the apparent activity and enzyme concentration was established by capturing the enzyme by means of metal chelate interaction owing to a hexahistidine tag attached to the beta-glucanase.</abstract>
+
+<originInfo><publisher>SPRINGER</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>batch reactor balance</topic><topic>reaction</topic><topic>kinetics</topic><topic>IMAC</topic><topic>beta-glucanase</topic><topic>enzyme activity</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>BIOPROCESS AND BIOSYSTEMS ENGINEERING</title></titleInfo>
+  <identifier type="issn">1615-7591</identifier>
+  <identifier type="eIssn">1615-7605</identifier>
+  <identifier type="MEDLINE">17351833</identifier>
+  <identifier type="ISI">000247783500005</identifier><identifier type="doi">10.1007/s00449-007-0121-4</identifier>
+<part><detail type="volume"><number>30</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">251-259</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>U.  Beshay, G.  Miksch, and E.  Flaschel, Improvement of a beta-glucanase activity test by taking into account the batch reactor balance of the test system, BIOPROCESS AND BIOSYSTEMS ENGINEERING &lt;strong&gt;30&lt;/strong&gt;, 251-259 (2007).</aps>
+<bio1>Beshay U, Miksch G, Flaschel E (2007) &lt;br /&gt;Improvement of a beta-glucanase activity test by taking into account the batch reactor balance of the test system.&lt;br /&gt;BIOPROCESS AND BIOSYSTEMS ENGINEERING 30(4): 251-259.</bio1>
+<ama>Beshay U, Miksch G, Flaschel E. Improvement of a beta-glucanase activity test by taking into account the batch reactor balance of the test system. &lt;em&gt;BIOPROCESS AND BIOSYSTEMS ENGINEERING&lt;/em&gt;. 2007;30(4):251-259.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Beshay, U., Miksch, G. &amp;amp; Flaschel, E. (2007). Improvement of a beta-glucanase activity test by taking into account the batch reactor balance of the test system. &lt;em&gt;BIOPROCESS AND BIOSYSTEMS ENGINEERING&lt;/em&gt;, &lt;em&gt;30&lt;/em&gt;(4), 251-259. SPRINGER. doi:10.1007/s00449-007-0121-4.&lt;/div&gt;</dgps>
+<harvard1>Beshay, U., Miksch, G., &amp;amp; Flaschel, E., 2007. Improvement of a beta-glucanase activity test by taking into account the batch reactor balance of the test system. &lt;em&gt;BIOPROCESS AND BIOSYSTEMS ENGINEERING&lt;/em&gt;, 30(4), p 251-259.</harvard1>
+<default>Beshay U, Miksch G, Flaschel E (2007) &lt;br /&gt;BIOPROCESS AND BIOSYSTEMS ENGINEERING 30(4): 251-259.</default>
+<wels>Beshay, U.; Miksch, G.; Flaschel, E. (2007): Improvement of a beta-glucanase activity test by taking into account the batch reactor balance of the test system &lt;em&gt;BIOPROCESS AND BIOSYSTEMS ENGINEERING&lt;/em&gt;,30:(4): 251-259.</wels>
+<mla>Beshay, Usama, Miksch, Gerd, and Flaschel, Erwin. “Improvement of a beta-glucanase activity test by taking into account the batch reactor balance of the test system”. &lt;em&gt;BIOPROCESS AND BIOSYSTEMS ENGINEERING&lt;/em&gt; 30.4 (2007): 251-259.</mla>
+<lncs>Beshay, U., Miksch, G., Flaschel, E.: Improvement of a beta-glucanase activity test by taking into account the batch reactor balance of the test system. BIOPROCESS AND BIOSYSTEMS ENGINEERING. 30, 251-259 (2007).</lncs>
+<ieee>U. Beshay, G. Miksch, and E. Flaschel, “Improvement of a beta-glucanase activity test by taking into account the batch reactor balance of the test system”, &lt;em&gt;BIOPROCESS AND BIOSYSTEMS ENGINEERING&lt;/em&gt;,  vol. 30, 2007,  pp. 251-259.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Beshay, U., Miksch, G., &amp;amp; Flaschel, E. (2007). Improvement of a beta-glucanase activity test by taking into account the batch reactor balance of the test system. &lt;em&gt;BIOPROCESS AND BIOSYSTEMS ENGINEERING&lt;/em&gt;, &lt;em&gt;30&lt;/em&gt;(4), 251-259.&lt;/div&gt;</apa_indent>
+<frontiers>Beshay, U., Miksch, G., and Flaschel, E. (2007). Improvement of a beta-glucanase activity test by taking into account the batch reactor balance of the test system. &lt;em&gt;BIOPROCESS AND BIOSYSTEMS ENGINEERING&lt;/em&gt; 30, 251-259.</frontiers>
+<apa>Beshay, U., Miksch, G., &amp;amp; Flaschel, E. (2007). Improvement of a beta-glucanase activity test by taking into account the batch reactor balance of the test system. &lt;em&gt;BIOPROCESS AND BIOSYSTEMS ENGINEERING&lt;/em&gt;, &lt;em&gt;30&lt;/em&gt;(4), 251-259.</apa>
+<angewandte-chemie>U.  Beshay, G.  Miksch, and E.  Flaschel, “Improvement of a beta-glucanase activity test by taking into account the batch reactor balance of the test system”, &lt;em&gt;BIOPROCESS AND BIOSYSTEMS ENGINEERING&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;30&lt;/em&gt;, 251-259.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Beshay, Usama, Miksch, Gerd, and Flaschel, Erwin. 2007. “Improvement of a beta-glucanase activity test by taking into account the batch reactor balance of the test system”. &lt;em&gt;BIOPROCESS AND BIOSYSTEMS ENGINEERING&lt;/em&gt; 30 (4): 251-259.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1593326</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:15:47Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2012-01-24T18:15:58Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1593326</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1593326</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,105 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Acid precipitation, effects on small lake chemistry: an attempt to analyse data presented by E. Mohn and R. Volden</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Peter</namePart>
+  <namePart type="family">Naeve</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">91053</identifier></name>
+<name type="personal">
+  <namePart type="given">D.</namePart>
+  <namePart type="family">Trenkler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">P.</namePart>
+  <namePart type="family">Wolf</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Jean-Francois</namePart><namePart type="family">Marcotorchino</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Wirtschaftswissenschaften</namePart>
+  <identifier type="unibi">10031</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Naeve_016.pdf">https://pub.uni-bielefeld.de/download/1781819/2313533</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>North Holland</publisher><dateIssued encoding="w3cdtf">1985</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Data analysis in real life environment</title></titleInfo><identifier type="urn">urn:nbn:de:0070-bipr-27967</identifier>
+<part><extent unit="pages">211-228</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Naeve, P.; Trenkler, D.; Wolf, P. (1985): Acid precipitation, effects on small lake chemistry: an attempt to analyse data presented by E. Mohn and R. Volden. In: Jean-Francois  Marcotorchino (Hrsg.):  Data analysis in real life environment. Amsterdam [u.a.]: North Holland. (Advanced series in management ; 8, ).  S. 211-228.</wels>
+<default>Naeve P, Trenkler D, Wolf P (1985)  &lt;br /&gt;In:  Data analysis in real life environment. Marcotorchino J-F (Ed); Advanced series in management ; 8, . Amsterdam [u.a.]: North Holland:  211-228.</default>
+<harvard1>Naeve, P., Trenkler, D., &amp;amp; Wolf, P., 1985. Acid precipitation, effects on small lake chemistry: an attempt to analyse data presented by E. Mohn and R. Volden. In J. - F.   Marcotorchino, ed. &lt;em&gt;Data analysis in real life environment&lt;/em&gt;. Advanced series in management ; 8.  Amsterdam [u.a.]: North Holland, pp. 211-228.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Naeve, P., Trenkler, D. &amp;amp; Wolf, P. (1985). Acid precipitation, effects on small lake chemistry: an attempt to analyse data presented by E. Mohn and R. Volden (Advanced series in management ; 8). &lt;em&gt;Data analysis in real life environment&lt;/em&gt; (S. 211-228). Amsterdam [u.a.]: North Holland.&lt;/div&gt;</dgps>
+<ama>Naeve P, Trenkler D, Wolf P. Acid precipitation, effects on small lake chemistry: an attempt to analyse data presented by E. Mohn and R. Volden. In: Marcotorchino J-F, ed. &lt;em&gt;Data analysis in real life environment&lt;/em&gt;. Advanced series in management ; 8. Amsterdam [u.a.]: North Holland;  1985: 211-228.</ama>
+<aps>P.  Naeve, D.  Trenkler, and P.  Wolf, Acid precipitation, effects on small lake chemistry: an attempt to analyse data presented by E. Mohn and R. Volden, in &lt;em&gt;Data analysis in real life environment&lt;/em&gt;, edited by J. - F.   Marcotorchino, Advanced series in management ; 8 (North Holland, Amsterdam [U.a.], 1985), p. 211-228.</aps>
+<bio1>Naeve P, Trenkler D, Wolf P (1985) &lt;br /&gt;Acid precipitation, effects on small lake chemistry: an attempt to analyse data presented by E. Mohn and R. Volden. &lt;br /&gt;In:  Data analysis in real life environment. Marcotorchino J-F (Ed); Advanced series in management ; 8,  Amsterdam [u.a.]: North Holland:  211-228.</bio1>
+<angewandte-chemie>P.  Naeve, D.  Trenkler, and P.  Wolf, in &lt;em&gt;Data analysis in real life environment&lt;/em&gt; (Ed.: J.-F.  Marcotorchino), North Holland, Amsterdam [u.a.], &lt;strong&gt;1985&lt;/strong&gt;, p. 211-228.</angewandte-chemie>
+<apa>Naeve, P., Trenkler, D., &amp;amp; Wolf, P. (1985). Acid precipitation, effects on small lake chemistry: an attempt to analyse data presented by E. Mohn and R. Volden. In J. - F.   Marcotorchino (Ed.), &lt;em&gt;Advanced series in management ; 8&lt;/em&gt;&lt;em&gt;. Data analysis in real life environment&lt;/em&gt; (pp. 211-228). Amsterdam [u.a.]: North Holland.</apa>
+<frontiers>Naeve, P., Trenkler, D., and Wolf, P. (1985). “Acid precipitation, effects on small lake chemistry: an attempt to analyse data presented by E. Mohn and R. Volden” in &lt;em&gt;Data analysis in real life environment&lt;/em&gt;, ed. J. - F.   Marcotorchino Advanced series in management ; 8 (Amsterdam [u.a.]: North Holland), 211-228.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Naeve, Peter, Trenkler, D., and Wolf, P. 1985. “Acid precipitation, effects on small lake chemistry: an attempt to analyse data presented by E. Mohn and R. Volden”. In &lt;em&gt;Data analysis in real life environment&lt;/em&gt;, ed. Jean-Francois  Marcotorchino, 211-228. Advanced series in management ; 8. Amsterdam [u.a.]: North Holland.&lt;/div&gt;</chicago>
+<ieee>P. Naeve, D. Trenkler, and P. Wolf, “Acid precipitation, effects on small lake chemistry: an attempt to analyse data presented by E. Mohn and R. Volden”, &lt;em&gt;Data analysis in real life environment&lt;/em&gt;, J.-F.  Marcotorchino, ed., Advanced series in management ; 8,  Amsterdam [u.a.]: North Holland, 1985,  pp.211-228.</ieee>
+<lncs>Naeve, P., Trenkler, D., Wolf, P.: Acid precipitation, effects on small lake chemistry: an attempt to analyse data presented by E. Mohn and R. Volden. In: Marcotorchino, J.-F. (ed.) Data analysis in real life environment. Advanced series in management ; 8. p. 211-228. North Holland, Amsterdam [u.a.] (1985).</lncs>
+<mla>Naeve, Peter, Trenkler, D., and Wolf, P. “Acid precipitation, effects on small lake chemistry: an attempt to analyse data presented by E. Mohn and R. Volden”. &lt;em&gt;Data analysis in real life environment&lt;/em&gt;. Ed. Jean-Francois  Marcotorchino. Amsterdam [u.a.]: North Holland, 1985. Advanced series in management ; 8. 211-228.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Naeve, P., Trenkler, D., &amp;amp; Wolf, P. (1985). Acid precipitation, effects on small lake chemistry: an attempt to analyse data presented by E. Mohn and R. Volden. In J. - F.   Marcotorchino (Ed.), &lt;em&gt;Advanced series in management ; 8&lt;/em&gt;&lt;em&gt;. Data analysis in real life environment&lt;/em&gt; (pp. 211-228). Amsterdam [u.a.]: North Holland.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781819</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781819</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781819</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

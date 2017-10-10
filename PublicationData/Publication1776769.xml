@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Meister Eckharts Lehre von der Gottesgeburt und vom Durchbruch in die Gottheit und seine Kritik mystischer Erfahrung</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Otto</namePart>
+  <namePart type="family">Langer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Margot</namePart><namePart type="family">Schmidt</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Linguistik und Literaturwissenschaft</namePart>
+  <identifier type="unibi">10019</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Langer_06.pdf">https://pub.uni-bielefeld.de/download/1776769/2312230</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Frommann-Holzboog</publisher><dateIssued encoding="w3cdtf">1986</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Eine Höhe, über die nichts geht:: spezielle Glaubenserfahrung in der Frauenmystik?</title></titleInfo>
+  <identifier type="isbn">3-7728-1152-3</identifier><identifier type="urn">urn:nbn:de:0070-bipr-12978</identifier>
+<part><extent unit="pages">135-161</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>Langer O (1986) &lt;br /&gt;Meister Eckharts Lehre von der Gottesgeburt und vom Durchbruch in die Gottheit und seine Kritik mystischer Erfahrung. &lt;br /&gt;In:  Eine Höhe, über die nichts geht:: spezielle Glaubenserfahrung in der Frauenmystik?. Schmidt M (Ed); Mystik in Geschichte und Gegenwart : Abt. 1, Christliche Mystik ; 4,  Stuttgart-Bad Cannstatt: Frommann-Holzboog:  135-161.</bio1>
+<aps>O.  Langer, Meister Eckharts Lehre von der Gottesgeburt und vom Durchbruch in die Gottheit und seine Kritik mystischer Erfahrung, in &lt;em&gt;Eine Höhe, über die nichts geht:: spezielle Glaubenserfahrung in der Frauenmystik?&lt;/em&gt;, edited by M.  Schmidt, Mystik in Geschichte und Gegenwart : Abt. 1, Christliche Mystik ; 4 (Frommann-Holzboog, Stuttgart-Bad Cannstatt, 1986), p. 135-161.</aps>
+<ama>Langer O. Meister Eckharts Lehre von der Gottesgeburt und vom Durchbruch in die Gottheit und seine Kritik mystischer Erfahrung. In: Schmidt M, ed. &lt;em&gt;Eine Höhe, über die nichts geht:: spezielle Glaubenserfahrung in der Frauenmystik?&lt;/em&gt;. Mystik in Geschichte und Gegenwart : Abt. 1, Christliche Mystik ; 4. Stuttgart-Bad Cannstatt: Frommann-Holzboog;  1986: 135-161.</ama>
+<harvard1>Langer, O., 1986. Meister Eckharts Lehre von der Gottesgeburt und vom Durchbruch in die Gottheit und seine Kritik mystischer Erfahrung. In M.  Schmidt, ed. &lt;em&gt;Eine Höhe, über die nichts geht:: spezielle Glaubenserfahrung in der Frauenmystik?&lt;/em&gt;. Mystik in Geschichte und Gegenwart : Abt. 1, Christliche Mystik ; 4.  Stuttgart-Bad Cannstatt: Frommann-Holzboog, pp. 135-161.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Langer, O. (1986). Meister Eckharts Lehre von der Gottesgeburt und vom Durchbruch in die Gottheit und seine Kritik mystischer Erfahrung (Mystik in Geschichte und Gegenwart : Abt. 1, Christliche Mystik ; 4). &lt;em&gt;Eine Höhe, über die nichts geht:: spezielle Glaubenserfahrung in der Frauenmystik?&lt;/em&gt; (S. 135-161). Stuttgart-Bad Cannstatt: Frommann-Holzboog.&lt;/div&gt;</dgps>
+<default>Langer O (1986)  &lt;br /&gt;In:  Eine Höhe, über die nichts geht:: spezielle Glaubenserfahrung in der Frauenmystik?. Schmidt M (Ed); Mystik in Geschichte und Gegenwart : Abt. 1, Christliche Mystik ; 4, . Stuttgart-Bad Cannstatt: Frommann-Holzboog:  135-161.</default>
+<wels>Langer, O. (1986): Meister Eckharts Lehre von der Gottesgeburt und vom Durchbruch in die Gottheit und seine Kritik mystischer Erfahrung. In: Margot Schmidt (Hrsg.):  Eine Höhe, über die nichts geht:: spezielle Glaubenserfahrung in der Frauenmystik?. Stuttgart-Bad Cannstatt: Frommann-Holzboog. (Mystik in Geschichte und Gegenwart : Abt. 1, Christliche Mystik ; 4, ).  S. 135-161.</wels>
+<mla>Langer, Otto. “Meister Eckharts Lehre von der Gottesgeburt und vom Durchbruch in die Gottheit und seine Kritik mystischer Erfahrung”. &lt;em&gt;Eine Höhe, über die nichts geht:: spezielle Glaubenserfahrung in der Frauenmystik?&lt;/em&gt;. Ed. Margot Schmidt. Stuttgart-Bad Cannstatt: Frommann-Holzboog, 1986. Mystik in Geschichte und Gegenwart : Abt. 1, Christliche Mystik ; 4. 135-161.</mla>
+<lncs>Langer, O.: Meister Eckharts Lehre von der Gottesgeburt und vom Durchbruch in die Gottheit und seine Kritik mystischer Erfahrung. In: Schmidt, M. (ed.) Eine Höhe, über die nichts geht:: spezielle Glaubenserfahrung in der Frauenmystik? Mystik in Geschichte und Gegenwart : Abt. 1, Christliche Mystik ; 4. p. 135-161. Frommann-Holzboog, Stuttgart-Bad Cannstatt (1986).</lncs>
+<ieee>O. Langer, “Meister Eckharts Lehre von der Gottesgeburt und vom Durchbruch in die Gottheit und seine Kritik mystischer Erfahrung”, &lt;em&gt;Eine Höhe, über die nichts geht:: spezielle Glaubenserfahrung in der Frauenmystik?&lt;/em&gt;, M. Schmidt, ed., Mystik in Geschichte und Gegenwart : Abt. 1, Christliche Mystik ; 4,  Stuttgart-Bad Cannstatt: Frommann-Holzboog, 1986,  pp.135-161.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Langer, O. (1986). Meister Eckharts Lehre von der Gottesgeburt und vom Durchbruch in die Gottheit und seine Kritik mystischer Erfahrung. In M.  Schmidt (Ed.), &lt;em&gt;Mystik in Geschichte und Gegenwart : Abt. 1, Christliche Mystik ; 4&lt;/em&gt;&lt;em&gt;. Eine Höhe, über die nichts geht:: spezielle Glaubenserfahrung in der Frauenmystik?&lt;/em&gt; (pp. 135-161). Stuttgart-Bad Cannstatt: Frommann-Holzboog.&lt;/div&gt;</apa_indent>
+<frontiers>Langer, O. (1986). “Meister Eckharts Lehre von der Gottesgeburt und vom Durchbruch in die Gottheit und seine Kritik mystischer Erfahrung” in &lt;em&gt;Eine Höhe, über die nichts geht:: spezielle Glaubenserfahrung in der Frauenmystik?&lt;/em&gt;, ed. M.  Schmidt Mystik in Geschichte und Gegenwart : Abt. 1, Christliche Mystik ; 4 (Stuttgart-Bad Cannstatt: Frommann-Holzboog), 135-161.</frontiers>
+<angewandte-chemie>O.  Langer, in &lt;em&gt;Eine Höhe, über die nichts geht:: spezielle Glaubenserfahrung in der Frauenmystik?&lt;/em&gt; (Ed.: M. Schmidt), Frommann-Holzboog, Stuttgart-Bad Cannstatt, &lt;strong&gt;1986&lt;/strong&gt;, p. 135-161.</angewandte-chemie>
+<apa>Langer, O. (1986). Meister Eckharts Lehre von der Gottesgeburt und vom Durchbruch in die Gottheit und seine Kritik mystischer Erfahrung. In M.  Schmidt (Ed.), &lt;em&gt;Mystik in Geschichte und Gegenwart : Abt. 1, Christliche Mystik ; 4&lt;/em&gt;&lt;em&gt;. Eine Höhe, über die nichts geht:: spezielle Glaubenserfahrung in der Frauenmystik?&lt;/em&gt; (pp. 135-161). Stuttgart-Bad Cannstatt: Frommann-Holzboog.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Langer, Otto. 1986. “Meister Eckharts Lehre von der Gottesgeburt und vom Durchbruch in die Gottheit und seine Kritik mystischer Erfahrung”. In &lt;em&gt;Eine Höhe, über die nichts geht:: spezielle Glaubenserfahrung in der Frauenmystik?&lt;/em&gt;, ed. Margot Schmidt, 135-161. Mystik in Geschichte und Gegenwart : Abt. 1, Christliche Mystik ; 4. Stuttgart-Bad Cannstatt: Frommann-Holzboog.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776769</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776769</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776769</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

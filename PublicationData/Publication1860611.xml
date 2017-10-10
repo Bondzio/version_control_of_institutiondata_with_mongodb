@@ -1,0 +1,104 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Latin America: The Dynamics of the Religious Field</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Heinrich</namePart>
+  <namePart type="family">Schäfer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">3971812</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10034</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">38670945</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Schaefer_2009_Rel-Field.pdf">https://pub.uni-bielefeld.de/download/1860611/2425626</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Verlag Bertelsmann Stiftung</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>What the World Believes: Analysis and Commentary on the Religion Monitor 2009</title></titleInfo>
+  <identifier type="isbn">978-3-89204-989-0</identifier><identifier type="urn">urn:nbn:de:0070-pub-18606111</identifier>
+<part><extent unit="pages">463-585</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schäfer, Heinrich. 2009. “Latin America: The Dynamics of the Religious Field”. In &lt;em&gt;What the World Believes: Analysis and Commentary on the Religion Monitor 2009&lt;/em&gt;, 463-585. Gütersloh: Verlag Bertelsmann Stiftung.&lt;/div&gt;</chicago>
+<frontiers>Schäfer, H. (2009). “Latin America: The Dynamics of the Religious Field” in &lt;em&gt;What the World Believes: Analysis and Commentary on the Religion Monitor 2009&lt;/em&gt; (Gütersloh: Verlag Bertelsmann Stiftung), 463-585.</frontiers>
+<apa>Schäfer, H. (2009). Latin America: The Dynamics of the Religious Field. &lt;em&gt;What the World Believes: Analysis and Commentary on the Religion Monitor 2009&lt;/em&gt;, 463-585.</apa>
+<angewandte-chemie>H.  Schäfer, in &lt;em&gt;What the World Believes: Analysis and Commentary on the Religion Monitor 2009&lt;/em&gt;, Verlag Bertelsmann Stiftung, Gütersloh, &lt;strong&gt;2009&lt;/strong&gt;, p. 463-585.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schäfer, H. (2009). Latin America: The Dynamics of the Religious Field. &lt;em&gt;What the World Believes: Analysis and Commentary on the Religion Monitor 2009&lt;/em&gt;, 463-585.&lt;/div&gt;</apa_indent>
+<lncs>Schäfer, H.: Latin America: The Dynamics of the Religious Field. What the World Believes: Analysis and Commentary on the Religion Monitor 2009. p. 463-585. Verlag Bertelsmann Stiftung, Gütersloh (2009).</lncs>
+<mla>Schäfer, Heinrich. “Latin America: The Dynamics of the Religious Field”. &lt;em&gt;What the World Believes: Analysis and Commentary on the Religion Monitor 2009&lt;/em&gt;. Gütersloh: Verlag Bertelsmann Stiftung, 2009. 463-585.</mla>
+<ieee>H. Schäfer, “Latin America: The Dynamics of the Religious Field”, &lt;em&gt;What the World Believes: Analysis and Commentary on the Religion Monitor 2009&lt;/em&gt;,  Gütersloh: Verlag Bertelsmann Stiftung, 2009,  pp.463-585.</ieee>
+<default>Schäfer H (2009)  &lt;br /&gt;In:  What the World Believes: Analysis and Commentary on the Religion Monitor 2009. Gütersloh: Verlag Bertelsmann Stiftung:  463-585.</default>
+<wels>Schäfer, H. (2009): Latin America: The Dynamics of the Religious Field. In: What the World Believes: Analysis and Commentary on the Religion Monitor 2009. Gütersloh: Verlag Bertelsmann Stiftung.  S. 463-585.</wels>
+<bio1>Schäfer H (2009) &lt;br /&gt;Latin America: The Dynamics of the Religious Field. &lt;br /&gt;In:  What the World Believes: Analysis and Commentary on the Religion Monitor 2009.  Gütersloh: Verlag Bertelsmann Stiftung:  463-585.</bio1>
+<aps>H.  Schäfer, Latin America: The Dynamics of the Religious Field, in &lt;em&gt;What the World Believes: Analysis and Commentary on the Religion Monitor 2009&lt;/em&gt; (Verlag Bertelsmann Stiftung, Gütersloh, 2009), p. 463-585.</aps>
+<ama>Schäfer H. Latin America: The Dynamics of the Religious Field. In:  &lt;em&gt;What the World Believes: Analysis and Commentary on the Religion Monitor 2009&lt;/em&gt;. Gütersloh: Verlag Bertelsmann Stiftung;  2009: 463-585.</ama>
+<harvard1>Schäfer, H., 2009. Latin America: The Dynamics of the Religious Field. In &lt;em&gt;What the World Believes: Analysis and Commentary on the Religion Monitor 2009&lt;/em&gt;.  Gütersloh: Verlag Bertelsmann Stiftung, pp. 463-585.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schäfer, H. (2009). Latin America: The Dynamics of the Religious Field. &lt;em&gt;What the World Believes: Analysis and Commentary on the Religion Monitor 2009&lt;/em&gt; (S. 463-585). Gütersloh: Verlag Bertelsmann Stiftung.&lt;/div&gt;</dgps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1860611</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-01-29T12:28:04Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-01-29T12:28:04Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1860611</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1860611</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

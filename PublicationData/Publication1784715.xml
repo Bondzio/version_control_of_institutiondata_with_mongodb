@@ -1,0 +1,110 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>World population projections for the 21st century</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Herwig</namePart>
+  <namePart type="family">Birg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">13197</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Herwig</namePart><namePart type="family">Birg</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Bruno</namePart><namePart type="family">Fritsch</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Vittorio</namePart><namePart type="family">Hösle</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Emeriti und pensionierte WissenschaftlerInnen</namePart>
+  <identifier type="unibi">4009911</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bevölkerungs- und Gesundheitsforschung</namePart>
+  <identifier type="unibi">10056</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT3983.pdf">https://pub.uni-bielefeld.de/download/1784715/2314529</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Inst. für Bevölkerungsforschung und Sozialpolitik, Univ. Bielefeld</publisher><dateIssued encoding="w3cdtf">1995</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Population, environment and sustainable livelihood: proceedings of symposion V, session 2 of the World Congress of Sociology, held at the University of Bielefeld, July 18 - 23, 1994</title></titleInfo>
+  <identifier type="isbn">3-923340-31-1</identifier><identifier type="urn">urn:nbn:de:0070-bipr-39836</identifier>
+<part><extent unit="pages">1-63</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Birg, H. (1995): World population projections for the 21st century. In: Herwig Birg; Bruno Fritsch; Vittorio Hösle (Hrsg.):  Population, environment and sustainable livelihood: proceedings of symposion V, session 2 of the World Congress of Sociology, held at the University of Bielefeld, July 18 - 23, 1994. Bielefeld: Inst. für Bevölkerungsforschung und Sozialpolitik, Univ. Bielefeld. (IBS-Materialien ; 37, ).  S. 1-63.</wels>
+<default>Birg H (1995)  &lt;br /&gt;In:  Population, environment and sustainable livelihood: proceedings of symposion V, session 2 of the World Congress of Sociology, held at the University of Bielefeld, July 18 - 23, 1994. Birg H, Fritsch B, Hösle V (Eds); IBS-Materialien ; 37, . Bielefeld: Inst. für Bevölkerungsforschung und Sozialpolitik, Univ. Bielefeld:  1-63.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Birg, H. (1995). World population projections for the 21st century (IBS-Materialien ; 37). &lt;em&gt;Population, environment and sustainable livelihood: proceedings of symposion V, session 2 of the World Congress of Sociology, held at the University of Bielefeld, July 18 - 23, 1994&lt;/em&gt; (S. 1-63). Bielefeld: Inst. für Bevölkerungsforschung und Sozialpolitik, Univ. Bielefeld.&lt;/div&gt;</dgps>
+<harvard1>Birg, H., 1995. World population projections for the 21st century. In H.  Birg, B.  Fritsch, &amp;amp; V.  Hösle, eds. &lt;em&gt;Population, environment and sustainable livelihood: proceedings of symposion V, session 2 of the World Congress of Sociology, held at the University of Bielefeld, July 18 - 23, 1994&lt;/em&gt;. IBS-Materialien ; 37.  Bielefeld: Inst. für Bevölkerungsforschung und Sozialpolitik, Univ. Bielefeld, pp. 1-63.</harvard1>
+<ama>Birg H. World population projections for the 21st century. In: Birg H, Fritsch B, Hösle V, eds. &lt;em&gt;Population, environment and sustainable livelihood: proceedings of symposion V, session 2 of the World Congress of Sociology, held at the University of Bielefeld, July 18 - 23, 1994&lt;/em&gt;. IBS-Materialien ; 37. Bielefeld: Inst. für Bevölkerungsforschung und Sozialpolitik, Univ. Bielefeld;  1995: 1-63.</ama>
+<bio1>Birg H (1995) &lt;br /&gt;World population projections for the 21st century. &lt;br /&gt;In:  Population, environment and sustainable livelihood: proceedings of symposion V, session 2 of the World Congress of Sociology, held at the University of Bielefeld, July 18 - 23, 1994. Birg H, Fritsch B, Hösle V (Eds); IBS-Materialien ; 37,  Bielefeld: Inst. für Bevölkerungsforschung und Sozialpolitik, Univ. Bielefeld:  1-63.</bio1>
+<aps>H.  Birg, World population projections for the 21st century, in &lt;em&gt;Population, environment and sustainable livelihood: proceedings of symposion V, session 2 of the World Congress of Sociology, held at the University of Bielefeld, July 18 - 23, 1994&lt;/em&gt;, edited by H.  Birg, et al., IBS-Materialien ; 37 (Inst. für Bevölkerungsforschung und Sozialpolitik, Univ. Bielefeld, Bielefeld, 1995), p. 1-63.</aps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Birg, Herwig. 1995. “World population projections for the 21st century”. In &lt;em&gt;Population, environment and sustainable livelihood: proceedings of symposion V, session 2 of the World Congress of Sociology, held at the University of Bielefeld, July 18 - 23, 1994&lt;/em&gt;, ed. Herwig Birg, Bruno Fritsch, and Vittorio Hösle, 1-63. IBS-Materialien ; 37. Bielefeld: Inst. für Bevölkerungsforschung und Sozialpolitik, Univ. Bielefeld.&lt;/div&gt;</chicago>
+<apa>Birg, H. (1995). World population projections for the 21st century. In H.  Birg, B.  Fritsch, &amp;amp; V.  Hösle (Eds.), &lt;em&gt;IBS-Materialien ; 37&lt;/em&gt;&lt;em&gt;. Population, environment and sustainable livelihood: proceedings of symposion V, session 2 of the World Congress of Sociology, held at the University of Bielefeld, July 18 - 23, 1994&lt;/em&gt; (pp. 1-63). Bielefeld: Inst. für Bevölkerungsforschung und Sozialpolitik, Univ. Bielefeld.</apa>
+<angewandte-chemie>H.  Birg, in &lt;em&gt;Population, environment and sustainable livelihood: proceedings of symposion V, session 2 of the World Congress of Sociology, held at the University of Bielefeld, July 18 - 23, 1994&lt;/em&gt; (Eds.: H. Birg, B. Fritsch, V. Hösle), Inst. Für Bevölkerungsforschung Und Sozialpolitik, Univ. Bielefeld, Bielefeld, &lt;strong&gt;1995&lt;/strong&gt;, p. 1-63.</angewandte-chemie>
+<frontiers>Birg, H. (1995). “World population projections for the 21st century” in &lt;em&gt;Population, environment and sustainable livelihood: proceedings of symposion V, session 2 of the World Congress of Sociology, held at the University of Bielefeld, July 18 - 23, 1994&lt;/em&gt;, ed. H.  Birg, B.  Fritsch, and V.  Hösle IBS-Materialien ; 37 (Bielefeld: Inst. für Bevölkerungsforschung und Sozialpolitik, Univ. Bielefeld), 1-63.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Birg, H. (1995). World population projections for the 21st century. In H.  Birg, B.  Fritsch, &amp;amp; V.  Hösle (Eds.), &lt;em&gt;IBS-Materialien ; 37&lt;/em&gt;&lt;em&gt;. Population, environment and sustainable livelihood: proceedings of symposion V, session 2 of the World Congress of Sociology, held at the University of Bielefeld, July 18 - 23, 1994&lt;/em&gt; (pp. 1-63). Bielefeld: Inst. für Bevölkerungsforschung und Sozialpolitik, Univ. Bielefeld.&lt;/div&gt;</apa_indent>
+<ieee>H. Birg, “World population projections for the 21st century”, &lt;em&gt;Population, environment and sustainable livelihood: proceedings of symposion V, session 2 of the World Congress of Sociology, held at the University of Bielefeld, July 18 - 23, 1994&lt;/em&gt;, H. Birg, B. Fritsch, and V. Hösle, eds., IBS-Materialien ; 37,  Bielefeld: Inst. für Bevölkerungsforschung und Sozialpolitik, Univ. Bielefeld, 1995,  pp.1-63.</ieee>
+<mla>Birg, Herwig. “World population projections for the 21st century”. &lt;em&gt;Population, environment and sustainable livelihood: proceedings of symposion V, session 2 of the World Congress of Sociology, held at the University of Bielefeld, July 18 - 23, 1994&lt;/em&gt;. Ed. Herwig Birg, Bruno Fritsch, and Vittorio Hösle. Bielefeld: Inst. für Bevölkerungsforschung und Sozialpolitik, Univ. Bielefeld, 1995. IBS-Materialien ; 37. 1-63.</mla>
+<lncs>Birg, H.: World population projections for the 21st century. In: Birg, H., Fritsch, B., and Hösle, V. (eds.) Population, environment and sustainable livelihood: proceedings of symposion V, session 2 of the World Congress of Sociology, held at the University of Bielefeld, July 18 - 23, 1994. IBS-Materialien ; 37. p. 1-63. Inst. für Bevölkerungsforschung und Sozialpolitik, Univ. Bielefeld, Bielefeld (1995).</lncs>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1784715</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1784715</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1784715</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

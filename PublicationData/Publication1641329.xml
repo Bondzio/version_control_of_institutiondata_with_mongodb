@@ -1,0 +1,125 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>X-RAY STRUCTURES OF HUMAN NEUTROPHIL COLLAGENASE COMPLEXED WITH PEPTIDE HYDROXAMATE AND PEPTIDE THIOL INHIBITORS - IMPLICATIONS FOR SUBSTRATE-BINDING AND RATIONAL DRUG DESIGN</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">F</namePart>
+  <namePart type="family">GRAMS</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">P</namePart>
+  <namePart type="family">REINEMER</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">JC</namePart>
+  <namePart type="family">POWERS</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">T</namePart>
+  <namePart type="family">KLEINE</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">PIEPER</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Harald</namePart>
+  <namePart type="family">Tschesche</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">19406</identifier></name>
+<name type="personal">
+  <namePart type="given">R</namePart>
+  <namePart type="family">HUBER</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">W</namePart>
+  <namePart type="family">BODE</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Biochemie I</namePart>
+  <identifier type="unibi">17967</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Matrix metalloproteinases (MMPs) are a family of zinc endopeptidases involved in tissue remodeling. They have also been implicated in various disease processes including tumour invasion and joint destruction and are therefore attractive targets for inhibitor design. For rational drug design, information of inhibitor binding at the atomic level is essential. Recently, we have published the refined high-resolution crystal structure of the catalytic domain of human neutrophil collagenase (HNC) complexed with the inhibitor Pro-Leu-Gly-NHOH, which is a mimic for the unprimed (P3-P1) residues of a bound peptide substrate. We have now determined two additional HNC complexes formed with the thiol inhibitor HSCH2CH(CH(2)Ph)CO-L-Ala-Gly-NH2 and another hydroxamate inhibitor, HONHCOCH(iBu)CO-L-Ala-Gly-NH2,, which were both refined to R-values of 0.183/0.198 at 0.240/0.225-nm resolution. The inhibitor thiol and hydroxamate groups ligand the catalytic zinc, giving rise to a slightly distorted tetrahedral and trigonal-bipyramidal coordination sphere, respectively. The thiol inhibitor diastereomer with S-configuration at the P1&apos; residue (corresponding to an L-amino acid analog) binds to HNC. Its peptidyl moiety mimics binding of primed (P1&apos;-P3&apos;) residues of the substrate. In combination with our first structure a continuous hexapeptide corresponding to a peptide substrate productively bound to HNC was constructed and energy-minimized. Proteolytic cleavage of this Michaelis complex is probably general base-catalyzed as proposed for thermolysin, i.e. a glutamate assists nucleophilic attack of a water molecule. Although there are many structural and mechanistic similarities to thermolysin, substrate binding to MMPs differs due to the interactions beyond S1&apos;-P1&apos; While thermolysin binds substrates with a kink at P1&apos;, substrates are bound in an extended conformation in the collagenases. This property explains the tolerance of thermolysin for D-amino acid residues at the P1&apos; position, in contrast to the collagenases. The third inhibitor, HONHCOCH(iBu)CO-L-Ala-Gly-NH2, unexpectedly binds in a different manner than anticipated from its design and binding mode in thermolysin. Its hydroxamate group obviously interacts with the catalytic zinc in a favourable bidentate manner, but in contrast its isobutyl (iBu) side chain remains outside of the S1&apos; pocket, presumably due to severe constraints imposed by the adjacent planar hydroxamate group. Instead, the C-terminal Ala-Gly-NH2 tail adopts a bent conformation and inserts into this S1&apos; pocket, presumably in a non-optimized manner. Both the isobutyl side chain and the C-terminal peptide tail could be replaced by other, better fitting groups. Thus this inhibitor seems to represent a new lead structure suitable for designing better drugs.</abstract>
+
+<originInfo><publisher>SPRINGER VERLAG</publisher><dateIssued encoding="w3cdtf">1995</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>DRUG DESIGN</topic><topic>STRUCTURE</topic><topic>INHIBITOR</topic><topic>MATRIX METALLOPROTEINASE</topic><topic>COLLAGENASE</topic><topic>X-RAY CRYSTAL</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>EUROPEAN JOURNAL OF BIOCHEMISTRY</title></titleInfo>
+  <identifier type="issn">0014-2956</identifier>
+  <identifier type="eIssn">1432-1033</identifier>
+  <identifier type="MEDLINE">7737183</identifier>
+  <identifier type="ISI">A1995QN89900037</identifier><identifier type="doi">10.1111/j.1432-1033.1995.tb20329.x</identifier>
+<part><detail type="volume"><number>228</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">830-841</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>GRAMS F, REINEMER P, POWERS JC, KLEINE T, PIEPER M, Tschesche H, HUBER R, BODE W (1995) &lt;br /&gt;X-RAY STRUCTURES OF HUMAN NEUTROPHIL COLLAGENASE COMPLEXED WITH PEPTIDE HYDROXAMATE AND PEPTIDE THIOL INHIBITORS - IMPLICATIONS FOR SUBSTRATE-BINDING AND RATIONAL DRUG DESIGN.&lt;br /&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY 228(3): 830-841.</bio1>
+<aps>F.  GRAMS, et al., X-RAY STRUCTURES OF HUMAN NEUTROPHIL COLLAGENASE COMPLEXED WITH PEPTIDE HYDROXAMATE AND PEPTIDE THIOL INHIBITORS - IMPLICATIONS FOR SUBSTRATE-BINDING AND RATIONAL DRUG DESIGN, EUROPEAN JOURNAL OF BIOCHEMISTRY &lt;strong&gt;228&lt;/strong&gt;, 830-841 (1995).</aps>
+<harvard1>GRAMS, F., et al., 1995. X-RAY STRUCTURES OF HUMAN NEUTROPHIL COLLAGENASE COMPLEXED WITH PEPTIDE HYDROXAMATE AND PEPTIDE THIOL INHIBITORS - IMPLICATIONS FOR SUBSTRATE-BINDING AND RATIONAL DRUG DESIGN. &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt;, 228(3), p 830-841.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;GRAMS, F., REINEMER, P., POWERS, J.C., KLEINE, T., PIEPER, M., Tschesche, H., HUBER, R. &amp;amp; BODE, W. (1995). X-RAY STRUCTURES OF HUMAN NEUTROPHIL COLLAGENASE COMPLEXED WITH PEPTIDE HYDROXAMATE AND PEPTIDE THIOL INHIBITORS - IMPLICATIONS FOR SUBSTRATE-BINDING AND RATIONAL DRUG DESIGN. &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt;, &lt;em&gt;228&lt;/em&gt;(3), 830-841. SPRINGER VERLAG. doi:10.1111/j.1432-1033.1995.tb20329.x.&lt;/div&gt;</dgps>
+<ama>GRAMS F, REINEMER P, POWERS JC, et al. X-RAY STRUCTURES OF HUMAN NEUTROPHIL COLLAGENASE COMPLEXED WITH PEPTIDE HYDROXAMATE AND PEPTIDE THIOL INHIBITORS - IMPLICATIONS FOR SUBSTRATE-BINDING AND RATIONAL DRUG DESIGN. &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt;. 1995;228(3):830-841.</ama>
+<default>GRAMS F, REINEMER P, POWERS JC, KLEINE T, PIEPER M, Tschesche H, HUBER R, BODE W (1995) &lt;br /&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY 228(3): 830-841.</default>
+<wels>GRAMS, F.; REINEMER, P.; POWERS, J. C.; KLEINE, T.; PIEPER, M.; Tschesche, H.; HUBER, R.; BODE, W. (1995): X-RAY STRUCTURES OF HUMAN NEUTROPHIL COLLAGENASE COMPLEXED WITH PEPTIDE HYDROXAMATE AND PEPTIDE THIOL INHIBITORS - IMPLICATIONS FOR SUBSTRATE-BINDING AND RATIONAL DRUG DESIGN &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt;,228:(3): 830-841.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;GRAMS, F., REINEMER, P., POWERS, J. C., KLEINE, T., PIEPER, M., Tschesche, H., HUBER, R., et al. (1995). X-RAY STRUCTURES OF HUMAN NEUTROPHIL COLLAGENASE COMPLEXED WITH PEPTIDE HYDROXAMATE AND PEPTIDE THIOL INHIBITORS - IMPLICATIONS FOR SUBSTRATE-BINDING AND RATIONAL DRUG DESIGN. &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt;, &lt;em&gt;228&lt;/em&gt;(3), 830-841.&lt;/div&gt;</apa_indent>
+<mla>GRAMS, F, REINEMER, P, POWERS, JC, KLEINE, T, PIEPER, M, Tschesche, Harald, HUBER, R, and BODE, W. “X-RAY STRUCTURES OF HUMAN NEUTROPHIL COLLAGENASE COMPLEXED WITH PEPTIDE HYDROXAMATE AND PEPTIDE THIOL INHIBITORS - IMPLICATIONS FOR SUBSTRATE-BINDING AND RATIONAL DRUG DESIGN”. &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt; 228.3 (1995): 830-841.</mla>
+<lncs>GRAMS, F., REINEMER, P., POWERS, J.C., KLEINE, T., PIEPER, M., Tschesche, H., HUBER, R., BODE, W.: X-RAY STRUCTURES OF HUMAN NEUTROPHIL COLLAGENASE COMPLEXED WITH PEPTIDE HYDROXAMATE AND PEPTIDE THIOL INHIBITORS - IMPLICATIONS FOR SUBSTRATE-BINDING AND RATIONAL DRUG DESIGN. EUROPEAN JOURNAL OF BIOCHEMISTRY. 228, 830-841 (1995).</lncs>
+<ieee>F. GRAMS, et al., “X-RAY STRUCTURES OF HUMAN NEUTROPHIL COLLAGENASE COMPLEXED WITH PEPTIDE HYDROXAMATE AND PEPTIDE THIOL INHIBITORS - IMPLICATIONS FOR SUBSTRATE-BINDING AND RATIONAL DRUG DESIGN”, &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt;,  vol. 228, 1995,  pp. 830-841.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;GRAMS, F, REINEMER, P, POWERS, JC, KLEINE, T, PIEPER, M, Tschesche, Harald, HUBER, R, and BODE, W. 1995. “X-RAY STRUCTURES OF HUMAN NEUTROPHIL COLLAGENASE COMPLEXED WITH PEPTIDE HYDROXAMATE AND PEPTIDE THIOL INHIBITORS - IMPLICATIONS FOR SUBSTRATE-BINDING AND RATIONAL DRUG DESIGN”. &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt; 228 (3): 830-841.&lt;/div&gt;</chicago>
+<frontiers>GRAMS, F., REINEMER, P., POWERS, J. C., KLEINE, T., PIEPER, M., Tschesche, H., HUBER, R., and BODE, W. (1995). X-RAY STRUCTURES OF HUMAN NEUTROPHIL COLLAGENASE COMPLEXED WITH PEPTIDE HYDROXAMATE AND PEPTIDE THIOL INHIBITORS - IMPLICATIONS FOR SUBSTRATE-BINDING AND RATIONAL DRUG DESIGN. &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt; 228, 830-841.</frontiers>
+<angewandte-chemie>F.  GRAMS, P.  REINEMER, J. C.  POWERS, T.  KLEINE, M.  PIEPER, H.  Tschesche, R.  HUBER, and W.  BODE, “X-RAY STRUCTURES OF HUMAN NEUTROPHIL COLLAGENASE COMPLEXED WITH PEPTIDE HYDROXAMATE AND PEPTIDE THIOL INHIBITORS - IMPLICATIONS FOR SUBSTRATE-BINDING AND RATIONAL DRUG DESIGN”, &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt;, &lt;strong&gt;1995&lt;/strong&gt;, &lt;em&gt;228&lt;/em&gt;, 830-841.</angewandte-chemie>
+<apa>GRAMS, F., REINEMER, P., POWERS, J. C., KLEINE, T., PIEPER, M., Tschesche, H., HUBER, R., et al. (1995). X-RAY STRUCTURES OF HUMAN NEUTROPHIL COLLAGENASE COMPLEXED WITH PEPTIDE HYDROXAMATE AND PEPTIDE THIOL INHIBITORS - IMPLICATIONS FOR SUBSTRATE-BINDING AND RATIONAL DRUG DESIGN. &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt;, &lt;em&gt;228&lt;/em&gt;(3), 830-841.</apa>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1641329</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:27:04Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-12-08T12:48:45Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1641329</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1641329</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

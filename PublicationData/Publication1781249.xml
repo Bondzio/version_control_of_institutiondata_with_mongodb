@@ -1,0 +1,137 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Fabrication and characterization of Si-based soft x-ray mirrors</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">B.</namePart>
+  <namePart type="family">Schmiedeskamp</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">B.</namePart>
+  <namePart type="family">Heidemann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">U.</namePart>
+  <namePart type="family">Kleineberg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A.</namePart>
+  <namePart type="family">Kloidt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M.</namePart>
+  <namePart type="family">Kühne</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">H.</namePart>
+  <namePart type="family">Müller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">P.</namePart>
+  <namePart type="family">Müller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">K.</namePart>
+  <namePart type="family">Nolting</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ulrich</namePart>
+  <namePart type="family">Heinzmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40276</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Lehrstuhl für Molekül- und Oberflächenphysik</namePart>
+  <identifier type="unibi">29133467</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Centrum für Biotechnologie</namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Silicon-metal multilayers, which are designed as soft x-ray mirrors, have been fabricated with e – beam evaporation in Bielefeld. Quartz  oscillators and in situ soft x-ray reflection with C-k radiation were applied to control the fabrication process. The Mo/Si and Ta/Si layer systems were fabricated for wavelengths between 12 and 30nm and normal radiation incidence. They were studied with synchrotron radiation soft x-ray reflection in the PTB laboratory at BESSY in Berlin and with Cu-K[alpha] reflection as well as the surface analytical methods Rutherford-Backscattering (RBS) and Sputtering in combination with Auger electron spectroscopy (Sputter/AES) in Bielefeld. The optical data, C-k in situ reflectivity, Cu-k[alpha] and synchrotron radiation reflection, are compared with calculations on the basis of the Fresnel equations. Tests were made with RBS and Sputter/AES to prove their suitability for a study of the multilayer microstructures and their changes after thermal treatments.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Heinzmann_096.pdf">https://pub.uni-bielefeld.de/download/1781249/2313245</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>SPIE - The International Society for Optical Engineering</publisher><dateIssued encoding="w3cdtf">1991</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>X-ray EUV optics for astronomy, microscopy, polarimetry, and projection lithography</title></titleInfo>
+  <identifier type="isbn">0-8194-0404-7</identifier><identifier type="urn">urn:nbn:de:0070-bipr-24412</identifier>
+<part><extent unit="pages">64-72</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Schmiedeskamp, B.; Heidemann, B.; Kleineberg, U.; Kloidt, A.; Kühne, M.; Müller, H.; Müller, P.; Nolting, K.; Heinzmann, U. (1991): Fabrication and characterization of Si-based soft x-ray mirrors. In: X-ray EUV optics for astronomy, microscopy, polarimetry, and projection lithography. Bellingham, Wash.: SPIE - The International Society for Optical Engineering. (Proceedings / SPIE, the International Society for Optical Engineering ; 1343, ).  S. 64-72.</wels>
+<default>Schmiedeskamp B, Heidemann B, Kleineberg U, Kloidt A, Kühne M, Müller H, Müller P, Nolting K, Heinzmann U (1991)  &lt;br /&gt;In:  X-ray EUV optics for astronomy, microscopy, polarimetry, and projection lithography.  Proceedings / SPIE, the International Society for Optical Engineering ; 1343, . Bellingham, Wash.: SPIE - The International Society for Optical Engineering:  64-72.</default>
+<ama>Schmiedeskamp B, Heidemann B, Kleineberg U, et al. Fabrication and characterization of Si-based soft x-ray mirrors. In:  &lt;em&gt;X-ray EUV optics for astronomy, microscopy, polarimetry, and projection lithography&lt;/em&gt;. Proceedings / SPIE, the International Society for Optical Engineering ; 1343. Bellingham, Wash.: SPIE - The International Society for Optical Engineering;  1991: 64-72.</ama>
+<harvard1>Schmiedeskamp, B., et al., 1991. Fabrication and characterization of Si-based soft x-ray mirrors. In &lt;em&gt;X-ray EUV optics for astronomy, microscopy, polarimetry, and projection lithography&lt;/em&gt;. Proceedings / SPIE, the International Society for Optical Engineering ; 1343.  Bellingham, Wash.: SPIE - The International Society for Optical Engineering, pp. 64-72.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schmiedeskamp, B., Heidemann, B., Kleineberg, U., Kloidt, A., Kühne, M., Müller, H., Müller, P., Nolting, K. &amp;amp; Heinzmann, U. (1991). Fabrication and characterization of Si-based soft x-ray mirrors (Proceedings / SPIE, the International Society for Optical Engineering ; 1343). &lt;em&gt;X-ray EUV optics for astronomy, microscopy, polarimetry, and projection lithography&lt;/em&gt; (S. 64-72). Bellingham, Wash.: SPIE - The International Society for Optical Engineering.&lt;/div&gt;</dgps>
+<bio1>Schmiedeskamp B, Heidemann B, Kleineberg U, Kloidt A, Kühne M, Müller H, Müller P, Nolting K, Heinzmann U (1991) &lt;br /&gt;Fabrication and characterization of Si-based soft x-ray mirrors. &lt;br /&gt;In:  X-ray EUV optics for astronomy, microscopy, polarimetry, and projection lithography.  Proceedings / SPIE, the International Society for Optical Engineering ; 1343,  Bellingham, Wash.: SPIE - The International Society for Optical Engineering:  64-72.</bio1>
+<aps>B.  Schmiedeskamp, et al., Fabrication and characterization of Si-based soft x-ray mirrors, in &lt;em&gt;X-ray EUV optics for astronomy, microscopy, polarimetry, and projection lithography&lt;/em&gt;, Proceedings / SPIE, the International Society for Optical Engineering ; 1343 (SPIE - The International Society for Optical Engineering, Bellingham, Wash., 1991), p. 64-72.</aps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schmiedeskamp, B., Heidemann, B., Kleineberg, U., Kloidt, A., Kühne, M., Müller, H., Müller, P., Nolting, K., and Heinzmann, Ulrich. 1991. “Fabrication and characterization of Si-based soft x-ray mirrors”. In &lt;em&gt;X-ray EUV optics for astronomy, microscopy, polarimetry, and projection lithography&lt;/em&gt;, 64-72. Proceedings / SPIE, the International Society for Optical Engineering ; 1343. Bellingham, Wash.: SPIE - The International Society for Optical Engineering.&lt;/div&gt;</chicago>
+<angewandte-chemie>B.  Schmiedeskamp, B.  Heidemann, U.  Kleineberg, A.  Kloidt, M.  Kühne, H.  Müller, P.  Müller, K.  Nolting, and U.  Heinzmann, in &lt;em&gt;X-ray EUV optics for astronomy, microscopy, polarimetry, and projection lithography&lt;/em&gt;, Spie - The International Society For Optical Engineering, Bellingham, Wash., &lt;strong&gt;1991&lt;/strong&gt;, p. 64-72.</angewandte-chemie>
+<apa>Schmiedeskamp, B., Heidemann, B., Kleineberg, U., Kloidt, A., Kühne, M., Müller, H., Müller, P., et al. (1991). Fabrication and characterization of Si-based soft x-ray mirrors. &lt;em&gt;X-ray EUV optics for astronomy, microscopy, polarimetry, and projection lithography&lt;/em&gt;, 64-72.</apa>
+<frontiers>Schmiedeskamp, B., Heidemann, B., Kleineberg, U., Kloidt, A., Kühne, M., Müller, H., Müller, P., Nolting, K., and Heinzmann, U. (1991). “Fabrication and characterization of Si-based soft x-ray mirrors” in &lt;em&gt;X-ray EUV optics for astronomy, microscopy, polarimetry, and projection lithography&lt;/em&gt; Proceedings / SPIE, the International Society for Optical Engineering ; 1343 (Bellingham, Wash.: SPIE - The International Society for Optical Engineering), 64-72.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schmiedeskamp, B., Heidemann, B., Kleineberg, U., Kloidt, A., Kühne, M., Müller, H., Müller, P., et al. (1991). Fabrication and characterization of Si-based soft x-ray mirrors. &lt;em&gt;X-ray EUV optics for astronomy, microscopy, polarimetry, and projection lithography&lt;/em&gt;, 64-72.&lt;/div&gt;</apa_indent>
+<ieee>B. Schmiedeskamp, et al., “Fabrication and characterization of Si-based soft x-ray mirrors”, &lt;em&gt;X-ray EUV optics for astronomy, microscopy, polarimetry, and projection lithography&lt;/em&gt;, Proceedings / SPIE, the International Society for Optical Engineering ; 1343,  Bellingham, Wash.: SPIE - The International Society for Optical Engineering, 1991,  pp.64-72.</ieee>
+<lncs>Schmiedeskamp, B., Heidemann, B., Kleineberg, U., Kloidt, A., Kühne, M., Müller, H., Müller, P., Nolting, K., Heinzmann, U.: Fabrication and characterization of Si-based soft x-ray mirrors. X-ray EUV optics for astronomy, microscopy, polarimetry, and projection lithography. Proceedings / SPIE, the International Society for Optical Engineering ; 1343. p. 64-72. SPIE - The International Society for Optical Engineering, Bellingham, Wash. (1991).</lncs>
+<mla>Schmiedeskamp, B., Heidemann, B., Kleineberg, U., Kloidt, A., Kühne, M., Müller, H., Müller, P., Nolting, K., and Heinzmann, Ulrich. “Fabrication and characterization of Si-based soft x-ray mirrors”. &lt;em&gt;X-ray EUV optics for astronomy, microscopy, polarimetry, and projection lithography&lt;/em&gt;. Bellingham, Wash.: SPIE - The International Society for Optical Engineering, 1991. Proceedings / SPIE, the International Society for Optical Engineering ; 1343. 64-72.</mla>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781249</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781249</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781249</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

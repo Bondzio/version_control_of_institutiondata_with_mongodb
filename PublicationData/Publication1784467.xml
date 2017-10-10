@@ -1,0 +1,111 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Thermal Green&apos;s functions and transport coefficients on the lattice</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Frithjof</namePart>
+  <namePart type="family">Karsch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40326</identifier></name>
+<name type="personal">
+  <namePart type="given">H. W.</namePart>
+  <namePart type="family">Wyld</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT3876.pdf">https://pub.uni-bielefeld.de/download/1784467/2314447</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1987</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Physical Review, D</title></titleInfo>
+  <identifier type="issn">0556-2821</identifier>
+  <identifier type="INSPIRE">233686</identifier>
+  <identifier type="MEDLINE">9957956</identifier>
+  <identifier type="ISI">A1987G864300030</identifier><identifier type="urn">urn:nbn:de:0070-pub-17844671</identifier><identifier type="doi">10.1103/PhysRevD.35.2518</identifier>
+<part><detail type="volume"><number>35</number></detail><detail type="issue"><number>8</number></detail><extent unit="pages">2518-2523</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Karsch F, Wyld HW. Thermal Green&apos;s functions and transport coefficients on the lattice. &lt;em&gt;Physical Review, D&lt;/em&gt;. 1987;35(8):2518-2523.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Karsch, F. &amp;amp; Wyld, H.W. (1987). Thermal Green&apos;s functions and transport coefficients on the lattice. &lt;em&gt;Physical Review, D&lt;/em&gt;, &lt;em&gt;35&lt;/em&gt;(8), 2518-2523. doi:10.1103/PhysRevD.35.2518.&lt;/div&gt;</dgps>
+<harvard1>Karsch, F., &amp;amp; Wyld, H.W., 1987. Thermal Green&apos;s functions and transport coefficients on the lattice. &lt;em&gt;Physical Review, D&lt;/em&gt;, 35(8), p 2518-2523.</harvard1>
+<aps>F.  Karsch and H. W.  Wyld, Thermal Green&apos;s functions and transport coefficients on the lattice, Physical Review, D &lt;strong&gt;35&lt;/strong&gt;, 2518-2523 (1987).</aps>
+<bio1>Karsch F, Wyld HW (1987) &lt;br /&gt;Thermal Green&apos;s functions and transport coefficients on the lattice.&lt;br /&gt;Physical Review, D 35(8): 2518-2523.</bio1>
+<wels>Karsch, F.; Wyld, H. W. (1987): Thermal Green&apos;s functions and transport coefficients on the lattice &lt;em&gt;Physical Review, D&lt;/em&gt;,35:(8): 2518-2523.</wels>
+<default>Karsch F, Wyld HW (1987) &lt;br /&gt;Physical Review, D 35(8): 2518-2523.</default>
+<ieee>F. Karsch and H.W. Wyld, “Thermal Green&apos;s functions and transport coefficients on the lattice”, &lt;em&gt;Physical Review, D&lt;/em&gt;,  vol. 35, 1987,  pp. 2518-2523.</ieee>
+<mla>Karsch, Frithjof, and Wyld, H. W. “Thermal Green&apos;s functions and transport coefficients on the lattice”. &lt;em&gt;Physical Review, D&lt;/em&gt; 35.8 (1987): 2518-2523.</mla>
+<lncs>Karsch, F., Wyld, H.W.: Thermal Green&apos;s functions and transport coefficients on the lattice. Physical Review, D. 35, 2518-2523 (1987).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Karsch, F., &amp;amp; Wyld, H. W. (1987). Thermal Green&apos;s functions and transport coefficients on the lattice. &lt;em&gt;Physical Review, D&lt;/em&gt;, &lt;em&gt;35&lt;/em&gt;(8), 2518-2523.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>F.  Karsch, and H. W.  Wyld, “Thermal Green&apos;s functions and transport coefficients on the lattice”, &lt;em&gt;Physical Review, D&lt;/em&gt;, &lt;strong&gt;1987&lt;/strong&gt;, &lt;em&gt;35&lt;/em&gt;, 2518-2523.</angewandte-chemie>
+<apa>Karsch, F., &amp;amp; Wyld, H. W. (1987). Thermal Green&apos;s functions and transport coefficients on the lattice. &lt;em&gt;Physical Review, D&lt;/em&gt;, &lt;em&gt;35&lt;/em&gt;(8), 2518-2523.</apa>
+<frontiers>Karsch, F., and Wyld, H. W. (1987). Thermal Green&apos;s functions and transport coefficients on the lattice. &lt;em&gt;Physical Review, D&lt;/em&gt; 35, 2518-2523.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Karsch, Frithjof, and Wyld, H. W. 1987. “Thermal Green&apos;s functions and transport coefficients on the lattice”. &lt;em&gt;Physical Review, D&lt;/em&gt; 35 (8): 2518-2523.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1784467</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1784467</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1784467</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

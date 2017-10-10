@@ -1,0 +1,107 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Development of new microsatellite loci and evaluation of loci from other pinniped species for the Galapagos sea lion (Zalophus californianus wollebaeki)</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Jochen B. W.</namePart>
+  <namePart type="family">Wolf</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Diethard</namePart>
+  <namePart type="family">Tautz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Adalgisa</namePart>
+  <namePart type="family">Caccone</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Sebastian</namePart>
+  <namePart type="family">Steinfartz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">164260</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2528935</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>SPRINGER</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>(AC) motif enrichment</topic><topic>loci</topic><topic>Galapagos sea lion</topic><topic>wollebaeki</topic><topic>cross-species amplification of microsatellite</topic><topic>Zalophus californianus</topic><topic>microsatellite loci</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>CONSERVATION GENETICS</title></titleInfo>
+  <identifier type="issn">1566-0621</identifier>
+  <identifier type="eIssn">1572-9737</identifier>
+  <identifier type="ISI">000238026600013</identifier><identifier type="doi">10.1007/s10592-005-9045-1</identifier>
+<part><detail type="volume"><number>7</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">461-465</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<harvard1>Wolf, J.B.W., et al., 2006. Development of new microsatellite loci and evaluation of loci from other pinniped species for the Galapagos sea lion (Zalophus californianus wollebaeki). &lt;em&gt;CONSERVATION GENETICS&lt;/em&gt;, 7(3), p 461-465.</harvard1>
+<ama>Wolf JBW, Tautz D, Caccone A, Steinfartz S. Development of new microsatellite loci and evaluation of loci from other pinniped species for the Galapagos sea lion (Zalophus californianus wollebaeki). &lt;em&gt;CONSERVATION GENETICS&lt;/em&gt;. 2006;7(3):461-465.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wolf, J.B.W., Tautz, D., Caccone, A. &amp;amp; Steinfartz, S. (2006). Development of new microsatellite loci and evaluation of loci from other pinniped species for the Galapagos sea lion (Zalophus californianus wollebaeki). &lt;em&gt;CONSERVATION GENETICS&lt;/em&gt;, &lt;em&gt;7&lt;/em&gt;(3), 461-465. SPRINGER. doi:10.1007/s10592-005-9045-1.&lt;/div&gt;</dgps>
+<aps> J. B. W.  Wolf, et al., Development of new microsatellite loci and evaluation of loci from other pinniped species for the Galapagos sea lion (Zalophus californianus wollebaeki), CONSERVATION GENETICS &lt;strong&gt;7&lt;/strong&gt;, 461-465 (2006).</aps>
+<bio1>Wolf JBW, Tautz D, Caccone A, Steinfartz S (2006) &lt;br /&gt;Development of new microsatellite loci and evaluation of loci from other pinniped species for the Galapagos sea lion (Zalophus californianus wollebaeki).&lt;br /&gt;CONSERVATION GENETICS 7(3): 461-465.</bio1>
+<wels>Wolf, J. B. W.; Tautz, D.; Caccone, A.; Steinfartz, S. (2006): Development of new microsatellite loci and evaluation of loci from other pinniped species for the Galapagos sea lion (Zalophus californianus wollebaeki) &lt;em&gt;CONSERVATION GENETICS&lt;/em&gt;,7:(3): 461-465.</wels>
+<default>Wolf JBW, Tautz D, Caccone A, Steinfartz S (2006) &lt;br /&gt;CONSERVATION GENETICS 7(3): 461-465.</default>
+<ieee> J.B.W. Wolf, et al., “Development of new microsatellite loci and evaluation of loci from other pinniped species for the Galapagos sea lion (Zalophus californianus wollebaeki)”, &lt;em&gt;CONSERVATION GENETICS&lt;/em&gt;,  vol. 7, 2006,  pp. 461-465.</ieee>
+<lncs> Wolf, J.B.W., Tautz, D., Caccone, A., Steinfartz, S.: Development of new microsatellite loci and evaluation of loci from other pinniped species for the Galapagos sea lion (Zalophus californianus wollebaeki). CONSERVATION GENETICS. 7, 461-465 (2006).</lncs>
+<mla>Wolf, Jochen B. W., Tautz, Diethard, Caccone, Adalgisa, and Steinfartz, Sebastian. “Development of new microsatellite loci and evaluation of loci from other pinniped species for the Galapagos sea lion (Zalophus californianus wollebaeki)”. &lt;em&gt;CONSERVATION GENETICS&lt;/em&gt; 7.3 (2006): 461-465.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wolf, J. B. W., Tautz, D., Caccone, A., &amp;amp; Steinfartz, S. (2006). Development of new microsatellite loci and evaluation of loci from other pinniped species for the Galapagos sea lion (Zalophus californianus wollebaeki). &lt;em&gt;CONSERVATION GENETICS&lt;/em&gt;, &lt;em&gt;7&lt;/em&gt;(3), 461-465.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>J. B. W.  Wolf, D.  Tautz, A.  Caccone, and S.  Steinfartz, “Development of new microsatellite loci and evaluation of loci from other pinniped species for the Galapagos sea lion (Zalophus californianus wollebaeki)”, &lt;em&gt;CONSERVATION GENETICS&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;7&lt;/em&gt;, 461-465.</angewandte-chemie>
+<apa>Wolf, J. B. W., Tautz, D., Caccone, A., &amp;amp; Steinfartz, S. (2006). Development of new microsatellite loci and evaluation of loci from other pinniped species for the Galapagos sea lion (Zalophus californianus wollebaeki). &lt;em&gt;CONSERVATION GENETICS&lt;/em&gt;, &lt;em&gt;7&lt;/em&gt;(3), 461-465.</apa>
+<frontiers>Wolf, J. B. W., Tautz, D., Caccone, A., and Steinfartz, S. (2006). Development of new microsatellite loci and evaluation of loci from other pinniped species for the Galapagos sea lion (Zalophus californianus wollebaeki). &lt;em&gt;CONSERVATION GENETICS&lt;/em&gt; 7, 461-465.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wolf, Jochen B. W., Tautz, Diethard, Caccone, Adalgisa, and Steinfartz, Sebastian. 2006. “Development of new microsatellite loci and evaluation of loci from other pinniped species for the Galapagos sea lion (Zalophus californianus wollebaeki)”. &lt;em&gt;CONSERVATION GENETICS&lt;/em&gt; 7 (3): 461-465.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1599106</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:19:44Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-14T12:32:34Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1599106</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1599106</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

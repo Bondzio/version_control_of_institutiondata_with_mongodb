@@ -1,0 +1,124 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The nodulin VfENOD18 is an ATP-binding protein in infected cells of Vicia faba L. nodules</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">JD</namePart>
+  <namePart type="family">Becker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">LM</namePart>
+  <namePart type="family">Moreira</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">D</namePart>
+  <namePart type="family">Kapp</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">SC</namePart>
+  <namePart type="family">Frosch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alfred</namePart>
+  <namePart type="family">Pühler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21937</identifier></name>
+<name type="personal">
+  <namePart type="given">AM</namePart>
+  <namePart type="family">Perlick</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2685540</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Recently we described the novel nodulin gene VfENOD18, whose corresponding transcripts were restricted to the nitrogen-fixing zone III of broad bean root nodules. To characterize VfENOD18 on the protein level, polyclonal antibodies were generated using the purified recombinant VfENOD18 protein produced in Escherichia coli by employing the pMAL-c expression system. These antibodies recognized immunoreactive proteins isolated from indeterminate nodules of different leguminous plants, but also from non-symbiotic tissues of Glycine max and from tissues of Arabidopsis thaliana and Zea mays. Using immunogold labelling the nodulin VfENOD18 was localized to the cytoplasm of infected cells in the nitrogen-fixing zone of broad bean nodules. Due to the homology of the VfENOD18 sequence to that of the ATP-binding protein MJ0577 from the hyperthermophile Methanococcus jannaschii the recombinant VfENOD18 protein was tested for ATP-binding. Using the biotin photoaffinity ATP analogue 8N(3)ATP[gamma ]biotin it could be demonstrated that VfENOD18 is an ATP-binding protein. PCR experiments revealed that the amino acid sequences of the putative C-terminal ATP-binding sites of the VfENOD18 homologues from Lens culinaris, Vicia hirsuta, Vicia sativa and Vicia villosa were conserved. We propose that VfENOD18 is a member of a novel family of ATP-binding proteins in plants.</abstract>
+
+<originInfo><publisher>KLUWER ACADEMIC PUBL</publisher><dateIssued encoding="w3cdtf">2001</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>MJ0577 superfamily</topic><topic>nitrogen</topic><topic>broad bean</topic><topic>heterologous expression</topic><topic>nodule-specific gene expression</topic><topic>fixation</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>PLANT MOLECULAR BIOLOGY</title></titleInfo>
+  <identifier type="issn">0167-4412</identifier>
+  <identifier type="MEDLINE">11785936</identifier>
+  <identifier type="ISI">000173046300006</identifier><identifier type="doi">10.1023/A:1013664311052</identifier>
+<part><detail type="volume"><number>47</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">749-759</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Becker, J.D., Moreira, L.M., Kapp, D., Frosch, S.C., Pühler, A. &amp;amp; Perlick, A.M. (2001). The nodulin VfENOD18 is an ATP-binding protein in infected cells of Vicia faba L. nodules. &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt;, &lt;em&gt;47&lt;/em&gt;(6), 749-759. KLUWER ACADEMIC PUBL. doi:10.1023/A:1013664311052.&lt;/div&gt;</dgps>
+<ama>Becker JD, Moreira LM, Kapp D, Frosch SC, Pühler A, Perlick AM. The nodulin VfENOD18 is an ATP-binding protein in infected cells of Vicia faba L. nodules. &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt;. 2001;47(6):749-759.</ama>
+<harvard1>Becker, J.D., et al., 2001. The nodulin VfENOD18 is an ATP-binding protein in infected cells of Vicia faba L. nodules. &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt;, 47(6), p 749-759.</harvard1>
+<aps> J. D.  Becker, et al., The nodulin VfENOD18 is an ATP-binding protein in infected cells of Vicia faba L. nodules, PLANT MOLECULAR BIOLOGY &lt;strong&gt;47&lt;/strong&gt;, 749-759 (2001).</aps>
+<bio1>Becker JD, Moreira LM, Kapp D, Frosch SC, Pühler A, Perlick AM (2001) &lt;br /&gt;The nodulin VfENOD18 is an ATP-binding protein in infected cells of Vicia faba L. nodules.&lt;br /&gt;PLANT MOLECULAR BIOLOGY 47(6): 749-759.</bio1>
+<wels>Becker, J. D.; Moreira, L. M.; Kapp, D.; Frosch, S. C.; Pühler, A.; Perlick, A. M. (2001): The nodulin VfENOD18 is an ATP-binding protein in infected cells of Vicia faba L. nodules &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt;,47:(6): 749-759.</wels>
+<default>Becker JD, Moreira LM, Kapp D, Frosch SC, Pühler A, Perlick AM (2001) &lt;br /&gt;PLANT MOLECULAR BIOLOGY 47(6): 749-759.</default>
+<ieee> J.D. Becker, et al., “The nodulin VfENOD18 is an ATP-binding protein in infected cells of Vicia faba L. nodules”, &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt;,  vol. 47, 2001,  pp. 749-759.</ieee>
+<mla>Becker, JD, Moreira, LM, Kapp, D, Frosch, SC, Pühler, Alfred, and Perlick, AM. “The nodulin VfENOD18 is an ATP-binding protein in infected cells of Vicia faba L. nodules”. &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt; 47.6 (2001): 749-759.</mla>
+<lncs> Becker, J.D., Moreira, L.M., Kapp, D., Frosch, S.C., Pühler, A., Perlick, A.M.: The nodulin VfENOD18 is an ATP-binding protein in infected cells of Vicia faba L. nodules. PLANT MOLECULAR BIOLOGY. 47, 749-759 (2001).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Becker, J. D., Moreira, L. M., Kapp, D., Frosch, S. C., Pühler, A., &amp;amp; Perlick, A. M. (2001). The nodulin VfENOD18 is an ATP-binding protein in infected cells of Vicia faba L. nodules. &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt;, &lt;em&gt;47&lt;/em&gt;(6), 749-759.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>J. D.  Becker, L. M.  Moreira, D.  Kapp, S. C.  Frosch, A.  Pühler, and A. M.  Perlick, “The nodulin VfENOD18 is an ATP-binding protein in infected cells of Vicia faba L. nodules”, &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt;, &lt;strong&gt;2001&lt;/strong&gt;, &lt;em&gt;47&lt;/em&gt;, 749-759.</angewandte-chemie>
+<apa>Becker, J. D., Moreira, L. M., Kapp, D., Frosch, S. C., Pühler, A., &amp;amp; Perlick, A. M. (2001). The nodulin VfENOD18 is an ATP-binding protein in infected cells of Vicia faba L. nodules. &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt;, &lt;em&gt;47&lt;/em&gt;(6), 749-759.</apa>
+<frontiers>Becker, J. D., Moreira, L. M., Kapp, D., Frosch, S. C., Pühler, A., and Perlick, A. M. (2001). The nodulin VfENOD18 is an ATP-binding protein in infected cells of Vicia faba L. nodules. &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt; 47, 749-759.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Becker, JD, Moreira, LM, Kapp, D, Frosch, SC, Pühler, Alfred, and Perlick, AM. 2001. “The nodulin VfENOD18 is an ATP-binding protein in infected cells of Vicia faba L. nodules”. &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt; 47 (6): 749-759.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1615579</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:01:59Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-09-20T06:13:30Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1615579</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1615579</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

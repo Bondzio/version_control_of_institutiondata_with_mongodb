@@ -1,0 +1,90 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Entwicklungspotenziale transnationaler Migration</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Thomas</namePart>
+  <namePart type="family">Faist</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">151480</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">5656060</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>WeltTrends</title></titleInfo>
+  <identifier type="issn">0944-8101</identifier>
+<part><detail type="volume"><number>57</number></detail><detail type="issue"><number>(Winter 2007/2008)</number></detail><extent unit="pages">87-103</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Faist, Thomas. 2008. “Entwicklungspotenziale transnationaler Migration”. &lt;em&gt;WeltTrends&lt;/em&gt; 57 ((Winter 2007/2008): 87-103.&lt;/div&gt;</chicago>
+<apa>Faist, T. (2008). Entwicklungspotenziale transnationaler Migration. &lt;em&gt;WeltTrends&lt;/em&gt;, &lt;em&gt;57&lt;/em&gt;((Winter 2007/2008), 87-103.</apa>
+<angewandte-chemie>T.  Faist, “Entwicklungspotenziale transnationaler Migration”, &lt;em&gt;WeltTrends&lt;/em&gt;, &lt;strong&gt;2008&lt;/strong&gt;, &lt;em&gt;57&lt;/em&gt;, 87-103.</angewandte-chemie>
+<frontiers>Faist, T. (2008). Entwicklungspotenziale transnationaler Migration. &lt;em&gt;WeltTrends&lt;/em&gt; 57, 87-103.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Faist, T. (2008). Entwicklungspotenziale transnationaler Migration. &lt;em&gt;WeltTrends&lt;/em&gt;, &lt;em&gt;57&lt;/em&gt;((Winter 2007/2008), 87-103.&lt;/div&gt;</apa_indent>
+<ieee>T. Faist, “Entwicklungspotenziale transnationaler Migration”, &lt;em&gt;WeltTrends&lt;/em&gt;,  vol. 57, 2008,  pp. 87-103.</ieee>
+<mla>Faist, Thomas. “Entwicklungspotenziale transnationaler Migration”. &lt;em&gt;WeltTrends&lt;/em&gt; 57.(Winter 2007/2008) (2008): 87-103.</mla>
+<lncs>Faist, T.: Entwicklungspotenziale transnationaler Migration. WeltTrends. 57, 87-103 (2008).</lncs>
+<wels>Faist, T. (2008): Entwicklungspotenziale transnationaler Migration &lt;em&gt;WeltTrends&lt;/em&gt;,57:((Winter 2007/2008): 87-103.</wels>
+<default>Faist T (2008) &lt;br /&gt;WeltTrends 57((Winter 2007/2008): 87-103.</default>
+<harvard1>Faist, T., 2008. Entwicklungspotenziale transnationaler Migration. &lt;em&gt;WeltTrends&lt;/em&gt;, 57((Winter 2007/2008), p 87-103.</harvard1>
+<ama>Faist T. Entwicklungspotenziale transnationaler Migration. &lt;em&gt;WeltTrends&lt;/em&gt;. 2008;57((Winter 2007/2008):87-103.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Faist, T. (2008). Entwicklungspotenziale transnationaler Migration. &lt;em&gt;WeltTrends&lt;/em&gt;, &lt;em&gt;57&lt;/em&gt;((Winter 2007/2008), 87-103.&lt;/div&gt;</dgps>
+<aps>T.  Faist, Entwicklungspotenziale transnationaler Migration, WeltTrends &lt;strong&gt;57&lt;/strong&gt;, 87-103 (2008).</aps>
+<bio1>Faist T (2008) &lt;br /&gt;Entwicklungspotenziale transnationaler Migration.&lt;br /&gt;WeltTrends 57((Winter 2007/2008): 87-103.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1860527</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-02-15T13:31:23Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-02-15T13:31:23Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1860527</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1860527</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

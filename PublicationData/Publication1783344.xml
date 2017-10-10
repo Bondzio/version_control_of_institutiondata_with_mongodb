@@ -1,0 +1,95 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Diagnose und Förderung elementarer sprachlicher Kompetenzen</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Bernd</namePart>
+  <namePart type="family">Switalla</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">165097</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Linguistik und Literaturwissenschaft</namePart>
+  <identifier type="unibi">10019</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Sprachdiagnostik.pdf">https://pub.uni-bielefeld.de/download/1783344/2314152</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><identifier type="urn">urn:nbn:de:0070-bipr-35158</identifier>
+<part>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<harvard1>Switalla, B., 2009. Diagnose und Förderung elementarer sprachlicher Kompetenzen.</harvard1>
+<ama>Switalla B. Diagnose und Förderung elementarer sprachlicher Kompetenzen.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Switalla, B. (2009). Diagnose und Förderung elementarer sprachlicher Kompetenzen.&lt;/div&gt;</dgps>
+<aps>B.  Switalla, Diagnose und Förderung elementarer sprachlicher Kompetenzen, (2009).</aps>
+<bio1>Switalla B (2009) &lt;br /&gt;Diagnose und Förderung elementarer sprachlicher Kompetenzen.</bio1>
+<wels>Switalla, B. (2009): Diagnose und Förderung elementarer sprachlicher Kompetenzen.</wels>
+<default>Switalla B (2009) .</default>
+<ieee>B. Switalla, “Diagnose und Förderung elementarer sprachlicher Kompetenzen”, 2009.</ieee>
+<mla>Switalla, Bernd. “Diagnose und Förderung elementarer sprachlicher Kompetenzen”., 2009.</mla>
+<lncs>Switalla, B.: Diagnose und Förderung elementarer sprachlicher Kompetenzen. (2009).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Switalla, B. (2009). &lt;em&gt;Diagnose und Förderung elementarer sprachlicher Kompetenzen&lt;/em&gt;. Presented at the .&lt;/div&gt;</apa_indent>
+<angewandte-chemie>B.  Switalla, &lt;strong&gt;2009&lt;/strong&gt;.</angewandte-chemie>
+<apa>Switalla, B. (2009). &lt;em&gt;Diagnose und Förderung elementarer sprachlicher Kompetenzen&lt;/em&gt;. Presented at the .</apa>
+<frontiers>Switalla, B. (2009).“Diagnose und Förderung elementarer sprachlicher Kompetenzen”.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Switalla, Bernd. 2009. “Diagnose und Förderung elementarer sprachlicher Kompetenzen”. Presented at the .&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1783344</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1783344</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1783344</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,97 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Methodologische Probleme empirischer Argumentationsforschung</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Walther</namePart>
+  <namePart type="family">Kindt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11705</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Wolfgang</namePart><namePart type="family">Kühlwein</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Linguistik und Literaturwissenschaft</namePart>
+  <identifier type="unibi">10019</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT3064.pdf">https://pub.uni-bielefeld.de/download/1782245/2313757</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Narr</publisher><dateIssued encoding="w3cdtf">1980</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Sprache und Verstehen</title></titleInfo><identifier type="urn">urn:nbn:de:0070-bipr-30644</identifier>
+<part><extent unit="pages">51-57</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kindt, W. (1980). Methodologische Probleme empirischer Argumentationsforschung. In W.  Kühlwein (Ed.), &lt;em&gt;Kongreßberichte der Jahrestagung der Gesellschaft für Angewandte Linguistik, GAL e.V. ; 10&lt;/em&gt;&lt;em&gt;. Sprache und Verstehen&lt;/em&gt; (pp. 51-57). Tübingen: Narr.&lt;/div&gt;</apa_indent>
+<ieee>W. Kindt, “Methodologische Probleme empirischer Argumentationsforschung”, &lt;em&gt;Sprache und Verstehen&lt;/em&gt;, W. Kühlwein, ed., Kongreßberichte der Jahrestagung der Gesellschaft für Angewandte Linguistik, GAL e.V. ; 10,  Tübingen: Narr, 1980,  pp.51-57.</ieee>
+<mla>Kindt, Walther. “Methodologische Probleme empirischer Argumentationsforschung”. &lt;em&gt;Sprache und Verstehen&lt;/em&gt;. Ed. Wolfgang Kühlwein. Tübingen: Narr, 1980. Kongreßberichte der Jahrestagung der Gesellschaft für Angewandte Linguistik, GAL e.V. ; 10. 51-57.</mla>
+<lncs>Kindt, W.: Methodologische Probleme empirischer Argumentationsforschung. In: Kühlwein, W. (ed.) Sprache und Verstehen. Kongreßberichte der Jahrestagung der Gesellschaft für Angewandte Linguistik, GAL e.V. ; 10. p. 51-57. Narr, Tübingen (1980).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kindt, Walther. 1980. “Methodologische Probleme empirischer Argumentationsforschung”. In &lt;em&gt;Sprache und Verstehen&lt;/em&gt;, ed. Wolfgang Kühlwein, 51-57. Kongreßberichte der Jahrestagung der Gesellschaft für Angewandte Linguistik, GAL e.V. ; 10. Tübingen: Narr.&lt;/div&gt;</chicago>
+<angewandte-chemie>W.  Kindt, in &lt;em&gt;Sprache und Verstehen&lt;/em&gt; (Ed.: W. Kühlwein), Narr, Tübingen, &lt;strong&gt;1980&lt;/strong&gt;, p. 51-57.</angewandte-chemie>
+<apa>Kindt, W. (1980). Methodologische Probleme empirischer Argumentationsforschung. In W.  Kühlwein (Ed.), &lt;em&gt;Kongreßberichte der Jahrestagung der Gesellschaft für Angewandte Linguistik, GAL e.V. ; 10&lt;/em&gt;&lt;em&gt;. Sprache und Verstehen&lt;/em&gt; (pp. 51-57). Tübingen: Narr.</apa>
+<frontiers>Kindt, W. (1980). “Methodologische Probleme empirischer Argumentationsforschung” in &lt;em&gt;Sprache und Verstehen&lt;/em&gt;, ed. W.  Kühlwein Kongreßberichte der Jahrestagung der Gesellschaft für Angewandte Linguistik, GAL e.V. ; 10 (Tübingen: Narr), 51-57.</frontiers>
+<ama>Kindt W. Methodologische Probleme empirischer Argumentationsforschung. In: Kühlwein W, ed. &lt;em&gt;Sprache und Verstehen&lt;/em&gt;. Kongreßberichte der Jahrestagung der Gesellschaft für Angewandte Linguistik, GAL e.V. ; 10. Tübingen: Narr;  1980: 51-57.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kindt, W. (1980). Methodologische Probleme empirischer Argumentationsforschung (Kongreßberichte der Jahrestagung der Gesellschaft für Angewandte Linguistik, GAL e.V. ; 10). &lt;em&gt;Sprache und Verstehen&lt;/em&gt; (S. 51-57). Tübingen: Narr.&lt;/div&gt;</dgps>
+<harvard1>Kindt, W., 1980. Methodologische Probleme empirischer Argumentationsforschung. In W.  Kühlwein, ed. &lt;em&gt;Sprache und Verstehen&lt;/em&gt;. Kongreßberichte der Jahrestagung der Gesellschaft für Angewandte Linguistik, GAL e.V. ; 10.  Tübingen: Narr, pp. 51-57.</harvard1>
+<bio1>Kindt W (1980) &lt;br /&gt;Methodologische Probleme empirischer Argumentationsforschung. &lt;br /&gt;In:  Sprache und Verstehen. Kühlwein W (Ed); Kongreßberichte der Jahrestagung der Gesellschaft für Angewandte Linguistik, GAL e.V. ; 10,  Tübingen: Narr:  51-57.</bio1>
+<aps>W.  Kindt, Methodologische Probleme empirischer Argumentationsforschung, in &lt;em&gt;Sprache und Verstehen&lt;/em&gt;, edited by W.  Kühlwein, Kongreßberichte der Jahrestagung der Gesellschaft für Angewandte Linguistik, GAL e.V. ; 10 (Narr, Tübingen, 1980), p. 51-57.</aps>
+<wels>Kindt, W. (1980): Methodologische Probleme empirischer Argumentationsforschung. In: Wolfgang Kühlwein (Hrsg.):  Sprache und Verstehen. Tübingen: Narr. (Kongreßberichte der Jahrestagung der Gesellschaft für Angewandte Linguistik, GAL e.V. ; 10, ).  S. 51-57.</wels>
+<default>Kindt W (1980)  &lt;br /&gt;In:  Sprache und Verstehen. Kühlwein W (Ed); Kongreßberichte der Jahrestagung der Gesellschaft für Angewandte Linguistik, GAL e.V. ; 10, . Tübingen: Narr:  51-57.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1782245</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1782245</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1782245</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

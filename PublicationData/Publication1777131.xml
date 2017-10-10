@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Aggregation of demand in case of nonconvex preferences</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Egbert</namePart>
+  <namePart type="family">Dierker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Hildegard</namePart>
+  <namePart type="family">Dierker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Walter</namePart>
+  <namePart type="family">Trockel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">62508</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0001-9827-6424</description></name>
+
+
+
+<name type="personal"><namePart type="given">Otto</namePart><namePart type="family">Moeschlin</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Wirtschaftswissenschaften</namePart>
+  <identifier type="unibi">10031</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT1395.pdf">https://pub.uni-bielefeld.de/download/1777131/2312322</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>North-Holland Publ. Co.</publisher><dateIssued encoding="w3cdtf">1979</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Game theory and related topics: proceedings of the Seminar on Game Theory and Related Topics, Bonn/Hagen, 26 - 29 September, 1978</title></titleInfo>
+  <identifier type="isbn">0-444-85342-1</identifier><identifier type="urn">urn:nbn:de:0070-bipr-13953</identifier>
+<part><extent unit="pages">267-273</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>E. Dierker, H. Dierker, and W. Trockel, “Aggregation of demand in case of nonconvex preferences”, &lt;em&gt;Game theory and related topics: proceedings of the Seminar on Game Theory and Related Topics, Bonn/Hagen, 26 - 29 September, 1978&lt;/em&gt;, O. Moeschlin, ed.,  Amsterdam: North-Holland Publ. Co., 1979,  pp.267-273.</ieee>
+<lncs>Dierker, E., Dierker, H., Trockel, W.: Aggregation of demand in case of nonconvex preferences. In: Moeschlin, O. (ed.) Game theory and related topics: proceedings of the Seminar on Game Theory and Related Topics, Bonn/Hagen, 26 - 29 September, 1978. p. 267-273. North-Holland Publ. Co., Amsterdam (1979).</lncs>
+<mla>Dierker, Egbert, Dierker, Hildegard, and Trockel, Walter. “Aggregation of demand in case of nonconvex preferences”. &lt;em&gt;Game theory and related topics: proceedings of the Seminar on Game Theory and Related Topics, Bonn/Hagen, 26 - 29 September, 1978&lt;/em&gt;. Ed. Otto Moeschlin. Amsterdam: North-Holland Publ. Co., 1979. 267-273.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Dierker, E., Dierker, H., &amp;amp; Trockel, W. (1979). Aggregation of demand in case of nonconvex preferences. In O.  Moeschlin (Ed.), &lt;em&gt;Game theory and related topics: proceedings of the Seminar on Game Theory and Related Topics, Bonn/Hagen, 26 - 29 September, 1978&lt;/em&gt; (pp. 267-273). Amsterdam: North-Holland Publ. Co.&lt;/div&gt;</apa_indent>
+<apa>Dierker, E., Dierker, H., &amp;amp; Trockel, W. (1979). Aggregation of demand in case of nonconvex preferences. In O.  Moeschlin (Ed.), &lt;em&gt;Game theory and related topics: proceedings of the Seminar on Game Theory and Related Topics, Bonn/Hagen, 26 - 29 September, 1978&lt;/em&gt; (pp. 267-273). Amsterdam: North-Holland Publ. Co.</apa>
+<angewandte-chemie>E.  Dierker, H.  Dierker, and W.  Trockel, in &lt;em&gt;Game theory and related topics: proceedings of the Seminar on Game Theory and Related Topics, Bonn/Hagen, 26 - 29 September, 1978&lt;/em&gt; (Ed.: O. Moeschlin), North-Holland Publ. Co., Amsterdam, &lt;strong&gt;1979&lt;/strong&gt;, p. 267-273.</angewandte-chemie>
+<frontiers>Dierker, E., Dierker, H., and Trockel, W. (1979). “Aggregation of demand in case of nonconvex preferences” in &lt;em&gt;Game theory and related topics: proceedings of the Seminar on Game Theory and Related Topics, Bonn/Hagen, 26 - 29 September, 1978&lt;/em&gt;, ed. O.  Moeschlin (Amsterdam: North-Holland Publ. Co.), 267-273.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Dierker, Egbert, Dierker, Hildegard, and Trockel, Walter. 1979. “Aggregation of demand in case of nonconvex preferences”. In &lt;em&gt;Game theory and related topics: proceedings of the Seminar on Game Theory and Related Topics, Bonn/Hagen, 26 - 29 September, 1978&lt;/em&gt;, ed. Otto Moeschlin, 267-273. Amsterdam: North-Holland Publ. Co.&lt;/div&gt;</chicago>
+<harvard1>Dierker, E., Dierker, H., &amp;amp; Trockel, W., 1979. Aggregation of demand in case of nonconvex preferences. In O.  Moeschlin, ed. &lt;em&gt;Game theory and related topics: proceedings of the Seminar on Game Theory and Related Topics, Bonn/Hagen, 26 - 29 September, 1978&lt;/em&gt;.  Amsterdam: North-Holland Publ. Co., pp. 267-273.</harvard1>
+<ama>Dierker E, Dierker H, Trockel W. Aggregation of demand in case of nonconvex preferences. In: Moeschlin O, ed. &lt;em&gt;Game theory and related topics: proceedings of the Seminar on Game Theory and Related Topics, Bonn/Hagen, 26 - 29 September, 1978&lt;/em&gt;. Amsterdam: North-Holland Publ. Co.;  1979: 267-273.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Dierker, E., Dierker, H. &amp;amp; Trockel, W. (1979). Aggregation of demand in case of nonconvex preferences. &lt;em&gt;Game theory and related topics: proceedings of the Seminar on Game Theory and Related Topics, Bonn/Hagen, 26 - 29 September, 1978&lt;/em&gt; (S. 267-273). Amsterdam: North-Holland Publ. Co.&lt;/div&gt;</dgps>
+<aps>E.  Dierker, H.  Dierker, and W.  Trockel, Aggregation of demand in case of nonconvex preferences, in &lt;em&gt;Game theory and related topics: proceedings of the Seminar on Game Theory and Related Topics, Bonn/Hagen, 26 - 29 September, 1978&lt;/em&gt;, edited by O.  Moeschlin (North-Holland Publ. Co., Amsterdam, 1979), p. 267-273.</aps>
+<bio1>Dierker E, Dierker H, Trockel W (1979) &lt;br /&gt;Aggregation of demand in case of nonconvex preferences. &lt;br /&gt;In:  Game theory and related topics: proceedings of the Seminar on Game Theory and Related Topics, Bonn/Hagen, 26 - 29 September, 1978. Moeschlin O (Ed); Amsterdam: North-Holland Publ. Co.:  267-273.</bio1>
+<wels>Dierker, E.; Dierker, H.; Trockel, W. (1979): Aggregation of demand in case of nonconvex preferences. In: Otto Moeschlin (Hrsg.):  Game theory and related topics: proceedings of the Seminar on Game Theory and Related Topics, Bonn/Hagen, 26 - 29 September, 1978. Amsterdam: North-Holland Publ. Co.  S. 267-273.</wels>
+<default>Dierker E, Dierker H, Trockel W (1979)  &lt;br /&gt;In:  Game theory and related topics: proceedings of the Seminar on Game Theory and Related Topics, Bonn/Hagen, 26 - 29 September, 1978. Moeschlin O (Ed);Amsterdam: North-Holland Publ. Co.:  267-273.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1777131</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1777131</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1777131</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

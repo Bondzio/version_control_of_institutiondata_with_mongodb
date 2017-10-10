@@ -1,0 +1,116 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Polyakov loop distributions near deconfinement in SU(2) lattice gauge theory</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Jürgen</namePart>
+  <namePart type="family">Engels</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40338</identifier></name>
+<name type="personal">
+  <namePart type="given">Jochen</namePart>
+  <namePart type="family">Fingberg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M.</namePart>
+  <namePart type="family">Weber</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The distribution function of the Polyakov loop is investigated on a 163×3 lattice in the neighbourhood of the deconfinement transition of SU(2) gauge theory. We find, that well above the transition the distribution is a Gaussian; when the coupling approaches the critical point it is modified due to phase flip attempts of the system. Corresponding distributions for the plaquettes remain, however, Gaussian. For one coupling close to the transition we study the distributions on 83, 123 and 183×4 lattices and show that strong finite size effects are present. Using the maximum values of the Gaussian parts of the distributions we construct a more physical (and therefore scaling) order parameter whose critical exponent is in excellent agreement with the universality hypothesis.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Engels_015.pdf">https://pub.uni-bielefeld.de/download/1776277/2312132</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1988</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Zeitschrift für Physik, C: Particles and Fields</title></titleInfo>
+  <identifier type="issn">0170-9739</identifier>
+  <identifier type="eIssn">1434-6052</identifier>
+  <identifier type="INSPIRE">261132</identifier>
+  <identifier type="ISI">A1988R444800020</identifier><identifier type="urn">urn:nbn:de:0070-pub-17762771</identifier><identifier type="doi">10.1007/BF01585638</identifier>
+<part><detail type="volume"><number>41</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">513-519</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>J. Engels, J. Fingberg, and M. Weber, “Polyakov loop distributions near deconfinement in SU(2) lattice gauge theory”, &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt;,  vol. 41, 1988,  pp. 513-519.</ieee>
+<lncs>Engels, J., Fingberg, J., Weber, M.: Polyakov loop distributions near deconfinement in SU(2) lattice gauge theory. Zeitschrift für Physik, C: Particles and Fields. 41, 513-519 (1988).</lncs>
+<mla>Engels, Jürgen, Fingberg, Jochen, and Weber, M. “Polyakov loop distributions near deconfinement in SU(2) lattice gauge theory”. &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt; 41.3 (1988): 513-519.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, J., Fingberg, J., &amp;amp; Weber, M. (1988). Polyakov loop distributions near deconfinement in SU(2) lattice gauge theory. &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt;, &lt;em&gt;41&lt;/em&gt;(3), 513-519.&lt;/div&gt;</apa_indent>
+<apa>Engels, J., Fingberg, J., &amp;amp; Weber, M. (1988). Polyakov loop distributions near deconfinement in SU(2) lattice gauge theory. &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt;, &lt;em&gt;41&lt;/em&gt;(3), 513-519.</apa>
+<angewandte-chemie>J.  Engels, J.  Fingberg, and M.  Weber, “Polyakov loop distributions near deconfinement in SU(2) lattice gauge theory”, &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt;, &lt;strong&gt;1988&lt;/strong&gt;, &lt;em&gt;41&lt;/em&gt;, 513-519.</angewandte-chemie>
+<frontiers>Engels, J., Fingberg, J., and Weber, M. (1988). Polyakov loop distributions near deconfinement in SU(2) lattice gauge theory. &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt; 41, 513-519.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, Jürgen, Fingberg, Jochen, and Weber, M. 1988. “Polyakov loop distributions near deconfinement in SU(2) lattice gauge theory”. &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt; 41 (3): 513-519.&lt;/div&gt;</chicago>
+<ama>Engels J, Fingberg J, Weber M. Polyakov loop distributions near deconfinement in SU(2) lattice gauge theory. &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt;. 1988;41(3):513-519.</ama>
+<harvard1>Engels, J., Fingberg, J., &amp;amp; Weber, M., 1988. Polyakov loop distributions near deconfinement in SU(2) lattice gauge theory. &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt;, 41(3), p 513-519.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, J., Fingberg, J. &amp;amp; Weber, M. (1988). Polyakov loop distributions near deconfinement in SU(2) lattice gauge theory. &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt;, &lt;em&gt;41&lt;/em&gt;(3), 513-519. doi:10.1007/BF01585638.&lt;/div&gt;</dgps>
+<aps>J.  Engels, J.  Fingberg, and M.  Weber, Polyakov loop distributions near deconfinement in SU(2) lattice gauge theory, Zeitschrift für Physik, C: Particles and Fields &lt;strong&gt;41&lt;/strong&gt;, 513-519 (1988).</aps>
+<bio1>Engels J, Fingberg J, Weber M (1988) &lt;br /&gt;Polyakov loop distributions near deconfinement in SU(2) lattice gauge theory.&lt;br /&gt;Zeitschrift für Physik, C: Particles and Fields 41(3): 513-519.</bio1>
+<wels>Engels, J.; Fingberg, J.; Weber, M. (1988): Polyakov loop distributions near deconfinement in SU(2) lattice gauge theory &lt;em&gt;Zeitschrift für Physik, C: Particles and Fields&lt;/em&gt;,41:(3): 513-519.</wels>
+<default>Engels J, Fingberg J, Weber M (1988) &lt;br /&gt;Zeitschrift für Physik, C: Particles and Fields 41(3): 513-519.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776277</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776277</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776277</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

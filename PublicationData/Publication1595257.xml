@@ -1,0 +1,141 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Nanostructured polymer brushes</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Ursula</namePart>
+  <namePart type="family">Schmelmer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Anne</namePart>
+  <namePart type="family">Paul</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alexander</namePart>
+  <namePart type="family">Küller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Marin</namePart>
+  <namePart type="family">Steenackers</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Abraham</namePart>
+  <namePart type="family">Ulman</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Michael</namePart>
+  <namePart type="family">Grunze</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Armin</namePart>
+  <namePart type="family">Gölzhäuser</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">109837</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-0838-9028</description></name>
+<name type="personal">
+  <namePart type="given">Rainer</namePart>
+  <namePart type="family">Jordan</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2161137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33079548</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">29103248</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Nanopatterned polymer brushes with sub-50-nm resolution were prepared by a combination of electron-beam chemical lithography (EBCL) of self-assembled monolayers (SAMs) and surface-initiated photopolymerization (SIPP). As a further development of our previous work, selective EBCL was performed with a highly focused electron beam and not via a mask, to region-selectively convert a SAM of 4&apos;-nitro-1,1&apos;-biphenyl-4-thiol to defined areas of crosslinked 4&apos;-amino-1,1&apos;-biphenyl-4-thiol. These &quot;written&quot; structures were then used to prepare surface-bonded, asymmetric, azo initiator sites of 4&apos;-azomethylmalonodinitrile-1,1&apos;-biphenyl-4-thiol. In the presence of bulk styrene, SIPP amplified the primary structures of line widths from 500 to 10 nm to polystyrene structures of line widths 530 nm down to approximately 45 nm at a brush height of 10 or 7 nm, respectively, as measured by scanning electron microscopy and atomic force microscopy (A FM). The relative position of individual structures was within a tolerance of a few nanometers, as verified by AFM. At line-to-line spacings down to 50-70 nm, individual polymer brush structures are still observable. Below this threshold, neighboring structures merge due to chain overlap.</abstract>
+
+<originInfo><publisher>WILEY-V C H VERLAG GMBH</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>patterning</topic><topic>polymer brushes</topic><topic>polymerization</topic><topic>nanolithography</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>SMALL</title></titleInfo>
+  <identifier type="issn">1613-6810</identifier>
+  <identifier type="eIssn">1613-6829</identifier>
+  <identifier type="MEDLINE">17245782</identifier>
+  <identifier type="ISI">000244909500020</identifier><identifier type="doi">10.1002/smll.200600528</identifier>
+<part><detail type="volume"><number>3</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">459-465</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schmelmer, U., Paul, A., Küller, A., Steenackers, M., Ulman, A., Grunze, M., Gölzhäuser, A. &amp;amp; Jordan, R. (2007). Nanostructured polymer brushes. &lt;em&gt;SMALL&lt;/em&gt;, &lt;em&gt;3&lt;/em&gt;(3), 459-465. WILEY-V C H VERLAG GMBH. doi:10.1002/smll.200600528.&lt;/div&gt;</dgps>
+<ama>Schmelmer U, Paul A, Küller A, et al. Nanostructured polymer brushes. &lt;em&gt;SMALL&lt;/em&gt;. 2007;3(3):459-465.</ama>
+<harvard1>Schmelmer, U., et al., 2007. Nanostructured polymer brushes. &lt;em&gt;SMALL&lt;/em&gt;, 3(3), p 459-465.</harvard1>
+<aps> U.  Schmelmer, et al., Nanostructured polymer brushes, SMALL &lt;strong&gt;3&lt;/strong&gt;, 459-465 (2007).</aps>
+<bio1>Schmelmer U, Paul A, Küller A, Steenackers M, Ulman A, Grunze M, Gölzhäuser A, Jordan R (2007) &lt;br /&gt;Nanostructured polymer brushes.&lt;br /&gt;SMALL 3(3): 459-465.</bio1>
+<wels>Schmelmer, U.; Paul, A.; Küller, A.; Steenackers, M.; Ulman, A.; Grunze, M.; Gölzhäuser, A.; Jordan, R. (2007): Nanostructured polymer brushes &lt;em&gt;SMALL&lt;/em&gt;,3:(3): 459-465.</wels>
+<default>Schmelmer U, Paul A, Küller A, Steenackers M, Ulman A, Grunze M, Gölzhäuser A, Jordan R (2007) &lt;br /&gt;SMALL 3(3): 459-465.</default>
+<ieee> U. Schmelmer, et al., “Nanostructured polymer brushes”, &lt;em&gt;SMALL&lt;/em&gt;,  vol. 3, 2007,  pp. 459-465.</ieee>
+<mla>Schmelmer, Ursula, Paul, Anne, Küller, Alexander, Steenackers, Marin, Ulman, Abraham, Grunze, Michael, Gölzhäuser, Armin, and Jordan, Rainer. “Nanostructured polymer brushes”. &lt;em&gt;SMALL&lt;/em&gt; 3.3 (2007): 459-465.</mla>
+<lncs> Schmelmer, U., Paul, A., Küller, A., Steenackers, M., Ulman, A., Grunze, M., Gölzhäuser, A., Jordan, R.: Nanostructured polymer brushes. SMALL. 3, 459-465 (2007).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schmelmer, U., Paul, A., Küller, A., Steenackers, M., Ulman, A., Grunze, M., Gölzhäuser, A., et al. (2007). Nanostructured polymer brushes. &lt;em&gt;SMALL&lt;/em&gt;, &lt;em&gt;3&lt;/em&gt;(3), 459-465.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>U.  Schmelmer, A.  Paul, A.  Küller, M.  Steenackers, A.  Ulman, M.  Grunze, A.  Gölzhäuser, and R.  Jordan, “Nanostructured polymer brushes”, &lt;em&gt;SMALL&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;3&lt;/em&gt;, 459-465.</angewandte-chemie>
+<apa>Schmelmer, U., Paul, A., Küller, A., Steenackers, M., Ulman, A., Grunze, M., Gölzhäuser, A., et al. (2007). Nanostructured polymer brushes. &lt;em&gt;SMALL&lt;/em&gt;, &lt;em&gt;3&lt;/em&gt;(3), 459-465.</apa>
+<frontiers>Schmelmer, U., Paul, A., Küller, A., Steenackers, M., Ulman, A., Grunze, M., Gölzhäuser, A., and Jordan, R. (2007). Nanostructured polymer brushes. &lt;em&gt;SMALL&lt;/em&gt; 3, 459-465.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schmelmer, Ursula, Paul, Anne, Küller, Alexander, Steenackers, Marin, Ulman, Abraham, Grunze, Michael, Gölzhäuser, Armin, and Jordan, Rainer. 2007. “Nanostructured polymer brushes”. &lt;em&gt;SMALL&lt;/em&gt; 3 (3): 459-465.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1595257</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:37Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-19T08:26:43Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1595257</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1595257</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

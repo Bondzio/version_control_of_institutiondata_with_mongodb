@@ -1,0 +1,92 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Zweimal &quot;Der Hauptmann von Köpenick&quot;. Ein Film und sein Remake</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Helmut G.</namePart>
+  <namePart type="family">Asper</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11642</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Helmut G.</namePart><namePart type="family">Asper</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10019</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Wallstein</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Carl Zuckmayer: Der Hauptmann von Köpenick : die Drehbücher aus den Jahren 1931 und 1956</title></titleInfo>
+  <identifier type="isbn">978-3-8353-0234-1</identifier>
+<part><detail type="volume"><number>9</number></detail><extent unit="pages">7-38</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Asper, H. G. (2008): Zweimal &quot;Der Hauptmann von Köpenick&quot;. Ein Film und sein Remake. In: Helmut G. Asper (Hrsg.):  Carl Zuckmayer: Der Hauptmann von Köpenick : die Drehbücher aus den Jahren 1931 und 1956. Göttingen: Wallstein. (Zuckmayer-Jahrbuch 2007/08, 9).  S. 7-38.</wels>
+<default>Asper HG (2008)  &lt;br /&gt;In:  Carl Zuckmayer: Der Hauptmann von Köpenick : die Drehbücher aus den Jahren 1931 und 1956. Asper HG (Ed); Zuckmayer-Jahrbuch 2007/08, 9. Göttingen: Wallstein:  7-38.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Asper, H.G. (2008). Zweimal &quot;Der Hauptmann von Köpenick&quot;. Ein Film und sein Remake (Zuckmayer-Jahrbuch 2007/08). &lt;em&gt;Carl Zuckmayer: Der Hauptmann von Köpenick : die Drehbücher aus den Jahren 1931 und 1956&lt;/em&gt; (S. 7-38). Göttingen: Wallstein.&lt;/div&gt;</dgps>
+<harvard1>Asper, H.G., 2008. Zweimal &quot;Der Hauptmann von Köpenick&quot;. Ein Film und sein Remake. In H. G.  Asper, ed. &lt;em&gt;Carl Zuckmayer: Der Hauptmann von Köpenick : die Drehbücher aus den Jahren 1931 und 1956&lt;/em&gt;. Zuckmayer-Jahrbuch 2007/08. no.9  Göttingen: Wallstein, pp. 7-38.</harvard1>
+<ama>Asper HG. Zweimal &quot;Der Hauptmann von Köpenick&quot;. Ein Film und sein Remake. In: Asper HG, ed. &lt;em&gt;Carl Zuckmayer: Der Hauptmann von Köpenick : die Drehbücher aus den Jahren 1931 und 1956&lt;/em&gt;. Zuckmayer-Jahrbuch 2007/08. Vol 9. Göttingen: Wallstein;  2008: 7-38.</ama>
+<aps> H. G.  Asper, Zweimal &quot;Der Hauptmann von Köpenick&quot;. Ein Film und sein Remake, in &lt;em&gt;Carl Zuckmayer: Der Hauptmann von Köpenick : die Drehbücher aus den Jahren 1931 und 1956&lt;/em&gt;, edited by H. G.  Asper, Zuckmayer-Jahrbuch 2007/08, &lt;strong&gt;9&lt;/strong&gt; (Wallstein, Göttingen, 2008), p. 7-38.</aps>
+<bio1>Asper HG (2008) &lt;br /&gt;Zweimal &quot;Der Hauptmann von Köpenick&quot;. Ein Film und sein Remake. &lt;br /&gt;In:  Carl Zuckmayer: Der Hauptmann von Köpenick : die Drehbücher aus den Jahren 1931 und 1956. Asper HG (Ed); Zuckmayer-Jahrbuch 2007/08, 9. Göttingen: Wallstein:  7-38.</bio1>
+<apa>Asper, H. G. (2008). Zweimal &quot;Der Hauptmann von Köpenick&quot;. Ein Film und sein Remake. In H. G.  Asper (Ed.), &lt;em&gt;Zuckmayer-Jahrbuch 2007/08: Vol. 9&lt;/em&gt;&lt;em&gt;. Carl Zuckmayer: Der Hauptmann von Köpenick : die Drehbücher aus den Jahren 1931 und 1956&lt;/em&gt; (pp. 7-38). Göttingen: Wallstein.</apa>
+<angewandte-chemie>H. G.  Asper, in &lt;em&gt;Carl Zuckmayer: Der Hauptmann von Köpenick : die Drehbücher aus den Jahren 1931 und 1956&lt;/em&gt; (Ed.: H.G. Asper), Wallstein, Göttingen, &lt;strong&gt;2008&lt;/strong&gt;, p. 7-38.</angewandte-chemie>
+<frontiers>Asper, H. G. (2008). “Zweimal &quot;Der Hauptmann von Köpenick&quot;. Ein Film und sein Remake” in &lt;em&gt;Carl Zuckmayer: Der Hauptmann von Köpenick : die Drehbücher aus den Jahren 1931 und 1956&lt;/em&gt;, Asper, H. G. ed. Zuckmayer-Jahrbuch 2007/08, vol. 9, (Göttingen: Wallstein), 7-38.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Asper, Helmut G. 2008. “Zweimal &quot;Der Hauptmann von Köpenick&quot;. Ein Film und sein Remake”. In &lt;em&gt;Carl Zuckmayer: Der Hauptmann von Köpenick : die Drehbücher aus den Jahren 1931 und 1956&lt;/em&gt;, ed. Helmut G. Asper, 9:7-38. Zuckmayer-Jahrbuch 2007/08. Göttingen: Wallstein.&lt;/div&gt;</chicago>
+<ieee> H.G. Asper, “Zweimal &quot;Der Hauptmann von Köpenick&quot;. Ein Film und sein Remake”, &lt;em&gt;Carl Zuckmayer: Der Hauptmann von Köpenick : die Drehbücher aus den Jahren 1931 und 1956&lt;/em&gt;, H.G. Asper, ed., Zuckmayer-Jahrbuch 2007/08, vol. 9,  Göttingen: Wallstein, 2008,  pp.7-38.</ieee>
+<lncs> Asper, H.G.: Zweimal &quot;Der Hauptmann von Köpenick&quot;. Ein Film und sein Remake. In: Asper, H.G. (ed.) Carl Zuckmayer: Der Hauptmann von Köpenick : die Drehbücher aus den Jahren 1931 und 1956. Zuckmayer-Jahrbuch 2007/08. 9, p. 7-38. Wallstein, Göttingen (2008).</lncs>
+<mla>Asper, Helmut G. “Zweimal &quot;Der Hauptmann von Köpenick&quot;. Ein Film und sein Remake”. &lt;em&gt;Carl Zuckmayer: Der Hauptmann von Köpenick : die Drehbücher aus den Jahren 1931 und 1956&lt;/em&gt;. Ed. Helmut G. Asper. Göttingen: Wallstein, 2008.Vol. 9. Zuckmayer-Jahrbuch 2007/08. 7-38.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Asper, H. G. (2008). Zweimal &quot;Der Hauptmann von Köpenick&quot;. Ein Film und sein Remake. In H. G.  Asper (Ed.), &lt;em&gt;Zuckmayer-Jahrbuch 2007/08: Vol. 9&lt;/em&gt;&lt;em&gt;. Carl Zuckmayer: Der Hauptmann von Köpenick : die Drehbücher aus den Jahren 1931 und 1956&lt;/em&gt; (pp. 7-38). Göttingen: Wallstein.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1859549</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-08-08T08:58:32Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-08-08T08:58:32Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1859549</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1859549</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

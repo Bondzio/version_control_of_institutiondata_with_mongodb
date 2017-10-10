@@ -1,0 +1,109 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The regulatory protein MucR binds to a short DNA region located upstream of the mucR coding region in Rhizobium meliloti</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">P. A.</namePart>
+  <namePart type="family">Bertram-Drogatz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Silvia</namePart>
+  <namePart type="family">Rüberg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Anke</namePart>
+  <namePart type="family">Becker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alfred</namePart>
+  <namePart type="family">Pühler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21937</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The Rhizobium meliloti MucR protein is known to regulate the biosynthesis of the two exopolysaccharides, succinoglycan and galactoglucan. The mucR gene was successfully overexpressed in Escherichia coli BL21 cells by heat shock induction using a two-plasmid system. Cell extracts of the production strain contained about 20% of a polypeptide of 17 kDa apparent molecular mass, corresponding to the size expected for MucR. As shown by an electrophoretic mobility shift assay, these extracts were active in the specific retardation of a 219-bp DNA fragment including 134-bp of the non-coding region upstream of the mucR gene. Primer extension analysis showed that this DNA fragment was located within the transcribed region upstream of the mucR gene. Competition experiments revealed that a 44-bp sequence present within the 134-bp upstream of the mucR gene contained the MucR binding site. Although binding of MucR to this site exhibited a moderate dissociation constant of K-d approximate to 1.4 x 10(-7) M, the reaction was highly specific since fragments containing binding sites for the homologous Ros protein from Agrobacterium tumefaciens were not able to compete for MucR binding.</abstract>
+
+<originInfo><publisher>SPRINGER VERLAG</publisher><dateIssued encoding="w3cdtf">1997</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>regulation of gene expression</topic><topic>exopolysaccharide</topic><topic>biosynthesis</topic><topic>Rhizobium meliloti</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Mol Gen Genet</title></titleInfo>
+  <identifier type="issn">0026-8925</identifier>
+  <identifier type="eIssn">1432-1874</identifier>
+  <identifier type="MEDLINE">9197412</identifier>
+  <identifier type="ISI">A1997XB62200008</identifier><identifier type="doi">10.1007/s004380050448</identifier>
+<part><detail type="volume"><number>254</number></detail><detail type="issue"><number>5</number></detail><extent unit="pages">529-538</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps> P. A.  Bertram-Drogatz, et al., The regulatory protein MucR binds to a short DNA region located upstream of the mucR coding region in Rhizobium meliloti, Mol Gen Genet &lt;strong&gt;254&lt;/strong&gt;, 529-538 (1997).</aps>
+<bio1>Bertram-Drogatz PA, Rüberg S, Becker A, Pühler A (1997) &lt;br /&gt;The regulatory protein MucR binds to a short DNA region located upstream of the mucR coding region in Rhizobium meliloti.&lt;br /&gt;Mol Gen Genet 254(5): 529-538.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bertram-Drogatz, P.A., Rüberg, S., Becker, A. &amp;amp; Pühler, A. (1997). The regulatory protein MucR binds to a short DNA region located upstream of the mucR coding region in Rhizobium meliloti. &lt;em&gt;Mol Gen Genet&lt;/em&gt;, &lt;em&gt;254&lt;/em&gt;(5), 529-538. SPRINGER VERLAG. doi:10.1007/s004380050448.&lt;/div&gt;</dgps>
+<ama>Bertram-Drogatz PA, Rüberg S, Becker A, Pühler A. The regulatory protein MucR binds to a short DNA region located upstream of the mucR coding region in Rhizobium meliloti. &lt;em&gt;Mol Gen Genet&lt;/em&gt;. 1997;254(5):529-538.</ama>
+<harvard1>Bertram-Drogatz, P.A., et al., 1997. The regulatory protein MucR binds to a short DNA region located upstream of the mucR coding region in Rhizobium meliloti. &lt;em&gt;Mol Gen Genet&lt;/em&gt;, 254(5), p 529-538.</harvard1>
+<default>Bertram-Drogatz PA, Rüberg S, Becker A, Pühler A (1997) &lt;br /&gt;Mol Gen Genet 254(5): 529-538.</default>
+<wels>Bertram-Drogatz, P. A.; Rüberg, S.; Becker, A.; Pühler, A. (1997): The regulatory protein MucR binds to a short DNA region located upstream of the mucR coding region in Rhizobium meliloti &lt;em&gt;Mol Gen Genet&lt;/em&gt;,254:(5): 529-538.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bertram-Drogatz, P. A., Rüberg, S., Becker, A., &amp;amp; Pühler, A. (1997). The regulatory protein MucR binds to a short DNA region located upstream of the mucR coding region in Rhizobium meliloti. &lt;em&gt;Mol Gen Genet&lt;/em&gt;, &lt;em&gt;254&lt;/em&gt;(5), 529-538.&lt;/div&gt;</apa_indent>
+<lncs> Bertram-Drogatz, P.A., Rüberg, S., Becker, A., Pühler, A.: The regulatory protein MucR binds to a short DNA region located upstream of the mucR coding region in Rhizobium meliloti. Mol Gen Genet. 254, 529-538 (1997).</lncs>
+<mla>Bertram-Drogatz, P. A., Rüberg, Silvia, Becker, Anke, and Pühler, Alfred. “The regulatory protein MucR binds to a short DNA region located upstream of the mucR coding region in Rhizobium meliloti”. &lt;em&gt;Mol Gen Genet&lt;/em&gt; 254.5 (1997): 529-538.</mla>
+<ieee> P.A. Bertram-Drogatz, et al., “The regulatory protein MucR binds to a short DNA region located upstream of the mucR coding region in Rhizobium meliloti”, &lt;em&gt;Mol Gen Genet&lt;/em&gt;,  vol. 254, 1997,  pp. 529-538.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bertram-Drogatz, P. A., Rüberg, Silvia, Becker, Anke, and Pühler, Alfred. 1997. “The regulatory protein MucR binds to a short DNA region located upstream of the mucR coding region in Rhizobium meliloti”. &lt;em&gt;Mol Gen Genet&lt;/em&gt; 254 (5): 529-538.&lt;/div&gt;</chicago>
+<frontiers>Bertram-Drogatz, P. A., Rüberg, S., Becker, A., and Pühler, A. (1997). The regulatory protein MucR binds to a short DNA region located upstream of the mucR coding region in Rhizobium meliloti. &lt;em&gt;Mol Gen Genet&lt;/em&gt; 254, 529-538.</frontiers>
+<angewandte-chemie>P. A.  Bertram-Drogatz, S.  Rüberg, A.  Becker, and A.  Pühler, “The regulatory protein MucR binds to a short DNA region located upstream of the mucR coding region in Rhizobium meliloti”, &lt;em&gt;Mol Gen Genet&lt;/em&gt;, &lt;strong&gt;1997&lt;/strong&gt;, &lt;em&gt;254&lt;/em&gt;, 529-538.</angewandte-chemie>
+<apa>Bertram-Drogatz, P. A., Rüberg, S., Becker, A., &amp;amp; Pühler, A. (1997). The regulatory protein MucR binds to a short DNA region located upstream of the mucR coding region in Rhizobium meliloti. &lt;em&gt;Mol Gen Genet&lt;/em&gt;, &lt;em&gt;254&lt;/em&gt;(5), 529-538.</apa>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1636938</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:14:02Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-09-14T09:08:03Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1636938</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1636938</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,135 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The metalloprotease disintegrin ADAM8 - Processing by autocatalysis is required for proteolytic activity and cell adhesion</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">U</namePart>
+  <namePart type="family">Schlomann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">D</namePart>
+  <namePart type="family">Wildeboer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Webster</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">O</namePart>
+  <namePart type="family">Antropova</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">D</namePart>
+  <namePart type="family">Zeuschner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">CG</namePart>
+  <namePart type="family">Knight</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">AJP</namePart>
+  <namePart type="family">Docherty</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Lambert</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">L</namePart>
+  <namePart type="family">Skelton</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Harald</namePart>
+  <namePart type="family">Jockusch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20127512</identifier></name>
+<name type="personal">
+  <namePart type="given">JW</namePart>
+  <namePart type="family">Bartsch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Biologie</namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">ADAMs (a disintegrin and metalloprotease domains) are metalloprotease and disintegrin domain-containing transmembrane glycoproteins with proteolytic, cell adhesion, cell fusion, and cell signaling properties. ADAM8 was originally cloned from monocytic cells, and its distinct expression pattern indicates possible roles in both immunology and neuropathology. Here we describe our analysis of its biochemical properties. In transfected COS-7 cells, ADAM8 is localized to the plasma membrane and processed into two forms derived either by prodomain removal or as remnant protein comprising the extracellular region with the disintegrin domain at the N terminus. Proteolytic removal of the ADAM8 propeptide was completely blocked in mutant ADAM8 with a Glu(330) to Gln exchange (EQ-A8) in the Zn2+ binding motif (HE(330)LGHNLGMSHD), arguing for autocatalytic prodomain removal. In co-transfection experiments, the ectodomain but not the entire MP domain of ADAM8 was able to remove the prodomain from EQ-ADAM8. With cells expressing ADAM8, cell adhesion to a substrate-bound recombinant ADAM8 disintegrin/Cys-rich domain was observed in the absence of serum, blocked by an antibody directed against the ADAM8 disintegrin domain. Soluble ADAM8 protease, consisting of either the metalloprotease domain or the complete ectodomain, cleaved myelin basic protein and a fluorogenic peptide substrate, and was inhibited by batimastat (BB-94, IC50 similar to50 nM) but not by recombinant tissue inhibitor of matrix metalloproteinases 1, 2, 3, and 4. Our findings demonstrate that ADAM8 processing by autocatalysis leads to a potential sheddase and to a form of ADAM8 with a function in cell adhesion.</abstract>
+
+<originInfo><publisher>AMER SOC BIOCHEMISTRY MOLECULAR BIOLOGY INC</publisher><dateIssued encoding="w3cdtf">2002</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Journal of Biological Chemistry</title></titleInfo>
+  <identifier type="issn">0021-9258</identifier>
+  <identifier type="eIssn">1083-351X</identifier>
+  <identifier type="MEDLINE">12372841</identifier>
+  <identifier type="ISI">000179789600033</identifier><identifier type="doi">10.1074/jbc.M203355200</identifier>
+<part><detail type="volume"><number>277</number></detail><detail type="issue"><number>50</number></detail><extent unit="pages">48210-48219</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schlomann, U, Wildeboer, D, Webster, A, Antropova, O, Zeuschner, D, Knight, CG, Docherty, AJP, et al. 2002. “The metalloprotease disintegrin ADAM8 - Processing by autocatalysis is required for proteolytic activity and cell adhesion”. &lt;em&gt;Journal of Biological Chemistry&lt;/em&gt; 277 (50): 48210-48219.&lt;/div&gt;</chicago>
+<frontiers>Schlomann, U., Wildeboer, D., Webster, A., Antropova, O., Zeuschner, D., Knight, C. G., Docherty, A. J. P., Lambert, M., Skelton, L., Jockusch, H., et al. (2002). The metalloprotease disintegrin ADAM8 - Processing by autocatalysis is required for proteolytic activity and cell adhesion. &lt;em&gt;Journal of Biological Chemistry&lt;/em&gt; 277, 48210-48219.</frontiers>
+<angewandte-chemie>U.  Schlomann, D.  Wildeboer, A.  Webster, O.  Antropova, D.  Zeuschner, C. G.  Knight, A. J. P.  Docherty, M.  Lambert, L.  Skelton, H.  Jockusch, et al., “The metalloprotease disintegrin ADAM8 - Processing by autocatalysis is required for proteolytic activity and cell adhesion”, &lt;em&gt;Journal of Biological Chemistry&lt;/em&gt;, &lt;strong&gt;2002&lt;/strong&gt;, &lt;em&gt;277&lt;/em&gt;, 48210-48219.</angewandte-chemie>
+<apa>Schlomann, U., Wildeboer, D., Webster, A., Antropova, O., Zeuschner, D., Knight, C. G., Docherty, A. J. P., et al. (2002). The metalloprotease disintegrin ADAM8 - Processing by autocatalysis is required for proteolytic activity and cell adhesion. &lt;em&gt;Journal of Biological Chemistry&lt;/em&gt;, &lt;em&gt;277&lt;/em&gt;(50), 48210-48219.</apa>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schlomann, U., Wildeboer, D., Webster, A., Antropova, O., Zeuschner, D., Knight, C. G., Docherty, A. J. P., et al. (2002). The metalloprotease disintegrin ADAM8 - Processing by autocatalysis is required for proteolytic activity and cell adhesion. &lt;em&gt;Journal of Biological Chemistry&lt;/em&gt;, &lt;em&gt;277&lt;/em&gt;(50), 48210-48219.&lt;/div&gt;</apa_indent>
+<mla>Schlomann, U, Wildeboer, D, Webster, A, Antropova, O, Zeuschner, D, Knight, CG, Docherty, AJP, Lambert, M, Skelton, L, Jockusch, Harald, and Bartsch, JW. “The metalloprotease disintegrin ADAM8 - Processing by autocatalysis is required for proteolytic activity and cell adhesion”. &lt;em&gt;Journal of Biological Chemistry&lt;/em&gt; 277.50 (2002): 48210-48219.</mla>
+<lncs>Schlomann, U., Wildeboer, D., Webster, A., Antropova, O., Zeuschner, D., Knight, C.G., Docherty, A.J.P., Lambert, M., Skelton, L., Jockusch, H., Bartsch, J.W.: The metalloprotease disintegrin ADAM8 - Processing by autocatalysis is required for proteolytic activity and cell adhesion. Journal of Biological Chemistry. 277, 48210-48219 (2002).</lncs>
+<ieee>U. Schlomann, et al., “The metalloprotease disintegrin ADAM8 - Processing by autocatalysis is required for proteolytic activity and cell adhesion”, &lt;em&gt;Journal of Biological Chemistry&lt;/em&gt;,  vol. 277, 2002,  pp. 48210-48219.</ieee>
+<default>Schlomann U, Wildeboer D, Webster A, Antropova O, Zeuschner D, Knight CG, Docherty AJP, Lambert M, Skelton L, Jockusch H, Bartsch JW (2002) &lt;br /&gt;Journal of Biological Chemistry 277(50): 48210-48219.</default>
+<wels>Schlomann, U.; Wildeboer, D.; Webster, A.; Antropova, O.; Zeuschner, D.; Knight, C. G.; Docherty, A. J. P.; Lambert, M.; Skelton, L.; Jockusch, H.; Bartsch, J. W. (2002): The metalloprotease disintegrin ADAM8 - Processing by autocatalysis is required for proteolytic activity and cell adhesion &lt;em&gt;Journal of Biological Chemistry&lt;/em&gt;,277:(50): 48210-48219.</wels>
+<aps>U.  Schlomann, et al., The metalloprotease disintegrin ADAM8 - Processing by autocatalysis is required for proteolytic activity and cell adhesion, Journal of Biological Chemistry &lt;strong&gt;277&lt;/strong&gt;, 48210-48219 (2002).</aps>
+<bio1>Schlomann U, Wildeboer D, Webster A, Antropova O, Zeuschner D, Knight CG, Docherty AJP, Lambert M, Skelton L, Jockusch H, Bartsch JW (2002) &lt;br /&gt;The metalloprotease disintegrin ADAM8 - Processing by autocatalysis is required for proteolytic activity and cell adhesion.&lt;br /&gt;Journal of Biological Chemistry 277(50): 48210-48219.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schlomann, U., Wildeboer, D., Webster, A., Antropova, O., Zeuschner, D., Knight, C.G., Docherty, A.J.P., Lambert, M., Skelton, L., Jockusch, H. &amp;amp; Bartsch, J.W. (2002). The metalloprotease disintegrin ADAM8 - Processing by autocatalysis is required for proteolytic activity and cell adhesion. &lt;em&gt;Journal of Biological Chemistry&lt;/em&gt;, &lt;em&gt;277&lt;/em&gt;(50), 48210-48219. AMER SOC BIOCHEMISTRY MOLECULAR BIOLOGY INC. doi:10.1074/jbc.M203355200.&lt;/div&gt;</dgps>
+<ama>Schlomann U, Wildeboer D, Webster A, et al. The metalloprotease disintegrin ADAM8 - Processing by autocatalysis is required for proteolytic activity and cell adhesion. &lt;em&gt;Journal of Biological Chemistry&lt;/em&gt;. 2002;277(50):48210-48219.</ama>
+<harvard1>Schlomann, U., et al., 2002. The metalloprotease disintegrin ADAM8 - Processing by autocatalysis is required for proteolytic activity and cell adhesion. &lt;em&gt;Journal of Biological Chemistry&lt;/em&gt;, 277(50), p 48210-48219.</harvard1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1612917</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:00:21Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2013-02-25T14:39:15Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1612917</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1612917</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

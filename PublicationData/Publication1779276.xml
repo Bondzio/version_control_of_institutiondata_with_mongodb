@@ -1,0 +1,112 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Textunderstanding in LILOG - sorts and reference objects</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Claus-Rainer</namePart>
+  <namePart type="family">Rollinger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Rudi</namePart>
+  <namePart type="family">Studer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Hans</namePart>
+  <namePart type="family">Uszkoreit</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ipke</namePart>
+  <namePart type="family">Wachsmuth</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">73476</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Wilfried</namePart><namePart type="family">Brauer</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>AG Wissensbasierte Systeme</namePart>
+  <identifier type="unibi">10044</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Wachsmuth_35.pdf">https://pub.uni-bielefeld.de/download/1779276/2312638</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Springer</publisher><dateIssued encoding="w3cdtf">1987</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>knowledge representation</topic><topic>text understanding</topic><topic>L-LILOG</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Wissensbasierte Systeme: 2. Internationaler GI-Kongreß, München, 20./21. Okt. 1987</title></titleInfo>
+  <identifier type="isbn">3-540-18494-5</identifier><identifier type="urn">urn:nbn:de:0070-bipr-18131</identifier>
+<part><detail type="volume"><number>155</number></detail><extent unit="pages">246-259</extent>
+</part>
+</relatedItem>
+
+<note type="nonBielefeld">yes</note>
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Rollinger, Claus-Rainer, Studer, Rudi, Uszkoreit, Hans, and Wachsmuth, Ipke. 1987. “Textunderstanding in LILOG - sorts and reference objects”. In &lt;em&gt;Wissensbasierte Systeme: 2. Internationaler GI-Kongreß, München, 20./21. Okt. 1987&lt;/em&gt;, ed. Wilfried Brauer, 155:246-259. Informatik-Fachberichte ; Subreihe Künstliche Intelligenz. Berlin [u.a.]: Springer.&lt;/div&gt;</chicago>
+<apa>Rollinger, C. - R., Studer, R., Uszkoreit, H., &amp;amp; Wachsmuth, I. (1987). Textunderstanding in LILOG - sorts and reference objects. In W.  Brauer (Ed.), &lt;em&gt;Informatik-Fachberichte ; Subreihe Künstliche Intelligenz: Vol. 155&lt;/em&gt;&lt;em&gt;. Wissensbasierte Systeme: 2. Internationaler GI-Kongreß, München, 20./21. Okt. 1987&lt;/em&gt; (pp. 246-259). Berlin [u.a.]: Springer.</apa>
+<angewandte-chemie>C. - R.  Rollinger, R.  Studer, H.  Uszkoreit, and I.  Wachsmuth, in &lt;em&gt;Wissensbasierte Systeme: 2. Internationaler GI-Kongreß, München, 20./21. Okt. 1987&lt;/em&gt; (Ed.: W. Brauer), Springer, Berlin [u.a.], &lt;strong&gt;1987&lt;/strong&gt;, p. 246-259.</angewandte-chemie>
+<frontiers>Rollinger, C. - R., Studer, R., Uszkoreit, H., and Wachsmuth, I. (1987). “Textunderstanding in LILOG - sorts and reference objects” in &lt;em&gt;Wissensbasierte Systeme: 2. Internationaler GI-Kongreß, München, 20./21. Okt. 1987&lt;/em&gt;, ed. W.  Brauer Informatik-Fachberichte ; Subreihe Künstliche Intelligenz, vol. 155, (Berlin [u.a.]: Springer), 246-259.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Rollinger, C. - R., Studer, R., Uszkoreit, H., &amp;amp; Wachsmuth, I. (1987). Textunderstanding in LILOG - sorts and reference objects. In W.  Brauer (Ed.), &lt;em&gt;Informatik-Fachberichte ; Subreihe Künstliche Intelligenz: Vol. 155&lt;/em&gt;&lt;em&gt;. Wissensbasierte Systeme: 2. Internationaler GI-Kongreß, München, 20./21. Okt. 1987&lt;/em&gt; (pp. 246-259). Berlin [u.a.]: Springer.&lt;/div&gt;</apa_indent>
+<ieee>C.-R. Rollinger, et al., “Textunderstanding in LILOG - sorts and reference objects”, &lt;em&gt;Wissensbasierte Systeme: 2. Internationaler GI-Kongreß, München, 20./21. Okt. 1987&lt;/em&gt;, W. Brauer, ed., Informatik-Fachberichte ; Subreihe Künstliche Intelligenz, vol. 155,  Berlin [u.a.]: Springer, 1987,  pp.246-259.</ieee>
+<lncs>Rollinger, C.-R., Studer, R., Uszkoreit, H., Wachsmuth, I.: Textunderstanding in LILOG - sorts and reference objects. In: Brauer, W. (ed.) Wissensbasierte Systeme: 2. Internationaler GI-Kongreß, München, 20./21. Okt. 1987. Informatik-Fachberichte ; Subreihe Künstliche Intelligenz. 155, p. 246-259. Springer, Berlin [u.a.] (1987).</lncs>
+<mla>Rollinger, Claus-Rainer, Studer, Rudi, Uszkoreit, Hans, and Wachsmuth, Ipke. “Textunderstanding in LILOG - sorts and reference objects”. &lt;em&gt;Wissensbasierte Systeme: 2. Internationaler GI-Kongreß, München, 20./21. Okt. 1987&lt;/em&gt;. Ed. Wilfried Brauer. Berlin [u.a.]: Springer, 1987.Vol. 155. Informatik-Fachberichte ; Subreihe Künstliche Intelligenz. 246-259.</mla>
+<wels>Rollinger, C. - R.; Studer, R.; Uszkoreit, H.; Wachsmuth, I. (1987): Textunderstanding in LILOG - sorts and reference objects. In: Wilfried Brauer (Hrsg.):  Wissensbasierte Systeme: 2. Internationaler GI-Kongreß, München, 20./21. Okt. 1987. Berlin [u.a.]: Springer. (Informatik-Fachberichte ; Subreihe Künstliche Intelligenz, 155).  S. 246-259.</wels>
+<default>Rollinger C-R, Studer R, Uszkoreit H, Wachsmuth I (1987)  &lt;br /&gt;In:  Wissensbasierte Systeme: 2. Internationaler GI-Kongreß, München, 20./21. Okt. 1987. Brauer W (Ed); Informatik-Fachberichte ; Subreihe Künstliche Intelligenz, 155. Berlin [u.a.]: Springer:  246-259.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Rollinger, C.-R., Studer, R., Uszkoreit, H. &amp;amp; Wachsmuth, I. (1987). Textunderstanding in LILOG - sorts and reference objects (Informatik-Fachberichte ; Subreihe Künstliche Intelligenz). &lt;em&gt;Wissensbasierte Systeme: 2. Internationaler GI-Kongreß, München, 20./21. Okt. 1987&lt;/em&gt; (S. 246-259). Berlin [u.a.]: Springer.&lt;/div&gt;</dgps>
+<ama>Rollinger C-R, Studer R, Uszkoreit H, Wachsmuth I. Textunderstanding in LILOG - sorts and reference objects. In: Brauer W, ed. &lt;em&gt;Wissensbasierte Systeme: 2. Internationaler GI-Kongreß, München, 20./21. Okt. 1987&lt;/em&gt;. Informatik-Fachberichte ; Subreihe Künstliche Intelligenz. Vol 155. Berlin [u.a.]: Springer;  1987: 246-259.</ama>
+<harvard1>Rollinger, C.-R., et al., 1987. Textunderstanding in LILOG - sorts and reference objects. In W.  Brauer, ed. &lt;em&gt;Wissensbasierte Systeme: 2. Internationaler GI-Kongreß, München, 20./21. Okt. 1987&lt;/em&gt;. Informatik-Fachberichte ; Subreihe Künstliche Intelligenz. no.155  Berlin [u.a.]: Springer, pp. 246-259.</harvard1>
+<aps>C. - R.  Rollinger, et al., Textunderstanding in LILOG - sorts and reference objects, in &lt;em&gt;Wissensbasierte Systeme: 2. Internationaler GI-Kongreß, München, 20./21. Okt. 1987&lt;/em&gt;, edited by W.  Brauer, Informatik-Fachberichte ; Subreihe Künstliche Intelligenz, &lt;strong&gt;155&lt;/strong&gt; (Springer, Berlin [U.a.], 1987), p. 246-259.</aps>
+<bio1>Rollinger C-R, Studer R, Uszkoreit H, Wachsmuth I (1987) &lt;br /&gt;Textunderstanding in LILOG - sorts and reference objects. &lt;br /&gt;In:  Wissensbasierte Systeme: 2. Internationaler GI-Kongreß, München, 20./21. Okt. 1987. Brauer W (Ed); Informatik-Fachberichte ; Subreihe Künstliche Intelligenz, 155. Berlin [u.a.]: Springer:  246-259.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1779276</recordIdentifier><recordChangeDate encoding="w3cdtf">2013-12-16T10:19:38Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1779276</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1779276</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

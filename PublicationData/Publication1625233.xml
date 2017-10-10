@@ -1,0 +1,109 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Towards a physical expansion in perturbative gauge theories by using improved Baker-Gammel approximants</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">G</namePart>
+  <namePart type="family">Cvetic</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Reinhart</namePart>
+  <namePart type="family">Kögerler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40327</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Elementarteilchen und Quantenfelder</namePart>
+  <identifier type="unibi">23470443</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Applicability of the previously introduced method of modified diagonal Baker-Gammel approximants is extended to truncated perturbation series (TPS) of any order in gauge theories. The approximants reproduce the TPS when expanded in power series of the gauge coupling parameter to the order of that TPS, The approximants have the favorable property of being exactly invariant under the change of the renormalization scale, and that property is arrived at by a generalization of the method of the diagonal Pade approximants. The renormalization scheme dependence is subsequently eliminated by a variant of the method of the principle of minimal sensitivity (PMS), This is done by choosing the values of the renormalization-scheme-dependent coefficients (beta(1), beta(3),...), which appear in the beta function of the gauge coupling parameter, in such a way that the diagonal Baker-Gammel approximants have zero values of partial derivatives with respect to these coefficients. The resulting approximants are then independent of the renormalization scale and of the renormalization scheme. (C) 1998 Elsevier Science B.V.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">1998</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>renormalization scale</topic><topic>truncated perturbation series</topic><topic>diagonal Pade</topic><topic>approximants</topic><topic>diagonal Baker-Gammel approximants</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>NUCLEAR PHYSICS B</title></titleInfo>
+  <identifier type="issn">0550-3213</identifier>
+  <identifier type="arXiv">hep-ph/9802248</identifier>
+  <identifier type="INSPIRE">466866</identifier>
+  <identifier type="ISI">000074626100017</identifier><identifier type="doi">10.1016/S0550-3213(98)00230-2</identifier>
+<part><detail type="volume"><number>522</number></detail><detail type="issue"><number>1-2</number></detail><extent unit="pages">396-410</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<harvard1>Cvetic, G., &amp;amp; Kögerler, R., 1998. Towards a physical expansion in perturbative gauge theories by using improved Baker-Gammel approximants. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, 522(1-2), p 396-410.</harvard1>
+<ama>Cvetic G, Kögerler R. Towards a physical expansion in perturbative gauge theories by using improved Baker-Gammel approximants. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;. 1998;522(1-2):396-410.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cvetic, G. &amp;amp; Kögerler, R. (1998). Towards a physical expansion in perturbative gauge theories by using improved Baker-Gammel approximants. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, &lt;em&gt;522&lt;/em&gt;(1-2), 396-410. ELSEVIER SCIENCE BV. doi:10.1016/S0550-3213(98)00230-2.&lt;/div&gt;</dgps>
+<bio1>Cvetic G, Kögerler R (1998) &lt;br /&gt;Towards a physical expansion in perturbative gauge theories by using improved Baker-Gammel approximants.&lt;br /&gt;NUCLEAR PHYSICS B 522(1-2): 396-410.</bio1>
+<aps>G.  Cvetic and R.  Kögerler, Towards a physical expansion in perturbative gauge theories by using improved Baker-Gammel approximants, NUCLEAR PHYSICS B &lt;strong&gt;522&lt;/strong&gt;, 396-410 (1998).</aps>
+<wels>Cvetic, G.; Kögerler, R. (1998): Towards a physical expansion in perturbative gauge theories by using improved Baker-Gammel approximants &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;,522:(1-2): 396-410.</wels>
+<default>Cvetic G, Kögerler R (1998) &lt;br /&gt;NUCLEAR PHYSICS B 522(1-2): 396-410.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cvetic, G., &amp;amp; Kögerler, R. (1998). Towards a physical expansion in perturbative gauge theories by using improved Baker-Gammel approximants. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, &lt;em&gt;522&lt;/em&gt;(1-2), 396-410.&lt;/div&gt;</apa_indent>
+<ieee>G. Cvetic and R. Kögerler, “Towards a physical expansion in perturbative gauge theories by using improved Baker-Gammel approximants”, &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;,  vol. 522, 1998,  pp. 396-410.</ieee>
+<mla>Cvetic, G, and Kögerler, Reinhart. “Towards a physical expansion in perturbative gauge theories by using improved Baker-Gammel approximants”. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt; 522.1-2 (1998): 396-410.</mla>
+<lncs>Cvetic, G., Kögerler, R.: Towards a physical expansion in perturbative gauge theories by using improved Baker-Gammel approximants. NUCLEAR PHYSICS B. 522, 396-410 (1998).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cvetic, G, and Kögerler, Reinhart. 1998. “Towards a physical expansion in perturbative gauge theories by using improved Baker-Gammel approximants”. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt; 522 (1-2): 396-410.&lt;/div&gt;</chicago>
+<apa>Cvetic, G., &amp;amp; Kögerler, R. (1998). Towards a physical expansion in perturbative gauge theories by using improved Baker-Gammel approximants. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, &lt;em&gt;522&lt;/em&gt;(1-2), 396-410.</apa>
+<angewandte-chemie>G.  Cvetic, and R.  Kögerler, “Towards a physical expansion in perturbative gauge theories by using improved Baker-Gammel approximants”, &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, &lt;strong&gt;1998&lt;/strong&gt;, &lt;em&gt;522&lt;/em&gt;, 396-410.</angewandte-chemie>
+<frontiers>Cvetic, G., and Kögerler, R. (1998). Towards a physical expansion in perturbative gauge theories by using improved Baker-Gammel approximants. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt; 522, 396-410.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1625233</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:20:37Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-15T14:16:31Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1625233</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1625233</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,147 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>X-Ray Absorption and Magnetic Circular Dichroism Studies of Co-2 FeAl in Magnetic Tunnel Junctions</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Daniel</namePart>
+  <namePart type="family">Ebke</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">173192</identifier></name>
+<name type="personal">
+  <namePart type="given">Zoe</namePart>
+  <namePart type="family">Kugler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">4935604</identifier></name>
+<name type="personal">
+  <namePart type="given">Patrick</namePart>
+  <namePart type="family">Thomas</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">3992328</identifier></name>
+<name type="personal">
+  <namePart type="given">Oliver</namePart>
+  <namePart type="family">Schebaum</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">182235</identifier></name>
+<name type="personal">
+  <namePart type="given">Markus</namePart>
+  <namePart type="family">Schäfers</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">172582</identifier></name>
+<name type="personal">
+  <namePart type="given">Dennis</namePart>
+  <namePart type="family">Nissen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11426080</identifier></name>
+<name type="personal">
+  <namePart type="given">Jan-Michael</namePart>
+  <namePart type="family">Schmalhorst</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40191</identifier></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Hütten</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40194</identifier></name>
+<name type="personal">
+  <namePart type="given">Elke</namePart>
+  <namePart type="family">Arenholz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andy</namePart>
+  <namePart type="family">Thomas</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40188</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0001-8594-9060</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Biophysik und Nanowissenschaften</namePart>
+  <identifier type="unibi">2161137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Dünne Schichten &amp; Physik der Nanostrukturen</namePart>
+  <identifier type="unibi">28536538</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  A. Hütten</namePart>
+  <identifier type="unibi">33079566</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The bulk magnetic moment and the element specific magnetic moment of Co-2 FeAl thin films were examined as a function of annealing temperature by alternating gradient magnetometer (AGM) and X-ray absorption spectroscopy (XAS)/X-ray magnetic circular dichroism (XMCD), respectively. A high magnetic moment can be achieved for all annealing temperatures and the predicted bulk and interface magnetic moment of about 5 mu(B) are reached via heating. We will also present tunnel magnetoresistance (TMR) values of up to 153% at room temperature and 260% at 13 K for MgO based magnetic tunnel junctions (MTJs) with Co-2 FeAl and Co-Fe electrodes.</abstract>
+
+<originInfo><publisher>Institute of Electrical &amp; Electronics Engineers (IEEE)</publisher><dateIssued encoding="w3cdtf">2010</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>X-ray spectroscopy</topic><topic>thin films</topic><topic>Magnetic films</topic><topic>magnetoresistance</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>IEEE TRANSACTIONS ON MAGNETICS</title></titleInfo>
+  <identifier type="issn">0018-9464</identifier>
+  <identifier type="ISI">000278037800169</identifier><identifier type="doi">10.1109/TMAG.2010.2041049</identifier>
+<part><detail type="volume"><number>46</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">1925-1928</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Ebke D, Kugler Z, Thomas P, et al. X-Ray Absorption and Magnetic Circular Dichroism Studies of Co-2 FeAl in Magnetic Tunnel Junctions. &lt;em&gt;IEEE TRANSACTIONS ON MAGNETICS&lt;/em&gt;. 2010;46(6):1925-1928.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ebke, D., Kugler, Z., Thomas, P., Schebaum, O., Schäfers, M., Nissen, D., Schmalhorst, J.-M., Hütten, A., Arenholz, E. &amp;amp; Thomas, A. (2010). X-Ray Absorption and Magnetic Circular Dichroism Studies of Co-2 FeAl in Magnetic Tunnel Junctions. &lt;em&gt;IEEE TRANSACTIONS ON MAGNETICS&lt;/em&gt;, &lt;em&gt;46&lt;/em&gt;(6), 1925-1928. Institute of Electrical &amp;amp; Electronics Engineers (IEEE). doi:10.1109/TMAG.2010.2041049.&lt;/div&gt;</dgps>
+<harvard1>Ebke, D., et al., 2010. X-Ray Absorption and Magnetic Circular Dichroism Studies of Co-2 FeAl in Magnetic Tunnel Junctions. &lt;em&gt;IEEE TRANSACTIONS ON MAGNETICS&lt;/em&gt;, 46(6), p 1925-1928.</harvard1>
+<aps>D.  Ebke, et al., X-Ray Absorption and Magnetic Circular Dichroism Studies of Co-2 FeAl in Magnetic Tunnel Junctions, IEEE TRANSACTIONS ON MAGNETICS &lt;strong&gt;46&lt;/strong&gt;, 1925-1928 (2010).</aps>
+<bio1>Ebke D, Kugler Z, Thomas P, Schebaum O, Schäfers M, Nissen D, Schmalhorst J-M, Hütten A, Arenholz E, Thomas A (2010) &lt;br /&gt;X-Ray Absorption and Magnetic Circular Dichroism Studies of Co-2 FeAl in Magnetic Tunnel Junctions.&lt;br /&gt;IEEE TRANSACTIONS ON MAGNETICS 46(6): 1925-1928.</bio1>
+<wels>Ebke, D.; Kugler, Z.; Thomas, P.; Schebaum, O.; Schäfers, M.; Nissen, D.; Schmalhorst, J. - M.; Hütten, A.; Arenholz, E.; Thomas, A. (2010): X-Ray Absorption and Magnetic Circular Dichroism Studies of Co-2 FeAl in Magnetic Tunnel Junctions &lt;em&gt;IEEE TRANSACTIONS ON MAGNETICS&lt;/em&gt;,46:(6): 1925-1928.</wels>
+<default>Ebke D, Kugler Z, Thomas P, Schebaum O, Schäfers M, Nissen D, Schmalhorst J-M, Hütten A, Arenholz E, Thomas A (2010) &lt;br /&gt;IEEE TRANSACTIONS ON MAGNETICS 46(6): 1925-1928.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ebke, D., Kugler, Z., Thomas, P., Schebaum, O., Schäfers, M., Nissen, D., Schmalhorst, J. - M., et al. (2010). X-Ray Absorption and Magnetic Circular Dichroism Studies of Co-2 FeAl in Magnetic Tunnel Junctions. &lt;em&gt;IEEE TRANSACTIONS ON MAGNETICS&lt;/em&gt;, &lt;em&gt;46&lt;/em&gt;(6), 1925-1928.&lt;/div&gt;</apa_indent>
+<ieee>D. Ebke, et al., “X-Ray Absorption and Magnetic Circular Dichroism Studies of Co-2 FeAl in Magnetic Tunnel Junctions”, &lt;em&gt;IEEE TRANSACTIONS ON MAGNETICS&lt;/em&gt;,  vol. 46, 2010,  pp. 1925-1928.</ieee>
+<lncs>Ebke, D., Kugler, Z., Thomas, P., Schebaum, O., Schäfers, M., Nissen, D., Schmalhorst, J.-M., Hütten, A., Arenholz, E., Thomas, A.: X-Ray Absorption and Magnetic Circular Dichroism Studies of Co-2 FeAl in Magnetic Tunnel Junctions. IEEE TRANSACTIONS ON MAGNETICS. 46, 1925-1928 (2010).</lncs>
+<mla>Ebke, Daniel, Kugler, Zoe, Thomas, Patrick, Schebaum, Oliver, Schäfers, Markus, Nissen, Dennis, Schmalhorst, Jan-Michael, Hütten, Andreas, Arenholz, Elke, and Thomas, Andy. “X-Ray Absorption and Magnetic Circular Dichroism Studies of Co-2 FeAl in Magnetic Tunnel Junctions”. &lt;em&gt;IEEE TRANSACTIONS ON MAGNETICS&lt;/em&gt; 46.6 (2010): 1925-1928.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ebke, Daniel, Kugler, Zoe, Thomas, Patrick, Schebaum, Oliver, Schäfers, Markus, Nissen, Dennis, Schmalhorst, Jan-Michael, Hütten, Andreas, Arenholz, Elke, and Thomas, Andy. 2010. “X-Ray Absorption and Magnetic Circular Dichroism Studies of Co-2 FeAl in Magnetic Tunnel Junctions”. &lt;em&gt;IEEE TRANSACTIONS ON MAGNETICS&lt;/em&gt; 46 (6): 1925-1928.&lt;/div&gt;</chicago>
+<angewandte-chemie>D.  Ebke, Z.  Kugler, P.  Thomas, O.  Schebaum, M.  Schäfers, D.  Nissen, J. - M.  Schmalhorst, A.  Hütten, E.  Arenholz, and A.  Thomas, “X-Ray Absorption and Magnetic Circular Dichroism Studies of Co-2 FeAl in Magnetic Tunnel Junctions”, &lt;em&gt;IEEE TRANSACTIONS ON MAGNETICS&lt;/em&gt;, &lt;strong&gt;2010&lt;/strong&gt;, &lt;em&gt;46&lt;/em&gt;, 1925-1928.</angewandte-chemie>
+<apa>Ebke, D., Kugler, Z., Thomas, P., Schebaum, O., Schäfers, M., Nissen, D., Schmalhorst, J. - M., et al. (2010). X-Ray Absorption and Magnetic Circular Dichroism Studies of Co-2 FeAl in Magnetic Tunnel Junctions. &lt;em&gt;IEEE TRANSACTIONS ON MAGNETICS&lt;/em&gt;, &lt;em&gt;46&lt;/em&gt;(6), 1925-1928.</apa>
+<frontiers>Ebke, D., Kugler, Z., Thomas, P., Schebaum, O., Schäfers, M., Nissen, D., Schmalhorst, J. - M., Hütten, A., Arenholz, E., and Thomas, A. (2010). X-Ray Absorption and Magnetic Circular Dichroism Studies of Co-2 FeAl in Magnetic Tunnel Junctions. &lt;em&gt;IEEE TRANSACTIONS ON MAGNETICS&lt;/em&gt; 46, 1925-1928.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1795724</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-10-14T09:03:43Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-10T13:35:32Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1795724</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1795724</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

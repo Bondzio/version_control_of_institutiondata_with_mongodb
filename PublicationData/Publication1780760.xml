@@ -1,0 +1,96 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Der Tutor (Beratungslehrer) an einer Modell-Einrichtung</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Hans</namePart>
+  <namePart type="family">Hermsen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Wissenschaftliche Einrichtung Oberstufenkolleg</namePart>
+  <identifier type="unibi">11292831</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Hermsen_31.pdf">https://pub.uni-bielefeld.de/download/1780760/2313014</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1986</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Erziehungswissenschaft und Beruf</title></titleInfo>
+  <identifier type="issn">0342-0086</identifier><identifier type="urn">urn:nbn:de:0070-bipr-22043</identifier>
+<part><detail type="volume"><number>34</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">110-114</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Hermsen, H. (1986). Der Tutor (Beratungslehrer) an einer Modell-Einrichtung. &lt;em&gt;Erziehungswissenschaft und Beruf&lt;/em&gt; 34, 110-114.</frontiers>
+<angewandte-chemie>H.  Hermsen, “Der Tutor (Beratungslehrer) an einer Modell-Einrichtung”, &lt;em&gt;Erziehungswissenschaft und Beruf&lt;/em&gt;, &lt;strong&gt;1986&lt;/strong&gt;, &lt;em&gt;34&lt;/em&gt;, 110-114.</angewandte-chemie>
+<apa>Hermsen, H. (1986). Der Tutor (Beratungslehrer) an einer Modell-Einrichtung. &lt;em&gt;Erziehungswissenschaft und Beruf&lt;/em&gt;, &lt;em&gt;34&lt;/em&gt;(2), 110-114.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hermsen, Hans. 1986. “Der Tutor (Beratungslehrer) an einer Modell-Einrichtung”. &lt;em&gt;Erziehungswissenschaft und Beruf&lt;/em&gt; 34 (2): 110-114.&lt;/div&gt;</chicago>
+<mla>Hermsen, Hans. “Der Tutor (Beratungslehrer) an einer Modell-Einrichtung”. &lt;em&gt;Erziehungswissenschaft und Beruf&lt;/em&gt; 34.2 (1986): 110-114.</mla>
+<lncs>Hermsen, H.: Der Tutor (Beratungslehrer) an einer Modell-Einrichtung. Erziehungswissenschaft und Beruf. 34, 110-114 (1986).</lncs>
+<ieee>H. Hermsen, “Der Tutor (Beratungslehrer) an einer Modell-Einrichtung”, &lt;em&gt;Erziehungswissenschaft und Beruf&lt;/em&gt;,  vol. 34, 1986,  pp. 110-114.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hermsen, H. (1986). Der Tutor (Beratungslehrer) an einer Modell-Einrichtung. &lt;em&gt;Erziehungswissenschaft und Beruf&lt;/em&gt;, &lt;em&gt;34&lt;/em&gt;(2), 110-114.&lt;/div&gt;</apa_indent>
+<default>Hermsen H (1986) &lt;br /&gt;Erziehungswissenschaft und Beruf 34(2): 110-114.</default>
+<wels>Hermsen, H. (1986): Der Tutor (Beratungslehrer) an einer Modell-Einrichtung &lt;em&gt;Erziehungswissenschaft und Beruf&lt;/em&gt;,34:(2): 110-114.</wels>
+<bio1>Hermsen H (1986) &lt;br /&gt;Der Tutor (Beratungslehrer) an einer Modell-Einrichtung.&lt;br /&gt;Erziehungswissenschaft und Beruf 34(2): 110-114.</bio1>
+<aps>H.  Hermsen, Der Tutor (Beratungslehrer) an einer Modell-Einrichtung, Erziehungswissenschaft und Beruf &lt;strong&gt;34&lt;/strong&gt;, 110-114 (1986).</aps>
+<harvard1>Hermsen, H., 1986. Der Tutor (Beratungslehrer) an einer Modell-Einrichtung. &lt;em&gt;Erziehungswissenschaft und Beruf&lt;/em&gt;, 34(2), p 110-114.</harvard1>
+<ama>Hermsen H. Der Tutor (Beratungslehrer) an einer Modell-Einrichtung. &lt;em&gt;Erziehungswissenschaft und Beruf&lt;/em&gt;. 1986;34(2):110-114.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hermsen, H. (1986). Der Tutor (Beratungslehrer) an einer Modell-Einrichtung. &lt;em&gt;Erziehungswissenschaft und Beruf&lt;/em&gt;, &lt;em&gt;34&lt;/em&gt;(2), 110-114.&lt;/div&gt;</dgps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780760</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780760</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780760</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

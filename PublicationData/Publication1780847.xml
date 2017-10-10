@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Spectral radii of certain iteration matrices and cycle means of digraphs</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ludwig</namePart>
+  <namePart type="family">Elsner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10509</identifier></name>
+<name type="personal">
+  <namePart type="given">Daniel</namePart>
+  <namePart type="family">Hershkowitz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Hans</namePart>
+  <namePart type="family">Schneider</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Motivated by questions arising in the study of asynchronous iterative methods for solving linear systems, we consider the spectral radius of products of certain one cycle matrices. The spectral radius of a matrix in our class is a monotonic increasing function of the length of the cycle of the matrix, but this is known to be false for products of such matrices. The thrust of our investigation is to determine sufficient conditions under which the spectral radius of the product increases (decreases) when the lengths of the cycles of the factors increase (decrease). We also find sufficient conditions for the spectral radius of the product to be independent of the order of the factors.  Our chief tool is an auxiliary directed weighted graph whose cycle means determine the eigenvalues of the matrix product, and our main results are stated in terms of the maximal cycle mean of this graph.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Elsner_69.pdf">https://pub.uni-bielefeld.de/download/1780847/2313053</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1993</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Linear algebra and its applications</title></titleInfo>
+  <identifier type="issn">0024-3795</identifier>
+  <identifier type="ISI">A1993LY73300004</identifier><identifier type="urn">urn:nbn:de:0070-pub-17808471</identifier><identifier type="doi">10.1016/0024-3795(93)90236-H</identifier>
+<part><detail type="volume"><number>192</number></detail><extent unit="pages">61-81</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Elsner, L.; Hershkowitz, D.; Schneider, H. (1993): Spectral radii of certain iteration matrices and cycle means of digraphs &lt;em&gt;Linear algebra and its applications&lt;/em&gt;,192: 61-81.</wels>
+<default>Elsner L, Hershkowitz D, Schneider H (1993) &lt;br /&gt;Linear algebra and its applications 192: 61-81.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Elsner, L., Hershkowitz, D. &amp;amp; Schneider, H. (1993). Spectral radii of certain iteration matrices and cycle means of digraphs. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, &lt;em&gt;192&lt;/em&gt;, 61-81. doi:10.1016/0024-3795(93)90236-H.&lt;/div&gt;</dgps>
+<ama>Elsner L, Hershkowitz D, Schneider H. Spectral radii of certain iteration matrices and cycle means of digraphs. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;. 1993;192:61-81.</ama>
+<harvard1>Elsner, L., Hershkowitz, D., &amp;amp; Schneider, H., 1993. Spectral radii of certain iteration matrices and cycle means of digraphs. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, 192, p 61-81.</harvard1>
+<aps>L.  Elsner, D.  Hershkowitz, and H.  Schneider, Spectral radii of certain iteration matrices and cycle means of digraphs, Linear algebra and its applications &lt;strong&gt;192&lt;/strong&gt;, 61-81 (1993).</aps>
+<bio1>Elsner L, Hershkowitz D, Schneider H (1993) &lt;br /&gt;Spectral radii of certain iteration matrices and cycle means of digraphs.&lt;br /&gt;Linear algebra and its applications 192: 61-81.</bio1>
+<angewandte-chemie>L.  Elsner, D.  Hershkowitz, and H.  Schneider, “Spectral radii of certain iteration matrices and cycle means of digraphs”, &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, &lt;strong&gt;1993&lt;/strong&gt;, &lt;em&gt;192&lt;/em&gt;, 61-81.</angewandte-chemie>
+<apa>Elsner, L., Hershkowitz, D., &amp;amp; Schneider, H. (1993). Spectral radii of certain iteration matrices and cycle means of digraphs. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, &lt;em&gt;192&lt;/em&gt;, 61-81.</apa>
+<frontiers>Elsner, L., Hershkowitz, D., and Schneider, H. (1993). Spectral radii of certain iteration matrices and cycle means of digraphs. &lt;em&gt;Linear algebra and its applications&lt;/em&gt; 192, 61-81.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Elsner, Ludwig, Hershkowitz, Daniel, and Schneider, Hans. 1993. “Spectral radii of certain iteration matrices and cycle means of digraphs”. &lt;em&gt;Linear algebra and its applications&lt;/em&gt; 192: 61-81.&lt;/div&gt;</chicago>
+<ieee>L. Elsner, D. Hershkowitz, and H. Schneider, “Spectral radii of certain iteration matrices and cycle means of digraphs”, &lt;em&gt;Linear algebra and its applications&lt;/em&gt;,  vol. 192, 1993,  pp. 61-81.</ieee>
+<lncs>Elsner, L., Hershkowitz, D., Schneider, H.: Spectral radii of certain iteration matrices and cycle means of digraphs. Linear algebra and its applications. 192, 61-81 (1993).</lncs>
+<mla>Elsner, Ludwig, Hershkowitz, Daniel, and Schneider, Hans. “Spectral radii of certain iteration matrices and cycle means of digraphs”. &lt;em&gt;Linear algebra and its applications&lt;/em&gt; 192 (1993): 61-81.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Elsner, L., Hershkowitz, D., &amp;amp; Schneider, H. (1993). Spectral radii of certain iteration matrices and cycle means of digraphs. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, &lt;em&gt;192&lt;/em&gt;, 61-81.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780847</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780847</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780847</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

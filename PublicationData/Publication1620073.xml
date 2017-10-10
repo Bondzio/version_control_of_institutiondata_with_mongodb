@@ -1,0 +1,109 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>3D-simulations of magnetic structures in af-coupled multilayers with pinholes</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Willi</namePart>
+  <namePart type="family">Schepper</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40195</identifier></name>
+<name type="personal">
+  <namePart type="given">K</namePart>
+  <namePart type="family">Diplas</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Günter</namePart>
+  <namePart type="family">Reiss</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40207</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-0918-5940</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">28536538</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">For antiferromagnetically (af) coupled Py (Ni81Fe19\Cu)-multilayers lattice calculations have been used already for the investigation of pinholes in GMR elements. The very thin spacer layer (&lt; 10 Angstrom) is sensitive against pinholes as a link between the magnetic layers. Additional coupling through the pinhole modifies drastically the af-coupling between the magnetic layers and leads to strong changes in the M(H) and Delta R/R(H) curves. Improved lattice calculations with large grids offer the opportunity, to study effects of geometry in layers structured laterally. (C) 2000 American Institute of Physics. [S0021-8979(00)86608-6].</abstract>
+
+<originInfo><publisher>AMER INST PHYSICS</publisher><dateIssued encoding="w3cdtf">2000</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF APPLIED PHYSICS</title></titleInfo>
+  <identifier type="issn">0021-8979</identifier>
+  <identifier type="ISI">000086728800232</identifier><identifier type="doi">10.1063/1.372782</identifier>
+<part><detail type="volume"><number>87</number></detail><detail type="issue"><number>9</number></detail><extent unit="pages">6597-6599</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee> W. Schepper, K. Diplas, and G. Reiss, “3D-simulations of magnetic structures in af-coupled multilayers with pinholes”, &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;, vol. 87, AMER INST PHYSICS, 2000,  pp.6597-6599.</ieee>
+<lncs> Schepper, W., Diplas, K., Reiss, G.: 3D-simulations of magnetic structures in af-coupled multilayers with pinholes. JOURNAL OF APPLIED PHYSICS. 87, p. 6597-6599. AMER INST PHYSICS (2000).</lncs>
+<mla>Schepper, Willi, Diplas, K, and Reiss, Günter. “3D-simulations of magnetic structures in af-coupled multilayers with pinholes”. &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;. AMER INST PHYSICS, 2000.Vol. 87. 6597-6599.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schepper, W., Diplas, K., &amp;amp; Reiss, G. (2000). 3D-simulations of magnetic structures in af-coupled multilayers with pinholes. &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;, &lt;em&gt;87&lt;/em&gt;(9), 6597-6599.&lt;/div&gt;</apa_indent>
+<apa>Schepper, W., Diplas, K., &amp;amp; Reiss, G. (2000). 3D-simulations of magnetic structures in af-coupled multilayers with pinholes. &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;, &lt;em&gt;87&lt;/em&gt;(9), 6597-6599.</apa>
+<angewandte-chemie>W.  Schepper, K.  Diplas, and G.  Reiss, in &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;, Amer Inst Physics, &lt;strong&gt;2000&lt;/strong&gt;, p. 6597-6599.</angewandte-chemie>
+<frontiers>Schepper, W., Diplas, K., and Reiss, G. (2000). “3D-simulations of magnetic structures in af-coupled multilayers with pinholes” in &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;, vol. 87, (AMER INST PHYSICS), 6597-6599.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schepper, Willi, Diplas, K, and Reiss, Günter. 2000. “3D-simulations of magnetic structures in af-coupled multilayers with pinholes”. In &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;, 87:6597-6599. AMER INST PHYSICS.&lt;/div&gt;</chicago>
+<ama>Schepper W, Diplas K, Reiss G. 3D-simulations of magnetic structures in af-coupled multilayers with pinholes. In:  &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;. Vol 87. AMER INST PHYSICS;  2000: 6597-6599.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schepper, W., Diplas, K. &amp;amp; Reiss, G. (2000). 3D-simulations of magnetic structures in af-coupled multilayers with pinholes. &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt; (S. 6597-6599). AMER INST PHYSICS. doi:10.1063/1.372782.&lt;/div&gt;</dgps>
+<harvard1>Schepper, W., Diplas, K., &amp;amp; Reiss, G., 2000. 3D-simulations of magnetic structures in af-coupled multilayers with pinholes. In &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;. no.87  AMER INST PHYSICS, pp. 6597-6599.</harvard1>
+<aps> W.  Schepper, K.  Diplas, and G.  Reiss, 3D-simulations of magnetic structures in af-coupled multilayers with pinholes, in &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;, &lt;strong&gt;87&lt;/strong&gt; (AMER INST PHYSICS, 2000), p. 6597-6599.</aps>
+<bio1>Schepper W, Diplas K, Reiss G (2000) &lt;br /&gt;3D-simulations of magnetic structures in af-coupled multilayers with pinholes. &lt;br /&gt;In:  JOURNAL OF APPLIED PHYSICS. 87. AMER INST PHYSICS:  6597-6599.</bio1>
+<wels>Schepper, W.; Diplas, K.; Reiss, G. (2000): 3D-simulations of magnetic structures in af-coupled multilayers with pinholes. In: JOURNAL OF APPLIED PHYSICS. AMER INST PHYSICS. (87).  S. 6597-6599.</wels>
+<default>Schepper W, Diplas K, Reiss G (2000)  &lt;br /&gt;In:  JOURNAL OF APPLIED PHYSICS. 87. AMER INST PHYSICS:  6597-6599.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1620073</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:04:41Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-09-19T06:37:58Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1620073</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1620073</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

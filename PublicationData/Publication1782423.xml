@@ -1,0 +1,88 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Ein Fragebogen nationaler/nationalistischer Einstellungen</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Hans Dieter</namePart>
+  <namePart type="family">Schmidt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT3137.pdf">https://pub.uni-bielefeld.de/download/1782423/2313828</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1970</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Diagnostica</title></titleInfo>
+  <identifier type="issn">0012-1924</identifier><identifier type="urn">urn:nbn:de:0070-bipr-31376</identifier>
+<part><detail type="volume"><number>16</number></detail><extent unit="pages">16-29</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schmidt, H.D. (1970). Ein Fragebogen nationaler/nationalistischer Einstellungen. &lt;em&gt;Diagnostica&lt;/em&gt;, &lt;em&gt;16&lt;/em&gt;, 16-29.&lt;/div&gt;</dgps>
+<harvard1>Schmidt, H.D., 1970. Ein Fragebogen nationaler/nationalistischer Einstellungen. &lt;em&gt;Diagnostica&lt;/em&gt;, 16, p 16-29.</harvard1>
+<ama>Schmidt HD. Ein Fragebogen nationaler/nationalistischer Einstellungen. &lt;em&gt;Diagnostica&lt;/em&gt;. 1970;16:16-29.</ama>
+<aps>H. D.  Schmidt, Ein Fragebogen nationaler/nationalistischer Einstellungen, Diagnostica &lt;strong&gt;16&lt;/strong&gt;, 16-29 (1970).</aps>
+<bio1>Schmidt HD (1970) &lt;br /&gt;Ein Fragebogen nationaler/nationalistischer Einstellungen.&lt;br /&gt;Diagnostica 16: 16-29.</bio1>
+<wels>Schmidt, H. D. (1970): Ein Fragebogen nationaler/nationalistischer Einstellungen &lt;em&gt;Diagnostica&lt;/em&gt;,16: 16-29.</wels>
+<default>Schmidt HD (1970) &lt;br /&gt;Diagnostica 16: 16-29.</default>
+<ieee>H.D. Schmidt, “Ein Fragebogen nationaler/nationalistischer Einstellungen”, &lt;em&gt;Diagnostica&lt;/em&gt;,  vol. 16, 1970,  pp. 16-29.</ieee>
+<mla>Schmidt, Hans Dieter. “Ein Fragebogen nationaler/nationalistischer Einstellungen”. &lt;em&gt;Diagnostica&lt;/em&gt; 16 (1970): 16-29.</mla>
+<lncs>Schmidt, H.D.: Ein Fragebogen nationaler/nationalistischer Einstellungen. Diagnostica. 16, 16-29 (1970).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schmidt, H. D. (1970). Ein Fragebogen nationaler/nationalistischer Einstellungen. &lt;em&gt;Diagnostica&lt;/em&gt;, &lt;em&gt;16&lt;/em&gt;, 16-29.&lt;/div&gt;</apa_indent>
+<apa>Schmidt, H. D. (1970). Ein Fragebogen nationaler/nationalistischer Einstellungen. &lt;em&gt;Diagnostica&lt;/em&gt;, &lt;em&gt;16&lt;/em&gt;, 16-29.</apa>
+<angewandte-chemie>H. D.  Schmidt, “Ein Fragebogen nationaler/nationalistischer Einstellungen”, &lt;em&gt;Diagnostica&lt;/em&gt;, &lt;strong&gt;1970&lt;/strong&gt;, &lt;em&gt;16&lt;/em&gt;, 16-29.</angewandte-chemie>
+<frontiers>Schmidt, H. D. (1970). Ein Fragebogen nationaler/nationalistischer Einstellungen. &lt;em&gt;Diagnostica&lt;/em&gt; 16, 16-29.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schmidt, Hans Dieter. 1970. “Ein Fragebogen nationaler/nationalistischer Einstellungen”. &lt;em&gt;Diagnostica&lt;/em&gt; 16: 16-29.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1782423</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1782423</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1782423</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,108 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Effects of dissolved oxygen levels and the role of extra- and intracellular amino acid concentrations upon the metabolism of mammalian cell lines during batch and continuous cultures</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">R</namePart>
+  <namePart type="family">Heidemann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Dirk</namePart>
+  <namePart type="family">Lütkemeyer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10736</identifier></name>
+<name type="personal">
+  <namePart type="given">Heino</namePart>
+  <namePart type="family">Büntemeyer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10725</identifier></name>
+<name type="personal">
+  <namePart type="given">J</namePart>
+  <namePart type="family">Lehmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Technische Fakultät</namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The effects of dissolved oxygen and the concentration of essential amino acids upon the metabolism of two mammalian cell lines (rCHO producing human active (t-PA) and a mouse-mouse hybridoma) were investigated in batch, chemostat, and perfusion cultures. Intracellular amino acid concentrations were measured for both cell lines during repeated batch cultures and the Ks-values for the essential amino acids were calculated using Monod equations via computer simulation. The Ks-values were in the range of 10 mmol L-1 and the pool of most intracellular amino acids remained constant at about 10-100 fold higher in concentration than in the medium. No significant differences were observed between the hybridoma and CHO cell. The specific nutrient uptake rates corresponded with the cell specific growth rate and the effects of reduced dissolved oxygen concentrations only became evident when the DO dropped below 5% of air saturation (critical concentration below 1%). Nevertheless, a correlation between nutrient concentration and specific oxygen uptake was detected.</abstract>
+
+<originInfo><publisher>KLUWER ACADEMIC PUBL</publisher><dateIssued encoding="w3cdtf">1998</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>intracellular amino acids</topic><topic>productivity</topic><topic>Monod constants (K-S-values)</topic><topic>CHO</topic><topic>dissolved oxygen (DO)</topic><topic>specific uptake rates</topic><topic>hybridoma</topic><topic>essential amino acids</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>CYTOTECHNOLOGY</title></titleInfo>
+  <identifier type="issn">0920-9069</identifier>
+  <identifier type="MEDLINE">22358616</identifier>
+  <identifier type="ISI">000073472800003</identifier><identifier type="doi">10.1023/A:1007917409455</identifier>
+<part><detail type="volume"><number>26</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">185-197</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>R. Heidemann, et al., “Effects of dissolved oxygen levels and the role of extra- and intracellular amino acid concentrations upon the metabolism of mammalian cell lines during batch and continuous cultures”, &lt;em&gt;CYTOTECHNOLOGY&lt;/em&gt;,  vol. 26, 1998,  pp. 185-197.</ieee>
+<mla>Heidemann, R, Lütkemeyer, Dirk, Büntemeyer, Heino, and Lehmann, J. “Effects of dissolved oxygen levels and the role of extra- and intracellular amino acid concentrations upon the metabolism of mammalian cell lines during batch and continuous cultures”. &lt;em&gt;CYTOTECHNOLOGY&lt;/em&gt; 26.3 (1998): 185-197.</mla>
+<lncs>Heidemann, R., Lütkemeyer, D., Büntemeyer, H., Lehmann, J.: Effects of dissolved oxygen levels and the role of extra- and intracellular amino acid concentrations upon the metabolism of mammalian cell lines during batch and continuous cultures. CYTOTECHNOLOGY. 26, 185-197 (1998).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heidemann, R., Lütkemeyer, D., Büntemeyer, H., &amp;amp; Lehmann, J. (1998). Effects of dissolved oxygen levels and the role of extra- and intracellular amino acid concentrations upon the metabolism of mammalian cell lines during batch and continuous cultures. &lt;em&gt;CYTOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;26&lt;/em&gt;(3), 185-197.&lt;/div&gt;</apa_indent>
+<apa>Heidemann, R., Lütkemeyer, D., Büntemeyer, H., &amp;amp; Lehmann, J. (1998). Effects of dissolved oxygen levels and the role of extra- and intracellular amino acid concentrations upon the metabolism of mammalian cell lines during batch and continuous cultures. &lt;em&gt;CYTOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;26&lt;/em&gt;(3), 185-197.</apa>
+<angewandte-chemie>R.  Heidemann, D.  Lütkemeyer, H.  Büntemeyer, and J.  Lehmann, “Effects of dissolved oxygen levels and the role of extra- and intracellular amino acid concentrations upon the metabolism of mammalian cell lines during batch and continuous cultures”, &lt;em&gt;CYTOTECHNOLOGY&lt;/em&gt;, &lt;strong&gt;1998&lt;/strong&gt;, &lt;em&gt;26&lt;/em&gt;, 185-197.</angewandte-chemie>
+<frontiers>Heidemann, R., Lütkemeyer, D., Büntemeyer, H., and Lehmann, J. (1998). Effects of dissolved oxygen levels and the role of extra- and intracellular amino acid concentrations upon the metabolism of mammalian cell lines during batch and continuous cultures. &lt;em&gt;CYTOTECHNOLOGY&lt;/em&gt; 26, 185-197.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heidemann, R, Lütkemeyer, Dirk, Büntemeyer, Heino, and Lehmann, J. 1998. “Effects of dissolved oxygen levels and the role of extra- and intracellular amino acid concentrations upon the metabolism of mammalian cell lines during batch and continuous cultures”. &lt;em&gt;CYTOTECHNOLOGY&lt;/em&gt; 26 (3): 185-197.&lt;/div&gt;</chicago>
+<harvard1>Heidemann, R., et al., 1998. Effects of dissolved oxygen levels and the role of extra- and intracellular amino acid concentrations upon the metabolism of mammalian cell lines during batch and continuous cultures. &lt;em&gt;CYTOTECHNOLOGY&lt;/em&gt;, 26(3), p 185-197.</harvard1>
+<ama>Heidemann R, Lütkemeyer D, Büntemeyer H, Lehmann J. Effects of dissolved oxygen levels and the role of extra- and intracellular amino acid concentrations upon the metabolism of mammalian cell lines during batch and continuous cultures. &lt;em&gt;CYTOTECHNOLOGY&lt;/em&gt;. 1998;26(3):185-197.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heidemann, R., Lütkemeyer, D., Büntemeyer, H. &amp;amp; Lehmann, J. (1998). Effects of dissolved oxygen levels and the role of extra- and intracellular amino acid concentrations upon the metabolism of mammalian cell lines during batch and continuous cultures. &lt;em&gt;CYTOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;26&lt;/em&gt;(3), 185-197. KLUWER ACADEMIC PUBL. doi:10.1023/A:1007917409455.&lt;/div&gt;</dgps>
+<aps>R.  Heidemann, et al., Effects of dissolved oxygen levels and the role of extra- and intracellular amino acid concentrations upon the metabolism of mammalian cell lines during batch and continuous cultures, CYTOTECHNOLOGY &lt;strong&gt;26&lt;/strong&gt;, 185-197 (1998).</aps>
+<bio1>Heidemann R, Lütkemeyer D, Büntemeyer H, Lehmann J (1998) &lt;br /&gt;Effects of dissolved oxygen levels and the role of extra- and intracellular amino acid concentrations upon the metabolism of mammalian cell lines during batch and continuous cultures.&lt;br /&gt;CYTOTECHNOLOGY 26(3): 185-197.</bio1>
+<wels>Heidemann, R.; Lütkemeyer, D.; Büntemeyer, H.; Lehmann, J. (1998): Effects of dissolved oxygen levels and the role of extra- and intracellular amino acid concentrations upon the metabolism of mammalian cell lines during batch and continuous cultures &lt;em&gt;CYTOTECHNOLOGY&lt;/em&gt;,26:(3): 185-197.</wels>
+<default>Heidemann R, Lütkemeyer D, Büntemeyer H, Lehmann J (1998) &lt;br /&gt;CYTOTECHNOLOGY 26(3): 185-197.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1625625</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:20:48Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-12T09:43:50Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1625625</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1625625</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

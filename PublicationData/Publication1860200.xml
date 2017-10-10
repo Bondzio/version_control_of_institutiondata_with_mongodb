@@ -1,0 +1,89 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>working Paper</genre>
+
+<titleInfo><title>Public Private Partnerships and new modes of Governance - A State of the Art Review</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Detlef</namePart>
+  <namePart type="family">Sack</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">9106873</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">5656050</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host">
+<part>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Sack D (2009)  CINEFOGO Working Paper.</default>
+<wels>Sack, D. (2009): Public Private Partnerships and new modes of Governance - A State of the Art Review.</wels>
+<aps>D.  Sack, Public Private Partnerships and new modes of Governance - A State of the Art Review, CINEFOGO Working Paper (2009).</aps>
+<bio1>Sack D (2009) &lt;br /&gt;&lt;em&gt;Public Private Partnerships and new modes of Governance - A State of the Art Review&lt;/em&gt;. CINEFOGO Working Paper.</bio1>
+<ama>Sack D. &lt;em&gt;Public Private Partnerships and new modes of Governance - A State of the Art Review&lt;/em&gt;. CINEFOGO Working Paper.; 2009.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sack, D. (2009). &lt;em&gt;Public Private Partnerships and new modes of Governance - A State of the Art Review&lt;/em&gt; (CINEFOGO Working Paper).&lt;/div&gt;</dgps>
+<harvard1>Sack, D., 2009. &lt;em&gt;Public Private Partnerships and new modes of Governance - A State of the Art Review&lt;/em&gt;, CINEFOGO Working Paper,</harvard1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sack, Detlef. 2009. &lt;em&gt;Public Private Partnerships and new modes of Governance - A State of the Art Review&lt;/em&gt;. CINEFOGO Working Paper.&lt;/div&gt;</chicago>
+<frontiers>Sack, D. (2009). Public Private Partnerships and new modes of Governance - A State of the Art Review. &lt;em&gt;CINEFOGO Working Paper&lt;/em&gt;,.</frontiers>
+<apa>Sack, D. (2009).  &lt;em&gt;Public Private Partnerships and new modes of Governance - A State of the Art Review&lt;/em&gt; (CINEFOGO Working Paper).</apa>
+<angewandte-chemie>D.  Sack, &lt;em&gt;Public Private Partnerships and new modes of Governance - A State of the Art Review&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sack, D. (2009).  &lt;em&gt;Public Private Partnerships and new modes of Governance - A State of the Art Review&lt;/em&gt; (CINEFOGO Working Paper).&lt;/div&gt;</apa_indent>
+<mla>Sack, Detlef. &lt;em&gt;Public Private Partnerships and new modes of Governance - A State of the Art Review&lt;/em&gt;. 2009. CINEFOGO Working Paper.</mla>
+<lncs>Sack, D.: Public Private Partnerships and new modes of Governance - A State of the Art Review. CINEFOGO Working Paper. (2009).</lncs>
+<ieee>D. Sack, &lt;em&gt;Public Private Partnerships and new modes of Governance - A State of the Art Review&lt;/em&gt;, CINEFOGO Working Paper, 2009.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1860200</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-02-04T14:28:22Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-02-04T14:28:22Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1860200</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1860200</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

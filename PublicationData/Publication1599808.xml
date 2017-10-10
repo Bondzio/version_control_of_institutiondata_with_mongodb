@@ -1,0 +1,108 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>A medical bioinformatics approach for metabolic disorders: Biomedical data prediction, modeling, and systematic analysis</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Chen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ralf</namePart>
+  <namePart type="family">Hofestädt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">161045</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Research Group R. Hofestädt</namePart>
+  <identifier type="unibi">33067184</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Technische Fakultät</namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">During the past century, studies of metabolic disorders have focused research efforts to improve clinical diagnosis and management, to illuminate metabolic mechanisms, and to find effective treatments. The availability of human genome sequences and trallscriptomic, proteomic, and metabolomic data provides us with a challenging opportunity to develop computational approaches for systematic analysis of metabolic disorders. In this paper, we present a strategy of bioinformatics analysis to exploit the current data available both on genomic and metabolic levels and integrate these at novel levels of understanding of metabolic disorders. PathAligner is applied to predict biomedical data based on a given disorder. A case study on urea cycle disorders is demonstrated. A Petri net model is constructed to estimate the regulation both on genomic and metabolic levels. We also analyze the transcription factors, signaling pathways and associated disorders to interpret the occurrence and regulation of the urea cycle. Availability. PathAligner&apos;s metabolic disorder analyzer is available at http://bibiserv.techfak.uni-bielefeld.de/pathaligner/pathaligner_MDA.htm l. Supplementary materials are available at http://www.techflk.ulli-bielefeld.de/-mchen/metabolic-disorders. (c) 2005 Elsevier Inc. All rights reserved.</abstract>
+
+<originInfo><publisher>ACADEMIC PRESS INC ELSEVIER SCIENCE</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>systems biology</topic><topic>integrative bioinformatics</topic><topic>urea cycle disorders</topic><topic>inborn errors</topic><topic>PathAligner</topic><topic>metabolic disorders</topic><topic>medical bioinformatics</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF BIOMEDICAL INFORMATICS</title></titleInfo>
+  <identifier type="issn">1532-0464</identifier>
+  <identifier type="MEDLINE">16023895</identifier>
+  <identifier type="ISI">000236420100004</identifier><identifier type="doi">10.1016/j.jbi.2005.05.005</identifier>
+<part><detail type="volume"><number>39</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">147-159</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>M.  Chen and R.  Hofestädt, A medical bioinformatics approach for metabolic disorders: Biomedical data prediction, modeling, and systematic analysis, JOURNAL OF BIOMEDICAL INFORMATICS &lt;strong&gt;39&lt;/strong&gt;, 147-159 (2006).</aps>
+<bio1>Chen M, Hofestädt R (2006) &lt;br /&gt;A medical bioinformatics approach for metabolic disorders: Biomedical data prediction, modeling, and systematic analysis.&lt;br /&gt;JOURNAL OF BIOMEDICAL INFORMATICS 39(2): 147-159.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Chen, M. &amp;amp; Hofestädt, R. (2006). A medical bioinformatics approach for metabolic disorders: Biomedical data prediction, modeling, and systematic analysis. &lt;em&gt;JOURNAL OF BIOMEDICAL INFORMATICS&lt;/em&gt;, &lt;em&gt;39&lt;/em&gt;(2), 147-159. ACADEMIC PRESS INC ELSEVIER SCIENCE. doi:10.1016/j.jbi.2005.05.005.&lt;/div&gt;</dgps>
+<ama>Chen M, Hofestädt R. A medical bioinformatics approach for metabolic disorders: Biomedical data prediction, modeling, and systematic analysis. &lt;em&gt;JOURNAL OF BIOMEDICAL INFORMATICS&lt;/em&gt;. 2006;39(2):147-159.</ama>
+<harvard1>Chen, M., &amp;amp; Hofestädt, R., 2006. A medical bioinformatics approach for metabolic disorders: Biomedical data prediction, modeling, and systematic analysis. &lt;em&gt;JOURNAL OF BIOMEDICAL INFORMATICS&lt;/em&gt;, 39(2), p 147-159.</harvard1>
+<default>Chen M, Hofestädt R (2006) &lt;br /&gt;JOURNAL OF BIOMEDICAL INFORMATICS 39(2): 147-159.</default>
+<wels>Chen, M.; Hofestädt, R. (2006): A medical bioinformatics approach for metabolic disorders: Biomedical data prediction, modeling, and systematic analysis &lt;em&gt;JOURNAL OF BIOMEDICAL INFORMATICS&lt;/em&gt;,39:(2): 147-159.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Chen, M., &amp;amp; Hofestädt, R. (2006). A medical bioinformatics approach for metabolic disorders: Biomedical data prediction, modeling, and systematic analysis. &lt;em&gt;JOURNAL OF BIOMEDICAL INFORMATICS&lt;/em&gt;, &lt;em&gt;39&lt;/em&gt;(2), 147-159.&lt;/div&gt;</apa_indent>
+<mla>Chen, M, and Hofestädt, Ralf. “A medical bioinformatics approach for metabolic disorders: Biomedical data prediction, modeling, and systematic analysis”. &lt;em&gt;JOURNAL OF BIOMEDICAL INFORMATICS&lt;/em&gt; 39.2 (2006): 147-159.</mla>
+<lncs>Chen, M., Hofestädt, R.: A medical bioinformatics approach for metabolic disorders: Biomedical data prediction, modeling, and systematic analysis. JOURNAL OF BIOMEDICAL INFORMATICS. 39, 147-159 (2006).</lncs>
+<ieee>M. Chen and R. Hofestädt, “A medical bioinformatics approach for metabolic disorders: Biomedical data prediction, modeling, and systematic analysis”, &lt;em&gt;JOURNAL OF BIOMEDICAL INFORMATICS&lt;/em&gt;,  vol. 39, 2006,  pp. 147-159.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Chen, M, and Hofestädt, Ralf. 2006. “A medical bioinformatics approach for metabolic disorders: Biomedical data prediction, modeling, and systematic analysis”. &lt;em&gt;JOURNAL OF BIOMEDICAL INFORMATICS&lt;/em&gt; 39 (2): 147-159.&lt;/div&gt;</chicago>
+<frontiers>Chen, M., and Hofestädt, R. (2006). A medical bioinformatics approach for metabolic disorders: Biomedical data prediction, modeling, and systematic analysis. &lt;em&gt;JOURNAL OF BIOMEDICAL INFORMATICS&lt;/em&gt; 39, 147-159.</frontiers>
+<angewandte-chemie>M.  Chen, and R.  Hofestädt, “A medical bioinformatics approach for metabolic disorders: Biomedical data prediction, modeling, and systematic analysis”, &lt;em&gt;JOURNAL OF BIOMEDICAL INFORMATICS&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;39&lt;/em&gt;, 147-159.</angewandte-chemie>
+<apa>Chen, M., &amp;amp; Hofestädt, R. (2006). A medical bioinformatics approach for metabolic disorders: Biomedical data prediction, modeling, and systematic analysis. &lt;em&gt;JOURNAL OF BIOMEDICAL INFORMATICS&lt;/em&gt;, &lt;em&gt;39&lt;/em&gt;(2), 147-159.</apa>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1599808</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:30:54Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-10T10:54:47Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1599808</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1599808</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

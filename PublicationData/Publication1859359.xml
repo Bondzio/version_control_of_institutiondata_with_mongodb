@@ -1,0 +1,91 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Essay &quot;Das Ende der Kindheit und die Macht des Käfigs&quot;</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Torsten</namePart>
+  <namePart type="family">Voß</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">136590</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Torsten</namePart><namePart type="family">Voß</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Linguistik und Literaturwissenschaft</namePart>
+  <identifier type="unibi">10019</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Lektora</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Die Literaturwerkstatt. Festschrift für Rolf Grimminger</title></titleInfo>
+<part><extent unit="pages">60-64</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Voß, T. (2006): Essay &quot;Das Ende der Kindheit und die Macht des Käfigs&quot;. In: Torsten Voß (Hrsg.):  Die Literaturwerkstatt. Festschrift für Rolf Grimminger. Paderborn: Lektora.  S. 60-64.</wels>
+<default>Voß T (2006)  &lt;br /&gt;In:  Die Literaturwerkstatt. Festschrift für Rolf Grimminger. Voß T (Ed);Paderborn: Lektora:  60-64.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Voß, T. (2006). Essay &quot;Das Ende der Kindheit und die Macht des Käfigs&quot;. &lt;em&gt;Die Literaturwerkstatt. Festschrift für Rolf Grimminger&lt;/em&gt; (S. 60-64). Paderborn: Lektora.&lt;/div&gt;</dgps>
+<ama>Voß T. Essay &quot;Das Ende der Kindheit und die Macht des Käfigs&quot;. In: Voß T, ed. &lt;em&gt;Die Literaturwerkstatt. Festschrift für Rolf Grimminger&lt;/em&gt;. Paderborn: Lektora;  2006: 60-64.</ama>
+<harvard1>Voß, T., 2006. Essay &quot;Das Ende der Kindheit und die Macht des Käfigs&quot;. In T.  Voß, ed. &lt;em&gt;Die Literaturwerkstatt. Festschrift für Rolf Grimminger&lt;/em&gt;.  Paderborn: Lektora, pp. 60-64.</harvard1>
+<aps>T.  Voß, Essay &quot;Das Ende der Kindheit und die Macht des Käfigs&quot;, in &lt;em&gt;Die Literaturwerkstatt. Festschrift für Rolf Grimminger&lt;/em&gt;, edited by T.  Voß (Lektora, Paderborn, 2006), p. 60-64.</aps>
+<bio1>Voß T (2006) &lt;br /&gt;Essay &quot;Das Ende der Kindheit und die Macht des Käfigs&quot;. &lt;br /&gt;In:  Die Literaturwerkstatt. Festschrift für Rolf Grimminger. Voß T (Ed); Paderborn: Lektora:  60-64.</bio1>
+<apa>Voß, T. (2006). Essay &quot;Das Ende der Kindheit und die Macht des Käfigs&quot;. In T.  Voß (Ed.), &lt;em&gt;Die Literaturwerkstatt. Festschrift für Rolf Grimminger&lt;/em&gt; (pp. 60-64). Paderborn: Lektora.</apa>
+<angewandte-chemie>T.  Voß, in &lt;em&gt;Die Literaturwerkstatt. Festschrift für Rolf Grimminger&lt;/em&gt; (Ed.: T. Voß), Lektora, Paderborn, &lt;strong&gt;2006&lt;/strong&gt;, p. 60-64.</angewandte-chemie>
+<frontiers>Voß, T. (2006). “Essay &quot;Das Ende der Kindheit und die Macht des Käfigs&quot;” in &lt;em&gt;Die Literaturwerkstatt. Festschrift für Rolf Grimminger&lt;/em&gt;, ed. T.  Voß (Paderborn: Lektora), 60-64.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Voß, Torsten. 2006. “Essay &quot;Das Ende der Kindheit und die Macht des Käfigs&quot;”. In &lt;em&gt;Die Literaturwerkstatt. Festschrift für Rolf Grimminger&lt;/em&gt;, ed. Torsten Voß, 60-64. Paderborn: Lektora.&lt;/div&gt;</chicago>
+<ieee>T. Voß, “Essay &quot;Das Ende der Kindheit und die Macht des Käfigs&quot;”, &lt;em&gt;Die Literaturwerkstatt. Festschrift für Rolf Grimminger&lt;/em&gt;, T. Voß, ed.,  Paderborn: Lektora, 2006,  pp.60-64.</ieee>
+<mla>Voß, Torsten. “Essay &quot;Das Ende der Kindheit und die Macht des Käfigs&quot;”. &lt;em&gt;Die Literaturwerkstatt. Festschrift für Rolf Grimminger&lt;/em&gt;. Ed. Torsten Voß. Paderborn: Lektora, 2006. 60-64.</mla>
+<lncs>Voß, T.: Essay &quot;Das Ende der Kindheit und die Macht des Käfigs&quot;. In: Voß, T. (ed.) Die Literaturwerkstatt. Festschrift für Rolf Grimminger. p. 60-64. Lektora, Paderborn (2006).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Voß, T. (2006). Essay &quot;Das Ende der Kindheit und die Macht des Käfigs&quot;. In T.  Voß (Ed.), &lt;em&gt;Die Literaturwerkstatt. Festschrift für Rolf Grimminger&lt;/em&gt; (pp. 60-64). Paderborn: Lektora.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1859359</recordIdentifier><recordChangeDate encoding="w3cdtf">2013-02-15T15:21:38Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1859359</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1859359</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

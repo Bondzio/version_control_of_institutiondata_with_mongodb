@@ -1,0 +1,115 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>On the cost functions for the control of the human arm movement</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Holk</namePart>
+  <namePart type="family">Cruse</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21923</identifier></name>
+<name type="personal">
+  <namePart type="given">E.</namePart>
+  <namePart type="family">Wischmeyer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M.</namePart>
+  <namePart type="family">Brüwer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">P.</namePart>
+  <namePart type="family">Brockfeld</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A.</namePart>
+  <namePart type="family">Drees</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2685507</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Cruse_66.pdf">https://pub.uni-bielefeld.de/download/1781459/2313307</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1990</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Biological cybernetics</title></titleInfo>
+  <identifier type="issn">0340-1200</identifier>
+  <identifier type="eIssn">1432-0770</identifier>
+  <identifier type="MEDLINE">2357475</identifier>
+  <identifier type="ISI">A1990DB59600007</identifier><identifier type="urn">urn:nbn:de:0070-pub-17814598</identifier><identifier type="doi">10.1007/BF00205114</identifier>
+<part><detail type="volume"><number>62</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">519-528</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps> H.  Cruse, et al., On the cost functions for the control of the human arm movement, Biological cybernetics &lt;strong&gt;62&lt;/strong&gt;, 519-528 (1990).</aps>
+<bio1>Cruse H, Wischmeyer E, Brüwer M, Brockfeld P, Drees A (1990) &lt;br /&gt;On the cost functions for the control of the human arm movement.&lt;br /&gt;Biological cybernetics 62(6): 519-528.</bio1>
+<ama>Cruse H, Wischmeyer E, Brüwer M, Brockfeld P, Drees A. On the cost functions for the control of the human arm movement. &lt;em&gt;Biological cybernetics&lt;/em&gt;. 1990;62(6):519-528.</ama>
+<harvard1>Cruse, H., et al., 1990. On the cost functions for the control of the human arm movement. &lt;em&gt;Biological cybernetics&lt;/em&gt;, 62(6), p 519-528.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cruse, H., Wischmeyer, E., Brüwer, M., Brockfeld, P. &amp;amp; Drees, A. (1990). On the cost functions for the control of the human arm movement. &lt;em&gt;Biological cybernetics&lt;/em&gt;, &lt;em&gt;62&lt;/em&gt;(6), 519-528. doi:10.1007/BF00205114.&lt;/div&gt;</dgps>
+<default>Cruse H, Wischmeyer E, Brüwer M, Brockfeld P, Drees A (1990) &lt;br /&gt;Biological cybernetics 62(6): 519-528.</default>
+<wels>Cruse, H.; Wischmeyer, E.; Brüwer, M.; Brockfeld, P.; Drees, A. (1990): On the cost functions for the control of the human arm movement &lt;em&gt;Biological cybernetics&lt;/em&gt;,62:(6): 519-528.</wels>
+<lncs> Cruse, H., Wischmeyer, E., Brüwer, M., Brockfeld, P., Drees, A.: On the cost functions for the control of the human arm movement. Biological cybernetics. 62, 519-528 (1990).</lncs>
+<mla>Cruse, Holk, Wischmeyer, E., Brüwer, M., Brockfeld, P., and Drees, A. “On the cost functions for the control of the human arm movement”. &lt;em&gt;Biological cybernetics&lt;/em&gt; 62.6 (1990): 519-528.</mla>
+<ieee> H. Cruse, et al., “On the cost functions for the control of the human arm movement”, &lt;em&gt;Biological cybernetics&lt;/em&gt;,  vol. 62, 1990,  pp. 519-528.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cruse, H., Wischmeyer, E., Brüwer, M., Brockfeld, P., &amp;amp; Drees, A. (1990). On the cost functions for the control of the human arm movement. &lt;em&gt;Biological cybernetics&lt;/em&gt;, &lt;em&gt;62&lt;/em&gt;(6), 519-528.&lt;/div&gt;</apa_indent>
+<frontiers>Cruse, H., Wischmeyer, E., Brüwer, M., Brockfeld, P., and Drees, A. (1990). On the cost functions for the control of the human arm movement. &lt;em&gt;Biological cybernetics&lt;/em&gt; 62, 519-528.</frontiers>
+<apa>Cruse, H., Wischmeyer, E., Brüwer, M., Brockfeld, P., &amp;amp; Drees, A. (1990). On the cost functions for the control of the human arm movement. &lt;em&gt;Biological cybernetics&lt;/em&gt;, &lt;em&gt;62&lt;/em&gt;(6), 519-528.</apa>
+<angewandte-chemie>H.  Cruse, E.  Wischmeyer, M.  Brüwer, P.  Brockfeld, and A.  Drees, “On the cost functions for the control of the human arm movement”, &lt;em&gt;Biological cybernetics&lt;/em&gt;, &lt;strong&gt;1990&lt;/strong&gt;, &lt;em&gt;62&lt;/em&gt;, 519-528.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cruse, Holk, Wischmeyer, E., Brüwer, M., Brockfeld, P., and Drees, A. 1990. “On the cost functions for the control of the human arm movement”. &lt;em&gt;Biological cybernetics&lt;/em&gt; 62 (6): 519-528.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781459</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-08-09T06:43:28Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-08-09T06:43:28Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781459</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781459</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

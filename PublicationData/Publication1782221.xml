@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Dynamische Semantik</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Walther</namePart>
+  <namePart type="family">Kindt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11705</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Burghard B</namePart><namePart type="family">Rieger</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Linguistik und Literaturwissenschaft</namePart>
+  <identifier type="unibi">10019</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT3045.pdf">https://pub.uni-bielefeld.de/download/1782221/2313740</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Buske</publisher><dateIssued encoding="w3cdtf">1985</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Dynamik in der Bedeutungskonstitution</title></titleInfo>
+  <identifier type="isbn">3-87118-712-7</identifier><identifier type="urn">urn:nbn:de:0070-bipr-30455</identifier>
+<part><extent unit="pages">95-141</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Kindt W (1985)  &lt;br /&gt;In:  Dynamik in der Bedeutungskonstitution. Rieger BB (Ed); Papiere zur Textlinguistik ; 46, . Hamburg: Buske:  95-141.</default>
+<wels>Kindt, W. (1985): Dynamische Semantik. In: Burghard B Rieger (Hrsg.):  Dynamik in der Bedeutungskonstitution. Hamburg: Buske. (Papiere zur Textlinguistik ; 46, ).  S. 95-141.</wels>
+<bio1>Kindt W (1985) &lt;br /&gt;Dynamische Semantik. &lt;br /&gt;In:  Dynamik in der Bedeutungskonstitution. Rieger BB (Ed); Papiere zur Textlinguistik ; 46,  Hamburg: Buske:  95-141.</bio1>
+<aps>W.  Kindt, Dynamische Semantik, in &lt;em&gt;Dynamik in der Bedeutungskonstitution&lt;/em&gt;, edited by B. B.  Rieger, Papiere zur Textlinguistik ; 46 (Buske, Hamburg, 1985), p. 95-141.</aps>
+<ama>Kindt W. Dynamische Semantik. In: Rieger BB, ed. &lt;em&gt;Dynamik in der Bedeutungskonstitution&lt;/em&gt;. Papiere zur Textlinguistik ; 46. Hamburg: Buske;  1985: 95-141.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kindt, W. (1985). Dynamische Semantik (Papiere zur Textlinguistik ; 46). &lt;em&gt;Dynamik in der Bedeutungskonstitution&lt;/em&gt; (S. 95-141). Hamburg: Buske.&lt;/div&gt;</dgps>
+<harvard1>Kindt, W., 1985. Dynamische Semantik. In B. B.  Rieger, ed. &lt;em&gt;Dynamik in der Bedeutungskonstitution&lt;/em&gt;. Papiere zur Textlinguistik ; 46.  Hamburg: Buske, pp. 95-141.</harvard1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kindt, Walther. 1985. “Dynamische Semantik”. In &lt;em&gt;Dynamik in der Bedeutungskonstitution&lt;/em&gt;, ed. Burghard B Rieger, 95-141. Papiere zur Textlinguistik ; 46. Hamburg: Buske.&lt;/div&gt;</chicago>
+<frontiers>Kindt, W. (1985). “Dynamische Semantik” in &lt;em&gt;Dynamik in der Bedeutungskonstitution&lt;/em&gt;, ed. B. B.  Rieger Papiere zur Textlinguistik ; 46 (Hamburg: Buske), 95-141.</frontiers>
+<angewandte-chemie>W.  Kindt, in &lt;em&gt;Dynamik in der Bedeutungskonstitution&lt;/em&gt; (Ed.: B.B. Rieger), Buske, Hamburg, &lt;strong&gt;1985&lt;/strong&gt;, p. 95-141.</angewandte-chemie>
+<apa>Kindt, W. (1985). Dynamische Semantik. In B. B.  Rieger (Ed.), &lt;em&gt;Papiere zur Textlinguistik ; 46&lt;/em&gt;&lt;em&gt;. Dynamik in der Bedeutungskonstitution&lt;/em&gt; (pp. 95-141). Hamburg: Buske.</apa>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kindt, W. (1985). Dynamische Semantik. In B. B.  Rieger (Ed.), &lt;em&gt;Papiere zur Textlinguistik ; 46&lt;/em&gt;&lt;em&gt;. Dynamik in der Bedeutungskonstitution&lt;/em&gt; (pp. 95-141). Hamburg: Buske.&lt;/div&gt;</apa_indent>
+<lncs>Kindt, W.: Dynamische Semantik. In: Rieger, B.B. (ed.) Dynamik in der Bedeutungskonstitution. Papiere zur Textlinguistik ; 46. p. 95-141. Buske, Hamburg (1985).</lncs>
+<mla>Kindt, Walther. “Dynamische Semantik”. &lt;em&gt;Dynamik in der Bedeutungskonstitution&lt;/em&gt;. Ed. Burghard B Rieger. Hamburg: Buske, 1985. Papiere zur Textlinguistik ; 46. 95-141.</mla>
+<ieee>W. Kindt, “Dynamische Semantik”, &lt;em&gt;Dynamik in der Bedeutungskonstitution&lt;/em&gt;, B.B. Rieger, ed., Papiere zur Textlinguistik ; 46,  Hamburg: Buske, 1985,  pp.95-141.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1782221</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1782221</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1782221</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

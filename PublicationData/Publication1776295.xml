@@ -1,0 +1,128 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Deconfinement for SU(2) gauge theory in 2+1 dimensions</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Jürgen</namePart>
+  <namePart type="family">Engels</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40338</identifier></name>
+<name type="personal">
+  <namePart type="given">E.</namePart>
+  <namePart type="family">Kehl</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Helmut</namePart>
+  <namePart type="family">Satz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40339</identifier></name>
+<name type="personal">
+  <namePart type="given">B.</namePart>
+  <namePart type="family">Waltl</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Phänomenologie von Schwerionenkollisionen</namePart>
+  <identifier type="unibi">23470601</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">By calculating Polyakov-loop averages on a 60 2×2 lattice, we determine the critical exponent of deconfinement for SU(2) gauge theory in 2+1 dimensions. Universality arguments predict it to be the same as the critical exponent [beta]=(1/8) for the spontaneous magnetization in the two-dimensional Ising model. Our results are in good accord with this prediction.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Engels_019.pdf">https://pub.uni-bielefeld.de/download/1776295/2312135</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1985</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Physical review letters</title></titleInfo>
+  <identifier type="issn">0031-9007</identifier>
+  <identifier type="INSPIRE">213593</identifier>
+  <identifier type="MEDLINE">10032252</identifier>
+  <identifier type="ISI">A1985AWD9400003</identifier><identifier type="urn">urn:nbn:de:0070-pub-17762950</identifier><identifier type="doi">10.1103/PhysRevLett.55.2839</identifier>
+<part><detail type="volume"><number>55</number></detail><detail type="issue"><number>26</number></detail><extent unit="pages">2839-2841</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Engels J, Kehl E, Satz H, Waltl B (1985) &lt;br /&gt;Physical review letters 55(26): 2839-2841.</default>
+<wels>Engels, J.; Kehl, E.; Satz, H.; Waltl, B. (1985): Deconfinement for SU(2) gauge theory in 2+1 dimensions &lt;em&gt;Physical review letters&lt;/em&gt;,55:(26): 2839-2841.</wels>
+<aps>J.  Engels, et al., Deconfinement for SU(2) gauge theory in 2+1 dimensions, Physical review letters &lt;strong&gt;55&lt;/strong&gt;, 2839-2841 (1985).</aps>
+<bio1>Engels J, Kehl E, Satz H, Waltl B (1985) &lt;br /&gt;Deconfinement for SU(2) gauge theory in 2+1 dimensions.&lt;br /&gt;Physical review letters 55(26): 2839-2841.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, J., Kehl, E., Satz, H. &amp;amp; Waltl, B. (1985). Deconfinement for SU(2) gauge theory in 2+1 dimensions. &lt;em&gt;Physical review letters&lt;/em&gt;, &lt;em&gt;55&lt;/em&gt;(26), 2839-2841. doi:10.1103/PhysRevLett.55.2839.&lt;/div&gt;</dgps>
+<ama>Engels J, Kehl E, Satz H, Waltl B. Deconfinement for SU(2) gauge theory in 2+1 dimensions. &lt;em&gt;Physical review letters&lt;/em&gt;. 1985;55(26):2839-2841.</ama>
+<harvard1>Engels, J., et al., 1985. Deconfinement for SU(2) gauge theory in 2+1 dimensions. &lt;em&gt;Physical review letters&lt;/em&gt;, 55(26), p 2839-2841.</harvard1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, Jürgen, Kehl, E., Satz, Helmut, and Waltl, B. 1985. “Deconfinement for SU(2) gauge theory in 2+1 dimensions”. &lt;em&gt;Physical review letters&lt;/em&gt; 55 (26): 2839-2841.&lt;/div&gt;</chicago>
+<frontiers>Engels, J., Kehl, E., Satz, H., and Waltl, B. (1985). Deconfinement for SU(2) gauge theory in 2+1 dimensions. &lt;em&gt;Physical review letters&lt;/em&gt; 55, 2839-2841.</frontiers>
+<apa>Engels, J., Kehl, E., Satz, H., &amp;amp; Waltl, B. (1985). Deconfinement for SU(2) gauge theory in 2+1 dimensions. &lt;em&gt;Physical review letters&lt;/em&gt;, &lt;em&gt;55&lt;/em&gt;(26), 2839-2841.</apa>
+<angewandte-chemie>J.  Engels, E.  Kehl, H.  Satz, and B.  Waltl, “Deconfinement for SU(2) gauge theory in 2+1 dimensions”, &lt;em&gt;Physical review letters&lt;/em&gt;, &lt;strong&gt;1985&lt;/strong&gt;, &lt;em&gt;55&lt;/em&gt;, 2839-2841.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, J., Kehl, E., Satz, H., &amp;amp; Waltl, B. (1985). Deconfinement for SU(2) gauge theory in 2+1 dimensions. &lt;em&gt;Physical review letters&lt;/em&gt;, &lt;em&gt;55&lt;/em&gt;(26), 2839-2841.&lt;/div&gt;</apa_indent>
+<mla>Engels, Jürgen, Kehl, E., Satz, Helmut, and Waltl, B. “Deconfinement for SU(2) gauge theory in 2+1 dimensions”. &lt;em&gt;Physical review letters&lt;/em&gt; 55.26 (1985): 2839-2841.</mla>
+<lncs>Engels, J., Kehl, E., Satz, H., Waltl, B.: Deconfinement for SU(2) gauge theory in 2+1 dimensions. Physical review letters. 55, 2839-2841 (1985).</lncs>
+<ieee>J. Engels, et al., “Deconfinement for SU(2) gauge theory in 2+1 dimensions”, &lt;em&gt;Physical review letters&lt;/em&gt;,  vol. 55, 1985,  pp. 2839-2841.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776295</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776295</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776295</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

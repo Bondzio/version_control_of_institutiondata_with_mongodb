@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>An Extension of Neural Gas to Local PCA</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ralf</namePart>
+  <namePart type="family">Möller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">94532</identifier></name>
+<name type="personal">
+  <namePart type="given">Heiko</namePart>
+  <namePart type="family">Hoffmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Technische Informatik</namePart>
+  <identifier type="unibi">10040</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We suggest an extension of the neural gas vector quantization method to local principal component analysis. The distance measure for the competition between local units combines a normalized Mahalanobis distance in the principal subspace and the squared reconstruction error, with the weighting of both measures depending on the residual variance in the minor subspace. A recursive least-squares method performs the local principal component analysis. The method is tested on synthetic two- and three-dimensional data and on the recognition of handwritten digits. (C) 2004 Elsevier B.V. All rights reserved.</abstract>
+
+<originInfo><dateIssued encoding="w3cdtf">2004</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>local principal component analysis</topic><topic>handwritten digit recognition</topic><topic>neural gas</topic><topic>unsupervised learning</topic><topic>quantization</topic><topic>vector</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Neurocomputing</title></titleInfo>
+  <identifier type="issn">0925-2312</identifier>
+  <identifier type="ISI">000225681000016</identifier><identifier type="doi">10.1016/j.neucom.2003.09.014</identifier>
+<part><detail type="volume"><number>62</number></detail><extent unit="pages">305-326</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Möller, R., &amp;amp; Hoffmann, H. (2004). An Extension of Neural Gas to Local PCA. &lt;em&gt;Neurocomputing&lt;/em&gt;, &lt;em&gt;62&lt;/em&gt;, 305-326.&lt;/div&gt;</apa_indent>
+<ieee>R. Möller and H. Hoffmann, “An Extension of Neural Gas to Local PCA”, &lt;em&gt;Neurocomputing&lt;/em&gt;,  vol. 62, 2004,  pp. 305-326.</ieee>
+<mla>Möller, Ralf, and Hoffmann, Heiko. “An Extension of Neural Gas to Local PCA”. &lt;em&gt;Neurocomputing&lt;/em&gt; 62 (2004): 305-326.</mla>
+<lncs>Möller, R., Hoffmann, H.: An Extension of Neural Gas to Local PCA. Neurocomputing. 62, 305-326 (2004).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Möller, Ralf, and Hoffmann, Heiko. 2004. “An Extension of Neural Gas to Local PCA”. &lt;em&gt;Neurocomputing&lt;/em&gt; 62: 305-326.&lt;/div&gt;</chicago>
+<apa>Möller, R., &amp;amp; Hoffmann, H. (2004). An Extension of Neural Gas to Local PCA. &lt;em&gt;Neurocomputing&lt;/em&gt;, &lt;em&gt;62&lt;/em&gt;, 305-326.</apa>
+<angewandte-chemie>R.  Möller, and H.  Hoffmann, “An Extension of Neural Gas to Local PCA”, &lt;em&gt;Neurocomputing&lt;/em&gt;, &lt;strong&gt;2004&lt;/strong&gt;, &lt;em&gt;62&lt;/em&gt;, 305-326.</angewandte-chemie>
+<frontiers>Möller, R., and Hoffmann, H. (2004). An Extension of Neural Gas to Local PCA. &lt;em&gt;Neurocomputing&lt;/em&gt; 62, 305-326.</frontiers>
+<harvard1>Möller, R., &amp;amp; Hoffmann, H., 2004. An Extension of Neural Gas to Local PCA. &lt;em&gt;Neurocomputing&lt;/em&gt;, 62, p 305-326.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Möller, R. &amp;amp; Hoffmann, H. (2004). An Extension of Neural Gas to Local PCA. &lt;em&gt;Neurocomputing&lt;/em&gt;, &lt;em&gt;62&lt;/em&gt;, 305-326. doi:10.1016/j.neucom.2003.09.014.&lt;/div&gt;</dgps>
+<ama>Möller R, Hoffmann H. An Extension of Neural Gas to Local PCA. &lt;em&gt;Neurocomputing&lt;/em&gt;. 2004;62:305-326.</ama>
+<bio1>Möller R, Hoffmann H (2004) &lt;br /&gt;An Extension of Neural Gas to Local PCA.&lt;br /&gt;Neurocomputing 62: 305-326.</bio1>
+<aps>R.  Möller and H.  Hoffmann, An Extension of Neural Gas to Local PCA, Neurocomputing &lt;strong&gt;62&lt;/strong&gt;, 305-326 (2004).</aps>
+<wels>Möller, R.; Hoffmann, H. (2004): An Extension of Neural Gas to Local PCA &lt;em&gt;Neurocomputing&lt;/em&gt;,62: 305-326.</wels>
+<default>Möller R, Hoffmann H (2004) &lt;br /&gt;Neurocomputing 62: 305-326.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1937004</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-12-08T15:36:16Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-23T14:06:56Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1937004</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1937004</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,96 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Geschichtenerzählzauber. Die &apos;Merseburger Zaubersprüche&apos; und die Funktion der &quot;historiola&quot; im magischen Ritual</title></titleInfo>
+
+
+
+
+
+<name type="personal">
+  <namePart type="given">Meinolf</namePart>
+  <namePart type="family">Schumacher</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">139725</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Rüdiger</namePart><namePart type="family">Zymner</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10019</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Schumacher_Meinolf_Geschichtenerzählzauber_Die_Merseburger_Zaub.pdf">https://pub.uni-bielefeld.de/download/1860109/2905487</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Chora</publisher><dateIssued encoding="w3cdtf">2000</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Erzählte Welt - Welt des Erzählens. Festschrift für Dietrich Weber</title></titleInfo><identifier type="urn">urn:nbn:de:0070-pub-18601095</identifier>
+<part><extent unit="pages">201-215</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Schumacher M (2000)  &lt;br /&gt;In:  Erzählte Welt - Welt des Erzählens. Festschrift für Dietrich Weber. Zymner R (Ed);Köln: Chora:  201-215.</default>
+<wels>Schumacher, M. (2000): Geschichtenerzählzauber. Die &apos;Merseburger Zaubersprüche&apos; und die Funktion der &quot;historiola&quot; im magischen Ritual. In: Rüdiger Zymner (Hrsg.):  Erzählte Welt - Welt des Erzählens. Festschrift für Dietrich Weber. Köln: Chora.  S. 201-215.</wels>
+<bio1>Schumacher M (2000) &lt;br /&gt;Geschichtenerzählzauber. Die &apos;Merseburger Zaubersprüche&apos; und die Funktion der &quot;historiola&quot; im magischen Ritual. &lt;br /&gt;In:  Erzählte Welt - Welt des Erzählens. Festschrift für Dietrich Weber. Zymner R (Ed); Köln: Chora:  201-215.</bio1>
+<aps> M.  Schumacher, Geschichtenerzählzauber. Die &apos;Merseburger Zaubersprüche&apos; und die Funktion der &quot;historiola&quot; im magischen Ritual, in &lt;em&gt;Erzählte Welt - Welt des Erzählens. Festschrift für Dietrich Weber&lt;/em&gt;, edited by R.  Zymner (Chora, Köln, 2000), p. 201-215.</aps>
+<harvard1>Schumacher, M., 2000. Geschichtenerzählzauber. Die &apos;Merseburger Zaubersprüche&apos; und die Funktion der &quot;historiola&quot; im magischen Ritual. In R.  Zymner, ed. &lt;em&gt;Erzählte Welt - Welt des Erzählens. Festschrift für Dietrich Weber&lt;/em&gt;.  Köln: Chora, pp. 201-215.</harvard1>
+<ama>Schumacher M. Geschichtenerzählzauber. Die &apos;Merseburger Zaubersprüche&apos; und die Funktion der &quot;historiola&quot; im magischen Ritual. In: Zymner R, ed. &lt;em&gt;Erzählte Welt - Welt des Erzählens. Festschrift für Dietrich Weber&lt;/em&gt;. Köln: Chora;  2000: 201-215.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schumacher, M. (2000). Geschichtenerzählzauber. Die &apos;Merseburger Zaubersprüche&apos; und die Funktion der &quot;historiola&quot; im magischen Ritual. &lt;em&gt;Erzählte Welt - Welt des Erzählens. Festschrift für Dietrich Weber&lt;/em&gt; (S. 201-215). Köln: Chora.&lt;/div&gt;</dgps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schumacher, Meinolf. 2000. “Geschichtenerzählzauber. Die &apos;Merseburger Zaubersprüche&apos; und die Funktion der &quot;historiola&quot; im magischen Ritual”. In &lt;em&gt;Erzählte Welt - Welt des Erzählens. Festschrift für Dietrich Weber&lt;/em&gt;, ed. Rüdiger Zymner, 201-215. Köln: Chora.&lt;/div&gt;</chicago>
+<frontiers>Schumacher, M. (2000). “Geschichtenerzählzauber. Die &apos;Merseburger Zaubersprüche&apos; und die Funktion der &quot;historiola&quot; im magischen Ritual” in &lt;em&gt;Erzählte Welt - Welt des Erzählens. Festschrift für Dietrich Weber&lt;/em&gt;, Zymner, R. ed. (Köln: Chora), 201-215.</frontiers>
+<apa>Schumacher, M. (2000). Geschichtenerzählzauber. Die &apos;Merseburger Zaubersprüche&apos; und die Funktion der &quot;historiola&quot; im magischen Ritual. In R.  Zymner (Ed.), &lt;em&gt;Erzählte Welt - Welt des Erzählens. Festschrift für Dietrich Weber&lt;/em&gt; (pp. 201-215). Köln: Chora.</apa>
+<angewandte-chemie>M.  Schumacher, in &lt;em&gt;Erzählte Welt - Welt des Erzählens. Festschrift für Dietrich Weber&lt;/em&gt; (Ed.: R. Zymner), Chora, Köln, &lt;strong&gt;2000&lt;/strong&gt;, p. 201-215.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schumacher, M. (2000). Geschichtenerzählzauber. Die &apos;Merseburger Zaubersprüche&apos; und die Funktion der &quot;historiola&quot; im magischen Ritual. In R.  Zymner (Ed.), &lt;em&gt;Erzählte Welt - Welt des Erzählens. Festschrift für Dietrich Weber&lt;/em&gt; (pp. 201-215). Köln: Chora.&lt;/div&gt;</apa_indent>
+<mla>Schumacher, Meinolf. “Geschichtenerzählzauber. Die &apos;Merseburger Zaubersprüche&apos; und die Funktion der &quot;historiola&quot; im magischen Ritual”. &lt;em&gt;Erzählte Welt - Welt des Erzählens. Festschrift für Dietrich Weber&lt;/em&gt;. Ed. Rüdiger Zymner. Köln: Chora, 2000. 201-215.</mla>
+<lncs> Schumacher, M.: Geschichtenerzählzauber. Die &apos;Merseburger Zaubersprüche&apos; und die Funktion der &quot;historiola&quot; im magischen Ritual. In: Zymner, R. (ed.) Erzählte Welt - Welt des Erzählens. Festschrift für Dietrich Weber. p. 201-215. Chora, Köln (2000).</lncs>
+<ieee> M. Schumacher, “Geschichtenerzählzauber. Die &apos;Merseburger Zaubersprüche&apos; und die Funktion der &quot;historiola&quot; im magischen Ritual”, &lt;em&gt;Erzählte Welt - Welt des Erzählens. Festschrift für Dietrich Weber&lt;/em&gt;, R. Zymner, ed.,  Köln: Chora, 2000,  pp.201-215.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1860109</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-09-05T12:02:19Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-09-05T12:02:19Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1860109</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1860109</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

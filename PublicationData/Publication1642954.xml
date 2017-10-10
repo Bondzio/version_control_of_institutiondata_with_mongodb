@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>DEGRADATION OF KININS, ANGIOTENSINS AND SUBSTANCE-P BY POLYMORPHONUCLEAR MATRIX METALLOPROTEINASES MMP-8 AND MMP-9</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">O</namePart>
+  <namePart type="family">DIEKMANN</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Harald</namePart>
+  <namePart type="family">Tschesche</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">19406</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Biochemie I</namePart>
+  <identifier type="unibi">17967</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">1. The kinetics of the degradation of the kinins bradykinin and Met-Lys-bradykinin, angiotensins I and II and the tachykinin substance P by PMNL-collagenase (MMP 8), PMNL-gelatinase (MMP 9) and by the recombinant catalytic domain of MMP 8 (rcd-PMNL-c) was examined by RP-HPLC. The resulting fragments were identified by automated Edman degradation or by amino acid analysis. 2. The initial degradation rates of substance P at a substrate concentration of 25 mu M were 5 min(-1) for MMP 9 and 150 min(-1) for MMP 8. The kinetic constants K-M and k(cat) were determined by concentration-dependent measurements. For MMP 8/substance P the constants were K-M = 78 +/- 14 mu M and k(cat) = 412 +/- 67 min(-1). For MMP 9/substance P the constants were K-M = 91 +/- 15 mu M and k(cat) = 25 +/- 4 min(-1). Both enzymes cleaved substance P between Gln(6) and Phe(7) and between Gly(9) and Leu(10). 3. Under the same conditions, MMP 8 degraded angiotensin I at an initial rate of 20 h(-1) resulting mainly in the vasoactive fragments angiotensin II and angiotensin(1-7). At a substrate concentration of 25 mu M and an enzyme/substrate ratio of 1:100, angiotensin II was degraded very slowly (19% in 24 h) by MMP 8. Under these conditions, MMP 9 degraded angiotensin I to a lesser extent than MMP 8 (25% in 24 h) and was unable to cleave angiotensin II. 4. Under the same conditions, bradykinin and Met-Lys-bradykinin were cleaved by PMNL-collagenase at a rate of 20% in 24 h, producing BK(1-7) and BK(1-8). PMNL-gelatinase was unable to cleave the kinins under these conditions. 5. In all cases, rcd-PMNL-c produced the same fragments as wild type PMNL-collagenase, but at a significantly lower rate.</abstract>
+
+<originInfo><publisher>ASSOC BRAS DIVULG CIENTIFICA</publisher><dateIssued encoding="w3cdtf">1994</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>MATRIX METALLOPROTEINASES</topic><topic>GELATINASE</topic><topic>KININS</topic><topic>TACHYKININS</topic><topic>ANGIOTENSINS</topic><topic>COLLAGENASE</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>BRAZILIAN JOURNAL OF MEDICAL AND BIOLOGICAL RESEARCH</title></titleInfo>
+  <identifier type="issn">0100-879X</identifier>
+  <identifier type="MEDLINE">7538373</identifier>
+  <identifier type="ISI">A1994PC60600016</identifier>
+<part><detail type="volume"><number>27</number></detail><detail type="issue"><number>8</number></detail><extent unit="pages">1865-1876</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<lncs>DIEKMANN, O., Tschesche, H.: DEGRADATION OF KININS, ANGIOTENSINS AND SUBSTANCE-P BY POLYMORPHONUCLEAR MATRIX METALLOPROTEINASES MMP-8 AND MMP-9. BRAZILIAN JOURNAL OF MEDICAL AND BIOLOGICAL RESEARCH. 27, p. 1865-1876. ASSOC BRAS DIVULG CIENTIFICA (1994).</lncs>
+<mla>DIEKMANN, O, and Tschesche, Harald. “DEGRADATION OF KININS, ANGIOTENSINS AND SUBSTANCE-P BY POLYMORPHONUCLEAR MATRIX METALLOPROTEINASES MMP-8 AND MMP-9”. &lt;em&gt;BRAZILIAN JOURNAL OF MEDICAL AND BIOLOGICAL RESEARCH&lt;/em&gt;. ASSOC BRAS DIVULG CIENTIFICA, 1994.Vol. 27. 1865-1876.</mla>
+<ieee>O. DIEKMANN and H. Tschesche, “DEGRADATION OF KININS, ANGIOTENSINS AND SUBSTANCE-P BY POLYMORPHONUCLEAR MATRIX METALLOPROTEINASES MMP-8 AND MMP-9”, &lt;em&gt;BRAZILIAN JOURNAL OF MEDICAL AND BIOLOGICAL RESEARCH&lt;/em&gt;, vol. 27, ASSOC BRAS DIVULG CIENTIFICA, 1994,  pp.1865-1876.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;DIEKMANN, O., &amp;amp; Tschesche, H. (1994). DEGRADATION OF KININS, ANGIOTENSINS AND SUBSTANCE-P BY POLYMORPHONUCLEAR MATRIX METALLOPROTEINASES MMP-8 AND MMP-9. &lt;em&gt;BRAZILIAN JOURNAL OF MEDICAL AND BIOLOGICAL RESEARCH&lt;/em&gt;, &lt;em&gt;27&lt;/em&gt;(8), 1865-1876.&lt;/div&gt;</apa_indent>
+<frontiers>DIEKMANN, O., and Tschesche, H. (1994). “DEGRADATION OF KININS, ANGIOTENSINS AND SUBSTANCE-P BY POLYMORPHONUCLEAR MATRIX METALLOPROTEINASES MMP-8 AND MMP-9” in &lt;em&gt;BRAZILIAN JOURNAL OF MEDICAL AND BIOLOGICAL RESEARCH&lt;/em&gt;, vol. 27, (ASSOC BRAS DIVULG CIENTIFICA), 1865-1876.</frontiers>
+<apa>DIEKMANN, O., &amp;amp; Tschesche, H. (1994). DEGRADATION OF KININS, ANGIOTENSINS AND SUBSTANCE-P BY POLYMORPHONUCLEAR MATRIX METALLOPROTEINASES MMP-8 AND MMP-9. &lt;em&gt;BRAZILIAN JOURNAL OF MEDICAL AND BIOLOGICAL RESEARCH&lt;/em&gt;, &lt;em&gt;27&lt;/em&gt;(8), 1865-1876.</apa>
+<angewandte-chemie>O.  DIEKMANN, and H.  Tschesche, in &lt;em&gt;BRAZILIAN JOURNAL OF MEDICAL AND BIOLOGICAL RESEARCH&lt;/em&gt;, Assoc Bras Divulg Cientifica, &lt;strong&gt;1994&lt;/strong&gt;, p. 1865-1876.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;DIEKMANN, O, and Tschesche, Harald. 1994. “DEGRADATION OF KININS, ANGIOTENSINS AND SUBSTANCE-P BY POLYMORPHONUCLEAR MATRIX METALLOPROTEINASES MMP-8 AND MMP-9”. In &lt;em&gt;BRAZILIAN JOURNAL OF MEDICAL AND BIOLOGICAL RESEARCH&lt;/em&gt;, 27:1865-1876. ASSOC BRAS DIVULG CIENTIFICA.&lt;/div&gt;</chicago>
+<bio1>DIEKMANN O, Tschesche H (1994) &lt;br /&gt;DEGRADATION OF KININS, ANGIOTENSINS AND SUBSTANCE-P BY POLYMORPHONUCLEAR MATRIX METALLOPROTEINASES MMP-8 AND MMP-9. &lt;br /&gt;In:  BRAZILIAN JOURNAL OF MEDICAL AND BIOLOGICAL RESEARCH. 27. ASSOC BRAS DIVULG CIENTIFICA:  1865-1876.</bio1>
+<aps>O.  DIEKMANN and H.  Tschesche, DEGRADATION OF KININS, ANGIOTENSINS AND SUBSTANCE-P BY POLYMORPHONUCLEAR MATRIX METALLOPROTEINASES MMP-8 AND MMP-9, in &lt;em&gt;BRAZILIAN JOURNAL OF MEDICAL AND BIOLOGICAL RESEARCH&lt;/em&gt;, &lt;strong&gt;27&lt;/strong&gt; (ASSOC BRAS DIVULG CIENTIFICA, 1994), p. 1865-1876.</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;DIEKMANN, O. &amp;amp; Tschesche, H. (1994). DEGRADATION OF KININS, ANGIOTENSINS AND SUBSTANCE-P BY POLYMORPHONUCLEAR MATRIX METALLOPROTEINASES MMP-8 AND MMP-9. &lt;em&gt;BRAZILIAN JOURNAL OF MEDICAL AND BIOLOGICAL RESEARCH&lt;/em&gt; (S. 1865-1876). ASSOC BRAS DIVULG CIENTIFICA.&lt;/div&gt;</dgps>
+<ama>DIEKMANN O, Tschesche H. DEGRADATION OF KININS, ANGIOTENSINS AND SUBSTANCE-P BY POLYMORPHONUCLEAR MATRIX METALLOPROTEINASES MMP-8 AND MMP-9. In:  &lt;em&gt;BRAZILIAN JOURNAL OF MEDICAL AND BIOLOGICAL RESEARCH&lt;/em&gt;. Vol 27. ASSOC BRAS DIVULG CIENTIFICA;  1994: 1865-1876.</ama>
+<harvard1>DIEKMANN, O., &amp;amp; Tschesche, H., 1994. DEGRADATION OF KININS, ANGIOTENSINS AND SUBSTANCE-P BY POLYMORPHONUCLEAR MATRIX METALLOPROTEINASES MMP-8 AND MMP-9. In &lt;em&gt;BRAZILIAN JOURNAL OF MEDICAL AND BIOLOGICAL RESEARCH&lt;/em&gt;. no.27  ASSOC BRAS DIVULG CIENTIFICA, pp. 1865-1876.</harvard1>
+<default>DIEKMANN O, Tschesche H (1994)  &lt;br /&gt;In:  BRAZILIAN JOURNAL OF MEDICAL AND BIOLOGICAL RESEARCH. 27. ASSOC BRAS DIVULG CIENTIFICA:  1865-1876.</default>
+<wels>DIEKMANN, O.; Tschesche, H. (1994): DEGRADATION OF KININS, ANGIOTENSINS AND SUBSTANCE-P BY POLYMORPHONUCLEAR MATRIX METALLOPROTEINASES MMP-8 AND MMP-9. In: BRAZILIAN JOURNAL OF MEDICAL AND BIOLOGICAL RESEARCH. ASSOC BRAS DIVULG CIENTIFICA. (27).  S. 1865-1876.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1642954</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:27:50Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-12-08T10:52:28Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1642954</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1642954</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

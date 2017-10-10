@@ -1,0 +1,120 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The Signal Peptide of the Medicago truncatula Modular Nodulin MtNOD25 Operates as an Address Label for the Specific Targeting of Proteins to Nitrogen-Fixing Symbiosomes</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Natalija</namePart>
+  <namePart type="family">Hohnjec</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Frauke</namePart>
+  <namePart type="family">Lenz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Vera</namePart>
+  <namePart type="family">Fehlberg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Martin F.</namePart>
+  <namePart type="family">Vieweg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Markus C.</namePart>
+  <namePart type="family">Baier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Bettina</namePart>
+  <namePart type="family">Hause</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Helge</namePart>
+  <namePart type="family">Kuester</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Genomforschung und Systembiologie</namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The nodule-specific MtNOD25 gene of the model legume Medicago truncatula encodes a modular nodulin composed of different repetitive modules flanked by distinct N- and C-termini. Although similarities are low with respect to all repetitive modules, both the N-terminal signal peptide (SP) and the C-terminus are highly conserved in modular nodulins from different legumes. On the cellular level, MtNOD25 is only transcribed in the infected cells of root nodules, and this activation is mediated by a 299-bp minimal promoter containing an organ-specific element. By expressing mGFP6 translational fusions in transgenic nodules, we show that MtNOD25 proteins are exclusively translocated to the symbiosomes of infected cells. This specific targeting only requires an N-terminal MtNOD25 SP that is highly conserved across a family of legume-specific symbiosome proteins. Our finding sheds light on one possible mechanism for the delivery of host proteins to the symbiosomes of infected root nodule cells and, in addition, defines a short molecular address label of only 24 amino acids whose N-terminal presence is sufficient to translocate proteins across the peribacteroid membrane.</abstract>
+
+<originInfo><publisher>Scientific Societies</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>confocal laser-scanning microscopy</topic><topic>alternative splicing</topic><topic>mRFP</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>MOLECULAR PLANT-MICROBE INTERACTIONS</title></titleInfo>
+  <identifier type="issn">0894-0282</identifier>
+  <identifier type="MEDLINE">19061403</identifier>
+  <identifier type="ISI">000262441200006</identifier><identifier type="doi">10.1094/MPMI-22-1-0063</identifier>
+<part><detail type="volume"><number>22</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">63-72</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>N.  Hohnjec, et al., The Signal Peptide of the Medicago truncatula Modular Nodulin MtNOD25 Operates as an Address Label for the Specific Targeting of Proteins to Nitrogen-Fixing Symbiosomes, MOLECULAR PLANT-MICROBE INTERACTIONS &lt;strong&gt;22&lt;/strong&gt;, 63-72 (2009).</aps>
+<bio1>Hohnjec N, Lenz F, Fehlberg V, Vieweg MF, Baier MC, Hause B, Kuester H (2009) &lt;br /&gt;The Signal Peptide of the Medicago truncatula Modular Nodulin MtNOD25 Operates as an Address Label for the Specific Targeting of Proteins to Nitrogen-Fixing Symbiosomes.&lt;br /&gt;MOLECULAR PLANT-MICROBE INTERACTIONS 22(1): 63-72.</bio1>
+<harvard1>Hohnjec, N., et al., 2009. The Signal Peptide of the Medicago truncatula Modular Nodulin MtNOD25 Operates as an Address Label for the Specific Targeting of Proteins to Nitrogen-Fixing Symbiosomes. &lt;em&gt;MOLECULAR PLANT-MICROBE INTERACTIONS&lt;/em&gt;, 22(1), p 63-72.</harvard1>
+<ama>Hohnjec N, Lenz F, Fehlberg V, et al. The Signal Peptide of the Medicago truncatula Modular Nodulin MtNOD25 Operates as an Address Label for the Specific Targeting of Proteins to Nitrogen-Fixing Symbiosomes. &lt;em&gt;MOLECULAR PLANT-MICROBE INTERACTIONS&lt;/em&gt;. 2009;22(1):63-72.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hohnjec, N., Lenz, F., Fehlberg, V., Vieweg, M.F., Baier, M.C., Hause, B. &amp;amp; Kuester, H. (2009). The Signal Peptide of the Medicago truncatula Modular Nodulin MtNOD25 Operates as an Address Label for the Specific Targeting of Proteins to Nitrogen-Fixing Symbiosomes. &lt;em&gt;MOLECULAR PLANT-MICROBE INTERACTIONS&lt;/em&gt;, &lt;em&gt;22&lt;/em&gt;(1), 63-72. Scientific Societies. doi:10.1094/MPMI-22-1-0063.&lt;/div&gt;</dgps>
+<default>Hohnjec N, Lenz F, Fehlberg V, Vieweg MF, Baier MC, Hause B, Kuester H (2009) &lt;br /&gt;MOLECULAR PLANT-MICROBE INTERACTIONS 22(1): 63-72.</default>
+<wels>Hohnjec, N.; Lenz, F.; Fehlberg, V.; Vieweg, M. F.; Baier, M. C.; Hause, B.; Kuester, H. (2009): The Signal Peptide of the Medicago truncatula Modular Nodulin MtNOD25 Operates as an Address Label for the Specific Targeting of Proteins to Nitrogen-Fixing Symbiosomes &lt;em&gt;MOLECULAR PLANT-MICROBE INTERACTIONS&lt;/em&gt;,22:(1): 63-72.</wels>
+<mla>Hohnjec, Natalija, Lenz, Frauke, Fehlberg, Vera, Vieweg, Martin F., Baier, Markus C., Hause, Bettina, and Kuester, Helge. “The Signal Peptide of the Medicago truncatula Modular Nodulin MtNOD25 Operates as an Address Label for the Specific Targeting of Proteins to Nitrogen-Fixing Symbiosomes”. &lt;em&gt;MOLECULAR PLANT-MICROBE INTERACTIONS&lt;/em&gt; 22.1 (2009): 63-72.</mla>
+<lncs>Hohnjec, N., Lenz, F., Fehlberg, V., Vieweg, M.F., Baier, M.C., Hause, B., Kuester, H.: The Signal Peptide of the Medicago truncatula Modular Nodulin MtNOD25 Operates as an Address Label for the Specific Targeting of Proteins to Nitrogen-Fixing Symbiosomes. MOLECULAR PLANT-MICROBE INTERACTIONS. 22, 63-72 (2009).</lncs>
+<ieee>N. Hohnjec, et al., “The Signal Peptide of the Medicago truncatula Modular Nodulin MtNOD25 Operates as an Address Label for the Specific Targeting of Proteins to Nitrogen-Fixing Symbiosomes”, &lt;em&gt;MOLECULAR PLANT-MICROBE INTERACTIONS&lt;/em&gt;,  vol. 22, 2009,  pp. 63-72.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hohnjec, N., Lenz, F., Fehlberg, V., Vieweg, M. F., Baier, M. C., Hause, B., &amp;amp; Kuester, H. (2009). The Signal Peptide of the Medicago truncatula Modular Nodulin MtNOD25 Operates as an Address Label for the Specific Targeting of Proteins to Nitrogen-Fixing Symbiosomes. &lt;em&gt;MOLECULAR PLANT-MICROBE INTERACTIONS&lt;/em&gt;, &lt;em&gt;22&lt;/em&gt;(1), 63-72.&lt;/div&gt;</apa_indent>
+<frontiers>Hohnjec, N., Lenz, F., Fehlberg, V., Vieweg, M. F., Baier, M. C., Hause, B., and Kuester, H. (2009). The Signal Peptide of the Medicago truncatula Modular Nodulin MtNOD25 Operates as an Address Label for the Specific Targeting of Proteins to Nitrogen-Fixing Symbiosomes. &lt;em&gt;MOLECULAR PLANT-MICROBE INTERACTIONS&lt;/em&gt; 22, 63-72.</frontiers>
+<apa>Hohnjec, N., Lenz, F., Fehlberg, V., Vieweg, M. F., Baier, M. C., Hause, B., &amp;amp; Kuester, H. (2009). The Signal Peptide of the Medicago truncatula Modular Nodulin MtNOD25 Operates as an Address Label for the Specific Targeting of Proteins to Nitrogen-Fixing Symbiosomes. &lt;em&gt;MOLECULAR PLANT-MICROBE INTERACTIONS&lt;/em&gt;, &lt;em&gt;22&lt;/em&gt;(1), 63-72.</apa>
+<angewandte-chemie>N.  Hohnjec, F.  Lenz, V.  Fehlberg, M. F.  Vieweg, M. C.  Baier, B.  Hause, and H.  Kuester, “The Signal Peptide of the Medicago truncatula Modular Nodulin MtNOD25 Operates as an Address Label for the Specific Targeting of Proteins to Nitrogen-Fixing Symbiosomes”, &lt;em&gt;MOLECULAR PLANT-MICROBE INTERACTIONS&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;22&lt;/em&gt;, 63-72.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hohnjec, Natalija, Lenz, Frauke, Fehlberg, Vera, Vieweg, Martin F., Baier, Markus C., Hause, Bettina, and Kuester, Helge. 2009. “The Signal Peptide of the Medicago truncatula Modular Nodulin MtNOD25 Operates as an Address Label for the Specific Targeting of Proteins to Nitrogen-Fixing Symbiosomes”. &lt;em&gt;MOLECULAR PLANT-MICROBE INTERACTIONS&lt;/em&gt; 22 (1): 63-72.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1636155</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:58Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-28T14:10:07Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1636155</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1636155</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

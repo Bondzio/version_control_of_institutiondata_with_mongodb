@@ -1,0 +1,156 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Neural correlates of episodic and semantic memory retrieval in borderline personality disorder: An fMRI study</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Christoph</namePart>
+  <namePart type="family">Mensebach</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Thomas</namePart>
+  <namePart type="family">Beblo</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">166148</identifier></name>
+<name type="personal">
+  <namePart type="given">Martin</namePart>
+  <namePart type="family">Driessen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">166149</identifier></name>
+<name type="personal">
+  <namePart type="given">Katja</namePart>
+  <namePart type="family">Wingenfeld</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Markus</namePart>
+  <namePart type="family">Mertens</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Nina</namePart>
+  <namePart type="family">Rullkoetter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Wolfgang</namePart>
+  <namePart type="family">Lange</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Hans J.</namePart>
+  <namePart type="family">Markowitsch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">59726756</identifier></name>
+<name type="personal">
+  <namePart type="given">Isabella</namePart>
+  <namePart type="family">Ollech</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Anamaria Silva</namePart>
+  <namePart type="family">Saveedra</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Harald</namePart>
+  <namePart type="family">Rau</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Friedrich G.</namePart>
+  <namePart type="family">Woermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Abteilung für Psychologie</namePart>
+  <identifier type="unibi">10026</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Arbeitseinheit 14 - Physiologische Psychologie</namePart>
+  <identifier type="unibi">33707</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Center of Excellence - Cognitive Interaction Technology CITEC</namePart>
+  <identifier type="unibi">8014655</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Verbal memory impairment in borderline personality disorder (BPD) is still a matter of debate. In this study we combine investigations of both, memory retrieval as well as underlying neural circuits in BPD. Functional magnetic resonance imaging (fMRI) was used to study regional brain activation in 18 right-handed female patients with BPD and 18 matched controls during the retrieval of an episodic memory retrieval (EMR) task (free recall of a word list) and a semantic memory retrieval (SMR) task (verbal fluency). Despite unaffected performance in EMR and SMR, patients with BPD showed task-specific increased activation compared with controls. During EMR, the increased activation encompassed the posterior cingulate cortex bilaterally, the left middle and superior temporal gyrus, the right inferior frontal gyros, and the right angular gyrus. SMR was associated with increased activation of the posterior cingulate cortex, of the right fusiform gyros, of the left anterior cingulate cortex, and of the left postcentral gyros. Our findings suggest that BPD patients may need to engage larger brain areas to reach a level of performance in episodic and semantic retrieval tasks that is comparable to that of healthy controls. (c) 2008 Elsevier Ireland Ltd. All rights reserved.</abstract>
+
+<originInfo><publisher>Elsevier BV</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Posterior cingulate cortex</topic><topic>Functional magnetic resonance imaging</topic><topic>Neuropsychology</topic><topic>Cognitive</topic><topic>reserve capacity</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Psychiatry Research: Neuroimaging</title></titleInfo>
+  <identifier type="issn">0925-4927</identifier>
+  <identifier type="MEDLINE">19176280</identifier>
+  <identifier type="ISI">000264235700003</identifier><identifier type="doi">10.1016/j.pscychresns.2008.02.006</identifier>
+<part><detail type="volume"><number>171</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">94-105</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>Mensebach C, Beblo T, Driessen M, Wingenfeld K, Mertens M, Rullkoetter N, Lange W, Markowitsch HJ, Ollech I, Saveedra AS, Rau H, Woermann FG (2009) &lt;br /&gt;Neural correlates of episodic and semantic memory retrieval in borderline personality disorder: An fMRI study.&lt;br /&gt;Psychiatry Research: Neuroimaging 171(2): 94-105.</bio1>
+<aps>C.  Mensebach, et al., Neural correlates of episodic and semantic memory retrieval in borderline personality disorder: An fMRI study, Psychiatry Research: Neuroimaging &lt;strong&gt;171&lt;/strong&gt;, 94-105 (2009).</aps>
+<ama>Mensebach C, Beblo T, Driessen M, et al. Neural correlates of episodic and semantic memory retrieval in borderline personality disorder: An fMRI study. &lt;em&gt;Psychiatry Research: Neuroimaging&lt;/em&gt;. 2009;171(2):94-105.</ama>
+<harvard1>Mensebach, C., et al., 2009. Neural correlates of episodic and semantic memory retrieval in borderline personality disorder: An fMRI study. &lt;em&gt;Psychiatry Research: Neuroimaging&lt;/em&gt;, 171(2), p 94-105.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Mensebach, C., Beblo, T., Driessen, M., Wingenfeld, K., Mertens, M., Rullkoetter, N., Lange, W., Markowitsch, H.J., Ollech, I., Saveedra, A.S., Rau, H. &amp;amp; Woermann, F.G. (2009). Neural correlates of episodic and semantic memory retrieval in borderline personality disorder: An fMRI study. &lt;em&gt;Psychiatry Research: Neuroimaging&lt;/em&gt;, &lt;em&gt;171&lt;/em&gt;(2), 94-105. Elsevier BV. doi:10.1016/j.pscychresns.2008.02.006.&lt;/div&gt;</dgps>
+<default>Mensebach C, Beblo T, Driessen M, Wingenfeld K, Mertens M, Rullkoetter N, Lange W, Markowitsch HJ, Ollech I, Saveedra AS, Rau H, et al. (2009) &lt;br /&gt;Psychiatry Research: Neuroimaging 171(2): 94-105.</default>
+<wels>Mensebach, C.; Beblo, T.; Driessen, M.; Wingenfeld, K.; Mertens, M.; Rullkoetter, N.; Lange, W.; Markowitsch, H. J.; Ollech, I.; Saveedra, A. S.; Rau, H.; Woermann, F. G. (2009): Neural correlates of episodic and semantic memory retrieval in borderline personality disorder: An fMRI study &lt;em&gt;Psychiatry Research: Neuroimaging&lt;/em&gt;,171:(2): 94-105.</wels>
+<lncs>Mensebach, C., Beblo, T., Driessen, M., Wingenfeld, K., Mertens, M., Rullkoetter, N., Lange, W., Markowitsch, H.J., Ollech, I., Saveedra, A.S., Rau, H., Woermann, F.G.: Neural correlates of episodic and semantic memory retrieval in borderline personality disorder: An fMRI study. Psychiatry Research: Neuroimaging. 171, 94-105 (2009).</lncs>
+<mla>Mensebach, Christoph, Beblo, Thomas, Driessen, Martin, Wingenfeld, Katja, Mertens, Markus, Rullkoetter, Nina, Lange, Wolfgang, Markowitsch, Hans J., Ollech, Isabella, Saveedra, Anamaria Silva, Rau, Harald, and Woermann, Friedrich G. “Neural correlates of episodic and semantic memory retrieval in borderline personality disorder: An fMRI study”. &lt;em&gt;Psychiatry Research: Neuroimaging&lt;/em&gt; 171.2 (2009): 94-105.</mla>
+<ieee>C. Mensebach, et al., “Neural correlates of episodic and semantic memory retrieval in borderline personality disorder: An fMRI study”, &lt;em&gt;Psychiatry Research: Neuroimaging&lt;/em&gt;,  vol. 171, 2009,  pp. 94-105.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Mensebach, C., Beblo, T., Driessen, M., Wingenfeld, K., Mertens, M., Rullkoetter, N., Lange, W., et al. (2009). Neural correlates of episodic and semantic memory retrieval in borderline personality disorder: An fMRI study. &lt;em&gt;Psychiatry Research: Neuroimaging&lt;/em&gt;, &lt;em&gt;171&lt;/em&gt;(2), 94-105.&lt;/div&gt;</apa_indent>
+<frontiers>Mensebach, C., Beblo, T., Driessen, M., Wingenfeld, K., Mertens, M., Rullkoetter, N., Lange, W., Markowitsch, H. J., Ollech, I., Saveedra, A. S., et al. (2009). Neural correlates of episodic and semantic memory retrieval in borderline personality disorder: An fMRI study. &lt;em&gt;Psychiatry Research: Neuroimaging&lt;/em&gt; 171, 94-105.</frontiers>
+<apa>Mensebach, C., Beblo, T., Driessen, M., Wingenfeld, K., Mertens, M., Rullkoetter, N., Lange, W., et al. (2009). Neural correlates of episodic and semantic memory retrieval in borderline personality disorder: An fMRI study. &lt;em&gt;Psychiatry Research: Neuroimaging&lt;/em&gt;, &lt;em&gt;171&lt;/em&gt;(2), 94-105.</apa>
+<angewandte-chemie>C.  Mensebach, T.  Beblo, M.  Driessen, K.  Wingenfeld, M.  Mertens, N.  Rullkoetter, W.  Lange, H. J.  Markowitsch, I.  Ollech, A. S.  Saveedra, et al., “Neural correlates of episodic and semantic memory retrieval in borderline personality disorder: An fMRI study”, &lt;em&gt;Psychiatry Research: Neuroimaging&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;171&lt;/em&gt;, 94-105.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Mensebach, Christoph, Beblo, Thomas, Driessen, Martin, Wingenfeld, Katja, Mertens, Markus, Rullkoetter, Nina, Lange, Wolfgang, et al. 2009. “Neural correlates of episodic and semantic memory retrieval in borderline personality disorder: An fMRI study”. &lt;em&gt;Psychiatry Research: Neuroimaging&lt;/em&gt; 171 (2): 94-105.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1634967</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:30Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-03-08T10:03:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1634967</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1634967</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

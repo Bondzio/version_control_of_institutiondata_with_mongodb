@@ -1,0 +1,97 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Quasi-perfect minimally adaptive q-ary search with unreliable tests</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">F</namePart>
+  <namePart type="family">Cicalese</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">Deppe</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10503</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We consider the problem of determining the minimum number of queries to find an unknown number in a finite set when up to a finite number e of the answers may be erroneous. In the vast literature regarding this problem, the classical case of binary search is mostly considered, that is, when only yes-no questions are allowed. In this paper we consider the variant of the problem in which questions with q many possible answers are allowed. We prove that at most one question more than the information theoretic lower bound is sufficient to successfully find the unknown number. Moreover we prove that there are infinitely many cases when the information theoretic lower bound is exactly attained and the so called perfect strategies exist. Our strategies have the important feature that they use a minimum amount of adaptiveness, a relevant property in many practical situation.</abstract>
+
+<originInfo><publisher>SPRINGER-VERLAG BERLIN</publisher><dateIssued encoding="w3cdtf">2003</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>ALGORITHMS AND COMPUTATION, PROCEEDINGS</title></titleInfo>
+  <identifier type="issn">0302-9743</identifier>
+  <identifier type="ISI">000188242500054</identifier>
+<part><detail type="volume"><number>2906</number></detail><extent unit="pages">527-536</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Cicalese, F.; Deppe, C. (2003): Quasi-perfect minimally adaptive q-ary search with unreliable tests. In: ALGORITHMS AND COMPUTATION, PROCEEDINGS. SPRINGER-VERLAG BERLIN. (2906).  S. 527-536.</wels>
+<default>Cicalese F, Deppe C (2003)  &lt;br /&gt;In:  ALGORITHMS AND COMPUTATION, PROCEEDINGS. 2906. SPRINGER-VERLAG BERLIN:  527-536.</default>
+<harvard1>Cicalese, F., &amp;amp; Deppe, C., 2003. Quasi-perfect minimally adaptive q-ary search with unreliable tests. In &lt;em&gt;ALGORITHMS AND COMPUTATION, PROCEEDINGS&lt;/em&gt;. no.2906  SPRINGER-VERLAG BERLIN, pp. 527-536.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cicalese, F. &amp;amp; Deppe, C. (2003). Quasi-perfect minimally adaptive q-ary search with unreliable tests. &lt;em&gt;ALGORITHMS AND COMPUTATION, PROCEEDINGS&lt;/em&gt; (S. 527-536). SPRINGER-VERLAG BERLIN.&lt;/div&gt;</dgps>
+<ama>Cicalese F, Deppe C. Quasi-perfect minimally adaptive q-ary search with unreliable tests. In:  &lt;em&gt;ALGORITHMS AND COMPUTATION, PROCEEDINGS&lt;/em&gt;. Vol 2906. SPRINGER-VERLAG BERLIN;  2003: 527-536.</ama>
+<bio1>Cicalese F, Deppe C (2003) &lt;br /&gt;Quasi-perfect minimally adaptive q-ary search with unreliable tests. &lt;br /&gt;In:  ALGORITHMS AND COMPUTATION, PROCEEDINGS. 2906. SPRINGER-VERLAG BERLIN:  527-536.</bio1>
+<aps>F.  Cicalese and C.  Deppe, Quasi-perfect minimally adaptive q-ary search with unreliable tests, in &lt;em&gt;ALGORITHMS AND COMPUTATION, PROCEEDINGS&lt;/em&gt;, &lt;strong&gt;2906&lt;/strong&gt; (SPRINGER-VERLAG BERLIN, 2003), p. 527-536.</aps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cicalese, F, and Deppe, Christian. 2003. “Quasi-perfect minimally adaptive q-ary search with unreliable tests”. In &lt;em&gt;ALGORITHMS AND COMPUTATION, PROCEEDINGS&lt;/em&gt;, 2906:527-536. SPRINGER-VERLAG BERLIN.&lt;/div&gt;</chicago>
+<apa>Cicalese, F., &amp;amp; Deppe, C. (2003). Quasi-perfect minimally adaptive q-ary search with unreliable tests. &lt;em&gt;ALGORITHMS AND COMPUTATION, PROCEEDINGS&lt;/em&gt;, &lt;em&gt;2906&lt;/em&gt;, 527-536.</apa>
+<angewandte-chemie>F.  Cicalese, and C.  Deppe, in &lt;em&gt;ALGORITHMS AND COMPUTATION, PROCEEDINGS&lt;/em&gt;, Springer-Verlag Berlin, &lt;strong&gt;2003&lt;/strong&gt;, p. 527-536.</angewandte-chemie>
+<frontiers>Cicalese, F., and Deppe, C. (2003). “Quasi-perfect minimally adaptive q-ary search with unreliable tests” in &lt;em&gt;ALGORITHMS AND COMPUTATION, PROCEEDINGS&lt;/em&gt;, vol. 2906, (SPRINGER-VERLAG BERLIN), 527-536.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cicalese, F., &amp;amp; Deppe, C. (2003). Quasi-perfect minimally adaptive q-ary search with unreliable tests. &lt;em&gt;ALGORITHMS AND COMPUTATION, PROCEEDINGS&lt;/em&gt;, &lt;em&gt;2906&lt;/em&gt;, 527-536.&lt;/div&gt;</apa_indent>
+<ieee>F. Cicalese and C. Deppe, “Quasi-perfect minimally adaptive q-ary search with unreliable tests”, &lt;em&gt;ALGORITHMS AND COMPUTATION, PROCEEDINGS&lt;/em&gt;, vol. 2906, SPRINGER-VERLAG BERLIN, 2003,  pp.527-536.</ieee>
+<lncs>Cicalese, F., Deppe, C.: Quasi-perfect minimally adaptive q-ary search with unreliable tests. ALGORITHMS AND COMPUTATION, PROCEEDINGS. 2906, p. 527-536. SPRINGER-VERLAG BERLIN (2003).</lncs>
+<mla>Cicalese, F, and Deppe, Christian. “Quasi-perfect minimally adaptive q-ary search with unreliable tests”. &lt;em&gt;ALGORITHMS AND COMPUTATION, PROCEEDINGS&lt;/em&gt;. SPRINGER-VERLAG BERLIN, 2003.Vol. 2906. 527-536.</mla>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1608945</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:58:06Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2014-02-17T11:48:09Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1608945</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1608945</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

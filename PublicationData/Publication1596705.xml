@@ -1,0 +1,128 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Transcriptional regulation of catabolic pathways for aromatic compounds in Corynebacterium glutamicum</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Karina</namePart>
+  <namePart type="family">Brinkrolf</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">8255411</identifier></name>
+<name type="personal">
+  <namePart type="given">Iris</namePart>
+  <namePart type="family">Brune</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">161617</identifier></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Tauch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">22082</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Centrum für Biotechnologie</namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Fakultät für Biologie</namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Genomforschung und Systembiologie</namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  A. Tauch</namePart>
+  <identifier type="unibi">33070741</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Corynebacterium glutamicum is a gram-positive soil microorganism able to utilize a large variety of aromatic compounds as the sole carbon source. The corresponding catabolic routes are associated with multiple ring-fission dioxygenases and among other channeling reactions, include the gentisate pathway, the protocatechuate and catechol branches of the beta-ketoadipate pathway and two potential hydroxyquinol pathways. Genes encoding the enzymatic machinery for the bioconversion of aromatic compounds are organized in several clusters in the C. glutamicum genome. Expression of the gene clusters is under specific transcriptional control, apparently including eight DNA-binding proteins belonging to the AraC, IclR, LuxR, PadR, and TetR families of transcriptional regulators. Expression of the gentisate pathway involved in the utilization of 3-hydroxybenzoate and gentisate is positively regulated by an IclR-type activator. The metabolic channeling of ferulate, vanillin and vanillate into the protocatechuate branch of the beta-ketoadipate pathway is controlled by a PadR-like repressor. Regulatory proteins of the IclR and LuxR families participate in transcriptional regulation of the branches of the beta-ketoadipate pathway that are involved in the utilization of benzoate, 4-hydroxybenzoate and protocatechuate. The channeling of phenol into this pathway may be under positive transcriptional control by an AraC-type activator. One of the potential hydroxyquinol pathways of C. glutamicum is apparently repressed by a TetR-type regulator. This global analysis revealed that transcriptional regulation of aromatic compound utilization is mainly controlled by single regulatory proteins sensing the presence of aromatic compounds, thus representing single input motifs within the transcriptional regulatory network of C. glutamicum.</abstract>
+
+<originInfo><publisher>FUNPEC-EDITORA</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>transcriptional regulation</topic><topic>hydroxyquinol pathway</topic><topic>beta-ketoadipate pathway</topic><topic>pathway</topic><topic>gentisate</topic><topic>Corynebacterium efficiens</topic><topic>Corynebacterium glutamicum</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>GENETICS AND MOLECULAR RESEARCH</title></titleInfo>
+  <identifier type="issn">1676-5680</identifier>
+  <identifier type="MEDLINE">17183485</identifier>
+  <identifier type="ISI">000203012000017</identifier>
+<part><detail type="volume"><number>5</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">773-789</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>K. Brinkrolf, I. Brune, and A. Tauch, “Transcriptional regulation of catabolic pathways for aromatic compounds in Corynebacterium glutamicum”, &lt;em&gt;GENETICS AND MOLECULAR RESEARCH&lt;/em&gt;,  vol. 5, 2006,  pp. 773-789.</ieee>
+<lncs>Brinkrolf, K., Brune, I., Tauch, A.: Transcriptional regulation of catabolic pathways for aromatic compounds in Corynebacterium glutamicum. GENETICS AND MOLECULAR RESEARCH. 5, 773-789 (2006).</lncs>
+<mla>Brinkrolf, Karina, Brune, Iris, and Tauch, Andreas. “Transcriptional regulation of catabolic pathways for aromatic compounds in Corynebacterium glutamicum”. &lt;em&gt;GENETICS AND MOLECULAR RESEARCH&lt;/em&gt; 5.4 (2006): 773-789.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Brinkrolf, K., Brune, I., &amp;amp; Tauch, A. (2006). Transcriptional regulation of catabolic pathways for aromatic compounds in Corynebacterium glutamicum. &lt;em&gt;GENETICS AND MOLECULAR RESEARCH&lt;/em&gt;, &lt;em&gt;5&lt;/em&gt;(4), 773-789.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>K.  Brinkrolf, I.  Brune, and A.  Tauch, “Transcriptional regulation of catabolic pathways for aromatic compounds in Corynebacterium glutamicum”, &lt;em&gt;GENETICS AND MOLECULAR RESEARCH&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;5&lt;/em&gt;, 773-789.</angewandte-chemie>
+<apa>Brinkrolf, K., Brune, I., &amp;amp; Tauch, A. (2006). Transcriptional regulation of catabolic pathways for aromatic compounds in Corynebacterium glutamicum. &lt;em&gt;GENETICS AND MOLECULAR RESEARCH&lt;/em&gt;, &lt;em&gt;5&lt;/em&gt;(4), 773-789.</apa>
+<frontiers>Brinkrolf, K., Brune, I., and Tauch, A. (2006). Transcriptional regulation of catabolic pathways for aromatic compounds in Corynebacterium glutamicum. &lt;em&gt;GENETICS AND MOLECULAR RESEARCH&lt;/em&gt; 5, 773-789.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Brinkrolf, Karina, Brune, Iris, and Tauch, Andreas. 2006. “Transcriptional regulation of catabolic pathways for aromatic compounds in Corynebacterium glutamicum”. &lt;em&gt;GENETICS AND MOLECULAR RESEARCH&lt;/em&gt; 5 (4): 773-789.&lt;/div&gt;</chicago>
+<harvard1>Brinkrolf, K., Brune, I., &amp;amp; Tauch, A., 2006. Transcriptional regulation of catabolic pathways for aromatic compounds in Corynebacterium glutamicum. &lt;em&gt;GENETICS AND MOLECULAR RESEARCH&lt;/em&gt;, 5(4), p 773-789.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Brinkrolf, K., Brune, I. &amp;amp; Tauch, A. (2006). Transcriptional regulation of catabolic pathways for aromatic compounds in Corynebacterium glutamicum. &lt;em&gt;GENETICS AND MOLECULAR RESEARCH&lt;/em&gt;, &lt;em&gt;5&lt;/em&gt;(4), 773-789. FUNPEC-EDITORA.&lt;/div&gt;</dgps>
+<ama>Brinkrolf K, Brune I, Tauch A. Transcriptional regulation of catabolic pathways for aromatic compounds in Corynebacterium glutamicum. &lt;em&gt;GENETICS AND MOLECULAR RESEARCH&lt;/em&gt;. 2006;5(4):773-789.</ama>
+<bio1>Brinkrolf K, Brune I, Tauch A (2006) &lt;br /&gt;Transcriptional regulation of catabolic pathways for aromatic compounds in Corynebacterium glutamicum.&lt;br /&gt;GENETICS AND MOLECULAR RESEARCH 5(4): 773-789.</bio1>
+<aps>K.  Brinkrolf, I.  Brune, and A.  Tauch, Transcriptional regulation of catabolic pathways for aromatic compounds in Corynebacterium glutamicum, GENETICS AND MOLECULAR RESEARCH &lt;strong&gt;5&lt;/strong&gt;, 773-789 (2006).</aps>
+<wels>Brinkrolf, K.; Brune, I.; Tauch, A. (2006): Transcriptional regulation of catabolic pathways for aromatic compounds in Corynebacterium glutamicum &lt;em&gt;GENETICS AND MOLECULAR RESEARCH&lt;/em&gt;,5:(4): 773-789.</wels>
+<default>Brinkrolf K, Brune I, Tauch A (2006) &lt;br /&gt;GENETICS AND MOLECULAR RESEARCH 5(4): 773-789.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1596705</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:18:31Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-08T14:01:35Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1596705</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1596705</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

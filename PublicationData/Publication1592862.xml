@@ -1,0 +1,155 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>S-nitrosylation of peroxiredoxin II E promotes peroxynitrite-mediated tyrosine nitration</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Maria C.</namePart>
+  <namePart type="family">Romero-Puertas</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Miriam</namePart>
+  <namePart type="family">Laxa</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alessandro</namePart>
+  <namePart type="family">Matte</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Federica</namePart>
+  <namePart type="family">Zaninotto</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Iris</namePart>
+  <namePart type="family">Finkemeier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alex M. E.</namePart>
+  <namePart type="family">Jones</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Michele</namePart>
+  <namePart type="family">Perazzolli</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Elodie</namePart>
+  <namePart type="family">Vandelle</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Karl-Josef</namePart>
+  <namePart type="family">Dietz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21935</identifier></name>
+<name type="personal">
+  <namePart type="given">Massimo</namePart>
+  <namePart type="family">Delledonne</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Biologie</namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Genomforschung und Systembiologie</namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Biochemie und Physiologie der Pflanzen</namePart>
+  <identifier type="unibi">2685177</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  K.-J. Dietz</namePart>
+  <identifier type="unibi">33070563</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Nitric oxide ( NO) is a free radical product of cell metabolism that plays diverse and important roles in the regulation of cellular function. S-Nitrosylation is emerging as a specific and fundamental posttranslational protein modification for the transduction of NO bioactivity, but very little is known about its physiological functions in plants. We investigated the molecular mechanism for S-nitrosylation of peroxiredoxin II E (PrxII E) from Arabidopsis thaliana and found that this posttranslational modification inhibits the hydroperoxide-reducing peroxidase activity of PrxII E, thus revealing a novel regulatory mechanism for peroxiredoxins. Furthermore, we obtained biochemical and genetic evidence that PrxII E functions in detoxifying peroxynitrite (ONOO-), a potent oxidizing and nitrating species formed in a diffusion-limited reaction between NO and O-2(-) that can interfere with Tyr kinase signaling through the nitration of Tyr residues. S-Nitrosylation also inhibits the ONOO- detoxification activity of PrxII E, causing a dramatic increase of ONOO--dependent nitrotyrosine residue formation. The same increase was observed in a prxII E mutant line after exposure to ONOO-, indicating that the PrxII E modulation of ONOO- bioactivity is biologically relevant. We conclude that NO regulates the effects of its own radicals through the S-nitrosylation of crucial components of the antioxidant defense system that function as common triggers for reactive oxygen species- and NO-mediated signaling events.</abstract>
+
+<originInfo><publisher>AMER SOC PLANT BIOLOGISTS</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>PLANT CELL</title></titleInfo>
+  <identifier type="issn">1040-4651</identifier>
+  <identifier type="eIssn">1532-298X</identifier>
+  <identifier type="MEDLINE">18165327</identifier>
+  <identifier type="ISI">000252699300023</identifier><identifier type="doi">10.1105/tpc.107.055061</identifier>
+<part><detail type="volume"><number>19</number></detail><detail type="issue"><number>12</number></detail><extent unit="pages">4120-4130</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Romero-Puertas, M.C., Laxa, M., Matte, A., Zaninotto, F., Finkemeier, I., Jones, A.M.E., Perazzolli, M., Vandelle, E., Dietz, K.-J. &amp;amp; Delledonne, M. (2007). S-nitrosylation of peroxiredoxin II E promotes peroxynitrite-mediated tyrosine nitration. &lt;em&gt;PLANT CELL&lt;/em&gt;, &lt;em&gt;19&lt;/em&gt;(12), 4120-4130. AMER SOC PLANT BIOLOGISTS. doi:10.1105/tpc.107.055061.&lt;/div&gt;</dgps>
+<harvard1>Romero-Puertas, M.C., et al., 2007. S-nitrosylation of peroxiredoxin II E promotes peroxynitrite-mediated tyrosine nitration. &lt;em&gt;PLANT CELL&lt;/em&gt;, 19(12), p 4120-4130.</harvard1>
+<ama>Romero-Puertas MC, Laxa M, Matte A, et al. S-nitrosylation of peroxiredoxin II E promotes peroxynitrite-mediated tyrosine nitration. &lt;em&gt;PLANT CELL&lt;/em&gt;. 2007;19(12):4120-4130.</ama>
+<aps>M. C.  Romero-Puertas, et al., S-nitrosylation of peroxiredoxin II E promotes peroxynitrite-mediated tyrosine nitration, PLANT CELL &lt;strong&gt;19&lt;/strong&gt;, 4120-4130 (2007).</aps>
+<bio1>Romero-Puertas MC, Laxa M, Matte A, Zaninotto F, Finkemeier I, Jones AME, Perazzolli M, Vandelle E, Dietz K-J, Delledonne M (2007) &lt;br /&gt;S-nitrosylation of peroxiredoxin II E promotes peroxynitrite-mediated tyrosine nitration.&lt;br /&gt;PLANT CELL 19(12): 4120-4130.</bio1>
+<wels>Romero-Puertas, M. C.; Laxa, M.; Matte, A.; Zaninotto, F.; Finkemeier, I.; Jones, A. M. E.; Perazzolli, M.; Vandelle, E.; Dietz, K. - J.; Delledonne, M. (2007): S-nitrosylation of peroxiredoxin II E promotes peroxynitrite-mediated tyrosine nitration &lt;em&gt;PLANT CELL&lt;/em&gt;,19:(12): 4120-4130.</wels>
+<default>Romero-Puertas MC, Laxa M, Matte A, Zaninotto F, Finkemeier I, Jones AME, Perazzolli M, Vandelle E, Dietz K-J, Delledonne M (2007) &lt;br /&gt;PLANT CELL 19(12): 4120-4130.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Romero-Puertas, M. C., Laxa, M., Matte, A., Zaninotto, F., Finkemeier, I., Jones, A. M. E., Perazzolli, M., et al. (2007). S-nitrosylation of peroxiredoxin II E promotes peroxynitrite-mediated tyrosine nitration. &lt;em&gt;PLANT CELL&lt;/em&gt;, &lt;em&gt;19&lt;/em&gt;(12), 4120-4130.&lt;/div&gt;</apa_indent>
+<ieee>M.C. Romero-Puertas, et al., “S-nitrosylation of peroxiredoxin II E promotes peroxynitrite-mediated tyrosine nitration”, &lt;em&gt;PLANT CELL&lt;/em&gt;,  vol. 19, 2007,  pp. 4120-4130.</ieee>
+<lncs>Romero-Puertas, M.C., Laxa, M., Matte, A., Zaninotto, F., Finkemeier, I., Jones, A.M.E., Perazzolli, M., Vandelle, E., Dietz, K.-J., Delledonne, M.: S-nitrosylation of peroxiredoxin II E promotes peroxynitrite-mediated tyrosine nitration. PLANT CELL. 19, 4120-4130 (2007).</lncs>
+<mla>Romero-Puertas, Maria C., Laxa, Miriam, Matte, Alessandro, Zaninotto, Federica, Finkemeier, Iris, Jones, Alex M. E., Perazzolli, Michele, Vandelle, Elodie, Dietz, Karl-Josef, and Delledonne, Massimo. “S-nitrosylation of peroxiredoxin II E promotes peroxynitrite-mediated tyrosine nitration”. &lt;em&gt;PLANT CELL&lt;/em&gt; 19.12 (2007): 4120-4130.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Romero-Puertas, Maria C., Laxa, Miriam, Matte, Alessandro, Zaninotto, Federica, Finkemeier, Iris, Jones, Alex M. E., Perazzolli, Michele, Vandelle, Elodie, Dietz, Karl-Josef, and Delledonne, Massimo. 2007. “S-nitrosylation of peroxiredoxin II E promotes peroxynitrite-mediated tyrosine nitration”. &lt;em&gt;PLANT CELL&lt;/em&gt; 19 (12): 4120-4130.&lt;/div&gt;</chicago>
+<angewandte-chemie>M. C.  Romero-Puertas, M.  Laxa, A.  Matte, F.  Zaninotto, I.  Finkemeier, A. M. E.  Jones, M.  Perazzolli, E.  Vandelle, K. - J.  Dietz, and M.  Delledonne, “S-nitrosylation of peroxiredoxin II E promotes peroxynitrite-mediated tyrosine nitration”, &lt;em&gt;PLANT CELL&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;19&lt;/em&gt;, 4120-4130.</angewandte-chemie>
+<apa>Romero-Puertas, M. C., Laxa, M., Matte, A., Zaninotto, F., Finkemeier, I., Jones, A. M. E., Perazzolli, M., et al. (2007). S-nitrosylation of peroxiredoxin II E promotes peroxynitrite-mediated tyrosine nitration. &lt;em&gt;PLANT CELL&lt;/em&gt;, &lt;em&gt;19&lt;/em&gt;(12), 4120-4130.</apa>
+<frontiers>Romero-Puertas, M. C., Laxa, M., Matte, A., Zaninotto, F., Finkemeier, I., Jones, A. M. E., Perazzolli, M., Vandelle, E., Dietz, K. - J., and Delledonne, M. (2007). S-nitrosylation of peroxiredoxin II E promotes peroxynitrite-mediated tyrosine nitration. &lt;em&gt;PLANT CELL&lt;/em&gt; 19, 4120-4130.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1592862</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T11:50:54Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-12-22T12:58:59Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1592862</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1592862</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

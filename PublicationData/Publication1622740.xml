@@ -1,0 +1,118 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Membrane electroporation and electromechanical deformation of vesicles and cells</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Eberhard</namePart>
+  <namePart type="family">Neumann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20317</identifier></name>
+<name type="personal">
+  <namePart type="given">Sergej</namePart>
+  <namePart type="family">Kakorin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20316</identifier></name>
+<name type="personal">
+  <namePart type="given">Katja</namePart>
+  <namePart type="family">Tönsing</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">47837</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Biophysik und angewandte Nanowissenschaften</namePart>
+  <identifier type="unibi">29125395</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Physikalische Chemie III</namePart>
+  <identifier type="unibi">17981</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Centrum für Biotechnologie</namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Analysis of the reduced turbidity (Delta T-/T-0) and absorbance (Delta A(-)/A(0)) relaxations of unilamellar lipid vesicles, doped with the diphenylhexatrienyl - phosphatidylcholine (beta-DPH pPC) lipids in high-voltage rectangular electrical field pulses, demonstrates that the major part of the turbidity and absorbance dichroism is caused by vesicle elongation under electric Maxwell stress. The kinetics of this electrochemomechanical shape deformation (time constants 0.1 less than or equal to tau/mu s less than or equal to 3) is determined both by the entrance of water and ions into the bulk membrane phase to form local electropores, and by the faster processes of membrane stretching and smoothing of thermal undulations. Moreover, the absorbance dichroism indicates local displacements of the chromophore relative to the membrane normal in the held. The slightly slower relaxations of the chemical turbidity (Delta T+/T-0) and absorbance (Delta A(+)/A(0)) modes are both associated with the entrance of solvent into the interface membrane/medium, caused by the alignment of the dipolar lipid head groups in one of the leaflets at the pole caps of the vesicle bilayer. In addition, (Delta T+/T-0) indicates changes in vesicle shape and volume. The results for lipid vesicles provide guidelines for the analysis of electroporative deformations of biological cells.</abstract>
+
+<originInfo><publisher>ROYAL SOC CHEMISTRY</publisher><dateIssued encoding="w3cdtf">1998</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>FARADAY DISCUSSIONS</title></titleInfo>
+  <identifier type="issn">0301-7249</identifier>
+  <identifier type="MEDLINE">10822604</identifier>
+  <identifier type="ISI">000080971900010</identifier>
+<part><detail type="volume"><number>111</number></detail><extent unit="pages">111-125</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>E.  Neumann, S.  Kakorin, and K.  Tönsing, Membrane electroporation and electromechanical deformation of vesicles and cells, FARADAY DISCUSSIONS &lt;strong&gt;111&lt;/strong&gt;, 111-125 (1998).</aps>
+<bio1>Neumann E, Kakorin S, Tönsing K (1998) &lt;br /&gt;Membrane electroporation and electromechanical deformation of vesicles and cells.&lt;br /&gt;FARADAY DISCUSSIONS 111: 111-125.</bio1>
+<harvard1>Neumann, E., Kakorin, S., &amp;amp; Tönsing, K., 1998. Membrane electroporation and electromechanical deformation of vesicles and cells. &lt;em&gt;FARADAY DISCUSSIONS&lt;/em&gt;, 111, p 111-125.</harvard1>
+<ama>Neumann E, Kakorin S, Tönsing K. Membrane electroporation and electromechanical deformation of vesicles and cells. &lt;em&gt;FARADAY DISCUSSIONS&lt;/em&gt;. 1998;111:111-125.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neumann, E., Kakorin, S. &amp;amp; Tönsing, K. (1998). Membrane electroporation and electromechanical deformation of vesicles and cells. &lt;em&gt;FARADAY DISCUSSIONS&lt;/em&gt;, &lt;em&gt;111&lt;/em&gt;, 111-125. ROYAL SOC CHEMISTRY.&lt;/div&gt;</dgps>
+<default>Neumann E, Kakorin S, Tönsing K (1998) &lt;br /&gt;FARADAY DISCUSSIONS 111: 111-125.</default>
+<wels>Neumann, E.; Kakorin, S.; Tönsing, K. (1998): Membrane electroporation and electromechanical deformation of vesicles and cells &lt;em&gt;FARADAY DISCUSSIONS&lt;/em&gt;,111: 111-125.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neumann, E., Kakorin, S., &amp;amp; Tönsing, K. (1998). Membrane electroporation and electromechanical deformation of vesicles and cells. &lt;em&gt;FARADAY DISCUSSIONS&lt;/em&gt;, &lt;em&gt;111&lt;/em&gt;, 111-125.&lt;/div&gt;</apa_indent>
+<mla>Neumann, Eberhard, Kakorin, Sergej, and Tönsing, Katja. “Membrane electroporation and electromechanical deformation of vesicles and cells”. &lt;em&gt;FARADAY DISCUSSIONS&lt;/em&gt; 111 (1998): 111-125.</mla>
+<lncs>Neumann, E., Kakorin, S., Tönsing, K.: Membrane electroporation and electromechanical deformation of vesicles and cells. FARADAY DISCUSSIONS. 111, 111-125 (1998).</lncs>
+<ieee>E. Neumann, S. Kakorin, and K. Tönsing, “Membrane electroporation and electromechanical deformation of vesicles and cells”, &lt;em&gt;FARADAY DISCUSSIONS&lt;/em&gt;,  vol. 111, 1998,  pp. 111-125.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neumann, Eberhard, Kakorin, Sergej, and Tönsing, Katja. 1998. “Membrane electroporation and electromechanical deformation of vesicles and cells”. &lt;em&gt;FARADAY DISCUSSIONS&lt;/em&gt; 111: 111-125.&lt;/div&gt;</chicago>
+<frontiers>Neumann, E., Kakorin, S., and Tönsing, K. (1998). Membrane electroporation and electromechanical deformation of vesicles and cells. &lt;em&gt;FARADAY DISCUSSIONS&lt;/em&gt; 111, 111-125.</frontiers>
+<angewandte-chemie>E.  Neumann, S.  Kakorin, and K.  Tönsing, “Membrane electroporation and electromechanical deformation of vesicles and cells”, &lt;em&gt;FARADAY DISCUSSIONS&lt;/em&gt;, &lt;strong&gt;1998&lt;/strong&gt;, &lt;em&gt;111&lt;/em&gt;, 111-125.</angewandte-chemie>
+<apa>Neumann, E., Kakorin, S., &amp;amp; Tönsing, K. (1998). Membrane electroporation and electromechanical deformation of vesicles and cells. &lt;em&gt;FARADAY DISCUSSIONS&lt;/em&gt;, &lt;em&gt;111&lt;/em&gt;, 111-125.</apa>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1622740</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:05:48Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-14T15:02:32Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1622740</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1622740</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

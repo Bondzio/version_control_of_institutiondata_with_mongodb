@@ -1,0 +1,180 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>EMMA: a platform for consistent storage and efficient analysis of microarray data</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">M.</namePart>
+  <namePart type="family">Dondrup</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alexander</namePart>
+  <namePart type="family">Goesmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">152495</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-7086-2568</description></name>
+<name type="personal">
+  <namePart type="given">D.</namePart>
+  <namePart type="family">Bartels</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jörn</namePart>
+  <namePart type="family">Kalinowski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">147567</identifier></name>
+<name type="personal">
+  <namePart type="given">L.</namePart>
+  <namePart type="family">Krause</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Burkhard</namePart>
+  <namePart type="family">Linke</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">148566</identifier></name>
+<name type="personal">
+  <namePart type="given">O.</namePart>
+  <namePart type="family">Rupp</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alexander</namePart>
+  <namePart type="family">Sczyrba</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">17894</identifier></name>
+<name type="personal">
+  <namePart type="given">Alfred</namePart>
+  <namePart type="family">Pühler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21937</identifier></name>
+<name type="personal">
+  <namePart type="given">F.</namePart>
+  <namePart type="family">Meyer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441927</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33067438</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070639</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33067478</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070724</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">As a high throughput technique, microarray experiments produce large data sets, consisting of measured data, laboratory protocols, and experimental settings. We have implemented the open source platform EMMA to store and analyze these data. The system provides automated pipelines for data processing and has a modular architecture that can be easily extended. EMMA features detailed reports about spots and their corresponding measurements. In addition to routine data analysis algorithms, the system can be integrated with other components that contain additional data sources (e.g. genome annotation systems). (C) 2003 Elsevier B.V. All rights reserved.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">2003</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>transcriptomics</topic><topic>microarrays</topic><topic>gene expression analysis</topic><topic>data integration</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF BIOTECHNOLOGY</title></titleInfo>
+  <identifier type="issn">0168-1656</identifier>
+  <identifier type="MEDLINE">14651856</identifier>
+  <identifier type="ISI">000187350200003</identifier><identifier type="doi">10.1016/j.jbiotec.2003.08.010</identifier>
+<part><detail type="volume"><number>106</number></detail><detail type="issue"><number>2-3</number></detail><extent unit="pages">135-146</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps> M.  Dondrup, et al., EMMA: a platform for consistent storage and efficient analysis of microarray data, JOURNAL OF BIOTECHNOLOGY &lt;strong&gt;106&lt;/strong&gt;, 135-146 (2003).</aps>
+<bio1>Dondrup M, Goesmann A, Bartels D, Kalinowski J, Krause L, Linke B, Rupp O, Sczyrba A, Pühler A, Meyer F (2003) &lt;br /&gt;EMMA: a platform for consistent storage and efficient analysis of microarray data.&lt;br /&gt;JOURNAL OF BIOTECHNOLOGY 106(2-3): 135-146.</bio1>
+<harvard1>Dondrup, M., et al., 2003. EMMA: a platform for consistent storage and efficient analysis of microarray data. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, 106(2-3), p 135-146.</harvard1>
+<ama>Dondrup M, Goesmann A, Bartels D, et al. EMMA: a platform for consistent storage and efficient analysis of microarray data. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;. 2003;106(2-3):135-146.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Dondrup, M., Goesmann, A., Bartels, D., Kalinowski, J., Krause, L., Linke, B., Rupp, O., Sczyrba, A., Pühler, A. &amp;amp; Meyer, F. (2003). EMMA: a platform for consistent storage and efficient analysis of microarray data. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;106&lt;/em&gt;(2-3), 135-146. ELSEVIER SCIENCE BV. doi:10.1016/j.jbiotec.2003.08.010.&lt;/div&gt;</dgps>
+<default>Dondrup M, Goesmann A, Bartels D, Kalinowski J, Krause L, Linke B, Rupp O, Sczyrba A, Pühler A, Meyer F (2003) &lt;br /&gt;JOURNAL OF BIOTECHNOLOGY 106(2-3): 135-146.</default>
+<wels>Dondrup, M.; Goesmann, A.; Bartels, D.; Kalinowski, J.; Krause, L.; Linke, B.; Rupp, O.; Sczyrba, A.; Pühler, A.; Meyer, F. (2003): EMMA: a platform for consistent storage and efficient analysis of microarray data &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;,106:(2-3): 135-146.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Dondrup, M., Goesmann, A., Bartels, D., Kalinowski, J., Krause, L., Linke, B., Rupp, O., et al. (2003). EMMA: a platform for consistent storage and efficient analysis of microarray data. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;106&lt;/em&gt;(2-3), 135-146.&lt;/div&gt;</apa_indent>
+<lncs> Dondrup, M., Goesmann, A., Bartels, D., Kalinowski, J., Krause, L., Linke, B., Rupp, O., Sczyrba, A., Pühler, A., Meyer, F.: EMMA: a platform for consistent storage and efficient analysis of microarray data. JOURNAL OF BIOTECHNOLOGY. 106, 135-146 (2003).</lncs>
+<mla>Dondrup, M., Goesmann, Alexander, Bartels, D., Kalinowski, Jörn, Krause, L., Linke, Burkhard, Rupp, O., Sczyrba, Alexander, Pühler, Alfred, and Meyer, F. “EMMA: a platform for consistent storage and efficient analysis of microarray data”. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt; 106.2-3 (2003): 135-146.</mla>
+<ieee> M. Dondrup, et al., “EMMA: a platform for consistent storage and efficient analysis of microarray data”, &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;,  vol. 106, 2003,  pp. 135-146.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Dondrup, M., Goesmann, Alexander, Bartels, D., Kalinowski, Jörn, Krause, L., Linke, Burkhard, Rupp, O., Sczyrba, Alexander, Pühler, Alfred, and Meyer, F. 2003. “EMMA: a platform for consistent storage and efficient analysis of microarray data”. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt; 106 (2-3): 135-146.&lt;/div&gt;</chicago>
+<frontiers>Dondrup, M., Goesmann, A., Bartels, D., Kalinowski, J., Krause, L., Linke, B., Rupp, O., Sczyrba, A., Pühler, A., and Meyer, F. (2003). EMMA: a platform for consistent storage and efficient analysis of microarray data. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt; 106, 135-146.</frontiers>
+<angewandte-chemie>M.  Dondrup, A.  Goesmann, D.  Bartels, J.  Kalinowski, L.  Krause, B.  Linke, O.  Rupp, A.  Sczyrba, A.  Pühler, and F.  Meyer, “EMMA: a platform for consistent storage and efficient analysis of microarray data”, &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;strong&gt;2003&lt;/strong&gt;, &lt;em&gt;106&lt;/em&gt;, 135-146.</angewandte-chemie>
+<apa>Dondrup, M., Goesmann, A., Bartels, D., Kalinowski, J., Krause, L., Linke, B., Rupp, O., et al. (2003). EMMA: a platform for consistent storage and efficient analysis of microarray data. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;106&lt;/em&gt;(2-3), 135-146.</apa>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1609260</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:58:33Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-09-23T11:31:49Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1609260</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1609260</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

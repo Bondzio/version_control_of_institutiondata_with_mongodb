@@ -1,0 +1,96 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference abstract</genre>
+
+<titleInfo><title>Track 8: Workshop: Burden of infectious diseases on migrant health in Europe</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Alexander</namePart>
+  <namePart type="family">Krämer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21463</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0003-2774-7860</description></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Foets</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10046</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>OXFORD UNIV PRESS</publisher><dateIssued encoding="w3cdtf">2005</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host">
+  <identifier type="issn">1101-1262</identifier>
+  <identifier type="ISI">000234567800044</identifier>
+<part><detail type="volume"><number>15</number></detail><detail type="issue"><number>Suppl. 1</number></detail><extent unit="pages">21</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Krämer, A. &amp;amp; Foets, M. (2005). Track 8: Workshop: Burden of infectious diseases on migrant health in Europe (EUROPEAN JOURNAL OF PUBLIC HEALTH). OXFORD UNIV PRESS.&lt;/div&gt;</dgps>
+<ama>Krämer A, Foets M. Track 8: Workshop: Burden of infectious diseases on migrant health in Europe.</ama>
+<harvard1>Krämer, A., &amp;amp; Foets, M., 2005. Track 8: Workshop: Burden of infectious diseases on migrant health in Europe.</harvard1>
+<bio1>Krämer A, Foets M (2005) &lt;br /&gt;Track 8: Workshop: Burden of infectious diseases on migrant health in Europe.</bio1>
+<aps> A.  Krämer and M.  Foets, Track 8: Workshop: Burden of infectious diseases on migrant health in Europe, EUROPEAN JOURNAL OF PUBLIC HEALTH, &lt;strong&gt;15&lt;/strong&gt; (OXFORD UNIV PRESS, 2005).</aps>
+<wels>Krämer, A.; Foets, M. (2005): Track 8: Workshop: Burden of infectious diseases on migrant health in Europe. OXFORD UNIV PRESS. (EUROPEAN JOURNAL OF PUBLIC HEALTH, 15).</wels>
+<default>Krämer A, Foets M (2005) .</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Krämer, A., &amp;amp; Foets, M. (2005). &lt;em&gt;Track 8: Workshop: Burden of infectious diseases on migrant health in Europe&lt;/em&gt;. Presented at the .&lt;/div&gt;</apa_indent>
+<ieee> A. Krämer and M. Foets, “Track 8: Workshop: Burden of infectious diseases on migrant health in Europe”, OXFORD UNIV PRESS, 2005.</ieee>
+<lncs> Krämer, A., Foets, M.: Track 8: Workshop: Burden of infectious diseases on migrant health in Europe. (2005).</lncs>
+<mla>Krämer, Alexander, and Foets, M. “Track 8: Workshop: Burden of infectious diseases on migrant health in Europe”., OXFORD UNIV PRESS, 2005.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Krämer, Alexander, and Foets, M. 2005. “Track 8: Workshop: Burden of infectious diseases on migrant health in Europe”. Presented at the . Vol. 15. EUROPEAN JOURNAL OF PUBLIC HEALTH. OXFORD UNIV PRESS.&lt;/div&gt;</chicago>
+<angewandte-chemie>A.  Krämer, and M.  Foets, Oxford Univ Press, &lt;strong&gt;2005&lt;/strong&gt;.</angewandte-chemie>
+<apa>Krämer, A., &amp;amp; Foets, M. (2005). &lt;em&gt;Track 8: Workshop: Burden of infectious diseases on migrant health in Europe&lt;/em&gt;. Presented at the .</apa>
+<frontiers>Krämer, A., and Foets, M. (2005).“Track 8: Workshop: Burden of infectious diseases on migrant health in Europe”.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1600755</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:31:23Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-11-21T12:48:40Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1600755</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1600755</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

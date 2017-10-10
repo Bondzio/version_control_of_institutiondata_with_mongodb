@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Neural recognition of human pointing gestures in real images</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Enno</namePart>
+  <namePart type="family">Littmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andrea</namePart>
+  <namePart type="family">Drees</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Helge</namePart>
+  <namePart type="family">Ritter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">91130</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Neuroinformatik</namePart>
+  <identifier type="unibi">10038</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We present a neural network based system for the visual recognition of human hand pointing gestures from stereo pairs of video camera images. The accuracy of the current system allows to estimate the pointing target to an accuracy of 2 cm in a workspace area of 50 x 50 cm. The system consists of several neural networks that perform the tasks of image segmentation, estimation of hand location, estimation of 3D-pointing direction and necessary coordinate transforms. Drawing heavily on the use of learning algorithms, the functions of all network modules were created from data examples only.</abstract>
+
+<originInfo><publisher>Kluwer</publisher><dateIssued encoding="w3cdtf">1996</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>gesture recognition</topic><topic>modular neural system</topic><topic>pointing gestures</topic><topic>man-machine interface</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Neural Processing Letters</title></titleInfo>
+  <identifier type="issn">1370-4621</identifier>
+  <identifier type="ISI">A1996VJ88000001</identifier><identifier type="doi">10.1007/BF00571679</identifier>
+<part><detail type="volume"><number>3</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">61-71</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Littmann, Enno, Drees, Andrea, and Ritter, Helge. 1996. “Neural recognition of human pointing gestures in real images”. &lt;em&gt;Neural Processing Letters&lt;/em&gt; 3 (2): 61-71.&lt;/div&gt;</chicago>
+<angewandte-chemie>E.  Littmann, A.  Drees, and H.  Ritter, “Neural recognition of human pointing gestures in real images”, &lt;em&gt;Neural Processing Letters&lt;/em&gt;, &lt;strong&gt;1996&lt;/strong&gt;, &lt;em&gt;3&lt;/em&gt;, 61-71.</angewandte-chemie>
+<apa>Littmann, E., Drees, A., &amp;amp; Ritter, H. (1996). Neural recognition of human pointing gestures in real images. &lt;em&gt;Neural Processing Letters&lt;/em&gt;, &lt;em&gt;3&lt;/em&gt;(2), 61-71.</apa>
+<frontiers>Littmann, E., Drees, A., and Ritter, H. (1996). Neural recognition of human pointing gestures in real images. &lt;em&gt;Neural Processing Letters&lt;/em&gt; 3, 61-71.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Littmann, E., Drees, A., &amp;amp; Ritter, H. (1996). Neural recognition of human pointing gestures in real images. &lt;em&gt;Neural Processing Letters&lt;/em&gt;, &lt;em&gt;3&lt;/em&gt;(2), 61-71.&lt;/div&gt;</apa_indent>
+<ieee>E. Littmann, A. Drees, and H. Ritter, “Neural recognition of human pointing gestures in real images”, &lt;em&gt;Neural Processing Letters&lt;/em&gt;,  vol. 3, 1996,  pp. 61-71.</ieee>
+<mla>Littmann, Enno, Drees, Andrea, and Ritter, Helge. “Neural recognition of human pointing gestures in real images”. &lt;em&gt;Neural Processing Letters&lt;/em&gt; 3.2 (1996): 61-71.</mla>
+<lncs>Littmann, E., Drees, A., Ritter, H.: Neural recognition of human pointing gestures in real images. Neural Processing Letters. 3, 61-71 (1996).</lncs>
+<wels>Littmann, E.; Drees, A.; Ritter, H. (1996): Neural recognition of human pointing gestures in real images &lt;em&gt;Neural Processing Letters&lt;/em&gt;,3:(2): 61-71.</wels>
+<default>Littmann E, Drees A, Ritter H (1996) &lt;br /&gt;Neural Processing Letters 3(2): 61-71.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Littmann, E., Drees, A. &amp;amp; Ritter, H. (1996). Neural recognition of human pointing gestures in real images. &lt;em&gt;Neural Processing Letters&lt;/em&gt;, &lt;em&gt;3&lt;/em&gt;(2), 61-71. Kluwer. doi:10.1007/BF00571679.&lt;/div&gt;</dgps>
+<ama>Littmann E, Drees A, Ritter H. Neural recognition of human pointing gestures in real images. &lt;em&gt;Neural Processing Letters&lt;/em&gt;. 1996;3(2):61-71.</ama>
+<harvard1>Littmann, E., Drees, A., &amp;amp; Ritter, H., 1996. Neural recognition of human pointing gestures in real images. &lt;em&gt;Neural Processing Letters&lt;/em&gt;, 3(2), p 61-71.</harvard1>
+<bio1>Littmann E, Drees A, Ritter H (1996) &lt;br /&gt;Neural recognition of human pointing gestures in real images.&lt;br /&gt;Neural Processing Letters 3(2): 61-71.</bio1>
+<aps>E.  Littmann, A.  Drees, and H.  Ritter, Neural recognition of human pointing gestures in real images, Neural Processing Letters &lt;strong&gt;3&lt;/strong&gt;, 61-71 (1996).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1638438</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:14:46Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2015-04-14T10:24:27Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1638438</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1638438</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,193 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Ecological genomics of marine roseobacters</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">M. A.</namePart>
+  <namePart type="family">Moran</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">R.</namePart>
+  <namePart type="family">Belas</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M. A.</namePart>
+  <namePart type="family">Schell</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J. M.</namePart>
+  <namePart type="family">Gonzalez</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">F.</namePart>
+  <namePart type="family">Sun</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">S.</namePart>
+  <namePart type="family">Sun</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">B. J.</namePart>
+  <namePart type="family">Binder</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J.</namePart>
+  <namePart type="family">Edmonds</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">W.</namePart>
+  <namePart type="family">Ye</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">B.</namePart>
+  <namePart type="family">Orcutt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">E. C.</namePart>
+  <namePart type="family">Howard</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">C.</namePart>
+  <namePart type="family">Meile</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">W.</namePart>
+  <namePart type="family">Palefsky</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alexander</namePart>
+  <namePart type="family">Goesmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">152495</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-7086-2568</description></name>
+<name type="personal">
+  <namePart type="given">Q.</namePart>
+  <namePart type="family">Ren</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">I.</namePart>
+  <namePart type="family">Paulsen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">L. E.</namePart>
+  <namePart type="family">Ulrich</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">L. S.</namePart>
+  <namePart type="family">Thompson</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">E.</namePart>
+  <namePart type="family">Saunders</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A.</namePart>
+  <namePart type="family">Buchan</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Research Group A. Goesmann</namePart>
+  <identifier type="unibi">33067438</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Computational Genomics</namePart>
+  <identifier type="unibi">29609402</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Bioinformatics Resource Facility</namePart>
+  <identifier type="unibi">441927</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>AMER SOC MICROBIOLOGY</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>APPLIED AND ENVIRONMENTAL MICROBIOLOGY</title></titleInfo>
+  <identifier type="issn">0099-2240</identifier>
+  <identifier type="MEDLINE">17526795</identifier>
+  <identifier type="ISI">000248197400021</identifier><identifier type="doi">10.1128/AEM.02580-06</identifier>
+<part><detail type="volume"><number>73</number></detail><detail type="issue"><number>14</number></detail><extent unit="pages">4559-4569</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Moran, M. A., Belas, R., Schell, M. A., Gonzalez, J. M., Sun, F., Sun, S., Binder, B. J., et al. (2007). Ecological genomics of marine roseobacters. &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt;, &lt;em&gt;73&lt;/em&gt;(14), 4559-4569.&lt;/div&gt;</apa_indent>
+<ieee>M.A. Moran, et al., “Ecological genomics of marine roseobacters”, &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt;,  vol. 73, 2007,  pp. 4559-4569.</ieee>
+<mla>Moran, M. A., Belas, R., Schell, M. A., Gonzalez, J. M., Sun, F., Sun, S., Binder, B. J., Edmonds, J., Ye, W., Orcutt, B., Howard, E. C., Meile, C., Palefsky, W., Goesmann, Alexander, Ren, Q., Paulsen, I., Ulrich, L. E., Thompson, L. S., Saunders, E., and Buchan, A. “Ecological genomics of marine roseobacters”. &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt; 73.14 (2007): 4559-4569.</mla>
+<lncs>Moran, M.A., Belas, R., Schell, M.A., Gonzalez, J.M., Sun, F., Sun, S., Binder, B.J., Edmonds, J., Ye, W., Orcutt, B., Howard, E.C., Meile, C., Palefsky, W., Goesmann, A., Ren, Q., Paulsen, I., Ulrich, L.E., Thompson, L.S., Saunders, E., Buchan, A.: Ecological genomics of marine roseobacters. APPLIED AND ENVIRONMENTAL MICROBIOLOGY. 73, 4559-4569 (2007).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Moran, M. A., Belas, R., Schell, M. A., Gonzalez, J. M., Sun, F., Sun, S., Binder, B. J., et al. 2007. “Ecological genomics of marine roseobacters”. &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt; 73 (14): 4559-4569.&lt;/div&gt;</chicago>
+<apa>Moran, M. A., Belas, R., Schell, M. A., Gonzalez, J. M., Sun, F., Sun, S., Binder, B. J., et al. (2007). Ecological genomics of marine roseobacters. &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt;, &lt;em&gt;73&lt;/em&gt;(14), 4559-4569.</apa>
+<angewandte-chemie>M. A.  Moran, R.  Belas, M. A.  Schell, J. M.  Gonzalez, F.  Sun, S.  Sun, B. J.  Binder, J.  Edmonds, W.  Ye, B.  Orcutt, et al., “Ecological genomics of marine roseobacters”, &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;73&lt;/em&gt;, 4559-4569.</angewandte-chemie>
+<frontiers>Moran, M. A., Belas, R., Schell, M. A., Gonzalez, J. M., Sun, F., Sun, S., Binder, B. J., Edmonds, J., Ye, W., Orcutt, B., et al. (2007). Ecological genomics of marine roseobacters. &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt; 73, 4559-4569.</frontiers>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Moran, M.A., Belas, R., Schell, M.A., Gonzalez, J.M., Sun, F., Sun, S., Binder, B.J., Edmonds, J., Ye, W., Orcutt, B., Howard, E.C., Meile, C., Palefsky, W., Goesmann, A., Ren, Q., Paulsen, I., Ulrich, L.E., Thompson, L.S., Saunders, E. &amp;amp; Buchan, A. (2007). Ecological genomics of marine roseobacters. &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt;, &lt;em&gt;73&lt;/em&gt;(14), 4559-4569. AMER SOC MICROBIOLOGY. doi:10.1128/AEM.02580-06.&lt;/div&gt;</dgps>
+<ama>Moran MA, Belas R, Schell MA, et al. Ecological genomics of marine roseobacters. &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt;. 2007;73(14):4559-4569.</ama>
+<harvard1>Moran, M.A., et al., 2007. Ecological genomics of marine roseobacters. &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt;, 73(14), p 4559-4569.</harvard1>
+<aps>M. A.  Moran, et al., Ecological genomics of marine roseobacters, APPLIED AND ENVIRONMENTAL MICROBIOLOGY &lt;strong&gt;73&lt;/strong&gt;, 4559-4569 (2007).</aps>
+<bio1>Moran MA, Belas R, Schell MA, Gonzalez JM, Sun F, Sun S, Binder BJ, Edmonds J, Ye W, Orcutt B, Howard EC, Meile C, Palefsky W, Goesmann A, Ren Q, Paulsen I, Ulrich LE, Thompson LS, Saunders E, Buchan A (2007) &lt;br /&gt;Ecological genomics of marine roseobacters.&lt;br /&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY 73(14): 4559-4569.</bio1>
+<wels>Moran, M. A.; Belas, R.; Schell, M. A.; Gonzalez, J. M.; Sun, F.; Sun, S.; Binder, B. J.; Edmonds, J.; Ye, W.; Orcutt, B.; Howard, E. C.; Meile, C.; Palefsky, W.; Goesmann, A.; Ren, Q.; Paulsen, I.; Ulrich, L. E.; Thompson, L. S.; Saunders, E.; Buchan, A. (2007): Ecological genomics of marine roseobacters &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt;,73:(14): 4559-4569.</wels>
+<default>Moran MA, Belas R, Schell MA, Gonzalez JM, Sun F, Sun S, Binder BJ, Edmonds J, Ye W, Orcutt B, Howard EC, et al. (2007) &lt;br /&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY 73(14): 4559-4569.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1593149</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:15:42Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-02-14T12:39:09Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1593149</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1593149</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

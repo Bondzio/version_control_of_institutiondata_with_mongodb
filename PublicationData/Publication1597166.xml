@@ -1,0 +1,121 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>An object-oriented approach using a top-down and bottom-up process for manipulative action recognition</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Zhe</namePart>
+  <namePart type="family">Li</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jannik</namePart>
+  <namePart type="family">Fritsch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">101755</identifier></name>
+<name type="personal">
+  <namePart type="given">Sven</namePart>
+  <namePart type="family">Wachsmuth</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10378</identifier></name>
+<name type="personal">
+  <namePart type="given">Gerhard</namePart>
+  <namePart type="family">Sagerer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10375</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Technische Fakultät</namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Angewandte Informatik</namePart>
+  <identifier type="unibi">18304588</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Institute for Cognition and Robotics</namePart>
+  <identifier type="unibi">5408013</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Different from many gesture-based human-robot interaction applications, which focused on the recognition of the interactional or the pointing gestures, this paper proposes a vision-based method for manipulative gesture recognition aiming to achieve natural, proactive, and non-intrusive interaction between humans and robots. The main contributions of the paper are an object-centered scheme for the segmentation and characterization of hand trajectory information, the use of particle filtering methods for an action primitive spotting, and the tight coupling of bottom-up and top-down processing that realizes a task-driven attention filter for low-level recognition steps. In contrast to purely trajectory based techniques, the presented approach is called object-oriented w.r.t. two different aspects: it is object-centered in terms of trajectory features that are defined relative to an object, and it uses object-specific models for action primitives. The system has a two-layer structure recognizing both the HMM-modeled manipulative primitives and the underlying task characterized by the manipulative primitive sequence. The proposed top-down and bottom-up mechanism between the two layers decreases the image processing load and improves the recognition rate.</abstract>
+
+<originInfo><publisher>Springer-Verlag</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Pattern Recognition, Proceedings</title></titleInfo>
+  <identifier type="issn">0302-9743</identifier>
+  <identifier type="ISI">000241486800022</identifier><identifier type="doi">10.1007/11861898_22</identifier>
+<part><extent unit="pages">212-221</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Li Z, Fritsch J, Wachsmuth S, Sagerer G (2006)  &lt;br /&gt;In:  Pattern Recognition, Proceedings.  Lecture Notes in Computer Science, 4174, . Berlin: Springer-Verlag:  212-221.</default>
+<wels>Li, Z.; Fritsch, J.; Wachsmuth, S.; Sagerer, G. (2006): An object-oriented approach using a top-down and bottom-up process for manipulative action recognition. In: Pattern Recognition, Proceedings. Berlin: Springer-Verlag. (Lecture Notes in Computer Science, 4174, ).  S. 212-221.</wels>
+<aps>Z.  Li, et al., An object-oriented approach using a top-down and bottom-up process for manipulative action recognition, in &lt;em&gt;Pattern Recognition, Proceedings&lt;/em&gt;, Lecture Notes in Computer Science, 4174 (Springer-Verlag, Berlin, 2006), p. 212-221.</aps>
+<bio1>Li Z, Fritsch J, Wachsmuth S, Sagerer G (2006) &lt;br /&gt;An object-oriented approach using a top-down and bottom-up process for manipulative action recognition. &lt;br /&gt;In:  Pattern Recognition, Proceedings.  Lecture Notes in Computer Science, 4174,  Berlin: Springer-Verlag:  212-221.</bio1>
+<ama>Li Z, Fritsch J, Wachsmuth S, Sagerer G. An object-oriented approach using a top-down and bottom-up process for manipulative action recognition. In:  &lt;em&gt;Pattern Recognition, Proceedings&lt;/em&gt;. Lecture Notes in Computer Science, 4174. Berlin: Springer-Verlag;  2006: 212-221.</ama>
+<harvard1>Li, Z., et al., 2006. An object-oriented approach using a top-down and bottom-up process for manipulative action recognition. In &lt;em&gt;Pattern Recognition, Proceedings&lt;/em&gt;. Lecture Notes in Computer Science, 4174.  Berlin: Springer-Verlag, pp. 212-221.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Li, Z., Fritsch, J., Wachsmuth, S. &amp;amp; Sagerer, G. (2006). An object-oriented approach using a top-down and bottom-up process for manipulative action recognition (Lecture Notes in Computer Science, 4174). &lt;em&gt;Pattern Recognition, Proceedings&lt;/em&gt; (S. 212-221). Berlin: Springer-Verlag. doi:10.1007/11861898_22.&lt;/div&gt;</dgps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Li, Zhe, Fritsch, Jannik, Wachsmuth, Sven, and Sagerer, Gerhard. 2006. “An object-oriented approach using a top-down and bottom-up process for manipulative action recognition”. In &lt;em&gt;Pattern Recognition, Proceedings&lt;/em&gt;, 212-221. Lecture Notes in Computer Science, 4174. Berlin: Springer-Verlag.&lt;/div&gt;</chicago>
+<frontiers>Li, Z., Fritsch, J., Wachsmuth, S., and Sagerer, G. (2006). “An object-oriented approach using a top-down and bottom-up process for manipulative action recognition” in &lt;em&gt;Pattern Recognition, Proceedings&lt;/em&gt; Lecture Notes in Computer Science, 4174 (Berlin: Springer-Verlag), 212-221.</frontiers>
+<apa>Li, Z., Fritsch, J., Wachsmuth, S., &amp;amp; Sagerer, G. (2006). An object-oriented approach using a top-down and bottom-up process for manipulative action recognition. &lt;em&gt;Pattern Recognition, Proceedings&lt;/em&gt;, 212-221.</apa>
+<angewandte-chemie>Z.  Li, J.  Fritsch, S.  Wachsmuth, and G.  Sagerer, in &lt;em&gt;Pattern Recognition, Proceedings&lt;/em&gt;, Springer-Verlag, Berlin, &lt;strong&gt;2006&lt;/strong&gt;, p. 212-221.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Li, Z., Fritsch, J., Wachsmuth, S., &amp;amp; Sagerer, G. (2006). An object-oriented approach using a top-down and bottom-up process for manipulative action recognition. &lt;em&gt;Pattern Recognition, Proceedings&lt;/em&gt;, 212-221.&lt;/div&gt;</apa_indent>
+<mla>Li, Zhe, Fritsch, Jannik, Wachsmuth, Sven, and Sagerer, Gerhard. “An object-oriented approach using a top-down and bottom-up process for manipulative action recognition”. &lt;em&gt;Pattern Recognition, Proceedings&lt;/em&gt;. Berlin: Springer-Verlag, 2006. Lecture Notes in Computer Science, 4174. 212-221.</mla>
+<lncs>Li, Z., Fritsch, J., Wachsmuth, S., Sagerer, G.: An object-oriented approach using a top-down and bottom-up process for manipulative action recognition. Pattern Recognition, Proceedings. Lecture Notes in Computer Science, 4174. p. 212-221. Springer-Verlag, Berlin (2006).</lncs>
+<ieee>Z. Li, et al., “An object-oriented approach using a top-down and bottom-up process for manipulative action recognition”, &lt;em&gt;Pattern Recognition, Proceedings&lt;/em&gt;, Lecture Notes in Computer Science, 4174,  Berlin: Springer-Verlag, 2006,  pp.212-221.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1597166</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:18:43Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2013-10-10T14:22:16Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1597166</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1597166</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

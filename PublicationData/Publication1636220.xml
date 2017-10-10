@@ -1,0 +1,125 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Functional characterisation of the peroxiredoxin gene family members of Synechococcus elongatus PCC 7942</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Tina</namePart>
+  <namePart type="family">Stork</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Miriam</namePart>
+  <namePart type="family">Laxa</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Marina S.</namePart>
+  <namePart type="family">Dietz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Karl-Josef</namePart>
+  <namePart type="family">Dietz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21935</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Genomforschung und Systembiologie</namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  K.-J. Dietz</namePart>
+  <identifier type="unibi">33070563</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Biochemie und Physiologie der Pflanzen</namePart>
+  <identifier type="unibi">2685177</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The genome of Synechococcus elongatus PCC 7942 encodes six peroxiredoxins (Prx). Single genes are present each for a 1-Cys Prx and a 2-Cys Prx, while four genes code for PrxQ-like proteins (prxQ-A1, -A2, -A3 and B). Their transcript accumulation varies with growth conditions in a gene-specific manner (Stork et al. in J Exp Bot 56:3193-3206, 2005). To address their functional properties, members of the prx gene family were produced as recombinant proteins and analysed for their peroxide detoxification capacity and quaternary structure by size exclusion chromatography. Independent of the reduction state, the 2-Cys Prx separated as oligomer, the 1-Cys Prx as dimer and the PrxQ-A1 as monomer. PrxQ-A2 was inactive in our assays, 1-Cys Prx activity was unaffected by addition of TrxA, while all others were stimulated to a variable extent by addition of E. coli thioredoxin. Sensitivity towards cumene hydroperoxide treatment of E. coli BL21 cells expressing the cyanobacterial PrxQ-A1 to A3 proteins was greatly reduced, while expression of the other Prx had no effect. The study shows differentiation of Prx functions in S. elongatus PCC 7942 which is discussed in relation to potential roles in site- and stress-specific defence.</abstract>
+
+<originInfo><publisher>Springer Science + Business Media</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Gene family</topic><topic>Heterologous</topic><topic>expression</topic><topic>Hydrogen peroxide</topic><topic>Peroxiredoxin</topic><topic>Protection of E. coli</topic><topic>Synechococcus elongatus PCC 7942</topic><topic>Catalytic activity</topic><topic>Cyanobacteria</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>ARCHIVES OF MICROBIOLOGY</title></titleInfo>
+  <identifier type="issn">0302-8933</identifier>
+  <identifier type="eIssn">1432-072X</identifier>
+  <identifier type="MEDLINE">18974976</identifier>
+  <identifier type="ISI">000262555300006</identifier><identifier type="doi">10.1007/s00203-008-0438-7</identifier>
+<part><detail type="volume"><number>191</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">141-151</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<harvard1>Stork, T., et al., 2009. Functional characterisation of the peroxiredoxin gene family members of Synechococcus elongatus PCC 7942. &lt;em&gt;ARCHIVES OF MICROBIOLOGY&lt;/em&gt;, 191(2), p 141-151.</harvard1>
+<ama>Stork T, Laxa M, Dietz MS, Dietz K-J. Functional characterisation of the peroxiredoxin gene family members of Synechococcus elongatus PCC 7942. &lt;em&gt;ARCHIVES OF MICROBIOLOGY&lt;/em&gt;. 2009;191(2):141-151.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Stork, T., Laxa, M., Dietz, M.S. &amp;amp; Dietz, K.-J. (2009). Functional characterisation of the peroxiredoxin gene family members of Synechococcus elongatus PCC 7942. &lt;em&gt;ARCHIVES OF MICROBIOLOGY&lt;/em&gt;, &lt;em&gt;191&lt;/em&gt;(2), 141-151. Springer Science + Business Media. doi:10.1007/s00203-008-0438-7.&lt;/div&gt;</dgps>
+<bio1>Stork T, Laxa M, Dietz MS, Dietz K-J (2009) &lt;br /&gt;Functional characterisation of the peroxiredoxin gene family members of Synechococcus elongatus PCC 7942.&lt;br /&gt;ARCHIVES OF MICROBIOLOGY 191(2): 141-151.</bio1>
+<aps>T.  Stork, et al., Functional characterisation of the peroxiredoxin gene family members of Synechococcus elongatus PCC 7942, ARCHIVES OF MICROBIOLOGY &lt;strong&gt;191&lt;/strong&gt;, 141-151 (2009).</aps>
+<wels>Stork, T.; Laxa, M.; Dietz, M. S.; Dietz, K. - J. (2009): Functional characterisation of the peroxiredoxin gene family members of Synechococcus elongatus PCC 7942 &lt;em&gt;ARCHIVES OF MICROBIOLOGY&lt;/em&gt;,191:(2): 141-151.</wels>
+<default>Stork T, Laxa M, Dietz MS, Dietz K-J (2009) &lt;br /&gt;ARCHIVES OF MICROBIOLOGY 191(2): 141-151.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Stork, T., Laxa, M., Dietz, M. S., &amp;amp; Dietz, K. - J. (2009). Functional characterisation of the peroxiredoxin gene family members of Synechococcus elongatus PCC 7942. &lt;em&gt;ARCHIVES OF MICROBIOLOGY&lt;/em&gt;, &lt;em&gt;191&lt;/em&gt;(2), 141-151.&lt;/div&gt;</apa_indent>
+<ieee>T. Stork, et al., “Functional characterisation of the peroxiredoxin gene family members of Synechococcus elongatus PCC 7942”, &lt;em&gt;ARCHIVES OF MICROBIOLOGY&lt;/em&gt;,  vol. 191, 2009,  pp. 141-151.</ieee>
+<lncs>Stork, T., Laxa, M., Dietz, M.S., Dietz, K.-J.: Functional characterisation of the peroxiredoxin gene family members of Synechococcus elongatus PCC 7942. ARCHIVES OF MICROBIOLOGY. 191, 141-151 (2009).</lncs>
+<mla>Stork, Tina, Laxa, Miriam, Dietz, Marina S., and Dietz, Karl-Josef. “Functional characterisation of the peroxiredoxin gene family members of Synechococcus elongatus PCC 7942”. &lt;em&gt;ARCHIVES OF MICROBIOLOGY&lt;/em&gt; 191.2 (2009): 141-151.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Stork, Tina, Laxa, Miriam, Dietz, Marina S., and Dietz, Karl-Josef. 2009. “Functional characterisation of the peroxiredoxin gene family members of Synechococcus elongatus PCC 7942”. &lt;em&gt;ARCHIVES OF MICROBIOLOGY&lt;/em&gt; 191 (2): 141-151.&lt;/div&gt;</chicago>
+<apa>Stork, T., Laxa, M., Dietz, M. S., &amp;amp; Dietz, K. - J. (2009). Functional characterisation of the peroxiredoxin gene family members of Synechococcus elongatus PCC 7942. &lt;em&gt;ARCHIVES OF MICROBIOLOGY&lt;/em&gt;, &lt;em&gt;191&lt;/em&gt;(2), 141-151.</apa>
+<angewandte-chemie>T.  Stork, M.  Laxa, M. S.  Dietz, and K. - J.  Dietz, “Functional characterisation of the peroxiredoxin gene family members of Synechococcus elongatus PCC 7942”, &lt;em&gt;ARCHIVES OF MICROBIOLOGY&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;191&lt;/em&gt;, 141-151.</angewandte-chemie>
+<frontiers>Stork, T., Laxa, M., Dietz, M. S., and Dietz, K. - J. (2009). Functional characterisation of the peroxiredoxin gene family members of Synechococcus elongatus PCC 7942. &lt;em&gt;ARCHIVES OF MICROBIOLOGY&lt;/em&gt; 191, 141-151.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1636220</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:59Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-12-22T12:15:29Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1636220</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1636220</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

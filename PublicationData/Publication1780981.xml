@@ -1,0 +1,102 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Grammatik für Sprachlernzwecke</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Reiner</namePart>
+  <namePart type="family">Schmidt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11760</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Armin</namePart><namePart type="family">Wolff</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Horst</namePart><namePart type="family">Zindler</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Linguistik und Literaturwissenschaft</namePart>
+  <identifier type="unibi">10019</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Schmidt_017.pdf">https://pub.uni-bielefeld.de/download/1780981/2313121</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Arbeitskreis Deutsch als Fremdsprache beim Fachverband Deutsch als Fremdsprache</publisher><dateIssued encoding="w3cdtf">1991</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+<subject><topic>Deutschunterricht</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Heterogene Lernergruppen. Arbeitstechniken. Deutsche DaF-Lehrende im Ausland. Forum DaF</title></titleInfo>
+  <identifier type="isbn">3-88246-158-6</identifier><identifier type="urn">urn:nbn:de:0070-bipr-23131</identifier>
+<part><extent unit="pages">27-41</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa>Schmidt, R. (1991). Grammatik für Sprachlernzwecke. In A.  Wolff &amp;amp; H.  Zindler (Eds.), &lt;em&gt;Materialien Deutsch als Fremdsprache ; 30&lt;/em&gt;&lt;em&gt;. Heterogene Lernergruppen. Arbeitstechniken. Deutsche DaF-Lehrende im Ausland. Forum DaF&lt;/em&gt; (pp. 27-41). Regensburg: Arbeitskreis Deutsch als Fremdsprache beim Fachverband Deutsch als Fremdsprache.</apa>
+<angewandte-chemie>R.  Schmidt, in &lt;em&gt;Heterogene Lernergruppen. Arbeitstechniken. Deutsche DaF-Lehrende im Ausland. Forum DaF&lt;/em&gt; (Eds.: A. Wolff, H. Zindler), Arbeitskreis Deutsch Als Fremdsprache Beim Fachverband Deutsch Als Fremdsprache, Regensburg, &lt;strong&gt;1991&lt;/strong&gt;, p. 27-41.</angewandte-chemie>
+<frontiers>Schmidt, R. (1991). “Grammatik für Sprachlernzwecke” in &lt;em&gt;Heterogene Lernergruppen. Arbeitstechniken. Deutsche DaF-Lehrende im Ausland. Forum DaF&lt;/em&gt;, ed. A.  Wolff and H.  Zindler Materialien Deutsch als Fremdsprache ; 30 (Regensburg: Arbeitskreis Deutsch als Fremdsprache beim Fachverband Deutsch als Fremdsprache), 27-41.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schmidt, Reiner. 1991. “Grammatik für Sprachlernzwecke”. In &lt;em&gt;Heterogene Lernergruppen. Arbeitstechniken. Deutsche DaF-Lehrende im Ausland. Forum DaF&lt;/em&gt;, ed. Armin Wolff and Horst Zindler, 27-41. Materialien Deutsch als Fremdsprache ; 30. Regensburg: Arbeitskreis Deutsch als Fremdsprache beim Fachverband Deutsch als Fremdsprache.&lt;/div&gt;</chicago>
+<ieee>R. Schmidt, “Grammatik für Sprachlernzwecke”, &lt;em&gt;Heterogene Lernergruppen. Arbeitstechniken. Deutsche DaF-Lehrende im Ausland. Forum DaF&lt;/em&gt;, A. Wolff and H. Zindler, eds., Materialien Deutsch als Fremdsprache ; 30,  Regensburg: Arbeitskreis Deutsch als Fremdsprache beim Fachverband Deutsch als Fremdsprache, 1991,  pp.27-41.</ieee>
+<lncs>Schmidt, R.: Grammatik für Sprachlernzwecke. In: Wolff, A. and Zindler, H. (eds.) Heterogene Lernergruppen. Arbeitstechniken. Deutsche DaF-Lehrende im Ausland. Forum DaF. Materialien Deutsch als Fremdsprache ; 30. p. 27-41. Arbeitskreis Deutsch als Fremdsprache beim Fachverband Deutsch als Fremdsprache, Regensburg (1991).</lncs>
+<mla>Schmidt, Reiner. “Grammatik für Sprachlernzwecke”. &lt;em&gt;Heterogene Lernergruppen. Arbeitstechniken. Deutsche DaF-Lehrende im Ausland. Forum DaF&lt;/em&gt;. Ed. Armin Wolff and Horst Zindler. Regensburg: Arbeitskreis Deutsch als Fremdsprache beim Fachverband Deutsch als Fremdsprache, 1991. Materialien Deutsch als Fremdsprache ; 30. 27-41.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schmidt, R. (1991). Grammatik für Sprachlernzwecke. In A.  Wolff &amp;amp; H.  Zindler (Eds.), &lt;em&gt;Materialien Deutsch als Fremdsprache ; 30&lt;/em&gt;&lt;em&gt;. Heterogene Lernergruppen. Arbeitstechniken. Deutsche DaF-Lehrende im Ausland. Forum DaF&lt;/em&gt; (pp. 27-41). Regensburg: Arbeitskreis Deutsch als Fremdsprache beim Fachverband Deutsch als Fremdsprache.&lt;/div&gt;</apa_indent>
+<wels>Schmidt, R. (1991): Grammatik für Sprachlernzwecke. In: Armin Wolff; Horst Zindler (Hrsg.):  Heterogene Lernergruppen. Arbeitstechniken. Deutsche DaF-Lehrende im Ausland. Forum DaF. Regensburg: Arbeitskreis Deutsch als Fremdsprache beim Fachverband Deutsch als Fremdsprache. (Materialien Deutsch als Fremdsprache ; 30, ).  S. 27-41.</wels>
+<default>Schmidt R (1991)  &lt;br /&gt;In:  Heterogene Lernergruppen. Arbeitstechniken. Deutsche DaF-Lehrende im Ausland. Forum DaF. Wolff A, Zindler H (Eds); Materialien Deutsch als Fremdsprache ; 30, . Regensburg: Arbeitskreis Deutsch als Fremdsprache beim Fachverband Deutsch als Fremdsprache:  27-41.</default>
+<harvard1>Schmidt, R., 1991. Grammatik für Sprachlernzwecke. In A.  Wolff &amp;amp; H.  Zindler, eds. &lt;em&gt;Heterogene Lernergruppen. Arbeitstechniken. Deutsche DaF-Lehrende im Ausland. Forum DaF&lt;/em&gt;. Materialien Deutsch als Fremdsprache ; 30.  Regensburg: Arbeitskreis Deutsch als Fremdsprache beim Fachverband Deutsch als Fremdsprache, pp. 27-41.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schmidt, R. (1991). Grammatik für Sprachlernzwecke (Materialien Deutsch als Fremdsprache ; 30). &lt;em&gt;Heterogene Lernergruppen. Arbeitstechniken. Deutsche DaF-Lehrende im Ausland. Forum DaF&lt;/em&gt; (S. 27-41). Regensburg: Arbeitskreis Deutsch als Fremdsprache beim Fachverband Deutsch als Fremdsprache.&lt;/div&gt;</dgps>
+<ama>Schmidt R. Grammatik für Sprachlernzwecke. In: Wolff A, Zindler H, eds. &lt;em&gt;Heterogene Lernergruppen. Arbeitstechniken. Deutsche DaF-Lehrende im Ausland. Forum DaF&lt;/em&gt;. Materialien Deutsch als Fremdsprache ; 30. Regensburg: Arbeitskreis Deutsch als Fremdsprache beim Fachverband Deutsch als Fremdsprache;  1991: 27-41.</ama>
+<bio1>Schmidt R (1991) &lt;br /&gt;Grammatik für Sprachlernzwecke. &lt;br /&gt;In:  Heterogene Lernergruppen. Arbeitstechniken. Deutsche DaF-Lehrende im Ausland. Forum DaF. Wolff A, Zindler H (Eds); Materialien Deutsch als Fremdsprache ; 30,  Regensburg: Arbeitskreis Deutsch als Fremdsprache beim Fachverband Deutsch als Fremdsprache:  27-41.</bio1>
+<aps>R.  Schmidt, Grammatik für Sprachlernzwecke, in &lt;em&gt;Heterogene Lernergruppen. Arbeitstechniken. Deutsche DaF-Lehrende im Ausland. Forum DaF&lt;/em&gt;, edited by A.  Wolff and H.  Zindler, Materialien Deutsch als Fremdsprache ; 30 (Arbeitskreis Deutsch als Fremdsprache beim Fachverband Deutsch als Fremdsprache, Regensburg, 1991), p. 27-41.</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780981</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780981</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780981</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,112 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>From Monkey Alarm Calls to Human Language: How Simulations Can Fill the Gap</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Jason</namePart>
+  <namePart type="family">Noble</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jan</namePart>
+  <namePart type="family">de Ruiter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11315071</identifier></name>
+<name type="personal">
+  <namePart type="given">Kate</namePart>
+  <namePart type="family">Arnold</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Linguistik und Literaturwissenschaft</namePart>
+  <identifier type="unibi">10019</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Center of Excellence - Cognitive Interaction Technology CITEC</namePart>
+  <identifier type="unibi">8014655</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Observations of alarm calling behavior in putty-nosed monkeys are suggestive of a link with human language evolution. However, as is often the case in studies of animal behavior and cognition, competing theories are underdetermined by the available data. We argue that computational modeling, and in particular the use of individual-based simulations, is an effective way to reduce the size of the pool of candidate explanations. Simulation achieves this both through the classification of evolutionary trajectories as either plausible or implausible, and by putting lower bounds on the cognitive complexity required to perform particular behaviors. A case is made for using both of these strategies to understand the extent to which the alarm calls of putty-nosed monkeys are likely to be a good model for human language evolution.</abstract>
+
+<originInfo><publisher>SAGE Publications</publisher><dateIssued encoding="w3cdtf">2010</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>individual-based modeling</topic><topic>evolution</topic><topic>language</topic><topic>communication</topic><topic>primates</topic><topic>calls</topic><topic>alarm</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Adaptive Behavior</title></titleInfo>
+  <identifier type="issn">1059-7123</identifier>
+  <identifier type="eIssn">1741-2633</identifier>
+  <identifier type="ISI">000275180000006</identifier><identifier type="doi">10.1177/1059712309350974</identifier>
+<part><detail type="volume"><number>18</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">66-82</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Noble J, de Ruiter J, Arnold K. From Monkey Alarm Calls to Human Language: How Simulations Can Fill the Gap. &lt;em&gt;Adaptive Behavior&lt;/em&gt;. 2010;18(1):66-82.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Noble, J., de Ruiter, J. &amp;amp; Arnold, K. (2010). From Monkey Alarm Calls to Human Language: How Simulations Can Fill the Gap. &lt;em&gt;Adaptive Behavior&lt;/em&gt;, &lt;em&gt;18&lt;/em&gt;(1), 66-82. SAGE Publications. doi:10.1177/1059712309350974.&lt;/div&gt;</dgps>
+<harvard1>Noble, J., de Ruiter, J., &amp;amp; Arnold, K., 2010. From Monkey Alarm Calls to Human Language: How Simulations Can Fill the Gap. &lt;em&gt;Adaptive Behavior&lt;/em&gt;, 18(1), p 66-82.</harvard1>
+<bio1>Noble J, de Ruiter J, Arnold K (2010) &lt;br /&gt;From Monkey Alarm Calls to Human Language: How Simulations Can Fill the Gap.&lt;br /&gt;Adaptive Behavior 18(1): 66-82.</bio1>
+<aps>J.  Noble, J.  de Ruiter, and K.  Arnold, From Monkey Alarm Calls to Human Language: How Simulations Can Fill the Gap, Adaptive Behavior &lt;strong&gt;18&lt;/strong&gt;, 66-82 (2010).</aps>
+<wels>Noble, J.; de Ruiter, J.; Arnold, K. (2010): From Monkey Alarm Calls to Human Language: How Simulations Can Fill the Gap &lt;em&gt;Adaptive Behavior&lt;/em&gt;,18:(1): 66-82.</wels>
+<default>Noble J, de Ruiter J, Arnold K (2010) &lt;br /&gt;Adaptive Behavior 18(1): 66-82.</default>
+<ieee>J. Noble, J. de Ruiter, and K. Arnold, “From Monkey Alarm Calls to Human Language: How Simulations Can Fill the Gap”, &lt;em&gt;Adaptive Behavior&lt;/em&gt;,  vol. 18, 2010,  pp. 66-82.</ieee>
+<lncs>Noble, J., de Ruiter, J., Arnold, K.: From Monkey Alarm Calls to Human Language: How Simulations Can Fill the Gap. Adaptive Behavior. 18, 66-82 (2010).</lncs>
+<mla>Noble, Jason, de Ruiter, Jan, and Arnold, Kate. “From Monkey Alarm Calls to Human Language: How Simulations Can Fill the Gap”. &lt;em&gt;Adaptive Behavior&lt;/em&gt; 18.1 (2010): 66-82.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Noble, J., de Ruiter, J., &amp;amp; Arnold, K. (2010). From Monkey Alarm Calls to Human Language: How Simulations Can Fill the Gap. &lt;em&gt;Adaptive Behavior&lt;/em&gt;, &lt;em&gt;18&lt;/em&gt;(1), 66-82.&lt;/div&gt;</apa_indent>
+<apa>Noble, J., de Ruiter, J., &amp;amp; Arnold, K. (2010). From Monkey Alarm Calls to Human Language: How Simulations Can Fill the Gap. &lt;em&gt;Adaptive Behavior&lt;/em&gt;, &lt;em&gt;18&lt;/em&gt;(1), 66-82.</apa>
+<angewandte-chemie>J.  Noble, J.  de Ruiter, and K.  Arnold, “From Monkey Alarm Calls to Human Language: How Simulations Can Fill the Gap”, &lt;em&gt;Adaptive Behavior&lt;/em&gt;, &lt;strong&gt;2010&lt;/strong&gt;, &lt;em&gt;18&lt;/em&gt;, 66-82.</angewandte-chemie>
+<frontiers>Noble, J., de Ruiter, J., and Arnold, K. (2010). From Monkey Alarm Calls to Human Language: How Simulations Can Fill the Gap. &lt;em&gt;Adaptive Behavior&lt;/em&gt; 18, 66-82.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Noble, Jason, de Ruiter, Jan, and Arnold, Kate. 2010. “From Monkey Alarm Calls to Human Language: How Simulations Can Fill the Gap”. &lt;em&gt;Adaptive Behavior&lt;/em&gt; 18 (1): 66-82.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1796683</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-10-14T09:04:24Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-03-01T09:34:48Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1796683</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1796683</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

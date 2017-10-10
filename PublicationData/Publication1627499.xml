@@ -1,0 +1,121 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Annexin V and vesicle membrane electroporation</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Katja</namePart>
+  <namePart type="family">Tönsing</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">47837</identifier></name>
+<name type="personal">
+  <namePart type="given">Sergej</namePart>
+  <namePart type="family">Kakorin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20316</identifier></name>
+<name type="personal">
+  <namePart type="given">Eberhard</namePart>
+  <namePart type="family">Neumann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20317</identifier></name>
+<name type="personal">
+  <namePart type="given">S</namePart>
+  <namePart type="family">Liemann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">R</namePart>
+  <namePart type="family">Huber</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Biophysik und angewandte Nanowissenschaften</namePart>
+  <identifier type="unibi">29125395</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Physikalische Chemie III</namePart>
+  <identifier type="unibi">17981</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The method of membrane electroporation (ME) has been used as an analytical tool to quantify the effect of membrane curvature on transient electric pore formation, and on the adsorption of the protein annexin V (M-r = 35,800) to the outer surface of unilamellar lipid vesicles (of radii 25 less than or equal to a/nm less than or equal to 200). Relaxation kinetic studies using optical membrane probes of the diphenylhexatriene type suggest that electric pore formation is induced by ionic interfacial polarization causing entrance of the (more polarizable) water into the lipid bilayer membrane yielding (hydrophobic and hydrophilic) pore states with a mean stationary pore radius r(p)=0.35 (+/-0.05) nm. Extent and rate of ME, compared at the same induced transmembrane voltage, were found to decrease both with increasing vesicle radius and with increasing protein concentration. This &apos;inhibitory&apos; effect of annexin V is apparently allosteric and saturates at about [AN(T)](sat) = 4 mu M annexin V for vesicles of a = 100 nm at 1 mM total lipid concentration, 0.13 mM total Ca2+ concentration and at T = 293 K. Data analysis in terms of Gibbs area-difference-elasticity energy suggests that the bound annexin V reduces the gradient of the lateral pressure across the membrane. At [AN(T)](sat), about 20% of the vesicle surface is covered by the bound protein, but it is only 0.01% of the surface of the outer lipid leaflet in which a part of the protein, perhaps the aromatic residue of the tryptophan (W 187), is inserted. Insertion leads to a denser packing of the lipid molecules in the outer membrane leaflet. As a consequence, the radius of the electropores in the remaining membrane part, not covered by annexin V decreases (r(p)/nm = 0.37, 0.36 and 0.27) with increasing adsorption of the protein ([AN(T)] = 0, 2 and 4 mu M, respectively).</abstract>
+
+<originInfo><publisher>SPRINGER VERLAG</publisher><dateIssued encoding="w3cdtf">1997</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>phospholipids (beta-DPH pPC)</topic><topic>absorbance dichroism</topic><topic>diphenylhexatriene-labeled</topic><topic>electroporation</topic><topic>lipid vesicles</topic><topic>annexin V</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS</title></titleInfo>
+  <identifier type="issn">0175-7571</identifier>
+  <identifier type="eIssn">1432-1017</identifier>
+  <identifier type="MEDLINE">9378099</identifier>
+  <identifier type="ISI">A1997XW99800004</identifier><identifier type="doi">10.1007/s002490050085</identifier>
+<part><detail type="volume"><number>26</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">307-318</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Tönsing, K., Kakorin, S., Neumann, E., Liemann, S., &amp;amp; Huber, R. (1997). Annexin V and vesicle membrane electroporation. &lt;em&gt;EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS&lt;/em&gt;, &lt;em&gt;26&lt;/em&gt;(4), 307-318.&lt;/div&gt;</apa_indent>
+<ieee>K. Tönsing, et al., “Annexin V and vesicle membrane electroporation”, &lt;em&gt;EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS&lt;/em&gt;,  vol. 26, 1997,  pp. 307-318.</ieee>
+<mla>Tönsing, Katja, Kakorin, Sergej, Neumann, Eberhard, Liemann, S, and Huber, R. “Annexin V and vesicle membrane electroporation”. &lt;em&gt;EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS&lt;/em&gt; 26.4 (1997): 307-318.</mla>
+<lncs>Tönsing, K., Kakorin, S., Neumann, E., Liemann, S., Huber, R.: Annexin V and vesicle membrane electroporation. EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS. 26, 307-318 (1997).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Tönsing, Katja, Kakorin, Sergej, Neumann, Eberhard, Liemann, S, and Huber, R. 1997. “Annexin V and vesicle membrane electroporation”. &lt;em&gt;EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS&lt;/em&gt; 26 (4): 307-318.&lt;/div&gt;</chicago>
+<angewandte-chemie>K.  Tönsing, S.  Kakorin, E.  Neumann, S.  Liemann, and R.  Huber, “Annexin V and vesicle membrane electroporation”, &lt;em&gt;EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS&lt;/em&gt;, &lt;strong&gt;1997&lt;/strong&gt;, &lt;em&gt;26&lt;/em&gt;, 307-318.</angewandte-chemie>
+<apa>Tönsing, K., Kakorin, S., Neumann, E., Liemann, S., &amp;amp; Huber, R. (1997). Annexin V and vesicle membrane electroporation. &lt;em&gt;EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS&lt;/em&gt;, &lt;em&gt;26&lt;/em&gt;(4), 307-318.</apa>
+<frontiers>Tönsing, K., Kakorin, S., Neumann, E., Liemann, S., and Huber, R. (1997). Annexin V and vesicle membrane electroporation. &lt;em&gt;EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS&lt;/em&gt; 26, 307-318.</frontiers>
+<ama>Tönsing K, Kakorin S, Neumann E, Liemann S, Huber R. Annexin V and vesicle membrane electroporation. &lt;em&gt;EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS&lt;/em&gt;. 1997;26(4):307-318.</ama>
+<harvard1>Tönsing, K., et al., 1997. Annexin V and vesicle membrane electroporation. &lt;em&gt;EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS&lt;/em&gt;, 26(4), p 307-318.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Tönsing, K., Kakorin, S., Neumann, E., Liemann, S. &amp;amp; Huber, R. (1997). Annexin V and vesicle membrane electroporation. &lt;em&gt;EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS&lt;/em&gt;, &lt;em&gt;26&lt;/em&gt;(4), 307-318. SPRINGER VERLAG. doi:10.1007/s002490050085.&lt;/div&gt;</dgps>
+<bio1>Tönsing K, Kakorin S, Neumann E, Liemann S, Huber R (1997) &lt;br /&gt;Annexin V and vesicle membrane electroporation.&lt;br /&gt;EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS 26(4): 307-318.</bio1>
+<aps>K.  Tönsing, et al., Annexin V and vesicle membrane electroporation, EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS &lt;strong&gt;26&lt;/strong&gt;, 307-318 (1997).</aps>
+<wels>Tönsing, K.; Kakorin, S.; Neumann, E.; Liemann, S.; Huber, R. (1997): Annexin V and vesicle membrane electroporation &lt;em&gt;EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS&lt;/em&gt;,26:(4): 307-318.</wels>
+<default>Tönsing K, Kakorin S, Neumann E, Liemann S, Huber R (1997) &lt;br /&gt;EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS 26(4): 307-318.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1627499</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:22:18Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-22T12:05:30Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1627499</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1627499</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

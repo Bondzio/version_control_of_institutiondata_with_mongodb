@@ -1,0 +1,104 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The human arm as a redundant manipulator: the control of path and joint angles</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Holk</namePart>
+  <namePart type="family">Cruse</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21923</identifier></name>
+<name type="personal">
+  <namePart type="given">M.</namePart>
+  <namePart type="family">Brüwer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Biologische Kybernetik</namePart>
+  <identifier type="unibi">2685507</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The movements studied involved moving the tip of a pointer attached to the hand from a given starting point to a given end point in a horizontal plane. Three joints — the shoulder, elbow and wrist —were free to move. Thus the system represented a redundant manipulator. The coordination of the movements of the three joints was recorded and analyzed. The study concerned how the joints are controlled during a movement. The results are used to evaluate several current hypotheses for motor control. Basically, the incremental changes are calculated so as to move the tip of the manipulator along a straight line in the workspace. The values of the individual joints seem to be determined as follows. Starting from the initial values the incremental changes in the three joint angles represent a compromise between two criteria: 1) the amount of the angular change should be about the same in the three joints, and 2) the angular changes should minimize the total cost of the arm position as determined by cost functions defined for each joint as a function of angle. By itself, this mechanism would produce strongly curved trajectories in joint space which could include additional acceleration and deceleration in a joint. These are reduced by the influence of a third criterion which fits with the mass-spring hypothesis. Thus the path is calculated as a compromise between a straight line in workspace and a straight line in joint space. The latter can produce curved paths in the workspace such as were actually found in the experiments. A model calculation shows that these hypotheses can qualitatively describe the experimental findings.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Cruse_50.pdf">https://pub.uni-bielefeld.de/download/1781434/2313299</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1987</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Biological cybernetics</title></titleInfo>
+  <identifier type="issn">0340-1200</identifier>
+  <identifier type="eIssn">1432-0770</identifier>
+  <identifier type="MEDLINE">3620542</identifier>
+  <identifier type="ISI">A1987J698500013</identifier><identifier type="urn">urn:nbn:de:0070-pub-17814348</identifier><identifier type="doi">10.1007/BF00318723</identifier>
+<part><detail type="volume"><number>57</number></detail><detail type="issue"><number>1-2</number></detail><extent unit="pages">137-144</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>H. Cruse and M. Brüwer, “The human arm as a redundant manipulator: the control of path and joint angles”, &lt;em&gt;Biological cybernetics&lt;/em&gt;,  vol. 57, 1987,  pp. 137-144.</ieee>
+<lncs>Cruse, H., Brüwer, M.: The human arm as a redundant manipulator: the control of path and joint angles. Biological cybernetics. 57, 137-144 (1987).</lncs>
+<mla>Cruse, Holk, and Brüwer, M. “The human arm as a redundant manipulator: the control of path and joint angles”. &lt;em&gt;Biological cybernetics&lt;/em&gt; 57.1-2 (1987): 137-144.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cruse, H., &amp;amp; Brüwer, M. (1987). The human arm as a redundant manipulator: the control of path and joint angles. &lt;em&gt;Biological cybernetics&lt;/em&gt;, &lt;em&gt;57&lt;/em&gt;(1-2), 137-144.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>H.  Cruse, and M.  Brüwer, “The human arm as a redundant manipulator: the control of path and joint angles”, &lt;em&gt;Biological cybernetics&lt;/em&gt;, &lt;strong&gt;1987&lt;/strong&gt;, &lt;em&gt;57&lt;/em&gt;, 137-144.</angewandte-chemie>
+<apa>Cruse, H., &amp;amp; Brüwer, M. (1987). The human arm as a redundant manipulator: the control of path and joint angles. &lt;em&gt;Biological cybernetics&lt;/em&gt;, &lt;em&gt;57&lt;/em&gt;(1-2), 137-144.</apa>
+<frontiers>Cruse, H., and Brüwer, M. (1987). The human arm as a redundant manipulator: the control of path and joint angles. &lt;em&gt;Biological cybernetics&lt;/em&gt; 57, 137-144.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cruse, Holk, and Brüwer, M. 1987. “The human arm as a redundant manipulator: the control of path and joint angles”. &lt;em&gt;Biological cybernetics&lt;/em&gt; 57 (1-2): 137-144.&lt;/div&gt;</chicago>
+<ama>Cruse H, Brüwer M. The human arm as a redundant manipulator: the control of path and joint angles. &lt;em&gt;Biological cybernetics&lt;/em&gt;. 1987;57(1-2):137-144.</ama>
+<harvard1>Cruse, H., &amp;amp; Brüwer, M., 1987. The human arm as a redundant manipulator: the control of path and joint angles. &lt;em&gt;Biological cybernetics&lt;/em&gt;, 57(1-2), p 137-144.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cruse, H. &amp;amp; Brüwer, M. (1987). The human arm as a redundant manipulator: the control of path and joint angles. &lt;em&gt;Biological cybernetics&lt;/em&gt;, &lt;em&gt;57&lt;/em&gt;(1-2), 137-144. doi:10.1007/BF00318723.&lt;/div&gt;</dgps>
+<aps>H.  Cruse and M.  Brüwer, The human arm as a redundant manipulator: the control of path and joint angles, Biological cybernetics &lt;strong&gt;57&lt;/strong&gt;, 137-144 (1987).</aps>
+<bio1>Cruse H, Brüwer M (1987) &lt;br /&gt;The human arm as a redundant manipulator: the control of path and joint angles.&lt;br /&gt;Biological cybernetics 57(1-2): 137-144.</bio1>
+<wels>Cruse, H.; Brüwer, M. (1987): The human arm as a redundant manipulator: the control of path and joint angles &lt;em&gt;Biological cybernetics&lt;/em&gt;,57:(1-2): 137-144.</wels>
+<default>Cruse H, Brüwer M (1987) &lt;br /&gt;Biological cybernetics 57(1-2): 137-144.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781434</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781434</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781434</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

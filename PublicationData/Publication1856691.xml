@@ -1,0 +1,110 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Die menschenfeindlichen Folgen von Desintegrationsprozessen und Anerkennungsproblemen</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Jürgen</namePart>
+  <namePart type="family">Mansel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21744</identifier></name>
+<name type="personal">
+  <namePart type="given">Barbara</namePart>
+  <namePart type="family">Kaletta</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Wilhelm</namePart><namePart type="family">Heitmeyer</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10058</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">7978137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+<name type="corporate">
+  <namePart>Gruppenbezogene Menschenfeindlichkeit (GMF-Survey 2002-2012)</namePart>
+  <role><roleTerm type="text">project</roleTerm></role>
+</name>
+
+
+
+
+<originInfo><publisher>Suhrkamp</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+<subject><topic>Anerkennung</topic><topic>Desintegration</topic><topic>Fremdenfeindlichkeit</topic><topic>disintegration</topic><topic>Gruppenbezogene Menschenfeindlichkeit</topic><topic>group-focused enmity</topic><topic>recognition</topic><topic>xenophobia</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Deutsche Zustände. Folge 7</title></titleInfo>
+  <identifier type="isbn">978-3-518-12552-6</identifier>
+<part><extent unit="pages">73-92</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Mansel, J., &amp;amp; Kaletta, B. (2009). Die menschenfeindlichen Folgen von Desintegrationsprozessen und Anerkennungsproblemen. In W.  Heitmeyer (Ed.), &lt;em&gt;Deutsche Zustände. Folge 7&lt;/em&gt; (pp. 73-92). Frankfurt am Main: Suhrkamp.&lt;/div&gt;</apa_indent>
+<lncs>Mansel, J., Kaletta, B.: Die menschenfeindlichen Folgen von Desintegrationsprozessen und Anerkennungsproblemen. In: Heitmeyer, W. (ed.) Deutsche Zustände. Folge 7. p. 73-92. Suhrkamp, Frankfurt am Main (2009).</lncs>
+<mla>Mansel, Jürgen, and Kaletta, Barbara. “Die menschenfeindlichen Folgen von Desintegrationsprozessen und Anerkennungsproblemen”. &lt;em&gt;Deutsche Zustände. Folge 7&lt;/em&gt;. Ed. Wilhelm Heitmeyer. Frankfurt am Main: Suhrkamp, 2009. 73-92.</mla>
+<ieee>J. Mansel and B. Kaletta, “Die menschenfeindlichen Folgen von Desintegrationsprozessen und Anerkennungsproblemen”, &lt;em&gt;Deutsche Zustände. Folge 7&lt;/em&gt;, W. Heitmeyer, ed.,  Frankfurt am Main: Suhrkamp, 2009,  pp.73-92.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Mansel, Jürgen, and Kaletta, Barbara. 2009. “Die menschenfeindlichen Folgen von Desintegrationsprozessen und Anerkennungsproblemen”. In &lt;em&gt;Deutsche Zustände. Folge 7&lt;/em&gt;, ed. Wilhelm Heitmeyer, 73-92. Frankfurt am Main: Suhrkamp.&lt;/div&gt;</chicago>
+<frontiers>Mansel, J., and Kaletta, B. (2009). “Die menschenfeindlichen Folgen von Desintegrationsprozessen und Anerkennungsproblemen” in &lt;em&gt;Deutsche Zustände. Folge 7&lt;/em&gt;, ed. W.  Heitmeyer (Frankfurt am Main: Suhrkamp), 73-92.</frontiers>
+<apa>Mansel, J., &amp;amp; Kaletta, B. (2009). Die menschenfeindlichen Folgen von Desintegrationsprozessen und Anerkennungsproblemen. In W.  Heitmeyer (Ed.), &lt;em&gt;Deutsche Zustände. Folge 7&lt;/em&gt; (pp. 73-92). Frankfurt am Main: Suhrkamp.</apa>
+<angewandte-chemie>J.  Mansel, and B.  Kaletta, in &lt;em&gt;Deutsche Zustände. Folge 7&lt;/em&gt; (Ed.: W. Heitmeyer), Suhrkamp, Frankfurt am Main, &lt;strong&gt;2009&lt;/strong&gt;, p. 73-92.</angewandte-chemie>
+<aps>J.  Mansel and B.  Kaletta, Die menschenfeindlichen Folgen von Desintegrationsprozessen und Anerkennungsproblemen, in &lt;em&gt;Deutsche Zustände. Folge 7&lt;/em&gt;, edited by W.  Heitmeyer (Suhrkamp, Frankfurt Am Main, 2009), p. 73-92.</aps>
+<bio1>Mansel J, Kaletta B (2009) &lt;br /&gt;Die menschenfeindlichen Folgen von Desintegrationsprozessen und Anerkennungsproblemen. &lt;br /&gt;In:  Deutsche Zustände. Folge 7. Heitmeyer W (Ed); Frankfurt am Main: Suhrkamp:  73-92.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Mansel, J. &amp;amp; Kaletta, B. (2009). Die menschenfeindlichen Folgen von Desintegrationsprozessen und Anerkennungsproblemen. &lt;em&gt;Deutsche Zustände. Folge 7&lt;/em&gt; (S. 73-92). Frankfurt am Main: Suhrkamp.&lt;/div&gt;</dgps>
+<ama>Mansel J, Kaletta B. Die menschenfeindlichen Folgen von Desintegrationsprozessen und Anerkennungsproblemen. In: Heitmeyer W, ed. &lt;em&gt;Deutsche Zustände. Folge 7&lt;/em&gt;. Frankfurt am Main: Suhrkamp;  2009: 73-92.</ama>
+<harvard1>Mansel, J., &amp;amp; Kaletta, B., 2009. Die menschenfeindlichen Folgen von Desintegrationsprozessen und Anerkennungsproblemen. In W.  Heitmeyer, ed. &lt;em&gt;Deutsche Zustände. Folge 7&lt;/em&gt;.  Frankfurt am Main: Suhrkamp, pp. 73-92.</harvard1>
+<default>Mansel J, Kaletta B (2009)  &lt;br /&gt;In:  Deutsche Zustände. Folge 7. Heitmeyer W (Ed);Frankfurt am Main: Suhrkamp:  73-92.</default>
+<wels>Mansel, J.; Kaletta, B. (2009): Die menschenfeindlichen Folgen von Desintegrationsprozessen und Anerkennungsproblemen. In: Wilhelm Heitmeyer (Hrsg.):  Deutsche Zustände. Folge 7. Frankfurt am Main: Suhrkamp.  S. 73-92.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1856691</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-02-10T11:02:55Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-02-10T11:02:55Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1856691</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1856691</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

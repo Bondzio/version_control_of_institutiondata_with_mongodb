@@ -1,0 +1,174 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Genomic sequence of chorioallantois vaccinia virus Ankara, the ancestor of modified vaccinia virus Ankara</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Christine</namePart>
+  <namePart type="family">Meisinger-Henschel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Michaela</namePart>
+  <namePart type="family">Schmidt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Susanne</namePart>
+  <namePart type="family">Lukassen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Burkhard</namePart>
+  <namePart type="family">Linke</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">148566</identifier></name>
+<name type="personal">
+  <namePart type="given">Lutz</namePart>
+  <namePart type="family">Krause</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Sebastian</namePart>
+  <namePart type="family">Konietzny</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alexander</namePart>
+  <namePart type="family">Goesmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">152495</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-7086-2568</description></name>
+<name type="personal">
+  <namePart type="given">Paul</namePart>
+  <namePart type="family">Howley</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Paul</namePart>
+  <namePart type="family">Chaplin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Mark</namePart>
+  <namePart type="family">Suter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Juergen</namePart>
+  <namePart type="family">Hausmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Centrum für Biotechnologie</namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group A. Goesmann</namePart>
+  <identifier type="unibi">33067438</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Bioinformatics Resource Facility</namePart>
+  <identifier type="unibi">441927</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Computational Genomics</namePart>
+  <identifier type="unibi">29609402</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Genominformatik</namePart>
+  <identifier type="unibi">66100</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>SOC GENERAL MICROBIOLOGY</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF GENERAL VIROLOGY</title></titleInfo>
+  <identifier type="issn">0022-1317</identifier>
+  <identifier type="eIssn">1465-2099</identifier>
+  <identifier type="MEDLINE">18024893</identifier>
+  <identifier type="ISI">000251619500006</identifier><identifier type="doi">10.1099/vir.0.83156-0</identifier>
+<part><detail type="volume"><number>88</number></detail><detail type="issue"><number>12</number></detail><extent unit="pages">3249-3259</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Meisinger-Henschel, C., Schmidt, M., Lukassen, S., Linke, B., Krause, L., Konietzny, S., Goesmann, A., et al. (2007). Genomic sequence of chorioallantois vaccinia virus Ankara, the ancestor of modified vaccinia virus Ankara. &lt;em&gt;JOURNAL OF GENERAL VIROLOGY&lt;/em&gt;, &lt;em&gt;88&lt;/em&gt;(12), 3249-3259.&lt;/div&gt;</apa_indent>
+<ieee>C. Meisinger-Henschel, et al., “Genomic sequence of chorioallantois vaccinia virus Ankara, the ancestor of modified vaccinia virus Ankara”, &lt;em&gt;JOURNAL OF GENERAL VIROLOGY&lt;/em&gt;,  vol. 88, 2007,  pp. 3249-3259.</ieee>
+<mla>Meisinger-Henschel, Christine, Schmidt, Michaela, Lukassen, Susanne, Linke, Burkhard, Krause, Lutz, Konietzny, Sebastian, Goesmann, Alexander, Howley, Paul, Chaplin, Paul, Suter, Mark, and Hausmann, Juergen. “Genomic sequence of chorioallantois vaccinia virus Ankara, the ancestor of modified vaccinia virus Ankara”. &lt;em&gt;JOURNAL OF GENERAL VIROLOGY&lt;/em&gt; 88.12 (2007): 3249-3259.</mla>
+<lncs>Meisinger-Henschel, C., Schmidt, M., Lukassen, S., Linke, B., Krause, L., Konietzny, S., Goesmann, A., Howley, P., Chaplin, P., Suter, M., Hausmann, J.: Genomic sequence of chorioallantois vaccinia virus Ankara, the ancestor of modified vaccinia virus Ankara. JOURNAL OF GENERAL VIROLOGY. 88, 3249-3259 (2007).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Meisinger-Henschel, Christine, Schmidt, Michaela, Lukassen, Susanne, Linke, Burkhard, Krause, Lutz, Konietzny, Sebastian, Goesmann, Alexander, et al. 2007. “Genomic sequence of chorioallantois vaccinia virus Ankara, the ancestor of modified vaccinia virus Ankara”. &lt;em&gt;JOURNAL OF GENERAL VIROLOGY&lt;/em&gt; 88 (12): 3249-3259.&lt;/div&gt;</chicago>
+<apa>Meisinger-Henschel, C., Schmidt, M., Lukassen, S., Linke, B., Krause, L., Konietzny, S., Goesmann, A., et al. (2007). Genomic sequence of chorioallantois vaccinia virus Ankara, the ancestor of modified vaccinia virus Ankara. &lt;em&gt;JOURNAL OF GENERAL VIROLOGY&lt;/em&gt;, &lt;em&gt;88&lt;/em&gt;(12), 3249-3259.</apa>
+<angewandte-chemie>C.  Meisinger-Henschel, M.  Schmidt, S.  Lukassen, B.  Linke, L.  Krause, S.  Konietzny, A.  Goesmann, P.  Howley, P.  Chaplin, M.  Suter, et al., “Genomic sequence of chorioallantois vaccinia virus Ankara, the ancestor of modified vaccinia virus Ankara”, &lt;em&gt;JOURNAL OF GENERAL VIROLOGY&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;88&lt;/em&gt;, 3249-3259.</angewandte-chemie>
+<frontiers>Meisinger-Henschel, C., Schmidt, M., Lukassen, S., Linke, B., Krause, L., Konietzny, S., Goesmann, A., Howley, P., Chaplin, P., Suter, M., et al. (2007). Genomic sequence of chorioallantois vaccinia virus Ankara, the ancestor of modified vaccinia virus Ankara. &lt;em&gt;JOURNAL OF GENERAL VIROLOGY&lt;/em&gt; 88, 3249-3259.</frontiers>
+<ama>Meisinger-Henschel C, Schmidt M, Lukassen S, et al. Genomic sequence of chorioallantois vaccinia virus Ankara, the ancestor of modified vaccinia virus Ankara. &lt;em&gt;JOURNAL OF GENERAL VIROLOGY&lt;/em&gt;. 2007;88(12):3249-3259.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Meisinger-Henschel, C., Schmidt, M., Lukassen, S., Linke, B., Krause, L., Konietzny, S., Goesmann, A., Howley, P., Chaplin, P., Suter, M. &amp;amp; Hausmann, J. (2007). Genomic sequence of chorioallantois vaccinia virus Ankara, the ancestor of modified vaccinia virus Ankara. &lt;em&gt;JOURNAL OF GENERAL VIROLOGY&lt;/em&gt;, &lt;em&gt;88&lt;/em&gt;(12), 3249-3259. SOC GENERAL MICROBIOLOGY. doi:10.1099/vir.0.83156-0.&lt;/div&gt;</dgps>
+<harvard1>Meisinger-Henschel, C., et al., 2007. Genomic sequence of chorioallantois vaccinia virus Ankara, the ancestor of modified vaccinia virus Ankara. &lt;em&gt;JOURNAL OF GENERAL VIROLOGY&lt;/em&gt;, 88(12), p 3249-3259.</harvard1>
+<aps>C.  Meisinger-Henschel, et al., Genomic sequence of chorioallantois vaccinia virus Ankara, the ancestor of modified vaccinia virus Ankara, JOURNAL OF GENERAL VIROLOGY &lt;strong&gt;88&lt;/strong&gt;, 3249-3259 (2007).</aps>
+<bio1>Meisinger-Henschel C, Schmidt M, Lukassen S, Linke B, Krause L, Konietzny S, Goesmann A, Howley P, Chaplin P, Suter M, Hausmann J (2007) &lt;br /&gt;Genomic sequence of chorioallantois vaccinia virus Ankara, the ancestor of modified vaccinia virus Ankara.&lt;br /&gt;JOURNAL OF GENERAL VIROLOGY 88(12): 3249-3259.</bio1>
+<wels>Meisinger-Henschel, C.; Schmidt, M.; Lukassen, S.; Linke, B.; Krause, L.; Konietzny, S.; Goesmann, A.; Howley, P.; Chaplin, P.; Suter, M.; Hausmann, J. (2007): Genomic sequence of chorioallantois vaccinia virus Ankara, the ancestor of modified vaccinia virus Ankara &lt;em&gt;JOURNAL OF GENERAL VIROLOGY&lt;/em&gt;,88:(12): 3249-3259.</wels>
+<default>Meisinger-Henschel C, Schmidt M, Lukassen S, Linke B, Krause L, Konietzny S, Goesmann A, Howley P, Chaplin P, Suter M, Hausmann J (2007) &lt;br /&gt;JOURNAL OF GENERAL VIROLOGY 88(12): 3249-3259.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1631047</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:05:27Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2012-05-29T11:25:41Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1631047</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1631047</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

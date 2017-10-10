@@ -1,0 +1,130 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Saccadic flight strategy facilitates collision avoidance: closed-loop performance of a cyberfly</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Jens Peter</namePart>
+  <namePart type="family">Lindemann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">128150</identifier></name>
+<name type="personal">
+  <namePart type="given">Holger</namePart>
+  <namePart type="family">Weiss</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ralf</namePart>
+  <namePart type="family">Möller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">94532</identifier></name>
+<name type="personal">
+  <namePart type="given">Martin</namePart>
+  <namePart type="family">Egelhaaf</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">156194</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-9336-4270</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2684834</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">8014655</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10040</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Lindemann_et_al_BiolCybern_2008.pdf">https://pub.uni-bielefeld.de/download/1592513/2903623</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>SPRINGER</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>behaviour</topic><topic>saccadic flight</topic><topic>model simulation</topic><topic>motion vision</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Biological Cybernetics</title></titleInfo>
+  <identifier type="issn">0340-1200</identifier>
+  <identifier type="eIssn">1432-0770</identifier>
+  <identifier type="MEDLINE">18180948</identifier>
+  <identifier type="ISI">000253623800003</identifier><identifier type="urn">urn:nbn:de:0070-pub-15925132</identifier><identifier type="doi">10.1007/s00422-007-0205-x</identifier>
+<part><detail type="volume"><number>98</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">213-227</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Lindemann, J. P.; Weiss, H.; Möller, R.; Egelhaaf, M. (2008): Saccadic flight strategy facilitates collision avoidance: closed-loop performance of a cyberfly &lt;em&gt;Biological Cybernetics&lt;/em&gt;,98:(3): 213-227.</wels>
+<default>Lindemann JP, Weiss H, Möller R, Egelhaaf M (2008) &lt;br /&gt;Biological Cybernetics 98(3): 213-227.</default>
+<harvard1>Lindemann, J.P., et al., 2008. Saccadic flight strategy facilitates collision avoidance: closed-loop performance of a cyberfly. &lt;em&gt;Biological Cybernetics&lt;/em&gt;, 98(3), p 213-227.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lindemann, J.P., Weiss, H., Möller, R. &amp;amp; Egelhaaf, M. (2008). Saccadic flight strategy facilitates collision avoidance: closed-loop performance of a cyberfly. &lt;em&gt;Biological Cybernetics&lt;/em&gt;, &lt;em&gt;98&lt;/em&gt;(3), 213-227. SPRINGER. doi:10.1007/s00422-007-0205-x.&lt;/div&gt;</dgps>
+<ama>Lindemann JP, Weiss H, Möller R, Egelhaaf M. Saccadic flight strategy facilitates collision avoidance: closed-loop performance of a cyberfly. &lt;em&gt;Biological Cybernetics&lt;/em&gt;. 2008;98(3):213-227.</ama>
+<aps>J. P.  Lindemann, et al., Saccadic flight strategy facilitates collision avoidance: closed-loop performance of a cyberfly, Biological Cybernetics &lt;strong&gt;98&lt;/strong&gt;, 213-227 (2008).</aps>
+<bio1>Lindemann JP, Weiss H, Möller R, Egelhaaf M (2008) &lt;br /&gt;Saccadic flight strategy facilitates collision avoidance: closed-loop performance of a cyberfly.&lt;br /&gt;Biological Cybernetics 98(3): 213-227.</bio1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lindemann, Jens Peter, Weiss, Holger, Möller, Ralf, and Egelhaaf, Martin. 2008. “Saccadic flight strategy facilitates collision avoidance: closed-loop performance of a cyberfly”. &lt;em&gt;Biological Cybernetics&lt;/em&gt; 98 (3): 213-227.&lt;/div&gt;</chicago>
+<apa>Lindemann, J. P., Weiss, H., Möller, R., &amp;amp; Egelhaaf, M. (2008). Saccadic flight strategy facilitates collision avoidance: closed-loop performance of a cyberfly. &lt;em&gt;Biological Cybernetics&lt;/em&gt;, &lt;em&gt;98&lt;/em&gt;(3), 213-227.</apa>
+<angewandte-chemie>J. P.  Lindemann, H.  Weiss, R.  Möller, and M.  Egelhaaf, “Saccadic flight strategy facilitates collision avoidance: closed-loop performance of a cyberfly”, &lt;em&gt;Biological Cybernetics&lt;/em&gt;, &lt;strong&gt;2008&lt;/strong&gt;, &lt;em&gt;98&lt;/em&gt;, 213-227.</angewandte-chemie>
+<frontiers>Lindemann, J. P., Weiss, H., Möller, R., and Egelhaaf, M. (2008). Saccadic flight strategy facilitates collision avoidance: closed-loop performance of a cyberfly. &lt;em&gt;Biological Cybernetics&lt;/em&gt; 98, 213-227.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lindemann, J. P., Weiss, H., Möller, R., &amp;amp; Egelhaaf, M. (2008). Saccadic flight strategy facilitates collision avoidance: closed-loop performance of a cyberfly. &lt;em&gt;Biological Cybernetics&lt;/em&gt;, &lt;em&gt;98&lt;/em&gt;(3), 213-227.&lt;/div&gt;</apa_indent>
+<ieee>J.P. Lindemann, et al., “Saccadic flight strategy facilitates collision avoidance: closed-loop performance of a cyberfly”, &lt;em&gt;Biological Cybernetics&lt;/em&gt;,  vol. 98, 2008,  pp. 213-227.</ieee>
+<lncs>Lindemann, J.P., Weiss, H., Möller, R., Egelhaaf, M.: Saccadic flight strategy facilitates collision avoidance: closed-loop performance of a cyberfly. Biological Cybernetics. 98, 213-227 (2008).</lncs>
+<mla>Lindemann, Jens Peter, Weiss, Holger, Möller, Ralf, and Egelhaaf, Martin. “Saccadic flight strategy facilitates collision avoidance: closed-loop performance of a cyberfly”. &lt;em&gt;Biological Cybernetics&lt;/em&gt; 98.3 (2008): 213-227.</mla>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1592513</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T11:50:39Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-06-06T09:15:15Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1592513</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1592513</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

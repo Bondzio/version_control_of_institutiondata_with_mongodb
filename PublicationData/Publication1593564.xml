@@ -1,0 +1,133 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Nanometer-sized molybdenum-iron oxide capsule-surface modifications: External and internal</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Achim</namePart>
+  <namePart type="family">Müller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20118</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0003-0117-4021</description></name>
+<name type="personal">
+  <namePart type="given">Hartmut</namePart>
+  <namePart type="family">Bögge</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20106</identifier></name>
+<name type="personal">
+  <namePart type="given">Filipa L.</namePart>
+  <namePart type="family">Sousa</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Marc</namePart>
+  <namePart type="family">Schmidtmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Dirk G.</namePart>
+  <namePart type="family">Kurth</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Dirk</namePart>
+  <namePart type="family">Volkmer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Joris</namePart>
+  <namePart type="family">van Slageren</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Martin</namePart>
+  <namePart type="family">Dressel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Melissa L.</namePart>
+  <namePart type="family">Kistler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Tianbo</namePart>
+  <namePart type="family">Liu</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Anorganische Chemie I</namePart>
+  <identifier type="unibi">17964</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The cluster {(Mo)Mo-5}(12)Fe-30(III) 1 a present in compound 1 (cluster diameter 2.3 nm), which belongs to the family of nanoscale spherical porous {(Mo)Mo-5}(12){Linker}(30) capsules that allow a new type of nanochemistry inside their cavities as well as unprecedented aggregation processes under gaseous, solution, and solid-state conditions, is the starting material for the present investigation. In solution it reacts with LnCl(3)center dot-nH(2)O (Ln=Ce, Pr) thereby replacing six Fe-III ions with Ln(III) ions to form compounds 2 (Ce) and 3 (Pr). During metal-cation exchange, some of the pentagonal {(Mo)Mo5O21(H2O)(6)}(6-) units, which are connected to the Fe-III, centers in 1 a, decompose, thus leading to a temporary capsule opening and uptake of the formed smaller molybdate units into the capsule cavities. In 2 and 3, the pentagonal units are connected via 24 Fe-III and six Ln(III)-type linkers/spacers representing together the capsule skeletons, which are structurally well-defined in contrast to the capsule contents. The new capsules self-associate into single-layer blackberry-type structures, thus extending the variety of these types of assemblies; the assembly process, that is, the size of the final species, can be controlled by the pH, which allows the generation of differently sized nanoparticles. Magnetic properties of the two new nanomaterials 2 and 3 are also determined.</abstract>
+
+<originInfo><publisher>WILEY-V C H VERLAG GMBH</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>self-assembly</topic><topic>molydenum</topic><topic>magnetic properties</topic><topic>metal oxides</topic><topic>nanomanipulation</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>SMALL</title></titleInfo>
+  <identifier type="issn">1613-6810</identifier>
+  <identifier type="eIssn">1613-6829</identifier>
+  <identifier type="MEDLINE">17385209</identifier>
+  <identifier type="ISI">000247148200007</identifier><identifier type="doi">10.1002/smll.200600567</identifier>
+<part><detail type="volume"><number>3</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">986-992</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<angewandte-chemie>A.  Müller, H.  Bögge, F. L.  Sousa, M.  Schmidtmann, D. G.  Kurth, D.  Volkmer, J.  van Slageren, M.  Dressel, M. L.  Kistler, and T.  Liu, “Nanometer-sized molybdenum-iron oxide capsule-surface modifications: External and internal”, &lt;em&gt;SMALL&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;3&lt;/em&gt;, 986-992.</angewandte-chemie>
+<apa>Müller, A., Bögge, H., Sousa, F. L., Schmidtmann, M., Kurth, D. G., Volkmer, D., van Slageren, J., et al. (2007). Nanometer-sized molybdenum-iron oxide capsule-surface modifications: External and internal. &lt;em&gt;SMALL&lt;/em&gt;, &lt;em&gt;3&lt;/em&gt;(6), 986-992.</apa>
+<frontiers>Müller, A., Bögge, H., Sousa, F. L., Schmidtmann, M., Kurth, D. G., Volkmer, D., van Slageren, J., Dressel, M., Kistler, M. L., and Liu, T. (2007). Nanometer-sized molybdenum-iron oxide capsule-surface modifications: External and internal. &lt;em&gt;SMALL&lt;/em&gt; 3, 986-992.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, Achim, Bögge, Hartmut, Sousa, Filipa L., Schmidtmann, Marc, Kurth, Dirk G., Volkmer, Dirk, van Slageren, Joris, Dressel, Martin, Kistler, Melissa L., and Liu, Tianbo. 2007. “Nanometer-sized molybdenum-iron oxide capsule-surface modifications: External and internal”. &lt;em&gt;SMALL&lt;/em&gt; 3 (6): 986-992.&lt;/div&gt;</chicago>
+<ieee>A. Müller, et al., “Nanometer-sized molybdenum-iron oxide capsule-surface modifications: External and internal”, &lt;em&gt;SMALL&lt;/em&gt;,  vol. 3, 2007,  pp. 986-992.</ieee>
+<lncs>Müller, A., Bögge, H., Sousa, F.L., Schmidtmann, M., Kurth, D.G., Volkmer, D., van Slageren, J., Dressel, M., Kistler, M.L., Liu, T.: Nanometer-sized molybdenum-iron oxide capsule-surface modifications: External and internal. SMALL. 3, 986-992 (2007).</lncs>
+<mla>Müller, Achim, Bögge, Hartmut, Sousa, Filipa L., Schmidtmann, Marc, Kurth, Dirk G., Volkmer, Dirk, van Slageren, Joris, Dressel, Martin, Kistler, Melissa L., and Liu, Tianbo. “Nanometer-sized molybdenum-iron oxide capsule-surface modifications: External and internal”. &lt;em&gt;SMALL&lt;/em&gt; 3.6 (2007): 986-992.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, A., Bögge, H., Sousa, F. L., Schmidtmann, M., Kurth, D. G., Volkmer, D., van Slageren, J., et al. (2007). Nanometer-sized molybdenum-iron oxide capsule-surface modifications: External and internal. &lt;em&gt;SMALL&lt;/em&gt;, &lt;em&gt;3&lt;/em&gt;(6), 986-992.&lt;/div&gt;</apa_indent>
+<wels>Müller, A.; Bögge, H.; Sousa, F. L.; Schmidtmann, M.; Kurth, D. G.; Volkmer, D.; van Slageren, J.; Dressel, M.; Kistler, M. L.; Liu, T. (2007): Nanometer-sized molybdenum-iron oxide capsule-surface modifications: External and internal &lt;em&gt;SMALL&lt;/em&gt;,3:(6): 986-992.</wels>
+<default>Müller A, Bögge H, Sousa FL, Schmidtmann M, Kurth DG, Volkmer D, van Slageren J, Dressel M, Kistler ML, Liu T (2007) &lt;br /&gt;SMALL 3(6): 986-992.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, A., Bögge, H., Sousa, F.L., Schmidtmann, M., Kurth, D.G., Volkmer, D., van Slageren, J., Dressel, M., Kistler, M.L. &amp;amp; Liu, T. (2007). Nanometer-sized molybdenum-iron oxide capsule-surface modifications: External and internal. &lt;em&gt;SMALL&lt;/em&gt;, &lt;em&gt;3&lt;/em&gt;(6), 986-992. WILEY-V C H VERLAG GMBH. doi:10.1002/smll.200600567.&lt;/div&gt;</dgps>
+<ama>Müller A, Bögge H, Sousa FL, et al. Nanometer-sized molybdenum-iron oxide capsule-surface modifications: External and internal. &lt;em&gt;SMALL&lt;/em&gt;. 2007;3(6):986-992.</ama>
+<harvard1>Müller, A., et al., 2007. Nanometer-sized molybdenum-iron oxide capsule-surface modifications: External and internal. &lt;em&gt;SMALL&lt;/em&gt;, 3(6), p 986-992.</harvard1>
+<bio1>Müller A, Bögge H, Sousa FL, Schmidtmann M, Kurth DG, Volkmer D, van Slageren J, Dressel M, Kistler ML, Liu T (2007) &lt;br /&gt;Nanometer-sized molybdenum-iron oxide capsule-surface modifications: External and internal.&lt;br /&gt;SMALL 3(6): 986-992.</bio1>
+<aps>A.  Müller, et al., Nanometer-sized molybdenum-iron oxide capsule-surface modifications: External and internal, SMALL &lt;strong&gt;3&lt;/strong&gt;, 986-992 (2007).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1593564</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:15:56Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-14T14:58:12Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1593564</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1593564</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

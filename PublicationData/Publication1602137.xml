@@ -1,0 +1,150 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The transcriptional regulator SsuR activates expression of the Corynebacterium glutamicum sulphonate utilization genes in the absence of sulphate</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">DJ</namePart>
+  <namePart type="family">Koch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">Rückert</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">42238</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-9722-4435</description></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Albersmeier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">143495</identifier></name>
+<name type="personal">
+  <namePart type="given">AT</namePart>
+  <namePart type="family">Hüser</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Tauch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">22082</identifier></name>
+<name type="personal">
+  <namePart type="given">Alfred</namePart>
+  <namePart type="family">Pühler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21937</identifier></name>
+<name type="personal">
+  <namePart type="given">Jörn</namePart>
+  <namePart type="family">Kalinowski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">147567</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070741</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070639</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070724</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">In a recent study, the putative regulatory gene cg0012 was shown to belong to the regulon of McbR, a global transcriptional regulator of sulphur metabolism in Corynebacterium glutamicum ATCC 13032. A deletion of cg0012, now designated ssuR (sulphonate sulphur utilization regulator), led to the mutant strain C. glutamicum DK100, which was shown to be blocked in the utilization of sulphonates as sulphur sources. According to DNA microarray hybridizations, transcription of the ssu and seu genes, encoding the sulphonate utilization system of C. glutamicum, was considerably decreased in C. glutamicum DK100 when compared with the wild-type strain. Electrophoretic mobility shift assays with purified SsuR protein demonstrated that the upstream regions of ssuI, seuABC, ssuD2 and ssuD1CBA contain SsuR binding sites. A nucleotide sequence alignment of the four DNA fragments containing the SsuR binding sites revealed a common 21 bp motif consisting of T-, GC- and A-rich domains. Mapping of the transcriptional start sites in front of ssuI, seuABC, ssuD2 and ssuD1CBA indicated that the SsuR binding sites are located directly upstream of identified promoter sequences and that the ssu genes are expressed by leaderless transcripts. Binding of the SsuR protein to its operator was shown to be diminished in vitro by the effector substance sulphate and its direct assimilation products adenosine 5&apos;-phosphosulphate, sulphite and sulphide. Real-time reverse transcription polymerase chain reaction experiments verified that the expression of the ssu and seu genes was also repressed in vivo by the presence of sulphate or sulphite. Therefore, the regulatory protein SsuR activates the expression of the ssu and seu genes in C. glutamicum in the absence of the preferred sulphur source sulphate.</abstract>
+
+<originInfo><publisher>BLACKWELL PUBLISHING</publisher><dateIssued encoding="w3cdtf">2005</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Mol Microbiol</title></titleInfo>
+  <identifier type="issn">0950-382X</identifier>
+  <identifier type="MEDLINE">16194234</identifier>
+  <identifier type="ISI">000232231100012</identifier><identifier type="doi">10.1111/j.1365-2958.2005.04836.x</identifier>
+<part><detail type="volume"><number>58</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">480-494</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Koch, D. J.; Rückert, C.; Albersmeier, A.; Hüser, A. T.; Tauch, A.; Pühler, A.; Kalinowski, J. (2005): The transcriptional regulator SsuR activates expression of the Corynebacterium glutamicum sulphonate utilization genes in the absence of sulphate &lt;em&gt;Mol Microbiol&lt;/em&gt;,58:(2): 480-494.</wels>
+<default>Koch DJ, Rückert C, Albersmeier A, Hüser AT, Tauch A, Pühler A, Kalinowski J (2005) &lt;br /&gt;Mol Microbiol 58(2): 480-494.</default>
+<ama>Koch DJ, Rückert C, Albersmeier A, et al. The transcriptional regulator SsuR activates expression of the Corynebacterium glutamicum sulphonate utilization genes in the absence of sulphate. &lt;em&gt;Mol Microbiol&lt;/em&gt;. 2005;58(2):480-494.</ama>
+<harvard1>Koch, D.J., et al., 2005. The transcriptional regulator SsuR activates expression of the Corynebacterium glutamicum sulphonate utilization genes in the absence of sulphate. &lt;em&gt;Mol Microbiol&lt;/em&gt;, 58(2), p 480-494.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Koch, D.J., Rückert, C., Albersmeier, A., Hüser, A.T., Tauch, A., Pühler, A. &amp;amp; Kalinowski, J. (2005). The transcriptional regulator SsuR activates expression of the Corynebacterium glutamicum sulphonate utilization genes in the absence of sulphate. &lt;em&gt;Mol Microbiol&lt;/em&gt;, &lt;em&gt;58&lt;/em&gt;(2), 480-494. BLACKWELL PUBLISHING. doi:10.1111/j.1365-2958.2005.04836.x.&lt;/div&gt;</dgps>
+<aps> D. J.  Koch, et al., The transcriptional regulator SsuR activates expression of the Corynebacterium glutamicum sulphonate utilization genes in the absence of sulphate, Mol Microbiol &lt;strong&gt;58&lt;/strong&gt;, 480-494 (2005).</aps>
+<bio1>Koch DJ, Rückert C, Albersmeier A, Hüser AT, Tauch A, Pühler A, Kalinowski J (2005) &lt;br /&gt;The transcriptional regulator SsuR activates expression of the Corynebacterium glutamicum sulphonate utilization genes in the absence of sulphate.&lt;br /&gt;Mol Microbiol 58(2): 480-494.</bio1>
+<angewandte-chemie>D. J.  Koch, C.  Rückert, A.  Albersmeier, A. T.  Hüser, A.  Tauch, A.  Pühler, and J.  Kalinowski, “The transcriptional regulator SsuR activates expression of the Corynebacterium glutamicum sulphonate utilization genes in the absence of sulphate”, &lt;em&gt;Mol Microbiol&lt;/em&gt;, &lt;strong&gt;2005&lt;/strong&gt;, &lt;em&gt;58&lt;/em&gt;, 480-494.</angewandte-chemie>
+<apa>Koch, D. J., Rückert, C., Albersmeier, A., Hüser, A. T., Tauch, A., Pühler, A., &amp;amp; Kalinowski, J. (2005). The transcriptional regulator SsuR activates expression of the Corynebacterium glutamicum sulphonate utilization genes in the absence of sulphate. &lt;em&gt;Mol Microbiol&lt;/em&gt;, &lt;em&gt;58&lt;/em&gt;(2), 480-494.</apa>
+<frontiers>Koch, D. J., Rückert, C., Albersmeier, A., Hüser, A. T., Tauch, A., Pühler, A., and Kalinowski, J. (2005). The transcriptional regulator SsuR activates expression of the Corynebacterium glutamicum sulphonate utilization genes in the absence of sulphate. &lt;em&gt;Mol Microbiol&lt;/em&gt; 58, 480-494.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Koch, DJ, Rückert, Christian, Albersmeier, Andreas, Hüser, AT, Tauch, Andreas, Pühler, Alfred, and Kalinowski, Jörn. 2005. “The transcriptional regulator SsuR activates expression of the Corynebacterium glutamicum sulphonate utilization genes in the absence of sulphate”. &lt;em&gt;Mol Microbiol&lt;/em&gt; 58 (2): 480-494.&lt;/div&gt;</chicago>
+<ieee> D.J. Koch, et al., “The transcriptional regulator SsuR activates expression of the Corynebacterium glutamicum sulphonate utilization genes in the absence of sulphate”, &lt;em&gt;Mol Microbiol&lt;/em&gt;,  vol. 58, 2005,  pp. 480-494.</ieee>
+<lncs> Koch, D.J., Rückert, C., Albersmeier, A., Hüser, A.T., Tauch, A., Pühler, A., Kalinowski, J.: The transcriptional regulator SsuR activates expression of the Corynebacterium glutamicum sulphonate utilization genes in the absence of sulphate. Mol Microbiol. 58, 480-494 (2005).</lncs>
+<mla>Koch, DJ, Rückert, Christian, Albersmeier, Andreas, Hüser, AT, Tauch, Andreas, Pühler, Alfred, and Kalinowski, Jörn. “The transcriptional regulator SsuR activates expression of the Corynebacterium glutamicum sulphonate utilization genes in the absence of sulphate”. &lt;em&gt;Mol Microbiol&lt;/em&gt; 58.2 (2005): 480-494.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Koch, D. J., Rückert, C., Albersmeier, A., Hüser, A. T., Tauch, A., Pühler, A., &amp;amp; Kalinowski, J. (2005). The transcriptional regulator SsuR activates expression of the Corynebacterium glutamicum sulphonate utilization genes in the absence of sulphate. &lt;em&gt;Mol Microbiol&lt;/em&gt;, &lt;em&gt;58&lt;/em&gt;(2), 480-494.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1602137</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:32:07Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-09-28T06:40:13Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1602137</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1602137</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

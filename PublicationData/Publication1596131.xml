@@ -1,0 +1,128 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>GABI-Kat SimpleSearch: an Arabidopsis thaliana T-DNA mutant database with detailed information for confirmed insertions</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Yong</namePart>
+  <namePart type="family">Li</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Mario G.</namePart>
+  <namePart type="family">Rosso</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Prisca</namePart>
+  <namePart type="family">Viehöver</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">159120</identifier></name>
+<name type="personal">
+  <namePart type="given">Bernd</namePart>
+  <namePart type="family">Weisshaar</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">86212</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-7635-3473</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070678</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2684836</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="D874.pdf">https://pub.uni-bielefeld.de/download/1596131/2311111</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>OXFORD UNIV PRESS</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Nucleic Acids Research</title></titleInfo>
+  <identifier type="issn">0305-1048</identifier>
+  <identifier type="eIssn">1362-4962</identifier>
+  <identifier type="MEDLINE">17062622</identifier>
+  <identifier type="ISI">000243494600169</identifier><identifier type="urn">urn:nbn:de:0070-pub-15961312</identifier><identifier type="doi">10.1093/nar/gkl753</identifier>
+<part><detail type="volume"><number>35</number></detail><detail type="issue"><number>Database</number></detail><extent unit="pages">D874-D878</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Li, Y., Rosso, M.G., Viehöver, P. &amp;amp; Weisshaar, B. (2007). GABI-Kat SimpleSearch: an Arabidopsis thaliana T-DNA mutant database with detailed information for confirmed insertions. &lt;em&gt;Nucleic Acids Research&lt;/em&gt;, &lt;em&gt;35&lt;/em&gt;(Database), D874-D878. OXFORD UNIV PRESS. doi:10.1093/nar/gkl753.&lt;/div&gt;</dgps>
+<harvard1>Li, Y., et al., 2007. GABI-Kat SimpleSearch: an Arabidopsis thaliana T-DNA mutant database with detailed information for confirmed insertions. &lt;em&gt;Nucleic Acids Research&lt;/em&gt;, 35(Database), p D874-D878.</harvard1>
+<ama>Li Y, Rosso MG, Viehöver P, Weisshaar B. GABI-Kat SimpleSearch: an Arabidopsis thaliana T-DNA mutant database with detailed information for confirmed insertions. &lt;em&gt;Nucleic Acids Research&lt;/em&gt;. 2007;35(Database):D874-D878.</ama>
+<bio1>Li Y, Rosso MG, Viehöver P, Weisshaar B (2007) &lt;br /&gt;GABI-Kat SimpleSearch: an Arabidopsis thaliana T-DNA mutant database with detailed information for confirmed insertions.&lt;br /&gt;Nucleic Acids Research 35(Database): D874-D878.</bio1>
+<aps>Y.  Li, et al., GABI-Kat SimpleSearch: an Arabidopsis thaliana T-DNA mutant database with detailed information for confirmed insertions, Nucleic Acids Research &lt;strong&gt;35&lt;/strong&gt;, D874-D878 (2007).</aps>
+<wels>Li, Y.; Rosso, M. G.; Viehöver, P.; Weisshaar, B. (2007): GABI-Kat SimpleSearch: an Arabidopsis thaliana T-DNA mutant database with detailed information for confirmed insertions &lt;em&gt;Nucleic Acids Research&lt;/em&gt;,35:(Database): D874-D878.</wels>
+<default>Li Y, Rosso MG, Viehöver P, Weisshaar B (2007) &lt;br /&gt;Nucleic Acids Research 35(Database): D874-D878.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Li, Y., Rosso, M. G., Viehöver, P., &amp;amp; Weisshaar, B. (2007). GABI-Kat SimpleSearch: an Arabidopsis thaliana T-DNA mutant database with detailed information for confirmed insertions. &lt;em&gt;Nucleic Acids Research&lt;/em&gt;, &lt;em&gt;35&lt;/em&gt;(Database), D874-D878.&lt;/div&gt;</apa_indent>
+<ieee>Y. Li, et al., “GABI-Kat SimpleSearch: an Arabidopsis thaliana T-DNA mutant database with detailed information for confirmed insertions”, &lt;em&gt;Nucleic Acids Research&lt;/em&gt;,  vol. 35, 2007,  pp. D874-D878.</ieee>
+<mla>Li, Yong, Rosso, Mario G., Viehöver, Prisca, and Weisshaar, Bernd. “GABI-Kat SimpleSearch: an Arabidopsis thaliana T-DNA mutant database with detailed information for confirmed insertions”. &lt;em&gt;Nucleic Acids Research&lt;/em&gt; 35.Database (2007): D874-D878.</mla>
+<lncs>Li, Y., Rosso, M.G., Viehöver, P., Weisshaar, B.: GABI-Kat SimpleSearch: an Arabidopsis thaliana T-DNA mutant database with detailed information for confirmed insertions. Nucleic Acids Research. 35, D874-D878 (2007).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Li, Yong, Rosso, Mario G., Viehöver, Prisca, and Weisshaar, Bernd. 2007. “GABI-Kat SimpleSearch: an Arabidopsis thaliana T-DNA mutant database with detailed information for confirmed insertions”. &lt;em&gt;Nucleic Acids Research&lt;/em&gt; 35 (Database): D874-D878.&lt;/div&gt;</chicago>
+<angewandte-chemie>Y.  Li, M. G.  Rosso, P.  Viehöver, and B.  Weisshaar, “GABI-Kat SimpleSearch: an Arabidopsis thaliana T-DNA mutant database with detailed information for confirmed insertions”, &lt;em&gt;Nucleic Acids Research&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;35&lt;/em&gt;, D874-D878.</angewandte-chemie>
+<apa>Li, Y., Rosso, M. G., Viehöver, P., &amp;amp; Weisshaar, B. (2007). GABI-Kat SimpleSearch: an Arabidopsis thaliana T-DNA mutant database with detailed information for confirmed insertions. &lt;em&gt;Nucleic Acids Research&lt;/em&gt;, &lt;em&gt;35&lt;/em&gt;(Database), D874-D878.</apa>
+<frontiers>Li, Y., Rosso, M. G., Viehöver, P., and Weisshaar, B. (2007). GABI-Kat SimpleSearch: an Arabidopsis thaliana T-DNA mutant database with detailed information for confirmed insertions. &lt;em&gt;Nucleic Acids Research&lt;/em&gt; 35, D874-D878.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1596131</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:57Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-01-07T12:51:57Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1596131</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1596131</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

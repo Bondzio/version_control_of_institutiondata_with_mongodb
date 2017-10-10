@@ -1,0 +1,126 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Spin-polarization study of CO molecules adsorbed on Fe(110) using metastable-atom deexcitation spectroscopy and first-principles calculations</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">X.</namePart>
+  <namePart type="family">Sun</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">S.</namePart>
+  <namePart type="family">Förster</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Q. X.</namePart>
+  <namePart type="family">Li</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M.</namePart>
+  <namePart type="family">Kurahashi</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">T.</namePart>
+  <namePart type="family">Suzuki</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J. W.</namePart>
+  <namePart type="family">Zhang</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Y.</namePart>
+  <namePart type="family">Yamauchi</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Günter</namePart>
+  <namePart type="family">Baum</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40173</identifier></name>
+<name type="personal">
+  <namePart type="given">Hans</namePart>
+  <namePart type="family">Steidl</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40131</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The spin-resolved electronic states of CO molecules adsorbed on Fe(110) surfaces are investigated using spin-polarized metastable-atom deexcitation spectroscopy (SPMDS) measurements and first-principles calculation. The existence of the adsorbate-induced 2 pi(*) state, which is partially filled by electron backdonation, is detected directly by SPMDS and reproduced by the calculation of local density of states and subtracted densities. Positive spin asymmetries for 4 sigma, 5 sigma/1 pi, and 2 pi(*) peaks observed in SPMDS spectra are well described by the calculated spin density and plane-averaged density of states, which indicate negative-spin polarization towards vacuum side even at the low CO coverage.</abstract>
+
+<originInfo><publisher>AMERICAN PHYSICAL SOC</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Phys.Rev.B</title></titleInfo>
+  <identifier type="issn">1098-0121</identifier>
+  <identifier type="eIssn">1550-235X</identifier>
+  <identifier type="ISI">000243895400143</identifier><identifier type="doi">10.1103/PhysRevB.75.035419</identifier>
+<part><detail type="volume"><number>75</number></detail><detail type="issue"><number>3</number></detail>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<lncs>Sun, X., Förster, S., Li, Q.X., Kurahashi, M., Suzuki, T., Zhang, J.W., Yamauchi, Y., Baum, G., Steidl, H.: Spin-polarization study of CO molecules adsorbed on Fe(110) using metastable-atom deexcitation spectroscopy and first-principles calculations. Phys.Rev.B. 75, (2007).</lncs>
+<mla>Sun, X., Förster, S., Li, Q. X., Kurahashi, M., Suzuki, T., Zhang, J. W., Yamauchi, Y., Baum, Günter, and Steidl, Hans. “Spin-polarization study of CO molecules adsorbed on Fe(110) using metastable-atom deexcitation spectroscopy and first-principles calculations”. &lt;em&gt;Phys.Rev.B&lt;/em&gt; 75.3 (2007).</mla>
+<ieee>X. Sun, et al., “Spin-polarization study of CO molecules adsorbed on Fe(110) using metastable-atom deexcitation spectroscopy and first-principles calculations”, &lt;em&gt;Phys.Rev.B&lt;/em&gt;,  vol. 75, 2007.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sun, X., Förster, S., Li, Q. X., Kurahashi, M., Suzuki, T., Zhang, J. W., Yamauchi, Y., et al. (2007). Spin-polarization study of CO molecules adsorbed on Fe(110) using metastable-atom deexcitation spectroscopy and first-principles calculations. &lt;em&gt;Phys.Rev.B&lt;/em&gt;, &lt;em&gt;75&lt;/em&gt;(3).&lt;/div&gt;</apa_indent>
+<frontiers>Sun, X., Förster, S., Li, Q. X., Kurahashi, M., Suzuki, T., Zhang, J. W., Yamauchi, Y., Baum, G., and Steidl, H. (2007). Spin-polarization study of CO molecules adsorbed on Fe(110) using metastable-atom deexcitation spectroscopy and first-principles calculations. &lt;em&gt;Phys.Rev.B&lt;/em&gt; 75.</frontiers>
+<angewandte-chemie>X.  Sun, S.  Förster, Q. X.  Li, M.  Kurahashi, T.  Suzuki, J. W.  Zhang, Y.  Yamauchi, G.  Baum, and H.  Steidl, “Spin-polarization study of CO molecules adsorbed on Fe(110) using metastable-atom deexcitation spectroscopy and first-principles calculations”, &lt;em&gt;Phys.Rev.B&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;75&lt;/em&gt;.</angewandte-chemie>
+<apa>Sun, X., Förster, S., Li, Q. X., Kurahashi, M., Suzuki, T., Zhang, J. W., Yamauchi, Y., et al. (2007). Spin-polarization study of CO molecules adsorbed on Fe(110) using metastable-atom deexcitation spectroscopy and first-principles calculations. &lt;em&gt;Phys.Rev.B&lt;/em&gt;, &lt;em&gt;75&lt;/em&gt;(3).</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sun, X., Förster, S., Li, Q. X., Kurahashi, M., Suzuki, T., Zhang, J. W., Yamauchi, Y., Baum, Günter, and Steidl, Hans. 2007. “Spin-polarization study of CO molecules adsorbed on Fe(110) using metastable-atom deexcitation spectroscopy and first-principles calculations”. &lt;em&gt;Phys.Rev.B&lt;/em&gt; 75 (3).&lt;/div&gt;</chicago>
+<aps>X.  Sun, et al., Spin-polarization study of CO molecules adsorbed on Fe(110) using metastable-atom deexcitation spectroscopy and first-principles calculations, Phys.Rev.B &lt;strong&gt;75&lt;/strong&gt;, (2007).</aps>
+<bio1>Sun X, Förster S, Li QX, Kurahashi M, Suzuki T, Zhang JW, Yamauchi Y, Baum G, Steidl H (2007) &lt;br /&gt;Spin-polarization study of CO molecules adsorbed on Fe(110) using metastable-atom deexcitation spectroscopy and first-principles calculations.&lt;br /&gt;Phys.Rev.B 75(3).</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sun, X., Förster, S., Li, Q.X., Kurahashi, M., Suzuki, T., Zhang, J.W., Yamauchi, Y., Baum, G. &amp;amp; Steidl, H. (2007). Spin-polarization study of CO molecules adsorbed on Fe(110) using metastable-atom deexcitation spectroscopy and first-principles calculations. &lt;em&gt;Phys.Rev.B&lt;/em&gt;, &lt;em&gt;75&lt;/em&gt;(3). AMERICAN PHYSICAL SOC. doi:10.1103/PhysRevB.75.035419.&lt;/div&gt;</dgps>
+<ama>Sun X, Förster S, Li QX, et al. Spin-polarization study of CO molecules adsorbed on Fe(110) using metastable-atom deexcitation spectroscopy and first-principles calculations. &lt;em&gt;Phys.Rev.B&lt;/em&gt;. 2007;75(3).</ama>
+<harvard1>Sun, X., et al., 2007. Spin-polarization study of CO molecules adsorbed on Fe(110) using metastable-atom deexcitation spectroscopy and first-principles calculations. &lt;em&gt;Phys.Rev.B&lt;/em&gt;, 75(3).</harvard1>
+<default>Sun X, Förster S, Li QX, Kurahashi M, Suzuki T, Zhang JW, Yamauchi Y, Baum G, Steidl H (2007) &lt;br /&gt;Phys.Rev.B 75(3).</default>
+<wels>Sun, X.; Förster, S.; Li, Q. X.; Kurahashi, M.; Suzuki, T.; Zhang, J. W.; Yamauchi, Y.; Baum, G.; Steidl, H. (2007): Spin-polarization study of CO molecules adsorbed on Fe(110) using metastable-atom deexcitation spectroscopy and first-principles calculations &lt;em&gt;Phys.Rev.B&lt;/em&gt;,75:(3)</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1595837</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:49Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-05-03T15:35:02Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1595837</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1595837</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

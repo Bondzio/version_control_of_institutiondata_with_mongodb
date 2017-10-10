@@ -1,0 +1,132 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference abstract</genre>
+
+<titleInfo><title>Towards high-throughput localisation of proteins in the living cell</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">N.</namePart>
+  <namePart type="family">Jensen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Marko</namePart>
+  <namePart type="family">Tscherepanow</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">128602</identifier></name>
+<name type="personal">
+  <namePart type="given">D.</namePart>
+  <namePart type="family">Kapp</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Franz</namePart>
+  <namePart type="family">Kummert</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10372</identifier></name>
+<name type="personal">
+  <namePart type="given">P.</namePart>
+  <namePart type="family">Zehetmayer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">K.</namePart>
+  <namePart type="family">Joanidopoulos</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Karsten</namePart>
+  <namePart type="family">Niehaus</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21913</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2685540</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">18304588</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">40200282</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>ELSEVIER GMBH, URBAN &amp; FISCHER VERLAG</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host">
+  <identifier type="issn">0171-9335</identifier>
+  <identifier type="ISI">000237127500045</identifier>
+<part><detail type="volume"><number>85</number></detail><detail type="issue"><number>Suppl. 56</number></detail><extent unit="pages">27</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Jensen, N., Tscherepanow, Marko, Kapp, D., Kummert, Franz, Zehetmayer, P., Joanidopoulos, K., and Niehaus, Karsten. 2006. “Towards high-throughput localisation of proteins in the living cell”. Presented at the . Vol. 85. European Journal of Cell Biology. ELSEVIER GMBH, URBAN &amp;amp; FISCHER VERLAG.&lt;/div&gt;</chicago>
+<angewandte-chemie>N.  Jensen, M.  Tscherepanow, D.  Kapp, F.  Kummert, P.  Zehetmayer, K.  Joanidopoulos, and K.  Niehaus, Elsevier Gmbh, Urban &amp;amp; Fischer Verlag, &lt;strong&gt;2006&lt;/strong&gt;.</angewandte-chemie>
+<apa>Jensen, N., Tscherepanow, M., Kapp, D., Kummert, F., Zehetmayer, P., Joanidopoulos, K., &amp;amp; Niehaus, K. (2006). &lt;em&gt;Towards high-throughput localisation of proteins in the living cell&lt;/em&gt;. Presented at the .</apa>
+<frontiers>Jensen, N., Tscherepanow, M., Kapp, D., Kummert, F., Zehetmayer, P., Joanidopoulos, K., and Niehaus, K. (2006).“Towards high-throughput localisation of proteins in the living cell”.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Jensen, N., Tscherepanow, M., Kapp, D., Kummert, F., Zehetmayer, P., Joanidopoulos, K., &amp;amp; Niehaus, K. (2006). &lt;em&gt;Towards high-throughput localisation of proteins in the living cell&lt;/em&gt;. Presented at the .&lt;/div&gt;</apa_indent>
+<ieee> N. Jensen, et al., “Towards high-throughput localisation of proteins in the living cell”, ELSEVIER GMBH, URBAN &amp;amp; FISCHER VERLAG, 2006.</ieee>
+<lncs> Jensen, N., Tscherepanow, M., Kapp, D., Kummert, F., Zehetmayer, P., Joanidopoulos, K., Niehaus, K.: Towards high-throughput localisation of proteins in the living cell. (2006).</lncs>
+<mla>Jensen, N., Tscherepanow, Marko, Kapp, D., Kummert, Franz, Zehetmayer, P., Joanidopoulos, K., and Niehaus, Karsten. “Towards high-throughput localisation of proteins in the living cell”., ELSEVIER GMBH, URBAN &amp;amp; FISCHER VERLAG, 2006.</mla>
+<wels>Jensen, N.; Tscherepanow, M.; Kapp, D.; Kummert, F.; Zehetmayer, P.; Joanidopoulos, K.; Niehaus, K. (2006): Towards high-throughput localisation of proteins in the living cell. ELSEVIER GMBH, URBAN &amp;amp; FISCHER VERLAG. (European Journal of Cell Biology, 85).</wels>
+<default>Jensen N, Tscherepanow M, Kapp D, Kummert F, Zehetmayer P, Joanidopoulos K, Niehaus K (2006) .</default>
+<ama>Jensen N, Tscherepanow M, Kapp D, et al. Towards high-throughput localisation of proteins in the living cell.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Jensen, N., Tscherepanow, M., Kapp, D., Kummert, F., Zehetmayer, P., Joanidopoulos, K. &amp;amp; Niehaus, K. (2006). Towards high-throughput localisation of proteins in the living cell (European Journal of Cell Biology). ELSEVIER GMBH, URBAN &amp;amp; FISCHER VERLAG.&lt;/div&gt;</dgps>
+<harvard1>Jensen, N., et al., 2006. Towards high-throughput localisation of proteins in the living cell.</harvard1>
+<bio1>Jensen N, Tscherepanow M, Kapp D, Kummert F, Zehetmayer P, Joanidopoulos K, Niehaus K (2006) &lt;br /&gt;Towards high-throughput localisation of proteins in the living cell.</bio1>
+<aps> N.  Jensen, et al., Towards high-throughput localisation of proteins in the living cell, European Journal of Cell Biology, &lt;strong&gt;85&lt;/strong&gt; (ELSEVIER GMBH, URBAN &amp;amp; FISCHER VERLAG, 2006).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1599230</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:19:49Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-13T09:51:15Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1599230</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1599230</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

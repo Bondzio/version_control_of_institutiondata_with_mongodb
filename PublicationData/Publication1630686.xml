@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference abstract</genre>
+
+<titleInfo><title>Health economic model of smoking cessation treatment with varenicline in Germany</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">A.</namePart>
+  <namePart type="family">Rasch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">C.</namePart>
+  <namePart type="family">Lenz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Wolfgang</namePart>
+  <namePart type="family">Greiner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">152704</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10046</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host">
+  <identifier type="issn">1098-3015</identifier>
+  <identifier type="ISI">000251508900781</identifier><identifier type="doi">10.1016/S1098-3015(10)65623-9</identifier>
+<part><detail type="volume"><number>10</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">A472-A473</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<harvard1>Rasch, A., Lenz, C., &amp;amp; Greiner, W., 2007. Health economic model of smoking cessation treatment with varenicline in Germany.</harvard1>
+<ama>Rasch A, Lenz C, Greiner W. Health economic model of smoking cessation treatment with varenicline in Germany.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Rasch, A., Lenz, C. &amp;amp; Greiner, W. (2007). Health economic model of smoking cessation treatment with varenicline in Germany (Value in Health) (S. A472-A473). doi:10.1016/S1098-3015(10)65623-9.&lt;/div&gt;</dgps>
+<bio1>Rasch A, Lenz C, Greiner W (2007) &lt;br /&gt;Health economic model of smoking cessation treatment with varenicline in Germany.</bio1>
+<aps> A.  Rasch, C.  Lenz, and W.  Greiner, Health economic model of smoking cessation treatment with varenicline in Germany, Value in Health, &lt;strong&gt;10&lt;/strong&gt; (2007), p. A472-A473.</aps>
+<wels>Rasch, A.; Lenz, C.; Greiner, W. (2007): Health economic model of smoking cessation treatment with varenicline in Germany. (Value in Health, 10).  S. A472-A473.</wels>
+<default>Rasch A, Lenz C, Greiner W (2007) .</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Rasch, A., Lenz, C., &amp;amp; Greiner, W. (2007). &lt;em&gt;Health economic model of smoking cessation treatment with varenicline in Germany&lt;/em&gt;. Presented at the .&lt;/div&gt;</apa_indent>
+<ieee> A. Rasch, C. Lenz, and W. Greiner, “Health economic model of smoking cessation treatment with varenicline in Germany”, 2007.</ieee>
+<lncs> Rasch, A., Lenz, C., Greiner, W.: Health economic model of smoking cessation treatment with varenicline in Germany. (2007).</lncs>
+<mla>Rasch, A., Lenz, C., and Greiner, Wolfgang. “Health economic model of smoking cessation treatment with varenicline in Germany”., 2007.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Rasch, A., Lenz, C., and Greiner, Wolfgang. 2007. “Health economic model of smoking cessation treatment with varenicline in Germany”. Presented at the , 10:A472-A473. Value in Health.&lt;/div&gt;</chicago>
+<angewandte-chemie>A.  Rasch, C.  Lenz, and W.  Greiner, &lt;strong&gt;2007&lt;/strong&gt;, p. A472-A473.</angewandte-chemie>
+<apa>Rasch, A., Lenz, C., &amp;amp; Greiner, W. (2007). &lt;em&gt;Health economic model of smoking cessation treatment with varenicline in Germany&lt;/em&gt;. Presented at the .</apa>
+<frontiers>Rasch, A., Lenz, C., and Greiner, W. (2007).“Health economic model of smoking cessation treatment with varenicline in Germany”.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1630686</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:05:08Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-11-22T10:54:23Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1630686</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1630686</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

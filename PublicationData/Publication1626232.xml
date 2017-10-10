@@ -1,0 +1,99 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Active learning with local models</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Martina</namePart>
+  <namePart type="family">Hasenjäger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Helge</namePart>
+  <namePart type="family">Ritter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">91130</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Neuroinformatik</namePart>
+  <identifier type="unibi">10038</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">In this contribution, we deal with active learning, which gives the learner the power to select training samples. We propose a novel query algorithm for local learning models, a class of learners that has not been considered in the context of active learning until now. Our query algorithm is based on the idea of selecting a query on the borderline of the actual classification. This is done by drawing on the geometrical properties of local models that typically induce a Voronoi tessellation on the input space, so that the Voronoi vertices of this tessellation offer themselves as prospective query points. The performance of the new query algorithm is tested on the two-spirals problem with promising results.</abstract>
+
+<originInfo><publisher>Kluwer</publisher><dateIssued encoding="w3cdtf">1998</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>vector quantization</topic><topic>local models</topic><topic>active learning</topic><topic>query based learning</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Neural Processing Letters</title></titleInfo>
+  <identifier type="isbn">1573-773X</identifier>
+  <identifier type="ISI">000072530900006</identifier><identifier type="doi">10.1023/A:1009688513124</identifier>
+<part><detail type="volume"><number>7</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">107-117</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>M. Hasenjäger and H. Ritter, “Active learning with local models”, &lt;em&gt;Neural Processing Letters&lt;/em&gt;,  vol. 7, 1998,  pp. 107-117.</ieee>
+<mla>Hasenjäger, Martina, and Ritter, Helge. “Active learning with local models”. &lt;em&gt;Neural Processing Letters&lt;/em&gt; 7.2 (1998): 107-117.</mla>
+<lncs>Hasenjäger, M., Ritter, H.: Active learning with local models. Neural Processing Letters. 7, 107-117 (1998).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hasenjäger, M., &amp;amp; Ritter, H. (1998). Active learning with local models. &lt;em&gt;Neural Processing Letters&lt;/em&gt;, &lt;em&gt;7&lt;/em&gt;(2), 107-117.&lt;/div&gt;</apa_indent>
+<apa>Hasenjäger, M., &amp;amp; Ritter, H. (1998). Active learning with local models. &lt;em&gt;Neural Processing Letters&lt;/em&gt;, &lt;em&gt;7&lt;/em&gt;(2), 107-117.</apa>
+<angewandte-chemie>M.  Hasenjäger, and H.  Ritter, “Active learning with local models”, &lt;em&gt;Neural Processing Letters&lt;/em&gt;, &lt;strong&gt;1998&lt;/strong&gt;, &lt;em&gt;7&lt;/em&gt;, 107-117.</angewandte-chemie>
+<frontiers>Hasenjäger, M., and Ritter, H. (1998). Active learning with local models. &lt;em&gt;Neural Processing Letters&lt;/em&gt; 7, 107-117.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hasenjäger, Martina, and Ritter, Helge. 1998. “Active learning with local models”. &lt;em&gt;Neural Processing Letters&lt;/em&gt; 7 (2): 107-117.&lt;/div&gt;</chicago>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hasenjäger, M. &amp;amp; Ritter, H. (1998). Active learning with local models. &lt;em&gt;Neural Processing Letters&lt;/em&gt;, &lt;em&gt;7&lt;/em&gt;(2), 107-117. Kluwer. doi:10.1023/A:1009688513124.&lt;/div&gt;</dgps>
+<ama>Hasenjäger M, Ritter H. Active learning with local models. &lt;em&gt;Neural Processing Letters&lt;/em&gt;. 1998;7(2):107-117.</ama>
+<harvard1>Hasenjäger, M., &amp;amp; Ritter, H., 1998. Active learning with local models. &lt;em&gt;Neural Processing Letters&lt;/em&gt;, 7(2), p 107-117.</harvard1>
+<bio1>Hasenjäger M, Ritter H (1998) &lt;br /&gt;Active learning with local models.&lt;br /&gt;Neural Processing Letters 7(2): 107-117.</bio1>
+<aps>M.  Hasenjäger and H.  Ritter, Active learning with local models, Neural Processing Letters &lt;strong&gt;7&lt;/strong&gt;, 107-117 (1998).</aps>
+<wels>Hasenjäger, M.; Ritter, H. (1998): Active learning with local models &lt;em&gt;Neural Processing Letters&lt;/em&gt;,7:(2): 107-117.</wels>
+<default>Hasenjäger M, Ritter H (1998) &lt;br /&gt;Neural Processing Letters 7(2): 107-117.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1626232</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:20:58Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2015-04-08T09:25:56Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1626232</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1626232</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

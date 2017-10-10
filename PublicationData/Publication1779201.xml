@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Leichtathletik im Kindes- und Jugendalter: - Sinn und Reiz</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Dietrich</namePart>
+  <namePart type="family">Kurz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">120538</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Ulrich</namePart><namePart type="family">Becker</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Arbeitsbereich IV - Sport und Erziehung</namePart>
+  <identifier type="unibi">28978161</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Kurz_006.pdf">https://pub.uni-bielefeld.de/download/1779201/2312577</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Meyer &amp; Meyer</publisher><dateIssued encoding="w3cdtf">1994</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Leichtathletik im Lebenslauf: Bericht vom Breitensport-Kongreß des Deutschen Leichtathletik-Verbandes vom 23. bis 25. Oktober 1992 in Mainz</title></titleInfo>
+  <identifier type="isbn">3-89124-200-X</identifier><identifier type="urn">urn:nbn:de:0070-bipr-17513</identifier>
+<part><extent unit="pages">50-60</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Kurz D (1994)  &lt;br /&gt;In:  Leichtathletik im Lebenslauf: Bericht vom Breitensport-Kongreß des Deutschen Leichtathletik-Verbandes vom 23. bis 25. Oktober 1992 in Mainz. Becker U (Ed); Edition Leichtathletik ; 8, . Aachen: Meyer &amp;amp; Meyer:  50-60.</default>
+<wels>Kurz, D. (1994): Leichtathletik im Kindes- und Jugendalter: - Sinn und Reiz. In: Ulrich Becker (Hrsg.):  Leichtathletik im Lebenslauf: Bericht vom Breitensport-Kongreß des Deutschen Leichtathletik-Verbandes vom 23. bis 25. Oktober 1992 in Mainz. Aachen: Meyer &amp;amp; Meyer. (Edition Leichtathletik ; 8, ).  S. 50-60.</wels>
+<bio1>Kurz D (1994) &lt;br /&gt;Leichtathletik im Kindes- und Jugendalter: - Sinn und Reiz. &lt;br /&gt;In:  Leichtathletik im Lebenslauf: Bericht vom Breitensport-Kongreß des Deutschen Leichtathletik-Verbandes vom 23. bis 25. Oktober 1992 in Mainz. Becker U (Ed); Edition Leichtathletik ; 8,  Aachen: Meyer &amp;amp; Meyer:  50-60.</bio1>
+<aps>D.  Kurz, Leichtathletik im Kindes- und Jugendalter: - Sinn und Reiz, in &lt;em&gt;Leichtathletik im Lebenslauf: Bericht vom Breitensport-Kongreß des Deutschen Leichtathletik-Verbandes vom 23. bis 25. Oktober 1992 in Mainz&lt;/em&gt;, edited by U.  Becker, Edition Leichtathletik ; 8 (Meyer &amp;amp; Meyer, Aachen, 1994), p. 50-60.</aps>
+<harvard1>Kurz, D., 1994. Leichtathletik im Kindes- und Jugendalter: - Sinn und Reiz. In U.  Becker, ed. &lt;em&gt;Leichtathletik im Lebenslauf: Bericht vom Breitensport-Kongreß des Deutschen Leichtathletik-Verbandes vom 23. bis 25. Oktober 1992 in Mainz&lt;/em&gt;. Edition Leichtathletik ; 8.  Aachen: Meyer &amp;amp; Meyer, pp. 50-60.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kurz, D. (1994). Leichtathletik im Kindes- und Jugendalter: - Sinn und Reiz (Edition Leichtathletik ; 8). &lt;em&gt;Leichtathletik im Lebenslauf: Bericht vom Breitensport-Kongreß des Deutschen Leichtathletik-Verbandes vom 23. bis 25. Oktober 1992 in Mainz&lt;/em&gt; (S. 50-60). Aachen: Meyer &amp;amp; Meyer.&lt;/div&gt;</dgps>
+<ama>Kurz D. Leichtathletik im Kindes- und Jugendalter: - Sinn und Reiz. In: Becker U, ed. &lt;em&gt;Leichtathletik im Lebenslauf: Bericht vom Breitensport-Kongreß des Deutschen Leichtathletik-Verbandes vom 23. bis 25. Oktober 1992 in Mainz&lt;/em&gt;. Edition Leichtathletik ; 8. Aachen: Meyer &amp;amp; Meyer;  1994: 50-60.</ama>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kurz, Dietrich. 1994. “Leichtathletik im Kindes- und Jugendalter: - Sinn und Reiz”. In &lt;em&gt;Leichtathletik im Lebenslauf: Bericht vom Breitensport-Kongreß des Deutschen Leichtathletik-Verbandes vom 23. bis 25. Oktober 1992 in Mainz&lt;/em&gt;, ed. Ulrich Becker, 50-60. Edition Leichtathletik ; 8. Aachen: Meyer &amp;amp; Meyer.&lt;/div&gt;</chicago>
+<frontiers>Kurz, D. (1994). “Leichtathletik im Kindes- und Jugendalter: - Sinn und Reiz” in &lt;em&gt;Leichtathletik im Lebenslauf: Bericht vom Breitensport-Kongreß des Deutschen Leichtathletik-Verbandes vom 23. bis 25. Oktober 1992 in Mainz&lt;/em&gt;, ed. U.  Becker Edition Leichtathletik ; 8 (Aachen: Meyer &amp;amp; Meyer), 50-60.</frontiers>
+<angewandte-chemie>D.  Kurz, in &lt;em&gt;Leichtathletik im Lebenslauf: Bericht vom Breitensport-Kongreß des Deutschen Leichtathletik-Verbandes vom 23. bis 25. Oktober 1992 in Mainz&lt;/em&gt; (Ed.: U. Becker), Meyer &amp;amp; Meyer, Aachen, &lt;strong&gt;1994&lt;/strong&gt;, p. 50-60.</angewandte-chemie>
+<apa>Kurz, D. (1994). Leichtathletik im Kindes- und Jugendalter: - Sinn und Reiz. In U.  Becker (Ed.), &lt;em&gt;Edition Leichtathletik ; 8&lt;/em&gt;&lt;em&gt;. Leichtathletik im Lebenslauf: Bericht vom Breitensport-Kongreß des Deutschen Leichtathletik-Verbandes vom 23. bis 25. Oktober 1992 in Mainz&lt;/em&gt; (pp. 50-60). Aachen: Meyer &amp;amp; Meyer.</apa>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kurz, D. (1994). Leichtathletik im Kindes- und Jugendalter: - Sinn und Reiz. In U.  Becker (Ed.), &lt;em&gt;Edition Leichtathletik ; 8&lt;/em&gt;&lt;em&gt;. Leichtathletik im Lebenslauf: Bericht vom Breitensport-Kongreß des Deutschen Leichtathletik-Verbandes vom 23. bis 25. Oktober 1992 in Mainz&lt;/em&gt; (pp. 50-60). Aachen: Meyer &amp;amp; Meyer.&lt;/div&gt;</apa_indent>
+<mla>Kurz, Dietrich. “Leichtathletik im Kindes- und Jugendalter: - Sinn und Reiz”. &lt;em&gt;Leichtathletik im Lebenslauf: Bericht vom Breitensport-Kongreß des Deutschen Leichtathletik-Verbandes vom 23. bis 25. Oktober 1992 in Mainz&lt;/em&gt;. Ed. Ulrich Becker. Aachen: Meyer &amp;amp; Meyer, 1994. Edition Leichtathletik ; 8. 50-60.</mla>
+<lncs>Kurz, D.: Leichtathletik im Kindes- und Jugendalter: - Sinn und Reiz. In: Becker, U. (ed.) Leichtathletik im Lebenslauf: Bericht vom Breitensport-Kongreß des Deutschen Leichtathletik-Verbandes vom 23. bis 25. Oktober 1992 in Mainz. Edition Leichtathletik ; 8. p. 50-60. Meyer &amp;amp; Meyer, Aachen (1994).</lncs>
+<ieee>D. Kurz, “Leichtathletik im Kindes- und Jugendalter: - Sinn und Reiz”, &lt;em&gt;Leichtathletik im Lebenslauf: Bericht vom Breitensport-Kongreß des Deutschen Leichtathletik-Verbandes vom 23. bis 25. Oktober 1992 in Mainz&lt;/em&gt;, U. Becker, ed., Edition Leichtathletik ; 8,  Aachen: Meyer &amp;amp; Meyer, 1994,  pp.50-60.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1779201</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1779201</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1779201</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

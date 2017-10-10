@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>On some algebraic problems in connection with general elgenvalue algorithms</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ludwig</namePart>
+  <namePart type="family">Elsner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10509</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Two real matrices A,B are S-congruent if there is a nonsingular upper triangular matrix R such that A = R^TBR. This congruence relation is studied in the set of all nonsingular symmetric and that of all skew-symmetric matrices. Invariants and systems of representation are give. The results are applied to the question of decomposability of a matrix in a product of an isometry and an upper triangular matrix, a problem crucial in eigenvalue algorithms.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Elsner_024.pdf">https://pub.uni-bielefeld.de/download/1780277/2312844</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1979</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Linear algebra and its applications</title></titleInfo>
+  <identifier type="issn">0024-3795</identifier>
+  <identifier type="ISI">A1979HC34400008</identifier><identifier type="urn">urn:nbn:de:0070-pub-17802776</identifier><identifier type="doi">10.1016/0024-3795(79)90175-7</identifier>
+<part><detail type="volume"><number>26</number></detail><extent unit="pages">123-138</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<harvard1>Elsner, L., 1979. On some algebraic problems in connection with general elgenvalue algorithms. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, 26, p 123-138.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Elsner, L. (1979). On some algebraic problems in connection with general elgenvalue algorithms. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, &lt;em&gt;26&lt;/em&gt;, 123-138. doi:10.1016/0024-3795(79)90175-7.&lt;/div&gt;</dgps>
+<ama>Elsner L. On some algebraic problems in connection with general elgenvalue algorithms. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;. 1979;26:123-138.</ama>
+<aps>L.  Elsner, On some algebraic problems in connection with general elgenvalue algorithms, Linear algebra and its applications &lt;strong&gt;26&lt;/strong&gt;, 123-138 (1979).</aps>
+<bio1>Elsner L (1979) &lt;br /&gt;On some algebraic problems in connection with general elgenvalue algorithms.&lt;br /&gt;Linear algebra and its applications 26: 123-138.</bio1>
+<wels>Elsner, L. (1979): On some algebraic problems in connection with general elgenvalue algorithms &lt;em&gt;Linear algebra and its applications&lt;/em&gt;,26: 123-138.</wels>
+<default>Elsner L (1979) &lt;br /&gt;Linear algebra and its applications 26: 123-138.</default>
+<ieee>L. Elsner, “On some algebraic problems in connection with general elgenvalue algorithms”, &lt;em&gt;Linear algebra and its applications&lt;/em&gt;,  vol. 26, 1979,  pp. 123-138.</ieee>
+<mla>Elsner, Ludwig. “On some algebraic problems in connection with general elgenvalue algorithms”. &lt;em&gt;Linear algebra and its applications&lt;/em&gt; 26 (1979): 123-138.</mla>
+<lncs>Elsner, L.: On some algebraic problems in connection with general elgenvalue algorithms. Linear algebra and its applications. 26, 123-138 (1979).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Elsner, L. (1979). On some algebraic problems in connection with general elgenvalue algorithms. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, &lt;em&gt;26&lt;/em&gt;, 123-138.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>L.  Elsner, “On some algebraic problems in connection with general elgenvalue algorithms”, &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, &lt;strong&gt;1979&lt;/strong&gt;, &lt;em&gt;26&lt;/em&gt;, 123-138.</angewandte-chemie>
+<apa>Elsner, L. (1979). On some algebraic problems in connection with general elgenvalue algorithms. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, &lt;em&gt;26&lt;/em&gt;, 123-138.</apa>
+<frontiers>Elsner, L. (1979). On some algebraic problems in connection with general elgenvalue algorithms. &lt;em&gt;Linear algebra and its applications&lt;/em&gt; 26, 123-138.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Elsner, Ludwig. 1979. “On some algebraic problems in connection with general elgenvalue algorithms”. &lt;em&gt;Linear algebra and its applications&lt;/em&gt; 26: 123-138.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780277</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780277</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780277</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

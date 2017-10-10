@@ -1,0 +1,167 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>A new approach for actinic defect inspection of EUVL multilayer mask blanks: Standing wave photoemission electron microscopy</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">U</namePart>
+  <namePart type="family">Neuhäusler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J</namePart>
+  <namePart type="family">Lin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Oelsner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Schicketanz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">D</namePart>
+  <namePart type="family">Valdaitsev</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J</namePart>
+  <namePart type="family">Slieh</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">N</namePart>
+  <namePart type="family">Weber</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Brzeska</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Wonisch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">T</namePart>
+  <namePart type="family">Westerwalbesloh</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Armin</namePart>
+  <namePart type="family">Brechling</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40265</identifier></name>
+<name type="personal">
+  <namePart type="given">H</namePart>
+  <namePart type="family">Bruckl</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Escher</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Merkel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">G</namePart>
+  <namePart type="family">Schonhense</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">U</namePart>
+  <namePart type="family">Kleineberg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ulrich</namePart>
+  <namePart type="family">Heinzmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40276</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33079537</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">29133467</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Extreme ultraviolet lithography (EUVL) at 13.5 nm is the next generation lithography technique capable of printing sub-50 nm structures. With decreasing feature sizes to be printed, the requirements for the lithography mask also become more stringent in terms of defect sizes and densities that are still acceptable and the development of lithography optics has to go along with the development of new mask defect inspection techniques that are fast and offer high resolution (preferable in the range of the minimum feature size) at the same time. We report on the development and experimental results of a new &apos;at wavelength&apos; full-field imaging technique for defect inspection of multilayer mask blanks for EUV lithography. Our approach uses a photoemission electron microscope (PEEM) in a normal incidence illumination mode at 13 nm to image the photoelectron emission induced by the EUV wave field on the multilayer mask blank surface. We show that by these means, buried defects in the multilayer stack can be probed down to a lateral size of 50 nm, which was the smallest pre-defined structure size under study so far. The PEEMs spatial resolution has been proven to be as small as 29 nm edge slope width in measurements with 250 nm radiation. Therefore, the capability of this technique for actinic measurements at 13 nm radiation is anticipated to be well below 50 nm. (c) 2006 Elsevier B.V. All rights reserved.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>EUV lithography</topic><topic>actinic defect inspection</topic><topic>multilayer mask blank</topic><topic>microscopy</topic><topic>photoemission electron</topic>
+</subject>
+
+
+<relatedItem type="host">
+  <identifier type="issn">0167-9317</identifier>
+  <identifier type="ISI">000237581900019</identifier><identifier type="doi">10.1016/j.mee.2005.12.035</identifier>
+<part><detail type="volume"><number>83</number></detail><detail type="issue"><number>4-9</number></detail><extent unit="pages">680-683</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<mla>Neuhäusler, U, Lin, J, Oelsner, A, Schicketanz, M, Valdaitsev, D, Slieh, J, Weber, N, Brzeska, M, Wonisch, A, Westerwalbesloh, T, Brechling, Armin, Bruckl, H, Escher, M, Merkel, M, Schonhense, G, Kleineberg, U, and Heinzmann, Ulrich. “A new approach for actinic defect inspection of EUVL multilayer mask blanks: Standing wave photoemission electron microscopy”., ELSEVIER SCIENCE BV, 2006.</mla>
+<lncs> Neuhäusler, U., Lin, J., Oelsner, A., Schicketanz, M., Valdaitsev, D., Slieh, J., Weber, N., Brzeska, M., Wonisch, A., Westerwalbesloh, T., Brechling, A., Bruckl, H., Escher, M., Merkel, M., Schonhense, G., Kleineberg, U., Heinzmann, U.: A new approach for actinic defect inspection of EUVL multilayer mask blanks: Standing wave photoemission electron microscopy. (2006).</lncs>
+<ieee> U. Neuhäusler, et al., “A new approach for actinic defect inspection of EUVL multilayer mask blanks: Standing wave photoemission electron microscopy”, ELSEVIER SCIENCE BV, 2006.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neuhäusler, U., Lin, J., Oelsner, A., Schicketanz, M., Valdaitsev, D., Slieh, J., Weber, N., et al. (2006). &lt;em&gt;A new approach for actinic defect inspection of EUVL multilayer mask blanks: Standing wave photoemission electron microscopy&lt;/em&gt;. Presented at the .&lt;/div&gt;</apa_indent>
+<frontiers>Neuhäusler, U., Lin, J., Oelsner, A., Schicketanz, M., Valdaitsev, D., Slieh, J., Weber, N., Brzeska, M., Wonisch, A., Westerwalbesloh, T., et al. (2006).“A new approach for actinic defect inspection of EUVL multilayer mask blanks: Standing wave photoemission electron microscopy”.</frontiers>
+<apa>Neuhäusler, U., Lin, J., Oelsner, A., Schicketanz, M., Valdaitsev, D., Slieh, J., Weber, N., et al. (2006). &lt;em&gt;A new approach for actinic defect inspection of EUVL multilayer mask blanks: Standing wave photoemission electron microscopy&lt;/em&gt;. Presented at the .</apa>
+<angewandte-chemie>U.  Neuhäusler, J.  Lin, A.  Oelsner, M.  Schicketanz, D.  Valdaitsev, J.  Slieh, N.  Weber, M.  Brzeska, A.  Wonisch, T.  Westerwalbesloh, et al., Elsevier Science Bv, &lt;strong&gt;2006&lt;/strong&gt;, p. 680-683.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neuhäusler, U, Lin, J, Oelsner, A, Schicketanz, M, Valdaitsev, D, Slieh, J, Weber, N, et al. 2006. “A new approach for actinic defect inspection of EUVL multilayer mask blanks: Standing wave photoemission electron microscopy”. Presented at the , 83:680-683. MICROELECTRONIC ENGINEERING. ELSEVIER SCIENCE BV.&lt;/div&gt;</chicago>
+<aps> U.  Neuhäusler, et al., A new approach for actinic defect inspection of EUVL multilayer mask blanks: Standing wave photoemission electron microscopy, MICROELECTRONIC ENGINEERING, &lt;strong&gt;83&lt;/strong&gt; (ELSEVIER SCIENCE BV, 2006), p. 680-683.</aps>
+<bio1>Neuhäusler U, Lin J, Oelsner A, Schicketanz M, Valdaitsev D, Slieh J, Weber N, Brzeska M, Wonisch A, Westerwalbesloh T, Brechling A, Bruckl H, Escher M, Merkel M, Schonhense G, Kleineberg U, Heinzmann U (2006) &lt;br /&gt;A new approach for actinic defect inspection of EUVL multilayer mask blanks: Standing wave photoemission electron microscopy.</bio1>
+<ama>Neuhäusler U, Lin J, Oelsner A, et al. A new approach for actinic defect inspection of EUVL multilayer mask blanks: Standing wave photoemission electron microscopy.</ama>
+<harvard1>Neuhäusler, U., et al., 2006. A new approach for actinic defect inspection of EUVL multilayer mask blanks: Standing wave photoemission electron microscopy.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neuhäusler, U., Lin, J., Oelsner, A., Schicketanz, M., Valdaitsev, D., Slieh, J., Weber, N., Brzeska, M., Wonisch, A., Westerwalbesloh, T., Brechling, A., Bruckl, H., Escher, M., Merkel, M., Schonhense, G., Kleineberg, U. &amp;amp; Heinzmann, U. (2006). A new approach for actinic defect inspection of EUVL multilayer mask blanks: Standing wave photoemission electron microscopy (MICROELECTRONIC ENGINEERING) (S. 680-683). ELSEVIER SCIENCE BV. doi:10.1016/j.mee.2005.12.035.&lt;/div&gt;</dgps>
+<default>Neuhäusler U, Lin J, Oelsner A, Schicketanz M, Valdaitsev D, Slieh J, Weber N, Brzeska M, Wonisch A, Westerwalbesloh T, Brechling A, et al. (2006) .</default>
+<wels>Neuhäusler, U.; Lin, J.; Oelsner, A.; Schicketanz, M.; Valdaitsev, D.; Slieh, J.; Weber, N.; Brzeska, M.; Wonisch, A.; Westerwalbesloh, T.; Brechling, A.; Bruckl, H.; Escher, M.; Merkel, M.; Schonhense, G.; Kleineberg, U.; Heinzmann, U. (2006): A new approach for actinic defect inspection of EUVL multilayer mask blanks: Standing wave photoemission electron microscopy. ELSEVIER SCIENCE BV. (MICROELECTRONIC ENGINEERING, 83).  S. 680-683.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1599271</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:19:52Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-14T12:16:51Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1599271</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1599271</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

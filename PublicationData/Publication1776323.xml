@@ -1,0 +1,122 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The high-temperature behaviour of lattice QCD with fermions</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Jürgen</namePart>
+  <namePart type="family">Engels</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40338</identifier></name>
+<name type="personal">
+  <namePart type="given">Frithjof</namePart>
+  <namePart type="family">Karsch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40326</identifier></name>
+<name type="personal">
+  <namePart type="given">Helmut</namePart>
+  <namePart type="family">Satz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40339</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Phänomenologie von Schwerionenkollisionen</namePart>
+  <identifier type="unibi">23470601</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Engels_029.pdf">https://pub.uni-bielefeld.de/download/1776323/2312145</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1982</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Physics Letters, B</title></titleInfo>
+  <identifier type="issn">0370-2693</identifier>
+  <identifier type="INSPIRE">176931</identifier>
+  <identifier type="ISI">A1982NX07600012</identifier><identifier type="urn">urn:nbn:de:0070-pub-17763237</identifier><identifier type="doi">10.1016/0370-2693(82)90773-0</identifier>
+<part><detail type="volume"><number>113</number></detail><detail type="issue"><number>5</number></detail><extent unit="pages">398-404</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<lncs>Engels, J., Karsch, F., Satz, H.: The high-temperature behaviour of lattice QCD with fermions. Physics Letters, B. 113, 398-404 (1982).</lncs>
+<mla>Engels, Jürgen, Karsch, Frithjof, and Satz, Helmut. “The high-temperature behaviour of lattice QCD with fermions”. &lt;em&gt;Physics Letters, B&lt;/em&gt; 113.5 (1982): 398-404.</mla>
+<ieee>J. Engels, F. Karsch, and H. Satz, “The high-temperature behaviour of lattice QCD with fermions”, &lt;em&gt;Physics Letters, B&lt;/em&gt;,  vol. 113, 1982,  pp. 398-404.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, J., Karsch, F., &amp;amp; Satz, H. (1982). The high-temperature behaviour of lattice QCD with fermions. &lt;em&gt;Physics Letters, B&lt;/em&gt;, &lt;em&gt;113&lt;/em&gt;(5), 398-404.&lt;/div&gt;</apa_indent>
+<frontiers>Engels, J., Karsch, F., and Satz, H. (1982). The high-temperature behaviour of lattice QCD with fermions. &lt;em&gt;Physics Letters, B&lt;/em&gt; 113, 398-404.</frontiers>
+<apa>Engels, J., Karsch, F., &amp;amp; Satz, H. (1982). The high-temperature behaviour of lattice QCD with fermions. &lt;em&gt;Physics Letters, B&lt;/em&gt;, &lt;em&gt;113&lt;/em&gt;(5), 398-404.</apa>
+<angewandte-chemie>J.  Engels, F.  Karsch, and H.  Satz, “The high-temperature behaviour of lattice QCD with fermions”, &lt;em&gt;Physics Letters, B&lt;/em&gt;, &lt;strong&gt;1982&lt;/strong&gt;, &lt;em&gt;113&lt;/em&gt;, 398-404.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, Jürgen, Karsch, Frithjof, and Satz, Helmut. 1982. “The high-temperature behaviour of lattice QCD with fermions”. &lt;em&gt;Physics Letters, B&lt;/em&gt; 113 (5): 398-404.&lt;/div&gt;</chicago>
+<bio1>Engels J, Karsch F, Satz H (1982) &lt;br /&gt;The high-temperature behaviour of lattice QCD with fermions.&lt;br /&gt;Physics Letters, B 113(5): 398-404.</bio1>
+<aps>J.  Engels, F.  Karsch, and H.  Satz, The high-temperature behaviour of lattice QCD with fermions, Physics Letters, B &lt;strong&gt;113&lt;/strong&gt;, 398-404 (1982).</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, J., Karsch, F. &amp;amp; Satz, H. (1982). The high-temperature behaviour of lattice QCD with fermions. &lt;em&gt;Physics Letters, B&lt;/em&gt;, &lt;em&gt;113&lt;/em&gt;(5), 398-404. doi:10.1016/0370-2693(82)90773-0.&lt;/div&gt;</dgps>
+<harvard1>Engels, J., Karsch, F., &amp;amp; Satz, H., 1982. The high-temperature behaviour of lattice QCD with fermions. &lt;em&gt;Physics Letters, B&lt;/em&gt;, 113(5), p 398-404.</harvard1>
+<ama>Engels J, Karsch F, Satz H. The high-temperature behaviour of lattice QCD with fermions. &lt;em&gt;Physics Letters, B&lt;/em&gt;. 1982;113(5):398-404.</ama>
+<default>Engels J, Karsch F, Satz H (1982) &lt;br /&gt;Physics Letters, B 113(5): 398-404.</default>
+<wels>Engels, J.; Karsch, F.; Satz, H. (1982): The high-temperature behaviour of lattice QCD with fermions &lt;em&gt;Physics Letters, B&lt;/em&gt;,113:(5): 398-404.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776323</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776323</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776323</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

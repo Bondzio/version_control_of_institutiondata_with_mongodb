@@ -1,0 +1,132 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Paralog of the formylglycine-generating enzyme - retention in the endoplasmic reticulum by canonical and noncanonical signals</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Santosh Lakshmi</namePart>
+  <namePart type="family">Gande</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Malaiyalam</namePart>
+  <namePart type="family">Mariappan</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Bernhard</namePart>
+  <namePart type="family">Schmidt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Thomas H.</namePart>
+  <namePart type="family">Pringle</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Kurt</namePart>
+  <namePart type="family">von Figura</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Thomas</namePart>
+  <namePart type="family">Dierks</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">140658</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Biochemie und Biotechnik</namePart>
+  <identifier type="unibi">4838684</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  T. Dierks</namePart>
+  <identifier type="unibi">33086409</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Biochemie I</namePart>
+  <identifier type="unibi">17967</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Formylglycine-generating enzyme (FGE) catalyzes in newly synthesized sulfatases the oxidation of a specific cysteine residue to formylglycine, which is the catalytic residue required for sulfate ester hydrolysis. This post-translational modification occurs in the endoplasmic reticulum (ER), and is an essential step in the biogenesis of this enzyme family. A paralog of FGE (pFGE) also localizes to the ER. It shares many properties with FGE, but lacks formylglycine-generating activity. There is evidence that FGE and pFGE act in concert, possibly by forming complexes with sulfatases and one another. Here we show that human pFGE, but not FGE, is retained in the ER through its C-terminal tetrapeptide PGEL, a noncanonical variant of the classic KDEL ER-retention signal. Surprisingly, PGEL, although having two nonconsensus residues (PG), confers efficient ER retention when fused to a secretory protein. Inducible coexpression of pFGE at different levels in FGE-expressing cells did not significantly influence the kinetics of FGE secretion, suggesting that pFGE is not a retention factor for FGE in vivo. PGEL is accessible at the surface of the pFGE structure. It is found in 21 mammalian species with available pFGE sequences. Other species carry either canonical signals (eight mammals and 26 nonmammals) or different noncanonical variants (six mammals and six nonmammals). Among the latter, SGEL was tested and found to also confer ER retention. Although evolutionarily conserved for mammalian pFGE, the PGEL signal is found only in one further human protein entering the ER. Its consequences for KDEL receptor-mediated ER retrieval and benefit for pFGE functionality remain to be fully resolved.</abstract>
+
+<originInfo><publisher>BLACKWELL PUBLISHING</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>endoplasmic reticulum</topic><topic>protein retention</topic><topic>KDEL receptor</topic><topic>formylglycine-generating enzyme</topic><topic>SUMF2</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>FEBS JOURNAL</title></titleInfo>
+  <identifier type="issn">1742-464X</identifier>
+  <identifier type="MEDLINE">18266766</identifier>
+  <identifier type="ISI">000253758200007</identifier><identifier type="doi">10.1111/j.1742-4658.2008.06271.x</identifier>
+<part><detail type="volume"><number>275</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">1118-1130</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Gande, S. L., Mariappan, M., Schmidt, B., Pringle, T. H., von Figura, K., and Dierks, T. (2008). Paralog of the formylglycine-generating enzyme - retention in the endoplasmic reticulum by canonical and noncanonical signals. &lt;em&gt;FEBS JOURNAL&lt;/em&gt; 275, 1118-1130.</frontiers>
+<angewandte-chemie>S. L.  Gande, M.  Mariappan, B.  Schmidt, T. H.  Pringle, K.  von Figura, and T.  Dierks, “Paralog of the formylglycine-generating enzyme - retention in the endoplasmic reticulum by canonical and noncanonical signals”, &lt;em&gt;FEBS JOURNAL&lt;/em&gt;, &lt;strong&gt;2008&lt;/strong&gt;, &lt;em&gt;275&lt;/em&gt;, 1118-1130.</angewandte-chemie>
+<apa>Gande, S. L., Mariappan, M., Schmidt, B., Pringle, T. H., von Figura, K., &amp;amp; Dierks, T. (2008). Paralog of the formylglycine-generating enzyme - retention in the endoplasmic reticulum by canonical and noncanonical signals. &lt;em&gt;FEBS JOURNAL&lt;/em&gt;, &lt;em&gt;275&lt;/em&gt;(6), 1118-1130.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gande, Santosh Lakshmi, Mariappan, Malaiyalam, Schmidt, Bernhard, Pringle, Thomas H., von Figura, Kurt, and Dierks, Thomas. 2008. “Paralog of the formylglycine-generating enzyme - retention in the endoplasmic reticulum by canonical and noncanonical signals”. &lt;em&gt;FEBS JOURNAL&lt;/em&gt; 275 (6): 1118-1130.&lt;/div&gt;</chicago>
+<mla>Gande, Santosh Lakshmi, Mariappan, Malaiyalam, Schmidt, Bernhard, Pringle, Thomas H., von Figura, Kurt, and Dierks, Thomas. “Paralog of the formylglycine-generating enzyme - retention in the endoplasmic reticulum by canonical and noncanonical signals”. &lt;em&gt;FEBS JOURNAL&lt;/em&gt; 275.6 (2008): 1118-1130.</mla>
+<lncs>Gande, S.L., Mariappan, M., Schmidt, B., Pringle, T.H., von Figura, K., Dierks, T.: Paralog of the formylglycine-generating enzyme - retention in the endoplasmic reticulum by canonical and noncanonical signals. FEBS JOURNAL. 275, 1118-1130 (2008).</lncs>
+<ieee>S.L. Gande, et al., “Paralog of the formylglycine-generating enzyme - retention in the endoplasmic reticulum by canonical and noncanonical signals”, &lt;em&gt;FEBS JOURNAL&lt;/em&gt;,  vol. 275, 2008,  pp. 1118-1130.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gande, S. L., Mariappan, M., Schmidt, B., Pringle, T. H., von Figura, K., &amp;amp; Dierks, T. (2008). Paralog of the formylglycine-generating enzyme - retention in the endoplasmic reticulum by canonical and noncanonical signals. &lt;em&gt;FEBS JOURNAL&lt;/em&gt;, &lt;em&gt;275&lt;/em&gt;(6), 1118-1130.&lt;/div&gt;</apa_indent>
+<default>Gande SL, Mariappan M, Schmidt B, Pringle TH, von Figura K, Dierks T (2008) &lt;br /&gt;FEBS JOURNAL 275(6): 1118-1130.</default>
+<wels>Gande, S. L.; Mariappan, M.; Schmidt, B.; Pringle, T. H.; von Figura, K.; Dierks, T. (2008): Paralog of the formylglycine-generating enzyme - retention in the endoplasmic reticulum by canonical and noncanonical signals &lt;em&gt;FEBS JOURNAL&lt;/em&gt;,275:(6): 1118-1130.</wels>
+<aps>S. L.  Gande, et al., Paralog of the formylglycine-generating enzyme - retention in the endoplasmic reticulum by canonical and noncanonical signals, FEBS JOURNAL &lt;strong&gt;275&lt;/strong&gt;, 1118-1130 (2008).</aps>
+<bio1>Gande SL, Mariappan M, Schmidt B, Pringle TH, von Figura K, Dierks T (2008) &lt;br /&gt;Paralog of the formylglycine-generating enzyme - retention in the endoplasmic reticulum by canonical and noncanonical signals.&lt;br /&gt;FEBS JOURNAL 275(6): 1118-1130.</bio1>
+<ama>Gande SL, Mariappan M, Schmidt B, Pringle TH, von Figura K, Dierks T. Paralog of the formylglycine-generating enzyme - retention in the endoplasmic reticulum by canonical and noncanonical signals. &lt;em&gt;FEBS JOURNAL&lt;/em&gt;. 2008;275(6):1118-1130.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gande, S.L., Mariappan, M., Schmidt, B., Pringle, T.H., von Figura, K. &amp;amp; Dierks, T. (2008). Paralog of the formylglycine-generating enzyme - retention in the endoplasmic reticulum by canonical and noncanonical signals. &lt;em&gt;FEBS JOURNAL&lt;/em&gt;, &lt;em&gt;275&lt;/em&gt;(6), 1118-1130. BLACKWELL PUBLISHING. doi:10.1111/j.1742-4658.2008.06271.x.&lt;/div&gt;</dgps>
+<harvard1>Gande, S.L., et al., 2008. Paralog of the formylglycine-generating enzyme - retention in the endoplasmic reticulum by canonical and noncanonical signals. &lt;em&gt;FEBS JOURNAL&lt;/em&gt;, 275(6), p 1118-1130.</harvard1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1592488</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T11:50:38Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-12-06T23:24:21Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1592488</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1592488</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

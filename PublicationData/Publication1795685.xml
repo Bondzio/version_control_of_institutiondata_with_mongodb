@@ -1,0 +1,104 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Parsimonious Classification Via Generalized Linear Mixed Models</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Göran</namePart>
+  <namePart type="family">Kauermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">91009</identifier></name>
+<name type="personal">
+  <namePart type="given">J. T.</namePart>
+  <namePart type="family">Ormerod</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M. P.</namePart>
+  <namePart type="family">Wand</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Wirtschaftswissenschaften</namePart>
+  <identifier type="unibi">10031</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We devise a classification algorithm based on generalized linear mixed model (GLMM) technology. The algorithm incorporates spline smoothing, additive model-type structures and model selection. For reasons of speed we employ the Laplace approximation, rather than Monte Carlo methods. Tests on real and simulated data show the algorithm to have good classification performance. Moreover, the resulting classifiers are generally interpretable and parsimonious.</abstract>
+
+<originInfo><publisher>Springer Science + Business Media</publisher><dateIssued encoding="w3cdtf">2010</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Generalized additive</topic><topic>models</topic><topic>Penalized splines</topic><topic>Supervised learning</topic><topic>Model selection</topic><topic>Rao</topic><topic>statistics</topic><topic>Variance components</topic><topic>Akaike Information Criterion</topic><topic>Feature selection</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF CLASSIFICATION</title></titleInfo>
+  <identifier type="issn">0176-4268</identifier>
+  <identifier type="eIssn">1432-1343</identifier>
+  <identifier type="ISI">000278094600005</identifier><identifier type="doi">10.1007/s00357-010-9045-9</identifier>
+<part><detail type="volume"><number>27</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">89-110</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>Kauermann G, Ormerod JT, Wand MP (2010) &lt;br /&gt;Parsimonious Classification Via Generalized Linear Mixed Models.&lt;br /&gt;JOURNAL OF CLASSIFICATION 27(1): 89-110.</bio1>
+<aps>G.  Kauermann, J. T.  Ormerod, and M. P.  Wand, Parsimonious Classification Via Generalized Linear Mixed Models, JOURNAL OF CLASSIFICATION &lt;strong&gt;27&lt;/strong&gt;, 89-110 (2010).</aps>
+<ama>Kauermann G, Ormerod JT, Wand MP. Parsimonious Classification Via Generalized Linear Mixed Models. &lt;em&gt;JOURNAL OF CLASSIFICATION&lt;/em&gt;. 2010;27(1):89-110.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kauermann, G., Ormerod, J.T. &amp;amp; Wand, M.P. (2010). Parsimonious Classification Via Generalized Linear Mixed Models. &lt;em&gt;JOURNAL OF CLASSIFICATION&lt;/em&gt;, &lt;em&gt;27&lt;/em&gt;(1), 89-110. Springer Science + Business Media. doi:10.1007/s00357-010-9045-9.&lt;/div&gt;</dgps>
+<harvard1>Kauermann, G., Ormerod, J.T., &amp;amp; Wand, M.P., 2010. Parsimonious Classification Via Generalized Linear Mixed Models. &lt;em&gt;JOURNAL OF CLASSIFICATION&lt;/em&gt;, 27(1), p 89-110.</harvard1>
+<default>Kauermann G, Ormerod JT, Wand MP (2010) &lt;br /&gt;JOURNAL OF CLASSIFICATION 27(1): 89-110.</default>
+<wels>Kauermann, G.; Ormerod, J. T.; Wand, M. P. (2010): Parsimonious Classification Via Generalized Linear Mixed Models &lt;em&gt;JOURNAL OF CLASSIFICATION&lt;/em&gt;,27:(1): 89-110.</wels>
+<mla>Kauermann, Göran, Ormerod, J. T., and Wand, M. P. “Parsimonious Classification Via Generalized Linear Mixed Models”. &lt;em&gt;JOURNAL OF CLASSIFICATION&lt;/em&gt; 27.1 (2010): 89-110.</mla>
+<lncs>Kauermann, G., Ormerod, J.T., Wand, M.P.: Parsimonious Classification Via Generalized Linear Mixed Models. JOURNAL OF CLASSIFICATION. 27, 89-110 (2010).</lncs>
+<ieee>G. Kauermann, J.T. Ormerod, and M.P. Wand, “Parsimonious Classification Via Generalized Linear Mixed Models”, &lt;em&gt;JOURNAL OF CLASSIFICATION&lt;/em&gt;,  vol. 27, 2010,  pp. 89-110.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kauermann, G., Ormerod, J. T., &amp;amp; Wand, M. P. (2010). Parsimonious Classification Via Generalized Linear Mixed Models. &lt;em&gt;JOURNAL OF CLASSIFICATION&lt;/em&gt;, &lt;em&gt;27&lt;/em&gt;(1), 89-110.&lt;/div&gt;</apa_indent>
+<frontiers>Kauermann, G., Ormerod, J. T., and Wand, M. P. (2010). Parsimonious Classification Via Generalized Linear Mixed Models. &lt;em&gt;JOURNAL OF CLASSIFICATION&lt;/em&gt; 27, 89-110.</frontiers>
+<angewandte-chemie>G.  Kauermann, J. T.  Ormerod, and M. P.  Wand, “Parsimonious Classification Via Generalized Linear Mixed Models”, &lt;em&gt;JOURNAL OF CLASSIFICATION&lt;/em&gt;, &lt;strong&gt;2010&lt;/strong&gt;, &lt;em&gt;27&lt;/em&gt;, 89-110.</angewandte-chemie>
+<apa>Kauermann, G., Ormerod, J. T., &amp;amp; Wand, M. P. (2010). Parsimonious Classification Via Generalized Linear Mixed Models. &lt;em&gt;JOURNAL OF CLASSIFICATION&lt;/em&gt;, &lt;em&gt;27&lt;/em&gt;(1), 89-110.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kauermann, Göran, Ormerod, J. T., and Wand, M. P. 2010. “Parsimonious Classification Via Generalized Linear Mixed Models”. &lt;em&gt;JOURNAL OF CLASSIFICATION&lt;/em&gt; 27 (1): 89-110.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1795685</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-10-14T09:03:42Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-05T11:13:20Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1795685</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1795685</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

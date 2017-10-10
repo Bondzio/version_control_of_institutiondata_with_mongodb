@@ -1,0 +1,140 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Adaptive scene dependent filters for segmentation and online learning of visual objects</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Jochen J.</namePart>
+  <namePart type="family">Steil</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11608</identifier></name>
+<name type="personal">
+  <namePart type="given">Michael</namePart>
+  <namePart type="family">Götting</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">93780</identifier></name>
+<name type="personal">
+  <namePart type="given">Heiko</namePart>
+  <namePart type="family">Wersing</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">54878447</identifier></name>
+<name type="personal">
+  <namePart type="given">Edgar</namePart>
+  <namePart type="family">Körner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Helge</namePart>
+  <namePart type="family">Ritter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">91130</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Technische Fakultät</namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Externe Lehrende TechFak</namePart>
+  <identifier type="unibi">21072</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Neuroinformatik</namePart>
+  <identifier type="unibi">10038</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Institute for Cognition and Robotics</namePart>
+  <identifier type="unibi">5408013</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="preprint.pdf">https://pub.uni-bielefeld.de/download/1594761/2295218</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Elsevier Science Ltd</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>visual online learning</topic><topic>unsupervised image segmentation</topic><topic>quantization</topic><topic>object recognition</topic><topic>human-machine</topic><topic>cognitive vision</topic><topic>interaction</topic><topic>vector</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Neurocomputing</title></titleInfo>
+  <identifier type="issn">0925-2312</identifier>
+  <identifier type="ISI">000245581600013</identifier><identifier type="urn">urn:nbn:de:0070-pub-15947612</identifier><identifier type="doi">10.1016/j.neucom.2006.11.020</identifier>
+<part><detail type="volume"><number>70</number></detail><detail type="issue"><number>7-9</number></detail><extent unit="pages">1235-1246</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Steil, J. J.; Götting, M.; Wersing, H.; Körner, E.; Ritter, H. (2007): Adaptive scene dependent filters for segmentation and online learning of visual objects &lt;em&gt;Neurocomputing&lt;/em&gt;,70:(7-9): 1235-1246.</wels>
+<default>Steil JJ, Götting M, Wersing H, Körner E, Ritter H (2007) &lt;br /&gt;Neurocomputing 70(7-9): 1235-1246.</default>
+<ama>Steil JJ, Götting M, Wersing H, Körner E, Ritter H. Adaptive scene dependent filters for segmentation and online learning of visual objects. &lt;em&gt;Neurocomputing&lt;/em&gt;. 2007;70(7-9):1235-1246.</ama>
+<harvard1>Steil, J.J., et al., 2007. Adaptive scene dependent filters for segmentation and online learning of visual objects. &lt;em&gt;Neurocomputing&lt;/em&gt;, 70(7-9), p 1235-1246.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Steil, J.J., Götting, M., Wersing, H., Körner, E. &amp;amp; Ritter, H. (2007). Adaptive scene dependent filters for segmentation and online learning of visual objects. &lt;em&gt;Neurocomputing&lt;/em&gt;, &lt;em&gt;70&lt;/em&gt;(7-9), 1235-1246. Elsevier Science Ltd. doi:10.1016/j.neucom.2006.11.020.&lt;/div&gt;</dgps>
+<aps>J. J.  Steil, et al., Adaptive scene dependent filters for segmentation and online learning of visual objects, Neurocomputing &lt;strong&gt;70&lt;/strong&gt;, 1235-1246 (2007).</aps>
+<bio1>Steil JJ, Götting M, Wersing H, Körner E, Ritter H (2007) &lt;br /&gt;Adaptive scene dependent filters for segmentation and online learning of visual objects.&lt;br /&gt;Neurocomputing 70(7-9): 1235-1246.</bio1>
+<angewandte-chemie>J. J.  Steil, M.  Götting, H.  Wersing, E.  Körner, and H.  Ritter, “Adaptive scene dependent filters for segmentation and online learning of visual objects”, &lt;em&gt;Neurocomputing&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;70&lt;/em&gt;, 1235-1246.</angewandte-chemie>
+<apa>Steil, J. J., Götting, M., Wersing, H., Körner, E., &amp;amp; Ritter, H. (2007). Adaptive scene dependent filters for segmentation and online learning of visual objects. &lt;em&gt;Neurocomputing&lt;/em&gt;, &lt;em&gt;70&lt;/em&gt;(7-9), 1235-1246.</apa>
+<frontiers>Steil, J. J., Götting, M., Wersing, H., Körner, E., and Ritter, H. (2007). Adaptive scene dependent filters for segmentation and online learning of visual objects. &lt;em&gt;Neurocomputing&lt;/em&gt; 70, 1235-1246.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Steil, Jochen J., Götting, Michael, Wersing, Heiko, Körner, Edgar, and Ritter, Helge. 2007. “Adaptive scene dependent filters for segmentation and online learning of visual objects”. &lt;em&gt;Neurocomputing&lt;/em&gt; 70 (7-9): 1235-1246.&lt;/div&gt;</chicago>
+<ieee>J.J. Steil, et al., “Adaptive scene dependent filters for segmentation and online learning of visual objects”, &lt;em&gt;Neurocomputing&lt;/em&gt;,  vol. 70, 2007,  pp. 1235-1246.</ieee>
+<mla>Steil, Jochen J., Götting, Michael, Wersing, Heiko, Körner, Edgar, and Ritter, Helge. “Adaptive scene dependent filters for segmentation and online learning of visual objects”. &lt;em&gt;Neurocomputing&lt;/em&gt; 70.7-9 (2007): 1235-1246.</mla>
+<lncs>Steil, J.J., Götting, M., Wersing, H., Körner, E., Ritter, H.: Adaptive scene dependent filters for segmentation and online learning of visual objects. Neurocomputing. 70, 1235-1246 (2007).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Steil, J. J., Götting, M., Wersing, H., Körner, E., &amp;amp; Ritter, H. (2007). Adaptive scene dependent filters for segmentation and online learning of visual objects. &lt;em&gt;Neurocomputing&lt;/em&gt;, &lt;em&gt;70&lt;/em&gt;(7-9), 1235-1246.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1594761</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:24Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2015-02-23T11:55:54Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1594761</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1594761</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

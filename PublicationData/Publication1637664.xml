@@ -1,0 +1,99 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Relativistic quantum events</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Philippe</namePart>
+  <namePart type="family">Blanchard</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40322</identifier></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Jadczyk</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Mathematische Physik</namePart>
+  <identifier type="unibi">29104678</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Standard quantum theory is inadequate to explain the mechanisms by which potential becomes actual. It is inadequate and therefore unable to describe generation of events. Niels Bohr emphasized long ago that the classical part of the world is necessary. John Bell stressed the same point: that &apos;&apos;measurement&apos;&apos; cannot even be defined within the standard quantum theory, and he sought a solution within hidden variable theories and his concept of &apos;&apos;beables.&apos;&apos; Today it is customary to try to explain emergence of the classical world through a decoherence mechanism due to &apos;&apos;environment.&apos;&apos; But we believe, as it was with the concept of measurement, &apos;&apos;environment&apos;&apos; itself cannot be defined within the standard quantum theory. We have proposed a semiphenomenological solution to this problem by introducing explicitly, from the very beginning, classical degrees of freedom, and by coupling these degrees of freedom, through a Lindblad type coupling, to the quantum world. The resulting theory, we call &apos;&apos;event-enhanced quantum theory.&apos;&apos; EEQT allows us to describe an event-generating mechanism for individual quantum systems under continuous observation. The objections of John Bell are met and precise definitions of an &apos;&apos;experiment&apos;&apos; and of a &apos;&apos;measurement&apos;&apos; have been given within EEQT. However EEQT is, essentially, a nonrelativistic theory. In the present paper we extend the ideas of L. P. Horwitz and C. Piron and we propose a relativistic version of EEQT, with an event-generating algorithm for spin one-half particle detectors. The algorithm is based on proper time formulation of the relativistic quantum theory. Although we use indefinite metric, all the probabilities controlling the random process of the detector clicks are non-negative.</abstract>
+
+<originInfo><publisher>PLENUM PUBL CORP</publisher><dateIssued encoding="w3cdtf">1996</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>FOUNDATIONS OF PHYSICS</title></titleInfo>
+  <identifier type="issn">0015-9018</identifier>
+  <identifier type="eIssn">1572-9516</identifier>
+  <identifier type="INSPIRE">424827</identifier>
+  <identifier type="ISI">A1996WQ14700009</identifier><identifier type="doi">10.1007/BF02282128</identifier>
+<part><detail type="volume"><number>26</number></detail><detail type="issue"><number>12</number></detail><extent unit="pages">1669-1681</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<angewandte-chemie>P.  Blanchard, and A.  Jadczyk, “Relativistic quantum events”, &lt;em&gt;FOUNDATIONS OF PHYSICS&lt;/em&gt;, &lt;strong&gt;1996&lt;/strong&gt;, &lt;em&gt;26&lt;/em&gt;, 1669-1681.</angewandte-chemie>
+<apa>Blanchard, P., &amp;amp; Jadczyk, A. (1996). Relativistic quantum events. &lt;em&gt;FOUNDATIONS OF PHYSICS&lt;/em&gt;, &lt;em&gt;26&lt;/em&gt;(12), 1669-1681.</apa>
+<frontiers>Blanchard, P., and Jadczyk, A. (1996). Relativistic quantum events. &lt;em&gt;FOUNDATIONS OF PHYSICS&lt;/em&gt; 26, 1669-1681.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Blanchard, Philippe, and Jadczyk, A. 1996. “Relativistic quantum events”. &lt;em&gt;FOUNDATIONS OF PHYSICS&lt;/em&gt; 26 (12): 1669-1681.&lt;/div&gt;</chicago>
+<ieee>P. Blanchard and A. Jadczyk, “Relativistic quantum events”, &lt;em&gt;FOUNDATIONS OF PHYSICS&lt;/em&gt;,  vol. 26, 1996,  pp. 1669-1681.</ieee>
+<lncs>Blanchard, P., Jadczyk, A.: Relativistic quantum events. FOUNDATIONS OF PHYSICS. 26, 1669-1681 (1996).</lncs>
+<mla>Blanchard, Philippe, and Jadczyk, A. “Relativistic quantum events”. &lt;em&gt;FOUNDATIONS OF PHYSICS&lt;/em&gt; 26.12 (1996): 1669-1681.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Blanchard, P., &amp;amp; Jadczyk, A. (1996). Relativistic quantum events. &lt;em&gt;FOUNDATIONS OF PHYSICS&lt;/em&gt;, &lt;em&gt;26&lt;/em&gt;(12), 1669-1681.&lt;/div&gt;</apa_indent>
+<wels>Blanchard, P.; Jadczyk, A. (1996): Relativistic quantum events &lt;em&gt;FOUNDATIONS OF PHYSICS&lt;/em&gt;,26:(12): 1669-1681.</wels>
+<default>Blanchard P, Jadczyk A (1996) &lt;br /&gt;FOUNDATIONS OF PHYSICS 26(12): 1669-1681.</default>
+<harvard1>Blanchard, P., &amp;amp; Jadczyk, A., 1996. Relativistic quantum events. &lt;em&gt;FOUNDATIONS OF PHYSICS&lt;/em&gt;, 26(12), p 1669-1681.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Blanchard, P. &amp;amp; Jadczyk, A. (1996). Relativistic quantum events. &lt;em&gt;FOUNDATIONS OF PHYSICS&lt;/em&gt;, &lt;em&gt;26&lt;/em&gt;(12), 1669-1681. PLENUM PUBL CORP. doi:10.1007/BF02282128.&lt;/div&gt;</dgps>
+<ama>Blanchard P, Jadczyk A. Relativistic quantum events. &lt;em&gt;FOUNDATIONS OF PHYSICS&lt;/em&gt;. 1996;26(12):1669-1681.</ama>
+<aps>P.  Blanchard and A.  Jadczyk, Relativistic quantum events, FOUNDATIONS OF PHYSICS &lt;strong&gt;26&lt;/strong&gt;, 1669-1681 (1996).</aps>
+<bio1>Blanchard P, Jadczyk A (1996) &lt;br /&gt;Relativistic quantum events.&lt;br /&gt;FOUNDATIONS OF PHYSICS 26(12): 1669-1681.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1637664</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:14:18Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-17T14:24:47Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1637664</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1637664</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

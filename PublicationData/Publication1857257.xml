@@ -1,0 +1,93 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Einleitung: Science Fiction als ästhetisches Versuchslabor der Gesellschaft</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Jan Arendt</namePart>
+  <namePart type="family">Fuhse</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">14968729</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Jan Arendt</namePart><namePart type="family">Fuhse</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">5656050</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Lit-Verl.</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+<relatedItem type="host"><location><url>http://www.janfuhse.de/SciFi_Einleitung.pdf</url></location></relatedItem>
+
+<relatedItem type="host"><titleInfo><title>Technik und Gesellschaft in der Science Fiction</title></titleInfo>
+  <identifier type="isbn">978-3-8258-1585-1</identifier>
+<part><detail type="volume"><number>9</number></detail><extent unit="pages">6-18</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<angewandte-chemie>J. A.  Fuhse, in &lt;em&gt;Technik und Gesellschaft in der Science Fiction&lt;/em&gt; (Ed.: J.A. Fuhse), Lit-Verl., Berlin, &lt;strong&gt;2008&lt;/strong&gt;, p. 6-18.</angewandte-chemie>
+<apa>Fuhse, J. A. (2008). Einleitung: Science Fiction als ästhetisches Versuchslabor der Gesellschaft. In J. A.  Fuhse (Ed.), &lt;em&gt;Kultur und Technik: Vol. 9&lt;/em&gt;&lt;em&gt;. Technik und Gesellschaft in der Science Fiction&lt;/em&gt; (pp. 6-18). Berlin: Lit-Verl.</apa>
+<frontiers>Fuhse, J. A. (2008). “Einleitung: Science Fiction als ästhetisches Versuchslabor der Gesellschaft” in &lt;em&gt;Technik und Gesellschaft in der Science Fiction&lt;/em&gt;, Fuhse, J. A. ed. Kultur und Technik, vol. 9, (Berlin: Lit-Verl.), 6-18.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fuhse, Jan Arendt. 2008. “Einleitung: Science Fiction als ästhetisches Versuchslabor der Gesellschaft”. In &lt;em&gt;Technik und Gesellschaft in der Science Fiction&lt;/em&gt;, ed. Jan Arendt Fuhse, 9:6-18. Kultur und Technik. Berlin: Lit-Verl.&lt;/div&gt;</chicago>
+<ieee> J.A. Fuhse, “Einleitung: Science Fiction als ästhetisches Versuchslabor der Gesellschaft”, &lt;em&gt;Technik und Gesellschaft in der Science Fiction&lt;/em&gt;, J.A. Fuhse, ed., Kultur und Technik, vol. 9,  Berlin: Lit-Verl., 2008,  pp.6-18.</ieee>
+<mla>Fuhse, Jan Arendt. “Einleitung: Science Fiction als ästhetisches Versuchslabor der Gesellschaft”. &lt;em&gt;Technik und Gesellschaft in der Science Fiction&lt;/em&gt;. Ed. Jan Arendt Fuhse. Berlin: Lit-Verl., 2008.Vol. 9. Kultur und Technik. 6-18.</mla>
+<lncs> Fuhse, J.A.: Einleitung: Science Fiction als ästhetisches Versuchslabor der Gesellschaft. In: Fuhse, J.A. (ed.) Technik und Gesellschaft in der Science Fiction. Kultur und Technik. 9, p. 6-18. Lit-Verl., Berlin (2008).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fuhse, J. A. (2008). Einleitung: Science Fiction als ästhetisches Versuchslabor der Gesellschaft. In J. A.  Fuhse (Ed.), &lt;em&gt;Kultur und Technik: Vol. 9&lt;/em&gt;&lt;em&gt;. Technik und Gesellschaft in der Science Fiction&lt;/em&gt; (pp. 6-18). Berlin: Lit-Verl.&lt;/div&gt;</apa_indent>
+<wels>Fuhse, J. A. (2008): Einleitung: Science Fiction als ästhetisches Versuchslabor der Gesellschaft. In: Jan Arendt Fuhse (Hrsg.):  Technik und Gesellschaft in der Science Fiction. Berlin: Lit-Verl. (Kultur und Technik, 9).  S. 6-18.</wels>
+<default>Fuhse JA (2008)  &lt;br /&gt;In:  Technik und Gesellschaft in der Science Fiction. Fuhse JA (Ed); Kultur und Technik, 9. Berlin: Lit-Verl.:  6-18.</default>
+<ama>Fuhse JA. Einleitung: Science Fiction als ästhetisches Versuchslabor der Gesellschaft. In: Fuhse JA, ed. &lt;em&gt;Technik und Gesellschaft in der Science Fiction&lt;/em&gt;. Kultur und Technik. Vol 9. Berlin: Lit-Verl.;  2008: 6-18.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fuhse, J.A. (2008). Einleitung: Science Fiction als ästhetisches Versuchslabor der Gesellschaft (Kultur und Technik). &lt;em&gt;Technik und Gesellschaft in der Science Fiction&lt;/em&gt; (S. 6-18). Berlin: Lit-Verl.&lt;/div&gt;</dgps>
+<harvard1>Fuhse, J.A., 2008. Einleitung: Science Fiction als ästhetisches Versuchslabor der Gesellschaft. In J. A.  Fuhse, ed. &lt;em&gt;Technik und Gesellschaft in der Science Fiction&lt;/em&gt;. Kultur und Technik. no.9  Berlin: Lit-Verl., pp. 6-18.</harvard1>
+<aps> J. A.  Fuhse, Einleitung: Science Fiction als ästhetisches Versuchslabor der Gesellschaft, in &lt;em&gt;Technik und Gesellschaft in der Science Fiction&lt;/em&gt;, edited by J. A.  Fuhse, Kultur und Technik, &lt;strong&gt;9&lt;/strong&gt; (Lit-Verl., Berlin, 2008), p. 6-18.</aps>
+<bio1>Fuhse JA (2008) &lt;br /&gt;Einleitung: Science Fiction als ästhetisches Versuchslabor der Gesellschaft. &lt;br /&gt;In:  Technik und Gesellschaft in der Science Fiction. Fuhse JA (Ed); Kultur und Technik, 9. Berlin: Lit-Verl.:  6-18.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1857257</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-08-04T09:30:51Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-08-04T09:30:51Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1857257</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1857257</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,136 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>A new type of metalloprotein: The mo storage protein from Azotobacter vinelandii contains a polynuclear molybdenum-oxide cluster</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Dieter</namePart>
+  <namePart type="family">Fenske</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M.</namePart>
+  <namePart type="family">Gnida</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Klaus</namePart>
+  <namePart type="family">Schneider</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">179483</identifier></name>
+<name type="personal">
+  <namePart type="given">W.</namePart>
+  <namePart type="family">Meyer-Klaucke</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Joerg</namePart>
+  <namePart type="family">Schemberg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">V.</namePart>
+  <namePart type="family">Henschel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A. K.</namePart>
+  <namePart type="family">Meyer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A.</namePart>
+  <namePart type="family">Knochel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Achim</namePart>
+  <namePart type="family">Müller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20118</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0003-0117-4021</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Biochemie I</namePart>
+  <identifier type="unibi">17967</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Anorganische Chemie I</namePart>
+  <identifier type="unibi">17964</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Azotobacter vinelandii is a diazotrophic bacterium characterized by the outstanding capability of storing Mo in a special storage protein, which guarantees Mo-dependent nitrogen fixation even,under growth conditions of extreme Mo starvation. The Mo storage protein is constitutively synthesized with respect to the nitrogen source and is regulated by molybdenum at an extremely low concentration level (0-50 nm). This protein was isolated as an alpha(4)beta(4) octamer with a total molecular mass of about 240 kg mol(-1) and its shape was determined by small-angle X-ray scattering. The genes of the alpha and beta subunits were unequivocally identified; the amino acid sequences thereby determined reveal that the Mo storage protein is not related to any other known molybdoprotein. Each protein molecule can store at least 90 Mo atoms. Extended X-ray absorption fine-structure spectroscopy identified a metal-oxygen cluster bound to the Mo storage protein. The binding of Mo (biosynthesis and incorporation of the duster) is de pendent on adenosine triphosphate (ATP); Mo release is ATP-independent but pH-regulated, occurring only above pH 7.1. This Mo storage protein is the only known noniron metal storage system in the biosphere containing a metal-oxygen cluster.</abstract>
+
+<originInfo><publisher>WILEY-V C H VERLAG GMBH</publisher><dateIssued encoding="w3cdtf">2005</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>molybdenum</topic><topic>metal storage protein</topic><topic>bioinorganic chemistry</topic><topic>polyoxomolybdate</topic><topic>metalloproteins</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>CHEMBIOCHEM</title></titleInfo>
+  <identifier type="issn">1439-4227</identifier>
+  <identifier type="MEDLINE">15651045</identifier>
+  <identifier type="ISI">000226957100022</identifier><identifier type="doi">10.1002/cbic.200400263</identifier>
+<part><detail type="volume"><number>6</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">405-413</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<mla>Fenske, Dieter, Gnida, M., Schneider, Klaus, Meyer-Klaucke, W., Schemberg, Joerg, Henschel, V., Meyer, A. K., Knochel, A., and Müller, Achim. “A new type of metalloprotein: The mo storage protein from Azotobacter vinelandii contains a polynuclear molybdenum-oxide cluster”. &lt;em&gt;CHEMBIOCHEM&lt;/em&gt; 6.2 (2005): 405-413.</mla>
+<lncs>Fenske, D., Gnida, M., Schneider, K., Meyer-Klaucke, W., Schemberg, J., Henschel, V., Meyer, A.K., Knochel, A., Müller, A.: A new type of metalloprotein: The mo storage protein from Azotobacter vinelandii contains a polynuclear molybdenum-oxide cluster. CHEMBIOCHEM. 6, 405-413 (2005).</lncs>
+<ieee>D. Fenske, et al., “A new type of metalloprotein: The mo storage protein from Azotobacter vinelandii contains a polynuclear molybdenum-oxide cluster”, &lt;em&gt;CHEMBIOCHEM&lt;/em&gt;,  vol. 6, 2005,  pp. 405-413.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fenske, D., Gnida, M., Schneider, K., Meyer-Klaucke, W., Schemberg, J., Henschel, V., Meyer, A. K., et al. (2005). A new type of metalloprotein: The mo storage protein from Azotobacter vinelandii contains a polynuclear molybdenum-oxide cluster. &lt;em&gt;CHEMBIOCHEM&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;(2), 405-413.&lt;/div&gt;</apa_indent>
+<frontiers>Fenske, D., Gnida, M., Schneider, K., Meyer-Klaucke, W., Schemberg, J., Henschel, V., Meyer, A. K., Knochel, A., and Müller, A. (2005). A new type of metalloprotein: The mo storage protein from Azotobacter vinelandii contains a polynuclear molybdenum-oxide cluster. &lt;em&gt;CHEMBIOCHEM&lt;/em&gt; 6, 405-413.</frontiers>
+<apa>Fenske, D., Gnida, M., Schneider, K., Meyer-Klaucke, W., Schemberg, J., Henschel, V., Meyer, A. K., et al. (2005). A new type of metalloprotein: The mo storage protein from Azotobacter vinelandii contains a polynuclear molybdenum-oxide cluster. &lt;em&gt;CHEMBIOCHEM&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;(2), 405-413.</apa>
+<angewandte-chemie>D.  Fenske, M.  Gnida, K.  Schneider, W.  Meyer-Klaucke, J.  Schemberg, V.  Henschel, A. K.  Meyer, A.  Knochel, and A.  Müller, “A new type of metalloprotein: The mo storage protein from Azotobacter vinelandii contains a polynuclear molybdenum-oxide cluster”, &lt;em&gt;CHEMBIOCHEM&lt;/em&gt;, &lt;strong&gt;2005&lt;/strong&gt;, &lt;em&gt;6&lt;/em&gt;, 405-413.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fenske, Dieter, Gnida, M., Schneider, Klaus, Meyer-Klaucke, W., Schemberg, Joerg, Henschel, V., Meyer, A. K., Knochel, A., and Müller, Achim. 2005. “A new type of metalloprotein: The mo storage protein from Azotobacter vinelandii contains a polynuclear molybdenum-oxide cluster”. &lt;em&gt;CHEMBIOCHEM&lt;/em&gt; 6 (2): 405-413.&lt;/div&gt;</chicago>
+<bio1>Fenske D, Gnida M, Schneider K, Meyer-Klaucke W, Schemberg J, Henschel V, Meyer AK, Knochel A, Müller A (2005) &lt;br /&gt;A new type of metalloprotein: The mo storage protein from Azotobacter vinelandii contains a polynuclear molybdenum-oxide cluster.&lt;br /&gt;CHEMBIOCHEM 6(2): 405-413.</bio1>
+<aps>D.  Fenske, et al., A new type of metalloprotein: The mo storage protein from Azotobacter vinelandii contains a polynuclear molybdenum-oxide cluster, CHEMBIOCHEM &lt;strong&gt;6&lt;/strong&gt;, 405-413 (2005).</aps>
+<ama>Fenske D, Gnida M, Schneider K, et al. A new type of metalloprotein: The mo storage protein from Azotobacter vinelandii contains a polynuclear molybdenum-oxide cluster. &lt;em&gt;CHEMBIOCHEM&lt;/em&gt;. 2005;6(2):405-413.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fenske, D., Gnida, M., Schneider, K., Meyer-Klaucke, W., Schemberg, J., Henschel, V., Meyer, A.K., Knochel, A. &amp;amp; Müller, A. (2005). A new type of metalloprotein: The mo storage protein from Azotobacter vinelandii contains a polynuclear molybdenum-oxide cluster. &lt;em&gt;CHEMBIOCHEM&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;(2), 405-413. WILEY-V C H VERLAG GMBH. doi:10.1002/cbic.200400263.&lt;/div&gt;</dgps>
+<harvard1>Fenske, D., et al., 2005. A new type of metalloprotein: The mo storage protein from Azotobacter vinelandii contains a polynuclear molybdenum-oxide cluster. &lt;em&gt;CHEMBIOCHEM&lt;/em&gt;, 6(2), p 405-413.</harvard1>
+<default>Fenske D, Gnida M, Schneider K, Meyer-Klaucke W, Schemberg J, Henschel V, Meyer AK, Knochel A, Müller A (2005) &lt;br /&gt;CHEMBIOCHEM 6(2): 405-413.</default>
+<wels>Fenske, D.; Gnida, M.; Schneider, K.; Meyer-Klaucke, W.; Schemberg, J.; Henschel, V.; Meyer, A. K.; Knochel, A.; Müller, A. (2005): A new type of metalloprotein: The mo storage protein from Azotobacter vinelandii contains a polynuclear molybdenum-oxide cluster &lt;em&gt;CHEMBIOCHEM&lt;/em&gt;,6:(2): 405-413.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1604979</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:40:33Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-17T15:17:35Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1604979</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1604979</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

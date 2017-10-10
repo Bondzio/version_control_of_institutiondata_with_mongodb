@@ -1,0 +1,102 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The q-binomial theorem and spectral symmetry</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Rajendra</namePart>
+  <namePart type="family">Bhatia</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ludwig</namePart>
+  <namePart type="family">Elsner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10509</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">In various contexts, several mathematicians have discovered a binomial theorem of the following form: Let T1,T2 be complex matrices such that T2T1 = qT1T2. Then (T1 + T2)n = SIGMA(k = 0)n alpha(n,k)(q)T1(k)T2n-k and the polynomials alpha(n,k)(q) are given explicitly. We describe an application of this result in our work on matrices whose eigenvalues have certain symmetries.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Elsner_065.pdf">https://pub.uni-bielefeld.de/download/1776222/2312112</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1993</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Indagationes mathematicae</title></titleInfo>
+  <identifier type="issn">0019-3577</identifier>
+  <identifier type="ISI">A1993KW95200002</identifier><identifier type="urn">urn:nbn:de:0070-pub-17762228</identifier><identifier type="doi">10.1016/0019-3577(93)90047-3</identifier>
+<part><detail type="volume"><number>4</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">11-16</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bhatia, R., &amp;amp; Elsner, L. (1993). The q-binomial theorem and spectral symmetry. &lt;em&gt;Indagationes mathematicae&lt;/em&gt;, &lt;em&gt;4&lt;/em&gt;(1), 11-16.&lt;/div&gt;</apa_indent>
+<lncs>Bhatia, R., Elsner, L.: The q-binomial theorem and spectral symmetry. Indagationes mathematicae. 4, 11-16 (1993).</lncs>
+<mla>Bhatia, Rajendra, and Elsner, Ludwig. “The q-binomial theorem and spectral symmetry”. &lt;em&gt;Indagationes mathematicae&lt;/em&gt; 4.1 (1993): 11-16.</mla>
+<ieee>R. Bhatia and L. Elsner, “The q-binomial theorem and spectral symmetry”, &lt;em&gt;Indagationes mathematicae&lt;/em&gt;,  vol. 4, 1993,  pp. 11-16.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bhatia, Rajendra, and Elsner, Ludwig. 1993. “The q-binomial theorem and spectral symmetry”. &lt;em&gt;Indagationes mathematicae&lt;/em&gt; 4 (1): 11-16.&lt;/div&gt;</chicago>
+<frontiers>Bhatia, R., and Elsner, L. (1993). The q-binomial theorem and spectral symmetry. &lt;em&gt;Indagationes mathematicae&lt;/em&gt; 4, 11-16.</frontiers>
+<angewandte-chemie>R.  Bhatia, and L.  Elsner, “The q-binomial theorem and spectral symmetry”, &lt;em&gt;Indagationes mathematicae&lt;/em&gt;, &lt;strong&gt;1993&lt;/strong&gt;, &lt;em&gt;4&lt;/em&gt;, 11-16.</angewandte-chemie>
+<apa>Bhatia, R., &amp;amp; Elsner, L. (1993). The q-binomial theorem and spectral symmetry. &lt;em&gt;Indagationes mathematicae&lt;/em&gt;, &lt;em&gt;4&lt;/em&gt;(1), 11-16.</apa>
+<aps>R.  Bhatia and L.  Elsner, The q-binomial theorem and spectral symmetry, Indagationes mathematicae &lt;strong&gt;4&lt;/strong&gt;, 11-16 (1993).</aps>
+<bio1>Bhatia R, Elsner L (1993) &lt;br /&gt;The q-binomial theorem and spectral symmetry.&lt;br /&gt;Indagationes mathematicae 4(1): 11-16.</bio1>
+<harvard1>Bhatia, R., &amp;amp; Elsner, L., 1993. The q-binomial theorem and spectral symmetry. &lt;em&gt;Indagationes mathematicae&lt;/em&gt;, 4(1), p 11-16.</harvard1>
+<ama>Bhatia R, Elsner L. The q-binomial theorem and spectral symmetry. &lt;em&gt;Indagationes mathematicae&lt;/em&gt;. 1993;4(1):11-16.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bhatia, R. &amp;amp; Elsner, L. (1993). The q-binomial theorem and spectral symmetry. &lt;em&gt;Indagationes mathematicae&lt;/em&gt;, &lt;em&gt;4&lt;/em&gt;(1), 11-16. doi:10.1016/0019-3577(93)90047-3.&lt;/div&gt;</dgps>
+<default>Bhatia R, Elsner L (1993) &lt;br /&gt;Indagationes mathematicae 4(1): 11-16.</default>
+<wels>Bhatia, R.; Elsner, L. (1993): The q-binomial theorem and spectral symmetry &lt;em&gt;Indagationes mathematicae&lt;/em&gt;,4:(1): 11-16.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776222</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776222</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776222</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,119 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>ProgeniDB - A novel cell lineage database for generation associated phenotypic behavior in cell-based assays</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Imtiaz A.</namePart>
+  <namePart type="family">Khan</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Peter</namePart>
+  <namePart type="family">Husemann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">125017</identifier></name>
+<name type="personal">
+  <namePart type="given">Lee</namePart>
+  <namePart type="family">Campbell</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Nick S.</namePart>
+  <namePart type="family">White</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Richard J.</namePart>
+  <namePart type="family">White</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Paul J.</namePart>
+  <namePart type="family">Smith</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Rachel J.</namePart>
+  <namePart type="family">Errington</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Technische Fakultät</namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>LANDES BIOSCIENCE</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>timelapse microscopy</topic><topic>bioinformatics</topic><topic>database</topic><topic>anticancer drug</topic><topic>cell lineage</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>CELL CYCLE</title></titleInfo>
+  <identifier type="issn">1538-4101</identifier>
+  <identifier type="MEDLINE">17387278</identifier>
+  <identifier type="ISI">000245577800020</identifier><identifier type="doi">10.4161/cc.6.7.4045</identifier>
+<part><detail type="volume"><number>6</number></detail><detail type="issue"><number>7</number></detail><extent unit="pages">868-874</extent>
+</part>
+</relatedItem>
+
+<note type="nonBielefeld">yes</note>
+<extension>
+<bibliographicCitation>
+<lncs>Khan, I.A., Husemann, P., Campbell, L., White, N.S., White, R.J., Smith, P.J., Errington, R.J.: ProgeniDB - A novel cell lineage database for generation associated phenotypic behavior in cell-based assays. CELL CYCLE. 6, 868-874 (2007).</lncs>
+<mla>Khan, Imtiaz A., Husemann, Peter, Campbell, Lee, White, Nick S., White, Richard J., Smith, Paul J., and Errington, Rachel J. “ProgeniDB - A novel cell lineage database for generation associated phenotypic behavior in cell-based assays”. &lt;em&gt;CELL CYCLE&lt;/em&gt; 6.7 (2007): 868-874.</mla>
+<ieee>I.A. Khan, et al., “ProgeniDB - A novel cell lineage database for generation associated phenotypic behavior in cell-based assays”, &lt;em&gt;CELL CYCLE&lt;/em&gt;,  vol. 6, 2007,  pp. 868-874.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Khan, I. A., Husemann, P., Campbell, L., White, N. S., White, R. J., Smith, P. J., &amp;amp; Errington, R. J. (2007). ProgeniDB - A novel cell lineage database for generation associated phenotypic behavior in cell-based assays. &lt;em&gt;CELL CYCLE&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;(7), 868-874.&lt;/div&gt;</apa_indent>
+<frontiers>Khan, I. A., Husemann, P., Campbell, L., White, N. S., White, R. J., Smith, P. J., and Errington, R. J. (2007). ProgeniDB - A novel cell lineage database for generation associated phenotypic behavior in cell-based assays. &lt;em&gt;CELL CYCLE&lt;/em&gt; 6, 868-874.</frontiers>
+<angewandte-chemie>I. A.  Khan, P.  Husemann, L.  Campbell, N. S.  White, R. J.  White, P. J.  Smith, and R. J.  Errington, “ProgeniDB - A novel cell lineage database for generation associated phenotypic behavior in cell-based assays”, &lt;em&gt;CELL CYCLE&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;6&lt;/em&gt;, 868-874.</angewandte-chemie>
+<apa>Khan, I. A., Husemann, P., Campbell, L., White, N. S., White, R. J., Smith, P. J., &amp;amp; Errington, R. J. (2007). ProgeniDB - A novel cell lineage database for generation associated phenotypic behavior in cell-based assays. &lt;em&gt;CELL CYCLE&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;(7), 868-874.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Khan, Imtiaz A., Husemann, Peter, Campbell, Lee, White, Nick S., White, Richard J., Smith, Paul J., and Errington, Rachel J. 2007. “ProgeniDB - A novel cell lineage database for generation associated phenotypic behavior in cell-based assays”. &lt;em&gt;CELL CYCLE&lt;/em&gt; 6 (7): 868-874.&lt;/div&gt;</chicago>
+<aps>I. A.  Khan, et al., ProgeniDB - A novel cell lineage database for generation associated phenotypic behavior in cell-based assays, CELL CYCLE &lt;strong&gt;6&lt;/strong&gt;, 868-874 (2007).</aps>
+<bio1>Khan IA, Husemann P, Campbell L, White NS, White RJ, Smith PJ, Errington RJ (2007) &lt;br /&gt;ProgeniDB - A novel cell lineage database for generation associated phenotypic behavior in cell-based assays.&lt;br /&gt;CELL CYCLE 6(7): 868-874.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Khan, I.A., Husemann, P., Campbell, L., White, N.S., White, R.J., Smith, P.J. &amp;amp; Errington, R.J. (2007). ProgeniDB - A novel cell lineage database for generation associated phenotypic behavior in cell-based assays. &lt;em&gt;CELL CYCLE&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;(7), 868-874. LANDES BIOSCIENCE. doi:10.4161/cc.6.7.4045.&lt;/div&gt;</dgps>
+<ama>Khan IA, Husemann P, Campbell L, et al. ProgeniDB - A novel cell lineage database for generation associated phenotypic behavior in cell-based assays. &lt;em&gt;CELL CYCLE&lt;/em&gt;. 2007;6(7):868-874.</ama>
+<harvard1>Khan, I.A., et al., 2007. ProgeniDB - A novel cell lineage database for generation associated phenotypic behavior in cell-based assays. &lt;em&gt;CELL CYCLE&lt;/em&gt;, 6(7), p 868-874.</harvard1>
+<default>Khan IA, Husemann P, Campbell L, White NS, White RJ, Smith PJ, Errington RJ (2007) &lt;br /&gt;CELL CYCLE 6(7): 868-874.</default>
+<wels>Khan, I. A.; Husemann, P.; Campbell, L.; White, N. S.; White, R. J.; Smith, P. J.; Errington, R. J. (2007): ProgeniDB - A novel cell lineage database for generation associated phenotypic behavior in cell-based assays &lt;em&gt;CELL CYCLE&lt;/em&gt;,6:(7): 868-874.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1594797</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:26Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-08-09T12:42:20Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1594797</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1594797</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,144 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Clinical evidence for a protective role of lipocalin-2 against MDAP-9 autodegradation and the impact for gastric cancer</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Frank J. G. M.</namePart>
+  <namePart type="family">Kubben</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Cornelis F. M.</namePart>
+  <namePart type="family">Sier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Lukas J. A. C.</namePart>
+  <namePart type="family">Hawinkels</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Harald</namePart>
+  <namePart type="family">Tschesche</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">19406</identifier></name>
+<name type="personal">
+  <namePart type="given">Wim</namePart>
+  <namePart type="family">van Duijn</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Kim</namePart>
+  <namePart type="family">Zuidwijk</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Johan J.</namePart>
+  <namePart type="family">van der Reijden</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Roeland</namePart>
+  <namePart type="family">Hanemaaijer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Gerrit</namePart>
+  <namePart type="family">Griffioen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Cornelis B. H. W.</namePart>
+  <namePart type="family">Lamers</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Hein W.</namePart>
+  <namePart type="family">Verspaget</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Biochemie I</namePart>
+  <identifier type="unibi">17967</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Biochemie und Biotechnik</namePart>
+  <identifier type="unibi">4838684</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Recently, complexes of matrix metalloproteinase matrix metalloproteinase-9 (MMP-9) with lipocalin-2 (neutrophil gelatinase-associated lipocalin) were found in the urine obtained from breast cancer patients, while these were completely absent in that obtained from healthy controls. In vitro data suggested a possible role for lipocalin-2 in the protection of MMP-9 against autolysis. To establish this effect in vivo, we determined the presence of MMP-9, lipocalin-2 and their complex in tumour tissue from 81 gastric cancer patients. The effect of the presence of the individual parameters, the complexes, and the inhibitors TIMP-1 and TIMP-2 on MMP-9 activity was evaluated with a bioactivity assay Immuno-histochemical (double) staining identified epithelial cells as the most likely cellular source. Finally, evaluation of all these parameters with clinicopathological scores revealed that tumour MMP-9/lipocalin-2 complexes were significantly related with the classifications of Lauren and WHO, and highly associated with worse survival in Cox&apos;s univariate (HR 2.087, P = 0.006) and multivariate analyses (HR 2.095, P = 0.025). (C) 2007 Elsevier Ltd. All rights reserved.</abstract>
+
+<originInfo><publisher>ELSEVIER SCI LTD</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>metalloproteinase</topic><topic>cancer</topic><topic>prognosis</topic><topic>activity assay</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>EUROPEAN JOURNAL OF CANCER</title></titleInfo>
+  <identifier type="issn">0959-8049</identifier>
+  <identifier type="MEDLINE">17604154</identifier>
+  <identifier type="ISI">000249716600021</identifier><identifier type="doi">10.1016/j.ejca.2007.05.013</identifier>
+<part><detail type="volume"><number>43</number></detail><detail type="issue"><number>12</number></detail><extent unit="pages">1869-1876</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<mla>Kubben, Frank J. G. M., Sier, Cornelis F. M., Hawinkels, Lukas J. A. C., Tschesche, Harald, van Duijn, Wim, Zuidwijk, Kim, van der Reijden, Johan J., Hanemaaijer, Roeland, Griffioen, Gerrit, Lamers, Cornelis B. H. W., and Verspaget, Hein W. “Clinical evidence for a protective role of lipocalin-2 against MDAP-9 autodegradation and the impact for gastric cancer”. &lt;em&gt;EUROPEAN JOURNAL OF CANCER&lt;/em&gt; 43.12 (2007): 1869-1876.</mla>
+<lncs>Kubben, F.J.G.M., Sier, C.F.M., Hawinkels, L.J.A.C., Tschesche, H., van Duijn, W., Zuidwijk, K., van der Reijden, J.J., Hanemaaijer, R., Griffioen, G., Lamers, C.B.H.W., Verspaget, H.W.: Clinical evidence for a protective role of lipocalin-2 against MDAP-9 autodegradation and the impact for gastric cancer. EUROPEAN JOURNAL OF CANCER. 43, 1869-1876 (2007).</lncs>
+<ieee>F.J.G.M. Kubben, et al., “Clinical evidence for a protective role of lipocalin-2 against MDAP-9 autodegradation and the impact for gastric cancer”, &lt;em&gt;EUROPEAN JOURNAL OF CANCER&lt;/em&gt;,  vol. 43, 2007,  pp. 1869-1876.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kubben, F. J. G. M., Sier, C. F. M., Hawinkels, L. J. A. C., Tschesche, H., van Duijn, W., Zuidwijk, K., van der Reijden, J. J., et al. (2007). Clinical evidence for a protective role of lipocalin-2 against MDAP-9 autodegradation and the impact for gastric cancer. &lt;em&gt;EUROPEAN JOURNAL OF CANCER&lt;/em&gt;, &lt;em&gt;43&lt;/em&gt;(12), 1869-1876.&lt;/div&gt;</apa_indent>
+<frontiers>Kubben, F. J. G. M., Sier, C. F. M., Hawinkels, L. J. A. C., Tschesche, H., van Duijn, W., Zuidwijk, K., van der Reijden, J. J., Hanemaaijer, R., Griffioen, G., Lamers, C. B. H. W., et al. (2007). Clinical evidence for a protective role of lipocalin-2 against MDAP-9 autodegradation and the impact for gastric cancer. &lt;em&gt;EUROPEAN JOURNAL OF CANCER&lt;/em&gt; 43, 1869-1876.</frontiers>
+<angewandte-chemie>F. J. G. M.  Kubben, C. F. M.  Sier, L. J. A. C.  Hawinkels, H.  Tschesche, W.  van Duijn, K.  Zuidwijk, J. J.  van der Reijden, R.  Hanemaaijer, G.  Griffioen, C. B. H. W.  Lamers, et al., “Clinical evidence for a protective role of lipocalin-2 against MDAP-9 autodegradation and the impact for gastric cancer”, &lt;em&gt;EUROPEAN JOURNAL OF CANCER&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;43&lt;/em&gt;, 1869-1876.</angewandte-chemie>
+<apa>Kubben, F. J. G. M., Sier, C. F. M., Hawinkels, L. J. A. C., Tschesche, H., van Duijn, W., Zuidwijk, K., van der Reijden, J. J., et al. (2007). Clinical evidence for a protective role of lipocalin-2 against MDAP-9 autodegradation and the impact for gastric cancer. &lt;em&gt;EUROPEAN JOURNAL OF CANCER&lt;/em&gt;, &lt;em&gt;43&lt;/em&gt;(12), 1869-1876.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kubben, Frank J. G. M., Sier, Cornelis F. M., Hawinkels, Lukas J. A. C., Tschesche, Harald, van Duijn, Wim, Zuidwijk, Kim, van der Reijden, Johan J., et al. 2007. “Clinical evidence for a protective role of lipocalin-2 against MDAP-9 autodegradation and the impact for gastric cancer”. &lt;em&gt;EUROPEAN JOURNAL OF CANCER&lt;/em&gt; 43 (12): 1869-1876.&lt;/div&gt;</chicago>
+<bio1>Kubben FJGM, Sier CFM, Hawinkels LJAC, Tschesche H, van Duijn W, Zuidwijk K, van der Reijden JJ, Hanemaaijer R, Griffioen G, Lamers CBHW, Verspaget HW (2007) &lt;br /&gt;Clinical evidence for a protective role of lipocalin-2 against MDAP-9 autodegradation and the impact for gastric cancer.&lt;br /&gt;EUROPEAN JOURNAL OF CANCER 43(12): 1869-1876.</bio1>
+<aps>F. J. G. M.  Kubben, et al., Clinical evidence for a protective role of lipocalin-2 against MDAP-9 autodegradation and the impact for gastric cancer, EUROPEAN JOURNAL OF CANCER &lt;strong&gt;43&lt;/strong&gt;, 1869-1876 (2007).</aps>
+<ama>Kubben FJGM, Sier CFM, Hawinkels LJAC, et al. Clinical evidence for a protective role of lipocalin-2 against MDAP-9 autodegradation and the impact for gastric cancer. &lt;em&gt;EUROPEAN JOURNAL OF CANCER&lt;/em&gt;. 2007;43(12):1869-1876.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kubben, F.J.G.M., Sier, C.F.M., Hawinkels, L.J.A.C., Tschesche, H., van Duijn, W., Zuidwijk, K., van der Reijden, J.J., Hanemaaijer, R., Griffioen, G., Lamers, C.B.H.W. &amp;amp; Verspaget, H.W. (2007). Clinical evidence for a protective role of lipocalin-2 against MDAP-9 autodegradation and the impact for gastric cancer. &lt;em&gt;EUROPEAN JOURNAL OF CANCER&lt;/em&gt;, &lt;em&gt;43&lt;/em&gt;(12), 1869-1876. ELSEVIER SCI LTD. doi:10.1016/j.ejca.2007.05.013.&lt;/div&gt;</dgps>
+<harvard1>Kubben, F.J.G.M., et al., 2007. Clinical evidence for a protective role of lipocalin-2 against MDAP-9 autodegradation and the impact for gastric cancer. &lt;em&gt;EUROPEAN JOURNAL OF CANCER&lt;/em&gt;, 43(12), p 1869-1876.</harvard1>
+<default>Kubben FJGM, Sier CFM, Hawinkels LJAC, Tschesche H, van Duijn W, Zuidwijk K, van der Reijden JJ, Hanemaaijer R, Griffioen G, Lamers CBHW, Verspaget HW (2007) &lt;br /&gt;EUROPEAN JOURNAL OF CANCER 43(12): 1869-1876.</default>
+<wels>Kubben, F. J. G. M.; Sier, C. F. M.; Hawinkels, L. J. A. C.; Tschesche, H.; van Duijn, W.; Zuidwijk, K.; van der Reijden, J. J.; Hanemaaijer, R.; Griffioen, G.; Lamers, C. B. H. W.; Verspaget, H. W. (2007): Clinical evidence for a protective role of lipocalin-2 against MDAP-9 autodegradation and the impact for gastric cancer &lt;em&gt;EUROPEAN JOURNAL OF CANCER&lt;/em&gt;,43:(12): 1869-1876.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1631936</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:06:01Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-12-08T10:47:44Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1631936</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1631936</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

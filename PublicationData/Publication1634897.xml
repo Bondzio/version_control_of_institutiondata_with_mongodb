@@ -1,0 +1,104 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Some asymptotic results on generalized penalized spline smoothing</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Göran</namePart>
+  <namePart type="family">Kauermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">91009</identifier></name>
+<name type="personal">
+  <namePart type="given">Tatyana</namePart>
+  <namePart type="family">Krivobokova</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ludwig</namePart>
+  <namePart type="family">Fahrmeir</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Wirtschaftswissenschaften</namePart>
+  <identifier type="unibi">10031</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The paper discusses asymptotic properties of penalized spline smoothing if the spline basis increases with the sample size. The proof is provided in a generalized smoothing model allowing for non-normal responses. The results are extended in two ways. First, assuming the spline coefficients to be a priori normally distributed links the smoothing framework to generalized linear mixed models. We consider the asymptotic rates such that the Laplace approximation is justified and the resulting fits in the mixed model correspond to penalized spline estimates. Secondly, we make use of a fully Bayesian viewpoint by imposing an a priori distribution on all parameters and coefficients. We argue that with the postulated rates at which the spline basis dimension increases with the sample size the posterior distribution of the spline coefficients is approximately normal. The validity of this result is investigated in finite samples by comparing Markov chain Monte Carlo results with their asymptotic approximation in a simulation study.</abstract>
+
+<originInfo><publisher>Wiley-Blackwell</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Bayesian splines</topic><topic>Mixed models</topic><topic>Penalized</topic><topic>quasi-likelihood</topic><topic>Penalized splines</topic><topic>Smoothing</topic><topic>Laplace approximation</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY</title></titleInfo>
+  <identifier type="issn">1369-7412</identifier>
+  <identifier type="eIssn">1467-9868</identifier>
+  <identifier type="ISI">000264374200007</identifier><identifier type="doi">10.1111/j.1467-9868.2008.00691.x</identifier>
+<part><detail type="volume"><number>71</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">487-503</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Kauermann, G.; Krivobokova, T.; Fahrmeir, L. (2009): Some asymptotic results on generalized penalized spline smoothing &lt;em&gt;JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY&lt;/em&gt;,71:(2): 487-503.</wels>
+<default>Kauermann G, Krivobokova T, Fahrmeir L (2009) &lt;br /&gt;JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY 71(2): 487-503.</default>
+<harvard1>Kauermann, G., Krivobokova, T., &amp;amp; Fahrmeir, L., 2009. Some asymptotic results on generalized penalized spline smoothing. &lt;em&gt;JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY&lt;/em&gt;, 71(2), p 487-503.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kauermann, G., Krivobokova, T. &amp;amp; Fahrmeir, L. (2009). Some asymptotic results on generalized penalized spline smoothing. &lt;em&gt;JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY&lt;/em&gt;, &lt;em&gt;71&lt;/em&gt;(2), 487-503. Wiley-Blackwell. doi:10.1111/j.1467-9868.2008.00691.x.&lt;/div&gt;</dgps>
+<ama>Kauermann G, Krivobokova T, Fahrmeir L. Some asymptotic results on generalized penalized spline smoothing. &lt;em&gt;JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY&lt;/em&gt;. 2009;71(2):487-503.</ama>
+<aps>G.  Kauermann, T.  Krivobokova, and L.  Fahrmeir, Some asymptotic results on generalized penalized spline smoothing, JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY &lt;strong&gt;71&lt;/strong&gt;, 487-503 (2009).</aps>
+<bio1>Kauermann G, Krivobokova T, Fahrmeir L (2009) &lt;br /&gt;Some asymptotic results on generalized penalized spline smoothing.&lt;br /&gt;JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY 71(2): 487-503.</bio1>
+<angewandte-chemie>G.  Kauermann, T.  Krivobokova, and L.  Fahrmeir, “Some asymptotic results on generalized penalized spline smoothing”, &lt;em&gt;JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;71&lt;/em&gt;, 487-503.</angewandte-chemie>
+<apa>Kauermann, G., Krivobokova, T., &amp;amp; Fahrmeir, L. (2009). Some asymptotic results on generalized penalized spline smoothing. &lt;em&gt;JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY&lt;/em&gt;, &lt;em&gt;71&lt;/em&gt;(2), 487-503.</apa>
+<frontiers>Kauermann, G., Krivobokova, T., and Fahrmeir, L. (2009). Some asymptotic results on generalized penalized spline smoothing. &lt;em&gt;JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY&lt;/em&gt; 71, 487-503.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kauermann, Göran, Krivobokova, Tatyana, and Fahrmeir, Ludwig. 2009. “Some asymptotic results on generalized penalized spline smoothing”. &lt;em&gt;JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY&lt;/em&gt; 71 (2): 487-503.&lt;/div&gt;</chicago>
+<ieee>G. Kauermann, T. Krivobokova, and L. Fahrmeir, “Some asymptotic results on generalized penalized spline smoothing”, &lt;em&gt;JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY&lt;/em&gt;,  vol. 71, 2009,  pp. 487-503.</ieee>
+<lncs>Kauermann, G., Krivobokova, T., Fahrmeir, L.: Some asymptotic results on generalized penalized spline smoothing. JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY. 71, 487-503 (2009).</lncs>
+<mla>Kauermann, Göran, Krivobokova, Tatyana, and Fahrmeir, Ludwig. “Some asymptotic results on generalized penalized spline smoothing”. &lt;em&gt;JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY&lt;/em&gt; 71.2 (2009): 487-503.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kauermann, G., Krivobokova, T., &amp;amp; Fahrmeir, L. (2009). Some asymptotic results on generalized penalized spline smoothing. &lt;em&gt;JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY&lt;/em&gt;, &lt;em&gt;71&lt;/em&gt;(2), 487-503.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1634897</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:28Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-05T11:13:20Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1634897</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1634897</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

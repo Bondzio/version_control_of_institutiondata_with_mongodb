@@ -1,0 +1,110 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Bimolecular reactions of the chromium-benzyne ion Cr +-C 6H 4 in the gas phase: an FT-ICR study</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Doris</namePart>
+  <namePart type="family">Wittneben</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Hans-Friedrich</namePart>
+  <namePart type="family">Grützmacher</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">41603</identifier></name>
+<name type="personal">
+  <namePart type="given">Holger</namePart>
+  <namePart type="family">Butenschön</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Hans Günther</namePart>
+  <namePart type="family">Wey</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Chemie</namePart>
+  <identifier type="unibi">10018</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="gr_018.pdf">https://pub.uni-bielefeld.de/download/1783407/2314166</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1992</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Organometallics</title></titleInfo>
+  <identifier type="issn">0276-7333</identifier>
+  <identifier type="eIssn">1520-6041</identifier>
+  <identifier type="ISI">A1992JN06600028</identifier><identifier type="urn">urn:nbn:de:0070-pub-17834074</identifier><identifier type="doi">10.1021/om00045a028</identifier>
+<part><detail type="volume"><number>11</number></detail><detail type="issue"><number>9</number></detail><extent unit="pages">3111-3116</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Wittneben, D.; Grützmacher, H. - F.; Butenschön, H.; Wey, H. G. (1992): Bimolecular reactions of the chromium-benzyne ion Cr +-C 6H 4 in the gas phase: an FT-ICR study &lt;em&gt;Organometallics&lt;/em&gt;,11:(9): 3111-3116.</wels>
+<default>Wittneben D, Grützmacher H-F, Butenschön H, Wey HG (1992) &lt;br /&gt;Organometallics 11(9): 3111-3116.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wittneben, D., Grützmacher, H.-F., Butenschön, H. &amp;amp; Wey, H.G. (1992). Bimolecular reactions of the chromium-benzyne ion Cr +-C 6H 4 in the gas phase: an FT-ICR study. &lt;em&gt;Organometallics&lt;/em&gt;, &lt;em&gt;11&lt;/em&gt;(9), 3111-3116. doi:10.1021/om00045a028.&lt;/div&gt;</dgps>
+<harvard1>Wittneben, D., et al., 1992. Bimolecular reactions of the chromium-benzyne ion Cr +-C 6H 4 in the gas phase: an FT-ICR study. &lt;em&gt;Organometallics&lt;/em&gt;, 11(9), p 3111-3116.</harvard1>
+<ama>Wittneben D, Grützmacher H-F, Butenschön H, Wey HG. Bimolecular reactions of the chromium-benzyne ion Cr +-C 6H 4 in the gas phase: an FT-ICR study. &lt;em&gt;Organometallics&lt;/em&gt;. 1992;11(9):3111-3116.</ama>
+<aps>D.  Wittneben, et al., Bimolecular reactions of the chromium-benzyne ion Cr +-C 6H 4 in the gas phase: an FT-ICR study, Organometallics &lt;strong&gt;11&lt;/strong&gt;, 3111-3116 (1992).</aps>
+<bio1>Wittneben D, Grützmacher H-F, Butenschön H, Wey HG (1992) &lt;br /&gt;Bimolecular reactions of the chromium-benzyne ion Cr +-C 6H 4 in the gas phase: an FT-ICR study.&lt;br /&gt;Organometallics 11(9): 3111-3116.</bio1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wittneben, Doris, Grützmacher, Hans-Friedrich, Butenschön, Holger, and Wey, Hans Günther. 1992. “Bimolecular reactions of the chromium-benzyne ion Cr +-C 6H 4 in the gas phase: an FT-ICR study”. &lt;em&gt;Organometallics&lt;/em&gt; 11 (9): 3111-3116.&lt;/div&gt;</chicago>
+<apa>Wittneben, D., Grützmacher, H. - F., Butenschön, H., &amp;amp; Wey, H. G. (1992). Bimolecular reactions of the chromium-benzyne ion Cr +-C 6H 4 in the gas phase: an FT-ICR study. &lt;em&gt;Organometallics&lt;/em&gt;, &lt;em&gt;11&lt;/em&gt;(9), 3111-3116.</apa>
+<angewandte-chemie>D.  Wittneben, H. - F.  Grützmacher, H.  Butenschön, and H. G.  Wey, “Bimolecular reactions of the chromium-benzyne ion Cr +-C 6H 4 in the gas phase: an FT-ICR study”, &lt;em&gt;Organometallics&lt;/em&gt;, &lt;strong&gt;1992&lt;/strong&gt;, &lt;em&gt;11&lt;/em&gt;, 3111-3116.</angewandte-chemie>
+<frontiers>Wittneben, D., Grützmacher, H. - F., Butenschön, H., and Wey, H. G. (1992). Bimolecular reactions of the chromium-benzyne ion Cr +-C 6H 4 in the gas phase: an FT-ICR study. &lt;em&gt;Organometallics&lt;/em&gt; 11, 3111-3116.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wittneben, D., Grützmacher, H. - F., Butenschön, H., &amp;amp; Wey, H. G. (1992). Bimolecular reactions of the chromium-benzyne ion Cr +-C 6H 4 in the gas phase: an FT-ICR study. &lt;em&gt;Organometallics&lt;/em&gt;, &lt;em&gt;11&lt;/em&gt;(9), 3111-3116.&lt;/div&gt;</apa_indent>
+<ieee>D. Wittneben, et al., “Bimolecular reactions of the chromium-benzyne ion Cr +-C 6H 4 in the gas phase: an FT-ICR study”, &lt;em&gt;Organometallics&lt;/em&gt;,  vol. 11, 1992,  pp. 3111-3116.</ieee>
+<lncs>Wittneben, D., Grützmacher, H.-F., Butenschön, H., Wey, H.G.: Bimolecular reactions of the chromium-benzyne ion Cr +-C 6H 4 in the gas phase: an FT-ICR study. Organometallics. 11, 3111-3116 (1992).</lncs>
+<mla>Wittneben, Doris, Grützmacher, Hans-Friedrich, Butenschön, Holger, and Wey, Hans Günther. “Bimolecular reactions of the chromium-benzyne ion Cr +-C 6H 4 in the gas phase: an FT-ICR study”. &lt;em&gt;Organometallics&lt;/em&gt; 11.9 (1992): 3111-3116.</mla>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1783407</recordIdentifier><recordChangeDate encoding="w3cdtf">2015-06-09T07:27:27Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1783407</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1783407</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

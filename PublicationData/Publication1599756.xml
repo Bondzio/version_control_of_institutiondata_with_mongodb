@@ -1,0 +1,124 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>IsoSVM - Distinguishing isoforms and paralogs on the protein level</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Spitzer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">S</namePart>
+  <namePart type="family">Lorkowski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">P</namePart>
+  <namePart type="family">Cullen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alexander</namePart>
+  <namePart type="family">Sczyrba</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">17894</identifier></name>
+<name type="personal">
+  <namePart type="given">Georg</namePart>
+  <namePart type="family">Fuellen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Research Group A. Sczyrba</namePart>
+  <identifier type="unibi">33067478</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Technische Fakultät</namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Background: Recent progress in cDNA and EST sequencing is yielding a deluge of sequence data. Like database search results and proteome databases, this data gives rise to inferred protein sequences without ready access to the underlying genomic data. Analysis of this information ( e. g. for EST clustering or phylogenetic reconstruction from proteome data) is hampered because it is not known if two protein sequences are isoforms ( splice variants) or not (i.e. paralogs/orthologs). However, even without knowing the intron/exon structure, visual analysis of the pattern of similarity across the alignment of the two protein sequences is usually helpful since paralogs and orthologs feature substitutions with respect to each other, as opposed to isoforms, which do not. Results: The IsoSVM tool introduces an automated approach to identifying isoforms on the protein level using a support vector machine (SVM) classifier. Based on three specific features used as input of the SVM classifier, it is possible to automatically identify isoforms with little effort and with an accuracy of more than 97%. We show that the SVM is superior to a radial basis function network and to a linear classifier. As an example application we use IsoSVM to estimate that a set of Xenopus laevis EST clusters consists of approximately 81% cases where sequences are each other&apos;s paralogs and 19% cases where sequences are each other&apos;s isoforms. The number of isoforms and paralogs in this allotetraploid species is of interest in the study of evolution. Conclusion: We developed an SVM classifier that can be used to distinguish isoforms from paralogs with high accuracy and without access to the genomic data. It can be used to analyze, for example, EST data and database search results. Our software is freely available on the Web, under the name IsoSVM.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="1471_2105_7_110.pdf">https://pub.uni-bielefeld.de/download/1599756/2311116</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>BIOMED CENTRAL LTD</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>BMC Bioinformatics</title></titleInfo>
+  <identifier type="issn">1471-2105</identifier>
+  <identifier type="MEDLINE">16519805</identifier>
+  <identifier type="ISI">000236547700001</identifier><identifier type="urn">urn:nbn:de:0070-pub-15997564</identifier><identifier type="doi">10.1186/1471-2105-7-110</identifier>
+<part><detail type="volume"><number>7</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">110</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Spitzer, M., Lorkowski, S., Cullen, P., Sczyrba, A., &amp;amp; Fuellen, G. (2006). IsoSVM - Distinguishing isoforms and paralogs on the protein level. &lt;em&gt;BMC Bioinformatics&lt;/em&gt;, &lt;em&gt;7&lt;/em&gt;(1).&lt;/div&gt;</apa_indent>
+<ieee>M. Spitzer, et al., “IsoSVM - Distinguishing isoforms and paralogs on the protein level”, &lt;em&gt;BMC Bioinformatics&lt;/em&gt;,  vol. 7, 2006.</ieee>
+<lncs>Spitzer, M., Lorkowski, S., Cullen, P., Sczyrba, A., Fuellen, G.: IsoSVM - Distinguishing isoforms and paralogs on the protein level. BMC Bioinformatics. 7, (2006).</lncs>
+<mla>Spitzer, M, Lorkowski, S, Cullen, P, Sczyrba, Alexander, and Fuellen, Georg. “IsoSVM - Distinguishing isoforms and paralogs on the protein level”. &lt;em&gt;BMC Bioinformatics&lt;/em&gt; 7.1 (2006).</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Spitzer, M, Lorkowski, S, Cullen, P, Sczyrba, Alexander, and Fuellen, Georg. 2006. “IsoSVM - Distinguishing isoforms and paralogs on the protein level”. &lt;em&gt;BMC Bioinformatics&lt;/em&gt; 7 (1).&lt;/div&gt;</chicago>
+<apa>Spitzer, M., Lorkowski, S., Cullen, P., Sczyrba, A., &amp;amp; Fuellen, G. (2006). IsoSVM - Distinguishing isoforms and paralogs on the protein level. &lt;em&gt;BMC Bioinformatics&lt;/em&gt;, &lt;em&gt;7&lt;/em&gt;(1).</apa>
+<angewandte-chemie>M.  Spitzer, S.  Lorkowski, P.  Cullen, A.  Sczyrba, and G.  Fuellen, “IsoSVM - Distinguishing isoforms and paralogs on the protein level”, &lt;em&gt;BMC Bioinformatics&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;7&lt;/em&gt;.</angewandte-chemie>
+<frontiers>Spitzer, M., Lorkowski, S., Cullen, P., Sczyrba, A., and Fuellen, G. (2006). IsoSVM - Distinguishing isoforms and paralogs on the protein level. &lt;em&gt;BMC Bioinformatics&lt;/em&gt; 7.</frontiers>
+<harvard1>Spitzer, M., et al., 2006. IsoSVM - Distinguishing isoforms and paralogs on the protein level. &lt;em&gt;BMC Bioinformatics&lt;/em&gt;, 7(1).</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Spitzer, M., Lorkowski, S., Cullen, P., Sczyrba, A. &amp;amp; Fuellen, G. (2006). IsoSVM - Distinguishing isoforms and paralogs on the protein level. &lt;em&gt;BMC Bioinformatics&lt;/em&gt;, &lt;em&gt;7&lt;/em&gt;(1). BIOMED CENTRAL LTD. doi:10.1186/1471-2105-7-110.&lt;/div&gt;</dgps>
+<ama>Spitzer M, Lorkowski S, Cullen P, Sczyrba A, Fuellen G. IsoSVM - Distinguishing isoforms and paralogs on the protein level. &lt;em&gt;BMC Bioinformatics&lt;/em&gt;. 2006;7(1).</ama>
+<bio1>Spitzer M, Lorkowski S, Cullen P, Sczyrba A, Fuellen G (2006) &lt;br /&gt;IsoSVM - Distinguishing isoforms and paralogs on the protein level.&lt;br /&gt;BMC Bioinformatics 7(1).</bio1>
+<aps>M.  Spitzer, et al., IsoSVM - Distinguishing isoforms and paralogs on the protein level, BMC Bioinformatics &lt;strong&gt;7&lt;/strong&gt;, (2006).</aps>
+<wels>Spitzer, M.; Lorkowski, S.; Cullen, P.; Sczyrba, A.; Fuellen, G. (2006): IsoSVM - Distinguishing isoforms and paralogs on the protein level &lt;em&gt;BMC Bioinformatics&lt;/em&gt;,7:(1)</wels>
+<default>Spitzer M, Lorkowski S, Cullen P, Sczyrba A, Fuellen G (2006) &lt;br /&gt;BMC Bioinformatics 7(1).</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1599756</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:30:53Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2012-03-09T14:33:09Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1599756</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1599756</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

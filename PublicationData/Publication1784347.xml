@@ -1,0 +1,119 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Screening masses close to the chiral phase transition</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">G.</namePart>
+  <namePart type="family">Boyd</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Sourendu</namePart>
+  <namePart type="family">Gupta</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Frithjof</namePart>
+  <namePart type="family">Karsch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40326</identifier></name>
+<name type="personal">
+  <namePart type="given">Edwin</namePart>
+  <namePart type="family">Laermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40621</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Evidence indicating that quarks are not confined inside mesons above the chiral transition is presented.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT3846.pdf">https://pub.uni-bielefeld.de/download/1784347/2314417</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1994</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>International journal of modern physics, C</title></titleInfo>
+  <identifier type="issn">0129-1831</identifier>
+  <identifier type="eIssn">1793-6586</identifier>
+  <identifier type="ISI">A1994NR06100044</identifier><identifier type="urn">urn:nbn:de:0070-bipr-38467</identifier><identifier type="doi">10.1142/S0129183194000544</identifier>
+<part><detail type="volume"><number>5</number></detail><detail type="issue"><number>02</number></detail><extent unit="pages">383-385</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Boyd, G., Gupta, S., Karsch, F., and Laermann, E. (1994). Screening masses close to the chiral phase transition. &lt;em&gt;International journal of modern physics, C&lt;/em&gt; 5, 383-385.</frontiers>
+<apa>Boyd, G., Gupta, S., Karsch, F., &amp;amp; Laermann, E. (1994). Screening masses close to the chiral phase transition. &lt;em&gt;International journal of modern physics, C&lt;/em&gt;, &lt;em&gt;5&lt;/em&gt;(02), 383-385.</apa>
+<angewandte-chemie>G.  Boyd, S.  Gupta, F.  Karsch, and E.  Laermann, “Screening masses close to the chiral phase transition”, &lt;em&gt;International journal of modern physics, C&lt;/em&gt;, &lt;strong&gt;1994&lt;/strong&gt;, &lt;em&gt;5&lt;/em&gt;, 383-385.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Boyd, G., Gupta, Sourendu, Karsch, Frithjof, and Laermann, Edwin. 1994. “Screening masses close to the chiral phase transition”. &lt;em&gt;International journal of modern physics, C&lt;/em&gt; 5 (02): 383-385.&lt;/div&gt;</chicago>
+<mla>Boyd, G., Gupta, Sourendu, Karsch, Frithjof, and Laermann, Edwin. “Screening masses close to the chiral phase transition”. &lt;em&gt;International journal of modern physics, C&lt;/em&gt; 5.02 (1994): 383-385.</mla>
+<lncs>Boyd, G., Gupta, S., Karsch, F., Laermann, E.: Screening masses close to the chiral phase transition. International journal of modern physics, C. 5, 383-385 (1994).</lncs>
+<ieee>G. Boyd, et al., “Screening masses close to the chiral phase transition”, &lt;em&gt;International journal of modern physics, C&lt;/em&gt;,  vol. 5, 1994,  pp. 383-385.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Boyd, G., Gupta, S., Karsch, F., &amp;amp; Laermann, E. (1994). Screening masses close to the chiral phase transition. &lt;em&gt;International journal of modern physics, C&lt;/em&gt;, &lt;em&gt;5&lt;/em&gt;(02), 383-385.&lt;/div&gt;</apa_indent>
+<default>Boyd G, Gupta S, Karsch F, Laermann E (1994) &lt;br /&gt;International journal of modern physics, C 5(02): 383-385.</default>
+<wels>Boyd, G.; Gupta, S.; Karsch, F.; Laermann, E. (1994): Screening masses close to the chiral phase transition &lt;em&gt;International journal of modern physics, C&lt;/em&gt;,5:(02): 383-385.</wels>
+<aps>G.  Boyd, et al., Screening masses close to the chiral phase transition, International journal of modern physics, C &lt;strong&gt;5&lt;/strong&gt;, 383-385 (1994).</aps>
+<bio1>Boyd G, Gupta S, Karsch F, Laermann E (1994) &lt;br /&gt;Screening masses close to the chiral phase transition.&lt;br /&gt;International journal of modern physics, C 5(02): 383-385.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Boyd, G., Gupta, S., Karsch, F. &amp;amp; Laermann, E. (1994). Screening masses close to the chiral phase transition. &lt;em&gt;International journal of modern physics, C&lt;/em&gt;, &lt;em&gt;5&lt;/em&gt;(02), 383-385. doi:10.1142/S0129183194000544.&lt;/div&gt;</dgps>
+<harvard1>Boyd, G., et al., 1994. Screening masses close to the chiral phase transition. &lt;em&gt;International journal of modern physics, C&lt;/em&gt;, 5(02), p 383-385.</harvard1>
+<ama>Boyd G, Gupta S, Karsch F, Laermann E. Screening masses close to the chiral phase transition. &lt;em&gt;International journal of modern physics, C&lt;/em&gt;. 1994;5(02):383-385.</ama>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1784347</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1784347</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1784347</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

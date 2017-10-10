@@ -1,0 +1,102 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Interaction of electric fields with membrane-bound polyionic proteins</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Eberhard</namePart>
+  <namePart type="family">Neumann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20317</identifier></name>
+<name type="personal">
+  <namePart type="given">Kinko</namePart>
+  <namePart type="family">Tsuji</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Sonja</namePart><namePart type="family">Krause</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Chemie</namePart>
+  <identifier type="unibi">10018</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Neumann_B16.pdf">https://pub.uni-bielefeld.de/download/1777870/2312363</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Plenum Pr.</publisher><dateIssued encoding="w3cdtf">1981</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Molecular electro-optics: electro-optic properties of macromolecules and colloids in solution ; [proceedings of a NATO Advanced Study Inst. on Molecular Electro-optics, held July 14 - 24, 1980, at Rensselaer Polytechn. Inst., Troy, NY]</title></titleInfo>
+  <identifier type="isbn">0-306-40659-4</identifier><identifier type="urn">urn:nbn:de:0070-bipr-14694</identifier>
+<part><extent unit="pages">241-268</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>Neumann E, Tsuji K (1981) &lt;br /&gt;Interaction of electric fields with membrane-bound polyionic proteins. &lt;br /&gt;In:  Molecular electro-optics: electro-optic properties of macromolecules and colloids in solution ; [proceedings of a NATO Advanced Study Inst. on Molecular Electro-optics, held July 14 - 24, 1980, at Rensselaer Polytechn. Inst., Troy, NY]. Krause S (Ed); NATO advanced study institutes series : Ser. B ; 64,  New York: Plenum Pr.:  241-268.</bio1>
+<aps>E.  Neumann and K.  Tsuji, Interaction of electric fields with membrane-bound polyionic proteins, in &lt;em&gt;Molecular electro-optics: electro-optic properties of macromolecules and colloids in solution ; [proceedings of a NATO Advanced Study Inst. on Molecular Electro-optics, held July 14 - 24, 1980, at Rensselaer Polytechn. Inst., Troy, NY]&lt;/em&gt;, edited by S.  Krause, NATO advanced study institutes series : Ser. B ; 64 (Plenum Pr., New York, 1981), p. 241-268.</aps>
+<ama>Neumann E, Tsuji K. Interaction of electric fields with membrane-bound polyionic proteins. In: Krause S, ed. &lt;em&gt;Molecular electro-optics: electro-optic properties of macromolecules and colloids in solution ; [proceedings of a NATO Advanced Study Inst. on Molecular Electro-optics, held July 14 - 24, 1980, at Rensselaer Polytechn. Inst., Troy, NY]&lt;/em&gt;. NATO advanced study institutes series : Ser. B ; 64. New York: Plenum Pr.;  1981: 241-268.</ama>
+<harvard1>Neumann, E., &amp;amp; Tsuji, K., 1981. Interaction of electric fields with membrane-bound polyionic proteins. In S.  Krause, ed. &lt;em&gt;Molecular electro-optics: electro-optic properties of macromolecules and colloids in solution ; [proceedings of a NATO Advanced Study Inst. on Molecular Electro-optics, held July 14 - 24, 1980, at Rensselaer Polytechn. Inst., Troy, NY]&lt;/em&gt;. NATO advanced study institutes series : Ser. B ; 64.  New York: Plenum Pr., pp. 241-268.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neumann, E. &amp;amp; Tsuji, K. (1981). Interaction of electric fields with membrane-bound polyionic proteins (NATO advanced study institutes series : Ser. B ; 64). &lt;em&gt;Molecular electro-optics: electro-optic properties of macromolecules and colloids in solution ; [proceedings of a NATO Advanced Study Inst. on Molecular Electro-optics, held July 14 - 24, 1980, at Rensselaer Polytechn. Inst., Troy, NY]&lt;/em&gt; (S. 241-268). New York: Plenum Pr.&lt;/div&gt;</dgps>
+<default>Neumann E, Tsuji K (1981)  &lt;br /&gt;In:  Molecular electro-optics: electro-optic properties of macromolecules and colloids in solution ; [proceedings of a NATO Advanced Study Inst. on Molecular Electro-optics, held July 14 - 24, 1980, at Rensselaer Polytechn. Inst., Troy, NY]. Krause S (Ed); NATO advanced study institutes series : Ser. B ; 64, . New York: Plenum Pr.:  241-268.</default>
+<wels>Neumann, E.; Tsuji, K. (1981): Interaction of electric fields with membrane-bound polyionic proteins. In: Sonja Krause (Hrsg.):  Molecular electro-optics: electro-optic properties of macromolecules and colloids in solution ; [proceedings of a NATO Advanced Study Inst. on Molecular Electro-optics, held July 14 - 24, 1980, at Rensselaer Polytechn. Inst., Troy, NY]. New York: Plenum Pr. (NATO advanced study institutes series : Ser. B ; 64, ).  S. 241-268.</wels>
+<lncs>Neumann, E., Tsuji, K.: Interaction of electric fields with membrane-bound polyionic proteins. In: Krause, S. (ed.) Molecular electro-optics: electro-optic properties of macromolecules and colloids in solution ; [proceedings of a NATO Advanced Study Inst. on Molecular Electro-optics, held July 14 - 24, 1980, at Rensselaer Polytechn. Inst., Troy, NY]. NATO advanced study institutes series : Ser. B ; 64. p. 241-268. Plenum Pr., New York (1981).</lncs>
+<mla>Neumann, Eberhard, and Tsuji, Kinko. “Interaction of electric fields with membrane-bound polyionic proteins”. &lt;em&gt;Molecular electro-optics: electro-optic properties of macromolecules and colloids in solution ; [proceedings of a NATO Advanced Study Inst. on Molecular Electro-optics, held July 14 - 24, 1980, at Rensselaer Polytechn. Inst., Troy, NY]&lt;/em&gt;. Ed. Sonja Krause. New York: Plenum Pr., 1981. NATO advanced study institutes series : Ser. B ; 64. 241-268.</mla>
+<ieee>E. Neumann and K. Tsuji, “Interaction of electric fields with membrane-bound polyionic proteins”, &lt;em&gt;Molecular electro-optics: electro-optic properties of macromolecules and colloids in solution ; [proceedings of a NATO Advanced Study Inst. on Molecular Electro-optics, held July 14 - 24, 1980, at Rensselaer Polytechn. Inst., Troy, NY]&lt;/em&gt;, S. Krause, ed., NATO advanced study institutes series : Ser. B ; 64,  New York: Plenum Pr., 1981,  pp.241-268.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neumann, E., &amp;amp; Tsuji, K. (1981). Interaction of electric fields with membrane-bound polyionic proteins. In S.  Krause (Ed.), &lt;em&gt;NATO advanced study institutes series : Ser. B ; 64&lt;/em&gt;&lt;em&gt;. Molecular electro-optics: electro-optic properties of macromolecules and colloids in solution ; [proceedings of a NATO Advanced Study Inst. on Molecular Electro-optics, held July 14 - 24, 1980, at Rensselaer Polytechn. Inst., Troy, NY]&lt;/em&gt; (pp. 241-268). New York: Plenum Pr.&lt;/div&gt;</apa_indent>
+<frontiers>Neumann, E., and Tsuji, K. (1981). “Interaction of electric fields with membrane-bound polyionic proteins” in &lt;em&gt;Molecular electro-optics: electro-optic properties of macromolecules and colloids in solution ; [proceedings of a NATO Advanced Study Inst. on Molecular Electro-optics, held July 14 - 24, 1980, at Rensselaer Polytechn. Inst., Troy, NY]&lt;/em&gt;, ed. S.  Krause NATO advanced study institutes series : Ser. B ; 64 (New York: Plenum Pr.), 241-268.</frontiers>
+<apa>Neumann, E., &amp;amp; Tsuji, K. (1981). Interaction of electric fields with membrane-bound polyionic proteins. In S.  Krause (Ed.), &lt;em&gt;NATO advanced study institutes series : Ser. B ; 64&lt;/em&gt;&lt;em&gt;. Molecular electro-optics: electro-optic properties of macromolecules and colloids in solution ; [proceedings of a NATO Advanced Study Inst. on Molecular Electro-optics, held July 14 - 24, 1980, at Rensselaer Polytechn. Inst., Troy, NY]&lt;/em&gt; (pp. 241-268). New York: Plenum Pr.</apa>
+<angewandte-chemie>E.  Neumann, and K.  Tsuji, in &lt;em&gt;Molecular electro-optics: electro-optic properties of macromolecules and colloids in solution ; [proceedings of a NATO Advanced Study Inst. on Molecular Electro-optics, held July 14 - 24, 1980, at Rensselaer Polytechn. Inst., Troy, NY]&lt;/em&gt; (Ed.: S. Krause), Plenum Pr., New York, &lt;strong&gt;1981&lt;/strong&gt;, p. 241-268.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neumann, Eberhard, and Tsuji, Kinko. 1981. “Interaction of electric fields with membrane-bound polyionic proteins”. In &lt;em&gt;Molecular electro-optics: electro-optic properties of macromolecules and colloids in solution ; [proceedings of a NATO Advanced Study Inst. on Molecular Electro-optics, held July 14 - 24, 1980, at Rensselaer Polytechn. Inst., Troy, NY]&lt;/em&gt;, ed. Sonja Krause, 241-268. NATO advanced study institutes series : Ser. B ; 64. New York: Plenum Pr.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1777870</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1777870</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1777870</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,112 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Auf dem Weg zu neuen fachübergreifenden Studien</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ludwig</namePart>
+  <namePart type="family">Huber</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">172028</identifier></name>
+<name type="personal">
+  <namePart type="given">Jan H.</namePart>
+  <namePart type="family">Olbertz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Johannes</namePart>
+  <namePart type="family">Wildt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Ludwig</namePart><namePart type="family">Huber</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given"> Jan H.</namePart><namePart type="family">Olbertz</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Beate</namePart><namePart type="family">Rüther</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Johannes</namePart><namePart type="family">Wildt</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10061</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT2662.pdf">https://pub.uni-bielefeld.de/download/1781675/2313417</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Dt. Studien-Verl.</publisher><dateIssued encoding="w3cdtf">1994</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Über das Fachstudium hinaus: Berichte zu Stand und Entwicklung fachübergreifender Studienangebote an Universitäten</title></titleInfo>
+  <identifier type="isbn">3-89271-488-6</identifier><identifier type="urn">urn:nbn:de:0070-bipr-26622</identifier>
+<part><detail type="volume"><number>97</number></detail><extent unit="pages">9-47</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Huber, L., Olbertz, J. H., and Wildt, J. (1994). “Auf dem Weg zu neuen fachübergreifenden Studien” in &lt;em&gt;Über das Fachstudium hinaus: Berichte zu Stand und Entwicklung fachübergreifender Studienangebote an Universitäten&lt;/em&gt;, Huber, L., Olbertz,  J. H., Rüther, B., and Wildt, J. eds. Blickpunkt Hochschuldidaktik, vol. 97, (Weinheim: Dt. Studien-Verl.), 9-47.</frontiers>
+<apa>Huber, L., Olbertz, J. H., &amp;amp; Wildt, J. (1994). Auf dem Weg zu neuen fachübergreifenden Studien. In L.  Huber, J. H.  Olbertz, B.  Rüther, &amp;amp; J.  Wildt (Eds.), &lt;em&gt;Blickpunkt Hochschuldidaktik: Vol. 97&lt;/em&gt;&lt;em&gt;. Über das Fachstudium hinaus: Berichte zu Stand und Entwicklung fachübergreifender Studienangebote an Universitäten&lt;/em&gt; (pp. 9-47). Weinheim: Dt. Studien-Verl.</apa>
+<angewandte-chemie>L.  Huber, J. H.  Olbertz, and J.  Wildt, in &lt;em&gt;Über das Fachstudium hinaus: Berichte zu Stand und Entwicklung fachübergreifender Studienangebote an Universitäten&lt;/em&gt; (Eds.: L. Huber, J.H. Olbertz, B. Rüther, J. Wildt), Dt. Studien-Verl., Weinheim, &lt;strong&gt;1994&lt;/strong&gt;, p. 9-47.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Huber, Ludwig, Olbertz, Jan H., and Wildt, Johannes. 1994. “Auf dem Weg zu neuen fachübergreifenden Studien”. In &lt;em&gt;Über das Fachstudium hinaus: Berichte zu Stand und Entwicklung fachübergreifender Studienangebote an Universitäten&lt;/em&gt;, ed. Ludwig Huber, Jan H. Olbertz, Beate Rüther, and Johannes Wildt, 97:9-47. Blickpunkt Hochschuldidaktik. Weinheim: Dt. Studien-Verl.&lt;/div&gt;</chicago>
+<lncs> Huber, L., Olbertz, J.H., Wildt, J.: Auf dem Weg zu neuen fachübergreifenden Studien. In: Huber, L., Olbertz,  J.H., Rüther, B., and Wildt, J. (eds.) Über das Fachstudium hinaus: Berichte zu Stand und Entwicklung fachübergreifender Studienangebote an Universitäten. Blickpunkt Hochschuldidaktik. 97, p. 9-47. Dt. Studien-Verl., Weinheim (1994).</lncs>
+<mla>Huber, Ludwig, Olbertz, Jan H., and Wildt, Johannes. “Auf dem Weg zu neuen fachübergreifenden Studien”. &lt;em&gt;Über das Fachstudium hinaus: Berichte zu Stand und Entwicklung fachübergreifender Studienangebote an Universitäten&lt;/em&gt;. Ed. Ludwig Huber, Jan H. Olbertz, Beate Rüther, and Johannes Wildt. Weinheim: Dt. Studien-Verl., 1994.Vol. 97. Blickpunkt Hochschuldidaktik. 9-47.</mla>
+<ieee> L. Huber, J.H. Olbertz, and J. Wildt, “Auf dem Weg zu neuen fachübergreifenden Studien”, &lt;em&gt;Über das Fachstudium hinaus: Berichte zu Stand und Entwicklung fachübergreifender Studienangebote an Universitäten&lt;/em&gt;, L. Huber, et al., eds., Blickpunkt Hochschuldidaktik, vol. 97,  Weinheim: Dt. Studien-Verl., 1994,  pp.9-47.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Huber, L., Olbertz, J. H., &amp;amp; Wildt, J. (1994). Auf dem Weg zu neuen fachübergreifenden Studien. In L.  Huber, J. H.  Olbertz, B.  Rüther, &amp;amp; J.  Wildt (Eds.), &lt;em&gt;Blickpunkt Hochschuldidaktik: Vol. 97&lt;/em&gt;&lt;em&gt;. Über das Fachstudium hinaus: Berichte zu Stand und Entwicklung fachübergreifender Studienangebote an Universitäten&lt;/em&gt; (pp. 9-47). Weinheim: Dt. Studien-Verl.&lt;/div&gt;</apa_indent>
+<default>Huber L, Olbertz JH, Wildt J (1994)  &lt;br /&gt;In:  Über das Fachstudium hinaus: Berichte zu Stand und Entwicklung fachübergreifender Studienangebote an Universitäten. Huber L, Olbertz  JH, Rüther B, Wildt J (Eds); Blickpunkt Hochschuldidaktik, 97. Weinheim: Dt. Studien-Verl.:  9-47.</default>
+<wels>Huber, L.; Olbertz, J. H.; Wildt, J. (1994): Auf dem Weg zu neuen fachübergreifenden Studien. In: Ludwig Huber; Jan H. Olbertz; Beate Rüther; Johannes Wildt (Hrsg.):  Über das Fachstudium hinaus: Berichte zu Stand und Entwicklung fachübergreifender Studienangebote an Universitäten. Weinheim: Dt. Studien-Verl. (Blickpunkt Hochschuldidaktik, 97).  S. 9-47.</wels>
+<aps> L.  Huber, J. H.  Olbertz, and J.  Wildt, Auf dem Weg zu neuen fachübergreifenden Studien, in &lt;em&gt;Über das Fachstudium hinaus: Berichte zu Stand und Entwicklung fachübergreifender Studienangebote an Universitäten&lt;/em&gt;, edited by L.  Huber, et al., Blickpunkt Hochschuldidaktik, &lt;strong&gt;97&lt;/strong&gt; (Dt. Studien-Verl., Weinheim, 1994), p. 9-47.</aps>
+<bio1>Huber L, Olbertz JH, Wildt J (1994) &lt;br /&gt;Auf dem Weg zu neuen fachübergreifenden Studien. &lt;br /&gt;In:  Über das Fachstudium hinaus: Berichte zu Stand und Entwicklung fachübergreifender Studienangebote an Universitäten. Huber L, Olbertz  JH, Rüther B, Wildt J (Eds); Blickpunkt Hochschuldidaktik, 97. Weinheim: Dt. Studien-Verl.:  9-47.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Huber, L., Olbertz, J.H. &amp;amp; Wildt, J. (1994). Auf dem Weg zu neuen fachübergreifenden Studien (Blickpunkt Hochschuldidaktik). &lt;em&gt;Über das Fachstudium hinaus: Berichte zu Stand und Entwicklung fachübergreifender Studienangebote an Universitäten&lt;/em&gt; (S. 9-47). Weinheim: Dt. Studien-Verl.&lt;/div&gt;</dgps>
+<harvard1>Huber, L., Olbertz, J.H., &amp;amp; Wildt, J., 1994. Auf dem Weg zu neuen fachübergreifenden Studien. In L.  Huber, et al., eds. &lt;em&gt;Über das Fachstudium hinaus: Berichte zu Stand und Entwicklung fachübergreifender Studienangebote an Universitäten&lt;/em&gt;. Blickpunkt Hochschuldidaktik. no.97  Weinheim: Dt. Studien-Verl., pp. 9-47.</harvard1>
+<ama>Huber L, Olbertz JH, Wildt J. Auf dem Weg zu neuen fachübergreifenden Studien. In: Huber L, Olbertz  JH, Rüther B, Wildt J, eds. &lt;em&gt;Über das Fachstudium hinaus: Berichte zu Stand und Entwicklung fachübergreifender Studienangebote an Universitäten&lt;/em&gt;. Blickpunkt Hochschuldidaktik. Vol 97. Weinheim: Dt. Studien-Verl.;  1994: 9-47.</ama>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781675</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-08-10T11:34:41Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-08-10T11:34:41Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781675</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781675</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

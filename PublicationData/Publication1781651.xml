@@ -1,0 +1,96 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Disciplinary cultures and social reproduction</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ludwig</namePart>
+  <namePart type="family">Huber</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">172028</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Wissenschafts- und Technikforschung</namePart>
+  <identifier type="unibi">10061</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT2629.pdf">https://pub.uni-bielefeld.de/download/1781651/2313395</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1990</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>European journal of education</title></titleInfo>
+  <identifier type="issn">0141-8211</identifier><identifier type="urn">urn:nbn:de:0070-bipr-26299</identifier>
+<part><detail type="volume"><number>25</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">241-261</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Huber L (1990) &lt;br /&gt;European journal of education 25(3): 241-261.</default>
+<wels>Huber, L. (1990): Disciplinary cultures and social reproduction &lt;em&gt;European journal of education&lt;/em&gt;,25:(3): 241-261.</wels>
+<bio1>Huber L (1990) &lt;br /&gt;Disciplinary cultures and social reproduction.&lt;br /&gt;European journal of education 25(3): 241-261.</bio1>
+<aps>L.  Huber, Disciplinary cultures and social reproduction, European journal of education &lt;strong&gt;25&lt;/strong&gt;, 241-261 (1990).</aps>
+<harvard1>Huber, L., 1990. Disciplinary cultures and social reproduction. &lt;em&gt;European journal of education&lt;/em&gt;, 25(3), p 241-261.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Huber, L. (1990). Disciplinary cultures and social reproduction. &lt;em&gt;European journal of education&lt;/em&gt;, &lt;em&gt;25&lt;/em&gt;(3), 241-261.&lt;/div&gt;</dgps>
+<ama>Huber L. Disciplinary cultures and social reproduction. &lt;em&gt;European journal of education&lt;/em&gt;. 1990;25(3):241-261.</ama>
+<frontiers>Huber, L. (1990). Disciplinary cultures and social reproduction. &lt;em&gt;European journal of education&lt;/em&gt; 25, 241-261.</frontiers>
+<apa>Huber, L. (1990). Disciplinary cultures and social reproduction. &lt;em&gt;European journal of education&lt;/em&gt;, &lt;em&gt;25&lt;/em&gt;(3), 241-261.</apa>
+<angewandte-chemie>L.  Huber, “Disciplinary cultures and social reproduction”, &lt;em&gt;European journal of education&lt;/em&gt;, &lt;strong&gt;1990&lt;/strong&gt;, &lt;em&gt;25&lt;/em&gt;, 241-261.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Huber, Ludwig. 1990. “Disciplinary cultures and social reproduction”. &lt;em&gt;European journal of education&lt;/em&gt; 25 (3): 241-261.&lt;/div&gt;</chicago>
+<mla>Huber, Ludwig. “Disciplinary cultures and social reproduction”. &lt;em&gt;European journal of education&lt;/em&gt; 25.3 (1990): 241-261.</mla>
+<lncs>Huber, L.: Disciplinary cultures and social reproduction. European journal of education. 25, 241-261 (1990).</lncs>
+<ieee>L. Huber, “Disciplinary cultures and social reproduction”, &lt;em&gt;European journal of education&lt;/em&gt;,  vol. 25, 1990,  pp. 241-261.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Huber, L. (1990). Disciplinary cultures and social reproduction. &lt;em&gt;European journal of education&lt;/em&gt;, &lt;em&gt;25&lt;/em&gt;(3), 241-261.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781651</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781651</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781651</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

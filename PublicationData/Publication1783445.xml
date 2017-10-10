@@ -1,0 +1,102 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Mass-analysed ion kinetic energy spectra and collisional activation spectra of cluster ions of methly 2,3,4,6-tetra-o-methly-d-hexopyranosides with ammonia and methylamine</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Vladimir</namePart>
+  <namePart type="family">Kovácik</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Hans-Friedrich</namePart>
+  <namePart type="family">Grützmacher</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">41603</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Chemie</namePart>
+  <identifier type="unibi">10018</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="gr_027.pdf">https://pub.uni-bielefeld.de/download/1783445/2314175</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1991</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Organic Mass Spectrometry</title></titleInfo>
+  <identifier type="issn">0030-493X</identifier>
+  <identifier type="eIssn">1096-9888</identifier>
+  <identifier type="ISI">A1991GE69300020</identifier><identifier type="urn">urn:nbn:de:0070-pub-17834459</identifier><identifier type="doi">10.1002/oms.1210260921</identifier>
+<part><detail type="volume"><number>26</number></detail><detail type="issue"><number>9</number></detail><extent unit="pages">809-810</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>Kovácik V, Grützmacher H-F (1991) &lt;br /&gt;Mass-analysed ion kinetic energy spectra and collisional activation spectra of cluster ions of methly 2,3,4,6-tetra-o-methly-d-hexopyranosides with ammonia and methylamine.&lt;br /&gt;Organic Mass Spectrometry 26(9): 809-810.</bio1>
+<aps>V.  Kovácik and H. - F.  Grützmacher, Mass-analysed ion kinetic energy spectra and collisional activation spectra of cluster ions of methly 2,3,4,6-tetra-o-methly-d-hexopyranosides with ammonia and methylamine, Organic Mass Spectrometry &lt;strong&gt;26&lt;/strong&gt;, 809-810 (1991).</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kovácik, V. &amp;amp; Grützmacher, H.-F. (1991). Mass-analysed ion kinetic energy spectra and collisional activation spectra of cluster ions of methly 2,3,4,6-tetra-o-methly-d-hexopyranosides with ammonia and methylamine. &lt;em&gt;Organic Mass Spectrometry&lt;/em&gt;, &lt;em&gt;26&lt;/em&gt;(9), 809-810. doi:10.1002/oms.1210260921.&lt;/div&gt;</dgps>
+<harvard1>Kovácik, V., &amp;amp; Grützmacher, H.-F., 1991. Mass-analysed ion kinetic energy spectra and collisional activation spectra of cluster ions of methly 2,3,4,6-tetra-o-methly-d-hexopyranosides with ammonia and methylamine. &lt;em&gt;Organic Mass Spectrometry&lt;/em&gt;, 26(9), p 809-810.</harvard1>
+<ama>Kovácik V, Grützmacher H-F. Mass-analysed ion kinetic energy spectra and collisional activation spectra of cluster ions of methly 2,3,4,6-tetra-o-methly-d-hexopyranosides with ammonia and methylamine. &lt;em&gt;Organic Mass Spectrometry&lt;/em&gt;. 1991;26(9):809-810.</ama>
+<default>Kovácik V, Grützmacher H-F (1991) &lt;br /&gt;Organic Mass Spectrometry 26(9): 809-810.</default>
+<wels>Kovácik, V.; Grützmacher, H. - F. (1991): Mass-analysed ion kinetic energy spectra and collisional activation spectra of cluster ions of methly 2,3,4,6-tetra-o-methly-d-hexopyranosides with ammonia and methylamine &lt;em&gt;Organic Mass Spectrometry&lt;/em&gt;,26:(9): 809-810.</wels>
+<mla>Kovácik, Vladimir, and Grützmacher, Hans-Friedrich. “Mass-analysed ion kinetic energy spectra and collisional activation spectra of cluster ions of methly 2,3,4,6-tetra-o-methly-d-hexopyranosides with ammonia and methylamine”. &lt;em&gt;Organic Mass Spectrometry&lt;/em&gt; 26.9 (1991): 809-810.</mla>
+<lncs>Kovácik, V., Grützmacher, H.-F.: Mass-analysed ion kinetic energy spectra and collisional activation spectra of cluster ions of methly 2,3,4,6-tetra-o-methly-d-hexopyranosides with ammonia and methylamine. Organic Mass Spectrometry. 26, 809-810 (1991).</lncs>
+<ieee>V. Kovácik and H.-F. Grützmacher, “Mass-analysed ion kinetic energy spectra and collisional activation spectra of cluster ions of methly 2,3,4,6-tetra-o-methly-d-hexopyranosides with ammonia and methylamine”, &lt;em&gt;Organic Mass Spectrometry&lt;/em&gt;,  vol. 26, 1991,  pp. 809-810.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kovácik, V., &amp;amp; Grützmacher, H. - F. (1991). Mass-analysed ion kinetic energy spectra and collisional activation spectra of cluster ions of methly 2,3,4,6-tetra-o-methly-d-hexopyranosides with ammonia and methylamine. &lt;em&gt;Organic Mass Spectrometry&lt;/em&gt;, &lt;em&gt;26&lt;/em&gt;(9), 809-810.&lt;/div&gt;</apa_indent>
+<frontiers>Kovácik, V., and Grützmacher, H. - F. (1991). Mass-analysed ion kinetic energy spectra and collisional activation spectra of cluster ions of methly 2,3,4,6-tetra-o-methly-d-hexopyranosides with ammonia and methylamine. &lt;em&gt;Organic Mass Spectrometry&lt;/em&gt; 26, 809-810.</frontiers>
+<apa>Kovácik, V., &amp;amp; Grützmacher, H. - F. (1991). Mass-analysed ion kinetic energy spectra and collisional activation spectra of cluster ions of methly 2,3,4,6-tetra-o-methly-d-hexopyranosides with ammonia and methylamine. &lt;em&gt;Organic Mass Spectrometry&lt;/em&gt;, &lt;em&gt;26&lt;/em&gt;(9), 809-810.</apa>
+<angewandte-chemie>V.  Kovácik, and H. - F.  Grützmacher, “Mass-analysed ion kinetic energy spectra and collisional activation spectra of cluster ions of methly 2,3,4,6-tetra-o-methly-d-hexopyranosides with ammonia and methylamine”, &lt;em&gt;Organic Mass Spectrometry&lt;/em&gt;, &lt;strong&gt;1991&lt;/strong&gt;, &lt;em&gt;26&lt;/em&gt;, 809-810.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kovácik, Vladimir, and Grützmacher, Hans-Friedrich. 1991. “Mass-analysed ion kinetic energy spectra and collisional activation spectra of cluster ions of methly 2,3,4,6-tetra-o-methly-d-hexopyranosides with ammonia and methylamine”. &lt;em&gt;Organic Mass Spectrometry&lt;/em&gt; 26 (9): 809-810.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1783445</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1783445</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1783445</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

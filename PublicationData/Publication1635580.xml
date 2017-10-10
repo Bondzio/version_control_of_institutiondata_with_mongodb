@@ -1,0 +1,115 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Distribution of guest molecules in Pluronic micelles studied by double electron electron spin resonance and small angle X-ray scattering</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Sharon</namePart>
+  <namePart type="family">Ruthstein</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Arnold M.</namePart>
+  <namePart type="family">Raitsimring</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ronit</namePart>
+  <namePart type="family">Bitton</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Veronica</namePart>
+  <namePart type="family">Frydman</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Adelheid</namePart>
+  <namePart type="family">Godt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">101324</identifier></name>
+<name type="personal">
+  <namePart type="given">Daniella</namePart>
+  <namePart type="family">Goldfarb</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Organische Chemie II</namePart>
+  <identifier type="unibi">17976</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Pulse double electron-electron spin resonance (DEER) measurements were applied to characterize the distribution and average number of guest-molecules (in the form of spin-probes) in Pluronic P123 micelles. Two types of spin-probes were used, one of which is a spin-labeled P123 (P123-NO), which is similar to the micelles constituent molecules, and the other is spin-labeled Brij56 (Brij56-NO) which is significantly different. Qualitative information regarding the relative location of the spin-labels within the micelles was obtained from the isotropic hyperfine coupling and the correlation times, determined from continuous wave EPR measurements. In addition, complementary small angle X-ray scattering (SAXS) measurements on the P123 micellar solutions, with and without the spin-probes, were carried out for an independent determination of the size of the core and corona of the micelles and to ensure that the spin-probes do not alter the size or shape of the micelles. Two approaches were used for the analysis of the DEER data. The first is model free, which is based on the determination of the leveling of value of the DEER kinetics. This provided good estimates of the number of radicals per micelle (low limit) which, together with the known concentration of the P123 molecules, gave the aggregation number of the P123 micelles. In addition, it provided an average distance between radicals which is within the range expected from the micelles&apos; size determined by SAXS. The second approach was to analyze the full kinetic form which is model dependent. This analysis showed that both spin-labels are not homogeneously distributed in either a sphere or a spherical shell, and that large distances are preferred. This analysis yielded a slightly larger occupation volume within the micelle for P123-NO than for Brij56-NO, consistent with their chemical character.</abstract>
+
+<originInfo><publisher>Royal Society of Chemistry (RSC)</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>PHYSICAL CHEMISTRY CHEMICAL PHYSICS</title></titleInfo>
+  <identifier type="issn">1463-9076</identifier>
+  <identifier type="eIssn">1463-9084</identifier>
+  <identifier type="MEDLINE">19081918</identifier>
+  <identifier type="ISI">000263278900013</identifier><identifier type="doi">10.1039/b812475b</identifier>
+<part><detail type="volume"><number>11</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">148-160</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Ruthstein S, Raitsimring AM, Bitton R, Frydman V, Godt A, Goldfarb D (2009) &lt;br /&gt;PHYSICAL CHEMISTRY CHEMICAL PHYSICS 11(1): 148-160.</default>
+<wels>Ruthstein, S.; Raitsimring, A. M.; Bitton, R.; Frydman, V.; Godt, A.; Goldfarb, D. (2009): Distribution of guest molecules in Pluronic micelles studied by double electron electron spin resonance and small angle X-ray scattering &lt;em&gt;PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt;,11:(1): 148-160.</wels>
+<bio1>Ruthstein S, Raitsimring AM, Bitton R, Frydman V, Godt A, Goldfarb D (2009) &lt;br /&gt;Distribution of guest molecules in Pluronic micelles studied by double electron electron spin resonance and small angle X-ray scattering.&lt;br /&gt;PHYSICAL CHEMISTRY CHEMICAL PHYSICS 11(1): 148-160.</bio1>
+<aps>S.  Ruthstein, et al., Distribution of guest molecules in Pluronic micelles studied by double electron electron spin resonance and small angle X-ray scattering, PHYSICAL CHEMISTRY CHEMICAL PHYSICS &lt;strong&gt;11&lt;/strong&gt;, 148-160 (2009).</aps>
+<harvard1>Ruthstein, S., et al., 2009. Distribution of guest molecules in Pluronic micelles studied by double electron electron spin resonance and small angle X-ray scattering. &lt;em&gt;PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt;, 11(1), p 148-160.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ruthstein, S., Raitsimring, A.M., Bitton, R., Frydman, V., Godt, A. &amp;amp; Goldfarb, D. (2009). Distribution of guest molecules in Pluronic micelles studied by double electron electron spin resonance and small angle X-ray scattering. &lt;em&gt;PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt;, &lt;em&gt;11&lt;/em&gt;(1), 148-160. Royal Society of Chemistry (RSC). doi:10.1039/b812475b.&lt;/div&gt;</dgps>
+<ama>Ruthstein S, Raitsimring AM, Bitton R, Frydman V, Godt A, Goldfarb D. Distribution of guest molecules in Pluronic micelles studied by double electron electron spin resonance and small angle X-ray scattering. &lt;em&gt;PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt;. 2009;11(1):148-160.</ama>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ruthstein, Sharon, Raitsimring, Arnold M., Bitton, Ronit, Frydman, Veronica, Godt, Adelheid, and Goldfarb, Daniella. 2009. “Distribution of guest molecules in Pluronic micelles studied by double electron electron spin resonance and small angle X-ray scattering”. &lt;em&gt;PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt; 11 (1): 148-160.&lt;/div&gt;</chicago>
+<frontiers>Ruthstein, S., Raitsimring, A. M., Bitton, R., Frydman, V., Godt, A., and Goldfarb, D. (2009). Distribution of guest molecules in Pluronic micelles studied by double electron electron spin resonance and small angle X-ray scattering. &lt;em&gt;PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt; 11, 148-160.</frontiers>
+<angewandte-chemie>S.  Ruthstein, A. M.  Raitsimring, R.  Bitton, V.  Frydman, A.  Godt, and D.  Goldfarb, “Distribution of guest molecules in Pluronic micelles studied by double electron electron spin resonance and small angle X-ray scattering”, &lt;em&gt;PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;11&lt;/em&gt;, 148-160.</angewandte-chemie>
+<apa>Ruthstein, S., Raitsimring, A. M., Bitton, R., Frydman, V., Godt, A., &amp;amp; Goldfarb, D. (2009). Distribution of guest molecules in Pluronic micelles studied by double electron electron spin resonance and small angle X-ray scattering. &lt;em&gt;PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt;, &lt;em&gt;11&lt;/em&gt;(1), 148-160.</apa>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ruthstein, S., Raitsimring, A. M., Bitton, R., Frydman, V., Godt, A., &amp;amp; Goldfarb, D. (2009). Distribution of guest molecules in Pluronic micelles studied by double electron electron spin resonance and small angle X-ray scattering. &lt;em&gt;PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt;, &lt;em&gt;11&lt;/em&gt;(1), 148-160.&lt;/div&gt;</apa_indent>
+<mla>Ruthstein, Sharon, Raitsimring, Arnold M., Bitton, Ronit, Frydman, Veronica, Godt, Adelheid, and Goldfarb, Daniella. “Distribution of guest molecules in Pluronic micelles studied by double electron electron spin resonance and small angle X-ray scattering”. &lt;em&gt;PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt; 11.1 (2009): 148-160.</mla>
+<lncs>Ruthstein, S., Raitsimring, A.M., Bitton, R., Frydman, V., Godt, A., Goldfarb, D.: Distribution of guest molecules in Pluronic micelles studied by double electron electron spin resonance and small angle X-ray scattering. PHYSICAL CHEMISTRY CHEMICAL PHYSICS. 11, 148-160 (2009).</lncs>
+<ieee>S. Ruthstein, et al., “Distribution of guest molecules in Pluronic micelles studied by double electron electron spin resonance and small angle X-ray scattering”, &lt;em&gt;PHYSICAL CHEMISTRY CHEMICAL PHYSICS&lt;/em&gt;,  vol. 11, 2009,  pp. 148-160.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1635580</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:43Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-10-07T06:57:57Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1635580</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1635580</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

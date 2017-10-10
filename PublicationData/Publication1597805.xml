@@ -1,0 +1,115 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Table design in dynamic programming</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Peter</namePart>
+  <namePart type="family">Steffen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">65488</identifier></name>
+<name type="personal">
+  <namePart type="given">Robert</namePart>
+  <namePart type="family">Giegerich</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">147565</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Praktische Informatik</namePart>
+  <identifier type="unibi">10039</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group R. Giegerich</namePart>
+  <identifier type="unibi">33067120</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Dynamic Programming solves combinatorial optimization problems by recursive decomposition and tabulation of intermediate results. The first step in the design of a dynamic programming algorithm is to decide on the set of tables that will hold optimal solutions to subproblems. This step predetermines the shape of the dynamic programming recurrences as well as the asymptotic efficiency of the algorithm in time and space. We study dynamic programming in a formal framework where design of tables and problem decomposition can be done independently. Our main result shows that choosing a good table design for a given decomposition is an NP-complete problem. A heuristic or approximate approach is therefore needed to automate good table design. We report on a strategy that combines user annotation and a brute force algorithm, which is shown to perform well in a large application. (C) 2006 Elsevier Inc. All rights reserved.</abstract>
+
+<originInfo><publisher>ACADEMIC PRESS INC ELSEVIER SCIENCE</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>programming methodology</topic><topic>dynamic programming</topic><topic>space-time trade-off</topic><topic>NP completeness</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>INFORMATION AND COMPUTATION</title></titleInfo>
+  <identifier type="issn">0890-5401</identifier>
+  <identifier type="ISI">000240757500001</identifier><identifier type="doi">10.1016/j.ic.2006.02.006</identifier>
+<part><detail type="volume"><number>204</number></detail><detail type="issue"><number>9</number></detail><extent unit="pages">1325-1345</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>P. Steffen and R. Giegerich, “Table design in dynamic programming”, &lt;em&gt;INFORMATION AND COMPUTATION&lt;/em&gt;,  vol. 204, 2006,  pp. 1325-1345.</ieee>
+<mla>Steffen, Peter, and Giegerich, Robert. “Table design in dynamic programming”. &lt;em&gt;INFORMATION AND COMPUTATION&lt;/em&gt; 204.9 (2006): 1325-1345.</mla>
+<lncs>Steffen, P., Giegerich, R.: Table design in dynamic programming. INFORMATION AND COMPUTATION. 204, 1325-1345 (2006).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Steffen, P., &amp;amp; Giegerich, R. (2006). Table design in dynamic programming. &lt;em&gt;INFORMATION AND COMPUTATION&lt;/em&gt;, &lt;em&gt;204&lt;/em&gt;(9), 1325-1345.&lt;/div&gt;</apa_indent>
+<apa>Steffen, P., &amp;amp; Giegerich, R. (2006). Table design in dynamic programming. &lt;em&gt;INFORMATION AND COMPUTATION&lt;/em&gt;, &lt;em&gt;204&lt;/em&gt;(9), 1325-1345.</apa>
+<angewandte-chemie>P.  Steffen, and R.  Giegerich, “Table design in dynamic programming”, &lt;em&gt;INFORMATION AND COMPUTATION&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;204&lt;/em&gt;, 1325-1345.</angewandte-chemie>
+<frontiers>Steffen, P., and Giegerich, R. (2006). Table design in dynamic programming. &lt;em&gt;INFORMATION AND COMPUTATION&lt;/em&gt; 204, 1325-1345.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Steffen, Peter, and Giegerich, Robert. 2006. “Table design in dynamic programming”. &lt;em&gt;INFORMATION AND COMPUTATION&lt;/em&gt; 204 (9): 1325-1345.&lt;/div&gt;</chicago>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Steffen, P. &amp;amp; Giegerich, R. (2006). Table design in dynamic programming. &lt;em&gt;INFORMATION AND COMPUTATION&lt;/em&gt;, &lt;em&gt;204&lt;/em&gt;(9), 1325-1345. ACADEMIC PRESS INC ELSEVIER SCIENCE. doi:10.1016/j.ic.2006.02.006.&lt;/div&gt;</dgps>
+<ama>Steffen P, Giegerich R. Table design in dynamic programming. &lt;em&gt;INFORMATION AND COMPUTATION&lt;/em&gt;. 2006;204(9):1325-1345.</ama>
+<harvard1>Steffen, P., &amp;amp; Giegerich, R., 2006. Table design in dynamic programming. &lt;em&gt;INFORMATION AND COMPUTATION&lt;/em&gt;, 204(9), p 1325-1345.</harvard1>
+<bio1>Steffen P, Giegerich R (2006) &lt;br /&gt;Table design in dynamic programming.&lt;br /&gt;INFORMATION AND COMPUTATION 204(9): 1325-1345.</bio1>
+<aps>P.  Steffen and R.  Giegerich, Table design in dynamic programming, INFORMATION AND COMPUTATION &lt;strong&gt;204&lt;/strong&gt;, 1325-1345 (2006).</aps>
+<wels>Steffen, P.; Giegerich, R. (2006): Table design in dynamic programming &lt;em&gt;INFORMATION AND COMPUTATION&lt;/em&gt;,204:(9): 1325-1345.</wels>
+<default>Steffen P, Giegerich R (2006) &lt;br /&gt;INFORMATION AND COMPUTATION 204(9): 1325-1345.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1597805</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:19:03Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-10-06T14:16:28Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1597805</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1597805</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

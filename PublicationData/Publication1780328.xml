@@ -1,0 +1,130 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Enhancement of the reflectivity of Mo/Si multilayer x-ray mirrors by thermal treatment</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">A.</namePart>
+  <namePart type="family">Kloidt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">K.</namePart>
+  <namePart type="family">Nolting</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">U.</namePart>
+  <namePart type="family">Kleineberg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">B.</namePart>
+  <namePart type="family">Schmiedeskamp</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ulrich</namePart>
+  <namePart type="family">Heinzmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40276</identifier></name>
+<name type="personal">
+  <namePart type="given">P.</namePart>
+  <namePart type="family">Müller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M.</namePart>
+  <namePart type="family">Kühne</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Lehrstuhl für Molekül- und Oberflächenphysik</namePart>
+  <identifier type="unibi">29133467</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Centrum für Biotechnologie</namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Thermal treatment of a Mo/Si multilayer stack enhances its reflectivity in the soft x-ray region. The multilayer x-ray mirrors are fabricated by electron beam evaporation in ultrahigh vacuum. In situ measurement of the reflectivity during the deposition allows thickness control and an observation of changes in quality of the boundaries. By heating the substrates during deposition we obtain a smoothing of the interfaces. This leads to x-ray mirrors with peak reflectivity around 50% for normal incident radiation of wavelengths between 130 and 140 A.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Heinzmann_103.pdf">https://pub.uni-bielefeld.de/download/1780328/2312878</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1991</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Applied Physics Letters</title></titleInfo>
+  <identifier type="issn">0003-6951</identifier>
+  <identifier type="ISI">A1991FP86900007</identifier><identifier type="urn">urn:nbn:de:0070-pub-17803286</identifier><identifier type="doi">10.1063/1.104835</identifier>
+<part><detail type="volume"><number>58</number></detail><detail type="issue"><number>23</number></detail><extent unit="pages">2601-2603</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Kloidt A, Nolting K, Kleineberg U, Schmiedeskamp B, Heinzmann U, Müller P, Kühne M (1991) &lt;br /&gt;Applied Physics Letters 58(23): 2601-2603.</default>
+<wels>Kloidt, A.; Nolting, K.; Kleineberg, U.; Schmiedeskamp, B.; Heinzmann, U.; Müller, P.; Kühne, M. (1991): Enhancement of the reflectivity of Mo/Si multilayer x-ray mirrors by thermal treatment &lt;em&gt;Applied Physics Letters&lt;/em&gt;,58:(23): 2601-2603.</wels>
+<bio1>Kloidt A, Nolting K, Kleineberg U, Schmiedeskamp B, Heinzmann U, Müller P, Kühne M (1991) &lt;br /&gt;Enhancement of the reflectivity of Mo/Si multilayer x-ray mirrors by thermal treatment.&lt;br /&gt;Applied Physics Letters 58(23): 2601-2603.</bio1>
+<aps>A.  Kloidt, et al., Enhancement of the reflectivity of Mo/Si multilayer x-ray mirrors by thermal treatment, Applied Physics Letters &lt;strong&gt;58&lt;/strong&gt;, 2601-2603 (1991).</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kloidt, A., Nolting, K., Kleineberg, U., Schmiedeskamp, B., Heinzmann, U., Müller, P. &amp;amp; Kühne, M. (1991). Enhancement of the reflectivity of Mo/Si multilayer x-ray mirrors by thermal treatment. &lt;em&gt;Applied Physics Letters&lt;/em&gt;, &lt;em&gt;58&lt;/em&gt;(23), 2601-2603. doi:10.1063/1.104835.&lt;/div&gt;</dgps>
+<ama>Kloidt A, Nolting K, Kleineberg U, et al. Enhancement of the reflectivity of Mo/Si multilayer x-ray mirrors by thermal treatment. &lt;em&gt;Applied Physics Letters&lt;/em&gt;. 1991;58(23):2601-2603.</ama>
+<harvard1>Kloidt, A., et al., 1991. Enhancement of the reflectivity of Mo/Si multilayer x-ray mirrors by thermal treatment. &lt;em&gt;Applied Physics Letters&lt;/em&gt;, 58(23), p 2601-2603.</harvard1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kloidt, A., Nolting, K., Kleineberg, U., Schmiedeskamp, B., Heinzmann, Ulrich, Müller, P., and Kühne, M. 1991. “Enhancement of the reflectivity of Mo/Si multilayer x-ray mirrors by thermal treatment”. &lt;em&gt;Applied Physics Letters&lt;/em&gt; 58 (23): 2601-2603.&lt;/div&gt;</chicago>
+<frontiers>Kloidt, A., Nolting, K., Kleineberg, U., Schmiedeskamp, B., Heinzmann, U., Müller, P., and Kühne, M. (1991). Enhancement of the reflectivity of Mo/Si multilayer x-ray mirrors by thermal treatment. &lt;em&gt;Applied Physics Letters&lt;/em&gt; 58, 2601-2603.</frontiers>
+<angewandte-chemie>A.  Kloidt, K.  Nolting, U.  Kleineberg, B.  Schmiedeskamp, U.  Heinzmann, P.  Müller, and M.  Kühne, “Enhancement of the reflectivity of Mo/Si multilayer x-ray mirrors by thermal treatment”, &lt;em&gt;Applied Physics Letters&lt;/em&gt;, &lt;strong&gt;1991&lt;/strong&gt;, &lt;em&gt;58&lt;/em&gt;, 2601-2603.</angewandte-chemie>
+<apa>Kloidt, A., Nolting, K., Kleineberg, U., Schmiedeskamp, B., Heinzmann, U., Müller, P., &amp;amp; Kühne, M. (1991). Enhancement of the reflectivity of Mo/Si multilayer x-ray mirrors by thermal treatment. &lt;em&gt;Applied Physics Letters&lt;/em&gt;, &lt;em&gt;58&lt;/em&gt;(23), 2601-2603.</apa>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kloidt, A., Nolting, K., Kleineberg, U., Schmiedeskamp, B., Heinzmann, U., Müller, P., &amp;amp; Kühne, M. (1991). Enhancement of the reflectivity of Mo/Si multilayer x-ray mirrors by thermal treatment. &lt;em&gt;Applied Physics Letters&lt;/em&gt;, &lt;em&gt;58&lt;/em&gt;(23), 2601-2603.&lt;/div&gt;</apa_indent>
+<mla>Kloidt, A., Nolting, K., Kleineberg, U., Schmiedeskamp, B., Heinzmann, Ulrich, Müller, P., and Kühne, M. “Enhancement of the reflectivity of Mo/Si multilayer x-ray mirrors by thermal treatment”. &lt;em&gt;Applied Physics Letters&lt;/em&gt; 58.23 (1991): 2601-2603.</mla>
+<lncs>Kloidt, A., Nolting, K., Kleineberg, U., Schmiedeskamp, B., Heinzmann, U., Müller, P., Kühne, M.: Enhancement of the reflectivity of Mo/Si multilayer x-ray mirrors by thermal treatment. Applied Physics Letters. 58, 2601-2603 (1991).</lncs>
+<ieee>A. Kloidt, et al., “Enhancement of the reflectivity of Mo/Si multilayer x-ray mirrors by thermal treatment”, &lt;em&gt;Applied Physics Letters&lt;/em&gt;,  vol. 58, 1991,  pp. 2601-2603.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780328</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780328</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780328</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

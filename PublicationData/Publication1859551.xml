@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Wenn die Musik der Filme Nahrung ist. Klassische Musik im Exilfilm</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Helmut G.</namePart>
+  <namePart type="family">Asper</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11642</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Claus-Dieter</namePart><namePart type="family">Krohn</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Erwin</namePart><namePart type="family">Rothermund</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Lutz</namePart><namePart type="family">Winckler</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Wulf</namePart><namePart type="family">Köpke</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10019</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Edition Text + Kritik</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Kulturelle Räume und ästhetische Universalität. Musik und Musiker im Exil</title></titleInfo>
+  <identifier type="isbn">978-3-88377-955-3</identifier>
+<part><detail type="volume"><number>26</number></detail><extent unit="pages">149-166</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps> H. G.  Asper, Wenn die Musik der Filme Nahrung ist. Klassische Musik im Exilfilm, in &lt;em&gt;Kulturelle Räume und ästhetische Universalität. Musik und Musiker im Exil&lt;/em&gt;, edited by C. - D.  Krohn, et al., Exilforschung, &lt;strong&gt;26&lt;/strong&gt; (Edition Text + Kritik, München, 2008), p. 149-166.</aps>
+<bio1>Asper HG (2008) &lt;br /&gt;Wenn die Musik der Filme Nahrung ist. Klassische Musik im Exilfilm. &lt;br /&gt;In:  Kulturelle Räume und ästhetische Universalität. Musik und Musiker im Exil. Krohn C-D, Rothermund E, Winckler L, Köpke W (Eds); Exilforschung, 26. München: Edition Text + Kritik:  149-166.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Asper, H.G. (2008). Wenn die Musik der Filme Nahrung ist. Klassische Musik im Exilfilm (Exilforschung). &lt;em&gt;Kulturelle Räume und ästhetische Universalität. Musik und Musiker im Exil&lt;/em&gt; (S. 149-166). München: Edition Text + Kritik.&lt;/div&gt;</dgps>
+<ama>Asper HG. Wenn die Musik der Filme Nahrung ist. Klassische Musik im Exilfilm. In: Krohn C-D, Rothermund E, Winckler L, Köpke W, eds. &lt;em&gt;Kulturelle Räume und ästhetische Universalität. Musik und Musiker im Exil&lt;/em&gt;. Exilforschung. Vol 26. München: Edition Text + Kritik;  2008: 149-166.</ama>
+<harvard1>Asper, H.G., 2008. Wenn die Musik der Filme Nahrung ist. Klassische Musik im Exilfilm. In C. - D.  Krohn, et al., eds. &lt;em&gt;Kulturelle Räume und ästhetische Universalität. Musik und Musiker im Exil&lt;/em&gt;. Exilforschung. no.26  München: Edition Text + Kritik, pp. 149-166.</harvard1>
+<default>Asper HG (2008)  &lt;br /&gt;In:  Kulturelle Räume und ästhetische Universalität. Musik und Musiker im Exil. Krohn C-D, Rothermund E, Winckler L, Köpke W (Eds); Exilforschung, 26. München: Edition Text + Kritik:  149-166.</default>
+<wels>Asper, H. G. (2008): Wenn die Musik der Filme Nahrung ist. Klassische Musik im Exilfilm. In: Claus-Dieter Krohn; Erwin Rothermund; Lutz Winckler; Wulf Köpke (Hrsg.):  Kulturelle Räume und ästhetische Universalität. Musik und Musiker im Exil. München: Edition Text + Kritik. (Exilforschung, 26).  S. 149-166.</wels>
+<lncs> Asper, H.G.: Wenn die Musik der Filme Nahrung ist. Klassische Musik im Exilfilm. In: Krohn, C.-D., Rothermund, E., Winckler, L., and Köpke, W. (eds.) Kulturelle Räume und ästhetische Universalität. Musik und Musiker im Exil. Exilforschung. 26, p. 149-166. Edition Text + Kritik, München (2008).</lncs>
+<mla>Asper, Helmut G. “Wenn die Musik der Filme Nahrung ist. Klassische Musik im Exilfilm”. &lt;em&gt;Kulturelle Räume und ästhetische Universalität. Musik und Musiker im Exil&lt;/em&gt;. Ed. Claus-Dieter Krohn, Erwin Rothermund, Lutz Winckler, and Wulf Köpke. München: Edition Text + Kritik, 2008.Vol. 26. Exilforschung. 149-166.</mla>
+<ieee> H.G. Asper, “Wenn die Musik der Filme Nahrung ist. Klassische Musik im Exilfilm”, &lt;em&gt;Kulturelle Räume und ästhetische Universalität. Musik und Musiker im Exil&lt;/em&gt;, C.-D. Krohn, et al., eds., Exilforschung, vol. 26,  München: Edition Text + Kritik, 2008,  pp.149-166.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Asper, H. G. (2008). Wenn die Musik der Filme Nahrung ist. Klassische Musik im Exilfilm. In C. - D.  Krohn, E.  Rothermund, L.  Winckler, &amp;amp; W.  Köpke (Eds.), &lt;em&gt;Exilforschung: Vol. 26&lt;/em&gt;&lt;em&gt;. Kulturelle Räume und ästhetische Universalität. Musik und Musiker im Exil&lt;/em&gt; (pp. 149-166). München: Edition Text + Kritik.&lt;/div&gt;</apa_indent>
+<frontiers>Asper, H. G. (2008). “Wenn die Musik der Filme Nahrung ist. Klassische Musik im Exilfilm” in &lt;em&gt;Kulturelle Räume und ästhetische Universalität. Musik und Musiker im Exil&lt;/em&gt;, Krohn, C. - D., Rothermund, E., Winckler, L., and Köpke, W. eds. Exilforschung, vol. 26, (München: Edition Text + Kritik), 149-166.</frontiers>
+<angewandte-chemie>H. G.  Asper, in &lt;em&gt;Kulturelle Räume und ästhetische Universalität. Musik und Musiker im Exil&lt;/em&gt; (Eds.: C.-D. Krohn, E. Rothermund, L. Winckler, W. Köpke), Edition Text + Kritik, München, &lt;strong&gt;2008&lt;/strong&gt;, p. 149-166.</angewandte-chemie>
+<apa>Asper, H. G. (2008). Wenn die Musik der Filme Nahrung ist. Klassische Musik im Exilfilm. In C. - D.  Krohn, E.  Rothermund, L.  Winckler, &amp;amp; W.  Köpke (Eds.), &lt;em&gt;Exilforschung: Vol. 26&lt;/em&gt;&lt;em&gt;. Kulturelle Räume und ästhetische Universalität. Musik und Musiker im Exil&lt;/em&gt; (pp. 149-166). München: Edition Text + Kritik.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Asper, Helmut G. 2008. “Wenn die Musik der Filme Nahrung ist. Klassische Musik im Exilfilm”. In &lt;em&gt;Kulturelle Räume und ästhetische Universalität. Musik und Musiker im Exil&lt;/em&gt;, ed. Claus-Dieter Krohn, Erwin Rothermund, Lutz Winckler, and Wulf Köpke, 26:149-166. Exilforschung. München: Edition Text + Kritik.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1859551</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-08-08T08:59:21Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-08-08T08:59:21Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1859551</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1859551</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

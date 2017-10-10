@@ -1,0 +1,133 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Heparan sulfate 6-O-endosulfatases: discrete in vivo activities and functional co-operativity</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">William C.</namePart>
+  <namePart type="family">Lamanna</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Rebecca J.</namePart>
+  <namePart type="family">Baldwin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Michael</namePart>
+  <namePart type="family">Padva</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ina</namePart>
+  <namePart type="family">Kalus</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">162357</identifier></name>
+<name type="personal">
+  <namePart type="given">Gerdy</namePart>
+  <namePart type="family">ten Dam</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Toin H.</namePart>
+  <namePart type="family">van Kuppevelt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">John T.</namePart>
+  <namePart type="family">Gallagher</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Kurt</namePart>
+  <namePart type="family">von Figura</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Thomas</namePart>
+  <namePart type="family">Dierks</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">140658</identifier></name>
+<name type="personal">
+  <namePart type="given">Catherine L. R.</namePart>
+  <namePart type="family">Merry</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Biochemie I</namePart>
+  <identifier type="unibi">17967</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">HS (heparan sulfate) is essential for normal embryonic development. This requirement is due to the obligatory role for HS in the signalling pathways of many growth factors and morphogens that bind to sulfated domains in the HS polymer chain. The sulfation patterning of HS is determined by a complex interplay of Golgi-located N- and O-sulfotransferases which sulfate the heparan precursor and cell surface endosulfatases that selectively remove 6-O-sulfates from mature HS chains. In the present study we generated single or double knock-out mice for the two murine endosulfatases mSulf1 and mSulf2. Detailed structural analysis of HS from mSulf1(-/-) fibroblasts showed a striking increase in 6-O-sulfation. which was not seen in mSulf2(-/-) HS. Intriguingly, the level of 6-O-suffation in the double mSulf1(-/-)/2(-/-) HS was significantly higher than that observed in the mSulf1(-/-) counterpart. These data imply that mSulf1 and mSulf2 are functionally co-operative. Unlike their avian orthologues, mammalian Sulf activities are not restricted to the highly sulfated S-domains of HS. Mitogenesis assays with FGF2 (fibroblast growth factor 2) revealed that Sulf activity decreases the activating potential of newly-synthesized HS, suggesting an important role for these enzymes in cell growth regulation in embryonic and adult tissues.</abstract>
+
+<originInfo><publisher>PORTLAND PRESS LTD</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>signal transduction</topic><topic>sulfatase</topic><topic>knock-out mice</topic><topic>heparan sulfate</topic><topic>glycosaminoglycan</topic><topic>endosulfatase</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>BIOCHEMICAL JOURNAL</title></titleInfo>
+  <identifier type="issn">0264-6021</identifier>
+  <identifier type="eIssn">1470-8728</identifier>
+  <identifier type="MEDLINE">16901266</identifier>
+  <identifier type="ISI">000242226600007</identifier><identifier type="doi">10.1042/BJ20060848</identifier>
+<part><detail type="volume"><number>400</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">63-73</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<angewandte-chemie>W. C.  Lamanna, R. J.  Baldwin, M.  Padva, I.  Kalus, G.  ten Dam, T. H.  van Kuppevelt, J. T.  Gallagher, K.  von Figura, T.  Dierks, and C. L. R.  Merry, “Heparan sulfate 6-O-endosulfatases: discrete in vivo activities and functional co-operativity”, &lt;em&gt;BIOCHEMICAL JOURNAL&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;400&lt;/em&gt;, 63-73.</angewandte-chemie>
+<apa>Lamanna, W. C., Baldwin, R. J., Padva, M., Kalus, I., ten Dam, G., van Kuppevelt, T. H., Gallagher, J. T., et al. (2006). Heparan sulfate 6-O-endosulfatases: discrete in vivo activities and functional co-operativity. &lt;em&gt;BIOCHEMICAL JOURNAL&lt;/em&gt;, &lt;em&gt;400&lt;/em&gt;(1), 63-73.</apa>
+<frontiers>Lamanna, W. C., Baldwin, R. J., Padva, M., Kalus, I., ten Dam, G., van Kuppevelt, T. H., Gallagher, J. T., von Figura, K., Dierks, T., and Merry, C. L. R. (2006). Heparan sulfate 6-O-endosulfatases: discrete in vivo activities and functional co-operativity. &lt;em&gt;BIOCHEMICAL JOURNAL&lt;/em&gt; 400, 63-73.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lamanna, William C., Baldwin, Rebecca J., Padva, Michael, Kalus, Ina, ten Dam, Gerdy, van Kuppevelt, Toin H., Gallagher, John T., von Figura, Kurt, Dierks, Thomas, and Merry, Catherine L. R. 2006. “Heparan sulfate 6-O-endosulfatases: discrete in vivo activities and functional co-operativity”. &lt;em&gt;BIOCHEMICAL JOURNAL&lt;/em&gt; 400 (1): 63-73.&lt;/div&gt;</chicago>
+<ieee>W.C. Lamanna, et al., “Heparan sulfate 6-O-endosulfatases: discrete in vivo activities and functional co-operativity”, &lt;em&gt;BIOCHEMICAL JOURNAL&lt;/em&gt;,  vol. 400, 2006,  pp. 63-73.</ieee>
+<lncs>Lamanna, W.C., Baldwin, R.J., Padva, M., Kalus, I., ten Dam, G., van Kuppevelt, T.H., Gallagher, J.T., von Figura, K., Dierks, T., Merry, C.L.R.: Heparan sulfate 6-O-endosulfatases: discrete in vivo activities and functional co-operativity. BIOCHEMICAL JOURNAL. 400, 63-73 (2006).</lncs>
+<mla>Lamanna, William C., Baldwin, Rebecca J., Padva, Michael, Kalus, Ina, ten Dam, Gerdy, van Kuppevelt, Toin H., Gallagher, John T., von Figura, Kurt, Dierks, Thomas, and Merry, Catherine L. R. “Heparan sulfate 6-O-endosulfatases: discrete in vivo activities and functional co-operativity”. &lt;em&gt;BIOCHEMICAL JOURNAL&lt;/em&gt; 400.1 (2006): 63-73.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lamanna, W. C., Baldwin, R. J., Padva, M., Kalus, I., ten Dam, G., van Kuppevelt, T. H., Gallagher, J. T., et al. (2006). Heparan sulfate 6-O-endosulfatases: discrete in vivo activities and functional co-operativity. &lt;em&gt;BIOCHEMICAL JOURNAL&lt;/em&gt;, &lt;em&gt;400&lt;/em&gt;(1), 63-73.&lt;/div&gt;</apa_indent>
+<wels>Lamanna, W. C.; Baldwin, R. J.; Padva, M.; Kalus, I.; ten Dam, G.; van Kuppevelt, T. H.; Gallagher, J. T.; von Figura, K.; Dierks, T.; Merry, C. L. R. (2006): Heparan sulfate 6-O-endosulfatases: discrete in vivo activities and functional co-operativity &lt;em&gt;BIOCHEMICAL JOURNAL&lt;/em&gt;,400:(1): 63-73.</wels>
+<default>Lamanna WC, Baldwin RJ, Padva M, Kalus I, ten Dam G, van Kuppevelt TH, Gallagher JT, von Figura K, Dierks T, Merry CLR (2006) &lt;br /&gt;BIOCHEMICAL JOURNAL 400(1): 63-73.</default>
+<harvard1>Lamanna, W.C., et al., 2006. Heparan sulfate 6-O-endosulfatases: discrete in vivo activities and functional co-operativity. &lt;em&gt;BIOCHEMICAL JOURNAL&lt;/em&gt;, 400(1), p 63-73.</harvard1>
+<ama>Lamanna WC, Baldwin RJ, Padva M, et al. Heparan sulfate 6-O-endosulfatases: discrete in vivo activities and functional co-operativity. &lt;em&gt;BIOCHEMICAL JOURNAL&lt;/em&gt;. 2006;400(1):63-73.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lamanna, W.C., Baldwin, R.J., Padva, M., Kalus, I., ten Dam, G., van Kuppevelt, T.H., Gallagher, J.T., von Figura, K., Dierks, T. &amp;amp; Merry, C.L.R. (2006). Heparan sulfate 6-O-endosulfatases: discrete in vivo activities and functional co-operativity. &lt;em&gt;BIOCHEMICAL JOURNAL&lt;/em&gt;, &lt;em&gt;400&lt;/em&gt;(1), 63-73. PORTLAND PRESS LTD. doi:10.1042/BJ20060848.&lt;/div&gt;</dgps>
+<aps>W. C.  Lamanna, et al., Heparan sulfate 6-O-endosulfatases: discrete in vivo activities and functional co-operativity, BIOCHEMICAL JOURNAL &lt;strong&gt;400&lt;/strong&gt;, 63-73 (2006).</aps>
+<bio1>Lamanna WC, Baldwin RJ, Padva M, Kalus I, ten Dam G, van Kuppevelt TH, Gallagher JT, von Figura K, Dierks T, Merry CLR (2006) &lt;br /&gt;Heparan sulfate 6-O-endosulfatases: discrete in vivo activities and functional co-operativity.&lt;br /&gt;BIOCHEMICAL JOURNAL 400(1): 63-73.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1597019</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:18:38Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-12-06T23:28:21Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1597019</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1597019</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

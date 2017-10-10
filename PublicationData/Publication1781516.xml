@@ -1,0 +1,102 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>In search for a human path planning modell</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Kerstin</namePart>
+  <namePart type="family">Dautenhahn</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Holk</namePart>
+  <namePart type="family">Cruse</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21923</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Norbert</namePart><namePart type="family">Elsner</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Biologische Kybernetik</namePart>
+  <identifier type="unibi">2685507</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT2547.pdf">https://pub.uni-bielefeld.de/download/1781516/2313323</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Thieme</publisher><dateIssued encoding="w3cdtf">1992</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Rhythmogenesis in neurons and networks: proceedings of the 20th Göttingen Neurobiology Conference</title></titleInfo>
+  <identifier type="isbn">3-13-785301-X</identifier><identifier type="urn">urn:nbn:de:0070-bipr-25477</identifier>
+<part><extent unit="pages">740</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<angewandte-chemie>K.  Dautenhahn, and H.  Cruse, in &lt;em&gt;Rhythmogenesis in neurons and networks: proceedings of the 20th Göttingen Neurobiology Conference&lt;/em&gt; (Ed.: N. Elsner), Thieme, Stuttgart [u.a.], &lt;strong&gt;1992&lt;/strong&gt;.</angewandte-chemie>
+<apa>Dautenhahn, K., &amp;amp; Cruse, H. (1992). In search for a human path planning modell. In N.  Elsner (Ed.), &lt;em&gt;Rhythmogenesis in neurons and networks: proceedings of the 20th Göttingen Neurobiology Conference&lt;/em&gt; Stuttgart [u.a.]: Thieme.</apa>
+<frontiers>Dautenhahn, K., and Cruse, H. (1992). “In search for a human path planning modell” in &lt;em&gt;Rhythmogenesis in neurons and networks: proceedings of the 20th Göttingen Neurobiology Conference&lt;/em&gt;, ed. N.  Elsner (Stuttgart [u.a.]: Thieme).</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Dautenhahn, Kerstin, and Cruse, Holk. 1992. “In search for a human path planning modell”. In &lt;em&gt;Rhythmogenesis in neurons and networks: proceedings of the 20th Göttingen Neurobiology Conference&lt;/em&gt;, ed. Norbert Elsner. Stuttgart [u.a.]: Thieme.&lt;/div&gt;</chicago>
+<ieee>K. Dautenhahn and H. Cruse, “In search for a human path planning modell”, &lt;em&gt;Rhythmogenesis in neurons and networks: proceedings of the 20th Göttingen Neurobiology Conference&lt;/em&gt;, N. Elsner, ed.,  Stuttgart [u.a.]: Thieme, 1992.</ieee>
+<mla>Dautenhahn, Kerstin, and Cruse, Holk. “In search for a human path planning modell”. &lt;em&gt;Rhythmogenesis in neurons and networks: proceedings of the 20th Göttingen Neurobiology Conference&lt;/em&gt;. Ed. Norbert Elsner. Stuttgart [u.a.]: Thieme, 1992.</mla>
+<lncs>Dautenhahn, K., Cruse, H.: In search for a human path planning modell. In: Elsner, N. (ed.) Rhythmogenesis in neurons and networks: proceedings of the 20th Göttingen Neurobiology Conference.  Thieme, Stuttgart [u.a.] (1992).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Dautenhahn, K., &amp;amp; Cruse, H. (1992). In search for a human path planning modell. In N.  Elsner (Ed.), &lt;em&gt;Rhythmogenesis in neurons and networks: proceedings of the 20th Göttingen Neurobiology Conference&lt;/em&gt; Stuttgart [u.a.]: Thieme.&lt;/div&gt;</apa_indent>
+<wels>Dautenhahn, K.; Cruse, H. (1992): In search for a human path planning modell. In: Norbert Elsner (Hrsg.):  Rhythmogenesis in neurons and networks: proceedings of the 20th Göttingen Neurobiology Conference. Stuttgart [u.a.]: Thieme.</wels>
+<default>Dautenhahn K, Cruse H (1992)  &lt;br /&gt;In:  Rhythmogenesis in neurons and networks: proceedings of the 20th Göttingen Neurobiology Conference. Elsner N (Ed);Stuttgart [u.a.]: Thieme.</default>
+<ama>Dautenhahn K, Cruse H. In search for a human path planning modell. In: Elsner N, ed. &lt;em&gt;Rhythmogenesis in neurons and networks: proceedings of the 20th Göttingen Neurobiology Conference&lt;/em&gt;. Stuttgart [u.a.]: Thieme;  1992.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Dautenhahn, K. &amp;amp; Cruse, H. (1992). In search for a human path planning modell. &lt;em&gt;Rhythmogenesis in neurons and networks: proceedings of the 20th Göttingen Neurobiology Conference&lt;/em&gt;. Stuttgart [u.a.]: Thieme.&lt;/div&gt;</dgps>
+<harvard1>Dautenhahn, K., &amp;amp; Cruse, H., 1992. In search for a human path planning modell. In N.  Elsner, ed. &lt;em&gt;Rhythmogenesis in neurons and networks: proceedings of the 20th Göttingen Neurobiology Conference&lt;/em&gt;.  Stuttgart [u.a.]: Thieme.</harvard1>
+<bio1>Dautenhahn K, Cruse H (1992) &lt;br /&gt;In search for a human path planning modell. &lt;br /&gt;In:  Rhythmogenesis in neurons and networks: proceedings of the 20th Göttingen Neurobiology Conference. Elsner N (Ed); Stuttgart [u.a.]: Thieme.</bio1>
+<aps>K.  Dautenhahn and H.  Cruse, In search for a human path planning modell, in &lt;em&gt;Rhythmogenesis in neurons and networks: proceedings of the 20th Göttingen Neurobiology Conference&lt;/em&gt;, edited by N.  Elsner (Thieme, Stuttgart [U.a.], 1992).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781516</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781516</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781516</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,114 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>ChromA: signal-based retention time alignment for chromatography-mass spectrometry data</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Nils</namePart>
+  <namePart type="family">Hoffmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">5573841</identifier></name>
+<name type="personal">
+  <namePart type="given">Jens</namePart>
+  <namePart type="family">Stoye</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">65864</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-4656-7155</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Research Group J. Stoye</namePart>
+  <identifier type="unibi">33067262</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Genominformatik</namePart>
+  <identifier type="unibi">66100</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Oxford University Press (OUP)</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Bioinformatics</title></titleInfo>
+  <identifier type="issn">1367-4803</identifier>
+  <identifier type="eIssn">1460-2059</identifier>
+  <identifier type="MEDLINE">19505941</identifier>
+  <identifier type="ISI">000268808600015</identifier><identifier type="doi">10.1093/bioinformatics/btp343</identifier>
+<part><detail type="volume"><number>25</number></detail><detail type="issue"><number>16</number></detail><extent unit="pages">2080-2081</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hoffmann, Nils, and Stoye, Jens. 2009. “ChromA: signal-based retention time alignment for chromatography-mass spectrometry data”. &lt;em&gt;Bioinformatics&lt;/em&gt; 25 (16): 2080-2081.&lt;/div&gt;</chicago>
+<frontiers>Hoffmann, N., and Stoye, J. (2009). ChromA: signal-based retention time alignment for chromatography-mass spectrometry data. &lt;em&gt;Bioinformatics&lt;/em&gt; 25, 2080-2081.</frontiers>
+<apa>Hoffmann, N., &amp;amp; Stoye, J. (2009). ChromA: signal-based retention time alignment for chromatography-mass spectrometry data. &lt;em&gt;Bioinformatics&lt;/em&gt;, &lt;em&gt;25&lt;/em&gt;(16), 2080-2081.</apa>
+<angewandte-chemie>N.  Hoffmann, and J.  Stoye, “ChromA: signal-based retention time alignment for chromatography-mass spectrometry data”, &lt;em&gt;Bioinformatics&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;25&lt;/em&gt;, 2080-2081.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hoffmann, N., &amp;amp; Stoye, J. (2009). ChromA: signal-based retention time alignment for chromatography-mass spectrometry data. &lt;em&gt;Bioinformatics&lt;/em&gt;, &lt;em&gt;25&lt;/em&gt;(16), 2080-2081.&lt;/div&gt;</apa_indent>
+<mla>Hoffmann, Nils, and Stoye, Jens. “ChromA: signal-based retention time alignment for chromatography-mass spectrometry data”. &lt;em&gt;Bioinformatics&lt;/em&gt; 25.16 (2009): 2080-2081.</mla>
+<lncs>Hoffmann, N., Stoye, J.: ChromA: signal-based retention time alignment for chromatography-mass spectrometry data. Bioinformatics. 25, 2080-2081 (2009).</lncs>
+<ieee>N. Hoffmann and J. Stoye, “ChromA: signal-based retention time alignment for chromatography-mass spectrometry data”, &lt;em&gt;Bioinformatics&lt;/em&gt;,  vol. 25, 2009,  pp. 2080-2081.</ieee>
+<default>Hoffmann N, Stoye J (2009) &lt;br /&gt;Bioinformatics 25(16): 2080-2081.</default>
+<wels>Hoffmann, N.; Stoye, J. (2009): ChromA: signal-based retention time alignment for chromatography-mass spectrometry data &lt;em&gt;Bioinformatics&lt;/em&gt;,25:(16): 2080-2081.</wels>
+<aps>N.  Hoffmann and J.  Stoye, ChromA: signal-based retention time alignment for chromatography-mass spectrometry data, Bioinformatics &lt;strong&gt;25&lt;/strong&gt;, 2080-2081 (2009).</aps>
+<bio1>Hoffmann N, Stoye J (2009) &lt;br /&gt;ChromA: signal-based retention time alignment for chromatography-mass spectrometry data.&lt;br /&gt;Bioinformatics 25(16): 2080-2081.</bio1>
+<ama>Hoffmann N, Stoye J. ChromA: signal-based retention time alignment for chromatography-mass spectrometry data. &lt;em&gt;Bioinformatics&lt;/em&gt;. 2009;25(16):2080-2081.</ama>
+<harvard1>Hoffmann, N., &amp;amp; Stoye, J., 2009. ChromA: signal-based retention time alignment for chromatography-mass spectrometry data. &lt;em&gt;Bioinformatics&lt;/em&gt;, 25(16), p 2080-2081.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hoffmann, N. &amp;amp; Stoye, J. (2009). ChromA: signal-based retention time alignment for chromatography-mass spectrometry data. &lt;em&gt;Bioinformatics&lt;/em&gt;, &lt;em&gt;25&lt;/em&gt;(16), 2080-2081. Oxford University Press (OUP). doi:10.1093/bioinformatics/btp343.&lt;/div&gt;</dgps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1591319</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-26T09:45:47Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-01-18T09:11:17Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1591319</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1591319</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

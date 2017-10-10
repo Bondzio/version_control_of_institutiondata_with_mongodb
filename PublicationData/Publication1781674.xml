@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Wissenschaftspropädeutik: eine unerledigte Hausaufgabe der allgemeinen Didaktik</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ludwig</namePart>
+  <namePart type="family">Huber</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">172028</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Meinert A.</namePart><namePart type="family">Meyer</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Wissenschafts- und Technikforschung</namePart>
+  <identifier type="unibi">10061</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT2661.pdf">https://pub.uni-bielefeld.de/download/1781674/2313416</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Beltz</publisher><dateIssued encoding="w3cdtf">1994</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Allgemeine Didaktik, Fachdidaktik und Fachunterricht</title></titleInfo>
+  <identifier type="isbn">3-407-34084-2</identifier><identifier type="urn">urn:nbn:de:0070-bipr-26613</identifier>
+<part><extent unit="pages">243-253</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Huber, L. (1994). “Wissenschaftspropädeutik: eine unerledigte Hausaufgabe der allgemeinen Didaktik” in &lt;em&gt;Allgemeine Didaktik, Fachdidaktik und Fachunterricht&lt;/em&gt;, ed. M. A.  Meyer Studien zur Schulpädagogik und Didaktik ; 10 : Reihe Pädagogik (Weinheim [u.a.]: Beltz), 243-253.</frontiers>
+<angewandte-chemie>L.  Huber, in &lt;em&gt;Allgemeine Didaktik, Fachdidaktik und Fachunterricht&lt;/em&gt; (Ed.: M.A. Meyer), Beltz, Weinheim [u.a.], &lt;strong&gt;1994&lt;/strong&gt;, p. 243-253.</angewandte-chemie>
+<apa>Huber, L. (1994). Wissenschaftspropädeutik: eine unerledigte Hausaufgabe der allgemeinen Didaktik. In M. A.  Meyer (Ed.), &lt;em&gt;Studien zur Schulpädagogik und Didaktik ; 10 : Reihe Pädagogik&lt;/em&gt;&lt;em&gt;. Allgemeine Didaktik, Fachdidaktik und Fachunterricht&lt;/em&gt; (pp. 243-253). Weinheim [u.a.]: Beltz.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Huber, Ludwig. 1994. “Wissenschaftspropädeutik: eine unerledigte Hausaufgabe der allgemeinen Didaktik”. In &lt;em&gt;Allgemeine Didaktik, Fachdidaktik und Fachunterricht&lt;/em&gt;, ed. Meinert A. Meyer, 243-253. Studien zur Schulpädagogik und Didaktik ; 10 : Reihe Pädagogik. Weinheim [u.a.]: Beltz.&lt;/div&gt;</chicago>
+<mla>Huber, Ludwig. “Wissenschaftspropädeutik: eine unerledigte Hausaufgabe der allgemeinen Didaktik”. &lt;em&gt;Allgemeine Didaktik, Fachdidaktik und Fachunterricht&lt;/em&gt;. Ed. Meinert A. Meyer. Weinheim [u.a.]: Beltz, 1994. Studien zur Schulpädagogik und Didaktik ; 10 : Reihe Pädagogik. 243-253.</mla>
+<lncs>Huber, L.: Wissenschaftspropädeutik: eine unerledigte Hausaufgabe der allgemeinen Didaktik. In: Meyer, M.A. (ed.) Allgemeine Didaktik, Fachdidaktik und Fachunterricht. Studien zur Schulpädagogik und Didaktik ; 10 : Reihe Pädagogik. p. 243-253. Beltz, Weinheim [u.a.] (1994).</lncs>
+<ieee>L. Huber, “Wissenschaftspropädeutik: eine unerledigte Hausaufgabe der allgemeinen Didaktik”, &lt;em&gt;Allgemeine Didaktik, Fachdidaktik und Fachunterricht&lt;/em&gt;, M.A. Meyer, ed., Studien zur Schulpädagogik und Didaktik ; 10 : Reihe Pädagogik,  Weinheim [u.a.]: Beltz, 1994,  pp.243-253.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Huber, L. (1994). Wissenschaftspropädeutik: eine unerledigte Hausaufgabe der allgemeinen Didaktik. In M. A.  Meyer (Ed.), &lt;em&gt;Studien zur Schulpädagogik und Didaktik ; 10 : Reihe Pädagogik&lt;/em&gt;&lt;em&gt;. Allgemeine Didaktik, Fachdidaktik und Fachunterricht&lt;/em&gt; (pp. 243-253). Weinheim [u.a.]: Beltz.&lt;/div&gt;</apa_indent>
+<default>Huber L (1994)  &lt;br /&gt;In:  Allgemeine Didaktik, Fachdidaktik und Fachunterricht. Meyer MA (Ed); Studien zur Schulpädagogik und Didaktik ; 10 : Reihe Pädagogik, . Weinheim [u.a.]: Beltz:  243-253.</default>
+<wels>Huber, L. (1994): Wissenschaftspropädeutik: eine unerledigte Hausaufgabe der allgemeinen Didaktik. In: Meinert A. Meyer (Hrsg.):  Allgemeine Didaktik, Fachdidaktik und Fachunterricht. Weinheim [u.a.]: Beltz. (Studien zur Schulpädagogik und Didaktik ; 10 : Reihe Pädagogik, ).  S. 243-253.</wels>
+<bio1>Huber L (1994) &lt;br /&gt;Wissenschaftspropädeutik: eine unerledigte Hausaufgabe der allgemeinen Didaktik. &lt;br /&gt;In:  Allgemeine Didaktik, Fachdidaktik und Fachunterricht. Meyer MA (Ed); Studien zur Schulpädagogik und Didaktik ; 10 : Reihe Pädagogik,  Weinheim [u.a.]: Beltz:  243-253.</bio1>
+<aps>L.  Huber, Wissenschaftspropädeutik: eine unerledigte Hausaufgabe der allgemeinen Didaktik, in &lt;em&gt;Allgemeine Didaktik, Fachdidaktik und Fachunterricht&lt;/em&gt;, edited by M. A.  Meyer, Studien zur Schulpädagogik und Didaktik ; 10 : Reihe Pädagogik (Beltz, Weinheim [U.a.], 1994), p. 243-253.</aps>
+<ama>Huber L. Wissenschaftspropädeutik: eine unerledigte Hausaufgabe der allgemeinen Didaktik. In: Meyer MA, ed. &lt;em&gt;Allgemeine Didaktik, Fachdidaktik und Fachunterricht&lt;/em&gt;. Studien zur Schulpädagogik und Didaktik ; 10 : Reihe Pädagogik. Weinheim [u.a.]: Beltz;  1994: 243-253.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Huber, L. (1994). Wissenschaftspropädeutik: eine unerledigte Hausaufgabe der allgemeinen Didaktik (Studien zur Schulpädagogik und Didaktik ; 10 : Reihe Pädagogik). &lt;em&gt;Allgemeine Didaktik, Fachdidaktik und Fachunterricht&lt;/em&gt; (S. 243-253). Weinheim [u.a.]: Beltz.&lt;/div&gt;</dgps>
+<harvard1>Huber, L., 1994. Wissenschaftspropädeutik: eine unerledigte Hausaufgabe der allgemeinen Didaktik. In M. A.  Meyer, ed. &lt;em&gt;Allgemeine Didaktik, Fachdidaktik und Fachunterricht&lt;/em&gt;. Studien zur Schulpädagogik und Didaktik ; 10 : Reihe Pädagogik.  Weinheim [u.a.]: Beltz, pp. 243-253.</harvard1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781674</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781674</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781674</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

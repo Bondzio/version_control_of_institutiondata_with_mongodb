@@ -1,0 +1,116 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Photoswitches: Key molecules for subdiffraction-resolution fluorescence imaging and molecular quantification</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Mike</namePart>
+  <namePart type="family">Heilemann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">4939957</identifier></name>
+<name type="personal">
+  <namePart type="given">Peter</namePart>
+  <namePart type="family">Dedecker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Johan</namePart>
+  <namePart type="family">Hofkens</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Markus</namePart>
+  <namePart type="family">Sauer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">177825</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2161137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Optical microscopes, often referred to as &apos;light microscopes&apos;, use visible light and a system of lenses to provide us with magnified images of small samples. Combined with highly sensitive fluorescence detection techniques and efficient fluorescent probes they allow the non-invasive 3D study of subcellular structures even in living cells or tissue. However, optical microscopes are subject to the diffraction barrier of light which imposes an optical resolution limit of approximately 200 nm in the imaging plane. In the recent past new techniques emerged that break the diffraction barrier and enable structural investigations with so far unmatched resolution. They are all based on the selective switching of fluoropbores between a fluorescent and a nonfluorescent state and are therefore generalized under the denotation &quot;Photoswitching Microscopy&quot;. Here we review recent progress in subdiffraction-resolution fluorescence imaging microscopy using various photoswitchable fluorophores and strategies. Special emphasis will be placed on the design and development of photoswitches and the requirements photoswitches have to fulfill for successful use in photoswitching microscopy. Moreover, we demonstrate how photoswitches can be used advantageously for molecular quantification, i.e. the determination of densities and absolute numbers of proteins located in specific subceflular compartments and discuss concepts how standard organic fluorophores can be used successfully for photoswitching microscopy.</abstract>
+
+<originInfo><publisher>Wiley-Blackwell</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Molecular optical switches and photoswitches</topic><topic>photoswitching</topic><topic>subdiffraction- or super-resolution fluorescence imaging</topic><topic>microscopy</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>LASER &amp; PHOTONICS REVIEWS</title></titleInfo>
+  <identifier type="issn">1863-8880</identifier>
+  <identifier type="eIssn">1863-8899</identifier>
+  <identifier type="ISI">000264420800013</identifier><identifier type="doi">10.1002/lpor.200810043</identifier>
+<part><detail type="volume"><number>3</number></detail><detail type="issue"><number>1-2</number></detail><extent unit="pages">180-202</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>M. Heilemann, et al., “Photoswitches: Key molecules for subdiffraction-resolution fluorescence imaging and molecular quantification”, &lt;em&gt;LASER &amp;amp; PHOTONICS REVIEWS&lt;/em&gt;,  vol. 3, 2009,  pp. 180-202.</ieee>
+<lncs>Heilemann, M., Dedecker, P., Hofkens, J., Sauer, M.: Photoswitches: Key molecules for subdiffraction-resolution fluorescence imaging and molecular quantification. LASER &amp;amp; PHOTONICS REVIEWS. 3, 180-202 (2009).</lncs>
+<mla>Heilemann, Mike, Dedecker, Peter, Hofkens, Johan, and Sauer, Markus. “Photoswitches: Key molecules for subdiffraction-resolution fluorescence imaging and molecular quantification”. &lt;em&gt;LASER &amp;amp; PHOTONICS REVIEWS&lt;/em&gt; 3.1-2 (2009): 180-202.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heilemann, M., Dedecker, P., Hofkens, J., &amp;amp; Sauer, M. (2009). Photoswitches: Key molecules for subdiffraction-resolution fluorescence imaging and molecular quantification. &lt;em&gt;LASER &amp;amp; PHOTONICS REVIEWS&lt;/em&gt;, &lt;em&gt;3&lt;/em&gt;(1-2), 180-202.&lt;/div&gt;</apa_indent>
+<apa>Heilemann, M., Dedecker, P., Hofkens, J., &amp;amp; Sauer, M. (2009). Photoswitches: Key molecules for subdiffraction-resolution fluorescence imaging and molecular quantification. &lt;em&gt;LASER &amp;amp; PHOTONICS REVIEWS&lt;/em&gt;, &lt;em&gt;3&lt;/em&gt;(1-2), 180-202.</apa>
+<angewandte-chemie>M.  Heilemann, P.  Dedecker, J.  Hofkens, and M.  Sauer, “Photoswitches: Key molecules for subdiffraction-resolution fluorescence imaging and molecular quantification”, &lt;em&gt;LASER &amp;amp; PHOTONICS REVIEWS&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;3&lt;/em&gt;, 180-202.</angewandte-chemie>
+<frontiers>Heilemann, M., Dedecker, P., Hofkens, J., and Sauer, M. (2009). Photoswitches: Key molecules for subdiffraction-resolution fluorescence imaging and molecular quantification. &lt;em&gt;LASER &amp;amp; PHOTONICS REVIEWS&lt;/em&gt; 3, 180-202.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heilemann, Mike, Dedecker, Peter, Hofkens, Johan, and Sauer, Markus. 2009. “Photoswitches: Key molecules for subdiffraction-resolution fluorescence imaging and molecular quantification”. &lt;em&gt;LASER &amp;amp; PHOTONICS REVIEWS&lt;/em&gt; 3 (1-2): 180-202.&lt;/div&gt;</chicago>
+<harvard1>Heilemann, M., et al., 2009. Photoswitches: Key molecules for subdiffraction-resolution fluorescence imaging and molecular quantification. &lt;em&gt;LASER &amp;amp; PHOTONICS REVIEWS&lt;/em&gt;, 3(1-2), p 180-202.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heilemann, M., Dedecker, P., Hofkens, J. &amp;amp; Sauer, M. (2009). Photoswitches: Key molecules for subdiffraction-resolution fluorescence imaging and molecular quantification. &lt;em&gt;LASER &amp;amp; PHOTONICS REVIEWS&lt;/em&gt;, &lt;em&gt;3&lt;/em&gt;(1-2), 180-202. Wiley-Blackwell. doi:10.1002/lpor.200810043.&lt;/div&gt;</dgps>
+<ama>Heilemann M, Dedecker P, Hofkens J, Sauer M. Photoswitches: Key molecules for subdiffraction-resolution fluorescence imaging and molecular quantification. &lt;em&gt;LASER &amp;amp; PHOTONICS REVIEWS&lt;/em&gt;. 2009;3(1-2):180-202.</ama>
+<aps>M.  Heilemann, et al., Photoswitches: Key molecules for subdiffraction-resolution fluorescence imaging and molecular quantification, LASER &amp;amp; PHOTONICS REVIEWS &lt;strong&gt;3&lt;/strong&gt;, 180-202 (2009).</aps>
+<bio1>Heilemann M, Dedecker P, Hofkens J, Sauer M (2009) &lt;br /&gt;Photoswitches: Key molecules for subdiffraction-resolution fluorescence imaging and molecular quantification.&lt;br /&gt;LASER &amp;amp; PHOTONICS REVIEWS 3(1-2): 180-202.</bio1>
+<wels>Heilemann, M.; Dedecker, P.; Hofkens, J.; Sauer, M. (2009): Photoswitches: Key molecules for subdiffraction-resolution fluorescence imaging and molecular quantification &lt;em&gt;LASER &amp;amp; PHOTONICS REVIEWS&lt;/em&gt;,3:(1-2): 180-202.</wels>
+<default>Heilemann M, Dedecker P, Hofkens J, Sauer M (2009) &lt;br /&gt;LASER &amp;amp; PHOTONICS REVIEWS 3(1-2): 180-202.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1634891</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:28Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-02-05T12:35:31Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1634891</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1634891</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

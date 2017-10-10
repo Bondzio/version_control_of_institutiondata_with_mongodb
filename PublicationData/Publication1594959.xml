@@ -1,0 +1,144 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Regulation of gene expression by photosynthetic signals triggered through modified CO2 availability</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Dennis</namePart>
+  <namePart type="family">Wormuth</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Margarete</namePart>
+  <namePart type="family">Baier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andrea</namePart>
+  <namePart type="family">Kandlbinder</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">26213</identifier></name>
+<name type="personal">
+  <namePart type="given">Renate</namePart>
+  <namePart type="family">Scheibe</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Wolfram</namePart>
+  <namePart type="family">Hartung</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Karl-Josef</namePart>
+  <namePart type="family">Dietz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21935</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070563</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2685177</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Background:
+
+To coordinate metabolite fluxes and energy availability, plants adjust metabolism and gene expression to environmental changes through employment of interacting signalling pathways.
+Results:
+
+Comparing the response of Arabidopsis wild-type plants with that of the mutants adg1, pgr1 and vtc1 upon altered CO2-availability, the regulatory role of the cellular energy status, photosynthetic electron transport, the redox state and concentration of ascorbate and glutathione and the assimilatory force was analyzed in relation to the transcript abundance of stress-responsive nuclear encoded genes and psaA and psbA encoding the reaction centre proteins of photosystem I and II, respectively. Transcript abundance of Bap1, Stp1, psaA and psaB was coupled with seven metabolic parameters. Especially for psaA and psaB, the complex analysis demonstrated that the assumed PQ-dependent redox control is subordinate to signals linked to the relative availability of 3-PGA and DHAP, which define the assimilatory force. For the transcripts of sAPx and Csd2 high correlations with the calculated redox state of NADPH were observed in pgr1, but not in wild-type, suggesting that in wild-type plants signals depending on thylakoid acidification overlay a predominant redox-signal. Strongest correlation with the redox state of ascorbate was observed for 2CPA, whose transcript abundance regulation however was almost insensitive to the ascorbate content demonstrating dominance of redox regulation over metabolite sensing.
+Conclusion:
+
+In the mutants, signalling pathways are partially uncoupled, demonstrating dominance of metabolic control of photoreaction centre expression over sensing the redox state of the PQ-pool. The balance between the cellular redox poise and the energy signature regulates sAPx and Csd2 transcript abundance, while 2CPA expression is primarily redox-controlled.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="1471_2229_6_15.pdf">https://pub.uni-bielefeld.de/download/1594959/2311109</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>BIOMED CENTRAL LTD</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>BMC PLANT BIOLOGY</title></titleInfo>
+  <identifier type="issn">1471-2229</identifier>
+  <identifier type="MEDLINE">16916444</identifier>
+  <identifier type="ISI">000245250900001</identifier><identifier type="urn">urn:nbn:de:0070-pub-15949590</identifier><identifier type="doi">10.1186/1471-2229-6-15</identifier>
+<part><detail type="volume"><number>6</number></detail><detail type="issue"><number>1</number></detail>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>Wormuth D, Baier M, Kandlbinder A, Scheibe R, Hartung W, Dietz K-J (2006) &lt;br /&gt;Regulation of gene expression by photosynthetic signals triggered through modified CO2 availability.&lt;br /&gt;BMC PLANT BIOLOGY 6(1): 15.</bio1>
+<aps> D.  Wormuth, et al., Regulation of gene expression by photosynthetic signals triggered through modified CO2 availability, BMC PLANT BIOLOGY &lt;strong&gt;6&lt;/strong&gt;, (2006).</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wormuth, D., Baier, M., Kandlbinder, A., Scheibe, R., Hartung, W. &amp;amp; Dietz, K.-J. (2006). Regulation of gene expression by photosynthetic signals triggered through modified CO2 availability. &lt;em&gt;BMC PLANT BIOLOGY&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;(1): 15. BIOMED CENTRAL LTD. doi:10.1186/1471-2229-6-15.&lt;/div&gt;</dgps>
+<ama>Wormuth D, Baier M, Kandlbinder A, Scheibe R, Hartung W, Dietz K-J. Regulation of gene expression by photosynthetic signals triggered through modified CO2 availability. &lt;em&gt;BMC PLANT BIOLOGY&lt;/em&gt;. 2006;6(1): 15.</ama>
+<harvard1>Wormuth, D., et al., 2006. Regulation of gene expression by photosynthetic signals triggered through modified CO2 availability. &lt;em&gt;BMC PLANT BIOLOGY&lt;/em&gt;, 6(1): 15.</harvard1>
+<default>Wormuth D, Baier M, Kandlbinder A, Scheibe R, Hartung W, Dietz K-J (2006) &lt;br /&gt;BMC PLANT BIOLOGY 6(1): 15.</default>
+<wels>Wormuth, D.; Baier, M.; Kandlbinder, A.; Scheibe, R.; Hartung, W.; Dietz, K. - J. (2006): Regulation of gene expression by photosynthetic signals triggered through modified CO2 availability &lt;em&gt;BMC PLANT BIOLOGY&lt;/em&gt;,6:(1):15</wels>
+<mla>Wormuth, Dennis, Baier, Margarete, Kandlbinder, Andrea, Scheibe, Renate, Hartung, Wolfram, and Dietz, Karl-Josef. “Regulation of gene expression by photosynthetic signals triggered through modified CO2 availability”. &lt;em&gt;BMC PLANT BIOLOGY&lt;/em&gt; 6.1 (2006): 15.</mla>
+<lncs> Wormuth, D., Baier, M., Kandlbinder, A., Scheibe, R., Hartung, W., Dietz, K.-J.: Regulation of gene expression by photosynthetic signals triggered through modified CO2 availability. BMC PLANT BIOLOGY. 6, : 15 (2006).</lncs>
+<ieee> D. Wormuth, et al., “Regulation of gene expression by photosynthetic signals triggered through modified CO2 availability”, &lt;em&gt;BMC PLANT BIOLOGY&lt;/em&gt;,  vol. 6, 2006, : 15.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wormuth, D., Baier, M., Kandlbinder, A., Scheibe, R., Hartung, W., &amp;amp; Dietz, K. - J. (2006). Regulation of gene expression by photosynthetic signals triggered through modified CO2 availability. &lt;em&gt;BMC PLANT BIOLOGY&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;(1): 15.&lt;/div&gt;</apa_indent>
+<frontiers>Wormuth, D., Baier, M., Kandlbinder, A., Scheibe, R., Hartung, W., and Dietz, K. - J. (2006). Regulation of gene expression by photosynthetic signals triggered through modified CO2 availability. &lt;em&gt;BMC PLANT BIOLOGY&lt;/em&gt; 6:15.</frontiers>
+<apa>Wormuth, D., Baier, M., Kandlbinder, A., Scheibe, R., Hartung, W., &amp;amp; Dietz, K. - J. (2006). Regulation of gene expression by photosynthetic signals triggered through modified CO2 availability. &lt;em&gt;BMC PLANT BIOLOGY&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;(1): 15.</apa>
+<angewandte-chemie>D.  Wormuth, M.  Baier, A.  Kandlbinder, R.  Scheibe, W.  Hartung, and K. - J.  Dietz, “Regulation of gene expression by photosynthetic signals triggered through modified CO2 availability”, &lt;em&gt;BMC PLANT BIOLOGY&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;6&lt;/em&gt;, : 15.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wormuth, Dennis, Baier, Margarete, Kandlbinder, Andrea, Scheibe, Renate, Hartung, Wolfram, and Dietz, Karl-Josef. 2006. “Regulation of gene expression by photosynthetic signals triggered through modified CO2 availability”. &lt;em&gt;BMC PLANT BIOLOGY&lt;/em&gt; 6 (1): 15.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1594959</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:29Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-10T12:42:20Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1594959</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1594959</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

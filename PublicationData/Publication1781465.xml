@@ -1,0 +1,104 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>A network model for the control of the movement of a redundant manipulator</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">M.</namePart>
+  <namePart type="family">Brüwer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Holk</namePart>
+  <namePart type="family">Cruse</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21923</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2685507</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">In an earlier investigation (Cruse and Brüwer 1987) an algorithmic model was proposed which describes targeting movements of a human arm when restricted to a horizontal plane. As three joints at shoulder, elbow and wrist are allowed to move, the system is redundant. Two models are discussed here which replace this algorithmic model by a network model. Both networks solve the static problem, i.e. they provide the joint angles which the arm has to adopt in order to reach a given point in the workspace. In the first model the position of this point is given in the form ofx —y coordinates, the second model obtains this information by means of a retina-like input layer. The second model is expanded by a simple procedure to describe movements from a start to an end point. The results qualitatively correspond to those obtained from human subjects. The advantages of the network models in comparison to the algorithmic model are discussed.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="cruse_67.pdf">https://pub.uni-bielefeld.de/download/1781465/2313308</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1990</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Biological cybernetics</title></titleInfo>
+  <identifier type="issn">0340-1200</identifier>
+  <identifier type="eIssn">1432-0770</identifier>
+  <identifier type="MEDLINE">2357476</identifier>
+  <identifier type="ISI">A1990DB59600010</identifier><identifier type="urn">urn:nbn:de:0070-pub-17814650</identifier><identifier type="doi">10.1007/BF00205117</identifier>
+<part><detail type="volume"><number>62</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">549-555</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee> M. Brüwer and H. Cruse, “A network model for the control of the movement of a redundant manipulator”, &lt;em&gt;Biological cybernetics&lt;/em&gt;,  vol. 62, 1990,  pp. 549-555.</ieee>
+<lncs> Brüwer, M., Cruse, H.: A network model for the control of the movement of a redundant manipulator. Biological cybernetics. 62, 549-555 (1990).</lncs>
+<mla>Brüwer, M., and Cruse, Holk. “A network model for the control of the movement of a redundant manipulator”. &lt;em&gt;Biological cybernetics&lt;/em&gt; 62.6 (1990): 549-555.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Brüwer, M., &amp;amp; Cruse, H. (1990). A network model for the control of the movement of a redundant manipulator. &lt;em&gt;Biological cybernetics&lt;/em&gt;, &lt;em&gt;62&lt;/em&gt;(6), 549-555.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>M.  Brüwer, and H.  Cruse, “A network model for the control of the movement of a redundant manipulator”, &lt;em&gt;Biological cybernetics&lt;/em&gt;, &lt;strong&gt;1990&lt;/strong&gt;, &lt;em&gt;62&lt;/em&gt;, 549-555.</angewandte-chemie>
+<apa>Brüwer, M., &amp;amp; Cruse, H. (1990). A network model for the control of the movement of a redundant manipulator. &lt;em&gt;Biological cybernetics&lt;/em&gt;, &lt;em&gt;62&lt;/em&gt;(6), 549-555.</apa>
+<frontiers>Brüwer, M., and Cruse, H. (1990). A network model for the control of the movement of a redundant manipulator. &lt;em&gt;Biological cybernetics&lt;/em&gt; 62, 549-555.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Brüwer, M., and Cruse, Holk. 1990. “A network model for the control of the movement of a redundant manipulator”. &lt;em&gt;Biological cybernetics&lt;/em&gt; 62 (6): 549-555.&lt;/div&gt;</chicago>
+<harvard1>Brüwer, M., &amp;amp; Cruse, H., 1990. A network model for the control of the movement of a redundant manipulator. &lt;em&gt;Biological cybernetics&lt;/em&gt;, 62(6), p 549-555.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Brüwer, M. &amp;amp; Cruse, H. (1990). A network model for the control of the movement of a redundant manipulator. &lt;em&gt;Biological cybernetics&lt;/em&gt;, &lt;em&gt;62&lt;/em&gt;(6), 549-555. doi:10.1007/BF00205117.&lt;/div&gt;</dgps>
+<ama>Brüwer M, Cruse H. A network model for the control of the movement of a redundant manipulator. &lt;em&gt;Biological cybernetics&lt;/em&gt;. 1990;62(6):549-555.</ama>
+<aps> M.  Brüwer and H.  Cruse, A network model for the control of the movement of a redundant manipulator, Biological cybernetics &lt;strong&gt;62&lt;/strong&gt;, 549-555 (1990).</aps>
+<bio1>Brüwer M, Cruse H (1990) &lt;br /&gt;A network model for the control of the movement of a redundant manipulator.&lt;br /&gt;Biological cybernetics 62(6): 549-555.</bio1>
+<wels>Brüwer, M.; Cruse, H. (1990): A network model for the control of the movement of a redundant manipulator &lt;em&gt;Biological cybernetics&lt;/em&gt;,62:(6): 549-555.</wels>
+<default>Brüwer M, Cruse H (1990) &lt;br /&gt;Biological cybernetics 62(6): 549-555.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781465</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-08-09T06:52:25Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-08-09T06:52:25Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781465</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781465</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

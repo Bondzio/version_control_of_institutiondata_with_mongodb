@@ -1,0 +1,110 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Bildungsplanung</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Dieter</namePart>
+  <namePart type="family">Timmermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">156157</identifier></name>
+<name type="personal">
+  <namePart type="given">Frank</namePart>
+  <namePart type="family">Strikker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">88241</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Günter</namePart><namePart type="family">Cramer</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Erziehungswissenschaft</namePart>
+  <identifier type="unibi">10021</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG 6 - Weiterbildung &amp; Governance of Lifelong Learning</namePart>
+  <identifier type="unibi">7978238</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT2668.pdf">https://pub.uni-bielefeld.de/download/1781682/2313421</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Dt. Wirtschaftsdienst, [Chapter 3.6]</publisher><dateIssued encoding="w3cdtf">1994</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Ausbilder-Handbuch: Aufgaben, Strategien und Zuständigkeiten für Verantwortliche in der Aus- und Weiterbildung</title></titleInfo>
+  <identifier type="isbn">3-87156-165-7</identifier><identifier type="urn">urn:nbn:de:0070-bipr-26685</identifier>
+<part><extent unit="pages">1-28</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<lncs>Timmermann, D., Strikker, F.: Bildungsplanung. In: Cramer, G. (ed.) Ausbilder-Handbuch: Aufgaben, Strategien und Zuständigkeiten für Verantwortliche in der Aus- und Weiterbildung. p. 1-28. Dt. Wirtschaftsdienst, [Chapter 3.6], Köln (1994).</lncs>
+<mla>Timmermann, Dieter, and Strikker, Frank. “Bildungsplanung”. &lt;em&gt;Ausbilder-Handbuch: Aufgaben, Strategien und Zuständigkeiten für Verantwortliche in der Aus- und Weiterbildung&lt;/em&gt;. Ed. Günter Cramer. Köln: Dt. Wirtschaftsdienst, [Chapter 3.6], 1994. 1-28.</mla>
+<ieee>D. Timmermann and F. Strikker, “Bildungsplanung”, &lt;em&gt;Ausbilder-Handbuch: Aufgaben, Strategien und Zuständigkeiten für Verantwortliche in der Aus- und Weiterbildung&lt;/em&gt;, G. Cramer, ed.,  Köln: Dt. Wirtschaftsdienst, [Chapter 3.6], 1994,  pp.1-28.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Timmermann, D., &amp;amp; Strikker, F. (1994). Bildungsplanung. In G.  Cramer (Ed.), &lt;em&gt;Ausbilder-Handbuch: Aufgaben, Strategien und Zuständigkeiten für Verantwortliche in der Aus- und Weiterbildung&lt;/em&gt; (pp. 1-28). Köln: Dt. Wirtschaftsdienst, [Chapter 3.6].&lt;/div&gt;</apa_indent>
+<frontiers>Timmermann, D., and Strikker, F. (1994). “Bildungsplanung” in &lt;em&gt;Ausbilder-Handbuch: Aufgaben, Strategien und Zuständigkeiten für Verantwortliche in der Aus- und Weiterbildung&lt;/em&gt;, ed. G.  Cramer (Köln: Dt. Wirtschaftsdienst, [Chapter 3.6]), 1-28.</frontiers>
+<apa>Timmermann, D., &amp;amp; Strikker, F. (1994). Bildungsplanung. In G.  Cramer (Ed.), &lt;em&gt;Ausbilder-Handbuch: Aufgaben, Strategien und Zuständigkeiten für Verantwortliche in der Aus- und Weiterbildung&lt;/em&gt; (pp. 1-28). Köln: Dt. Wirtschaftsdienst, [Chapter 3.6].</apa>
+<angewandte-chemie>D.  Timmermann, and F.  Strikker, in &lt;em&gt;Ausbilder-Handbuch: Aufgaben, Strategien und Zuständigkeiten für Verantwortliche in der Aus- und Weiterbildung&lt;/em&gt; (Ed.: G. Cramer), Dt. Wirtschaftsdienst, [Chapter 3.6], Köln, &lt;strong&gt;1994&lt;/strong&gt;, p. 1-28.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Timmermann, Dieter, and Strikker, Frank. 1994. “Bildungsplanung”. In &lt;em&gt;Ausbilder-Handbuch: Aufgaben, Strategien und Zuständigkeiten für Verantwortliche in der Aus- und Weiterbildung&lt;/em&gt;, ed. Günter Cramer, 1-28. Köln: Dt. Wirtschaftsdienst, [Chapter 3.6].&lt;/div&gt;</chicago>
+<bio1>Timmermann D, Strikker F (1994) &lt;br /&gt;Bildungsplanung. &lt;br /&gt;In:  Ausbilder-Handbuch: Aufgaben, Strategien und Zuständigkeiten für Verantwortliche in der Aus- und Weiterbildung. Cramer G (Ed); Köln: Dt. Wirtschaftsdienst, [Chapter 3.6]:  1-28.</bio1>
+<aps>D.  Timmermann and F.  Strikker, Bildungsplanung, in &lt;em&gt;Ausbilder-Handbuch: Aufgaben, Strategien und Zuständigkeiten für Verantwortliche in der Aus- und Weiterbildung&lt;/em&gt;, edited by G.  Cramer (Dt. Wirtschaftsdienst, [Chapter 3.6], Köln, 1994), p. 1-28.</aps>
+<ama>Timmermann D, Strikker F. Bildungsplanung. In: Cramer G, ed. &lt;em&gt;Ausbilder-Handbuch: Aufgaben, Strategien und Zuständigkeiten für Verantwortliche in der Aus- und Weiterbildung&lt;/em&gt;. Köln: Dt. Wirtschaftsdienst, [Chapter 3.6];  1994: 1-28.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Timmermann, D. &amp;amp; Strikker, F. (1994). Bildungsplanung. &lt;em&gt;Ausbilder-Handbuch: Aufgaben, Strategien und Zuständigkeiten für Verantwortliche in der Aus- und Weiterbildung&lt;/em&gt; (S. 1-28). Köln: Dt. Wirtschaftsdienst, [Chapter 3.6].&lt;/div&gt;</dgps>
+<harvard1>Timmermann, D., &amp;amp; Strikker, F., 1994. Bildungsplanung. In G.  Cramer, ed. &lt;em&gt;Ausbilder-Handbuch: Aufgaben, Strategien und Zuständigkeiten für Verantwortliche in der Aus- und Weiterbildung&lt;/em&gt;.  Köln: Dt. Wirtschaftsdienst, [Chapter 3.6], pp. 1-28.</harvard1>
+<default>Timmermann D, Strikker F (1994)  &lt;br /&gt;In:  Ausbilder-Handbuch: Aufgaben, Strategien und Zuständigkeiten für Verantwortliche in der Aus- und Weiterbildung. Cramer G (Ed);Köln: Dt. Wirtschaftsdienst, [Chapter 3.6]:  1-28.</default>
+<wels>Timmermann, D.; Strikker, F. (1994): Bildungsplanung. In: Günter Cramer (Hrsg.):  Ausbilder-Handbuch: Aufgaben, Strategien und Zuständigkeiten für Verantwortliche in der Aus- und Weiterbildung. Köln: Dt. Wirtschaftsdienst, [Chapter 3.6].  S. 1-28.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781682</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781682</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781682</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

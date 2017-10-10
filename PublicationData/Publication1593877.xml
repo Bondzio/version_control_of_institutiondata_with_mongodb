@@ -1,0 +1,92 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Agency or constraint? The mutual shaping of control beliefs and working lives in East Germany after 1989</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Martin</namePart>
+  <namePart type="family">Diewald</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">124110</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">5656055</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>PSYCHOLOGY PRESS</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host">
+  <identifier type="issn">0020-7594</identifier>
+  <identifier type="ISI">000246517800002</identifier><identifier type="doi">10.1080/00207590600991195</identifier>
+<part><detail type="volume"><number>42</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">77-84</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Diewald, M. (2007). &lt;em&gt;Agency or constraint? The mutual shaping of control beliefs and working lives in East Germany after 1989&lt;/em&gt;. Presented at the .&lt;/div&gt;</apa_indent>
+<ieee> M. Diewald, “Agency or constraint? The mutual shaping of control beliefs and working lives in East Germany after 1989”, PSYCHOLOGY PRESS, 2007.</ieee>
+<lncs> Diewald, M.: Agency or constraint? The mutual shaping of control beliefs and working lives in East Germany after 1989. (2007).</lncs>
+<mla>Diewald, Martin. “Agency or constraint? The mutual shaping of control beliefs and working lives in East Germany after 1989”., PSYCHOLOGY PRESS, 2007.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Diewald, Martin. 2007. “Agency or constraint? The mutual shaping of control beliefs and working lives in East Germany after 1989”. Presented at the , 42:77-84. INTERNATIONAL JOURNAL OF PSYCHOLOGY. PSYCHOLOGY PRESS.&lt;/div&gt;</chicago>
+<apa>Diewald, M. (2007). &lt;em&gt;Agency or constraint? The mutual shaping of control beliefs and working lives in East Germany after 1989&lt;/em&gt;. Presented at the .</apa>
+<angewandte-chemie>M.  Diewald, Psychology Press, &lt;strong&gt;2007&lt;/strong&gt;, p. 77-84.</angewandte-chemie>
+<frontiers>Diewald, M. (2007).“Agency or constraint? The mutual shaping of control beliefs and working lives in East Germany after 1989”.</frontiers>
+<ama>Diewald M. Agency or constraint? The mutual shaping of control beliefs and working lives in East Germany after 1989.</ama>
+<harvard1>Diewald, M., 2007. Agency or constraint? The mutual shaping of control beliefs and working lives in East Germany after 1989.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Diewald, M. (2007). Agency or constraint? The mutual shaping of control beliefs and working lives in East Germany after 1989 (INTERNATIONAL JOURNAL OF PSYCHOLOGY) (S. 77-84). PSYCHOLOGY PRESS. doi:10.1080/00207590600991195.&lt;/div&gt;</dgps>
+<bio1>Diewald M (2007) &lt;br /&gt;Agency or constraint? The mutual shaping of control beliefs and working lives in East Germany after 1989.</bio1>
+<aps> M.  Diewald, Agency or constraint? The mutual shaping of control beliefs and working lives in East Germany after 1989, INTERNATIONAL JOURNAL OF PSYCHOLOGY, &lt;strong&gt;42&lt;/strong&gt; (PSYCHOLOGY PRESS, 2007), p. 77-84.</aps>
+<wels>Diewald, M. (2007): Agency or constraint? The mutual shaping of control beliefs and working lives in East Germany after 1989. PSYCHOLOGY PRESS. (INTERNATIONAL JOURNAL OF PSYCHOLOGY, 42).  S. 77-84.</wels>
+<default>Diewald M (2007) .</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1593877</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:03Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-24T13:20:26Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1593877</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1593877</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

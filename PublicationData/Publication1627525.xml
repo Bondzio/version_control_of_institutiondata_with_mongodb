@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Cloning, expression and activation of a truncated 92-kDa gelatinase minienzyme</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Kroger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Harald</namePart>
+  <namePart type="family">Tschesche</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">19406</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Biochemie I</namePart>
+  <identifier type="unibi">17967</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The matrix metalloproteinases (MMPs) are a family of highly homologous zinc-endopeptidases that degrade extracellular matrix components. Human 92-kDa gelatinase (MMP-9) represents one of the MMPs that cleaves native collagen type IV. As a basis for structural investigations, the short form (catalytic domain, amino acid residues 113-450) of the 92-kDa gelatinase cDNA was cloned and expressed in E. coli as a minienzyme. By combination of reverse transcription (RT) and polymerase chain reaction (PCR), the truncated 92-kDa gelatinase-cDNA was amplified from the corresponding mRNA derived from ovarian carcinoma cells. The cDNA fragment obtained was cloned in E. coli and sequenced. With the exception of one nucleotide inversion at position 745 (gt--&gt;tg) the cDNA sequence was identical to the nucleotide sequence of the 92-kDa gelatinase as has been previously reported. The protein was expressed in E. coli using the vector pET-12b. The recombinant protein was stored in inclusion bodies and extracted as a 38 kDa species from the inclusion bodies by solubilization in 8 M urea. The product was purified by affinity chromatography and gel filtration. Amino-terminal sequence analysis confirmed the identity with the catalytic domain of 92-kDa gelatinase. The recombinant protein was refolded in the presence of Ca2+ and Zn2+ and yielded an active minienzyme with gelatinolytic activity. It degrades the native substrate collagen type IV and the synthetic substrate Mca-Pro-Leu-Gly-Leu-Dpa-Ala-Arg-NH2 x AcOH like the full-length 92-kDa gelatinase. The catalytic activity could be inhibited by the specific MMP inhibitors TIMP-1 and TIMP-2. (C) 1997 Elsevier Science B.V.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">1997</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>prokaryotic expression</topic><topic>inclusion body</topic><topic>refolding</topic><topic>recombinant protein</topic><topic>ovarian cancer</topic><topic>matrix metalloproteinase</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>GENE</title></titleInfo>
+  <identifier type="issn">0378-1119</identifier>
+  <identifier type="MEDLINE">9322755</identifier>
+  <identifier type="ISI">A1997XV96200022</identifier><identifier type="doi">10.1016/S0378-1119(97)00223-0</identifier>
+<part><detail type="volume"><number>196</number></detail><detail type="issue"><number>1-2</number></detail><extent unit="pages">175-180</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>M.  Kroger and H.  Tschesche, Cloning, expression and activation of a truncated 92-kDa gelatinase minienzyme, GENE &lt;strong&gt;196&lt;/strong&gt;, 175-180 (1997).</aps>
+<bio1>Kroger M, Tschesche H (1997) &lt;br /&gt;Cloning, expression and activation of a truncated 92-kDa gelatinase minienzyme.&lt;br /&gt;GENE 196(1-2): 175-180.</bio1>
+<ama>Kroger M, Tschesche H. Cloning, expression and activation of a truncated 92-kDa gelatinase minienzyme. &lt;em&gt;GENE&lt;/em&gt;. 1997;196(1-2):175-180.</ama>
+<harvard1>Kroger, M., &amp;amp; Tschesche, H., 1997. Cloning, expression and activation of a truncated 92-kDa gelatinase minienzyme. &lt;em&gt;GENE&lt;/em&gt;, 196(1-2), p 175-180.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kroger, M. &amp;amp; Tschesche, H. (1997). Cloning, expression and activation of a truncated 92-kDa gelatinase minienzyme. &lt;em&gt;GENE&lt;/em&gt;, &lt;em&gt;196&lt;/em&gt;(1-2), 175-180. ELSEVIER SCIENCE BV. doi:10.1016/S0378-1119(97)00223-0.&lt;/div&gt;</dgps>
+<default>Kroger M, Tschesche H (1997) &lt;br /&gt;GENE 196(1-2): 175-180.</default>
+<wels>Kroger, M.; Tschesche, H. (1997): Cloning, expression and activation of a truncated 92-kDa gelatinase minienzyme &lt;em&gt;GENE&lt;/em&gt;,196:(1-2): 175-180.</wels>
+<lncs>Kroger, M., Tschesche, H.: Cloning, expression and activation of a truncated 92-kDa gelatinase minienzyme. GENE. 196, 175-180 (1997).</lncs>
+<mla>Kroger, M, and Tschesche, Harald. “Cloning, expression and activation of a truncated 92-kDa gelatinase minienzyme”. &lt;em&gt;GENE&lt;/em&gt; 196.1-2 (1997): 175-180.</mla>
+<ieee>M. Kroger and H. Tschesche, “Cloning, expression and activation of a truncated 92-kDa gelatinase minienzyme”, &lt;em&gt;GENE&lt;/em&gt;,  vol. 196, 1997,  pp. 175-180.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kroger, M., &amp;amp; Tschesche, H. (1997). Cloning, expression and activation of a truncated 92-kDa gelatinase minienzyme. &lt;em&gt;GENE&lt;/em&gt;, &lt;em&gt;196&lt;/em&gt;(1-2), 175-180.&lt;/div&gt;</apa_indent>
+<frontiers>Kroger, M., and Tschesche, H. (1997). Cloning, expression and activation of a truncated 92-kDa gelatinase minienzyme. &lt;em&gt;GENE&lt;/em&gt; 196, 175-180.</frontiers>
+<apa>Kroger, M., &amp;amp; Tschesche, H. (1997). Cloning, expression and activation of a truncated 92-kDa gelatinase minienzyme. &lt;em&gt;GENE&lt;/em&gt;, &lt;em&gt;196&lt;/em&gt;(1-2), 175-180.</apa>
+<angewandte-chemie>M.  Kroger, and H.  Tschesche, “Cloning, expression and activation of a truncated 92-kDa gelatinase minienzyme”, &lt;em&gt;GENE&lt;/em&gt;, &lt;strong&gt;1997&lt;/strong&gt;, &lt;em&gt;196&lt;/em&gt;, 175-180.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kroger, M, and Tschesche, Harald. 1997. “Cloning, expression and activation of a truncated 92-kDa gelatinase minienzyme”. &lt;em&gt;GENE&lt;/em&gt; 196 (1-2): 175-180.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1627525</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:22:20Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-12-08T10:50:06Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1627525</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1627525</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

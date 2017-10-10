@@ -1,0 +1,114 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Weiterbildendes Studium Umweltberatung</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Gernot</namePart>
+  <namePart type="family">Graeßner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">95235</identifier></name>
+<name type="personal">
+  <namePart type="given">Rolf</namePart>
+  <namePart type="family">Mannesmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Bodo</namePart>
+  <namePart type="family">Müller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21842</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Peter</namePart><namePart type="family">Lundgreen</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Erziehungswissenschaft</namePart>
+  <identifier type="unibi">10021</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG 6 - Weiterbildung &amp; Governance of Lifelong Learning</namePart>
+  <identifier type="unibi">7978238</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT2997.pdf">https://pub.uni-bielefeld.de/download/1782156/2313694</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Verl. für Regionalgeschichte</publisher><dateIssued encoding="w3cdtf">1994</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Reformuniversität Bielefeld: 1969 - 1994 ; zwischen Defensive und Innovation</title></titleInfo>
+  <identifier type="isbn">3-89534-150-9</identifier><identifier type="urn">urn:nbn:de:0070-bipr-29974</identifier>
+<part><extent unit="pages">388-392</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>G. Graeßner, R. Mannesmann, and B. Müller, “Weiterbildendes Studium Umweltberatung”, &lt;em&gt;Reformuniversität Bielefeld: 1969 - 1994 ; zwischen Defensive und Innovation&lt;/em&gt;, P. Lundgreen, ed.,  Bielefeld: Verl. für Regionalgeschichte, 1994,  pp.388-392.</ieee>
+<mla>Graeßner, Gernot, Mannesmann, Rolf, and Müller, Bodo. “Weiterbildendes Studium Umweltberatung”. &lt;em&gt;Reformuniversität Bielefeld: 1969 - 1994 ; zwischen Defensive und Innovation&lt;/em&gt;. Ed. Peter Lundgreen. Bielefeld: Verl. für Regionalgeschichte, 1994. 388-392.</mla>
+<lncs>Graeßner, G., Mannesmann, R., Müller, B.: Weiterbildendes Studium Umweltberatung. In: Lundgreen, P. (ed.) Reformuniversität Bielefeld: 1969 - 1994 ; zwischen Defensive und Innovation. p. 388-392. Verl. für Regionalgeschichte, Bielefeld (1994).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Graeßner, G., Mannesmann, R., &amp;amp; Müller, B. (1994). Weiterbildendes Studium Umweltberatung. In P.  Lundgreen (Ed.), &lt;em&gt;Reformuniversität Bielefeld: 1969 - 1994 ; zwischen Defensive und Innovation&lt;/em&gt; (pp. 388-392). Bielefeld: Verl. für Regionalgeschichte.&lt;/div&gt;</apa_indent>
+<apa>Graeßner, G., Mannesmann, R., &amp;amp; Müller, B. (1994). Weiterbildendes Studium Umweltberatung. In P.  Lundgreen (Ed.), &lt;em&gt;Reformuniversität Bielefeld: 1969 - 1994 ; zwischen Defensive und Innovation&lt;/em&gt; (pp. 388-392). Bielefeld: Verl. für Regionalgeschichte.</apa>
+<angewandte-chemie>G.  Graeßner, R.  Mannesmann, and B.  Müller, in &lt;em&gt;Reformuniversität Bielefeld: 1969 - 1994 ; zwischen Defensive und Innovation&lt;/em&gt; (Ed.: P. Lundgreen), Verl. Für Regionalgeschichte, Bielefeld, &lt;strong&gt;1994&lt;/strong&gt;, p. 388-392.</angewandte-chemie>
+<frontiers>Graeßner, G., Mannesmann, R., and Müller, B. (1994). “Weiterbildendes Studium Umweltberatung” in &lt;em&gt;Reformuniversität Bielefeld: 1969 - 1994 ; zwischen Defensive und Innovation&lt;/em&gt;, ed. P.  Lundgreen (Bielefeld: Verl. für Regionalgeschichte), 388-392.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Graeßner, Gernot, Mannesmann, Rolf, and Müller, Bodo. 1994. “Weiterbildendes Studium Umweltberatung”. In &lt;em&gt;Reformuniversität Bielefeld: 1969 - 1994 ; zwischen Defensive und Innovation&lt;/em&gt;, ed. Peter Lundgreen, 388-392. Bielefeld: Verl. für Regionalgeschichte.&lt;/div&gt;</chicago>
+<harvard1>Graeßner, G., Mannesmann, R., &amp;amp; Müller, B., 1994. Weiterbildendes Studium Umweltberatung. In P.  Lundgreen, ed. &lt;em&gt;Reformuniversität Bielefeld: 1969 - 1994 ; zwischen Defensive und Innovation&lt;/em&gt;.  Bielefeld: Verl. für Regionalgeschichte, pp. 388-392.</harvard1>
+<ama>Graeßner G, Mannesmann R, Müller B. Weiterbildendes Studium Umweltberatung. In: Lundgreen P, ed. &lt;em&gt;Reformuniversität Bielefeld: 1969 - 1994 ; zwischen Defensive und Innovation&lt;/em&gt;. Bielefeld: Verl. für Regionalgeschichte;  1994: 388-392.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Graeßner, G., Mannesmann, R. &amp;amp; Müller, B. (1994). Weiterbildendes Studium Umweltberatung. &lt;em&gt;Reformuniversität Bielefeld: 1969 - 1994 ; zwischen Defensive und Innovation&lt;/em&gt; (S. 388-392). Bielefeld: Verl. für Regionalgeschichte.&lt;/div&gt;</dgps>
+<bio1>Graeßner G, Mannesmann R, Müller B (1994) &lt;br /&gt;Weiterbildendes Studium Umweltberatung. &lt;br /&gt;In:  Reformuniversität Bielefeld: 1969 - 1994 ; zwischen Defensive und Innovation. Lundgreen P (Ed); Bielefeld: Verl. für Regionalgeschichte:  388-392.</bio1>
+<aps>G.  Graeßner, R.  Mannesmann, and B.  Müller, Weiterbildendes Studium Umweltberatung, in &lt;em&gt;Reformuniversität Bielefeld: 1969 - 1994 ; zwischen Defensive und Innovation&lt;/em&gt;, edited by P.  Lundgreen (Verl. für Regionalgeschichte, Bielefeld, 1994), p. 388-392.</aps>
+<wels>Graeßner, G.; Mannesmann, R.; Müller, B. (1994): Weiterbildendes Studium Umweltberatung. In: Peter Lundgreen (Hrsg.):  Reformuniversität Bielefeld: 1969 - 1994 ; zwischen Defensive und Innovation. Bielefeld: Verl. für Regionalgeschichte.  S. 388-392.</wels>
+<default>Graeßner G, Mannesmann R, Müller B (1994)  &lt;br /&gt;In:  Reformuniversität Bielefeld: 1969 - 1994 ; zwischen Defensive und Innovation. Lundgreen P (Ed);Bielefeld: Verl. für Regionalgeschichte:  388-392.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1782156</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1782156</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1782156</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

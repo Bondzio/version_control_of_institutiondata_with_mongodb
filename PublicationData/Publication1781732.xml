@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Interregionale demo-ökonomische Modelle für die Bundesrepublik Deutschland: eine Zwischenbilanz</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Herwig</namePart>
+  <namePart type="family">Birg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">13197</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Bernhard</namePart><namePart type="family">Felderer</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Emeriti und pensionierte WissenschaftlerInnen</namePart>
+  <identifier type="unibi">4009911</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bevölkerungs- und Gesundheitsforschung</namePart>
+  <identifier type="unibi">10056</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT2719.pdf">https://pub.uni-bielefeld.de/download/1781732/2313468</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Duncker und Humblot</publisher><dateIssued encoding="w3cdtf">1986</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Beiträge zur Bevölkerungsökonomie</title></titleInfo>
+  <identifier type="isbn">3-428-05969-7</identifier><identifier type="urn">urn:nbn:de:0070-bipr-27198</identifier>
+<part><extent unit="pages">117-141</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Birg, H. (1986): Interregionale demo-ökonomische Modelle für die Bundesrepublik Deutschland: eine Zwischenbilanz. In: Bernhard Felderer (Hrsg.):  Beiträge zur Bevölkerungsökonomie. Berlin: Duncker und Humblot. (Schriften des Vereins für Socialpolitik, Gesellschaft für Wirtschafts- und Sozialwissenschaften ; N.F.,153, ).  S. 117-141.</wels>
+<default>Birg H (1986)  &lt;br /&gt;In:  Beiträge zur Bevölkerungsökonomie. Felderer B (Ed); Schriften des Vereins für Socialpolitik, Gesellschaft für Wirtschafts- und Sozialwissenschaften ; N.F.,153, . Berlin: Duncker und Humblot:  117-141.</default>
+<ama>Birg H. Interregionale demo-ökonomische Modelle für die Bundesrepublik Deutschland: eine Zwischenbilanz. In: Felderer B, ed. &lt;em&gt;Beiträge zur Bevölkerungsökonomie&lt;/em&gt;. Schriften des Vereins für Socialpolitik, Gesellschaft für Wirtschafts- und Sozialwissenschaften ; N.F.,153. Berlin: Duncker und Humblot;  1986: 117-141.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Birg, H. (1986). Interregionale demo-ökonomische Modelle für die Bundesrepublik Deutschland: eine Zwischenbilanz (Schriften des Vereins für Socialpolitik, Gesellschaft für Wirtschafts- und Sozialwissenschaften ; N.F.,153). &lt;em&gt;Beiträge zur Bevölkerungsökonomie&lt;/em&gt; (S. 117-141). Berlin: Duncker und Humblot.&lt;/div&gt;</dgps>
+<harvard1>Birg, H., 1986. Interregionale demo-ökonomische Modelle für die Bundesrepublik Deutschland: eine Zwischenbilanz. In B.  Felderer, ed. &lt;em&gt;Beiträge zur Bevölkerungsökonomie&lt;/em&gt;. Schriften des Vereins für Socialpolitik, Gesellschaft für Wirtschafts- und Sozialwissenschaften ; N.F.,153.  Berlin: Duncker und Humblot, pp. 117-141.</harvard1>
+<bio1>Birg H (1986) &lt;br /&gt;Interregionale demo-ökonomische Modelle für die Bundesrepublik Deutschland: eine Zwischenbilanz. &lt;br /&gt;In:  Beiträge zur Bevölkerungsökonomie. Felderer B (Ed); Schriften des Vereins für Socialpolitik, Gesellschaft für Wirtschafts- und Sozialwissenschaften ; N.F.,153,  Berlin: Duncker und Humblot:  117-141.</bio1>
+<aps>H.  Birg, Interregionale demo-ökonomische Modelle für die Bundesrepublik Deutschland: eine Zwischenbilanz, in &lt;em&gt;Beiträge zur Bevölkerungsökonomie&lt;/em&gt;, edited by B.  Felderer, Schriften des Vereins für Socialpolitik, Gesellschaft für Wirtschafts- und Sozialwissenschaften ; N.F.,153 (Duncker und Humblot, Berlin, 1986), p. 117-141.</aps>
+<angewandte-chemie>H.  Birg, in &lt;em&gt;Beiträge zur Bevölkerungsökonomie&lt;/em&gt; (Ed.: B. Felderer), Duncker Und Humblot, Berlin, &lt;strong&gt;1986&lt;/strong&gt;, p. 117-141.</angewandte-chemie>
+<apa>Birg, H. (1986). Interregionale demo-ökonomische Modelle für die Bundesrepublik Deutschland: eine Zwischenbilanz. In B.  Felderer (Ed.), &lt;em&gt;Schriften des Vereins für Socialpolitik, Gesellschaft für Wirtschafts- und Sozialwissenschaften ; N.F.,153&lt;/em&gt;&lt;em&gt;. Beiträge zur Bevölkerungsökonomie&lt;/em&gt; (pp. 117-141). Berlin: Duncker und Humblot.</apa>
+<frontiers>Birg, H. (1986). “Interregionale demo-ökonomische Modelle für die Bundesrepublik Deutschland: eine Zwischenbilanz” in &lt;em&gt;Beiträge zur Bevölkerungsökonomie&lt;/em&gt;, ed. B.  Felderer Schriften des Vereins für Socialpolitik, Gesellschaft für Wirtschafts- und Sozialwissenschaften ; N.F.,153 (Berlin: Duncker und Humblot), 117-141.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Birg, Herwig. 1986. “Interregionale demo-ökonomische Modelle für die Bundesrepublik Deutschland: eine Zwischenbilanz”. In &lt;em&gt;Beiträge zur Bevölkerungsökonomie&lt;/em&gt;, ed. Bernhard Felderer, 117-141. Schriften des Vereins für Socialpolitik, Gesellschaft für Wirtschafts- und Sozialwissenschaften ; N.F.,153. Berlin: Duncker und Humblot.&lt;/div&gt;</chicago>
+<ieee>H. Birg, “Interregionale demo-ökonomische Modelle für die Bundesrepublik Deutschland: eine Zwischenbilanz”, &lt;em&gt;Beiträge zur Bevölkerungsökonomie&lt;/em&gt;, B. Felderer, ed., Schriften des Vereins für Socialpolitik, Gesellschaft für Wirtschafts- und Sozialwissenschaften ; N.F.,153,  Berlin: Duncker und Humblot, 1986,  pp.117-141.</ieee>
+<lncs>Birg, H.: Interregionale demo-ökonomische Modelle für die Bundesrepublik Deutschland: eine Zwischenbilanz. In: Felderer, B. (ed.) Beiträge zur Bevölkerungsökonomie. Schriften des Vereins für Socialpolitik, Gesellschaft für Wirtschafts- und Sozialwissenschaften ; N.F.,153. p. 117-141. Duncker und Humblot, Berlin (1986).</lncs>
+<mla>Birg, Herwig. “Interregionale demo-ökonomische Modelle für die Bundesrepublik Deutschland: eine Zwischenbilanz”. &lt;em&gt;Beiträge zur Bevölkerungsökonomie&lt;/em&gt;. Ed. Bernhard Felderer. Berlin: Duncker und Humblot, 1986. Schriften des Vereins für Socialpolitik, Gesellschaft für Wirtschafts- und Sozialwissenschaften ; N.F.,153. 117-141.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Birg, H. (1986). Interregionale demo-ökonomische Modelle für die Bundesrepublik Deutschland: eine Zwischenbilanz. In B.  Felderer (Ed.), &lt;em&gt;Schriften des Vereins für Socialpolitik, Gesellschaft für Wirtschafts- und Sozialwissenschaften ; N.F.,153&lt;/em&gt;&lt;em&gt;. Beiträge zur Bevölkerungsökonomie&lt;/em&gt; (pp. 117-141). Berlin: Duncker und Humblot.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781732</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781732</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781732</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

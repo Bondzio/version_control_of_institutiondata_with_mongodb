@@ -1,0 +1,148 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Evaluation of radiological features for breast tumour classification in clinical screening with machine learning methods</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Tim Wilhelm</namePart>
+  <namePart type="family">Nattkemper</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11602</identifier></name>
+<name type="personal">
+  <namePart type="given">B</namePart>
+  <namePart type="family">Arnrich</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">O</namePart>
+  <namePart type="family">Lichte</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">W</namePart>
+  <namePart type="family">Timm</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Degenhard</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">L</namePart>
+  <namePart type="family">Pointon</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">C</namePart>
+  <namePart type="family">Hayes</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">MO</namePart>
+  <namePart type="family">Leach</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">16941123</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33067409</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Objective: In this work, methods utilizing supervised and unsupervised machine learning are applied to analyze radiologically derived morphological and calculated kinetic tumour features. The features are extracted from dynamic contrast enhanced magnetic resonance imaging (DCE-MRI) time-course data. Material: The DCE-MRI data of the female breast are obtained within the UK Multicenter Breast Screening Study. The group of patients imaged in this study is selected on the basis of an increased genetic risk for developing breast cancer. Methods: The k-means clustering and self-organizing maps (SOM) are applied to analyze the signal structure in terms of visualization. We employ k-nearest neighbor classifiers (k-nn), support vector machines (SVM) and decision trees (DT) to classify features using a computer aided diagnosis (CAD) approach. Results: Regarding the unsupervised techniques, clustering according to features indicating benign and malignant characteristics is observed to a limited extend. The supervised approaches classified the data with 74% accuracy (DT) and providing an area under the receiver-operator-characteristics (ROC) curve (AUC) of 0.88 (SVM). Conclusion: It was found that contour and wash-out type (WOT) features determined by the radiologists lead to the best SVM classification results. Although a fast signal uptake in early time-point measurements is an important feature for malignant/benign classification of tumours, our results indicate that the wash-out characteristics might be considered as important. © 2004 Elsevier B.V. All rights reserved.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">2005</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>decision trees</topic><topic>support</topic><topic>artificial neural networks</topic><topic>machine learning</topic><topic>magnetic resonance imaging</topic><topic>vector machine (SVM)</topic><topic>aided diagnosis</topic><topic>breast cancer</topic><topic>clinical screening</topic><topic>computer</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>ARTIFICIAL INTELLIGENCE IN MEDICINE</title></titleInfo>
+  <identifier type="issn">0933-3657</identifier>
+  <identifier type="MEDLINE">15894177</identifier>
+  <identifier type="ISI">000229559200003</identifier><identifier type="doi">10.1016/j.artmed.2004.09.001</identifier>
+<part><detail type="volume"><number>34</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">129-139</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Nattkemper, T. W., Arnrich, B., Lichte, O., Timm, W., Degenhard, A., Pointon, L., Hayes, C., et al. (2005). Evaluation of radiological features for breast tumour classification in clinical screening with machine learning methods. &lt;em&gt;ARTIFICIAL INTELLIGENCE IN MEDICINE&lt;/em&gt;, &lt;em&gt;34&lt;/em&gt;(2), 129-139.&lt;/div&gt;</apa_indent>
+<lncs> Nattkemper, T.W., Arnrich, B., Lichte, O., Timm, W., Degenhard, A., Pointon, L., Hayes, C., Leach, M.O.: Evaluation of radiological features for breast tumour classification in clinical screening with machine learning methods. ARTIFICIAL INTELLIGENCE IN MEDICINE. 34, 129-139 (2005).</lncs>
+<mla>Nattkemper, Tim Wilhelm, Arnrich, B, Lichte, O, Timm, W, Degenhard, A, Pointon, L, Hayes, C, and Leach, MO. “Evaluation of radiological features for breast tumour classification in clinical screening with machine learning methods”. &lt;em&gt;ARTIFICIAL INTELLIGENCE IN MEDICINE&lt;/em&gt; 34.2 (2005): 129-139.</mla>
+<ieee> T.W. Nattkemper, et al., “Evaluation of radiological features for breast tumour classification in clinical screening with machine learning methods”, &lt;em&gt;ARTIFICIAL INTELLIGENCE IN MEDICINE&lt;/em&gt;,  vol. 34, 2005,  pp. 129-139.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Nattkemper, Tim Wilhelm, Arnrich, B, Lichte, O, Timm, W, Degenhard, A, Pointon, L, Hayes, C, and Leach, MO. 2005. “Evaluation of radiological features for breast tumour classification in clinical screening with machine learning methods”. &lt;em&gt;ARTIFICIAL INTELLIGENCE IN MEDICINE&lt;/em&gt; 34 (2): 129-139.&lt;/div&gt;</chicago>
+<frontiers>Nattkemper, T. W., Arnrich, B., Lichte, O., Timm, W., Degenhard, A., Pointon, L., Hayes, C., and Leach, M. O. (2005). Evaluation of radiological features for breast tumour classification in clinical screening with machine learning methods. &lt;em&gt;ARTIFICIAL INTELLIGENCE IN MEDICINE&lt;/em&gt; 34, 129-139.</frontiers>
+<apa>Nattkemper, T. W., Arnrich, B., Lichte, O., Timm, W., Degenhard, A., Pointon, L., Hayes, C., et al. (2005). Evaluation of radiological features for breast tumour classification in clinical screening with machine learning methods. &lt;em&gt;ARTIFICIAL INTELLIGENCE IN MEDICINE&lt;/em&gt;, &lt;em&gt;34&lt;/em&gt;(2), 129-139.</apa>
+<angewandte-chemie>T. W.  Nattkemper, B.  Arnrich, O.  Lichte, W.  Timm, A.  Degenhard, L.  Pointon, C.  Hayes, and M. O.  Leach, “Evaluation of radiological features for breast tumour classification in clinical screening with machine learning methods”, &lt;em&gt;ARTIFICIAL INTELLIGENCE IN MEDICINE&lt;/em&gt;, &lt;strong&gt;2005&lt;/strong&gt;, &lt;em&gt;34&lt;/em&gt;, 129-139.</angewandte-chemie>
+<bio1>Nattkemper TW, Arnrich B, Lichte O, Timm W, Degenhard A, Pointon L, Hayes C, Leach MO (2005) &lt;br /&gt;Evaluation of radiological features for breast tumour classification in clinical screening with machine learning methods.&lt;br /&gt;ARTIFICIAL INTELLIGENCE IN MEDICINE 34(2): 129-139.</bio1>
+<aps> T. W.  Nattkemper, et al., Evaluation of radiological features for breast tumour classification in clinical screening with machine learning methods, ARTIFICIAL INTELLIGENCE IN MEDICINE &lt;strong&gt;34&lt;/strong&gt;, 129-139 (2005).</aps>
+<ama>Nattkemper TW, Arnrich B, Lichte O, et al. Evaluation of radiological features for breast tumour classification in clinical screening with machine learning methods. &lt;em&gt;ARTIFICIAL INTELLIGENCE IN MEDICINE&lt;/em&gt;. 2005;34(2):129-139.</ama>
+<harvard1>Nattkemper, T.W., et al., 2005. Evaluation of radiological features for breast tumour classification in clinical screening with machine learning methods. &lt;em&gt;ARTIFICIAL INTELLIGENCE IN MEDICINE&lt;/em&gt;, 34(2), p 129-139.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Nattkemper, T.W., Arnrich, B., Lichte, O., Timm, W., Degenhard, A., Pointon, L., Hayes, C. &amp;amp; Leach, M.O. (2005). Evaluation of radiological features for breast tumour classification in clinical screening with machine learning methods. &lt;em&gt;ARTIFICIAL INTELLIGENCE IN MEDICINE&lt;/em&gt;, &lt;em&gt;34&lt;/em&gt;(2), 129-139. ELSEVIER SCIENCE BV. doi:10.1016/j.artmed.2004.09.001.&lt;/div&gt;</dgps>
+<default>Nattkemper TW, Arnrich B, Lichte O, Timm W, Degenhard A, Pointon L, Hayes C, Leach MO (2005) &lt;br /&gt;ARTIFICIAL INTELLIGENCE IN MEDICINE 34(2): 129-139.</default>
+<wels>Nattkemper, T. W.; Arnrich, B.; Lichte, O.; Timm, W.; Degenhard, A.; Pointon, L.; Hayes, C.; Leach, M. O. (2005): Evaluation of radiological features for breast tumour classification in clinical screening with machine learning methods &lt;em&gt;ARTIFICIAL INTELLIGENCE IN MEDICINE&lt;/em&gt;,34:(2): 129-139.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1603560</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:39:59Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-09-28T07:12:19Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1603560</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1603560</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

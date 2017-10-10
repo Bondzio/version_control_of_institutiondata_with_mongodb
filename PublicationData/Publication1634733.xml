@@ -1,0 +1,102 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Trends in the Periodic System: the mass spectrum of dimethylphenyl phosphane and a comparison of the gas phase reactivity of dimethylphenyl pnictogene radical cations C6H5E(CH3)(2)(center dot+), (E = N, P, P, As)</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Dirk</namePart>
+  <namePart type="family">Kirchhoff</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Hans-Friedrich</namePart>
+  <namePart type="family">Grützmacher</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">41603</identifier></name>
+<name type="personal">
+  <namePart type="given">Hansjörg</namePart>
+  <namePart type="family">Grützmacher</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Chemie</namePart>
+  <identifier type="unibi">10018</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The mass spectrometric reactions of dimethylphenyl phosphane, 1, under electron impact have been studied by methods of tandem mass spectrometry and by using labeling with deuterium. The results are compared to those for the previously investigated dimethylaniline, 2, and dimethylphenyl arsane, 3, to examine the effects of heavy main group heteroatoms on the reactions of radical cations of the pnictogen derivatives C6H5E(CH3)(2). Decomposition of the radical cation 1(center dot+) gives rise to large peaks in the 70eV electron impact (EI) mass spectrum for loss of a radical, center dot CH3, which is followed by abundant loss of a molecule, H, and formation of ion C7H7+, and the 70eV EI mass spectrum of the deuterated derivative 1d3 shows that excessive positional hydrogen/deuterium (H/D) exchange accompanies all fragmentation reactions. This is confirmed by the mass analyzed kinetic energy (MIKE) spectrum of the molecular ion 1d6(center dot+) which displays a group of signals for the loss of all isotopomers, center dot C(H/D)(3), and three signals for formation of ions C7H5D2+, C7H4D3+ and C7H3D4+. The intensity distribution within this latter group of ions corresponds to a statistical positional exchange (&quot;scrambling&quot;) of all six D atoms of the methyl substituents with only two H atoms of the phenyl group. In contrast, the intensity distribution of the signals for toss of center dot C(H/D)(3) uncovers a bimodal reaction. About 39% of metastable molecular ions 1(center dot+) eliminate center dot CH3 after scrambling of the six H atoms of the methyl substituents with two H atoms of the phenyl group, white the remaining 61% of metastable 1(center dot+) lose specifically a CH3 substituent without positional H exchange. Further, the metastable ion [M-CH3](+) eliminates, almost exclusively, a molecule H-2, which is preceded by excessive positional H/D exchange in the case of metastable ion [M+CD3](+). The formation of ion C7H7+ from metastable ion [M-CH3](+) is not observed and this is a minor process, even under the high energy condition of collision-induced dissociation (CID). The mechanisms of these fragmentation and exchange reactions have been modeled by theoretical calculations using the DFT functionals at the level UHBLY/6-311+G(2d,p)//UHBLYP/6-31+G(d). The key feature is a rearrangement of molecular ion 1(center dot+) to an alpha-distonic isomer 1dist1(center dot+) by a 1,2-H shift from the CH3 substituent to the P atom in competition with a direct loss of a CH3 substituent. The distonic ion 1dist1(center dot+) performs positional H exchange between H atoms of both CH3 substituents, and H atoms at the ortho-positions of the phenyl group and rearranges readily to the (conventional) isomer benzylmethyl phosphane radical cation 1bzl(center dot+). The ion 1bzl(center dot+) undergoes further positional H exchange before decomposition to ion C7H7+ and a radical CH3P center dot H or by loss of a radical center dot CH3. Finally, ions [M-CH3](+) of methyl-phenyl phosphenium structure 1a(+) and benzyl phosphenium structure 1b+ interconvert easily parallel to positional exchange involving at( H atoms of the ions. Eventually, a molecule H2 is lost by a 1,1-elimination from the PH2 group of the protomer 1b-H+ of 1b(+). The trends observed in the gas phase chemistry of the pnictogen radical cations dimethylaniline 2(center dot+), dimethylphenyl phosphane 1(center dot+) and dimethylphenyl arsane 3(center dot+) can be comprehended by considering the variation of the energetic requirements of three competing reaction: (i) alpha-cleavage by loss of center dot H from a methyl substituent, (ii) rearrangement of the molecular ion to an alpha-distonic isomer by a 1,2-H shift and (iii) loss of center dot CH3 by cleavage of the C-heteroatom bond. 2(center dot+) exhibits a strong N-C bond and a high activation barrier for 1,2-H shift and fragments far more predominantly by alpha-cleavage. Both 1(center dot+) and 3(center dot+) eliminate center dot CH3 by cleavage of the weak C-heteroatom bond. The barrier for a 1,2-H shift is also distinctly smaller than for 2(center dot+) and, for the P-derivative 1(center dot+), the generation of the alpha-distonic ion is able to compete with toss of center dot CH3.</abstract>
+
+<originInfo><publisher>IM Publications</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>EUROPEAN JOURNAL OF MASS SPECTROMETRY</title></titleInfo>
+  <identifier type="issn">1356-1049</identifier>
+  <identifier type="MEDLINE">19423899</identifier>
+  <identifier type="ISI">000264867600007</identifier><identifier type="doi">10.1255/ejms.940</identifier>
+<part><detail type="volume"><number>15</number></detail><detail type="issue"><number>5</number></detail><extent unit="pages">131-144</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>D.  Kirchhoff, H. - F.  Grützmacher, and H.  Grützmacher, Trends in the Periodic System: the mass spectrum of dimethylphenyl phosphane and a comparison of the gas phase reactivity of dimethylphenyl pnictogene radical cations C6H5E(CH3)(2)(center dot+), (E = N, P, P, As), EUROPEAN JOURNAL OF MASS SPECTROMETRY &lt;strong&gt;15&lt;/strong&gt;, 131-144 (2009).</aps>
+<bio1>Kirchhoff D, Grützmacher H-F, Grützmacher H (2009) &lt;br /&gt;Trends in the Periodic System: the mass spectrum of dimethylphenyl phosphane and a comparison of the gas phase reactivity of dimethylphenyl pnictogene radical cations C6H5E(CH3)(2)(center dot+), (E = N, P, P, As).&lt;br /&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY 15(5): 131-144.</bio1>
+<harvard1>Kirchhoff, D., Grützmacher, H.-F., &amp;amp; Grützmacher, H., 2009. Trends in the Periodic System: the mass spectrum of dimethylphenyl phosphane and a comparison of the gas phase reactivity of dimethylphenyl pnictogene radical cations C6H5E(CH3)(2)(center dot+), (E = N, P, P, As). &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;, 15(5), p 131-144.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kirchhoff, D., Grützmacher, H.-F. &amp;amp; Grützmacher, H. (2009). Trends in the Periodic System: the mass spectrum of dimethylphenyl phosphane and a comparison of the gas phase reactivity of dimethylphenyl pnictogene radical cations C6H5E(CH3)(2)(center dot+), (E = N, P, P, As). &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;, &lt;em&gt;15&lt;/em&gt;(5), 131-144. IM Publications. doi:10.1255/ejms.940.&lt;/div&gt;</dgps>
+<ama>Kirchhoff D, Grützmacher H-F, Grützmacher H. Trends in the Periodic System: the mass spectrum of dimethylphenyl phosphane and a comparison of the gas phase reactivity of dimethylphenyl pnictogene radical cations C6H5E(CH3)(2)(center dot+), (E = N, P, P, As). &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;. 2009;15(5):131-144.</ama>
+<default>Kirchhoff D, Grützmacher H-F, Grützmacher H (2009) &lt;br /&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY 15(5): 131-144.</default>
+<wels>Kirchhoff, D.; Grützmacher, H. - F.; Grützmacher, H. (2009): Trends in the Periodic System: the mass spectrum of dimethylphenyl phosphane and a comparison of the gas phase reactivity of dimethylphenyl pnictogene radical cations C6H5E(CH3)(2)(center dot+), (E = N, P, P, As) &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;,15:(5): 131-144.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kirchhoff, D., Grützmacher, H. - F., &amp;amp; Grützmacher, H. (2009). Trends in the Periodic System: the mass spectrum of dimethylphenyl phosphane and a comparison of the gas phase reactivity of dimethylphenyl pnictogene radical cations C6H5E(CH3)(2)(center dot+), (E = N, P, P, As). &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;, &lt;em&gt;15&lt;/em&gt;(5), 131-144.&lt;/div&gt;</apa_indent>
+<mla>Kirchhoff, Dirk, Grützmacher, Hans-Friedrich, and Grützmacher, Hansjörg. “Trends in the Periodic System: the mass spectrum of dimethylphenyl phosphane and a comparison of the gas phase reactivity of dimethylphenyl pnictogene radical cations C6H5E(CH3)(2)(center dot+), (E = N, P, P, As)”. &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt; 15.5 (2009): 131-144.</mla>
+<lncs>Kirchhoff, D., Grützmacher, H.-F., Grützmacher, H.: Trends in the Periodic System: the mass spectrum of dimethylphenyl phosphane and a comparison of the gas phase reactivity of dimethylphenyl pnictogene radical cations C6H5E(CH3)(2)(center dot+), (E = N, P, P, As). EUROPEAN JOURNAL OF MASS SPECTROMETRY. 15, 131-144 (2009).</lncs>
+<ieee>D. Kirchhoff, H.-F. Grützmacher, and H. Grützmacher, “Trends in the Periodic System: the mass spectrum of dimethylphenyl phosphane and a comparison of the gas phase reactivity of dimethylphenyl pnictogene radical cations C6H5E(CH3)(2)(center dot+), (E = N, P, P, As)”, &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;,  vol. 15, 2009,  pp. 131-144.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kirchhoff, Dirk, Grützmacher, Hans-Friedrich, and Grützmacher, Hansjörg. 2009. “Trends in the Periodic System: the mass spectrum of dimethylphenyl phosphane and a comparison of the gas phase reactivity of dimethylphenyl pnictogene radical cations C6H5E(CH3)(2)(center dot+), (E = N, P, P, As)”. &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt; 15 (5): 131-144.&lt;/div&gt;</chicago>
+<frontiers>Kirchhoff, D., Grützmacher, H. - F., and Grützmacher, H. (2009). Trends in the Periodic System: the mass spectrum of dimethylphenyl phosphane and a comparison of the gas phase reactivity of dimethylphenyl pnictogene radical cations C6H5E(CH3)(2)(center dot+), (E = N, P, P, As). &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt; 15, 131-144.</frontiers>
+<angewandte-chemie>D.  Kirchhoff, H. - F.  Grützmacher, and H.  Grützmacher, “Trends in the Periodic System: the mass spectrum of dimethylphenyl phosphane and a comparison of the gas phase reactivity of dimethylphenyl pnictogene radical cations C6H5E(CH3)(2)(center dot+), (E = N, P, P, As)”, &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;15&lt;/em&gt;, 131-144.</angewandte-chemie>
+<apa>Kirchhoff, D., Grützmacher, H. - F., &amp;amp; Grützmacher, H. (2009). Trends in the Periodic System: the mass spectrum of dimethylphenyl phosphane and a comparison of the gas phase reactivity of dimethylphenyl pnictogene radical cations C6H5E(CH3)(2)(center dot+), (E = N, P, P, As). &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;, &lt;em&gt;15&lt;/em&gt;(5), 131-144.</apa>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1634733</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:24Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-10T14:33:30Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1634733</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1634733</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

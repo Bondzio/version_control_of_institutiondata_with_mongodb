@@ -1,0 +1,99 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>The SMC experiment</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Günter</namePart>
+  <namePart type="family">Baum</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40173</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Baum_047.pdf">https://pub.uni-bielefeld.de/download/1776347/2312159</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Springer</publisher><dateIssued encoding="w3cdtf">1990</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Spin</topic><topic>Hochenergiephysik</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>High energy spin physics: proceedings of the 9th international symposium held at Bonn, FRG, 6 - 15 September 1990</title></titleInfo>
+  <identifier type="isbn">3-540-54127-6</identifier>
+  <identifier type="INSPIRE">309688</identifier><identifier type="urn">urn:nbn:de:0070-bipr-12111</identifier>
+<part><extent unit="pages">407-410</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Baum, G. (1990). “The SMC experiment” in &lt;em&gt;High energy spin physics: proceedings of the 9th international symposium held at Bonn, FRG, 6 - 15 September 1990&lt;/em&gt; (Berlin: Springer), 407-410.</frontiers>
+<angewandte-chemie>G.  Baum, in &lt;em&gt;High energy spin physics: proceedings of the 9th international symposium held at Bonn, FRG, 6 - 15 September 1990&lt;/em&gt;, Springer, Berlin, &lt;strong&gt;1990&lt;/strong&gt;, p. 407-410.</angewandte-chemie>
+<apa>Baum, G. (1990). The SMC experiment. &lt;em&gt;High energy spin physics: proceedings of the 9th international symposium held at Bonn, FRG, 6 - 15 September 1990&lt;/em&gt;, 407-410.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baum, Günter. 1990. “The SMC experiment”. In &lt;em&gt;High energy spin physics: proceedings of the 9th international symposium held at Bonn, FRG, 6 - 15 September 1990&lt;/em&gt;, 407-410. Berlin: Springer.&lt;/div&gt;</chicago>
+<lncs>Baum, G.: The SMC experiment. High energy spin physics: proceedings of the 9th international symposium held at Bonn, FRG, 6 - 15 September 1990. p. 407-410. Springer, Berlin (1990).</lncs>
+<mla>Baum, Günter. “The SMC experiment”. &lt;em&gt;High energy spin physics: proceedings of the 9th international symposium held at Bonn, FRG, 6 - 15 September 1990&lt;/em&gt;. Berlin: Springer, 1990. 407-410.</mla>
+<ieee>G. Baum, “The SMC experiment”, &lt;em&gt;High energy spin physics: proceedings of the 9th international symposium held at Bonn, FRG, 6 - 15 September 1990&lt;/em&gt;,  Berlin: Springer, 1990,  pp.407-410.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baum, G. (1990). The SMC experiment. &lt;em&gt;High energy spin physics: proceedings of the 9th international symposium held at Bonn, FRG, 6 - 15 September 1990&lt;/em&gt;, 407-410.&lt;/div&gt;</apa_indent>
+<default>Baum G (1990)  &lt;br /&gt;In:  High energy spin physics: proceedings of the 9th international symposium held at Bonn, FRG, 6 - 15 September 1990. Berlin: Springer:  407-410.</default>
+<wels>Baum, G. (1990): The SMC experiment. In: High energy spin physics: proceedings of the 9th international symposium held at Bonn, FRG, 6 - 15 September 1990. Berlin: Springer.  S. 407-410.</wels>
+<aps>G.  Baum, The SMC experiment, in &lt;em&gt;High energy spin physics: proceedings of the 9th international symposium held at Bonn, FRG, 6 - 15 September 1990&lt;/em&gt; (Springer, Berlin, 1990), p. 407-410.</aps>
+<bio1>Baum G (1990) &lt;br /&gt;The SMC experiment. &lt;br /&gt;In:  High energy spin physics: proceedings of the 9th international symposium held at Bonn, FRG, 6 - 15 September 1990.  Berlin: Springer:  407-410.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baum, G. (1990). The SMC experiment. &lt;em&gt;High energy spin physics: proceedings of the 9th international symposium held at Bonn, FRG, 6 - 15 September 1990&lt;/em&gt; (S. 407-410). Berlin: Springer.&lt;/div&gt;</dgps>
+<harvard1>Baum, G., 1990. The SMC experiment. In &lt;em&gt;High energy spin physics: proceedings of the 9th international symposium held at Bonn, FRG, 6 - 15 September 1990&lt;/em&gt;.  Berlin: Springer, pp. 407-410.</harvard1>
+<ama>Baum G. The SMC experiment. In:  &lt;em&gt;High energy spin physics: proceedings of the 9th international symposium held at Bonn, FRG, 6 - 15 September 1990&lt;/em&gt;. Berlin: Springer;  1990: 407-410.</ama>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776347</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776347</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776347</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

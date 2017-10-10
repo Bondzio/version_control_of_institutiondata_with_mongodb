@@ -1,0 +1,115 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Recognition hysteresis of the acetylcholine receptor of torpedo californica</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Eberhard</namePart>
+  <namePart type="family">Neumann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20317</identifier></name>
+<name type="personal">
+  <namePart type="given">Elvira</namePart>
+  <namePart type="family">Boldt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Barbara</namePart>
+  <namePart type="family">Rauer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Hendrik</namePart>
+  <namePart type="family">Wolf</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Hai Won</namePart>
+  <namePart type="family">Chang</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Herbert P.</namePart><namePart type="family">Jennissen</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Chemie</namePart>
+  <identifier type="unibi">10018</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Neumann_114.pdf">https://pub.uni-bielefeld.de/download/1777028/2312309</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Hüthig und Wepf</publisher><dateIssued encoding="w3cdtf">1988</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>7th International Symposium on Affinity Chromatography and Interfacial Macromolecular Interactions: held in Oberammergau, F.R.G., 17 - 21 Aug., 1987</title></titleInfo>
+  <identifier type="isbn">3-85739-217-7</identifier>
+  <identifier type="ISI">A1988N622900002</identifier><identifier type="urn">urn:nbn:de:0070-bipr-13827</identifier><identifier type="doi">10.1002/masy.19880170103</identifier>
+<part><extent unit="pages">1-16</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Neumann, E., Boldt, E., Rauer, B., Wolf, H., and Chang, H. W. (1988). “Recognition hysteresis of the acetylcholine receptor of torpedo californica” in &lt;em&gt;7th International Symposium on Affinity Chromatography and Interfacial Macromolecular Interactions: held in Oberammergau, F.R.G., 17 - 21 Aug., 1987&lt;/em&gt;, ed. H. P.  Jennissen Die makromolekulare Chemie : Macromolecular symposia ; 17 (Basel: Hüthig und Wepf), 1-16.</frontiers>
+<angewandte-chemie>E.  Neumann, E.  Boldt, B.  Rauer, H.  Wolf, and H. W.  Chang, in &lt;em&gt;7th International Symposium on Affinity Chromatography and Interfacial Macromolecular Interactions: held in Oberammergau, F.R.G., 17 - 21 Aug., 1987&lt;/em&gt; (Ed.: H.P. Jennissen), Hüthig Und Wepf, Basel, &lt;strong&gt;1988&lt;/strong&gt;, p. 1-16.</angewandte-chemie>
+<apa>Neumann, E., Boldt, E., Rauer, B., Wolf, H., &amp;amp; Chang, H. W. (1988). Recognition hysteresis of the acetylcholine receptor of torpedo californica. In H. P.  Jennissen (Ed.), &lt;em&gt;Die makromolekulare Chemie : Macromolecular symposia ; 17&lt;/em&gt;&lt;em&gt;. 7th International Symposium on Affinity Chromatography and Interfacial Macromolecular Interactions: held in Oberammergau, F.R.G., 17 - 21 Aug., 1987&lt;/em&gt; (pp. 1-16). Basel: Hüthig und Wepf.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neumann, Eberhard, Boldt, Elvira, Rauer, Barbara, Wolf, Hendrik, and Chang, Hai Won. 1988. “Recognition hysteresis of the acetylcholine receptor of torpedo californica”. In &lt;em&gt;7th International Symposium on Affinity Chromatography and Interfacial Macromolecular Interactions: held in Oberammergau, F.R.G., 17 - 21 Aug., 1987&lt;/em&gt;, ed. Herbert P. Jennissen, 1-16. Die makromolekulare Chemie : Macromolecular symposia ; 17. Basel: Hüthig und Wepf.&lt;/div&gt;</chicago>
+<mla>Neumann, Eberhard, Boldt, Elvira, Rauer, Barbara, Wolf, Hendrik, and Chang, Hai Won. “Recognition hysteresis of the acetylcholine receptor of torpedo californica”. &lt;em&gt;7th International Symposium on Affinity Chromatography and Interfacial Macromolecular Interactions: held in Oberammergau, F.R.G., 17 - 21 Aug., 1987&lt;/em&gt;. Ed. Herbert P. Jennissen. Basel: Hüthig und Wepf, 1988. Die makromolekulare Chemie : Macromolecular symposia ; 17. 1-16.</mla>
+<lncs>Neumann, E., Boldt, E., Rauer, B., Wolf, H., Chang, H.W.: Recognition hysteresis of the acetylcholine receptor of torpedo californica. In: Jennissen, H.P. (ed.) 7th International Symposium on Affinity Chromatography and Interfacial Macromolecular Interactions: held in Oberammergau, F.R.G., 17 - 21 Aug., 1987. Die makromolekulare Chemie : Macromolecular symposia ; 17. p. 1-16. Hüthig und Wepf, Basel (1988).</lncs>
+<ieee>E. Neumann, et al., “Recognition hysteresis of the acetylcholine receptor of torpedo californica”, &lt;em&gt;7th International Symposium on Affinity Chromatography and Interfacial Macromolecular Interactions: held in Oberammergau, F.R.G., 17 - 21 Aug., 1987&lt;/em&gt;, H.P. Jennissen, ed., Die makromolekulare Chemie : Macromolecular symposia ; 17,  Basel: Hüthig und Wepf, 1988,  pp.1-16.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neumann, E., Boldt, E., Rauer, B., Wolf, H., &amp;amp; Chang, H. W. (1988). Recognition hysteresis of the acetylcholine receptor of torpedo californica. In H. P.  Jennissen (Ed.), &lt;em&gt;Die makromolekulare Chemie : Macromolecular symposia ; 17&lt;/em&gt;&lt;em&gt;. 7th International Symposium on Affinity Chromatography and Interfacial Macromolecular Interactions: held in Oberammergau, F.R.G., 17 - 21 Aug., 1987&lt;/em&gt; (pp. 1-16). Basel: Hüthig und Wepf.&lt;/div&gt;</apa_indent>
+<default>Neumann E, Boldt E, Rauer B, Wolf H, Chang HW (1988)  &lt;br /&gt;In:  7th International Symposium on Affinity Chromatography and Interfacial Macromolecular Interactions: held in Oberammergau, F.R.G., 17 - 21 Aug., 1987. Jennissen HP (Ed); Die makromolekulare Chemie : Macromolecular symposia ; 17, . Basel: Hüthig und Wepf:  1-16.</default>
+<wels>Neumann, E.; Boldt, E.; Rauer, B.; Wolf, H.; Chang, H. W. (1988): Recognition hysteresis of the acetylcholine receptor of torpedo californica. In: Herbert P. Jennissen (Hrsg.):  7th International Symposium on Affinity Chromatography and Interfacial Macromolecular Interactions: held in Oberammergau, F.R.G., 17 - 21 Aug., 1987. Basel: Hüthig und Wepf. (Die makromolekulare Chemie : Macromolecular symposia ; 17, ).  S. 1-16.</wels>
+<aps>E.  Neumann, et al., Recognition hysteresis of the acetylcholine receptor of torpedo californica, in &lt;em&gt;7th International Symposium on Affinity Chromatography and Interfacial Macromolecular Interactions: held in Oberammergau, F.R.G., 17 - 21 Aug., 1987&lt;/em&gt;, edited by H. P.  Jennissen, Die makromolekulare Chemie : Macromolecular symposia ; 17 (Hüthig und Wepf, Basel, 1988), p. 1-16.</aps>
+<bio1>Neumann E, Boldt E, Rauer B, Wolf H, Chang HW (1988) &lt;br /&gt;Recognition hysteresis of the acetylcholine receptor of torpedo californica. &lt;br /&gt;In:  7th International Symposium on Affinity Chromatography and Interfacial Macromolecular Interactions: held in Oberammergau, F.R.G., 17 - 21 Aug., 1987. Jennissen HP (Ed); Die makromolekulare Chemie : Macromolecular symposia ; 17,  Basel: Hüthig und Wepf:  1-16.</bio1>
+<harvard1>Neumann, E., et al., 1988. Recognition hysteresis of the acetylcholine receptor of torpedo californica. In H. P.  Jennissen, ed. &lt;em&gt;7th International Symposium on Affinity Chromatography and Interfacial Macromolecular Interactions: held in Oberammergau, F.R.G., 17 - 21 Aug., 1987&lt;/em&gt;. Die makromolekulare Chemie : Macromolecular symposia ; 17.  Basel: Hüthig und Wepf, pp. 1-16.</harvard1>
+<ama>Neumann E, Boldt E, Rauer B, Wolf H, Chang HW. Recognition hysteresis of the acetylcholine receptor of torpedo californica. In: Jennissen HP, ed. &lt;em&gt;7th International Symposium on Affinity Chromatography and Interfacial Macromolecular Interactions: held in Oberammergau, F.R.G., 17 - 21 Aug., 1987&lt;/em&gt;. Die makromolekulare Chemie : Macromolecular symposia ; 17. Basel: Hüthig und Wepf;  1988: 1-16.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neumann, E., Boldt, E., Rauer, B., Wolf, H. &amp;amp; Chang, H.W. (1988). Recognition hysteresis of the acetylcholine receptor of torpedo californica (Die makromolekulare Chemie : Macromolecular symposia ; 17). &lt;em&gt;7th International Symposium on Affinity Chromatography and Interfacial Macromolecular Interactions: held in Oberammergau, F.R.G., 17 - 21 Aug., 1987&lt;/em&gt; (S. 1-16). Basel: Hüthig und Wepf. doi:10.1002/masy.19880170103.&lt;/div&gt;</dgps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1777028</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1777028</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1777028</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,101 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>preprint</genre>
+
+<titleInfo><title>On sets of words with pairwise common letter in different positions</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Rudolf</namePart>
+  <namePart type="family">Ahlswede</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10479</identifier></name>
+<name type="personal">
+  <namePart type="given">Ning</namePart>
+  <namePart type="family">Cai</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Ahlswede_92.pdf">https://pub.uni-bielefeld.de/download/1780556/2312954</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1994</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Endliche Menge</topic><topic>Extremwert</topic><topic>Graphentheorie</topic>
+</subject>
+
+
+<relatedItem type="host"><identifier type="urn">urn:nbn:de:0070-bipr-21428</identifier>
+<part>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R., &amp;amp; Cai, N. (1994). On sets of words with pairwise common letter in different positions.&lt;/div&gt;</apa_indent>
+<ieee>R. Ahlswede and N. Cai, “On sets of words with pairwise common letter in different positions”, 1994.</ieee>
+<mla>Ahlswede, Rudolf, and Cai, Ning. “On sets of words with pairwise common letter in different positions”. (1994).</mla>
+<lncs>Ahlswede, R., Cai, N.: On sets of words with pairwise common letter in different positions. (1994).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, Rudolf, and Cai, Ning. 1994. “On sets of words with pairwise common letter in different positions”.&lt;/div&gt;</chicago>
+<apa>Ahlswede, R., &amp;amp; Cai, N. (1994). On sets of words with pairwise common letter in different positions.</apa>
+<angewandte-chemie>R.  Ahlswede, and N.  Cai, “On sets of words with pairwise common letter in different positions”, &lt;strong&gt;1994&lt;/strong&gt;.</angewandte-chemie>
+<frontiers>Ahlswede, R., and Cai, N. (1994). On sets of words with pairwise common letter in different positions.</frontiers>
+<ama>Ahlswede R, Cai N. On sets of words with pairwise common letter in different positions.  1994.</ama>
+<harvard1>Ahlswede, R., &amp;amp; Cai, N., 1994. On sets of words with pairwise common letter in different positions.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R. &amp;amp; Cai, N. (1994). On sets of words with pairwise common letter in different positions.&lt;/div&gt;</dgps>
+<bio1>Ahlswede R, Cai N (1994) &lt;br /&gt;On sets of words with pairwise common letter in different positions.</bio1>
+<aps>R.  Ahlswede and N.  Cai, On sets of words with pairwise common letter in different positions, (1994).</aps>
+<wels>Ahlswede, R.; Cai, N. (1994): On sets of words with pairwise common letter in different positions</wels>
+<default>Ahlswede R, Cai N (1994) .</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780556</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780556</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780556</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

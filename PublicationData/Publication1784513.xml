@@ -1,0 +1,110 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Numerical determination of the QCD [beta] function</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">R. V.</namePart>
+  <namePart type="family">Gavai</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Frithjof</namePart>
+  <namePart type="family">Karsch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40326</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT3903.pdf">https://pub.uni-bielefeld.de/download/1784513/2314462</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1986</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Physical review letters</title></titleInfo>
+  <identifier type="issn">0031-9007</identifier>
+  <identifier type="MEDLINE">10033352</identifier>
+  <identifier type="ISI">A1986D027200011</identifier><identifier type="urn">urn:nbn:de:0070-bipr-39032</identifier><identifier type="doi">10.1103/PhysRevLett.57.40</identifier>
+<part><detail type="volume"><number>57</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">40-43</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>Gavai RV, Karsch F (1986) &lt;br /&gt;Numerical determination of the QCD [beta] function.&lt;br /&gt;Physical review letters 57(1): 40-43.</bio1>
+<aps>R. V.  Gavai and F.  Karsch, Numerical determination of the QCD [beta] function, Physical review letters &lt;strong&gt;57&lt;/strong&gt;, 40-43 (1986).</aps>
+<harvard1>Gavai, R.V., &amp;amp; Karsch, F., 1986. Numerical determination of the QCD [beta] function. &lt;em&gt;Physical review letters&lt;/em&gt;, 57(1), p 40-43.</harvard1>
+<ama>Gavai RV, Karsch F. Numerical determination of the QCD [beta] function. &lt;em&gt;Physical review letters&lt;/em&gt;. 1986;57(1):40-43.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gavai, R.V. &amp;amp; Karsch, F. (1986). Numerical determination of the QCD [beta] function. &lt;em&gt;Physical review letters&lt;/em&gt;, &lt;em&gt;57&lt;/em&gt;(1), 40-43. doi:10.1103/PhysRevLett.57.40.&lt;/div&gt;</dgps>
+<default>Gavai RV, Karsch F (1986) &lt;br /&gt;Physical review letters 57(1): 40-43.</default>
+<wels>Gavai, R. V.; Karsch, F. (1986): Numerical determination of the QCD [beta] function &lt;em&gt;Physical review letters&lt;/em&gt;,57:(1): 40-43.</wels>
+<mla>Gavai, R. V., and Karsch, Frithjof. “Numerical determination of the QCD [beta] function”. &lt;em&gt;Physical review letters&lt;/em&gt; 57.1 (1986): 40-43.</mla>
+<lncs>Gavai, R.V., Karsch, F.: Numerical determination of the QCD [beta] function. Physical review letters. 57, 40-43 (1986).</lncs>
+<ieee>R.V. Gavai and F. Karsch, “Numerical determination of the QCD [beta] function”, &lt;em&gt;Physical review letters&lt;/em&gt;,  vol. 57, 1986,  pp. 40-43.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gavai, R. V., &amp;amp; Karsch, F. (1986). Numerical determination of the QCD [beta] function. &lt;em&gt;Physical review letters&lt;/em&gt;, &lt;em&gt;57&lt;/em&gt;(1), 40-43.&lt;/div&gt;</apa_indent>
+<frontiers>Gavai, R. V., and Karsch, F. (1986). Numerical determination of the QCD [beta] function. &lt;em&gt;Physical review letters&lt;/em&gt; 57, 40-43.</frontiers>
+<angewandte-chemie>R. V.  Gavai, and F.  Karsch, “Numerical determination of the QCD [beta] function”, &lt;em&gt;Physical review letters&lt;/em&gt;, &lt;strong&gt;1986&lt;/strong&gt;, &lt;em&gt;57&lt;/em&gt;, 40-43.</angewandte-chemie>
+<apa>Gavai, R. V., &amp;amp; Karsch, F. (1986). Numerical determination of the QCD [beta] function. &lt;em&gt;Physical review letters&lt;/em&gt;, &lt;em&gt;57&lt;/em&gt;(1), 40-43.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gavai, R. V., and Karsch, Frithjof. 1986. “Numerical determination of the QCD [beta] function”. &lt;em&gt;Physical review letters&lt;/em&gt; 57 (1): 40-43.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1784513</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1784513</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1784513</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

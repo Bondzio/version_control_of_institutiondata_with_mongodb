@@ -1,0 +1,109 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Genetic monogamy in Wilson&apos;s Storm-Petrel</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">P</namePart>
+  <namePart type="family">Quillfeldt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Tim</namePart>
+  <namePart type="family">Schmoll</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11734104</identifier></name>
+<name type="personal">
+  <namePart type="given">HU</namePart>
+  <namePart type="family">Peter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">JT</namePart>
+  <namePart type="family">Epplen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">T</namePart>
+  <namePart type="family">Lubjuhn</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Evolutionsbiologie</namePart>
+  <identifier type="unibi">2685497</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>AMER ORNITHOLOGISTS UNION</publisher><dateIssued encoding="w3cdtf">2001</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>AUK</title></titleInfo>
+  <identifier type="issn">0004-8038</identifier>
+  <identifier type="eIssn">1938-4254</identifier>
+  <identifier type="ISI">000167402400023</identifier><identifier type="doi">10.1642/0004-8038(2001)118[0242:GMIWSS]2.0.CO;2</identifier>
+<part><detail type="volume"><number>118</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">242-248</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>P. Quillfeldt, et al., “Genetic monogamy in Wilson&apos;s Storm-Petrel”, &lt;em&gt;AUK&lt;/em&gt;,  vol. 118, 2001,  pp. 242-248.</ieee>
+<lncs>Quillfeldt, P., Schmoll, T., Peter, H.U., Epplen, J.T., Lubjuhn, T.: Genetic monogamy in Wilson&apos;s Storm-Petrel. AUK. 118, 242-248 (2001).</lncs>
+<mla>Quillfeldt, P, Schmoll, Tim, Peter, HU, Epplen, JT, and Lubjuhn, T. “Genetic monogamy in Wilson&apos;s Storm-Petrel”. &lt;em&gt;AUK&lt;/em&gt; 118.1 (2001): 242-248.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Quillfeldt, P., Schmoll, T., Peter, H. U., Epplen, J. T., &amp;amp; Lubjuhn, T. (2001). Genetic monogamy in Wilson&apos;s Storm-Petrel. &lt;em&gt;AUK&lt;/em&gt;, &lt;em&gt;118&lt;/em&gt;(1), 242-248.&lt;/div&gt;</apa_indent>
+<apa>Quillfeldt, P., Schmoll, T., Peter, H. U., Epplen, J. T., &amp;amp; Lubjuhn, T. (2001). Genetic monogamy in Wilson&apos;s Storm-Petrel. &lt;em&gt;AUK&lt;/em&gt;, &lt;em&gt;118&lt;/em&gt;(1), 242-248.</apa>
+<angewandte-chemie>P.  Quillfeldt, T.  Schmoll, H. U.  Peter, J. T.  Epplen, and T.  Lubjuhn, “Genetic monogamy in Wilson&apos;s Storm-Petrel”, &lt;em&gt;AUK&lt;/em&gt;, &lt;strong&gt;2001&lt;/strong&gt;, &lt;em&gt;118&lt;/em&gt;, 242-248.</angewandte-chemie>
+<frontiers>Quillfeldt, P., Schmoll, T., Peter, H. U., Epplen, J. T., and Lubjuhn, T. (2001). Genetic monogamy in Wilson&apos;s Storm-Petrel. &lt;em&gt;AUK&lt;/em&gt; 118, 242-248.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Quillfeldt, P, Schmoll, Tim, Peter, HU, Epplen, JT, and Lubjuhn, T. 2001. “Genetic monogamy in Wilson&apos;s Storm-Petrel”. &lt;em&gt;AUK&lt;/em&gt; 118 (1): 242-248.&lt;/div&gt;</chicago>
+<harvard1>Quillfeldt, P., et al., 2001. Genetic monogamy in Wilson&apos;s Storm-Petrel. &lt;em&gt;AUK&lt;/em&gt;, 118(1), p 242-248.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Quillfeldt, P., Schmoll, T., Peter, H.U., Epplen, J.T. &amp;amp; Lubjuhn, T. (2001). Genetic monogamy in Wilson&apos;s Storm-Petrel. &lt;em&gt;AUK&lt;/em&gt;, &lt;em&gt;118&lt;/em&gt;(1), 242-248. AMER ORNITHOLOGISTS UNION. doi:10.1642/0004-8038(2001)118[0242:GMIWSS]2.0.CO;2.&lt;/div&gt;</dgps>
+<ama>Quillfeldt P, Schmoll T, Peter HU, Epplen JT, Lubjuhn T. Genetic monogamy in Wilson&apos;s Storm-Petrel. &lt;em&gt;AUK&lt;/em&gt;. 2001;118(1):242-248.</ama>
+<bio1>Quillfeldt P, Schmoll T, Peter HU, Epplen JT, Lubjuhn T (2001) &lt;br /&gt;Genetic monogamy in Wilson&apos;s Storm-Petrel.&lt;br /&gt;AUK 118(1): 242-248.</bio1>
+<aps>P.  Quillfeldt, et al., Genetic monogamy in Wilson&apos;s Storm-Petrel, AUK &lt;strong&gt;118&lt;/strong&gt;, 242-248 (2001).</aps>
+<wels>Quillfeldt, P.; Schmoll, T.; Peter, H. U.; Epplen, J. T.; Lubjuhn, T. (2001): Genetic monogamy in Wilson&apos;s Storm-Petrel &lt;em&gt;AUK&lt;/em&gt;,118:(1): 242-248.</wels>
+<default>Quillfeldt P, Schmoll T, Peter HU, Epplen JT, Lubjuhn T (2001) &lt;br /&gt;AUK 118(1): 242-248.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1928469</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-12-07T10:46:54Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-09T11:34:04Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1928469</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1928469</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

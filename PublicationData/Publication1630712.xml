@@ -1,0 +1,131 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The influence of ethanol addition on premixed fuel-rich propene-oxygen-argon flames</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Katharina</namePart>
+  <namePart type="family">Kohse-Höinghaus</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20770</identifier></name>
+<name type="personal">
+  <namePart type="given">Patrick</namePart>
+  <namePart type="family">Oßwald</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">150940</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-2257-2988</description></name>
+<name type="personal">
+  <namePart type="given">Ulf</namePart>
+  <namePart type="family">Struckmeier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Tina</namePart>
+  <namePart type="family">Kasper</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Nils</namePart>
+  <namePart type="family">Hansen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Craig A.</namePart>
+  <namePart type="family">Taatjes</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Juan</namePart>
+  <namePart type="family">Wang</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Terrill A.</namePart>
+  <namePart type="family">Cool</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Saugata</namePart>
+  <namePart type="family">Gon</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Phillip R.</namePart>
+  <namePart type="family">Westmoreland</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">17978</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The role of ethanol as a fuel additive was investigated in a fuel-rich, non-sooting (C/O = 0.77) flat premixed propene-oxygen-argon flame at 50 mbar (5 kPa). Mole fractions of stable and radical species were derived using two different in situ molecular beam mass spectrometry (MBMS) set-ups, one located in Bie-lefeld using electron impact ionization (EI), and the other at the Advanced Light Source (ALS) at Berkeley using vacuum UV photoionization (VUV-PI) with synchrotron radiation. A rich propene flame, previously studied in detail experimentally and with flame model calculations, was chosen as the base flame. Addition of ethanol is believed to reduce the concentrations of benzene and small aromatic compounds, while augmenting the formation of other regulated air toxics such as aldehydes. To study the chemical pathways responsible for these effects, quantitative concentrations of about 35 species were determined from both experiments. This is also the first time that a detailed comparison of quantitative species concentrations from these independent MBMS set-ups is available. Effects of ethanol addition on the species pool are discussed with special attention on benzene precursor chemistry and aldehyde formation. (C) 2006 The Combustion Institute. Published by Elsevier Inc. All rights reserved.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE INC</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>propene</topic><topic>ethanol-blended flame</topic><topic>benzene formation</topic><topic>aldehyde formation</topic><topic>molecular beam mass spectrometry</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>PROCEEDINGS OF THE COMBUSTION INSTITUTE</title></titleInfo>
+  <identifier type="issn">1540-7489</identifier>
+  <identifier type="ISI">000252858000116</identifier><identifier type="doi">10.1016/j.proci.2006.07.007</identifier>
+<part><detail type="volume"><number>31</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">1119-1127</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Kohse-Höinghaus K, Oßwald P, Struckmeier U, Kasper T, Hansen N, Taatjes CA, Wang J, Cool TA, Gon S, Westmoreland PR (2007) &lt;br /&gt;PROCEEDINGS OF THE COMBUSTION INSTITUTE 31(1): 1119-1127.</default>
+<wels>Kohse-Höinghaus, K.; Oßwald, P.; Struckmeier, U.; Kasper, T.; Hansen, N.; Taatjes, C. A.; Wang, J.; Cool, T. A.; Gon, S.; Westmoreland, P. R. (2007): The influence of ethanol addition on premixed fuel-rich propene-oxygen-argon flames &lt;em&gt;PROCEEDINGS OF THE COMBUSTION INSTITUTE&lt;/em&gt;,31:(1): 1119-1127.</wels>
+<aps>K.  Kohse-Höinghaus, et al., The influence of ethanol addition on premixed fuel-rich propene-oxygen-argon flames, PROCEEDINGS OF THE COMBUSTION INSTITUTE &lt;strong&gt;31&lt;/strong&gt;, 1119-1127 (2007).</aps>
+<bio1>Kohse-Höinghaus K, Oßwald P, Struckmeier U, Kasper T, Hansen N, Taatjes CA, Wang J, Cool TA, Gon S, Westmoreland PR (2007) &lt;br /&gt;The influence of ethanol addition on premixed fuel-rich propene-oxygen-argon flames.&lt;br /&gt;PROCEEDINGS OF THE COMBUSTION INSTITUTE 31(1): 1119-1127.</bio1>
+<harvard1>Kohse-Höinghaus, K., et al., 2007. The influence of ethanol addition on premixed fuel-rich propene-oxygen-argon flames. &lt;em&gt;PROCEEDINGS OF THE COMBUSTION INSTITUTE&lt;/em&gt;, 31(1), p 1119-1127.</harvard1>
+<ama>Kohse-Höinghaus K, Oßwald P, Struckmeier U, et al. The influence of ethanol addition on premixed fuel-rich propene-oxygen-argon flames. &lt;em&gt;PROCEEDINGS OF THE COMBUSTION INSTITUTE&lt;/em&gt;. 2007;31(1):1119-1127.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kohse-Höinghaus, K., Oßwald, P., Struckmeier, U., Kasper, T., Hansen, N., Taatjes, C.A., Wang, J., Cool, T.A., Gon, S. &amp;amp; Westmoreland, P.R. (2007). The influence of ethanol addition on premixed fuel-rich propene-oxygen-argon flames. &lt;em&gt;PROCEEDINGS OF THE COMBUSTION INSTITUTE&lt;/em&gt;, &lt;em&gt;31&lt;/em&gt;(1), 1119-1127. ELSEVIER SCIENCE INC. doi:10.1016/j.proci.2006.07.007.&lt;/div&gt;</dgps>
+<frontiers>Kohse-Höinghaus, K., Oßwald, P., Struckmeier, U., Kasper, T., Hansen, N., Taatjes, C. A., Wang, J., Cool, T. A., Gon, S., and Westmoreland, P. R. (2007). The influence of ethanol addition on premixed fuel-rich propene-oxygen-argon flames. &lt;em&gt;PROCEEDINGS OF THE COMBUSTION INSTITUTE&lt;/em&gt; 31, 1119-1127.</frontiers>
+<angewandte-chemie>K.  Kohse-Höinghaus, P.  Oßwald, U.  Struckmeier, T.  Kasper, N.  Hansen, C. A.  Taatjes, J.  Wang, T. A.  Cool, S.  Gon, and P. R.  Westmoreland, “The influence of ethanol addition on premixed fuel-rich propene-oxygen-argon flames”, &lt;em&gt;PROCEEDINGS OF THE COMBUSTION INSTITUTE&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;31&lt;/em&gt;, 1119-1127.</angewandte-chemie>
+<apa>Kohse-Höinghaus, K., Oßwald, P., Struckmeier, U., Kasper, T., Hansen, N., Taatjes, C. A., Wang, J., et al. (2007). The influence of ethanol addition on premixed fuel-rich propene-oxygen-argon flames. &lt;em&gt;PROCEEDINGS OF THE COMBUSTION INSTITUTE&lt;/em&gt;, &lt;em&gt;31&lt;/em&gt;(1), 1119-1127.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kohse-Höinghaus, Katharina, Oßwald, Patrick, Struckmeier, Ulf, Kasper, Tina, Hansen, Nils, Taatjes, Craig A., Wang, Juan, Cool, Terrill A., Gon, Saugata, and Westmoreland, Phillip R. 2007. “The influence of ethanol addition on premixed fuel-rich propene-oxygen-argon flames”. &lt;em&gt;PROCEEDINGS OF THE COMBUSTION INSTITUTE&lt;/em&gt; 31 (1): 1119-1127.&lt;/div&gt;</chicago>
+<lncs>Kohse-Höinghaus, K., Oßwald, P., Struckmeier, U., Kasper, T., Hansen, N., Taatjes, C.A., Wang, J., Cool, T.A., Gon, S., Westmoreland, P.R.: The influence of ethanol addition on premixed fuel-rich propene-oxygen-argon flames. PROCEEDINGS OF THE COMBUSTION INSTITUTE. 31, 1119-1127 (2007).</lncs>
+<mla>Kohse-Höinghaus, Katharina, Oßwald, Patrick, Struckmeier, Ulf, Kasper, Tina, Hansen, Nils, Taatjes, Craig A., Wang, Juan, Cool, Terrill A., Gon, Saugata, and Westmoreland, Phillip R. “The influence of ethanol addition on premixed fuel-rich propene-oxygen-argon flames”. &lt;em&gt;PROCEEDINGS OF THE COMBUSTION INSTITUTE&lt;/em&gt; 31.1 (2007): 1119-1127.</mla>
+<ieee>K. Kohse-Höinghaus, et al., “The influence of ethanol addition on premixed fuel-rich propene-oxygen-argon flames”, &lt;em&gt;PROCEEDINGS OF THE COMBUSTION INSTITUTE&lt;/em&gt;,  vol. 31, 2007,  pp. 1119-1127.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kohse-Höinghaus, K., Oßwald, P., Struckmeier, U., Kasper, T., Hansen, N., Taatjes, C. A., Wang, J., et al. (2007). The influence of ethanol addition on premixed fuel-rich propene-oxygen-argon flames. &lt;em&gt;PROCEEDINGS OF THE COMBUSTION INSTITUTE&lt;/em&gt;, &lt;em&gt;31&lt;/em&gt;(1), 1119-1127.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1630712</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:05:10Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-01-18T14:18:51Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1630712</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1630712</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

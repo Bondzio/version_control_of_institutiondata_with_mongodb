@@ -1,0 +1,127 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>NECESSITY OF SELF-ENERGY CORRECTIONS IN LEED THEORY FOR XE(111) - COMPARISON BETWEEN THEORETICAL AND EXPERIMENTAL SPIN-POLARIZED LEED DATA</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">G</namePart>
+  <namePart type="family">HILGERS</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">POTTHOFF</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Norbert</namePart>
+  <namePart type="family">Müller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">74650</identifier></name>
+<name type="personal">
+  <namePart type="given">Ulrich</namePart>
+  <namePart type="family">Heinzmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40276</identifier></name>
+<name type="personal">
+  <namePart type="given">L</namePart>
+  <namePart type="family">HAUNERT</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J</namePart>
+  <namePart type="family">BRAUN</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">G</namePart>
+  <namePart type="family">BORSTEL</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Lehrstuhl für Molekül- und Oberflächenphysik</namePart>
+  <identifier type="unibi">29133467</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Centrum für Biotechnologie</namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">An essential problem in calculating the electronic structure of solids is that created by many-body interactions. They cause self-energy corrections which in insulators and semiconductors range up to the width of the fundamental band gap. Angular-dependent intensity and asymmetry profiles measured in spin-polarized low-energy electron diffraction (SPLEED) from Xe(111) clearly show the necessity of the self-energy correction if compared to standard SPLEED calculations. Effects due to the self-energy correction have to be clearly distinguished from effects due to the inner potential. The real part of the inner potential affects the energy and, by refraction at the surface potential barrier, the angles of the incident and the diffracted beams, whereas the self-energy correction is equivalent to a change of the energy of the primary beam only. This qualitative difference is proved in our SPLEED investigations and is used to determine the self-energy correction and the inner potential from angular-dependent profiles. For the self-energy correction we found a value of Delta E=3.0+/-1.5 eV and for the real (imaginary) part of the inner potential V-Or=3.0+/-1.5 eV (V-Oi=2.0+/-0.5 eV).</abstract>
+
+<originInfo><publisher>AMERICAN PHYSICAL SOC</publisher><dateIssued encoding="w3cdtf">1995</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>PHYSICAL REVIEW B</title></titleInfo>
+  <identifier type="issn">0163-1829</identifier>
+  <identifier type="eIssn">1095-3795</identifier>
+  <identifier type="MEDLINE">9980826</identifier>
+  <identifier type="ISI">A1995TH68200082</identifier><identifier type="doi">10.1103/PhysRevB.52.14859</identifier>
+<part><detail type="volume"><number>52</number></detail><detail type="issue"><number>20</number></detail><extent unit="pages">14859-14867</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;HILGERS, G., POTTHOFF, M., Müller, N., Heinzmann, U., HAUNERT, L., BRAUN, J., &amp;amp; BORSTEL, G. (1995). NECESSITY OF SELF-ENERGY CORRECTIONS IN LEED THEORY FOR XE(111) - COMPARISON BETWEEN THEORETICAL AND EXPERIMENTAL SPIN-POLARIZED LEED DATA. &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt;, &lt;em&gt;52&lt;/em&gt;(20), 14859-14867.&lt;/div&gt;</apa_indent>
+<ieee>G. HILGERS, et al., “NECESSITY OF SELF-ENERGY CORRECTIONS IN LEED THEORY FOR XE(111) - COMPARISON BETWEEN THEORETICAL AND EXPERIMENTAL SPIN-POLARIZED LEED DATA”, &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt;,  vol. 52, 1995,  pp. 14859-14867.</ieee>
+<mla>HILGERS, G, POTTHOFF, M, Müller, Norbert, Heinzmann, Ulrich, HAUNERT, L, BRAUN, J, and BORSTEL, G. “NECESSITY OF SELF-ENERGY CORRECTIONS IN LEED THEORY FOR XE(111) - COMPARISON BETWEEN THEORETICAL AND EXPERIMENTAL SPIN-POLARIZED LEED DATA”. &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt; 52.20 (1995): 14859-14867.</mla>
+<lncs>HILGERS, G., POTTHOFF, M., Müller, N., Heinzmann, U., HAUNERT, L., BRAUN, J., BORSTEL, G.: NECESSITY OF SELF-ENERGY CORRECTIONS IN LEED THEORY FOR XE(111) - COMPARISON BETWEEN THEORETICAL AND EXPERIMENTAL SPIN-POLARIZED LEED DATA. PHYSICAL REVIEW B. 52, 14859-14867 (1995).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;HILGERS, G, POTTHOFF, M, Müller, Norbert, Heinzmann, Ulrich, HAUNERT, L, BRAUN, J, and BORSTEL, G. 1995. “NECESSITY OF SELF-ENERGY CORRECTIONS IN LEED THEORY FOR XE(111) - COMPARISON BETWEEN THEORETICAL AND EXPERIMENTAL SPIN-POLARIZED LEED DATA”. &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt; 52 (20): 14859-14867.&lt;/div&gt;</chicago>
+<angewandte-chemie>G.  HILGERS, M.  POTTHOFF, N.  Müller, U.  Heinzmann, L.  HAUNERT, J.  BRAUN, and G.  BORSTEL, “NECESSITY OF SELF-ENERGY CORRECTIONS IN LEED THEORY FOR XE(111) - COMPARISON BETWEEN THEORETICAL AND EXPERIMENTAL SPIN-POLARIZED LEED DATA”, &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt;, &lt;strong&gt;1995&lt;/strong&gt;, &lt;em&gt;52&lt;/em&gt;, 14859-14867.</angewandte-chemie>
+<apa>HILGERS, G., POTTHOFF, M., Müller, N., Heinzmann, U., HAUNERT, L., BRAUN, J., &amp;amp; BORSTEL, G. (1995). NECESSITY OF SELF-ENERGY CORRECTIONS IN LEED THEORY FOR XE(111) - COMPARISON BETWEEN THEORETICAL AND EXPERIMENTAL SPIN-POLARIZED LEED DATA. &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt;, &lt;em&gt;52&lt;/em&gt;(20), 14859-14867.</apa>
+<frontiers>HILGERS, G., POTTHOFF, M., Müller, N., Heinzmann, U., HAUNERT, L., BRAUN, J., and BORSTEL, G. (1995). NECESSITY OF SELF-ENERGY CORRECTIONS IN LEED THEORY FOR XE(111) - COMPARISON BETWEEN THEORETICAL AND EXPERIMENTAL SPIN-POLARIZED LEED DATA. &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt; 52, 14859-14867.</frontiers>
+<harvard1>HILGERS, G., et al., 1995. NECESSITY OF SELF-ENERGY CORRECTIONS IN LEED THEORY FOR XE(111) - COMPARISON BETWEEN THEORETICAL AND EXPERIMENTAL SPIN-POLARIZED LEED DATA. &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt;, 52(20), p 14859-14867.</harvard1>
+<ama>HILGERS G, POTTHOFF M, Müller N, et al. NECESSITY OF SELF-ENERGY CORRECTIONS IN LEED THEORY FOR XE(111) - COMPARISON BETWEEN THEORETICAL AND EXPERIMENTAL SPIN-POLARIZED LEED DATA. &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt;. 1995;52(20):14859-14867.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;HILGERS, G., POTTHOFF, M., Müller, N., Heinzmann, U., HAUNERT, L., BRAUN, J. &amp;amp; BORSTEL, G. (1995). NECESSITY OF SELF-ENERGY CORRECTIONS IN LEED THEORY FOR XE(111) - COMPARISON BETWEEN THEORETICAL AND EXPERIMENTAL SPIN-POLARIZED LEED DATA. &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt;, &lt;em&gt;52&lt;/em&gt;(20), 14859-14867. AMERICAN PHYSICAL SOC. doi:10.1103/PhysRevB.52.14859.&lt;/div&gt;</dgps>
+<aps>G.  HILGERS, et al., NECESSITY OF SELF-ENERGY CORRECTIONS IN LEED THEORY FOR XE(111) - COMPARISON BETWEEN THEORETICAL AND EXPERIMENTAL SPIN-POLARIZED LEED DATA, PHYSICAL REVIEW B &lt;strong&gt;52&lt;/strong&gt;, 14859-14867 (1995).</aps>
+<bio1>HILGERS G, POTTHOFF M, Müller N, Heinzmann U, HAUNERT L, BRAUN J, BORSTEL G (1995) &lt;br /&gt;NECESSITY OF SELF-ENERGY CORRECTIONS IN LEED THEORY FOR XE(111) - COMPARISON BETWEEN THEORETICAL AND EXPERIMENTAL SPIN-POLARIZED LEED DATA.&lt;br /&gt;PHYSICAL REVIEW B 52(20): 14859-14867.</bio1>
+<wels>HILGERS, G.; POTTHOFF, M.; Müller, N.; Heinzmann, U.; HAUNERT, L.; BRAUN, J.; BORSTEL, G. (1995): NECESSITY OF SELF-ENERGY CORRECTIONS IN LEED THEORY FOR XE(111) - COMPARISON BETWEEN THEORETICAL AND EXPERIMENTAL SPIN-POLARIZED LEED DATA &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt;,52:(20): 14859-14867.</wels>
+<default>HILGERS G, POTTHOFF M, Müller N, Heinzmann U, HAUNERT L, BRAUN J, BORSTEL G (1995) &lt;br /&gt;PHYSICAL REVIEW B 52(20): 14859-14867.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1629298</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:26:46Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-13T08:41:26Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1629298</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1629298</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,117 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>An automatic system for the assessment of complex medium additives under cultivation conditions</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">K</namePart>
+  <namePart type="family">Iding</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Heino</namePart>
+  <namePart type="family">Büntemeyer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10725</identifier></name>
+<name type="personal">
+  <namePart type="given">F</namePart>
+  <namePart type="family">Gudermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">SM</namePart>
+  <namePart type="family">Deutschmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">C</namePart>
+  <namePart type="family">Kionka</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J</namePart>
+  <namePart type="family">Lehmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Technische Fakultät</namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Complex medium additives such as yeast extract or peptone are often used in industrial cell culture processes to prolong cell growth and/or to improve product formation. The quality of those supplements is dependent on the preparation method and can differ from lot to lot. To guarantee consistent production these different lots have to be tested prior to use in fermentation processes. Because a detailed qualitative and quantitative analysis of all components of such a complex mixture is a very difficult task, another assessment method has to be chosen. The best way to evaluate the effect of such supplements is to monitor cell activity during real cultivation conditions with and without the added supplement lot. A bioreactor-based test system has been developed to determine the oxygen requirement of the cells as a response to the addition of a supplement to be tested under standardized conditions. Investigations were performed with a mouse-mouse hybridoma cell line and yeast extracts as an example for complex medium additives. The results showed differences in the impact between different extract lots and between different concentrations of an extract. (C) 2001 John Wiley &amp; Sons, Inc.</abstract>
+
+<originInfo><publisher>JOHN WILEY &amp; SONS INC</publisher><dateIssued encoding="w3cdtf">2001</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>yeast extract</topic><topic>assessment method</topic><topic>bioreactor</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>BIOTECHNOLOGY AND BIOENGINEERING</title></titleInfo>
+  <identifier type="issn">0006-3592</identifier>
+  <identifier type="eIssn">1097-0290</identifier>
+  <identifier type="MEDLINE">11344448</identifier>
+  <identifier type="ISI">000168941100002</identifier><identifier type="doi">10.1002/bit.1078</identifier>
+<part><detail type="volume"><number>73</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">442-448</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Iding, K.; Büntemeyer, H.; Gudermann, F.; Deutschmann, S. M.; Kionka, C.; Lehmann, J. (2001): An automatic system for the assessment of complex medium additives under cultivation conditions &lt;em&gt;BIOTECHNOLOGY AND BIOENGINEERING&lt;/em&gt;,73:(6): 442-448.</wels>
+<default>Iding K, Büntemeyer H, Gudermann F, Deutschmann SM, Kionka C, Lehmann J (2001) &lt;br /&gt;BIOTECHNOLOGY AND BIOENGINEERING 73(6): 442-448.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Iding, K., Büntemeyer, H., Gudermann, F., Deutschmann, S.M., Kionka, C. &amp;amp; Lehmann, J. (2001). An automatic system for the assessment of complex medium additives under cultivation conditions. &lt;em&gt;BIOTECHNOLOGY AND BIOENGINEERING&lt;/em&gt;, &lt;em&gt;73&lt;/em&gt;(6), 442-448. JOHN WILEY &amp;amp; SONS INC. doi:10.1002/bit.1078.&lt;/div&gt;</dgps>
+<ama>Iding K, Büntemeyer H, Gudermann F, Deutschmann SM, Kionka C, Lehmann J. An automatic system for the assessment of complex medium additives under cultivation conditions. &lt;em&gt;BIOTECHNOLOGY AND BIOENGINEERING&lt;/em&gt;. 2001;73(6):442-448.</ama>
+<harvard1>Iding, K., et al., 2001. An automatic system for the assessment of complex medium additives under cultivation conditions. &lt;em&gt;BIOTECHNOLOGY AND BIOENGINEERING&lt;/em&gt;, 73(6), p 442-448.</harvard1>
+<aps>K.  Iding, et al., An automatic system for the assessment of complex medium additives under cultivation conditions, BIOTECHNOLOGY AND BIOENGINEERING &lt;strong&gt;73&lt;/strong&gt;, 442-448 (2001).</aps>
+<bio1>Iding K, Büntemeyer H, Gudermann F, Deutschmann SM, Kionka C, Lehmann J (2001) &lt;br /&gt;An automatic system for the assessment of complex medium additives under cultivation conditions.&lt;br /&gt;BIOTECHNOLOGY AND BIOENGINEERING 73(6): 442-448.</bio1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Iding, K, Büntemeyer, Heino, Gudermann, F, Deutschmann, SM, Kionka, C, and Lehmann, J. 2001. “An automatic system for the assessment of complex medium additives under cultivation conditions”. &lt;em&gt;BIOTECHNOLOGY AND BIOENGINEERING&lt;/em&gt; 73 (6): 442-448.&lt;/div&gt;</chicago>
+<angewandte-chemie>K.  Iding, H.  Büntemeyer, F.  Gudermann, S. M.  Deutschmann, C.  Kionka, and J.  Lehmann, “An automatic system for the assessment of complex medium additives under cultivation conditions”, &lt;em&gt;BIOTECHNOLOGY AND BIOENGINEERING&lt;/em&gt;, &lt;strong&gt;2001&lt;/strong&gt;, &lt;em&gt;73&lt;/em&gt;, 442-448.</angewandte-chemie>
+<apa>Iding, K., Büntemeyer, H., Gudermann, F., Deutschmann, S. M., Kionka, C., &amp;amp; Lehmann, J. (2001). An automatic system for the assessment of complex medium additives under cultivation conditions. &lt;em&gt;BIOTECHNOLOGY AND BIOENGINEERING&lt;/em&gt;, &lt;em&gt;73&lt;/em&gt;(6), 442-448.</apa>
+<frontiers>Iding, K., Büntemeyer, H., Gudermann, F., Deutschmann, S. M., Kionka, C., and Lehmann, J. (2001). An automatic system for the assessment of complex medium additives under cultivation conditions. &lt;em&gt;BIOTECHNOLOGY AND BIOENGINEERING&lt;/em&gt; 73, 442-448.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Iding, K., Büntemeyer, H., Gudermann, F., Deutschmann, S. M., Kionka, C., &amp;amp; Lehmann, J. (2001). An automatic system for the assessment of complex medium additives under cultivation conditions. &lt;em&gt;BIOTECHNOLOGY AND BIOENGINEERING&lt;/em&gt;, &lt;em&gt;73&lt;/em&gt;(6), 442-448.&lt;/div&gt;</apa_indent>
+<ieee>K. Iding, et al., “An automatic system for the assessment of complex medium additives under cultivation conditions”, &lt;em&gt;BIOTECHNOLOGY AND BIOENGINEERING&lt;/em&gt;,  vol. 73, 2001,  pp. 442-448.</ieee>
+<lncs>Iding, K., Büntemeyer, H., Gudermann, F., Deutschmann, S.M., Kionka, C., Lehmann, J.: An automatic system for the assessment of complex medium additives under cultivation conditions. BIOTECHNOLOGY AND BIOENGINEERING. 73, 442-448 (2001).</lncs>
+<mla>Iding, K, Büntemeyer, Heino, Gudermann, F, Deutschmann, SM, Kionka, C, and Lehmann, J. “An automatic system for the assessment of complex medium additives under cultivation conditions”. &lt;em&gt;BIOTECHNOLOGY AND BIOENGINEERING&lt;/em&gt; 73.6 (2001): 442-448.</mla>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1617133</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:03:06Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-12T09:43:50Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1617133</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1617133</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

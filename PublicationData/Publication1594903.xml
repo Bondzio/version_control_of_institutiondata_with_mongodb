@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Nonlinear diffusion through large complex networks containing regular subgraphs</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Dimitry</namePart>
+  <namePart type="family">Volchenkov</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40284</identifier></name>
+<name type="personal">
+  <namePart type="given">Philippe</namePart>
+  <namePart type="family">Blanchard</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40322</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">29104678</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Transport through generalized trees is considered. Trees contain the simple nodes and supernodes, either well-structured regular subgraphs or those with many triangles. We observe a superdiffusion for the highly connected nodes while it is Brownian for the rest of the nodes. Transport within a supernode is affected by the finite size effects vanishing as N -&gt; infinity. For the even dimensions of space, d = 2, 4, 6,..., the finite size effects break down the perturbation theory at small scales and can be regularized by using the heat-kernel expansion.</abstract>
+
+<originInfo><publisher>SPRINGER/PLENUM PUBLISHERS</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>networks and</topic><topic>structures and organization in complex systems</topic><topic>genealogical trees</topic><topic>diffusion</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF STATISTICAL PHYSICS</title></titleInfo>
+  <identifier type="issn">0022-4715</identifier>
+  <identifier type="eIssn">1572-9613</identifier>
+  <identifier type="ISI">000245899700002</identifier><identifier type="doi">10.1007/s10955-007-9313-1</identifier>
+<part><detail type="volume"><number>127</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">677-697</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Volchenkov, D., and Blanchard, P. (2007). Nonlinear diffusion through large complex networks containing regular subgraphs. &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt; 127, 677-697.</frontiers>
+<apa>Volchenkov, D., &amp;amp; Blanchard, P. (2007). Nonlinear diffusion through large complex networks containing regular subgraphs. &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt;, &lt;em&gt;127&lt;/em&gt;(4), 677-697.</apa>
+<angewandte-chemie>D.  Volchenkov, and P.  Blanchard, “Nonlinear diffusion through large complex networks containing regular subgraphs”, &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;127&lt;/em&gt;, 677-697.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Volchenkov, Dimitry, and Blanchard, Philippe. 2007. “Nonlinear diffusion through large complex networks containing regular subgraphs”. &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt; 127 (4): 677-697.&lt;/div&gt;</chicago>
+<lncs> Volchenkov, D., Blanchard, P.: Nonlinear diffusion through large complex networks containing regular subgraphs. JOURNAL OF STATISTICAL PHYSICS. 127, 677-697 (2007).</lncs>
+<mla>Volchenkov, Dimitry, and Blanchard, Philippe. “Nonlinear diffusion through large complex networks containing regular subgraphs”. &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt; 127.4 (2007): 677-697.</mla>
+<ieee> D. Volchenkov and P. Blanchard, “Nonlinear diffusion through large complex networks containing regular subgraphs”, &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt;,  vol. 127, 2007,  pp. 677-697.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Volchenkov, D., &amp;amp; Blanchard, P. (2007). Nonlinear diffusion through large complex networks containing regular subgraphs. &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt;, &lt;em&gt;127&lt;/em&gt;(4), 677-697.&lt;/div&gt;</apa_indent>
+<default>Volchenkov D, Blanchard P (2007) &lt;br /&gt;JOURNAL OF STATISTICAL PHYSICS 127(4): 677-697.</default>
+<wels>Volchenkov, D.; Blanchard, P. (2007): Nonlinear diffusion through large complex networks containing regular subgraphs &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt;,127:(4): 677-697.</wels>
+<aps> D.  Volchenkov and P.  Blanchard, Nonlinear diffusion through large complex networks containing regular subgraphs, JOURNAL OF STATISTICAL PHYSICS &lt;strong&gt;127&lt;/strong&gt;, 677-697 (2007).</aps>
+<bio1>Volchenkov D, Blanchard P (2007) &lt;br /&gt;Nonlinear diffusion through large complex networks containing regular subgraphs.&lt;br /&gt;JOURNAL OF STATISTICAL PHYSICS 127(4): 677-697.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Volchenkov, D. &amp;amp; Blanchard, P. (2007). Nonlinear diffusion through large complex networks containing regular subgraphs. &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt;, &lt;em&gt;127&lt;/em&gt;(4), 677-697. SPRINGER/PLENUM PUBLISHERS. doi:10.1007/s10955-007-9313-1.&lt;/div&gt;</dgps>
+<ama>Volchenkov D, Blanchard P. Nonlinear diffusion through large complex networks containing regular subgraphs. &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt;. 2007;127(4):677-697.</ama>
+<harvard1>Volchenkov, D., &amp;amp; Blanchard, P., 2007. Nonlinear diffusion through large complex networks containing regular subgraphs. &lt;em&gt;JOURNAL OF STATISTICAL PHYSICS&lt;/em&gt;, 127(4), p 677-697.</harvard1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1594903</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:28Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-24T13:26:23Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1594903</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1594903</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

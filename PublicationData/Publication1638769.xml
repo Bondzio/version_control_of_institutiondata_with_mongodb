@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Finite temperature QCD on Quadrics</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Bengt</namePart>
+  <namePart type="family">Petersson</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40337</identifier></name>
+<name type="personal">
+  <namePart type="given">Edwin</namePart>
+  <namePart type="family">Laermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40621</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Results from a large scale quenched simulation of QCD at finite temperature are presented. We discuss the equation of state, the heavy quark potential and the spatial string tension at temperatures between 0.9 T-c and 5 T-c. The simulations were carried out on a massively parallel Quadrics computer.</abstract>
+
+<originInfo><dateIssued encoding="w3cdtf">1996</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Progress of the Theoretical Physics Suppl.</title></titleInfo>
+  <identifier type="issn">0375-9687</identifier>
+  <identifier type="INSPIRE">431595</identifier>
+  <identifier type="ISI">A1996UZ94900012</identifier><identifier type="doi">10.1143/PTPS.122.85</identifier>
+<part><detail type="volume"><number>122</number></detail><detail type="issue"><number>122</number></detail><extent unit="pages">85-96</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<lncs>Petersson, B., Laermann, E.: Finite temperature QCD on Quadrics. Progress of the Theoretical Physics Suppl. 122, 85-96 (1996).</lncs>
+<mla>Petersson, Bengt, and Laermann, Edwin. “Finite temperature QCD on Quadrics”. &lt;em&gt;Progress of the Theoretical Physics Suppl.&lt;/em&gt; 122.122 (1996): 85-96.</mla>
+<ieee>B. Petersson and E. Laermann, “Finite temperature QCD on Quadrics”, &lt;em&gt;Progress of the Theoretical Physics Suppl.&lt;/em&gt;,  vol. 122, 1996,  pp. 85-96.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Petersson, B., &amp;amp; Laermann, E. (1996). Finite temperature QCD on Quadrics. &lt;em&gt;Progress of the Theoretical Physics Suppl.&lt;/em&gt;, &lt;em&gt;122&lt;/em&gt;(122), 85-96.&lt;/div&gt;</apa_indent>
+<frontiers>Petersson, B., and Laermann, E. (1996). Finite temperature QCD on Quadrics. &lt;em&gt;Progress of the Theoretical Physics Suppl.&lt;/em&gt; 122, 85-96.</frontiers>
+<apa>Petersson, B., &amp;amp; Laermann, E. (1996). Finite temperature QCD on Quadrics. &lt;em&gt;Progress of the Theoretical Physics Suppl.&lt;/em&gt;, &lt;em&gt;122&lt;/em&gt;(122), 85-96.</apa>
+<angewandte-chemie>B.  Petersson, and E.  Laermann, “Finite temperature QCD on Quadrics”, &lt;em&gt;Progress of the Theoretical Physics Suppl.&lt;/em&gt;, &lt;strong&gt;1996&lt;/strong&gt;, &lt;em&gt;122&lt;/em&gt;, 85-96.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Petersson, Bengt, and Laermann, Edwin. 1996. “Finite temperature QCD on Quadrics”. &lt;em&gt;Progress of the Theoretical Physics Suppl.&lt;/em&gt; 122 (122): 85-96.&lt;/div&gt;</chicago>
+<aps>B.  Petersson and E.  Laermann, Finite temperature QCD on Quadrics, Progress of the Theoretical Physics Suppl. &lt;strong&gt;122&lt;/strong&gt;, 85-96 (1996).</aps>
+<bio1>Petersson B, Laermann E (1996) &lt;br /&gt;Finite temperature QCD on Quadrics.&lt;br /&gt;Progress of the Theoretical Physics Suppl. 122(122): 85-96.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Petersson, B. &amp;amp; Laermann, E. (1996). Finite temperature QCD on Quadrics. &lt;em&gt;Progress of the Theoretical Physics Suppl.&lt;/em&gt;, &lt;em&gt;122&lt;/em&gt;(122), 85-96. doi:10.1143/PTPS.122.85.&lt;/div&gt;</dgps>
+<ama>Petersson B, Laermann E. Finite temperature QCD on Quadrics. &lt;em&gt;Progress of the Theoretical Physics Suppl.&lt;/em&gt; 1996;122(122):85-96.</ama>
+<harvard1>Petersson, B., &amp;amp; Laermann, E., 1996. Finite temperature QCD on Quadrics. &lt;em&gt;Progress of the Theoretical Physics Suppl.&lt;/em&gt;, 122(122), p 85-96.</harvard1>
+<default>Petersson B, Laermann E (1996) &lt;br /&gt;Progress of the Theoretical Physics Suppl. 122(122): 85-96.</default>
+<wels>Petersson, B.; Laermann, E. (1996): Finite temperature QCD on Quadrics &lt;em&gt;Progress of the Theoretical Physics Suppl.&lt;/em&gt;,122:(122): 85-96.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1638769</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:14:56Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-13T13:28:53Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1638769</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1638769</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

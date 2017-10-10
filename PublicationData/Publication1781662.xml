@@ -1,0 +1,105 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Szenario der beruflichen Bildung im vereinten Deutschland</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Dieter</namePart>
+  <namePart type="family">Timmermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">156157</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Manfred</namePart><namePart type="family">Kaiser</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Erziehungswissenschaft</namePart>
+  <identifier type="unibi">10021</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG 6 - Weiterbildung &amp; Governance of Lifelong Learning</namePart>
+  <identifier type="unibi">7978238</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT2640.pdf">https://pub.uni-bielefeld.de/download/1781662/2313406</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Institut für Arbeitsmarkt- und Berufsforschung der Bundesanstalt für Arbeit</publisher><dateIssued encoding="w3cdtf">1992</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Bildung und Beruf im Umbruch</title></titleInfo><identifier type="urn">urn:nbn:de:0070-bipr-26402</identifier>
+<part><detail type="volume"><number>vol. 2: Zur Diskussion der Übergänge in die berufliche Bildung und Beschäftigung im geeinten Deutschland</number></detail><extent unit="pages">238-245</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Timmermann D (1992)  &lt;br /&gt;In:  Bildung und Beruf im Umbruch. Kaiser M (Ed); Beiträge zur Arbeitsmarkt- und Berufsforschung ; 153, vol. 2: Zur Diskussion der Übergänge in die berufliche Bildung und Beschäftigung im geeinten Deutschland. Nürnberg: Institut für Arbeitsmarkt- und Berufsforschung der Bundesanstalt für Arbeit:  238-245.</default>
+<wels>Timmermann, D. (1992): Szenario der beruflichen Bildung im vereinten Deutschland. In: Manfred Kaiser (Hrsg.):  Bildung und Beruf im Umbruch. Nürnberg: Institut für Arbeitsmarkt- und Berufsforschung der Bundesanstalt für Arbeit. (Beiträge zur Arbeitsmarkt- und Berufsforschung ; 153, vol. 2: Zur Diskussion der Übergänge in die berufliche Bildung und Beschäftigung im geeinten Deutschland).  S. 238-245.</wels>
+<bio1>Timmermann D (1992) &lt;br /&gt;Szenario der beruflichen Bildung im vereinten Deutschland. &lt;br /&gt;In:  Bildung und Beruf im Umbruch. Kaiser M (Ed); Beiträge zur Arbeitsmarkt- und Berufsforschung ; 153, vol. 2: Zur Diskussion der Übergänge in die berufliche Bildung und Beschäftigung im geeinten Deutschland. Nürnberg: Institut für Arbeitsmarkt- und Berufsforschung der Bundesanstalt für Arbeit:  238-245.</bio1>
+<aps>D.  Timmermann, Szenario der beruflichen Bildung im vereinten Deutschland, in &lt;em&gt;Bildung und Beruf im Umbruch&lt;/em&gt;, edited by M.  Kaiser, Beiträge zur Arbeitsmarkt- und Berufsforschung ; 153, &lt;strong&gt;vol. 2: Zur Diskussion der Übergänge in die berufliche Bildung und Beschäftigung im geeinten Deutschland&lt;/strong&gt; (Institut für Arbeitsmarkt- und Berufsforschung der Bundesanstalt für Arbeit, Nürnberg, 1992), p. 238-245.</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Timmermann, D. (1992). Szenario der beruflichen Bildung im vereinten Deutschland (Beiträge zur Arbeitsmarkt- und Berufsforschung ; 153). &lt;em&gt;Bildung und Beruf im Umbruch&lt;/em&gt; (S. 238-245). Nürnberg: Institut für Arbeitsmarkt- und Berufsforschung der Bundesanstalt für Arbeit.&lt;/div&gt;</dgps>
+<ama>Timmermann D. Szenario der beruflichen Bildung im vereinten Deutschland. In: Kaiser M, ed. &lt;em&gt;Bildung und Beruf im Umbruch&lt;/em&gt;. Beiträge zur Arbeitsmarkt- und Berufsforschung ; 153. Vol vol. 2: Zur Diskussion der Übergänge in die berufliche Bildung und Beschäftigung im geeinten Deutschland. Nürnberg: Institut für Arbeitsmarkt- und Berufsforschung der Bundesanstalt für Arbeit;  1992: 238-245.</ama>
+<harvard1>Timmermann, D., 1992. Szenario der beruflichen Bildung im vereinten Deutschland. In M.  Kaiser, ed. &lt;em&gt;Bildung und Beruf im Umbruch&lt;/em&gt;. Beiträge zur Arbeitsmarkt- und Berufsforschung ; 153. no.vol. 2: Zur Diskussion der Übergänge in die berufliche Bildung und Beschäftigung im geeinten Deutschland  Nürnberg: Institut für Arbeitsmarkt- und Berufsforschung der Bundesanstalt für Arbeit, pp. 238-245.</harvard1>
+<frontiers>Timmermann, D. (1992). “Szenario der beruflichen Bildung im vereinten Deutschland” in &lt;em&gt;Bildung und Beruf im Umbruch&lt;/em&gt;, ed. M.  Kaiser Beiträge zur Arbeitsmarkt- und Berufsforschung ; 153, vol. vol. 2: Zur Diskussion der Übergänge in die berufliche Bildung und Beschäftigung im geeinten Deutschland, (Nürnberg: Institut für Arbeitsmarkt- und Berufsforschung der Bundesanstalt für Arbeit), 238-245.</frontiers>
+<apa>Timmermann, D. (1992). Szenario der beruflichen Bildung im vereinten Deutschland. In M.  Kaiser (Ed.), &lt;em&gt;Beiträge zur Arbeitsmarkt- und Berufsforschung ; 153: Vol. vol. 2: Zur Diskussion der Übergänge in die berufliche Bildung und Beschäftigung im geeinten Deutschland&lt;/em&gt;&lt;em&gt;. Bildung und Beruf im Umbruch&lt;/em&gt; (pp. 238-245). Nürnberg: Institut für Arbeitsmarkt- und Berufsforschung der Bundesanstalt für Arbeit.</apa>
+<angewandte-chemie>D.  Timmermann, in &lt;em&gt;Bildung und Beruf im Umbruch&lt;/em&gt; (Ed.: M. Kaiser), Institut Für Arbeitsmarkt- Und Berufsforschung Der Bundesanstalt Für Arbeit, Nürnberg, &lt;strong&gt;1992&lt;/strong&gt;, p. 238-245.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Timmermann, Dieter. 1992. “Szenario der beruflichen Bildung im vereinten Deutschland”. In &lt;em&gt;Bildung und Beruf im Umbruch&lt;/em&gt;, ed. Manfred Kaiser, vol. 2: Zur Diskussion der Übergänge in die berufliche Bildung und Beschäftigung im geeinten Deutschland:238-245. Beiträge zur Arbeitsmarkt- und Berufsforschung ; 153. Nürnberg: Institut für Arbeitsmarkt- und Berufsforschung der Bundesanstalt für Arbeit.&lt;/div&gt;</chicago>
+<mla>Timmermann, Dieter. “Szenario der beruflichen Bildung im vereinten Deutschland”. &lt;em&gt;Bildung und Beruf im Umbruch&lt;/em&gt;. Ed. Manfred Kaiser. Nürnberg: Institut für Arbeitsmarkt- und Berufsforschung der Bundesanstalt für Arbeit, 1992.Vol. vol. 2: Zur Diskussion der Übergänge in die berufliche Bildung und Beschäftigung im geeinten Deutschland. Beiträge zur Arbeitsmarkt- und Berufsforschung ; 153. 238-245.</mla>
+<lncs>Timmermann, D.: Szenario der beruflichen Bildung im vereinten Deutschland. In: Kaiser, M. (ed.) Bildung und Beruf im Umbruch. Beiträge zur Arbeitsmarkt- und Berufsforschung ; 153. vol. 2: Zur Diskussion der Übergänge in die berufliche Bildung und Beschäftigung im geeinten Deutschland, p. 238-245. Institut für Arbeitsmarkt- und Berufsforschung der Bundesanstalt für Arbeit, Nürnberg (1992).</lncs>
+<ieee>D. Timmermann, “Szenario der beruflichen Bildung im vereinten Deutschland”, &lt;em&gt;Bildung und Beruf im Umbruch&lt;/em&gt;, M. Kaiser, ed., Beiträge zur Arbeitsmarkt- und Berufsforschung ; 153, vol. vol. 2: Zur Diskussion der Übergänge in die berufliche Bildung und Beschäftigung im geeinten Deutschland,  Nürnberg: Institut für Arbeitsmarkt- und Berufsforschung der Bundesanstalt für Arbeit, 1992,  pp.238-245.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Timmermann, D. (1992). Szenario der beruflichen Bildung im vereinten Deutschland. In M.  Kaiser (Ed.), &lt;em&gt;Beiträge zur Arbeitsmarkt- und Berufsforschung ; 153: Vol. vol. 2: Zur Diskussion der Übergänge in die berufliche Bildung und Beschäftigung im geeinten Deutschland&lt;/em&gt;&lt;em&gt;. Bildung und Beruf im Umbruch&lt;/em&gt; (pp. 238-245). Nürnberg: Institut für Arbeitsmarkt- und Berufsforschung der Bundesanstalt für Arbeit.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781662</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781662</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781662</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,115 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>The three flavour chiral phase transition with an improved quark and gluon action in lattice QCD</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Peikert</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Frithjof</namePart>
+  <namePart type="family">Karsch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40326</identifier></name>
+<name type="personal">
+  <namePart type="given">Edwin</namePart>
+  <namePart type="family">Laermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40621</identifier></name>
+<name type="personal">
+  <namePart type="given">B</namePart>
+  <namePart type="family">Sturm</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The finite-temperature chiral phase transition is investigated for three flavours of staggered quarks on a lattice of temporal extent N-tau = 4. In the simulation we use an improved fermion action which reduces rotational symmetry breaking of the quark propagator ( p4-action), include fat-links to improve the flavour symmetry and use the tree level improved (1,2) gluon action. We study the nature of the phase transition for quark masses of ma = 0.025, ma = 0.05 and ma = 0.1 on lattices with spatial sizes of 8(3) and 16(3).</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">1999</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS</title></titleInfo>
+  <identifier type="issn">0920-5632</identifier>
+  <identifier type="arXiv">hep-lat/9901002</identifier>
+  <identifier type="INSPIRE">481719</identifier>
+  <identifier type="ISI">000080821000106</identifier><identifier type="doi">10.1016/S0920-5632(99)85107-X</identifier>
+<part><detail type="volume"><number>73</number></detail><extent unit="pages">468-470</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<harvard1>Peikert, A., et al., 1999. The three flavour chiral phase transition with an improved quark and gluon action in lattice QCD. In &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt;. no.73  ELSEVIER SCIENCE BV, pp. 468-470.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Peikert, A., Karsch, F., Laermann, E. &amp;amp; Sturm, B. (1999). The three flavour chiral phase transition with an improved quark and gluon action in lattice QCD. &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt; (S. 468-470). ELSEVIER SCIENCE BV. doi:10.1016/S0920-5632(99)85107-X.&lt;/div&gt;</dgps>
+<ama>Peikert A, Karsch F, Laermann E, Sturm B. The three flavour chiral phase transition with an improved quark and gluon action in lattice QCD. In:  &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt;. Vol 73. ELSEVIER SCIENCE BV;  1999: 468-470.</ama>
+<aps>A.  Peikert, et al., The three flavour chiral phase transition with an improved quark and gluon action in lattice QCD, in &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt;, &lt;strong&gt;73&lt;/strong&gt; (ELSEVIER SCIENCE BV, 1999), p. 468-470.</aps>
+<bio1>Peikert A, Karsch F, Laermann E, Sturm B (1999) &lt;br /&gt;The three flavour chiral phase transition with an improved quark and gluon action in lattice QCD. &lt;br /&gt;In:  NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS. 73. ELSEVIER SCIENCE BV:  468-470.</bio1>
+<wels>Peikert, A.; Karsch, F.; Laermann, E.; Sturm, B. (1999): The three flavour chiral phase transition with an improved quark and gluon action in lattice QCD. In: NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS. ELSEVIER SCIENCE BV. (73).  S. 468-470.</wels>
+<default>Peikert A, Karsch F, Laermann E, Sturm B (1999)  &lt;br /&gt;In:  NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS. 73. ELSEVIER SCIENCE BV:  468-470.</default>
+<ieee>A. Peikert, et al., “The three flavour chiral phase transition with an improved quark and gluon action in lattice QCD”, &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt;, vol. 73, ELSEVIER SCIENCE BV, 1999,  pp.468-470.</ieee>
+<mla>Peikert, A, Karsch, Frithjof, Laermann, Edwin, and Sturm, B. “The three flavour chiral phase transition with an improved quark and gluon action in lattice QCD”. &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt;. ELSEVIER SCIENCE BV, 1999.Vol. 73. 468-470.</mla>
+<lncs>Peikert, A., Karsch, F., Laermann, E., Sturm, B.: The three flavour chiral phase transition with an improved quark and gluon action in lattice QCD. NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS. 73, p. 468-470. ELSEVIER SCIENCE BV (1999).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Peikert, A., Karsch, F., Laermann, E., &amp;amp; Sturm, B. (1999). The three flavour chiral phase transition with an improved quark and gluon action in lattice QCD. &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt;, &lt;em&gt;73&lt;/em&gt;, 468-470.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>A.  Peikert, F.  Karsch, E.  Laermann, and B.  Sturm, in &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt;, Elsevier Science Bv, &lt;strong&gt;1999&lt;/strong&gt;, p. 468-470.</angewandte-chemie>
+<apa>Peikert, A., Karsch, F., Laermann, E., &amp;amp; Sturm, B. (1999). The three flavour chiral phase transition with an improved quark and gluon action in lattice QCD. &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt;, &lt;em&gt;73&lt;/em&gt;, 468-470.</apa>
+<frontiers>Peikert, A., Karsch, F., Laermann, E., and Sturm, B. (1999). “The three flavour chiral phase transition with an improved quark and gluon action in lattice QCD” in &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt;, vol. 73, (ELSEVIER SCIENCE BV), 468-470.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Peikert, A, Karsch, Frithjof, Laermann, Edwin, and Sturm, B. 1999. “The three flavour chiral phase transition with an improved quark and gluon action in lattice QCD”. In &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt;, 73:468-470. ELSEVIER SCIENCE BV.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1622803</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:05:51Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-16T13:05:27Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1622803</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1622803</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

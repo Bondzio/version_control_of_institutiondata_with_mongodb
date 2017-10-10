@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Adaptive color segmentation - A comparison of neural and statistical methods</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Enno</namePart>
+  <namePart type="family">Littmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Helge</namePart>
+  <namePart type="family">Ritter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">91130</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Neuroinformatik</namePart>
+  <identifier type="unibi">10038</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">With the availability of more powerful computers it is nowadays possible to perform pixel based operations on real camera images even in the full color space. New adaptive classification tools like neural networks make it possible to develop special-purpose object detectors that can segment arbitrary objects in real images with a complex distribution in the feature space after training with one or several previously labeled image(s). The paper focuses on a detailed comparison of a neural approach based on local linear maps (LLM&apos;s) to a classifier based on normal distributions. The proposed adaptive segmentation method uses local color information to estimate the membership probability in the object, respectively, background class. The method is applied to the recognition and localization of human hands in color camera images of complex laboratory scenes.</abstract>
+
+<originInfo><publisher>IEEE</publisher><dateIssued encoding="w3cdtf">1997</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>hand recognition</topic><topic>color segmentation</topic><topic>adaptive classification</topic><topic>linear maps</topic><topic>local</topic><topic>clustering</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>IEEE Transactions on Neural Networks</title></titleInfo>
+  <identifier type="issn">1045-9227</identifier>
+  <identifier type="MEDLINE">18255622</identifier>
+  <identifier type="ISI">A1997WA61200018</identifier><identifier type="doi">10.1109/72.554203</identifier>
+<part><detail type="volume"><number>8</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">175-185</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Littmann, E.; Ritter, H. (1997): Adaptive color segmentation - A comparison of neural and statistical methods &lt;em&gt;IEEE Transactions on Neural Networks&lt;/em&gt;,8:(1): 175-185.</wels>
+<default>Littmann E, Ritter H (1997) &lt;br /&gt;IEEE Transactions on Neural Networks 8(1): 175-185.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Littmann, E. &amp;amp; Ritter, H. (1997). Adaptive color segmentation - A comparison of neural and statistical methods. &lt;em&gt;IEEE Transactions on Neural Networks&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;(1), 175-185. IEEE. doi:10.1109/72.554203.&lt;/div&gt;</dgps>
+<harvard1>Littmann, E., &amp;amp; Ritter, H., 1997. Adaptive color segmentation - A comparison of neural and statistical methods. &lt;em&gt;IEEE Transactions on Neural Networks&lt;/em&gt;, 8(1), p 175-185.</harvard1>
+<ama>Littmann E, Ritter H. Adaptive color segmentation - A comparison of neural and statistical methods. &lt;em&gt;IEEE Transactions on Neural Networks&lt;/em&gt;. 1997;8(1):175-185.</ama>
+<aps>E.  Littmann and H.  Ritter, Adaptive color segmentation - A comparison of neural and statistical methods, IEEE Transactions on Neural Networks &lt;strong&gt;8&lt;/strong&gt;, 175-185 (1997).</aps>
+<bio1>Littmann E, Ritter H (1997) &lt;br /&gt;Adaptive color segmentation - A comparison of neural and statistical methods.&lt;br /&gt;IEEE Transactions on Neural Networks 8(1): 175-185.</bio1>
+<apa>Littmann, E., &amp;amp; Ritter, H. (1997). Adaptive color segmentation - A comparison of neural and statistical methods. &lt;em&gt;IEEE Transactions on Neural Networks&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;(1), 175-185.</apa>
+<angewandte-chemie>E.  Littmann, and H.  Ritter, “Adaptive color segmentation - A comparison of neural and statistical methods”, &lt;em&gt;IEEE Transactions on Neural Networks&lt;/em&gt;, &lt;strong&gt;1997&lt;/strong&gt;, &lt;em&gt;8&lt;/em&gt;, 175-185.</angewandte-chemie>
+<frontiers>Littmann, E., and Ritter, H. (1997). Adaptive color segmentation - A comparison of neural and statistical methods. &lt;em&gt;IEEE Transactions on Neural Networks&lt;/em&gt; 8, 175-185.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Littmann, Enno, and Ritter, Helge. 1997. “Adaptive color segmentation - A comparison of neural and statistical methods”. &lt;em&gt;IEEE Transactions on Neural Networks&lt;/em&gt; 8 (1): 175-185.&lt;/div&gt;</chicago>
+<ieee>E. Littmann and H. Ritter, “Adaptive color segmentation - A comparison of neural and statistical methods”, &lt;em&gt;IEEE Transactions on Neural Networks&lt;/em&gt;,  vol. 8, 1997,  pp. 175-185.</ieee>
+<lncs>Littmann, E., Ritter, H.: Adaptive color segmentation - A comparison of neural and statistical methods. IEEE Transactions on Neural Networks. 8, 175-185 (1997).</lncs>
+<mla>Littmann, Enno, and Ritter, Helge. “Adaptive color segmentation - A comparison of neural and statistical methods”. &lt;em&gt;IEEE Transactions on Neural Networks&lt;/em&gt; 8.1 (1997): 175-185.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Littmann, E., &amp;amp; Ritter, H. (1997). Adaptive color segmentation - A comparison of neural and statistical methods. &lt;em&gt;IEEE Transactions on Neural Networks&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;(1), 175-185.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1628322</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:23:25Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2015-04-10T13:21:07Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1628322</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1628322</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

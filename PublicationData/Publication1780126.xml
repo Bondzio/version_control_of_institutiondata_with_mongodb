@@ -1,0 +1,108 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Soziale Lernprozesse im Sportspiel</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Klaus</namePart>
+  <namePart type="family">Cachay</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40020</identifier></name>
+<name type="personal">
+  <namePart type="given">Christa</namePart>
+  <namePart type="family">Kleindienst-Cachay</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40005</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Arbeitsbereich IV - Sport und Erziehung</namePart>
+  <identifier type="unibi">28978161</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Weltgesellschaft</namePart>
+  <identifier type="unibi">89044</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Kleindienst_Cachay_04.pdf">https://pub.uni-bielefeld.de/download/1780126/2312738</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1976</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Sportwissenschaft</title></titleInfo>
+  <identifier type="issn">0342-2380</identifier><identifier type="urn">urn:nbn:de:0070-bipr-19159</identifier>
+<part><detail type="volume"><number>6</number></detail><extent unit="pages">291-310</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>K. Cachay and C. Kleindienst-Cachay, “Soziale Lernprozesse im Sportspiel”, &lt;em&gt;Sportwissenschaft&lt;/em&gt;,  vol. 6, 1976,  pp. 291-310.</ieee>
+<lncs>Cachay, K., Kleindienst-Cachay, C.: Soziale Lernprozesse im Sportspiel. Sportwissenschaft. 6, 291-310 (1976).</lncs>
+<mla>Cachay, Klaus, and Kleindienst-Cachay, Christa. “Soziale Lernprozesse im Sportspiel”. &lt;em&gt;Sportwissenschaft&lt;/em&gt; 6 (1976): 291-310.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cachay, K., &amp;amp; Kleindienst-Cachay, C. (1976). Soziale Lernprozesse im Sportspiel. &lt;em&gt;Sportwissenschaft&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;, 291-310.&lt;/div&gt;</apa_indent>
+<apa>Cachay, K., &amp;amp; Kleindienst-Cachay, C. (1976). Soziale Lernprozesse im Sportspiel. &lt;em&gt;Sportwissenschaft&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;, 291-310.</apa>
+<angewandte-chemie>K.  Cachay, and C.  Kleindienst-Cachay, “Soziale Lernprozesse im Sportspiel”, &lt;em&gt;Sportwissenschaft&lt;/em&gt;, &lt;strong&gt;1976&lt;/strong&gt;, &lt;em&gt;6&lt;/em&gt;, 291-310.</angewandte-chemie>
+<frontiers>Cachay, K., and Kleindienst-Cachay, C. (1976). Soziale Lernprozesse im Sportspiel. &lt;em&gt;Sportwissenschaft&lt;/em&gt; 6, 291-310.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cachay, Klaus, and Kleindienst-Cachay, Christa. 1976. “Soziale Lernprozesse im Sportspiel”. &lt;em&gt;Sportwissenschaft&lt;/em&gt; 6: 291-310.&lt;/div&gt;</chicago>
+<ama>Cachay K, Kleindienst-Cachay C. Soziale Lernprozesse im Sportspiel. &lt;em&gt;Sportwissenschaft&lt;/em&gt;. 1976;6:291-310.</ama>
+<harvard1>Cachay, K., &amp;amp; Kleindienst-Cachay, C., 1976. Soziale Lernprozesse im Sportspiel. &lt;em&gt;Sportwissenschaft&lt;/em&gt;, 6, p 291-310.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cachay, K. &amp;amp; Kleindienst-Cachay, C. (1976). Soziale Lernprozesse im Sportspiel. &lt;em&gt;Sportwissenschaft&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;, 291-310.&lt;/div&gt;</dgps>
+<bio1>Cachay K, Kleindienst-Cachay C (1976) &lt;br /&gt;Soziale Lernprozesse im Sportspiel.&lt;br /&gt;Sportwissenschaft 6: 291-310.</bio1>
+<aps>K.  Cachay and C.  Kleindienst-Cachay, Soziale Lernprozesse im Sportspiel, Sportwissenschaft &lt;strong&gt;6&lt;/strong&gt;, 291-310 (1976).</aps>
+<wels>Cachay, K.; Kleindienst-Cachay, C. (1976): Soziale Lernprozesse im Sportspiel &lt;em&gt;Sportwissenschaft&lt;/em&gt;,6: 291-310.</wels>
+<default>Cachay K, Kleindienst-Cachay C (1976) &lt;br /&gt;Sportwissenschaft 6: 291-310.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780126</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780126</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780126</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,110 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Studieren ab 50: ein wissenschaftliches Weiterbildungsprogramm für ältere Erwachsene - Konzeption, Analyse einer Teilnehmerbefragung, Perspektiven</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Gernot</namePart>
+  <namePart type="family">Graeßner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">95235</identifier></name>
+<name type="personal">
+  <namePart type="given">Magdalena</namePart>
+  <namePart type="family">Malwitz-Schütte</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Gernot</namePart><namePart type="family">Graeßner</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Erziehungswissenschaft</namePart>
+  <identifier type="unibi">10021</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG 6 - Weiterbildung &amp; Governance of Lifelong Learning</namePart>
+  <identifier type="unibi">7978238</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT2990.pdf">https://pub.uni-bielefeld.de/download/1782149/2313688</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Aue</publisher><dateIssued encoding="w3cdtf">1994</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Bestandsaufnahme und Perspektiven des Seniorenstudiums: Dokumentation der Tagung an der Philipps-Universität Marburg, 21. - 23. März 1994</title></titleInfo>
+  <identifier type="isbn">3-88272-092-1</identifier><identifier type="urn">urn:nbn:de:0070-bipr-29901</identifier>
+<part><extent unit="pages">23-47</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Graeßner G, Malwitz-Schütte M. Studieren ab 50: ein wissenschaftliches Weiterbildungsprogramm für ältere Erwachsene - Konzeption, Analyse einer Teilnehmerbefragung, Perspektiven. In: Graeßner G, ed. &lt;em&gt;Bestandsaufnahme und Perspektiven des Seniorenstudiums: Dokumentation der Tagung an der Philipps-Universität Marburg, 21. - 23. März 1994&lt;/em&gt;. Bielefeld: Aue;  1994: 23-47.</ama>
+<harvard1>Graeßner, G., &amp;amp; Malwitz-Schütte, M., 1994. Studieren ab 50: ein wissenschaftliches Weiterbildungsprogramm für ältere Erwachsene - Konzeption, Analyse einer Teilnehmerbefragung, Perspektiven. In G.  Graeßner, ed. &lt;em&gt;Bestandsaufnahme und Perspektiven des Seniorenstudiums: Dokumentation der Tagung an der Philipps-Universität Marburg, 21. - 23. März 1994&lt;/em&gt;.  Bielefeld: Aue, pp. 23-47.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Graeßner, G. &amp;amp; Malwitz-Schütte, M. (1994). Studieren ab 50: ein wissenschaftliches Weiterbildungsprogramm für ältere Erwachsene - Konzeption, Analyse einer Teilnehmerbefragung, Perspektiven. &lt;em&gt;Bestandsaufnahme und Perspektiven des Seniorenstudiums: Dokumentation der Tagung an der Philipps-Universität Marburg, 21. - 23. März 1994&lt;/em&gt; (S. 23-47). Bielefeld: Aue.&lt;/div&gt;</dgps>
+<aps>G.  Graeßner and M.  Malwitz-Schütte, Studieren ab 50: ein wissenschaftliches Weiterbildungsprogramm für ältere Erwachsene - Konzeption, Analyse einer Teilnehmerbefragung, Perspektiven, in &lt;em&gt;Bestandsaufnahme und Perspektiven des Seniorenstudiums: Dokumentation der Tagung an der Philipps-Universität Marburg, 21. - 23. März 1994&lt;/em&gt;, edited by G.  Graeßner (Aue, Bielefeld, 1994), p. 23-47.</aps>
+<bio1>Graeßner G, Malwitz-Schütte M (1994) &lt;br /&gt;Studieren ab 50: ein wissenschaftliches Weiterbildungsprogramm für ältere Erwachsene - Konzeption, Analyse einer Teilnehmerbefragung, Perspektiven. &lt;br /&gt;In:  Bestandsaufnahme und Perspektiven des Seniorenstudiums: Dokumentation der Tagung an der Philipps-Universität Marburg, 21. - 23. März 1994. Graeßner G (Ed); Bielefeld: Aue:  23-47.</bio1>
+<wels>Graeßner, G.; Malwitz-Schütte, M. (1994): Studieren ab 50: ein wissenschaftliches Weiterbildungsprogramm für ältere Erwachsene - Konzeption, Analyse einer Teilnehmerbefragung, Perspektiven. In: Gernot Graeßner (Hrsg.):  Bestandsaufnahme und Perspektiven des Seniorenstudiums: Dokumentation der Tagung an der Philipps-Universität Marburg, 21. - 23. März 1994. Bielefeld: Aue.  S. 23-47.</wels>
+<default>Graeßner G, Malwitz-Schütte M (1994)  &lt;br /&gt;In:  Bestandsaufnahme und Perspektiven des Seniorenstudiums: Dokumentation der Tagung an der Philipps-Universität Marburg, 21. - 23. März 1994. Graeßner G (Ed);Bielefeld: Aue:  23-47.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Graeßner, G., &amp;amp; Malwitz-Schütte, M. (1994). Studieren ab 50: ein wissenschaftliches Weiterbildungsprogramm für ältere Erwachsene - Konzeption, Analyse einer Teilnehmerbefragung, Perspektiven. In G.  Graeßner (Ed.), &lt;em&gt;Bestandsaufnahme und Perspektiven des Seniorenstudiums: Dokumentation der Tagung an der Philipps-Universität Marburg, 21. - 23. März 1994&lt;/em&gt; (pp. 23-47). Bielefeld: Aue.&lt;/div&gt;</apa_indent>
+<ieee>G. Graeßner and M. Malwitz-Schütte, “Studieren ab 50: ein wissenschaftliches Weiterbildungsprogramm für ältere Erwachsene - Konzeption, Analyse einer Teilnehmerbefragung, Perspektiven”, &lt;em&gt;Bestandsaufnahme und Perspektiven des Seniorenstudiums: Dokumentation der Tagung an der Philipps-Universität Marburg, 21. - 23. März 1994&lt;/em&gt;, G. Graeßner, ed.,  Bielefeld: Aue, 1994,  pp.23-47.</ieee>
+<lncs>Graeßner, G., Malwitz-Schütte, M.: Studieren ab 50: ein wissenschaftliches Weiterbildungsprogramm für ältere Erwachsene - Konzeption, Analyse einer Teilnehmerbefragung, Perspektiven. In: Graeßner, G. (ed.) Bestandsaufnahme und Perspektiven des Seniorenstudiums: Dokumentation der Tagung an der Philipps-Universität Marburg, 21. - 23. März 1994. p. 23-47. Aue, Bielefeld (1994).</lncs>
+<mla>Graeßner, Gernot, and Malwitz-Schütte, Magdalena. “Studieren ab 50: ein wissenschaftliches Weiterbildungsprogramm für ältere Erwachsene - Konzeption, Analyse einer Teilnehmerbefragung, Perspektiven”. &lt;em&gt;Bestandsaufnahme und Perspektiven des Seniorenstudiums: Dokumentation der Tagung an der Philipps-Universität Marburg, 21. - 23. März 1994&lt;/em&gt;. Ed. Gernot Graeßner. Bielefeld: Aue, 1994. 23-47.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Graeßner, Gernot, and Malwitz-Schütte, Magdalena. 1994. “Studieren ab 50: ein wissenschaftliches Weiterbildungsprogramm für ältere Erwachsene - Konzeption, Analyse einer Teilnehmerbefragung, Perspektiven”. In &lt;em&gt;Bestandsaufnahme und Perspektiven des Seniorenstudiums: Dokumentation der Tagung an der Philipps-Universität Marburg, 21. - 23. März 1994&lt;/em&gt;, ed. Gernot Graeßner, 23-47. Bielefeld: Aue.&lt;/div&gt;</chicago>
+<apa>Graeßner, G., &amp;amp; Malwitz-Schütte, M. (1994). Studieren ab 50: ein wissenschaftliches Weiterbildungsprogramm für ältere Erwachsene - Konzeption, Analyse einer Teilnehmerbefragung, Perspektiven. In G.  Graeßner (Ed.), &lt;em&gt;Bestandsaufnahme und Perspektiven des Seniorenstudiums: Dokumentation der Tagung an der Philipps-Universität Marburg, 21. - 23. März 1994&lt;/em&gt; (pp. 23-47). Bielefeld: Aue.</apa>
+<angewandte-chemie>G.  Graeßner, and M.  Malwitz-Schütte, in &lt;em&gt;Bestandsaufnahme und Perspektiven des Seniorenstudiums: Dokumentation der Tagung an der Philipps-Universität Marburg, 21. - 23. März 1994&lt;/em&gt; (Ed.: G. Graeßner), Aue, Bielefeld, &lt;strong&gt;1994&lt;/strong&gt;, p. 23-47.</angewandte-chemie>
+<frontiers>Graeßner, G., and Malwitz-Schütte, M. (1994). “Studieren ab 50: ein wissenschaftliches Weiterbildungsprogramm für ältere Erwachsene - Konzeption, Analyse einer Teilnehmerbefragung, Perspektiven” in &lt;em&gt;Bestandsaufnahme und Perspektiven des Seniorenstudiums: Dokumentation der Tagung an der Philipps-Universität Marburg, 21. - 23. März 1994&lt;/em&gt;, ed. G.  Graeßner (Bielefeld: Aue), 23-47.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1782149</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1782149</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1782149</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

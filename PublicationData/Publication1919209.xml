@@ -1,0 +1,115 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Rearrangement Models and Single-Cut Operations</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Paul</namePart>
+  <namePart type="family">Medvedev</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jens</namePart>
+  <namePart type="family">Stoye</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">65864</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-4656-7155</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Research Group J. Stoye</namePart>
+  <identifier type="unibi">33067262</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Genominformatik</namePart>
+  <identifier type="unibi">66100</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+<name type="conference">
+  <namePart>Recomb-CG 2009</namePart>
+</name>
+
+
+
+
+
+
+
+<originInfo><publisher>Springer</publisher><dateIssued encoding="w3cdtf">2009</dateIssued><place><placeTerm type="text">Budapest, Hungary</placeTerm></place>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Comparative Genomics : International Workshop, RECOMB-CG 2009, Budapest, Hungary, September 27-29, 2009. Proceedings</title></titleInfo>
+  <identifier type="isbn">978-3-642-04744-2</identifier><identifier type="doi">10.1007/978-3-642-04744-2_8</identifier>
+<part><detail type="volume"><number>5817</number></detail><extent unit="pages">84-97</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Medvedev, P. &amp;amp; Stoye, J. (2009). Rearrangement Models and Single-Cut Operations (Lecture Notes in Computer Science). &lt;em&gt;Comparative Genomics : International Workshop, RECOMB-CG 2009, Budapest, Hungary, September 27-29, 2009. Proceedings&lt;/em&gt; (S. 84-97). Gehalten auf der Recomb-CG 2009, Berlin, Heidelberg: Springer. doi:10.1007/978-3-642-04744-2_8.&lt;/div&gt;</dgps>
+<ama>Medvedev P, Stoye J. Rearrangement Models and Single-Cut Operations. In:  &lt;em&gt;Comparative Genomics : International Workshop, RECOMB-CG 2009, Budapest, Hungary, September 27-29, 2009. Proceedings&lt;/em&gt;. Lecture Notes in Computer Science. Vol 5817. Berlin, Heidelberg: Springer;  2009: 84-97.</ama>
+<harvard1>Medvedev, P., &amp;amp; Stoye, J., 2009. Rearrangement Models and Single-Cut Operations. In &lt;em&gt;Comparative Genomics : International Workshop, RECOMB-CG 2009, Budapest, Hungary, September 27-29, 2009. Proceedings&lt;/em&gt;. Lecture Notes in Computer Science. no.5817  Berlin, Heidelberg: Springer, pp. 84-97.</harvard1>
+<aps>P.  Medvedev and J.  Stoye, Rearrangement Models and Single-Cut Operations, in &lt;em&gt;Comparative Genomics : International Workshop, RECOMB-CG 2009, Budapest, Hungary, September 27-29, 2009. Proceedings&lt;/em&gt;, Lecture Notes in Computer Science, &lt;strong&gt;5817&lt;/strong&gt; (Springer, Berlin, Heidelberg, 2009), p. 84-97.</aps>
+<bio1>Medvedev P, Stoye J (2009) &lt;br /&gt;Rearrangement Models and Single-Cut Operations. &lt;br /&gt;In:  Comparative Genomics : International Workshop, RECOMB-CG 2009, Budapest, Hungary, September 27-29, 2009. Proceedings.  Lecture Notes in Computer Science, 5817. Berlin, Heidelberg: Springer:  84-97.</bio1>
+<wels>Medvedev, P.; Stoye, J. (2009): Rearrangement Models and Single-Cut Operations. In: Comparative Genomics : International Workshop, RECOMB-CG 2009, Budapest, Hungary, September 27-29, 2009. Proceedings. Berlin, Heidelberg: Springer. (Lecture Notes in Computer Science, 5817).  S. 84-97.</wels>
+<default>Medvedev P, Stoye J (2009)  &lt;br /&gt;In:  Comparative Genomics : International Workshop, RECOMB-CG 2009, Budapest, Hungary, September 27-29, 2009. Proceedings.  Lecture Notes in Computer Science, 5817. Berlin, Heidelberg: Springer:  84-97.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Medvedev, P., &amp;amp; Stoye, J. (2009). Rearrangement Models and Single-Cut Operations. &lt;em&gt;Comparative Genomics : International Workshop, RECOMB-CG 2009, Budapest, Hungary, September 27-29, 2009. Proceedings&lt;/em&gt;, &lt;em&gt;5817&lt;/em&gt;, 84-97.&lt;/div&gt;</apa_indent>
+<ieee>P. Medvedev and J. Stoye, “Rearrangement Models and Single-Cut Operations”, &lt;em&gt;Comparative Genomics : International Workshop, RECOMB-CG 2009, Budapest, Hungary, September 27-29, 2009. Proceedings&lt;/em&gt;, Lecture Notes in Computer Science, vol. 5817,  Berlin, Heidelberg: Springer, 2009,  pp.84-97.</ieee>
+<lncs>Medvedev, P., Stoye, J.: Rearrangement Models and Single-Cut Operations. Comparative Genomics : International Workshop, RECOMB-CG 2009, Budapest, Hungary, September 27-29, 2009. Proceedings. Lecture Notes in Computer Science. 5817, p. 84-97. Springer, Berlin, Heidelberg (2009).</lncs>
+<mla>Medvedev, Paul, and Stoye, Jens. “Rearrangement Models and Single-Cut Operations”. &lt;em&gt;Comparative Genomics : International Workshop, RECOMB-CG 2009, Budapest, Hungary, September 27-29, 2009. Proceedings&lt;/em&gt;. Berlin, Heidelberg: Springer, 2009.Vol. 5817. Lecture Notes in Computer Science. 84-97.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Medvedev, Paul, and Stoye, Jens. 2009. “Rearrangement Models and Single-Cut Operations”. In &lt;em&gt;Comparative Genomics : International Workshop, RECOMB-CG 2009, Budapest, Hungary, September 27-29, 2009. Proceedings&lt;/em&gt;, 5817:84-97. Lecture Notes in Computer Science. Berlin, Heidelberg: Springer.&lt;/div&gt;</chicago>
+<angewandte-chemie>P.  Medvedev, and J.  Stoye, in &lt;em&gt;Comparative Genomics : International Workshop, RECOMB-CG 2009, Budapest, Hungary, September 27-29, 2009. Proceedings&lt;/em&gt;, Springer, Berlin, Heidelberg, &lt;strong&gt;2009&lt;/strong&gt;, p. 84-97.</angewandte-chemie>
+<apa>Medvedev, P., &amp;amp; Stoye, J. (2009). Rearrangement Models and Single-Cut Operations. &lt;em&gt;Comparative Genomics : International Workshop, RECOMB-CG 2009, Budapest, Hungary, September 27-29, 2009. Proceedings&lt;/em&gt;, &lt;em&gt;5817&lt;/em&gt;, 84-97.</apa>
+<frontiers>Medvedev, P., and Stoye, J. (2009). “Rearrangement Models and Single-Cut Operations” in &lt;em&gt;Comparative Genomics : International Workshop, RECOMB-CG 2009, Budapest, Hungary, September 27-29, 2009. Proceedings&lt;/em&gt; Lecture Notes in Computer Science, vol. 5817, (Berlin, Heidelberg: Springer), 84-97.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1919209</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-11-23T20:38:20Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-01-18T09:11:14Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1919209</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1919209</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

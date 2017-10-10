@@ -1,0 +1,96 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Die Autographen Friedrich von Logaus</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ulrich</namePart>
+  <namePart type="family">Seelbach</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">160975</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Linguistik und Literaturwissenschaft</namePart>
+  <identifier type="unibi">10019</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="seelbach_1990_logauautographen.pdf">https://pub.uni-bielefeld.de/download/1778538/2769082</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1990</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Daphnis</title></titleInfo>
+  <identifier type="issn">0300-693x</identifier><identifier type="urn">urn:nbn:de:0070-bipr-16121</identifier>
+<part><detail type="volume"><number>19</number></detail><extent unit="pages">267-292</extent>
+</part>
+</relatedItem>
+
+<note type="nonBielefeld">yes</note>
+<extension>
+<bibliographicCitation>
+<default>Seelbach U (1990) &lt;br /&gt;Daphnis 19: 267-292.</default>
+<wels>Seelbach, U. (1990): Die Autographen Friedrich von Logaus &lt;em&gt;Daphnis&lt;/em&gt;,19: 267-292.</wels>
+<aps>U.  Seelbach, Die Autographen Friedrich von Logaus, Daphnis &lt;strong&gt;19&lt;/strong&gt;, 267-292 (1990).</aps>
+<bio1>Seelbach U (1990) &lt;br /&gt;Die Autographen Friedrich von Logaus.&lt;br /&gt;Daphnis 19: 267-292.</bio1>
+<ama>Seelbach U. Die Autographen Friedrich von Logaus. &lt;em&gt;Daphnis&lt;/em&gt;. 1990;19:267-292.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Seelbach, U. (1990). Die Autographen Friedrich von Logaus. &lt;em&gt;Daphnis&lt;/em&gt;, &lt;em&gt;19&lt;/em&gt;, 267-292.&lt;/div&gt;</dgps>
+<harvard1>Seelbach, U., 1990. Die Autographen Friedrich von Logaus. &lt;em&gt;Daphnis&lt;/em&gt;, 19, p 267-292.</harvard1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Seelbach, Ulrich. 1990. “Die Autographen Friedrich von Logaus”. &lt;em&gt;Daphnis&lt;/em&gt; 19: 267-292.&lt;/div&gt;</chicago>
+<frontiers>Seelbach, U. (1990). Die Autographen Friedrich von Logaus. &lt;em&gt;Daphnis&lt;/em&gt; 19, 267-292.</frontiers>
+<angewandte-chemie>U.  Seelbach, “Die Autographen Friedrich von Logaus”, &lt;em&gt;Daphnis&lt;/em&gt;, &lt;strong&gt;1990&lt;/strong&gt;, &lt;em&gt;19&lt;/em&gt;, 267-292.</angewandte-chemie>
+<apa>Seelbach, U. (1990). Die Autographen Friedrich von Logaus. &lt;em&gt;Daphnis&lt;/em&gt;, &lt;em&gt;19&lt;/em&gt;, 267-292.</apa>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Seelbach, U. (1990). Die Autographen Friedrich von Logaus. &lt;em&gt;Daphnis&lt;/em&gt;, &lt;em&gt;19&lt;/em&gt;, 267-292.&lt;/div&gt;</apa_indent>
+<mla>Seelbach, Ulrich. “Die Autographen Friedrich von Logaus”. &lt;em&gt;Daphnis&lt;/em&gt; 19 (1990): 267-292.</mla>
+<lncs>Seelbach, U.: Die Autographen Friedrich von Logaus. Daphnis. 19, 267-292 (1990).</lncs>
+<ieee>U. Seelbach, “Die Autographen Friedrich von Logaus”, &lt;em&gt;Daphnis&lt;/em&gt;,  vol. 19, 1990,  pp. 267-292.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1778538</recordIdentifier><recordChangeDate encoding="w3cdtf">2015-08-20T08:57:47Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1778538</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1778538</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

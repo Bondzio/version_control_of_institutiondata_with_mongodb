@@ -1,0 +1,179 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Attosecond real-time observation of electron tunnelling in atoms</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">M.</namePart>
+  <namePart type="family">Uiberacker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Th.</namePart>
+  <namePart type="family">Uphues</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M.</namePart>
+  <namePart type="family">Schultze</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A. J.</namePart>
+  <namePart type="family">Verhoef</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">V.</namePart>
+  <namePart type="family">Yakovlev</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M. F.</namePart>
+  <namePart type="family">Kling</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J.</namePart>
+  <namePart type="family">Rauschenberger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Nikolay</namePart>
+  <namePart type="family">Kabachnik</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40146</identifier></name>
+<name type="personal">
+  <namePart type="given">H.</namePart>
+  <namePart type="family">Schroeder</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M.</namePart>
+  <namePart type="family">Lezius</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">K. L.</namePart>
+  <namePart type="family">Kompa</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">H. -G.</namePart>
+  <namePart type="family">Muller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M. J. J.</namePart>
+  <namePart type="family">Vrakking</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">S.</namePart>
+  <namePart type="family">Hendel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">U.</namePart>
+  <namePart type="family">Kleineberg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ulrich</namePart>
+  <namePart type="family">Heinzmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40276</identifier></name>
+<name type="personal">
+  <namePart type="given">Markus</namePart>
+  <namePart type="family">Drescher</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">5240380</identifier></name>
+<name type="personal">
+  <namePart type="given">F.</namePart>
+  <namePart type="family">Krausz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33079537</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">29133467</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2161137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Atoms exposed to intense light lose one or more electrons and become ions. In strong fields, the process is predicted to occur via tunnelling through the binding potential that is suppressed by the light field near the peaks of its oscillations. Here we report the real-time observation of this most elementary step in strong-field interactions: light-induced electron tunnelling. The process is found to deplete atomic bound states in sharp steps lasting several hundred attoseconds. This suggests a new technique, attosecond tunnelling, for probing short-lived, transient states of atoms or molecules with high temporal resolution. The utility of attosecond tunnelling is demonstrated by capturing multi-electron excitation (shake-up) and relaxation ( cascaded Auger decay) processes with subfemtosecond resolution.</abstract>
+
+<originInfo><publisher>NATURE PUBLISHING GROUP</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>NATURE</title></titleInfo>
+  <identifier type="issn">0028-0836</identifier>
+  <identifier type="eIssn">1476-4687</identifier>
+  <identifier type="MEDLINE">17410167</identifier>
+  <identifier type="ISI">000245438300031</identifier><identifier type="doi">10.1038/nature05648</identifier>
+<part><detail type="volume"><number>446</number></detail><detail type="issue"><number>7136</number></detail><extent unit="pages">627-632</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Uiberacker M, Uphues T, Schultze M, Verhoef AJ, Yakovlev V, Kling MF, Rauschenberger J, Kabachnik N, Schroeder H, Lezius M, Kompa KL, et al. (2007) &lt;br /&gt;NATURE 446(7136): 627-632.</default>
+<wels>Uiberacker, M.; Uphues, T.; Schultze, M.; Verhoef, A. J.; Yakovlev, V.; Kling, M. F.; Rauschenberger, J.; Kabachnik, N.; Schroeder, H.; Lezius, M.; Kompa, K. L.; Muller, H. - G.; Vrakking, M. J. J.; Hendel, S.; Kleineberg, U.; Heinzmann, U.; Drescher, M.; Krausz, F. (2007): Attosecond real-time observation of electron tunnelling in atoms &lt;em&gt;NATURE&lt;/em&gt;,446:(7136): 627-632.</wels>
+<aps> M.  Uiberacker, et al., Attosecond real-time observation of electron tunnelling in atoms, NATURE &lt;strong&gt;446&lt;/strong&gt;, 627-632 (2007).</aps>
+<bio1>Uiberacker M, Uphues T, Schultze M, Verhoef AJ, Yakovlev V, Kling MF, Rauschenberger J, Kabachnik N, Schroeder H, Lezius M, Kompa KL, Muller H-G, Vrakking MJJ, Hendel S, Kleineberg U, Heinzmann U, Drescher M, Krausz F (2007) &lt;br /&gt;Attosecond real-time observation of electron tunnelling in atoms.&lt;br /&gt;NATURE 446(7136): 627-632.</bio1>
+<ama>Uiberacker M, Uphues T, Schultze M, et al. Attosecond real-time observation of electron tunnelling in atoms. &lt;em&gt;NATURE&lt;/em&gt;. 2007;446(7136):627-632.</ama>
+<harvard1>Uiberacker, M., et al., 2007. Attosecond real-time observation of electron tunnelling in atoms. &lt;em&gt;NATURE&lt;/em&gt;, 446(7136), p 627-632.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Uiberacker, M., Uphues, T., Schultze, M., Verhoef, A.J., Yakovlev, V., Kling, M.F., Rauschenberger, J., Kabachnik, N., Schroeder, H., Lezius, M., Kompa, K.L., Muller, H.-G., Vrakking, M.J.J., Hendel, S., Kleineberg, U., Heinzmann, U., Drescher, M. &amp;amp; Krausz, F. (2007). Attosecond real-time observation of electron tunnelling in atoms. &lt;em&gt;NATURE&lt;/em&gt;, &lt;em&gt;446&lt;/em&gt;(7136), 627-632. NATURE PUBLISHING GROUP. doi:10.1038/nature05648.&lt;/div&gt;</dgps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Uiberacker, M., Uphues, Th., Schultze, M., Verhoef, A. J., Yakovlev, V., Kling, M. F., Rauschenberger, J., et al. 2007. “Attosecond real-time observation of electron tunnelling in atoms”. &lt;em&gt;NATURE&lt;/em&gt; 446 (7136): 627-632.&lt;/div&gt;</chicago>
+<frontiers>Uiberacker, M., Uphues, T., Schultze, M., Verhoef, A. J., Yakovlev, V., Kling, M. F., Rauschenberger, J., Kabachnik, N., Schroeder, H., Lezius, M., et al. (2007). Attosecond real-time observation of electron tunnelling in atoms. &lt;em&gt;NATURE&lt;/em&gt; 446, 627-632.</frontiers>
+<angewandte-chemie>M.  Uiberacker, T.  Uphues, M.  Schultze, A. J.  Verhoef, V.  Yakovlev, M. F.  Kling, J.  Rauschenberger, N.  Kabachnik, H.  Schroeder, M.  Lezius, et al., “Attosecond real-time observation of electron tunnelling in atoms”, &lt;em&gt;NATURE&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;446&lt;/em&gt;, 627-632.</angewandte-chemie>
+<apa>Uiberacker, M., Uphues, T., Schultze, M., Verhoef, A. J., Yakovlev, V., Kling, M. F., Rauschenberger, J., et al. (2007). Attosecond real-time observation of electron tunnelling in atoms. &lt;em&gt;NATURE&lt;/em&gt;, &lt;em&gt;446&lt;/em&gt;(7136), 627-632.</apa>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Uiberacker, M., Uphues, T., Schultze, M., Verhoef, A. J., Yakovlev, V., Kling, M. F., Rauschenberger, J., et al. (2007). Attosecond real-time observation of electron tunnelling in atoms. &lt;em&gt;NATURE&lt;/em&gt;, &lt;em&gt;446&lt;/em&gt;(7136), 627-632.&lt;/div&gt;</apa_indent>
+<mla>Uiberacker, M., Uphues, Th., Schultze, M., Verhoef, A. J., Yakovlev, V., Kling, M. F., Rauschenberger, J., Kabachnik, Nikolay, Schroeder, H., Lezius, M., Kompa, K. L., Muller, H. -G., Vrakking, M. J. J., Hendel, S., Kleineberg, U., Heinzmann, Ulrich, Drescher, Markus, and Krausz, F. “Attosecond real-time observation of electron tunnelling in atoms”. &lt;em&gt;NATURE&lt;/em&gt; 446.7136 (2007): 627-632.</mla>
+<lncs> Uiberacker, M., Uphues, T., Schultze, M., Verhoef, A.J., Yakovlev, V., Kling, M.F., Rauschenberger, J., Kabachnik, N., Schroeder, H., Lezius, M., Kompa, K.L., Muller, H.-G., Vrakking, M.J.J., Hendel, S., Kleineberg, U., Heinzmann, U., Drescher, M., Krausz, F.: Attosecond real-time observation of electron tunnelling in atoms. NATURE. 446, 627-632 (2007).</lncs>
+<ieee> M. Uiberacker, et al., “Attosecond real-time observation of electron tunnelling in atoms”, &lt;em&gt;NATURE&lt;/em&gt;,  vol. 446, 2007,  pp. 627-632.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1595083</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:33Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-19T08:17:49Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1595083</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1595083</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

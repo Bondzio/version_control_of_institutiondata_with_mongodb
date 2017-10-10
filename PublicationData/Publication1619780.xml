@@ -1,0 +1,131 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Field lysimeter investigation with luciferase-gene (luc)-tagged Sinorhizobium meliloti strains to evaluate the ecological significance of soil inoculation and a recA-mutation</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">F</namePart>
+  <namePart type="family">Schwieger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">T</namePart>
+  <namePart type="family">Dammann-Kalinowski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">U</namePart>
+  <namePart type="family">Dresing</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Werner</namePart>
+  <namePart type="family">Selbitschka</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">22010</identifier></name>
+<name type="personal">
+  <namePart type="given">JC</namePart>
+  <namePart type="family">Munch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alfred</namePart>
+  <namePart type="family">Pühler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21937</identifier></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Keller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">CC</namePart>
+  <namePart type="family">Tebbe</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Biologie</namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Centrum für Biotechnologie</namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The survival and vertical translocation of two isogenic, luciferase marker gene (luc)-tagged Sinorhizobum meliloti strains, L33 (RecA(+)) and L1 (RecA(-)) was studied under field conditions over a period of 2 years in a soil which was deficient in indigenous S, meliloti. Both strains were inoculated separately at the end of the growing season of 1994 onto replicate field lysimeters (diameter 32 cm) seeded with alfalfa (Medicago sativa). From an initial density of 10(6) cfu g(-1) soil in the A(p)-horizon (0-25 cm depth), populations of both strains declined during winter to 3 x 10(4) cfu g(-1) One year after the field release, a significantly increased titer of the RecA(+) strain was detected (P less than or equal to 0.05). Removal of the green parts of alfalfa from the lysimeters, 79 weeks after inoculation, resulted in a significant decline of the RecA- (2.3 x 10(3) cfu g(-1)) and a slight increase of the RecA(+) strain (9.0 x 10(3) cfu g(-1)). Throughout the whole monitoring period, marker gene-tagged cells were exclusively located in the A(p)-horizon and not below. No inoculated cells were detected in flow-through rain water (threshold of detection 10 cfu ml(-1)) even though each lysimeter was percolated with an average of 42.51 during this study. Single luciferase positive cells could be detected in the A(p)-horizons of non-inoculated lysimeters, which were located between the inoculated lysimeters using nodulation assays. Cultivation methods failed to detect these cells. The bioluminescent nodules were almost exclusively caused by strain L33 and not by L1, indicating that the RecA(-) strain was less competitive in alfalfa nodulation. Soil chemical properties and quantities of microbial populations, culturable on four different growth media, were not affected by the S. meliloti inoculations. This study demonstrates the usefulness of small scale lysimeter field releases to assess the performance and potential ecological effects of genetically modified bacterial inoculants, (C) 2000 Elsevier Science Ltd. All rights reserved.</abstract>
+
+<originInfo><publisher>PERGAMON-ELSEVIER SCIENCE LTD</publisher><dateIssued encoding="w3cdtf">2000</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>recA</topic><topic>luciferase marker-gene luc</topic><topic>field release</topic><topic>Sinorhizobium meliloti</topic><topic>gene</topic><topic>soil inoculation</topic><topic>lysimeter</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>SOIL BIOLOGY &amp; BIOCHEMISTRY</title></titleInfo>
+  <identifier type="issn">0038-0717</identifier>
+  <identifier type="ISI">000087495700013</identifier><identifier type="doi">10.1016/S0038-0717(99)00218-7</identifier>
+<part><detail type="volume"><number>32</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">859-868</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schwieger, F., Dammann-Kalinowski, T., Dresing, U., Selbitschka, W., Munch, J. C., Pühler, A., Keller, M., et al. (2000). Field lysimeter investigation with luciferase-gene (luc)-tagged Sinorhizobium meliloti strains to evaluate the ecological significance of soil inoculation and a recA-mutation. &lt;em&gt;SOIL BIOLOGY &amp;amp; BIOCHEMISTRY&lt;/em&gt;, &lt;em&gt;32&lt;/em&gt;(6), 859-868.&lt;/div&gt;</apa_indent>
+<mla>Schwieger, F, Dammann-Kalinowski, T, Dresing, U, Selbitschka, Werner, Munch, JC, Pühler, Alfred, Keller, M, and Tebbe, CC. “Field lysimeter investigation with luciferase-gene (luc)-tagged Sinorhizobium meliloti strains to evaluate the ecological significance of soil inoculation and a recA-mutation”. &lt;em&gt;SOIL BIOLOGY &amp;amp; BIOCHEMISTRY&lt;/em&gt; 32.6 (2000): 859-868.</mla>
+<lncs>Schwieger, F., Dammann-Kalinowski, T., Dresing, U., Selbitschka, W., Munch, J.C., Pühler, A., Keller, M., Tebbe, C.C.: Field lysimeter investigation with luciferase-gene (luc)-tagged Sinorhizobium meliloti strains to evaluate the ecological significance of soil inoculation and a recA-mutation. SOIL BIOLOGY &amp;amp; BIOCHEMISTRY. 32, 859-868 (2000).</lncs>
+<ieee>F. Schwieger, et al., “Field lysimeter investigation with luciferase-gene (luc)-tagged Sinorhizobium meliloti strains to evaluate the ecological significance of soil inoculation and a recA-mutation”, &lt;em&gt;SOIL BIOLOGY &amp;amp; BIOCHEMISTRY&lt;/em&gt;,  vol. 32, 2000,  pp. 859-868.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schwieger, F, Dammann-Kalinowski, T, Dresing, U, Selbitschka, Werner, Munch, JC, Pühler, Alfred, Keller, M, and Tebbe, CC. 2000. “Field lysimeter investigation with luciferase-gene (luc)-tagged Sinorhizobium meliloti strains to evaluate the ecological significance of soil inoculation and a recA-mutation”. &lt;em&gt;SOIL BIOLOGY &amp;amp; BIOCHEMISTRY&lt;/em&gt; 32 (6): 859-868.&lt;/div&gt;</chicago>
+<frontiers>Schwieger, F., Dammann-Kalinowski, T., Dresing, U., Selbitschka, W., Munch, J. C., Pühler, A., Keller, M., and Tebbe, C. C. (2000). Field lysimeter investigation with luciferase-gene (luc)-tagged Sinorhizobium meliloti strains to evaluate the ecological significance of soil inoculation and a recA-mutation. &lt;em&gt;SOIL BIOLOGY &amp;amp; BIOCHEMISTRY&lt;/em&gt; 32, 859-868.</frontiers>
+<angewandte-chemie>F.  Schwieger, T.  Dammann-Kalinowski, U.  Dresing, W.  Selbitschka, J. C.  Munch, A.  Pühler, M.  Keller, and C. C.  Tebbe, “Field lysimeter investigation with luciferase-gene (luc)-tagged Sinorhizobium meliloti strains to evaluate the ecological significance of soil inoculation and a recA-mutation”, &lt;em&gt;SOIL BIOLOGY &amp;amp; BIOCHEMISTRY&lt;/em&gt;, &lt;strong&gt;2000&lt;/strong&gt;, &lt;em&gt;32&lt;/em&gt;, 859-868.</angewandte-chemie>
+<apa>Schwieger, F., Dammann-Kalinowski, T., Dresing, U., Selbitschka, W., Munch, J. C., Pühler, A., Keller, M., et al. (2000). Field lysimeter investigation with luciferase-gene (luc)-tagged Sinorhizobium meliloti strains to evaluate the ecological significance of soil inoculation and a recA-mutation. &lt;em&gt;SOIL BIOLOGY &amp;amp; BIOCHEMISTRY&lt;/em&gt;, &lt;em&gt;32&lt;/em&gt;(6), 859-868.</apa>
+<aps>F.  Schwieger, et al., Field lysimeter investigation with luciferase-gene (luc)-tagged Sinorhizobium meliloti strains to evaluate the ecological significance of soil inoculation and a recA-mutation, SOIL BIOLOGY &amp;amp; BIOCHEMISTRY &lt;strong&gt;32&lt;/strong&gt;, 859-868 (2000).</aps>
+<bio1>Schwieger F, Dammann-Kalinowski T, Dresing U, Selbitschka W, Munch JC, Pühler A, Keller M, Tebbe CC (2000) &lt;br /&gt;Field lysimeter investigation with luciferase-gene (luc)-tagged Sinorhizobium meliloti strains to evaluate the ecological significance of soil inoculation and a recA-mutation.&lt;br /&gt;SOIL BIOLOGY &amp;amp; BIOCHEMISTRY 32(6): 859-868.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schwieger, F., Dammann-Kalinowski, T., Dresing, U., Selbitschka, W., Munch, J.C., Pühler, A., Keller, M. &amp;amp; Tebbe, C.C. (2000). Field lysimeter investigation with luciferase-gene (luc)-tagged Sinorhizobium meliloti strains to evaluate the ecological significance of soil inoculation and a recA-mutation. &lt;em&gt;SOIL BIOLOGY &amp;amp; BIOCHEMISTRY&lt;/em&gt;, &lt;em&gt;32&lt;/em&gt;(6), 859-868. PERGAMON-ELSEVIER SCIENCE LTD. doi:10.1016/S0038-0717(99)00218-7.&lt;/div&gt;</dgps>
+<ama>Schwieger F, Dammann-Kalinowski T, Dresing U, et al. Field lysimeter investigation with luciferase-gene (luc)-tagged Sinorhizobium meliloti strains to evaluate the ecological significance of soil inoculation and a recA-mutation. &lt;em&gt;SOIL BIOLOGY &amp;amp; BIOCHEMISTRY&lt;/em&gt;. 2000;32(6):859-868.</ama>
+<harvard1>Schwieger, F., et al., 2000. Field lysimeter investigation with luciferase-gene (luc)-tagged Sinorhizobium meliloti strains to evaluate the ecological significance of soil inoculation and a recA-mutation. &lt;em&gt;SOIL BIOLOGY &amp;amp; BIOCHEMISTRY&lt;/em&gt;, 32(6), p 859-868.</harvard1>
+<default>Schwieger F, Dammann-Kalinowski T, Dresing U, Selbitschka W, Munch JC, Pühler A, Keller M, Tebbe CC (2000) &lt;br /&gt;SOIL BIOLOGY &amp;amp; BIOCHEMISTRY 32(6): 859-868.</default>
+<wels>Schwieger, F.; Dammann-Kalinowski, T.; Dresing, U.; Selbitschka, W.; Munch, J. C.; Pühler, A.; Keller, M.; Tebbe, C. C. (2000): Field lysimeter investigation with luciferase-gene (luc)-tagged Sinorhizobium meliloti strains to evaluate the ecological significance of soil inoculation and a recA-mutation &lt;em&gt;SOIL BIOLOGY &amp;amp; BIOCHEMISTRY&lt;/em&gt;,32:(6): 859-868.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1619780</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:04:32Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-11-08T15:25:11Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1619780</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1619780</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

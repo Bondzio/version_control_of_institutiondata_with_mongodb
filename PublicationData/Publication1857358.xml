@@ -1,0 +1,99 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book</genre>
+
+<titleInfo><title>Moralizing the Corporation: Transnational Activism and Corporate Accountability</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Boris</namePart>
+  <namePart type="family">Holzer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">14852973</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">89044</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">5656050</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Elgar</publisher><dateIssued encoding="w3cdtf">2010</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host">
+  <identifier type="isbn">1-8484-4759-0</identifier>
+  <identifier type="isbn">978-1-84844-759-2</identifier>
+<part><extent unit="pages">172</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>Holzer B (2010) &lt;br /&gt;&lt;em&gt;Moralizing the Corporation: Transnational Activism and Corporate Accountability&lt;/em&gt;.&lt;br /&gt;Cheltenham, UK: Elgar.</bio1>
+<aps>B.  Holzer, Moralizing the Corporation: Transnational Activism and Corporate Accountability, (Elgar, Cheltenham, Uk, 2010).</aps>
+<ama>Holzer B. &lt;em&gt;Moralizing the Corporation: Transnational Activism and Corporate Accountability&lt;/em&gt;. Cheltenham, UK: Elgar; 2010.</ama>
+<harvard1>Holzer, B., 2010. &lt;em&gt;Moralizing the Corporation: Transnational Activism and Corporate Accountability&lt;/em&gt;, Cheltenham, UK: Elgar.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Holzer, B. (2010). &lt;em&gt;Moralizing the Corporation: Transnational Activism and Corporate Accountability&lt;/em&gt;. Cheltenham, UK: Elgar.&lt;/div&gt;</dgps>
+<default>Holzer B (2010) &lt;br /&gt;Cheltenham, UK: Elgar.</default>
+<wels>Holzer, B. (2010): Moralizing the Corporation: Transnational Activism and Corporate Accountability. Cheltenham, UK: Elgar.</wels>
+<lncs>Holzer, B.: Moralizing the Corporation: Transnational Activism and Corporate Accountability. Elgar, Cheltenham, UK (2010).</lncs>
+<mla>Holzer, Boris. &lt;em&gt;Moralizing the Corporation: Transnational Activism and Corporate Accountability&lt;/em&gt;. Cheltenham, UK: Elgar, 2010.</mla>
+<ieee>B. Holzer, &lt;em&gt;Moralizing the Corporation: Transnational Activism and Corporate Accountability&lt;/em&gt;,  Cheltenham, UK: Elgar, 2010.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Holzer, B. (2010).  &lt;em&gt;Moralizing the Corporation: Transnational Activism and Corporate Accountability&lt;/em&gt;. Cheltenham, UK: Elgar.&lt;/div&gt;</apa_indent>
+<frontiers>Holzer, B. (2010). Moralizing the Corporation: Transnational Activism and Corporate Accountability. Cheltenham, UK: Elgar.</frontiers>
+<apa>Holzer, B. (2010).  &lt;em&gt;Moralizing the Corporation: Transnational Activism and Corporate Accountability&lt;/em&gt;. Cheltenham, UK: Elgar.</apa>
+<angewandte-chemie>B.  Holzer, &lt;em&gt;Moralizing the Corporation: Transnational Activism and Corporate Accountability&lt;/em&gt;, Elgar, Cheltenham, UK, &lt;strong&gt;2010&lt;/strong&gt;.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Holzer, Boris. 2010. &lt;em&gt;Moralizing the Corporation: Transnational Activism and Corporate Accountability&lt;/em&gt;. Cheltenham, UK: Elgar.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1857358</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-01-26T13:07:18Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-01-26T13:07:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1857358</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1857358</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

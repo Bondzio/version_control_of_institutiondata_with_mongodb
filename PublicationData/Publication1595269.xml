@@ -1,0 +1,99 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Modeling human activity in the spirit of Barabasi&apos;s queueing systems</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Philippe</namePart>
+  <namePart type="family">Blanchard</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40322</identifier></name>
+<name type="personal">
+  <namePart type="given">M. -O.</namePart>
+  <namePart type="family">Hongler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">29104678</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Barabasi has shown that the priority-based scheduling rules in single-stage queuing systems (QS) generate fat tail behavior for the task waiting time distributions (WTD). These fat tails are induced by the waiting times of very low priority tasks that stay unserved almost forever as the task priority indices are &quot;frozen in time&quot; (i.e., a task priority is assigned once for all to each incoming task). Here, we study the new dynamic behavior expected when the priority of each incoming task is time-dependent (i.e., &quot;aging mechanisms&quot; are allowed). For two classes of models, namely a population-type model with an age structure and a QS with deadlines assigned to the incoming tasks, which is operated under the &quot;earliest-deadline-first&quot; policy, we are able to extract analytically some relevant characteristics of the task waiting time distribution. As the aging mechanism ultimately assigns high priority to any long waiting tasks, fat tails in the WTD cannot find their origin in the scheduling rule alone, thus showing a fundamental difference between our approach and Barabasi&apos;s class of models.</abstract>
+
+<originInfo><publisher>AMERICAN PHYSICAL SOC</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Phys. Rev. E</title></titleInfo>
+  <identifier type="issn">1539-3755</identifier>
+  <identifier type="eIssn">1550-2376</identifier>
+  <identifier type="MEDLINE">17358389</identifier>
+  <identifier type="ISI">000244532000005</identifier><identifier type="doi">10.1103/PhysRevE.75.026102</identifier>
+<part><detail type="volume"><number>75</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">026102</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Blanchard, P., &amp;amp; Hongler, M. - O. (2007). Modeling human activity in the spirit of Barabasi&apos;s queueing systems. &lt;em&gt;Phys. Rev. E&lt;/em&gt;, &lt;em&gt;75&lt;/em&gt;(2).&lt;/div&gt;</apa_indent>
+<mla>Blanchard, Philippe, and Hongler, M. -O. “Modeling human activity in the spirit of Barabasi&apos;s queueing systems”. &lt;em&gt;Phys. Rev. E&lt;/em&gt; 75.2 (2007).</mla>
+<lncs>Blanchard, P., Hongler, M.-O.: Modeling human activity in the spirit of Barabasi&apos;s queueing systems. Phys. Rev. E. 75, (2007).</lncs>
+<ieee>P. Blanchard and M.-O. Hongler, “Modeling human activity in the spirit of Barabasi&apos;s queueing systems”, &lt;em&gt;Phys. Rev. E&lt;/em&gt;,  vol. 75, 2007.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Blanchard, Philippe, and Hongler, M. -O. 2007. “Modeling human activity in the spirit of Barabasi&apos;s queueing systems”. &lt;em&gt;Phys. Rev. E&lt;/em&gt; 75 (2).&lt;/div&gt;</chicago>
+<frontiers>Blanchard, P., and Hongler, M. - O. (2007). Modeling human activity in the spirit of Barabasi&apos;s queueing systems. &lt;em&gt;Phys. Rev. E&lt;/em&gt; 75.</frontiers>
+<angewandte-chemie>P.  Blanchard, and M. - O.  Hongler, “Modeling human activity in the spirit of Barabasi&apos;s queueing systems”, &lt;em&gt;Phys. Rev. E&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;75&lt;/em&gt;.</angewandte-chemie>
+<apa>Blanchard, P., &amp;amp; Hongler, M. - O. (2007). Modeling human activity in the spirit of Barabasi&apos;s queueing systems. &lt;em&gt;Phys. Rev. E&lt;/em&gt;, &lt;em&gt;75&lt;/em&gt;(2).</apa>
+<aps>P.  Blanchard and M. - O.  Hongler, Modeling human activity in the spirit of Barabasi&apos;s queueing systems, Phys. Rev. E &lt;strong&gt;75&lt;/strong&gt;, (2007).</aps>
+<bio1>Blanchard P, Hongler M-O (2007) &lt;br /&gt;Modeling human activity in the spirit of Barabasi&apos;s queueing systems.&lt;br /&gt;Phys. Rev. E 75(2).</bio1>
+<ama>Blanchard P, Hongler M-O. Modeling human activity in the spirit of Barabasi&apos;s queueing systems. &lt;em&gt;Phys. Rev. E&lt;/em&gt;. 2007;75(2).</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Blanchard, P. &amp;amp; Hongler, M.-O. (2007). Modeling human activity in the spirit of Barabasi&apos;s queueing systems. &lt;em&gt;Phys. Rev. E&lt;/em&gt;, &lt;em&gt;75&lt;/em&gt;(2). AMERICAN PHYSICAL SOC. doi:10.1103/PhysRevE.75.026102.&lt;/div&gt;</dgps>
+<harvard1>Blanchard, P., &amp;amp; Hongler, M.-O., 2007. Modeling human activity in the spirit of Barabasi&apos;s queueing systems. &lt;em&gt;Phys. Rev. E&lt;/em&gt;, 75(2).</harvard1>
+<default>Blanchard P, Hongler M-O (2007) &lt;br /&gt;Phys. Rev. E 75(2).</default>
+<wels>Blanchard, P.; Hongler, M. - O. (2007): Modeling human activity in the spirit of Barabasi&apos;s queueing systems &lt;em&gt;Phys. Rev. E&lt;/em&gt;,75:(2)</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1595269</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:37Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-01-18T14:01:14Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1595269</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1595269</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

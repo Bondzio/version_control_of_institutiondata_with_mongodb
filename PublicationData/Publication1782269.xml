@@ -1,0 +1,99 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Wissensbasierte Interpretation kranialer MR-Bilder</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Wido</namePart>
+  <namePart type="family">Menhardt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Karl-Heinrich</namePart>
+  <namePart type="family">Schmidt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">41758</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Technische Fakultät</namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT3081.pdf">https://pub.uni-bielefeld.de/download/1782269/2313774</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Philips</publisher><dateIssued encoding="w3cdtf">1988</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Unsere Forschung in Deutschland</title></titleInfo><identifier type="urn">urn:nbn:de:0070-bipr-30813</identifier>
+<part><detail type="volume"><number>vol. 4</number></detail><extent unit="pages">37-43</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Menhardt, W.; Schmidt, K. - H. (1988): Wissensbasierte Interpretation kranialer MR-Bilder. In: Unsere Forschung in Deutschland. Aachen ; Hamburg: Philips. (vol. 4).  S. 37-43.</wels>
+<default>Menhardt W, Schmidt K-H (1988)  &lt;br /&gt;In:  Unsere Forschung in Deutschland. vol. 4. Aachen ; Hamburg: Philips:  37-43.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Menhardt, W. &amp;amp; Schmidt, K.-H. (1988). Wissensbasierte Interpretation kranialer MR-Bilder. &lt;em&gt;Unsere Forschung in Deutschland&lt;/em&gt; (S. 37-43). Aachen ; Hamburg: Philips.&lt;/div&gt;</dgps>
+<ama>Menhardt W, Schmidt K-H. Wissensbasierte Interpretation kranialer MR-Bilder. In:  &lt;em&gt;Unsere Forschung in Deutschland&lt;/em&gt;. Vol vol. 4. Aachen ; Hamburg: Philips;  1988: 37-43.</ama>
+<harvard1>Menhardt, W., &amp;amp; Schmidt, K.-H., 1988. Wissensbasierte Interpretation kranialer MR-Bilder. In &lt;em&gt;Unsere Forschung in Deutschland&lt;/em&gt;. no.vol. 4  Aachen ; Hamburg: Philips, pp. 37-43.</harvard1>
+<bio1>Menhardt W, Schmidt K-H (1988) &lt;br /&gt;Wissensbasierte Interpretation kranialer MR-Bilder. &lt;br /&gt;In:  Unsere Forschung in Deutschland. vol. 4. Aachen ; Hamburg: Philips:  37-43.</bio1>
+<aps>W.  Menhardt and K. - H.  Schmidt, Wissensbasierte Interpretation kranialer MR-Bilder, in &lt;em&gt;Unsere Forschung in Deutschland&lt;/em&gt;, &lt;strong&gt;vol. 4&lt;/strong&gt; (Philips, Aachen ; Hamburg, 1988), p. 37-43.</aps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Menhardt, Wido, and Schmidt, Karl-Heinrich. 1988. “Wissensbasierte Interpretation kranialer MR-Bilder”. In &lt;em&gt;Unsere Forschung in Deutschland&lt;/em&gt;, vol. 4:37-43. Aachen ; Hamburg: Philips.&lt;/div&gt;</chicago>
+<apa>Menhardt, W., &amp;amp; Schmidt, K. - H. (1988). Wissensbasierte Interpretation kranialer MR-Bilder. &lt;em&gt;Unsere Forschung in Deutschland&lt;/em&gt;, &lt;em&gt;vol. 4&lt;/em&gt;, 37-43.</apa>
+<angewandte-chemie>W.  Menhardt, and K. - H.  Schmidt, in &lt;em&gt;Unsere Forschung in Deutschland&lt;/em&gt;, Philips, Aachen ; Hamburg, &lt;strong&gt;1988&lt;/strong&gt;, p. 37-43.</angewandte-chemie>
+<frontiers>Menhardt, W., and Schmidt, K. - H. (1988). “Wissensbasierte Interpretation kranialer MR-Bilder” in &lt;em&gt;Unsere Forschung in Deutschland&lt;/em&gt;, vol. vol. 4, (Aachen ; Hamburg: Philips), 37-43.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Menhardt, W., &amp;amp; Schmidt, K. - H. (1988). Wissensbasierte Interpretation kranialer MR-Bilder. &lt;em&gt;Unsere Forschung in Deutschland&lt;/em&gt;, &lt;em&gt;vol. 4&lt;/em&gt;, 37-43.&lt;/div&gt;</apa_indent>
+<ieee>W. Menhardt and K.-H. Schmidt, “Wissensbasierte Interpretation kranialer MR-Bilder”, &lt;em&gt;Unsere Forschung in Deutschland&lt;/em&gt;, vol. vol. 4,  Aachen ; Hamburg: Philips, 1988,  pp.37-43.</ieee>
+<mla>Menhardt, Wido, and Schmidt, Karl-Heinrich. “Wissensbasierte Interpretation kranialer MR-Bilder”. &lt;em&gt;Unsere Forschung in Deutschland&lt;/em&gt;. Aachen ; Hamburg: Philips, 1988.Vol. vol. 4. 37-43.</mla>
+<lncs>Menhardt, W., Schmidt, K.-H.: Wissensbasierte Interpretation kranialer MR-Bilder. Unsere Forschung in Deutschland. vol. 4, p. 37-43. Philips, Aachen ; Hamburg (1988).</lncs>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1782269</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1782269</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1782269</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

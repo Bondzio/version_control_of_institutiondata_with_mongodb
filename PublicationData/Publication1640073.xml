@@ -1,0 +1,145 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>MO/SI MULTILAYER-COATED RULED BLAZED GRATINGS FOR THE SOFT-X-RAY REGION</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">U</namePart>
+  <namePart type="family">KLEINEBERG</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">K</namePart>
+  <namePart type="family">OSTERRIED</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">HJ</namePart>
+  <namePart type="family">STOCK</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">D</namePart>
+  <namePart type="family">MENKE</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">B</namePart>
+  <namePart type="family">SCHMIEDESKAMP</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">D</namePart>
+  <namePart type="family">FUCH</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">P</namePart>
+  <namePart type="family">MULLER</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">F</namePart>
+  <namePart type="family">SCHOLZE</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">KF</namePart>
+  <namePart type="family">HEIDEMANN</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">B</namePart>
+  <namePart type="family">NELLES</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ulrich</namePart>
+  <namePart type="family">Heinzmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40276</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Lehrstuhl für Molekül- und Oberflächenphysik</namePart>
+  <identifier type="unibi">29133467</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Centrum für Biotechnologie</namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Two Mo/Si multilayer-coated blazed gratings have been fabricated for operation at soft-x-ray wavelengths above the SiL edge, lambda 12.4 nm, at (near) normal incidence. The sawtooth profile of the grating structure was mechanically ruled into a 200-nm Au film that was deposited onto a plane glass substrate. To smooth the rough Au surface and to prevent interdiffusion of the Au film with the upper Mo/Si multilayer, a carbon film was evaporated onto the Au grating surface of one of the grating before the deposition of the multilayer coating. We matched the multilayer grating, working on blaze in the third diffraction order, in which an absolute diffraction efficiency of 3.4% at a wavelength of 14 nm was measured, whereas only 1.1% was achieved for a similar grating (without a carbon interlayer). These efficiencies are higher than those obtained for other ruled blazed gratings reported in the literature. As a result of the multilayer and grating periodicity, the wavelength of diffraction can be tuned by a rotation of the grating, which is important for application in a soft-x-ray monochromator.</abstract>
+
+<originInfo><publisher>OPTICAL SOC AMER</publisher><dateIssued encoding="w3cdtf">1995</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>MULTILAYER COATING</topic><topic>DIFFRACTION GRATING</topic><topic>SOFT-X-RAY RADIATION</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>APPLIED OPTICS</title></titleInfo>
+  <identifier type="issn">0003-6935</identifier>
+  <identifier type="eIssn">1539-4522</identifier>
+  <identifier type="MEDLINE">21060502</identifier>
+  <identifier type="ISI">A1995RW22700027</identifier><identifier type="doi">10.1364/AO.34.006506</identifier>
+<part><detail type="volume"><number>34</number></detail><detail type="issue"><number>28</number></detail><extent unit="pages">6506-6512</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>KLEINEBERG U, OSTERRIED K, STOCK HJ, MENKE D, SCHMIEDESKAMP B, FUCH D, MULLER P, SCHOLZE F, HEIDEMANN KF, NELLES B, Heinzmann U (1995) &lt;br /&gt;APPLIED OPTICS 34(28): 6506-6512.</default>
+<wels>KLEINEBERG, U.; OSTERRIED, K.; STOCK, H. J.; MENKE, D.; SCHMIEDESKAMP, B.; FUCH, D.; MULLER, P.; SCHOLZE, F.; HEIDEMANN, K. F.; NELLES, B.; Heinzmann, U. (1995): MO/SI MULTILAYER-COATED RULED BLAZED GRATINGS FOR THE SOFT-X-RAY REGION &lt;em&gt;APPLIED OPTICS&lt;/em&gt;,34:(28): 6506-6512.</wels>
+<bio1>KLEINEBERG U, OSTERRIED K, STOCK HJ, MENKE D, SCHMIEDESKAMP B, FUCH D, MULLER P, SCHOLZE F, HEIDEMANN KF, NELLES B, Heinzmann U (1995) &lt;br /&gt;MO/SI MULTILAYER-COATED RULED BLAZED GRATINGS FOR THE SOFT-X-RAY REGION.&lt;br /&gt;APPLIED OPTICS 34(28): 6506-6512.</bio1>
+<aps>U.  KLEINEBERG, et al., MO/SI MULTILAYER-COATED RULED BLAZED GRATINGS FOR THE SOFT-X-RAY REGION, APPLIED OPTICS &lt;strong&gt;34&lt;/strong&gt;, 6506-6512 (1995).</aps>
+<harvard1>KLEINEBERG, U., et al., 1995. MO/SI MULTILAYER-COATED RULED BLAZED GRATINGS FOR THE SOFT-X-RAY REGION. &lt;em&gt;APPLIED OPTICS&lt;/em&gt;, 34(28), p 6506-6512.</harvard1>
+<ama>KLEINEBERG U, OSTERRIED K, STOCK HJ, et al. MO/SI MULTILAYER-COATED RULED BLAZED GRATINGS FOR THE SOFT-X-RAY REGION. &lt;em&gt;APPLIED OPTICS&lt;/em&gt;. 1995;34(28):6506-6512.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;KLEINEBERG, U., OSTERRIED, K., STOCK, H.J., MENKE, D., SCHMIEDESKAMP, B., FUCH, D., MULLER, P., SCHOLZE, F., HEIDEMANN, K.F., NELLES, B. &amp;amp; Heinzmann, U. (1995). MO/SI MULTILAYER-COATED RULED BLAZED GRATINGS FOR THE SOFT-X-RAY REGION. &lt;em&gt;APPLIED OPTICS&lt;/em&gt;, &lt;em&gt;34&lt;/em&gt;(28), 6506-6512. OPTICAL SOC AMER. doi:10.1364/AO.34.006506.&lt;/div&gt;</dgps>
+<frontiers>KLEINEBERG, U., OSTERRIED, K., STOCK, H. J., MENKE, D., SCHMIEDESKAMP, B., FUCH, D., MULLER, P., SCHOLZE, F., HEIDEMANN, K. F., NELLES, B., et al. (1995). MO/SI MULTILAYER-COATED RULED BLAZED GRATINGS FOR THE SOFT-X-RAY REGION. &lt;em&gt;APPLIED OPTICS&lt;/em&gt; 34, 6506-6512.</frontiers>
+<apa>KLEINEBERG, U., OSTERRIED, K., STOCK, H. J., MENKE, D., SCHMIEDESKAMP, B., FUCH, D., MULLER, P., et al. (1995). MO/SI MULTILAYER-COATED RULED BLAZED GRATINGS FOR THE SOFT-X-RAY REGION. &lt;em&gt;APPLIED OPTICS&lt;/em&gt;, &lt;em&gt;34&lt;/em&gt;(28), 6506-6512.</apa>
+<angewandte-chemie>U.  KLEINEBERG, K.  OSTERRIED, H. J.  STOCK, D.  MENKE, B.  SCHMIEDESKAMP, D.  FUCH, P.  MULLER, F.  SCHOLZE, K. F.  HEIDEMANN, B.  NELLES, et al., “MO/SI MULTILAYER-COATED RULED BLAZED GRATINGS FOR THE SOFT-X-RAY REGION”, &lt;em&gt;APPLIED OPTICS&lt;/em&gt;, &lt;strong&gt;1995&lt;/strong&gt;, &lt;em&gt;34&lt;/em&gt;, 6506-6512.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;KLEINEBERG, U, OSTERRIED, K, STOCK, HJ, MENKE, D, SCHMIEDESKAMP, B, FUCH, D, MULLER, P, et al. 1995. “MO/SI MULTILAYER-COATED RULED BLAZED GRATINGS FOR THE SOFT-X-RAY REGION”. &lt;em&gt;APPLIED OPTICS&lt;/em&gt; 34 (28): 6506-6512.&lt;/div&gt;</chicago>
+<lncs>KLEINEBERG, U., OSTERRIED, K., STOCK, H.J., MENKE, D., SCHMIEDESKAMP, B., FUCH, D., MULLER, P., SCHOLZE, F., HEIDEMANN, K.F., NELLES, B., Heinzmann, U.: MO/SI MULTILAYER-COATED RULED BLAZED GRATINGS FOR THE SOFT-X-RAY REGION. APPLIED OPTICS. 34, 6506-6512 (1995).</lncs>
+<mla>KLEINEBERG, U, OSTERRIED, K, STOCK, HJ, MENKE, D, SCHMIEDESKAMP, B, FUCH, D, MULLER, P, SCHOLZE, F, HEIDEMANN, KF, NELLES, B, and Heinzmann, Ulrich. “MO/SI MULTILAYER-COATED RULED BLAZED GRATINGS FOR THE SOFT-X-RAY REGION”. &lt;em&gt;APPLIED OPTICS&lt;/em&gt; 34.28 (1995): 6506-6512.</mla>
+<ieee>U. KLEINEBERG, et al., “MO/SI MULTILAYER-COATED RULED BLAZED GRATINGS FOR THE SOFT-X-RAY REGION”, &lt;em&gt;APPLIED OPTICS&lt;/em&gt;,  vol. 34, 1995,  pp. 6506-6512.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;KLEINEBERG, U., OSTERRIED, K., STOCK, H. J., MENKE, D., SCHMIEDESKAMP, B., FUCH, D., MULLER, P., et al. (1995). MO/SI MULTILAYER-COATED RULED BLAZED GRATINGS FOR THE SOFT-X-RAY REGION. &lt;em&gt;APPLIED OPTICS&lt;/em&gt;, &lt;em&gt;34&lt;/em&gt;(28), 6506-6512.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1640073</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:15:41Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-13T09:01:28Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1640073</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1640073</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

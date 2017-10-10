@@ -1,0 +1,114 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>When dry air is too humid</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Thomas</namePart>
+  <namePart type="family">Peter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Claudia</namePart>
+  <namePart type="family">Marcolli</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Peter</namePart>
+  <namePart type="family">Spichtinger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Thierry</namePart>
+  <namePart type="family">Corti</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Marcia B.</namePart>
+  <namePart type="family">Baker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Thomas</namePart>
+  <namePart type="family">Koop</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">104033</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-7571-3684</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Physikalische Chemie II</namePart>
+  <identifier type="unibi">17980</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>AMER ASSOC ADVANCEMENT SCIENCE</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>SCIENCE</title></titleInfo>
+  <identifier type="issn">0036-8075</identifier>
+  <identifier type="eIssn">1095-9203</identifier>
+  <identifier type="MEDLINE">17138887</identifier>
+  <identifier type="ISI">000242406100022</identifier><identifier type="doi">10.1126/science.1135199</identifier>
+<part><detail type="volume"><number>314</number></detail><detail type="issue"><number>5804</number></detail><extent unit="pages">1399-1402</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Peter, T., Marcolli, C., Spichtinger, P., Corti, T., Baker, M. B., and Koop, T. (2006). When dry air is too humid. &lt;em&gt;SCIENCE&lt;/em&gt; 314, 1399-1402.</frontiers>
+<angewandte-chemie>T.  Peter, C.  Marcolli, P.  Spichtinger, T.  Corti, M. B.  Baker, and T.  Koop, “When dry air is too humid”, &lt;em&gt;SCIENCE&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;314&lt;/em&gt;, 1399-1402.</angewandte-chemie>
+<apa>Peter, T., Marcolli, C., Spichtinger, P., Corti, T., Baker, M. B., &amp;amp; Koop, T. (2006). When dry air is too humid. &lt;em&gt;SCIENCE&lt;/em&gt;, &lt;em&gt;314&lt;/em&gt;(5804), 1399-1402.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Peter, Thomas, Marcolli, Claudia, Spichtinger, Peter, Corti, Thierry, Baker, Marcia B., and Koop, Thomas. 2006. “When dry air is too humid”. &lt;em&gt;SCIENCE&lt;/em&gt; 314 (5804): 1399-1402.&lt;/div&gt;</chicago>
+<lncs>Peter, T., Marcolli, C., Spichtinger, P., Corti, T., Baker, M.B., Koop, T.: When dry air is too humid. SCIENCE. 314, 1399-1402 (2006).</lncs>
+<mla>Peter, Thomas, Marcolli, Claudia, Spichtinger, Peter, Corti, Thierry, Baker, Marcia B., and Koop, Thomas. “When dry air is too humid”. &lt;em&gt;SCIENCE&lt;/em&gt; 314.5804 (2006): 1399-1402.</mla>
+<ieee>T. Peter, et al., “When dry air is too humid”, &lt;em&gt;SCIENCE&lt;/em&gt;,  vol. 314, 2006,  pp. 1399-1402.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Peter, T., Marcolli, C., Spichtinger, P., Corti, T., Baker, M. B., &amp;amp; Koop, T. (2006). When dry air is too humid. &lt;em&gt;SCIENCE&lt;/em&gt;, &lt;em&gt;314&lt;/em&gt;(5804), 1399-1402.&lt;/div&gt;</apa_indent>
+<default>Peter T, Marcolli C, Spichtinger P, Corti T, Baker MB, Koop T (2006) &lt;br /&gt;SCIENCE 314(5804): 1399-1402.</default>
+<wels>Peter, T.; Marcolli, C.; Spichtinger, P.; Corti, T.; Baker, M. B.; Koop, T. (2006): When dry air is too humid &lt;em&gt;SCIENCE&lt;/em&gt;,314:(5804): 1399-1402.</wels>
+<bio1>Peter T, Marcolli C, Spichtinger P, Corti T, Baker MB, Koop T (2006) &lt;br /&gt;When dry air is too humid.&lt;br /&gt;SCIENCE 314(5804): 1399-1402.</bio1>
+<aps>T.  Peter, et al., When dry air is too humid, SCIENCE &lt;strong&gt;314&lt;/strong&gt;, 1399-1402 (2006).</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Peter, T., Marcolli, C., Spichtinger, P., Corti, T., Baker, M.B. &amp;amp; Koop, T. (2006). When dry air is too humid. &lt;em&gt;SCIENCE&lt;/em&gt;, &lt;em&gt;314&lt;/em&gt;(5804), 1399-1402. AMER ASSOC ADVANCEMENT SCIENCE. doi:10.1126/science.1135199.&lt;/div&gt;</dgps>
+<ama>Peter T, Marcolli C, Spichtinger P, Corti T, Baker MB, Koop T. When dry air is too humid. &lt;em&gt;SCIENCE&lt;/em&gt;. 2006;314(5804):1399-1402.</ama>
+<harvard1>Peter, T., et al., 2006. When dry air is too humid. &lt;em&gt;SCIENCE&lt;/em&gt;, 314(5804), p 1399-1402.</harvard1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1596965</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:18:37Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-10-02T17:00:51Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1596965</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1596965</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

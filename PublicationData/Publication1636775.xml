@@ -1,0 +1,97 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Models of multi-user write-efficient memories and general diametric theorems</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Rudolf</namePart>
+  <namePart type="family">Ahlswede</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10479</identifier></name>
+<name type="personal">
+  <namePart type="given">N</namePart>
+  <namePart type="family">Cai</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Write-efficient memories (WEM) were introduced by Ahlswede/Zhang as a model for storing and updating information an a rewritable medium. We strengthen the capacity theorem by providing a full control of the rates of the spreads, Next we address and settle the storage capacity region problem under the average costs constraint for the case of many users who write on the memory in an arbitrary order, where neither the encoder nor the decoder knows the previous content of the memory, The combinatorial essence is a diametric theorem for several families. Finally we present a storage capacity theorem for several persons using the memory in cyclic order. (C) 1997 Academic Press.</abstract>
+
+<originInfo><publisher>ACADEMIC PRESS INC JNL-COMP SUBSCRIPTIONS</publisher><dateIssued encoding="w3cdtf">1997</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>INFORMATION AND COMPUTATION</title></titleInfo>
+  <identifier type="issn">0890-5401</identifier>
+  <identifier type="ISI">A1997XE66600003</identifier><identifier type="doi">10.1006/inco.1997.2629</identifier>
+<part><detail type="volume"><number>135</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">37-67</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<angewandte-chemie>R.  Ahlswede, and N.  Cai, “Models of multi-user write-efficient memories and general diametric theorems”, &lt;em&gt;INFORMATION AND COMPUTATION&lt;/em&gt;, &lt;strong&gt;1997&lt;/strong&gt;, &lt;em&gt;135&lt;/em&gt;, 37-67.</angewandte-chemie>
+<apa>Ahlswede, R., &amp;amp; Cai, N. (1997). Models of multi-user write-efficient memories and general diametric theorems. &lt;em&gt;INFORMATION AND COMPUTATION&lt;/em&gt;, &lt;em&gt;135&lt;/em&gt;(1), 37-67.</apa>
+<frontiers>Ahlswede, R., and Cai, N. (1997). Models of multi-user write-efficient memories and general diametric theorems. &lt;em&gt;INFORMATION AND COMPUTATION&lt;/em&gt; 135, 37-67.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, Rudolf, and Cai, N. 1997. “Models of multi-user write-efficient memories and general diametric theorems”. &lt;em&gt;INFORMATION AND COMPUTATION&lt;/em&gt; 135 (1): 37-67.&lt;/div&gt;</chicago>
+<ieee>R. Ahlswede and N. Cai, “Models of multi-user write-efficient memories and general diametric theorems”, &lt;em&gt;INFORMATION AND COMPUTATION&lt;/em&gt;,  vol. 135, 1997,  pp. 37-67.</ieee>
+<lncs>Ahlswede, R., Cai, N.: Models of multi-user write-efficient memories and general diametric theorems. INFORMATION AND COMPUTATION. 135, 37-67 (1997).</lncs>
+<mla>Ahlswede, Rudolf, and Cai, N. “Models of multi-user write-efficient memories and general diametric theorems”. &lt;em&gt;INFORMATION AND COMPUTATION&lt;/em&gt; 135.1 (1997): 37-67.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R., &amp;amp; Cai, N. (1997). Models of multi-user write-efficient memories and general diametric theorems. &lt;em&gt;INFORMATION AND COMPUTATION&lt;/em&gt;, &lt;em&gt;135&lt;/em&gt;(1), 37-67.&lt;/div&gt;</apa_indent>
+<wels>Ahlswede, R.; Cai, N. (1997): Models of multi-user write-efficient memories and general diametric theorems &lt;em&gt;INFORMATION AND COMPUTATION&lt;/em&gt;,135:(1): 37-67.</wels>
+<default>Ahlswede R, Cai N (1997) &lt;br /&gt;INFORMATION AND COMPUTATION 135(1): 37-67.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R. &amp;amp; Cai, N. (1997). Models of multi-user write-efficient memories and general diametric theorems. &lt;em&gt;INFORMATION AND COMPUTATION&lt;/em&gt;, &lt;em&gt;135&lt;/em&gt;(1), 37-67. ACADEMIC PRESS INC JNL-COMP SUBSCRIPTIONS. doi:10.1006/inco.1997.2629.&lt;/div&gt;</dgps>
+<ama>Ahlswede R, Cai N. Models of multi-user write-efficient memories and general diametric theorems. &lt;em&gt;INFORMATION AND COMPUTATION&lt;/em&gt;. 1997;135(1):37-67.</ama>
+<harvard1>Ahlswede, R., &amp;amp; Cai, N., 1997. Models of multi-user write-efficient memories and general diametric theorems. &lt;em&gt;INFORMATION AND COMPUTATION&lt;/em&gt;, 135(1), p 37-67.</harvard1>
+<aps>R.  Ahlswede and N.  Cai, Models of multi-user write-efficient memories and general diametric theorems, INFORMATION AND COMPUTATION &lt;strong&gt;135&lt;/strong&gt;, 37-67 (1997).</aps>
+<bio1>Ahlswede R, Cai N (1997) &lt;br /&gt;Models of multi-user write-efficient memories and general diametric theorems.&lt;br /&gt;INFORMATION AND COMPUTATION 135(1): 37-67.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1636775</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:13:58Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-11-11T11:17:35Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1636775</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1636775</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

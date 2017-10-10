@@ -1,0 +1,172 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Bioinformatics support for high-throughput proteomics</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">A.</namePart>
+  <namePart type="family">Wilke</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">Rückert</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">42238</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-9722-4435</description></name>
+<name type="personal">
+  <namePart type="given">D.</namePart>
+  <namePart type="family">Bartels</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Dondrup</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alexander</namePart>
+  <namePart type="family">Goesmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">152495</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-7086-2568</description></name>
+<name type="personal">
+  <namePart type="given">A. T.</namePart>
+  <namePart type="family">Hüser</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">S.</namePart>
+  <namePart type="family">Kespohl</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">B.</namePart>
+  <namePart type="family">Linke</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M.</namePart>
+  <namePart type="family">Mahne</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A.</namePart>
+  <namePart type="family">McHardy</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alfred</namePart>
+  <namePart type="family">Pühler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21937</identifier></name>
+<name type="personal">
+  <namePart type="given">F.</namePart>
+  <namePart type="family">Meyer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441927</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070639</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33067438</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">In the &quot;post-genome&quot; era, mass spectrometry (MS) has become an important method for the analysis of proteome data. The rapid advancement of this technique in combination with other methods used in proteomics results in an increasing number of high-throughput projects. This leads to an increasing amount of data that needs to be archived and analyzed. To cope with the need for automated data conversion, storage, and analysis in the field of proteomics, the open source system ProDB was developed. The system handles data conversion from different mass spectrometer software, automates data analysis, and allows the annotation of MS spectra (e.g. assign gene names, store data on protein modifications). The system is based on an extensible relational database to store the mass spectra together with the experimental setup. It also provides a graphical user interface (GUI) for managing the experimental steps which led to the MS data. Furthermore, it allows the integration of genome and proteome data. Data from an ongoing experiment was used to compare manual and automated analysis. First tests showed that the automation resulted in a significant saving of time. Furthermore, the quality and interpretability of the results was improved in all cases. (C) 2003 Elsevier B.V. All rights reserved.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">2003</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>automated analysis</topic><topic>platform</topic><topic>proteomics</topic><topic>archival of data</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF BIOTECHNOLOGY</title></titleInfo>
+  <identifier type="issn">0168-1656</identifier>
+  <identifier type="MEDLINE">14651857</identifier>
+  <identifier type="ISI">000187350200004</identifier><identifier type="doi">10.1016/j.jbiotec.2003.08.009</identifier>
+<part><detail type="volume"><number>106</number></detail><detail type="issue"><number>2-3</number></detail><extent unit="pages">147-156</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Wilke A, Rückert C, Bartels D, et al. Bioinformatics support for high-throughput proteomics. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;. 2003;106(2-3):147-156.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wilke, A., Rückert, C., Bartels, D., Dondrup, M., Goesmann, A., Hüser, A.T., Kespohl, S., Linke, B., Mahne, M., McHardy, A., Pühler, A. &amp;amp; Meyer, F. (2003). Bioinformatics support for high-throughput proteomics. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;106&lt;/em&gt;(2-3), 147-156. ELSEVIER SCIENCE BV. doi:10.1016/j.jbiotec.2003.08.009.&lt;/div&gt;</dgps>
+<harvard1>Wilke, A., et al., 2003. Bioinformatics support for high-throughput proteomics. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, 106(2-3), p 147-156.</harvard1>
+<aps> A.  Wilke, et al., Bioinformatics support for high-throughput proteomics, JOURNAL OF BIOTECHNOLOGY &lt;strong&gt;106&lt;/strong&gt;, 147-156 (2003).</aps>
+<bio1>Wilke A, Rückert C, Bartels D, Dondrup M, Goesmann A, Hüser AT, Kespohl S, Linke B, Mahne M, McHardy A, Pühler A, Meyer F (2003) &lt;br /&gt;Bioinformatics support for high-throughput proteomics.&lt;br /&gt;JOURNAL OF BIOTECHNOLOGY 106(2-3): 147-156.</bio1>
+<wels>Wilke, A.; Rückert, C.; Bartels, D.; Dondrup, M.; Goesmann, A.; Hüser, A. T.; Kespohl, S.; Linke, B.; Mahne, M.; McHardy, A.; Pühler, A.; Meyer, F. (2003): Bioinformatics support for high-throughput proteomics &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;,106:(2-3): 147-156.</wels>
+<default>Wilke A, Rückert C, Bartels D, Dondrup M, Goesmann A, Hüser AT, Kespohl S, Linke B, Mahne M, McHardy A, Pühler A, et al. (2003) &lt;br /&gt;JOURNAL OF BIOTECHNOLOGY 106(2-3): 147-156.</default>
+<ieee> A. Wilke, et al., “Bioinformatics support for high-throughput proteomics”, &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;,  vol. 106, 2003,  pp. 147-156.</ieee>
+<lncs> Wilke, A., Rückert, C., Bartels, D., Dondrup, M., Goesmann, A., Hüser, A.T., Kespohl, S., Linke, B., Mahne, M., McHardy, A., Pühler, A., Meyer, F.: Bioinformatics support for high-throughput proteomics. JOURNAL OF BIOTECHNOLOGY. 106, 147-156 (2003).</lncs>
+<mla>Wilke, A., Rückert, Christian, Bartels, D., Dondrup, M, Goesmann, Alexander, Hüser, A. T., Kespohl, S., Linke, B., Mahne, M., McHardy, A., Pühler, Alfred, and Meyer, F. “Bioinformatics support for high-throughput proteomics”. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt; 106.2-3 (2003): 147-156.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wilke, A., Rückert, C., Bartels, D., Dondrup, M., Goesmann, A., Hüser, A. T., Kespohl, S., et al. (2003). Bioinformatics support for high-throughput proteomics. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;106&lt;/em&gt;(2-3), 147-156.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>A.  Wilke, C.  Rückert, D.  Bartels, M.  Dondrup, A.  Goesmann, A. T.  Hüser, S.  Kespohl, B.  Linke, M.  Mahne, A.  McHardy, et al., “Bioinformatics support for high-throughput proteomics”, &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;strong&gt;2003&lt;/strong&gt;, &lt;em&gt;106&lt;/em&gt;, 147-156.</angewandte-chemie>
+<apa>Wilke, A., Rückert, C., Bartels, D., Dondrup, M., Goesmann, A., Hüser, A. T., Kespohl, S., et al. (2003). Bioinformatics support for high-throughput proteomics. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;106&lt;/em&gt;(2-3), 147-156.</apa>
+<frontiers>Wilke, A., Rückert, C., Bartels, D., Dondrup, M., Goesmann, A., Hüser, A. T., Kespohl, S., Linke, B., Mahne, M., McHardy, A., et al. (2003). Bioinformatics support for high-throughput proteomics. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt; 106, 147-156.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wilke, A., Rückert, Christian, Bartels, D., Dondrup, M, Goesmann, Alexander, Hüser, A. T., Kespohl, S., et al. 2003. “Bioinformatics support for high-throughput proteomics”. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt; 106 (2-3): 147-156.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1609272</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:58:33Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-09-22T08:57:36Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1609272</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1609272</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

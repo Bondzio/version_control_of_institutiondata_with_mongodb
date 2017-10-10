@@ -1,0 +1,108 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Introduction: A special issue dedicated to Ilya I. Moiseev</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Achim</namePart>
+  <namePart type="family">Müller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20118</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0003-0117-4021</description></name>
+<name type="personal">
+  <namePart type="given">G</namePart>
+  <namePart type="family">Schmid</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">RD</namePart>
+  <namePart type="family">Adams</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Chemie</namePart>
+  <identifier type="unibi">10018</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Anorganische Chemie I</namePart>
+  <identifier type="unibi">17964</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>SPRINGER/PLENUM PUBLISHERS</publisher><dateIssued encoding="w3cdtf">2005</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF CLUSTER SCIENCE</title></titleInfo>
+  <identifier type="issn">1040-7278</identifier>
+  <identifier type="eIssn">1572-8862</identifier>
+  <identifier type="ISI">000234082300001</identifier><identifier type="doi">10.1007/s10876-005-0021-1</identifier>
+<part><detail type="volume"><number>16</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">303-305</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<mla>Müller, Achim, Schmid, G, and Adams, RD. “Introduction: A special issue dedicated to Ilya I. Moiseev”. &lt;em&gt;JOURNAL OF CLUSTER SCIENCE&lt;/em&gt; 16.3 (2005): 303-305.</mla>
+<lncs>Müller, A., Schmid, G., Adams, R.D.: Introduction: A special issue dedicated to Ilya I. Moiseev. JOURNAL OF CLUSTER SCIENCE. 16, 303-305 (2005).</lncs>
+<ieee>A. Müller, G. Schmid, and R.D. Adams, “Introduction: A special issue dedicated to Ilya I. Moiseev”, &lt;em&gt;JOURNAL OF CLUSTER SCIENCE&lt;/em&gt;,  vol. 16, 2005,  pp. 303-305.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, A., Schmid, G., &amp;amp; Adams, R. D. (2005). Introduction: A special issue dedicated to Ilya I. Moiseev. &lt;em&gt;JOURNAL OF CLUSTER SCIENCE&lt;/em&gt;, &lt;em&gt;16&lt;/em&gt;(3), 303-305.&lt;/div&gt;</apa_indent>
+<frontiers>Müller, A., Schmid, G., and Adams, R. D. (2005). Introduction: A special issue dedicated to Ilya I. Moiseev. &lt;em&gt;JOURNAL OF CLUSTER SCIENCE&lt;/em&gt; 16, 303-305.</frontiers>
+<apa>Müller, A., Schmid, G., &amp;amp; Adams, R. D. (2005). Introduction: A special issue dedicated to Ilya I. Moiseev. &lt;em&gt;JOURNAL OF CLUSTER SCIENCE&lt;/em&gt;, &lt;em&gt;16&lt;/em&gt;(3), 303-305.</apa>
+<angewandte-chemie>A.  Müller, G.  Schmid, and R. D.  Adams, “Introduction: A special issue dedicated to Ilya I. Moiseev”, &lt;em&gt;JOURNAL OF CLUSTER SCIENCE&lt;/em&gt;, &lt;strong&gt;2005&lt;/strong&gt;, &lt;em&gt;16&lt;/em&gt;, 303-305.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, Achim, Schmid, G, and Adams, RD. 2005. “Introduction: A special issue dedicated to Ilya I. Moiseev”. &lt;em&gt;JOURNAL OF CLUSTER SCIENCE&lt;/em&gt; 16 (3): 303-305.&lt;/div&gt;</chicago>
+<bio1>Müller A, Schmid G, Adams RD (2005) &lt;br /&gt;Introduction: A special issue dedicated to Ilya I. Moiseev.&lt;br /&gt;JOURNAL OF CLUSTER SCIENCE 16(3): 303-305.</bio1>
+<aps>A.  Müller, G.  Schmid, and R. D.  Adams, Introduction: A special issue dedicated to Ilya I. Moiseev, JOURNAL OF CLUSTER SCIENCE &lt;strong&gt;16&lt;/strong&gt;, 303-305 (2005).</aps>
+<harvard1>Müller, A., Schmid, G., &amp;amp; Adams, R.D., 2005. Introduction: A special issue dedicated to Ilya I. Moiseev. &lt;em&gt;JOURNAL OF CLUSTER SCIENCE&lt;/em&gt;, 16(3), p 303-305.</harvard1>
+<ama>Müller A, Schmid G, Adams RD. Introduction: A special issue dedicated to Ilya I. Moiseev. &lt;em&gt;JOURNAL OF CLUSTER SCIENCE&lt;/em&gt;. 2005;16(3):303-305.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, A., Schmid, G. &amp;amp; Adams, R.D. (2005). Introduction: A special issue dedicated to Ilya I. Moiseev. &lt;em&gt;JOURNAL OF CLUSTER SCIENCE&lt;/em&gt;, &lt;em&gt;16&lt;/em&gt;(3), 303-305. SPRINGER/PLENUM PUBLISHERS. doi:10.1007/s10876-005-0021-1.&lt;/div&gt;</dgps>
+<default>Müller A, Schmid G, Adams RD (2005) &lt;br /&gt;JOURNAL OF CLUSTER SCIENCE 16(3): 303-305.</default>
+<wels>Müller, A.; Schmid, G.; Adams, R. D. (2005): Introduction: A special issue dedicated to Ilya I. Moiseev &lt;em&gt;JOURNAL OF CLUSTER SCIENCE&lt;/em&gt;,16:(3): 303-305.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1601092</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:31:34Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-11-14T13:05:41Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1601092</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1601092</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

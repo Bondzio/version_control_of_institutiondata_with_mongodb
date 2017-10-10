@@ -1,0 +1,94 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Lernende Gesellschaft</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Wolfgang</namePart>
+  <namePart type="family">Jütte</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">9811869</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Thomas</namePart><namePart type="family">Fuhr</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Philipp</namePart><namePart type="family">Gonon</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">7978238</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Schöningh</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Handbuch der Erziehungswissenschaft. Bd. 2: Erwachsenenbildung, Weiterbildung</title></titleInfo>
+  <identifier type="isbn">978-3-506-76496-6</identifier>
+<part><extent unit="pages">967-973</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>W.  Jütte, Lernende Gesellschaft, in &lt;em&gt;Handbuch der Erziehungswissenschaft. Bd. 2: Erwachsenenbildung, Weiterbildung&lt;/em&gt;, edited by T.  Fuhr and P.  Gonon (Schöningh, Paderborn, 2009), p. 967-973.</aps>
+<bio1>Jütte W (2009) &lt;br /&gt;Lernende Gesellschaft. &lt;br /&gt;In:  Handbuch der Erziehungswissenschaft. Bd. 2: Erwachsenenbildung, Weiterbildung. Fuhr T, Gonon P (Eds); Paderborn: Schöningh:  967-973.</bio1>
+<ama>Jütte W. Lernende Gesellschaft. In: Fuhr T, Gonon P, eds. &lt;em&gt;Handbuch der Erziehungswissenschaft. Bd. 2: Erwachsenenbildung, Weiterbildung&lt;/em&gt;. Paderborn: Schöningh;  2009: 967-973.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Jütte, W. (2009). Lernende Gesellschaft. &lt;em&gt;Handbuch der Erziehungswissenschaft. Bd. 2: Erwachsenenbildung, Weiterbildung&lt;/em&gt; (S. 967-973). Paderborn: Schöningh.&lt;/div&gt;</dgps>
+<harvard1>Jütte, W., 2009. Lernende Gesellschaft. In T.  Fuhr &amp;amp; P.  Gonon, eds. &lt;em&gt;Handbuch der Erziehungswissenschaft. Bd. 2: Erwachsenenbildung, Weiterbildung&lt;/em&gt;.  Paderborn: Schöningh, pp. 967-973.</harvard1>
+<default>Jütte W (2009)  &lt;br /&gt;In:  Handbuch der Erziehungswissenschaft. Bd. 2: Erwachsenenbildung, Weiterbildung. Fuhr T, Gonon P (Eds);Paderborn: Schöningh:  967-973.</default>
+<wels>Jütte, W. (2009): Lernende Gesellschaft. In: Thomas Fuhr; Philipp Gonon (Hrsg.):  Handbuch der Erziehungswissenschaft. Bd. 2: Erwachsenenbildung, Weiterbildung. Paderborn: Schöningh.  S. 967-973.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Jütte, W. (2009). Lernende Gesellschaft. In T.  Fuhr &amp;amp; P.  Gonon (Eds.), &lt;em&gt;Handbuch der Erziehungswissenschaft. Bd. 2: Erwachsenenbildung, Weiterbildung&lt;/em&gt; (pp. 967-973). Paderborn: Schöningh.&lt;/div&gt;</apa_indent>
+<lncs>Jütte, W.: Lernende Gesellschaft. In: Fuhr, T. and Gonon, P. (eds.) Handbuch der Erziehungswissenschaft. Bd. 2: Erwachsenenbildung, Weiterbildung. p. 967-973. Schöningh, Paderborn (2009).</lncs>
+<mla>Jütte, Wolfgang. “Lernende Gesellschaft”. &lt;em&gt;Handbuch der Erziehungswissenschaft. Bd. 2: Erwachsenenbildung, Weiterbildung&lt;/em&gt;. Ed. Thomas Fuhr and Philipp Gonon. Paderborn: Schöningh, 2009. 967-973.</mla>
+<ieee>W. Jütte, “Lernende Gesellschaft”, &lt;em&gt;Handbuch der Erziehungswissenschaft. Bd. 2: Erwachsenenbildung, Weiterbildung&lt;/em&gt;, T. Fuhr and P. Gonon, eds.,  Paderborn: Schöningh, 2009,  pp.967-973.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Jütte, Wolfgang. 2009. “Lernende Gesellschaft”. In &lt;em&gt;Handbuch der Erziehungswissenschaft. Bd. 2: Erwachsenenbildung, Weiterbildung&lt;/em&gt;, ed. Thomas Fuhr and Philipp Gonon, 967-973. Paderborn: Schöningh.&lt;/div&gt;</chicago>
+<frontiers>Jütte, W. (2009). “Lernende Gesellschaft” in &lt;em&gt;Handbuch der Erziehungswissenschaft. Bd. 2: Erwachsenenbildung, Weiterbildung&lt;/em&gt;, ed. T.  Fuhr and P.  Gonon (Paderborn: Schöningh), 967-973.</frontiers>
+<angewandte-chemie>W.  Jütte, in &lt;em&gt;Handbuch der Erziehungswissenschaft. Bd. 2: Erwachsenenbildung, Weiterbildung&lt;/em&gt; (Eds.: T. Fuhr, P. Gonon), Schöningh, Paderborn, &lt;strong&gt;2009&lt;/strong&gt;, p. 967-973.</angewandte-chemie>
+<apa>Jütte, W. (2009). Lernende Gesellschaft. In T.  Fuhr &amp;amp; P.  Gonon (Eds.), &lt;em&gt;Handbuch der Erziehungswissenschaft. Bd. 2: Erwachsenenbildung, Weiterbildung&lt;/em&gt; (pp. 967-973). Paderborn: Schöningh.</apa>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1859099</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-02-12T10:58:04Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-02-12T10:58:04Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1859099</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1859099</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

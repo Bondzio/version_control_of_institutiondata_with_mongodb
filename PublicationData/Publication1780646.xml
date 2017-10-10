@@ -1,0 +1,120 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Flexible Steuerung eines sprachverstehenden Systems mit Hilfe mehrkomponentiger Bewertungen</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Gerhard</namePart>
+  <namePart type="family">Sagerer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10375</identifier></name>
+<name type="personal">
+  <namePart type="given">Franz</namePart>
+  <namePart type="family">Kummert</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10372</identifier></name>
+<name type="personal">
+  <namePart type="given">G.</namePart>
+  <namePart type="family">Schukat-Talamazzini</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">E.</namePart><namePart type="family">Paulus</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">18304588</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">5408013</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+<name type="conference">
+  <namePart>9. DAGM-Symposium</namePart>
+</name>
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Kummert_046.pdf">https://pub.uni-bielefeld.de/download/1780646/2312978</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Springer</publisher><dateIssued encoding="w3cdtf">1987</dateIssued><place><placeTerm type="text">Braunschweig, Germany</placeTerm></place>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+<subject><topic>Mustererkennung</topic><topic>Kongress</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Mustererkennung 1987:  9. DAGM-Symposium, Braunschweig, September/Oktober 1987 ; Proceedings</title></titleInfo>
+  <identifier type="isbn">3-540-18375-2</identifier><identifier type="urn">urn:nbn:de:0070-bipr-21663</identifier>
+<part><detail type="volume"><number>149</number></detail><extent unit="pages">123-127</extent>
+</part>
+</relatedItem>
+
+<note type="nonBielefeld">yes</note>
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sagerer, G., Kummert, F. &amp;amp; Schukat-Talamazzini, G. (1987). Flexible Steuerung eines sprachverstehenden Systems mit Hilfe mehrkomponentiger Bewertungen (Informatik-Fachberichte). &lt;em&gt;Mustererkennung 1987:  9. DAGM-Symposium, Braunschweig, September/Oktober 1987 ; Proceedings&lt;/em&gt; (S. 123-127). Gehalten auf der 9. DAGM-Symposium, Berlin [u.a.]: Springer.&lt;/div&gt;</dgps>
+<harvard1>Sagerer, G., Kummert, F., &amp;amp; Schukat-Talamazzini, G., 1987. Flexible Steuerung eines sprachverstehenden Systems mit Hilfe mehrkomponentiger Bewertungen. In E.  Paulus, ed. &lt;em&gt;Mustererkennung 1987:  9. DAGM-Symposium, Braunschweig, September/Oktober 1987 ; Proceedings&lt;/em&gt;. Informatik-Fachberichte. no.149  Berlin [u.a.]: Springer, pp. 123-127.</harvard1>
+<ama>Sagerer G, Kummert F, Schukat-Talamazzini G. Flexible Steuerung eines sprachverstehenden Systems mit Hilfe mehrkomponentiger Bewertungen. In: Paulus E, ed. &lt;em&gt;Mustererkennung 1987:  9. DAGM-Symposium, Braunschweig, September/Oktober 1987 ; Proceedings&lt;/em&gt;. Informatik-Fachberichte. Vol 149. Berlin [u.a.]: Springer;  1987: 123-127.</ama>
+<bio1>Sagerer G, Kummert F, Schukat-Talamazzini G (1987) &lt;br /&gt;Flexible Steuerung eines sprachverstehenden Systems mit Hilfe mehrkomponentiger Bewertungen. &lt;br /&gt;In:  Mustererkennung 1987:  9. DAGM-Symposium, Braunschweig, September/Oktober 1987 ; Proceedings. Paulus E (Ed); Informatik-Fachberichte, 149. Berlin [u.a.]: Springer:  123-127.</bio1>
+<aps> G.  Sagerer, F.  Kummert, and G.  Schukat-Talamazzini, Flexible Steuerung eines sprachverstehenden Systems mit Hilfe mehrkomponentiger Bewertungen, in &lt;em&gt;Mustererkennung 1987:  9. DAGM-Symposium, Braunschweig, September/Oktober 1987 ; Proceedings&lt;/em&gt;, edited by E.  Paulus, Informatik-Fachberichte, &lt;strong&gt;149&lt;/strong&gt; (Springer, Berlin [U.a.], 1987), p. 123-127.</aps>
+<wels>Sagerer, G.; Kummert, F.; Schukat-Talamazzini, G. (1987): Flexible Steuerung eines sprachverstehenden Systems mit Hilfe mehrkomponentiger Bewertungen. In: E. Paulus (Hrsg.):  Mustererkennung 1987:  9. DAGM-Symposium, Braunschweig, September/Oktober 1987 ; Proceedings. Berlin [u.a.]: Springer. (Informatik-Fachberichte, 149).  S. 123-127.</wels>
+<default>Sagerer G, Kummert F, Schukat-Talamazzini G (1987)  &lt;br /&gt;In:  Mustererkennung 1987:  9. DAGM-Symposium, Braunschweig, September/Oktober 1987 ; Proceedings. Paulus E (Ed); Informatik-Fachberichte, 149. Berlin [u.a.]: Springer:  123-127.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sagerer, G., Kummert, F., &amp;amp; Schukat-Talamazzini, G. (1987). Flexible Steuerung eines sprachverstehenden Systems mit Hilfe mehrkomponentiger Bewertungen. In E.  Paulus (Ed.), &lt;em&gt;Informatik-Fachberichte: Vol. 149&lt;/em&gt;&lt;em&gt;. Mustererkennung 1987:  9. DAGM-Symposium, Braunschweig, September/Oktober 1987 ; Proceedings&lt;/em&gt; (pp. 123-127). Berlin [u.a.]: Springer.&lt;/div&gt;</apa_indent>
+<ieee> G. Sagerer, F. Kummert, and G. Schukat-Talamazzini, “Flexible Steuerung eines sprachverstehenden Systems mit Hilfe mehrkomponentiger Bewertungen”, &lt;em&gt;Mustererkennung 1987:  9. DAGM-Symposium, Braunschweig, September/Oktober 1987 ; Proceedings&lt;/em&gt;, E. Paulus, ed., Informatik-Fachberichte, vol. 149,  Berlin [u.a.]: Springer, 1987,  pp.123-127.</ieee>
+<lncs> Sagerer, G., Kummert, F., Schukat-Talamazzini, G.: Flexible Steuerung eines sprachverstehenden Systems mit Hilfe mehrkomponentiger Bewertungen. In: Paulus, E. (ed.) Mustererkennung 1987:  9. DAGM-Symposium, Braunschweig, September/Oktober 1987 ; Proceedings. Informatik-Fachberichte. 149, p. 123-127. Springer, Berlin [u.a.] (1987).</lncs>
+<mla>Sagerer, Gerhard, Kummert, Franz, and Schukat-Talamazzini, G. “Flexible Steuerung eines sprachverstehenden Systems mit Hilfe mehrkomponentiger Bewertungen”. &lt;em&gt;Mustererkennung 1987:  9. DAGM-Symposium, Braunschweig, September/Oktober 1987 ; Proceedings&lt;/em&gt;. Ed. E. Paulus. Berlin [u.a.]: Springer, 1987.Vol. 149. Informatik-Fachberichte. 123-127.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sagerer, Gerhard, Kummert, Franz, and Schukat-Talamazzini, G. 1987. “Flexible Steuerung eines sprachverstehenden Systems mit Hilfe mehrkomponentiger Bewertungen”. In &lt;em&gt;Mustererkennung 1987:  9. DAGM-Symposium, Braunschweig, September/Oktober 1987 ; Proceedings&lt;/em&gt;, ed. E. Paulus, 149:123-127. Informatik-Fachberichte. Berlin [u.a.]: Springer.&lt;/div&gt;</chicago>
+<angewandte-chemie>G.  Sagerer, F.  Kummert, and G.  Schukat-Talamazzini, in &lt;em&gt;Mustererkennung 1987:  9. DAGM-Symposium, Braunschweig, September/Oktober 1987 ; Proceedings&lt;/em&gt; (Ed.: E. Paulus), Springer, Berlin [u.a.], &lt;strong&gt;1987&lt;/strong&gt;, p. 123-127.</angewandte-chemie>
+<apa>Sagerer, G., Kummert, F., &amp;amp; Schukat-Talamazzini, G. (1987). Flexible Steuerung eines sprachverstehenden Systems mit Hilfe mehrkomponentiger Bewertungen. In E.  Paulus (Ed.), &lt;em&gt;Informatik-Fachberichte: Vol. 149&lt;/em&gt;&lt;em&gt;. Mustererkennung 1987:  9. DAGM-Symposium, Braunschweig, September/Oktober 1987 ; Proceedings&lt;/em&gt; (pp. 123-127). Berlin [u.a.]: Springer.</apa>
+<frontiers>Sagerer, G., Kummert, F., and Schukat-Talamazzini, G. (1987). “Flexible Steuerung eines sprachverstehenden Systems mit Hilfe mehrkomponentiger Bewertungen” in &lt;em&gt;Mustererkennung 1987:  9. DAGM-Symposium, Braunschweig, September/Oktober 1987 ; Proceedings&lt;/em&gt;, Paulus, E. ed. Informatik-Fachberichte, vol. 149, (Berlin [u.a.]: Springer), 123-127.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780646</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-10-19T08:09:25Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-27T15:02:52Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780646</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780646</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

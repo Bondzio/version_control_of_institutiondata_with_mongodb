@@ -1,0 +1,128 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Swiftly Computing Center Strings</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Franziska</namePart>
+  <namePart type="family">Hufsky</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Leon</namePart>
+  <namePart type="family">Kuchenbecker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Katharina</namePart>
+  <namePart type="family">Jahn</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">179271</identifier></name>
+<name type="personal">
+  <namePart type="given">Jens</namePart>
+  <namePart type="family">Stoye</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">65864</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-4656-7155</description></name>
+<name type="personal">
+  <namePart type="given">Sebastian</namePart>
+  <namePart type="family">Böcker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Genominformatik</namePart>
+  <identifier type="unibi">66100</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group J. Stoye</namePart>
+  <identifier type="unibi">33067262</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+<name type="conference">
+  <namePart>WABI 2010</namePart>
+</name>
+
+
+
+
+
+
+
+<originInfo><dateIssued encoding="w3cdtf">2010</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Proc. of WABI 2010</title></titleInfo>
+  <identifier type="isbn">978-3-642-15293-1</identifier>
+  <identifier type="MEDLINE">21504573</identifier>
+  <identifier type="ISI">000291355100001</identifier><identifier type="doi">10.1007/978-3-642-15294-8_27</identifier>
+<part><detail type="volume"><number>6293</number></detail><extent unit="pages">325-336</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<harvard1>Hufsky, F., et al., 2010. Swiftly Computing Center Strings. In &lt;em&gt;Proc. of WABI 2010&lt;/em&gt;. LNBI. no.6293 pp. 325-336.</harvard1>
+<ama>Hufsky F, Kuchenbecker L, Jahn K, Stoye J, Böcker S. Swiftly Computing Center Strings. In:  &lt;em&gt;Proc. of WABI 2010&lt;/em&gt;. LNBI. Vol 6293. 2010: 325-336.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hufsky, F., Kuchenbecker, L., Jahn, K., Stoye, J. &amp;amp; Böcker, S. (2010). Swiftly Computing Center Strings (LNBI). &lt;em&gt;Proc. of WABI 2010&lt;/em&gt; (S. 325-336). Gehalten auf der WABI 2010. doi:10.1007/978-3-642-15294-8_27.&lt;/div&gt;</dgps>
+<bio1>Hufsky F, Kuchenbecker L, Jahn K, Stoye J, Böcker S (2010) &lt;br /&gt;Swiftly Computing Center Strings. &lt;br /&gt;In:  Proc. of WABI 2010.  LNBI, 6293. 325-336.</bio1>
+<aps>F.  Hufsky, et al., Swiftly Computing Center Strings, in &lt;em&gt;Proc. of WABI 2010&lt;/em&gt;, LNBI, &lt;strong&gt;6293&lt;/strong&gt; (2010), p. 325-336.</aps>
+<wels>Hufsky, F.; Kuchenbecker, L.; Jahn, K.; Stoye, J.; Böcker, S. (2010): Swiftly Computing Center Strings. In: Proc. of WABI 2010. (LNBI, 6293).  S. 325-336.</wels>
+<default>Hufsky F, Kuchenbecker L, Jahn K, Stoye J, Böcker S (2010)  &lt;br /&gt;In:  Proc. of WABI 2010.  LNBI, 6293.  325-336.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hufsky, F., Kuchenbecker, L., Jahn, K., Stoye, J., &amp;amp; Böcker, S. (2010). Swiftly Computing Center Strings. &lt;em&gt;Proc. of WABI 2010&lt;/em&gt;, &lt;em&gt;6293&lt;/em&gt;, 325-336.&lt;/div&gt;</apa_indent>
+<ieee>F. Hufsky, et al., “Swiftly Computing Center Strings”, &lt;em&gt;Proc. of WABI 2010&lt;/em&gt;, LNBI, vol. 6293, 2010,  pp.325-336.</ieee>
+<lncs>Hufsky, F., Kuchenbecker, L., Jahn, K., Stoye, J., Böcker, S.: Swiftly Computing Center Strings. Proc. of WABI 2010. LNBI. 6293, p. 325-336. (2010).</lncs>
+<mla>Hufsky, Franziska, Kuchenbecker, Leon, Jahn, Katharina, Stoye, Jens, and Böcker, Sebastian. “Swiftly Computing Center Strings”. &lt;em&gt;Proc. of WABI 2010&lt;/em&gt;. 2010.Vol. 6293. LNBI. 325-336.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hufsky, Franziska, Kuchenbecker, Leon, Jahn, Katharina, Stoye, Jens, and Böcker, Sebastian. 2010. “Swiftly Computing Center Strings”. In &lt;em&gt;Proc. of WABI 2010&lt;/em&gt;, 6293:325-336. LNBI.&lt;/div&gt;</chicago>
+<apa>Hufsky, F., Kuchenbecker, L., Jahn, K., Stoye, J., &amp;amp; Böcker, S. (2010). Swiftly Computing Center Strings. &lt;em&gt;Proc. of WABI 2010&lt;/em&gt;, &lt;em&gt;6293&lt;/em&gt;, 325-336.</apa>
+<angewandte-chemie>F.  Hufsky, L.  Kuchenbecker, K.  Jahn, J.  Stoye, and S.  Böcker, in &lt;em&gt;Proc. of WABI 2010&lt;/em&gt;, &lt;strong&gt;2010&lt;/strong&gt;, p. 325-336.</angewandte-chemie>
+<frontiers>Hufsky, F., Kuchenbecker, L., Jahn, K., Stoye, J., and Böcker, S. (2010). “Swiftly Computing Center Strings” in &lt;em&gt;Proc. of WABI 2010&lt;/em&gt; LNBI, vol. 6293, 325-336.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1919211</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-11-23T20:40:16Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-01-18T09:11:19Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1919211</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1919211</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

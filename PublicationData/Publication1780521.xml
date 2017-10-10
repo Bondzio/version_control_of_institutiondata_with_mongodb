@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Communication complexity in lattices</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Rudolf</namePart>
+  <namePart type="family">Ahlswede</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10479</identifier></name>
+<name type="personal">
+  <namePart type="given">Ning</namePart>
+  <namePart type="family">Cai</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ulrich</namePart>
+  <namePart type="family">Tamm</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The communcation complexity of functions defined in lattices is bounded from above and below, hereby generalizing former results of Lovasz [1] and Ahlswede and Cai [2]. Especially in geometric lattices, upper and lower bound often differ by at most one bit.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Ahlswede_82.pdf">https://pub.uni-bielefeld.de/download/1780521/2312938</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1993</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Applied Mathematics Letters</title></titleInfo>
+  <identifier type="issn">0893-9659</identifier>
+  <identifier type="ISI">A1993MD95600012</identifier><identifier type="urn">urn:nbn:de:0070-pub-17805211</identifier><identifier type="doi">10.1016/0893-9659(93)90078-2</identifier>
+<part><detail type="volume"><number>6</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">53-58</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Ahlswede R, Cai N, Tamm U (1993) &lt;br /&gt;Applied Mathematics Letters 6(6): 53-58.</default>
+<wels>Ahlswede, R.; Cai, N.; Tamm, U. (1993): Communication complexity in lattices  &lt;em&gt;Applied Mathematics Letters&lt;/em&gt;,6:(6): 53-58.</wels>
+<bio1>Ahlswede R, Cai N, Tamm U (1993) &lt;br /&gt;Communication complexity in lattices .&lt;br /&gt;Applied Mathematics Letters 6(6): 53-58.</bio1>
+<aps>R.  Ahlswede, N.  Cai, and U.  Tamm, Communication complexity in lattices , Applied Mathematics Letters &lt;strong&gt;6&lt;/strong&gt;, 53-58 (1993).</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R., Cai, N. &amp;amp; Tamm, U. (1993). Communication complexity in lattices . &lt;em&gt;Applied Mathematics Letters&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;(6), 53-58. doi:10.1016/0893-9659(93)90078-2.&lt;/div&gt;</dgps>
+<harvard1>Ahlswede, R., Cai, N., &amp;amp; Tamm, U., 1993. Communication complexity in lattices . &lt;em&gt;Applied Mathematics Letters&lt;/em&gt;, 6(6), p 53-58.</harvard1>
+<ama>Ahlswede R, Cai N, Tamm U. Communication complexity in lattices . &lt;em&gt;Applied Mathematics Letters&lt;/em&gt;. 1993;6(6):53-58.</ama>
+<frontiers>Ahlswede, R., Cai, N., and Tamm, U. (1993). Communication complexity in lattices . &lt;em&gt;Applied Mathematics Letters&lt;/em&gt; 6, 53-58.</frontiers>
+<angewandte-chemie>R.  Ahlswede, N.  Cai, and U.  Tamm, “Communication complexity in lattices ”, &lt;em&gt;Applied Mathematics Letters&lt;/em&gt;, &lt;strong&gt;1993&lt;/strong&gt;, &lt;em&gt;6&lt;/em&gt;, 53-58.</angewandte-chemie>
+<apa>Ahlswede, R., Cai, N., &amp;amp; Tamm, U. (1993). Communication complexity in lattices . &lt;em&gt;Applied Mathematics Letters&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;(6), 53-58.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, Rudolf, Cai, Ning, and Tamm, Ulrich. 1993. “Communication complexity in lattices ”. &lt;em&gt;Applied Mathematics Letters&lt;/em&gt; 6 (6): 53-58.&lt;/div&gt;</chicago>
+<mla>Ahlswede, Rudolf, Cai, Ning, and Tamm, Ulrich. “Communication complexity in lattices ”. &lt;em&gt;Applied Mathematics Letters&lt;/em&gt; 6.6 (1993): 53-58.</mla>
+<lncs>Ahlswede, R., Cai, N., Tamm, U.: Communication complexity in lattices . Applied Mathematics Letters. 6, 53-58 (1993).</lncs>
+<ieee>R. Ahlswede, N. Cai, and U. Tamm, “Communication complexity in lattices ”, &lt;em&gt;Applied Mathematics Letters&lt;/em&gt;,  vol. 6, 1993,  pp. 53-58.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R., Cai, N., &amp;amp; Tamm, U. (1993). Communication complexity in lattices . &lt;em&gt;Applied Mathematics Letters&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;(6), 53-58.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780521</recordIdentifier><recordCreationDate encoding="w3cdtf">2015-12-14T17:18:35Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2015-12-14T17:21:02Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780521</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780521</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

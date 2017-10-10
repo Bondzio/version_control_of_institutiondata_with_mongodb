@@ -1,0 +1,150 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Quantitative Analysis of Single-Molecule RNA-Protein Interaction</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Alexander</namePart>
+  <namePart type="family">Fuhrmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jan C.</namePart>
+  <namePart type="family">Schöning</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Dario</namePart>
+  <namePart type="family">Anselmetti</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40180</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-8720-4369</description></name>
+<name type="personal">
+  <namePart type="given">Dorothee</namePart>
+  <namePart type="family">Staiger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">81014</identifier></name>
+<name type="personal">
+  <namePart type="given">Robert</namePart>
+  <namePart type="family">Ros</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2161137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2685209</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">29125395</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070658</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33079524</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">RNA-binding proteins impact gene expression at the posttranscriptional level by interacting with cognate cis elements within the transcripts. Here, we apply dynamic single-molecule force spectroscopy to study the interaction of the Arabidopsis glycine-rich RNA-binding protein AtGRP8 with its RNA target. A dwell-time-dependent analysis of the single-molecule data in combination with competition assays and site-directed mutagenesis of both the RNA target and the RNA-binding domain of the protein allowed us to distinguish and quantify two different binding modes. For dwell times &lt;0.21 s an unspecific complex with a lifetime of 0.56 s is observed, whereas dwell times &gt;0.33 s result in a specific interaction with a lifetime of 208 s. The corresponding reaction lengths are 0.28 nm for the unspecific and 0.55 nm for the specific AtGRP8-RNA interactions, indicating formation of a tighter complex with increasing dwell time. These two binding modes cannot be dissected in ensemble experiments. Quantitative titration in RNA bandshift experiments yields an ensemble-averaged equilibrium constant of dissociation of K-D = 2 x 10(-7) M. Assuming comparable on-rates for the specific and nonspecific binding modes allows us to estimate their free energies as Delta G(0) = -42 kJ/mol and Delta G(0) = -28 kJ/mol for the specific and nonspecific binding modes, respectively. Thus, we show that single-molecule force spectroscopy with a refined statistical analysis is a potent tool for the analysis of protein-RNA interactions without the drawback of ensemble averaging. This makes it possible to discriminate between different binding modes or sites and to analyze them quantitatively. We propose that this method could be applied to complex interactions of biomolecules in general, and be of particular interest for the investigation of multivalent binding reactions.</abstract>
+
+<originInfo><publisher>Elsevier BV</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Biophysical Journal</title></titleInfo>
+  <identifier type="issn">0006-3495</identifier>
+  <identifier type="MEDLINE">19527663</identifier>
+  <identifier type="ISI">000267194600028</identifier><identifier type="doi">10.1016/j.bpj.2009.03.022</identifier>
+<part><detail type="volume"><number>96</number></detail><detail type="issue"><number>12</number></detail><extent unit="pages">5030-5039</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa>Fuhrmann, A., Schöning, J. C., Anselmetti, D., Staiger, D., &amp;amp; Ros, R. (2009). Quantitative Analysis of Single-Molecule RNA-Protein Interaction. &lt;em&gt;Biophysical Journal&lt;/em&gt;, &lt;em&gt;96&lt;/em&gt;(12), 5030-5039.</apa>
+<angewandte-chemie>A.  Fuhrmann, J. C.  Schöning, D.  Anselmetti, D.  Staiger, and R.  Ros, “Quantitative Analysis of Single-Molecule RNA-Protein Interaction”, &lt;em&gt;Biophysical Journal&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;96&lt;/em&gt;, 5030-5039.</angewandte-chemie>
+<frontiers>Fuhrmann, A., Schöning, J. C., Anselmetti, D., Staiger, D., and Ros, R. (2009). Quantitative Analysis of Single-Molecule RNA-Protein Interaction. &lt;em&gt;Biophysical Journal&lt;/em&gt; 96, 5030-5039.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fuhrmann, Alexander, Schöning, Jan C., Anselmetti, Dario, Staiger, Dorothee, and Ros, Robert. 2009. “Quantitative Analysis of Single-Molecule RNA-Protein Interaction”. &lt;em&gt;Biophysical Journal&lt;/em&gt; 96 (12): 5030-5039.&lt;/div&gt;</chicago>
+<ieee>A. Fuhrmann, et al., “Quantitative Analysis of Single-Molecule RNA-Protein Interaction”, &lt;em&gt;Biophysical Journal&lt;/em&gt;,  vol. 96, 2009,  pp. 5030-5039.</ieee>
+<mla>Fuhrmann, Alexander, Schöning, Jan C., Anselmetti, Dario, Staiger, Dorothee, and Ros, Robert. “Quantitative Analysis of Single-Molecule RNA-Protein Interaction”. &lt;em&gt;Biophysical Journal&lt;/em&gt; 96.12 (2009): 5030-5039.</mla>
+<lncs>Fuhrmann, A., Schöning, J.C., Anselmetti, D., Staiger, D., Ros, R.: Quantitative Analysis of Single-Molecule RNA-Protein Interaction. Biophysical Journal. 96, 5030-5039 (2009).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fuhrmann, A., Schöning, J. C., Anselmetti, D., Staiger, D., &amp;amp; Ros, R. (2009). Quantitative Analysis of Single-Molecule RNA-Protein Interaction. &lt;em&gt;Biophysical Journal&lt;/em&gt;, &lt;em&gt;96&lt;/em&gt;(12), 5030-5039.&lt;/div&gt;</apa_indent>
+<wels>Fuhrmann, A.; Schöning, J. C.; Anselmetti, D.; Staiger, D.; Ros, R. (2009): Quantitative Analysis of Single-Molecule RNA-Protein Interaction &lt;em&gt;Biophysical Journal&lt;/em&gt;,96:(12): 5030-5039.</wels>
+<default>Fuhrmann A, Schöning JC, Anselmetti D, Staiger D, Ros R (2009) &lt;br /&gt;Biophysical Journal 96(12): 5030-5039.</default>
+<harvard1>Fuhrmann, A., et al., 2009. Quantitative Analysis of Single-Molecule RNA-Protein Interaction. &lt;em&gt;Biophysical Journal&lt;/em&gt;, 96(12), p 5030-5039.</harvard1>
+<ama>Fuhrmann A, Schöning JC, Anselmetti D, Staiger D, Ros R. Quantitative Analysis of Single-Molecule RNA-Protein Interaction. &lt;em&gt;Biophysical Journal&lt;/em&gt;. 2009;96(12):5030-5039.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fuhrmann, A., Schöning, J.C., Anselmetti, D., Staiger, D. &amp;amp; Ros, R. (2009). Quantitative Analysis of Single-Molecule RNA-Protein Interaction. &lt;em&gt;Biophysical Journal&lt;/em&gt;, &lt;em&gt;96&lt;/em&gt;(12), 5030-5039. Elsevier BV. doi:10.1016/j.bpj.2009.03.022.&lt;/div&gt;</dgps>
+<bio1>Fuhrmann A, Schöning JC, Anselmetti D, Staiger D, Ros R (2009) &lt;br /&gt;Quantitative Analysis of Single-Molecule RNA-Protein Interaction.&lt;br /&gt;Biophysical Journal 96(12): 5030-5039.</bio1>
+<aps>A.  Fuhrmann, et al., Quantitative Analysis of Single-Molecule RNA-Protein Interaction, Biophysical Journal &lt;strong&gt;96&lt;/strong&gt;, 5030-5039 (2009).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1633300</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:06:52Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-02-04T14:32:16Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1633300</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1633300</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

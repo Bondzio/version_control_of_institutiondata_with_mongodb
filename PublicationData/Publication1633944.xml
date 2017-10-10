@@ -1,0 +1,129 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Overlapping expression patterns and differential transcript levels of phosphate transporter genes in arbuscular mycorrhizal, P-i-fertilised and phytohormone-treated Medicago truncatula roots</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Ulf</namePart>
+  <namePart type="family">Grunwald</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Wenbing</namePart>
+  <namePart type="family">Guo</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Kerstin</namePart>
+  <namePart type="family">Fischer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Stanislav</namePart>
+  <namePart type="family">Isayenkov</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jutta</namePart>
+  <namePart type="family">Ludwig-Mueller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Bettina</namePart>
+  <namePart type="family">Hause</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Xiaolong</namePart>
+  <namePart type="family">Yan</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Helge</namePart>
+  <namePart type="family">Küster</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Philipp</namePart>
+  <namePart type="family">Franken</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Genomforschung und Systembiologie</namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">A microarray carrying 5,648 probes of Medicago truncatula root-expressed genes was screened in order to identify those that are specifically regulated by the arbuscular mycorrhizal (AM) fungus Gigaspora rosea, by Pi fertilisation or by the phytohormones abscisic acid and jasmonic acid. Amongst the identified genes, 21% showed a common induction and 31% a common repression between roots fertilised with Pi or inoculated with the AM fungus G. rosea, while there was no obvious overlap in the expression patterns between mycorrhizal and phytohormone-treated roots. Expression patterns were further studied by comparing the results with published data obtained from roots colonised by the AM fungi Glomus mosseae and Glomus intraradices, but only very few genes were identified as being commonly regulated by all three AM fungi. Analysis of Pi concentrations in plants colonised by either of the three AM fungi revealed that this could be due to the higher Pi levels in plants inoculated by G. rosea compared with the other two fungi, explaining that numerous genes are commonly regulated by the interaction with G. rosea and by phosphate. Differential gene expression in roots inoculated with the three AM fungi was further studied by expression analyses of six genes from the phosphate transporter gene family in M. truncatula. While MtPT4 was induced by all three fungi, the other five genes showed different degrees of repression mirroring the functional differences in phosphate nutrition by G. rosea, G. mosseae and G. intraradices.</abstract>
+
+<originInfo><publisher>Springer Science + Business Media</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Gigaspora rosea</topic><topic>Arbuscular mycorrhiza</topic><topic>Abscisic acid</topic><topic>Glomus mosseae</topic><topic>Phosphate transporter genes</topic><topic>Jasmonic acid</topic><topic>Glomus</topic><topic>intraradices</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>PLANTA</title></titleInfo>
+  <identifier type="issn">0032-0935</identifier>
+  <identifier type="eIssn">1432-2048</identifier>
+  <identifier type="MEDLINE">19169704</identifier>
+  <identifier type="ISI">000265540000002</identifier><identifier type="doi">10.1007/s00425-008-0877-z</identifier>
+<part><detail type="volume"><number>229</number></detail><detail type="issue"><number>5</number></detail><extent unit="pages">1023-1034</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Grunwald U, Guo W, Fischer K, et al. Overlapping expression patterns and differential transcript levels of phosphate transporter genes in arbuscular mycorrhizal, P-i-fertilised and phytohormone-treated Medicago truncatula roots. &lt;em&gt;PLANTA&lt;/em&gt;. 2009;229(5):1023-1034.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Grunwald, U., Guo, W., Fischer, K., Isayenkov, S., Ludwig-Mueller, J., Hause, B., Yan, X., Küster, H. &amp;amp; Franken, P. (2009). Overlapping expression patterns and differential transcript levels of phosphate transporter genes in arbuscular mycorrhizal, P-i-fertilised and phytohormone-treated Medicago truncatula roots. &lt;em&gt;PLANTA&lt;/em&gt;, &lt;em&gt;229&lt;/em&gt;(5), 1023-1034. Springer Science + Business Media. doi:10.1007/s00425-008-0877-z.&lt;/div&gt;</dgps>
+<harvard1>Grunwald, U., et al., 2009. Overlapping expression patterns and differential transcript levels of phosphate transporter genes in arbuscular mycorrhizal, P-i-fertilised and phytohormone-treated Medicago truncatula roots. &lt;em&gt;PLANTA&lt;/em&gt;, 229(5), p 1023-1034.</harvard1>
+<aps>U.  Grunwald, et al., Overlapping expression patterns and differential transcript levels of phosphate transporter genes in arbuscular mycorrhizal, P-i-fertilised and phytohormone-treated Medicago truncatula roots, PLANTA &lt;strong&gt;229&lt;/strong&gt;, 1023-1034 (2009).</aps>
+<bio1>Grunwald U, Guo W, Fischer K, Isayenkov S, Ludwig-Mueller J, Hause B, Yan X, Küster H, Franken P (2009) &lt;br /&gt;Overlapping expression patterns and differential transcript levels of phosphate transporter genes in arbuscular mycorrhizal, P-i-fertilised and phytohormone-treated Medicago truncatula roots.&lt;br /&gt;PLANTA 229(5): 1023-1034.</bio1>
+<wels>Grunwald, U.; Guo, W.; Fischer, K.; Isayenkov, S.; Ludwig-Mueller, J.; Hause, B.; Yan, X.; Küster, H.; Franken, P. (2009): Overlapping expression patterns and differential transcript levels of phosphate transporter genes in arbuscular mycorrhizal, P-i-fertilised and phytohormone-treated Medicago truncatula roots &lt;em&gt;PLANTA&lt;/em&gt;,229:(5): 1023-1034.</wels>
+<default>Grunwald U, Guo W, Fischer K, Isayenkov S, Ludwig-Mueller J, Hause B, Yan X, Küster H, Franken P (2009) &lt;br /&gt;PLANTA 229(5): 1023-1034.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Grunwald, U., Guo, W., Fischer, K., Isayenkov, S., Ludwig-Mueller, J., Hause, B., Yan, X., et al. (2009). Overlapping expression patterns and differential transcript levels of phosphate transporter genes in arbuscular mycorrhizal, P-i-fertilised and phytohormone-treated Medicago truncatula roots. &lt;em&gt;PLANTA&lt;/em&gt;, &lt;em&gt;229&lt;/em&gt;(5), 1023-1034.&lt;/div&gt;</apa_indent>
+<ieee>U. Grunwald, et al., “Overlapping expression patterns and differential transcript levels of phosphate transporter genes in arbuscular mycorrhizal, P-i-fertilised and phytohormone-treated Medicago truncatula roots”, &lt;em&gt;PLANTA&lt;/em&gt;,  vol. 229, 2009,  pp. 1023-1034.</ieee>
+<lncs>Grunwald, U., Guo, W., Fischer, K., Isayenkov, S., Ludwig-Mueller, J., Hause, B., Yan, X., Küster, H., Franken, P.: Overlapping expression patterns and differential transcript levels of phosphate transporter genes in arbuscular mycorrhizal, P-i-fertilised and phytohormone-treated Medicago truncatula roots. PLANTA. 229, 1023-1034 (2009).</lncs>
+<mla>Grunwald, Ulf, Guo, Wenbing, Fischer, Kerstin, Isayenkov, Stanislav, Ludwig-Mueller, Jutta, Hause, Bettina, Yan, Xiaolong, Küster, Helge, and Franken, Philipp. “Overlapping expression patterns and differential transcript levels of phosphate transporter genes in arbuscular mycorrhizal, P-i-fertilised and phytohormone-treated Medicago truncatula roots”. &lt;em&gt;PLANTA&lt;/em&gt; 229.5 (2009): 1023-1034.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Grunwald, Ulf, Guo, Wenbing, Fischer, Kerstin, Isayenkov, Stanislav, Ludwig-Mueller, Jutta, Hause, Bettina, Yan, Xiaolong, Küster, Helge, and Franken, Philipp. 2009. “Overlapping expression patterns and differential transcript levels of phosphate transporter genes in arbuscular mycorrhizal, P-i-fertilised and phytohormone-treated Medicago truncatula roots”. &lt;em&gt;PLANTA&lt;/em&gt; 229 (5): 1023-1034.&lt;/div&gt;</chicago>
+<apa>Grunwald, U., Guo, W., Fischer, K., Isayenkov, S., Ludwig-Mueller, J., Hause, B., Yan, X., et al. (2009). Overlapping expression patterns and differential transcript levels of phosphate transporter genes in arbuscular mycorrhizal, P-i-fertilised and phytohormone-treated Medicago truncatula roots. &lt;em&gt;PLANTA&lt;/em&gt;, &lt;em&gt;229&lt;/em&gt;(5), 1023-1034.</apa>
+<angewandte-chemie>U.  Grunwald, W.  Guo, K.  Fischer, S.  Isayenkov, J.  Ludwig-Mueller, B.  Hause, X.  Yan, H.  Küster, and P.  Franken, “Overlapping expression patterns and differential transcript levels of phosphate transporter genes in arbuscular mycorrhizal, P-i-fertilised and phytohormone-treated Medicago truncatula roots”, &lt;em&gt;PLANTA&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;229&lt;/em&gt;, 1023-1034.</angewandte-chemie>
+<frontiers>Grunwald, U., Guo, W., Fischer, K., Isayenkov, S., Ludwig-Mueller, J., Hause, B., Yan, X., Küster, H., and Franken, P. (2009). Overlapping expression patterns and differential transcript levels of phosphate transporter genes in arbuscular mycorrhizal, P-i-fertilised and phytohormone-treated Medicago truncatula roots. &lt;em&gt;PLANTA&lt;/em&gt; 229, 1023-1034.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1633944</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:04Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-28T14:04:09Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1633944</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1633944</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

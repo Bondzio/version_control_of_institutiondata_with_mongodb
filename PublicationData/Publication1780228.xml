@@ -1,0 +1,108 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Elektronische Datenverarbeitung bei den Nachrichtendiensten</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Christoph</namePart>
+  <namePart type="family">Gusy</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21583</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Bernard</namePart><namePart type="family">Großfeld</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Weltgesellschaft</namePart>
+  <identifier type="unibi">89044</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Fakultät für Rechtswissenschaft</namePart>
+  <identifier type="unibi">10029</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Gusy_063.pdf">https://pub.uni-bielefeld.de/download/1780228/2312800</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Heymann</publisher><dateIssued encoding="w3cdtf">1986</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+<subject><topic>Medienrecht</topic><topic>Deutschland &lt;Bundesrepublik&gt; Telekommunikation</topic><topic>Datenschutz</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Elektronische Medien im Recht</title></titleInfo>
+  <identifier type="isbn">3-452-20447-2</identifier><identifier type="urn">urn:nbn:de:0070-bipr-19836</identifier>
+<part><extent unit="pages">29-49</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<lncs>Gusy, C.: Elektronische Datenverarbeitung bei den Nachrichtendiensten. In: Großfeld, B. (ed.) Elektronische Medien im Recht. p. 29-49. Heymann, Köln [u.a.] (1986).</lncs>
+<mla>Gusy, Christoph. “Elektronische Datenverarbeitung bei den Nachrichtendiensten”. &lt;em&gt;Elektronische Medien im Recht&lt;/em&gt;. Ed. Bernard Großfeld. Köln [u.a.]: Heymann, 1986. 29-49.</mla>
+<ieee>C. Gusy, “Elektronische Datenverarbeitung bei den Nachrichtendiensten”, &lt;em&gt;Elektronische Medien im Recht&lt;/em&gt;, B. Großfeld, ed.,  Köln [u.a.]: Heymann, 1986,  pp.29-49.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gusy, C. (1986). Elektronische Datenverarbeitung bei den Nachrichtendiensten. In B.  Großfeld (Ed.), &lt;em&gt;Elektronische Medien im Recht&lt;/em&gt; (pp. 29-49). Köln [u.a.]: Heymann.&lt;/div&gt;</apa_indent>
+<frontiers>Gusy, C. (1986). “Elektronische Datenverarbeitung bei den Nachrichtendiensten” in &lt;em&gt;Elektronische Medien im Recht&lt;/em&gt;, ed. B.  Großfeld (Köln [u.a.]: Heymann), 29-49.</frontiers>
+<angewandte-chemie>C.  Gusy, in &lt;em&gt;Elektronische Medien im Recht&lt;/em&gt; (Ed.: B. Großfeld), Heymann, Köln [u.a.], &lt;strong&gt;1986&lt;/strong&gt;, p. 29-49.</angewandte-chemie>
+<apa>Gusy, C. (1986). Elektronische Datenverarbeitung bei den Nachrichtendiensten. In B.  Großfeld (Ed.), &lt;em&gt;Elektronische Medien im Recht&lt;/em&gt; (pp. 29-49). Köln [u.a.]: Heymann.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gusy, Christoph. 1986. “Elektronische Datenverarbeitung bei den Nachrichtendiensten”. In &lt;em&gt;Elektronische Medien im Recht&lt;/em&gt;, ed. Bernard Großfeld, 29-49. Köln [u.a.]: Heymann.&lt;/div&gt;</chicago>
+<bio1>Gusy C (1986) &lt;br /&gt;Elektronische Datenverarbeitung bei den Nachrichtendiensten. &lt;br /&gt;In:  Elektronische Medien im Recht. Großfeld B (Ed); Köln [u.a.]: Heymann:  29-49.</bio1>
+<aps>C.  Gusy, Elektronische Datenverarbeitung bei den Nachrichtendiensten, in &lt;em&gt;Elektronische Medien im Recht&lt;/em&gt;, edited by B.  Großfeld (Heymann, Köln [U.a.], 1986), p. 29-49.</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gusy, C. (1986). Elektronische Datenverarbeitung bei den Nachrichtendiensten. &lt;em&gt;Elektronische Medien im Recht&lt;/em&gt; (S. 29-49). Köln [u.a.]: Heymann.&lt;/div&gt;</dgps>
+<ama>Gusy C. Elektronische Datenverarbeitung bei den Nachrichtendiensten. In: Großfeld B, ed. &lt;em&gt;Elektronische Medien im Recht&lt;/em&gt;. Köln [u.a.]: Heymann;  1986: 29-49.</ama>
+<harvard1>Gusy, C., 1986. Elektronische Datenverarbeitung bei den Nachrichtendiensten. In B.  Großfeld, ed. &lt;em&gt;Elektronische Medien im Recht&lt;/em&gt;.  Köln [u.a.]: Heymann, pp. 29-49.</harvard1>
+<default>Gusy C (1986)  &lt;br /&gt;In:  Elektronische Medien im Recht. Großfeld B (Ed);Köln [u.a.]: Heymann:  29-49.</default>
+<wels>Gusy, C. (1986): Elektronische Datenverarbeitung bei den Nachrichtendiensten. In: Bernard Großfeld (Hrsg.):  Elektronische Medien im Recht. Köln [u.a.]: Heymann.  S. 29-49.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780228</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780228</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780228</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

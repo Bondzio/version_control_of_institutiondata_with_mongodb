@@ -1,0 +1,127 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Towards the integrated analysis, visualization and reconstruction of microbial gene regulatory networks</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Jan</namePart>
+  <namePart type="family">Baumbach</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Tauch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">22082</identifier></name>
+<name type="personal">
+  <namePart type="given">Sven</namePart>
+  <namePart type="family">Rahmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Genomforschung und Systembiologie</namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Graduate Center</namePart>
+  <identifier type="unibi">16941123</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  A. Tauch</namePart>
+  <identifier type="unibi">33070741</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">To handle changing environmental surroundings and to manage unfavorable conditions, microbial organisms have evolved complex transcriptional regulatory networks. To comprehensively analyze these gene regulatory networks, several online available databases and analysis platforms have been implemented and established. In this article, we address the typical cycle of scientific knowledge exploration and integration in the area of procaryotic transcriptional gene regulation. We briefly review five popular, publicly available systems that support (i) the integration of existing knowledge, (ii) visualization capabilities and (iii) computer analysis to predict promising wet lab targets. We exemplify the benefits of such integrated data analysis platforms by means of four application cases exemplarily performed with the corynebacterial reference database CoryneRegNet.</abstract>
+
+<originInfo><publisher>Oxford University Press (OUP)</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>BRIEFINGS IN BIOINFORMATICS</title></titleInfo>
+  <identifier type="issn">1467-5463</identifier>
+  <identifier type="eIssn">1477-4054</identifier>
+  <identifier type="MEDLINE">19074493</identifier>
+  <identifier type="ISI">000262957900007</identifier><identifier type="doi">10.1093/bib/bbn055</identifier>
+<part><detail type="volume"><number>10</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">75-83</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baumbach, J., Tauch, A. &amp;amp; Rahmann, S. (2009). Towards the integrated analysis, visualization and reconstruction of microbial gene regulatory networks. &lt;em&gt;BRIEFINGS IN BIOINFORMATICS&lt;/em&gt;, &lt;em&gt;10&lt;/em&gt;(1), 75-83. Oxford University Press (OUP). doi:10.1093/bib/bbn055.&lt;/div&gt;</dgps>
+<ama>Baumbach J, Tauch A, Rahmann S. Towards the integrated analysis, visualization and reconstruction of microbial gene regulatory networks. &lt;em&gt;BRIEFINGS IN BIOINFORMATICS&lt;/em&gt;. 2009;10(1):75-83.</ama>
+<harvard1>Baumbach, J., Tauch, A., &amp;amp; Rahmann, S., 2009. Towards the integrated analysis, visualization and reconstruction of microbial gene regulatory networks. &lt;em&gt;BRIEFINGS IN BIOINFORMATICS&lt;/em&gt;, 10(1), p 75-83.</harvard1>
+<aps>J.  Baumbach, A.  Tauch, and S.  Rahmann, Towards the integrated analysis, visualization and reconstruction of microbial gene regulatory networks, BRIEFINGS IN BIOINFORMATICS &lt;strong&gt;10&lt;/strong&gt;, 75-83 (2009).</aps>
+<bio1>Baumbach J, Tauch A, Rahmann S (2009) &lt;br /&gt;Towards the integrated analysis, visualization and reconstruction of microbial gene regulatory networks.&lt;br /&gt;BRIEFINGS IN BIOINFORMATICS 10(1): 75-83.</bio1>
+<wels>Baumbach, J.; Tauch, A.; Rahmann, S. (2009): Towards the integrated analysis, visualization and reconstruction of microbial gene regulatory networks &lt;em&gt;BRIEFINGS IN BIOINFORMATICS&lt;/em&gt;,10:(1): 75-83.</wels>
+<default>Baumbach J, Tauch A, Rahmann S (2009) &lt;br /&gt;BRIEFINGS IN BIOINFORMATICS 10(1): 75-83.</default>
+<ieee>J. Baumbach, A. Tauch, and S. Rahmann, “Towards the integrated analysis, visualization and reconstruction of microbial gene regulatory networks”, &lt;em&gt;BRIEFINGS IN BIOINFORMATICS&lt;/em&gt;,  vol. 10, 2009,  pp. 75-83.</ieee>
+<mla>Baumbach, Jan, Tauch, Andreas, and Rahmann, Sven. “Towards the integrated analysis, visualization and reconstruction of microbial gene regulatory networks”. &lt;em&gt;BRIEFINGS IN BIOINFORMATICS&lt;/em&gt; 10.1 (2009): 75-83.</mla>
+<lncs>Baumbach, J., Tauch, A., Rahmann, S.: Towards the integrated analysis, visualization and reconstruction of microbial gene regulatory networks. BRIEFINGS IN BIOINFORMATICS. 10, 75-83 (2009).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baumbach, J., Tauch, A., &amp;amp; Rahmann, S. (2009). Towards the integrated analysis, visualization and reconstruction of microbial gene regulatory networks. &lt;em&gt;BRIEFINGS IN BIOINFORMATICS&lt;/em&gt;, &lt;em&gt;10&lt;/em&gt;(1), 75-83.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>J.  Baumbach, A.  Tauch, and S.  Rahmann, “Towards the integrated analysis, visualization and reconstruction of microbial gene regulatory networks”, &lt;em&gt;BRIEFINGS IN BIOINFORMATICS&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;10&lt;/em&gt;, 75-83.</angewandte-chemie>
+<apa>Baumbach, J., Tauch, A., &amp;amp; Rahmann, S. (2009). Towards the integrated analysis, visualization and reconstruction of microbial gene regulatory networks. &lt;em&gt;BRIEFINGS IN BIOINFORMATICS&lt;/em&gt;, &lt;em&gt;10&lt;/em&gt;(1), 75-83.</apa>
+<frontiers>Baumbach, J., Tauch, A., and Rahmann, S. (2009). Towards the integrated analysis, visualization and reconstruction of microbial gene regulatory networks. &lt;em&gt;BRIEFINGS IN BIOINFORMATICS&lt;/em&gt; 10, 75-83.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baumbach, Jan, Tauch, Andreas, and Rahmann, Sven. 2009. “Towards the integrated analysis, visualization and reconstruction of microbial gene regulatory networks”. &lt;em&gt;BRIEFINGS IN BIOINFORMATICS&lt;/em&gt; 10 (1): 75-83.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1635928</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:52Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-12-19T13:18:23Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1635928</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1635928</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

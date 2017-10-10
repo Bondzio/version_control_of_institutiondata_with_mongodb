@@ -1,0 +1,119 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Fusing biomedical multi-modal data for exploratory data analysis</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">Martin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">162501</identifier></name>
+<name type="personal">
+  <namePart type="given">Harmen grosse</namePart>
+  <namePart type="family">Deters</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Tim Wilhelm</namePart>
+  <namePart type="family">Nattkemper</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11602</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Neuroinformatik</namePart>
+  <identifier type="unibi">10038</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group T. Nattkemper</namePart>
+  <identifier type="unibi">33067409</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Data analysis in modern biomedical research has to integrate data from different sources, like microarray, clinical and categorical data, so called multi-modal data. The reef SOM, a metaphoric display, is applied and further improved such that it allows the simultaneous display of biomedical multi-modal data for an exploratory analysis. Visualizations of microarray, clinical, and category data are combined in one informative and entertaining image. The U-matrix of the SOM trained on microarray data is visualized as an underwater sea bed using color and texture. The clinical data and category data are integrated in the form of fish shaped glyphs. The resulting images are intuitive, entertaining and can easily be interpreted by the biomedical collaborator, since specific knowledge about the SOM algorithm is not required. Visual inspection enables the detection of interesting structural patterns in the multi-modal data when browsing through and zooming into the image. Results of such an analysis are presented for the van&apos;t Veer data set.</abstract>
+
+<originInfo><publisher>SPRINGER-VERLAG BERLIN</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>multi-modal data</topic><topic>complex data</topic><topic>semantic data integration</topic><topic>neural networks</topic><topic>information visualization</topic><topic>exploratory data analysis</topic><topic>self organizing maps</topic><topic>data mining</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>ARTIFICIAL NEURAL NETWORKS - ICANN 2006, PT 2</title></titleInfo>
+  <identifier type="issn">0302-9743</identifier>
+  <identifier type="ISI">000241475200083</identifier><identifier type="doi">10.1007/11840930_83</identifier>
+<part><detail type="volume"><number>4132</number></detail><extent unit="pages">798-807</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>C. Martin, H. grosse Deters, and T.W. Nattkemper, “Fusing biomedical multi-modal data for exploratory data analysis”, &lt;em&gt;ARTIFICIAL NEURAL NETWORKS - ICANN 2006, PT 2&lt;/em&gt;, vol. 4132, SPRINGER-VERLAG BERLIN, 2006,  pp.798-807.</ieee>
+<mla>Martin, Christian, Deters, Harmen grosse, and Nattkemper, Tim Wilhelm. “Fusing biomedical multi-modal data for exploratory data analysis”. &lt;em&gt;ARTIFICIAL NEURAL NETWORKS - ICANN 2006, PT 2&lt;/em&gt;. SPRINGER-VERLAG BERLIN, 2006.Vol. 4132. 798-807.</mla>
+<lncs>Martin, C., Deters, H. grosse, Nattkemper, T.W.: Fusing biomedical multi-modal data for exploratory data analysis. ARTIFICIAL NEURAL NETWORKS - ICANN 2006, PT 2. 4132, p. 798-807. SPRINGER-VERLAG BERLIN (2006).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Martin, C., Deters, H.  grosse, &amp;amp; Nattkemper, T. W. (2006). Fusing biomedical multi-modal data for exploratory data analysis. &lt;em&gt;ARTIFICIAL NEURAL NETWORKS - ICANN 2006, PT 2&lt;/em&gt;, &lt;em&gt;4132&lt;/em&gt;, 798-807.&lt;/div&gt;</apa_indent>
+<apa>Martin, C., Deters, H.  grosse, &amp;amp; Nattkemper, T. W. (2006). Fusing biomedical multi-modal data for exploratory data analysis. &lt;em&gt;ARTIFICIAL NEURAL NETWORKS - ICANN 2006, PT 2&lt;/em&gt;, &lt;em&gt;4132&lt;/em&gt;, 798-807.</apa>
+<angewandte-chemie>C.  Martin, H.  grosse Deters, and T. W.  Nattkemper, in &lt;em&gt;ARTIFICIAL NEURAL NETWORKS - ICANN 2006, PT 2&lt;/em&gt;, Springer-Verlag Berlin, &lt;strong&gt;2006&lt;/strong&gt;, p. 798-807.</angewandte-chemie>
+<frontiers>Martin, C., Deters, H.  grosse, and Nattkemper, T. W. (2006). “Fusing biomedical multi-modal data for exploratory data analysis” in &lt;em&gt;ARTIFICIAL NEURAL NETWORKS - ICANN 2006, PT 2&lt;/em&gt;, vol. 4132, (SPRINGER-VERLAG BERLIN), 798-807.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Martin, Christian, Deters, Harmen grosse, and Nattkemper, Tim Wilhelm. 2006. “Fusing biomedical multi-modal data for exploratory data analysis”. In &lt;em&gt;ARTIFICIAL NEURAL NETWORKS - ICANN 2006, PT 2&lt;/em&gt;, 4132:798-807. SPRINGER-VERLAG BERLIN.&lt;/div&gt;</chicago>
+<harvard1>Martin, C., Deters, H. grosse, &amp;amp; Nattkemper, T.W., 2006. Fusing biomedical multi-modal data for exploratory data analysis. In &lt;em&gt;ARTIFICIAL NEURAL NETWORKS - ICANN 2006, PT 2&lt;/em&gt;. no.4132  SPRINGER-VERLAG BERLIN, pp. 798-807.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Martin, C., Deters, H. grosse &amp;amp; Nattkemper, T.W. (2006). Fusing biomedical multi-modal data for exploratory data analysis. &lt;em&gt;ARTIFICIAL NEURAL NETWORKS - ICANN 2006, PT 2&lt;/em&gt; (S. 798-807). SPRINGER-VERLAG BERLIN. doi:10.1007/11840930_83.&lt;/div&gt;</dgps>
+<ama>Martin C, Deters H grosse, Nattkemper TW. Fusing biomedical multi-modal data for exploratory data analysis. In:  &lt;em&gt;ARTIFICIAL NEURAL NETWORKS - ICANN 2006, PT 2&lt;/em&gt;. Vol 4132. SPRINGER-VERLAG BERLIN;  2006: 798-807.</ama>
+<aps>C.  Martin, H.  grosse Deters, and T. W.  Nattkemper, Fusing biomedical multi-modal data for exploratory data analysis, in &lt;em&gt;ARTIFICIAL NEURAL NETWORKS - ICANN 2006, PT 2&lt;/em&gt;, &lt;strong&gt;4132&lt;/strong&gt; (SPRINGER-VERLAG BERLIN, 2006), p. 798-807.</aps>
+<bio1>Martin C, Deters H grosse, Nattkemper TW (2006) &lt;br /&gt;Fusing biomedical multi-modal data for exploratory data analysis. &lt;br /&gt;In:  ARTIFICIAL NEURAL NETWORKS - ICANN 2006, PT 2. 4132. SPRINGER-VERLAG BERLIN:  798-807.</bio1>
+<wels>Martin, C.; Deters, H.  grosse; Nattkemper, T. W. (2006): Fusing biomedical multi-modal data for exploratory data analysis. In: ARTIFICIAL NEURAL NETWORKS - ICANN 2006, PT 2. SPRINGER-VERLAG BERLIN. (4132).  S. 798-807.</wels>
+<default>Martin C, Deters H grosse, Nattkemper TW (2006)  &lt;br /&gt;In:  ARTIFICIAL NEURAL NETWORKS - ICANN 2006, PT 2. 4132. SPRINGER-VERLAG BERLIN:  798-807.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1597259</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:18:45Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-26T13:54:27Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1597259</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1597259</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

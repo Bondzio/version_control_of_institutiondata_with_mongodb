@@ -1,0 +1,139 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Efficient computation of absent words in genomic sequences</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Julia</namePart>
+  <namePart type="family">Herold</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">162497</identifier></name>
+<name type="personal">
+  <namePart type="given">Stefan</namePart>
+  <namePart type="family">Kurtz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Robert</namePart>
+  <namePart type="family">Giegerich</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">147565</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Technische Fakultät</namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group R. Giegerich</namePart>
+  <identifier type="unibi">33067120</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Praktische Informatik</namePart>
+  <identifier type="unibi">10039</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Center of Excellence - Cognitive Interaction Technology CITEC</namePart>
+  <identifier type="unibi">8014655</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Background: Analysis of sequence composition is a routine task in genome research. Organisms are characterized by their base composition, dinucleotide relative abundance, codon usage, and so on. Unique subsequences are markers of special interest in genome comparison, expression profiling, and genetic engineering. Relative to a random sequence of the same length, unique subsequences are overrepresented in real genomes. Shortest words absent from a genome have been addressed in two recent studies. Results: We describe a new algorithm and software for the computation of absent words. It is more efficient than previous algorithms and easier to use. It directly computes unwords without the need to specify a length estimate. Moreover, it avoids the space requirements of index structures such as suffix trees and suffix arrays. Our implementation is available as an open source package. We compute unwords of human and mouse as well as some other organisms, covering a genome size range from 109 down to 105 bp. Conclusion: The new algorithm computes absent words for the human genome in 10 minutes on standard hardware, using only 2.5 Mb of space. This enables us to perform this type of analysis not only for the largest genomes available so far, but also for the emerging pan- and meta-genome data.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="gieg_2.pdf">https://pub.uni-bielefeld.de/download/1784025/2314322</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>BMC Bioinformatics</title></titleInfo>
+  <identifier type="issn">1471-2105</identifier>
+  <identifier type="MEDLINE">18366790</identifier>
+  <identifier type="ISI">000255284000005</identifier><identifier type="urn">urn:nbn:de:0070-pub-17840255</identifier><identifier type="doi">10.1186/1471-2105-9-167</identifier>
+<part><detail type="volume"><number>9</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">167</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Herold, Julia, Kurtz, Stefan, and Giegerich, Robert. 2008. “Efficient computation of absent words in genomic sequences”. &lt;em&gt;BMC Bioinformatics&lt;/em&gt; 9 (1).&lt;/div&gt;</chicago>
+<frontiers>Herold, J., Kurtz, S., and Giegerich, R. (2008). Efficient computation of absent words in genomic sequences. &lt;em&gt;BMC Bioinformatics&lt;/em&gt; 9.</frontiers>
+<apa>Herold, J., Kurtz, S., &amp;amp; Giegerich, R. (2008). Efficient computation of absent words in genomic sequences. &lt;em&gt;BMC Bioinformatics&lt;/em&gt;, &lt;em&gt;9&lt;/em&gt;(1).</apa>
+<angewandte-chemie>J.  Herold, S.  Kurtz, and R.  Giegerich, “Efficient computation of absent words in genomic sequences”, &lt;em&gt;BMC Bioinformatics&lt;/em&gt;, &lt;strong&gt;2008&lt;/strong&gt;, &lt;em&gt;9&lt;/em&gt;.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Herold, J., Kurtz, S., &amp;amp; Giegerich, R. (2008). Efficient computation of absent words in genomic sequences. &lt;em&gt;BMC Bioinformatics&lt;/em&gt;, &lt;em&gt;9&lt;/em&gt;(1).&lt;/div&gt;</apa_indent>
+<mla>Herold, Julia, Kurtz, Stefan, and Giegerich, Robert. “Efficient computation of absent words in genomic sequences”. &lt;em&gt;BMC Bioinformatics&lt;/em&gt; 9.1 (2008).</mla>
+<lncs>Herold, J., Kurtz, S., Giegerich, R.: Efficient computation of absent words in genomic sequences. BMC Bioinformatics. 9, (2008).</lncs>
+<ieee>J. Herold, S. Kurtz, and R. Giegerich, “Efficient computation of absent words in genomic sequences”, &lt;em&gt;BMC Bioinformatics&lt;/em&gt;,  vol. 9, 2008.</ieee>
+<default>Herold J, Kurtz S, Giegerich R (2008) &lt;br /&gt;BMC Bioinformatics 9(1).</default>
+<wels>Herold, J.; Kurtz, S.; Giegerich, R. (2008): Efficient computation of absent words in genomic sequences &lt;em&gt;BMC Bioinformatics&lt;/em&gt;,9:(1)</wels>
+<bio1>Herold J, Kurtz S, Giegerich R (2008) &lt;br /&gt;Efficient computation of absent words in genomic sequences.&lt;br /&gt;BMC Bioinformatics 9(1).</bio1>
+<aps>J.  Herold, S.  Kurtz, and R.  Giegerich, Efficient computation of absent words in genomic sequences, BMC Bioinformatics &lt;strong&gt;9&lt;/strong&gt;, (2008).</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Herold, J., Kurtz, S. &amp;amp; Giegerich, R. (2008). Efficient computation of absent words in genomic sequences. &lt;em&gt;BMC Bioinformatics&lt;/em&gt;, &lt;em&gt;9&lt;/em&gt;(1). doi:10.1186/1471-2105-9-167.&lt;/div&gt;</dgps>
+<harvard1>Herold, J., Kurtz, S., &amp;amp; Giegerich, R., 2008. Efficient computation of absent words in genomic sequences. &lt;em&gt;BMC Bioinformatics&lt;/em&gt;, 9(1).</harvard1>
+<ama>Herold J, Kurtz S, Giegerich R. Efficient computation of absent words in genomic sequences. &lt;em&gt;BMC Bioinformatics&lt;/em&gt;. 2008;9(1).</ama>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1784025</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-02-23T14:35:09Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1784025</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1784025</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,95 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Jet quenching</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Rudolf</namePart>
+  <namePart type="family">Baier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40336</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">23470601</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">A short summary of the physics underlying jet quenching is given.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">2003</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>NUCLEAR PHYSICS A</title></titleInfo>
+  <identifier type="issn">0375-9474</identifier>
+  <identifier type="arXiv">hep-ph/0209038</identifier>
+  <identifier type="INSPIRE">594317</identifier>
+  <identifier type="ISI">000181737500022</identifier><identifier type="doi">10.1016/S0375-9474(02)01429-X</identifier>
+<part><detail type="volume"><number>715</number></detail><extent unit="pages">209C-218C</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps> R.  Baier, Jet quenching, in &lt;em&gt;NUCLEAR PHYSICS A&lt;/em&gt;, &lt;strong&gt;715&lt;/strong&gt; (ELSEVIER SCIENCE BV, 2003), p. 209C-218C.</aps>
+<bio1>Baier R (2003) &lt;br /&gt;Jet quenching. &lt;br /&gt;In:  NUCLEAR PHYSICS A. 715. ELSEVIER SCIENCE BV:  209C-218C.</bio1>
+<harvard1>Baier, R., 2003. Jet quenching. In &lt;em&gt;NUCLEAR PHYSICS A&lt;/em&gt;. no.715  ELSEVIER SCIENCE BV, pp. 209C-218C.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baier, R. (2003). Jet quenching. &lt;em&gt;NUCLEAR PHYSICS A&lt;/em&gt; (S. 209C-218C). ELSEVIER SCIENCE BV. doi:10.1016/S0375-9474(02)01429-X.&lt;/div&gt;</dgps>
+<ama>Baier R. Jet quenching. In:  &lt;em&gt;NUCLEAR PHYSICS A&lt;/em&gt;. Vol 715. ELSEVIER SCIENCE BV;  2003: 209C-218C.</ama>
+<default>Baier R (2003)  &lt;br /&gt;In:  NUCLEAR PHYSICS A. 715. ELSEVIER SCIENCE BV:  209C-218C.</default>
+<wels>Baier, R. (2003): Jet quenching. In: NUCLEAR PHYSICS A. ELSEVIER SCIENCE BV. (715).  S. 209C-218C.</wels>
+<lncs> Baier, R.: Jet quenching. NUCLEAR PHYSICS A. 715, p. 209C-218C. ELSEVIER SCIENCE BV (2003).</lncs>
+<mla>Baier, Rudolf. “Jet quenching”. &lt;em&gt;NUCLEAR PHYSICS A&lt;/em&gt;. ELSEVIER SCIENCE BV, 2003.Vol. 715. 209C-218C.</mla>
+<ieee> R. Baier, “Jet quenching”, &lt;em&gt;NUCLEAR PHYSICS A&lt;/em&gt;, vol. 715, ELSEVIER SCIENCE BV, 2003,  pp.209C-218C.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baier, R. (2003). Jet quenching. &lt;em&gt;NUCLEAR PHYSICS A&lt;/em&gt;, &lt;em&gt;715&lt;/em&gt;, 209C-218C.&lt;/div&gt;</apa_indent>
+<frontiers>Baier, R. (2003). “Jet quenching” in &lt;em&gt;NUCLEAR PHYSICS A&lt;/em&gt;, vol. 715, (ELSEVIER SCIENCE BV), 209C-218C.</frontiers>
+<apa>Baier, R. (2003). Jet quenching. &lt;em&gt;NUCLEAR PHYSICS A&lt;/em&gt;, &lt;em&gt;715&lt;/em&gt;, 209C-218C.</apa>
+<angewandte-chemie>R.  Baier, in &lt;em&gt;NUCLEAR PHYSICS A&lt;/em&gt;, Elsevier Science Bv, &lt;strong&gt;2003&lt;/strong&gt;, p. 209C-218C.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baier, Rudolf. 2003. “Jet quenching”. In &lt;em&gt;NUCLEAR PHYSICS A&lt;/em&gt;, 715:209C-218C. ELSEVIER SCIENCE BV.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1612220</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:00:02Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-09-26T06:20:26Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1612220</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1612220</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

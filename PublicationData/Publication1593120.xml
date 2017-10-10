@@ -1,0 +1,161 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>An in situ probe for on-line monitoring of cell density and viability on the basis of dark field microscopy in conjunction with image processing and supervised machine learning</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Ning</namePart>
+  <namePart type="family">Wei</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jia</namePart>
+  <namePart type="family">You</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Karl</namePart>
+  <namePart type="family">Friehs</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11015</identifier></name>
+<name type="personal">
+  <namePart type="given">Erwin</namePart>
+  <namePart type="family">Flaschel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11014</identifier></name>
+<name type="personal">
+  <namePart type="given">Tim Wilhelm</namePart>
+  <namePart type="family">Nattkemper</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11602</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">29610175</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">4838684</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33086526</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10042</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">16941123</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33067409</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Fermentation industries would benefit from on-line monitoring of important parameters describing cell growth such as cell density and variability during fermentation processes. For this purpose, an in situ probe has been developed, which utilizes a dark field illumination unit to obtain high contrast images with an integrated CCD camera. To test the probe, brewer&apos;s yeast Saccharomyces cerevisiae is chosen as the target microorganism. Images of the yeast cells in the bioreactors are captured, processed, and analyzed automatically by means of mechatronics, image processing, and machine learning. Two support vector machine based classifiers are used for separating cells from background, and for distinguishing live from dead cells afterwards. The evaluation of the in situ experiments showed strong correlation between results obtained by the probe and those by widely accepted standard methods. Thus, the in situ probe has been proved to be a feasible device for on-line monitoring of both cell density and viability with accuracy and stability.</abstract>
+
+<originInfo><publisher>Wiley</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>image processing</topic><topic>cell density</topic><topic>support vector machine</topic><topic>dark field microscopy</topic><topic>viability</topic><topic>on-line measurement</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Biotechnology and Bioengineering</title></titleInfo>
+  <identifier type="issn">0006-3592</identifier>
+  <identifier type="eIssn">1097-0290</identifier>
+  <identifier type="MEDLINE">17274069</identifier>
+  <identifier type="ISI">000248158800015</identifier><identifier type="doi">10.1002/bit.21368</identifier>
+<part><detail type="volume"><number>97</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">1489-1500</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Wei, N.; You, J.; Friehs, K.; Flaschel, E.; Nattkemper, T. W. (2007): An in situ probe for on-line monitoring of cell density and viability on the basis of dark field microscopy in conjunction with image processing and supervised machine learning &lt;em&gt;Biotechnology and Bioengineering&lt;/em&gt;,97:(6): 1489-1500.</wels>
+<default>Wei N, You J, Friehs K, Flaschel E, Nattkemper TW (2007) &lt;br /&gt;Biotechnology and Bioengineering 97(6): 1489-1500.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wei, N., You, J., Friehs, K., Flaschel, E. &amp;amp; Nattkemper, T.W. (2007). An in situ probe for on-line monitoring of cell density and viability on the basis of dark field microscopy in conjunction with image processing and supervised machine learning. &lt;em&gt;Biotechnology and Bioengineering&lt;/em&gt;, &lt;em&gt;97&lt;/em&gt;(6), 1489-1500. Wiley. doi:10.1002/bit.21368.&lt;/div&gt;</dgps>
+<ama>Wei N, You J, Friehs K, Flaschel E, Nattkemper TW. An in situ probe for on-line monitoring of cell density and viability on the basis of dark field microscopy in conjunction with image processing and supervised machine learning. &lt;em&gt;Biotechnology and Bioengineering&lt;/em&gt;. 2007;97(6):1489-1500.</ama>
+<harvard1>Wei, N., et al., 2007. An in situ probe for on-line monitoring of cell density and viability on the basis of dark field microscopy in conjunction with image processing and supervised machine learning. &lt;em&gt;Biotechnology and Bioengineering&lt;/em&gt;, 97(6), p 1489-1500.</harvard1>
+<bio1>Wei N, You J, Friehs K, Flaschel E, Nattkemper TW (2007) &lt;br /&gt;An in situ probe for on-line monitoring of cell density and viability on the basis of dark field microscopy in conjunction with image processing and supervised machine learning.&lt;br /&gt;Biotechnology and Bioengineering 97(6): 1489-1500.</bio1>
+<aps>N.  Wei, et al., An in situ probe for on-line monitoring of cell density and viability on the basis of dark field microscopy in conjunction with image processing and supervised machine learning, Biotechnology and Bioengineering &lt;strong&gt;97&lt;/strong&gt;, 1489-1500 (2007).</aps>
+<angewandte-chemie>N.  Wei, J.  You, K.  Friehs, E.  Flaschel, and T. W.  Nattkemper, “An in situ probe for on-line monitoring of cell density and viability on the basis of dark field microscopy in conjunction with image processing and supervised machine learning”, &lt;em&gt;Biotechnology and Bioengineering&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;97&lt;/em&gt;, 1489-1500.</angewandte-chemie>
+<apa>Wei, N., You, J., Friehs, K., Flaschel, E., &amp;amp; Nattkemper, T. W. (2007). An in situ probe for on-line monitoring of cell density and viability on the basis of dark field microscopy in conjunction with image processing and supervised machine learning. &lt;em&gt;Biotechnology and Bioengineering&lt;/em&gt;, &lt;em&gt;97&lt;/em&gt;(6), 1489-1500.</apa>
+<frontiers>Wei, N., You, J., Friehs, K., Flaschel, E., and Nattkemper, T. W. (2007). An in situ probe for on-line monitoring of cell density and viability on the basis of dark field microscopy in conjunction with image processing and supervised machine learning. &lt;em&gt;Biotechnology and Bioengineering&lt;/em&gt; 97, 1489-1500.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wei, Ning, You, Jia, Friehs, Karl, Flaschel, Erwin, and Nattkemper, Tim Wilhelm. 2007. “An in situ probe for on-line monitoring of cell density and viability on the basis of dark field microscopy in conjunction with image processing and supervised machine learning”. &lt;em&gt;Biotechnology and Bioengineering&lt;/em&gt; 97 (6): 1489-1500.&lt;/div&gt;</chicago>
+<ieee>N. Wei, et al., “An in situ probe for on-line monitoring of cell density and viability on the basis of dark field microscopy in conjunction with image processing and supervised machine learning”, &lt;em&gt;Biotechnology and Bioengineering&lt;/em&gt;,  vol. 97, 2007,  pp. 1489-1500.</ieee>
+<mla>Wei, Ning, You, Jia, Friehs, Karl, Flaschel, Erwin, and Nattkemper, Tim Wilhelm. “An in situ probe for on-line monitoring of cell density and viability on the basis of dark field microscopy in conjunction with image processing and supervised machine learning”. &lt;em&gt;Biotechnology and Bioengineering&lt;/em&gt; 97.6 (2007): 1489-1500.</mla>
+<lncs>Wei, N., You, J., Friehs, K., Flaschel, E., Nattkemper, T.W.: An in situ probe for on-line monitoring of cell density and viability on the basis of dark field microscopy in conjunction with image processing and supervised machine learning. Biotechnology and Bioengineering. 97, 1489-1500 (2007).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wei, N., You, J., Friehs, K., Flaschel, E., &amp;amp; Nattkemper, T. W. (2007). An in situ probe for on-line monitoring of cell density and viability on the basis of dark field microscopy in conjunction with image processing and supervised machine learning. &lt;em&gt;Biotechnology and Bioengineering&lt;/em&gt;, &lt;em&gt;97&lt;/em&gt;(6), 1489-1500.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1593120</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:15:42Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-05-31T13:07:58Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1593120</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1593120</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

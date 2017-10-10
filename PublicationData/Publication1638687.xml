@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Rapid learning with parametrized self-organizing maps</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Jörg</namePart>
+  <namePart type="family">Walter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Helge</namePart>
+  <namePart type="family">Ritter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">91130</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Neuroinformatik</namePart>
+  <identifier type="unibi">10038</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">1996</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>sets</topic><topic>vision learning</topic><topic>small training data</topic><topic>parameterized self-organizing map</topic><topic>rapid learning</topic><topic>visuo-motor map</topic><topic>robotics</topic><topic>structuring learning in</topic><topic>investment learning</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>NEUROCOMPUTING</title></titleInfo>
+  <identifier type="issn">0925-2312</identifier>
+  <identifier type="ISI">A1996VB61900005</identifier><identifier type="doi">10.1016/0925-2312(95)00117-4</identifier>
+<part><detail type="volume"><number>12</number></detail><detail type="issue"><number>2-3</number></detail><extent unit="pages">131-153</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Walter J, Ritter H. Rapid learning with parametrized self-organizing maps. In:  &lt;em&gt;NEUROCOMPUTING&lt;/em&gt;. Vol 12. ELSEVIER SCIENCE BV;  1996: 131-153.</ama>
+<harvard1>Walter, J., &amp;amp; Ritter, H., 1996. Rapid learning with parametrized self-organizing maps. In &lt;em&gt;NEUROCOMPUTING&lt;/em&gt;. no.12  ELSEVIER SCIENCE BV, pp. 131-153.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Walter, J. &amp;amp; Ritter, H. (1996). Rapid learning with parametrized self-organizing maps. &lt;em&gt;NEUROCOMPUTING&lt;/em&gt; (S. 131-153). ELSEVIER SCIENCE BV. doi:10.1016/0925-2312(95)00117-4.&lt;/div&gt;</dgps>
+<bio1>Walter J, Ritter H (1996) &lt;br /&gt;Rapid learning with parametrized self-organizing maps. &lt;br /&gt;In:  NEUROCOMPUTING. 12. ELSEVIER SCIENCE BV:  131-153.</bio1>
+<aps>J.  Walter and H.  Ritter, Rapid learning with parametrized self-organizing maps, in &lt;em&gt;NEUROCOMPUTING&lt;/em&gt;, &lt;strong&gt;12&lt;/strong&gt; (ELSEVIER SCIENCE BV, 1996), p. 131-153.</aps>
+<wels>Walter, J.; Ritter, H. (1996): Rapid learning with parametrized self-organizing maps. In: NEUROCOMPUTING. ELSEVIER SCIENCE BV. (12).  S. 131-153.</wels>
+<default>Walter J, Ritter H (1996)  &lt;br /&gt;In:  NEUROCOMPUTING. 12. ELSEVIER SCIENCE BV:  131-153.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Walter, J., &amp;amp; Ritter, H. (1996). Rapid learning with parametrized self-organizing maps. &lt;em&gt;NEUROCOMPUTING&lt;/em&gt;, &lt;em&gt;12&lt;/em&gt;(2-3), 131-153.&lt;/div&gt;</apa_indent>
+<ieee>J. Walter and H. Ritter, “Rapid learning with parametrized self-organizing maps”, &lt;em&gt;NEUROCOMPUTING&lt;/em&gt;, vol. 12, ELSEVIER SCIENCE BV, 1996,  pp.131-153.</ieee>
+<lncs>Walter, J., Ritter, H.: Rapid learning with parametrized self-organizing maps. NEUROCOMPUTING. 12, p. 131-153. ELSEVIER SCIENCE BV (1996).</lncs>
+<mla>Walter, Jörg, and Ritter, Helge. “Rapid learning with parametrized self-organizing maps”. &lt;em&gt;NEUROCOMPUTING&lt;/em&gt;. ELSEVIER SCIENCE BV, 1996.Vol. 12. 131-153.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Walter, Jörg, and Ritter, Helge. 1996. “Rapid learning with parametrized self-organizing maps”. In &lt;em&gt;NEUROCOMPUTING&lt;/em&gt;, 12:131-153. ELSEVIER SCIENCE BV.&lt;/div&gt;</chicago>
+<angewandte-chemie>J.  Walter, and H.  Ritter, in &lt;em&gt;NEUROCOMPUTING&lt;/em&gt;, Elsevier Science Bv, &lt;strong&gt;1996&lt;/strong&gt;, p. 131-153.</angewandte-chemie>
+<apa>Walter, J., &amp;amp; Ritter, H. (1996). Rapid learning with parametrized self-organizing maps. &lt;em&gt;NEUROCOMPUTING&lt;/em&gt;, &lt;em&gt;12&lt;/em&gt;(2-3), 131-153.</apa>
+<frontiers>Walter, J., and Ritter, H. (1996). “Rapid learning with parametrized self-organizing maps” in &lt;em&gt;NEUROCOMPUTING&lt;/em&gt;, vol. 12, (ELSEVIER SCIENCE BV), 131-153.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1638687</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:14:55Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-06-13T16:01:09Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1638687</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1638687</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

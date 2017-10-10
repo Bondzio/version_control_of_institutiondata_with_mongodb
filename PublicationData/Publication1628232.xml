@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>On interactive communication</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Rudolf</namePart>
+  <namePart type="family">Ahlswede</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10479</identifier></name>
+<name type="personal">
+  <namePart type="given">N</namePart>
+  <namePart type="family">Cai</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Z</namePart>
+  <namePart type="family">Zhang</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Almost two decades ago Ahlswede introduced an abstract correlated source (V x W, S) with outputs (v, w) is an element of S subset of v x W, where persons P-V and P-W observe v and w, respectively. More recently, Orlitsky considered the minimal number C-m of bits to be transmitted in m rounds to &apos;&apos;inform P-W about v over one channel.&apos;&apos; He showed that C-2 less than or equal to 4C(infinity)+3 and that in general C-2 not similar to C-infinity. We give a simple example for C-3 not similar to C-infinity. However, for the new model &apos;&apos;inform Pw over two channels,&apos;&apos; four rounds are optimal for this example-a result we conjecture in general. If both P-V and P-W are to be informed over two channels about the other outcome, we determine asymptotically the complexities for all sources. In our last model &apos;&apos;inform P-V and P-W over one channel&apos;&apos; for all sources the total number T-2 of required bits is known asymptotically and T-infinity is bounded from below in terms of average degrees. There are exact results for several classes of regular sources. An attempt is made to discuss the methods of the subject systematically.</abstract>
+
+<originInfo><publisher>IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC</publisher><dateIssued encoding="w3cdtf">1997</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>hypergraph covering and</topic><topic>coloring</topic><topic>worst case complexity</topic><topic>average degree bound</topic><topic>communication complexity</topic><topic>abstract sources</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>IEEE TRANSACTIONS ON INFORMATION THEORY</title></titleInfo>
+  <identifier type="issn">0018-9448</identifier>
+  <identifier type="ISI">A1997WB74900003</identifier><identifier type="doi">10.1109/18.567643</identifier>
+<part><detail type="volume"><number>43</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">22-37</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Ahlswede, R.; Cai, N.; Zhang, Z. (1997): On interactive communication. In: IEEE TRANSACTIONS ON INFORMATION THEORY. IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC. (43).  S. 22-37.</wels>
+<default>Ahlswede R, Cai N, Zhang Z (1997)  &lt;br /&gt;In:  IEEE TRANSACTIONS ON INFORMATION THEORY. 43. IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC:  22-37.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R., Cai, N. &amp;amp; Zhang, Z. (1997). On interactive communication. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt; (S. 22-37). IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC. doi:10.1109/18.567643.&lt;/div&gt;</dgps>
+<ama>Ahlswede R, Cai N, Zhang Z. On interactive communication. In:  &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;. Vol 43. IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC;  1997: 22-37.</ama>
+<harvard1>Ahlswede, R., Cai, N., &amp;amp; Zhang, Z., 1997. On interactive communication. In &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;. no.43  IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, pp. 22-37.</harvard1>
+<bio1>Ahlswede R, Cai N, Zhang Z (1997) &lt;br /&gt;On interactive communication. &lt;br /&gt;In:  IEEE TRANSACTIONS ON INFORMATION THEORY. 43. IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC:  22-37.</bio1>
+<aps>R.  Ahlswede, N.  Cai, and Z.  Zhang, On interactive communication, in &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, &lt;strong&gt;43&lt;/strong&gt; (IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 1997), p. 22-37.</aps>
+<angewandte-chemie>R.  Ahlswede, N.  Cai, and Z.  Zhang, in &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, Ieee-Inst Electrical Electronics Engineers Inc, &lt;strong&gt;1997&lt;/strong&gt;, p. 22-37.</angewandte-chemie>
+<apa>Ahlswede, R., Cai, N., &amp;amp; Zhang, Z. (1997). On interactive communication. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, &lt;em&gt;43&lt;/em&gt;(1), 22-37.</apa>
+<frontiers>Ahlswede, R., Cai, N., and Zhang, Z. (1997). “On interactive communication” in &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, vol. 43, (IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC), 22-37.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, Rudolf, Cai, N, and Zhang, Z. 1997. “On interactive communication”. In &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, 43:22-37. IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC.&lt;/div&gt;</chicago>
+<ieee>R. Ahlswede, N. Cai, and Z. Zhang, “On interactive communication”, &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, vol. 43, IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 1997,  pp.22-37.</ieee>
+<mla>Ahlswede, Rudolf, Cai, N, and Zhang, Z. “On interactive communication”. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;. IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 1997.Vol. 43. 22-37.</mla>
+<lncs>Ahlswede, R., Cai, N., Zhang, Z.: On interactive communication. IEEE TRANSACTIONS ON INFORMATION THEORY. 43, p. 22-37. IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC (1997).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R., Cai, N., &amp;amp; Zhang, Z. (1997). On interactive communication. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, &lt;em&gt;43&lt;/em&gt;(1), 22-37.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1628232</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:23:23Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-11-11T11:17:42Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1628232</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1628232</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

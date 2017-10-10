@@ -1,0 +1,95 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Ein Konzept für den Leistungskurs Sport</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Dietrich</namePart>
+  <namePart type="family">Kurz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">120538</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Arbeitsbereich IV - Sport und Erziehung</namePart>
+  <identifier type="unibi">28978161</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Kurz_048.pdf">https://pub.uni-bielefeld.de/download/1779245/2312614</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Hofmann</publisher><dateIssued encoding="w3cdtf">1974</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Leistungskurs Sport</title></titleInfo><identifier type="urn">urn:nbn:de:0070-bipr-17896</identifier>
+<part><extent unit="pages">32-35</extent>
+</part>
+</relatedItem>
+
+<note type="nonBielefeld">yes</note>
+<extension>
+<bibliographicCitation>
+<ieee>D. Kurz, “Ein Konzept für den Leistungskurs Sport”, &lt;em&gt;Leistungskurs Sport&lt;/em&gt;,  Schorndorf: Hofmann, 1974,  pp.32-35.</ieee>
+<lncs>Kurz, D.: Ein Konzept für den Leistungskurs Sport. Leistungskurs Sport. p. 32-35. Hofmann, Schorndorf (1974).</lncs>
+<mla>Kurz, Dietrich. “Ein Konzept für den Leistungskurs Sport”. &lt;em&gt;Leistungskurs Sport&lt;/em&gt;. Schorndorf: Hofmann, 1974. 32-35.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kurz, D. (1974). Ein Konzept für den Leistungskurs Sport. &lt;em&gt;Leistungskurs Sport&lt;/em&gt;, 32-35.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>D.  Kurz, in &lt;em&gt;Leistungskurs Sport&lt;/em&gt;, Hofmann, Schorndorf, &lt;strong&gt;1974&lt;/strong&gt;, p. 32-35.</angewandte-chemie>
+<apa>Kurz, D. (1974). Ein Konzept für den Leistungskurs Sport. &lt;em&gt;Leistungskurs Sport&lt;/em&gt;, 32-35.</apa>
+<frontiers>Kurz, D. (1974). “Ein Konzept für den Leistungskurs Sport” in &lt;em&gt;Leistungskurs Sport&lt;/em&gt; (Schorndorf: Hofmann), 32-35.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kurz, Dietrich. 1974. “Ein Konzept für den Leistungskurs Sport”. In &lt;em&gt;Leistungskurs Sport&lt;/em&gt;, 32-35. Schorndorf: Hofmann.&lt;/div&gt;</chicago>
+<ama>Kurz D. Ein Konzept für den Leistungskurs Sport. In:  &lt;em&gt;Leistungskurs Sport&lt;/em&gt;. Schorndorf: Hofmann;  1974: 32-35.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kurz, D. (1974). Ein Konzept für den Leistungskurs Sport. &lt;em&gt;Leistungskurs Sport&lt;/em&gt; (S. 32-35). Schorndorf: Hofmann.&lt;/div&gt;</dgps>
+<harvard1>Kurz, D., 1974. Ein Konzept für den Leistungskurs Sport. In &lt;em&gt;Leistungskurs Sport&lt;/em&gt;.  Schorndorf: Hofmann, pp. 32-35.</harvard1>
+<aps>D.  Kurz, Ein Konzept für den Leistungskurs Sport, in &lt;em&gt;Leistungskurs Sport&lt;/em&gt; (Hofmann, Schorndorf, 1974), p. 32-35.</aps>
+<bio1>Kurz D (1974) &lt;br /&gt;Ein Konzept für den Leistungskurs Sport. &lt;br /&gt;In:  Leistungskurs Sport.  Schorndorf: Hofmann:  32-35.</bio1>
+<wels>Kurz, D. (1974): Ein Konzept für den Leistungskurs Sport. In: Leistungskurs Sport. Schorndorf: Hofmann.  S. 32-35.</wels>
+<default>Kurz D (1974)  &lt;br /&gt;In:  Leistungskurs Sport. Schorndorf: Hofmann:  32-35.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1779245</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-06-15T13:46:56Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1779245</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1779245</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

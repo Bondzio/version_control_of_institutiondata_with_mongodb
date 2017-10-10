@@ -1,0 +1,152 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Structural study of amorphous CoFeB thin films exhibiting in-plane uniaxial magnetic anisotropy</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">D.</namePart>
+  <namePart type="family">Kirk</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A.</namePart>
+  <namePart type="family">Kohn</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">K. B.</namePart>
+  <namePart type="family">Borisenko</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">Lang</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jan-Michael</namePart>
+  <namePart type="family">Schmalhorst</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40191</identifier></name>
+<name type="personal">
+  <namePart type="given">Günter</namePart>
+  <namePart type="family">Reiss</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40207</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-0918-5940</description></name>
+<name type="personal">
+  <namePart type="given">D. J. H.</namePart>
+  <namePart type="family">Cockayne</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">5408013</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33079602</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2161137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">28536538</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The structure of amorphous ferromagnetic Co40Fe40B20 thin films, in particular the origin of induced magnetic in-plane anisotropy, is investigated by reduced density function (RDF) analysis of electron-diffraction patterns. In this research, the RDF methodology is developed in order to measure the direction-dependent bond lengths and coordination numbers. The directional variations in these parameters are predicted to be the likely origins of induced anisotropy. With nearest-neighbor distances measured to an accuracy of 0.02 A, no variations in the characteristic bond lengths with direction are observed. By studying the coordination numbers, it is shown that any directional ordering effect must be less than 5% and 1% for transition-metal-metalloid and transition metal-transition metal neighbors, respectively, in CoFeB films subjected to a 400 Oe magnetic field during deposition. The overall structure of Co40Fe40B20 thin films is further investigated by reverse Monte Carlo simulations, which enable an estimation of the coordination number of the transition-metal components in the CoFeB alloy. These simulations find a range of local coordination polyhedra present in the material. Despite an average coordination number of approximately 8 for the transition-metal component, a degree of medium-range order, and a stoichiometry close to Co50Fe50, large local deviations from this octahedral value mean that the structure is not based on bcc-type basic units.</abstract>
+
+<originInfo><publisher>American Physical Society (APS)</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>density functional theory</topic><topic>alloys</topic><topic>amorphous magnetic materials</topic><topic>boron alloys</topic><topic>cobalt</topic><topic>bond lengths</topic><topic>electron diffraction</topic><topic>materials</topic><topic>ferromagnetic</topic><topic>iron alloys</topic><topic>magnetic anisotropy</topic><topic>magnetic structure</topic><topic>magnetic thin films</topic><topic>magnetic transitions</topic><topic>stoichiometry</topic><topic>Monte Carlo methods</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>PHYSICAL REVIEW B</title></titleInfo>
+  <identifier type="issn">1098-0121</identifier>
+  <identifier type="eIssn">1550-235X</identifier>
+  <identifier type="ISI">000262977900039</identifier><identifier type="doi">10.1103/PhysRevB.79.014203</identifier>
+<part><detail type="volume"><number>79</number></detail><detail type="issue"><number>1</number></detail>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Kirk D, Kohn A, Borisenko KB, Lang C, Schmalhorst J-M, Reiss G, Cockayne DJH (2009) &lt;br /&gt;PHYSICAL REVIEW B 79(1): 014203.</default>
+<wels>Kirk, D.; Kohn, A.; Borisenko, K. B.; Lang, C.; Schmalhorst, J. - M.; Reiss, G.; Cockayne, D. J. H. (2009): Structural study of amorphous CoFeB thin films exhibiting in-plane uniaxial magnetic anisotropy &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt;,79:(1):014203</wels>
+<bio1>Kirk D, Kohn A, Borisenko KB, Lang C, Schmalhorst J-M, Reiss G, Cockayne DJH (2009) &lt;br /&gt;Structural study of amorphous CoFeB thin films exhibiting in-plane uniaxial magnetic anisotropy.&lt;br /&gt;PHYSICAL REVIEW B 79(1): 014203.</bio1>
+<aps>D.  Kirk, et al., Structural study of amorphous CoFeB thin films exhibiting in-plane uniaxial magnetic anisotropy, PHYSICAL REVIEW B &lt;strong&gt;79&lt;/strong&gt;, (2009).</aps>
+<ama>Kirk D, Kohn A, Borisenko KB, et al. Structural study of amorphous CoFeB thin films exhibiting in-plane uniaxial magnetic anisotropy. &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt;. 2009;79(1): 014203.</ama>
+<harvard1>Kirk, D., et al., 2009. Structural study of amorphous CoFeB thin films exhibiting in-plane uniaxial magnetic anisotropy. &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt;, 79(1): 014203.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kirk, D., Kohn, A., Borisenko, K.B., Lang, C., Schmalhorst, J.-M., Reiss, G. &amp;amp; Cockayne, D.J.H. (2009). Structural study of amorphous CoFeB thin films exhibiting in-plane uniaxial magnetic anisotropy. &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt;, &lt;em&gt;79&lt;/em&gt;(1): 014203. American Physical Society (APS). doi:10.1103/PhysRevB.79.014203.&lt;/div&gt;</dgps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kirk, D., Kohn, A., Borisenko, K. B., Lang, Christian, Schmalhorst, Jan-Michael, Reiss, Günter, and Cockayne, D. J. H. 2009. “Structural study of amorphous CoFeB thin films exhibiting in-plane uniaxial magnetic anisotropy”. &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt; 79 (1): 014203.&lt;/div&gt;</chicago>
+<frontiers>Kirk, D., Kohn, A., Borisenko, K. B., Lang, C., Schmalhorst, J. - M., Reiss, G., and Cockayne, D. J. H. (2009). Structural study of amorphous CoFeB thin films exhibiting in-plane uniaxial magnetic anisotropy. &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt; 79:014203.</frontiers>
+<apa>Kirk, D., Kohn, A., Borisenko, K. B., Lang, C., Schmalhorst, J. - M., Reiss, G., &amp;amp; Cockayne, D. J. H. (2009). Structural study of amorphous CoFeB thin films exhibiting in-plane uniaxial magnetic anisotropy. &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt;, &lt;em&gt;79&lt;/em&gt;(1): 014203.</apa>
+<angewandte-chemie>D.  Kirk, A.  Kohn, K. B.  Borisenko, C.  Lang, J. - M.  Schmalhorst, G.  Reiss, and D. J. H.  Cockayne, “Structural study of amorphous CoFeB thin films exhibiting in-plane uniaxial magnetic anisotropy”, &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;79&lt;/em&gt;, : 014203.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kirk, D., Kohn, A., Borisenko, K. B., Lang, C., Schmalhorst, J. - M., Reiss, G., &amp;amp; Cockayne, D. J. H. (2009). Structural study of amorphous CoFeB thin films exhibiting in-plane uniaxial magnetic anisotropy. &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt;, &lt;em&gt;79&lt;/em&gt;(1): 014203.&lt;/div&gt;</apa_indent>
+<mla>Kirk, D., Kohn, A., Borisenko, K. B., Lang, Christian, Schmalhorst, Jan-Michael, Reiss, Günter, and Cockayne, D. J. H. “Structural study of amorphous CoFeB thin films exhibiting in-plane uniaxial magnetic anisotropy”. &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt; 79.1 (2009): 014203.</mla>
+<lncs>Kirk, D., Kohn, A., Borisenko, K.B., Lang, C., Schmalhorst, J.-M., Reiss, G., Cockayne, D.J.H.: Structural study of amorphous CoFeB thin films exhibiting in-plane uniaxial magnetic anisotropy. PHYSICAL REVIEW B. 79, : 014203 (2009).</lncs>
+<ieee>D. Kirk, et al., “Structural study of amorphous CoFeB thin films exhibiting in-plane uniaxial magnetic anisotropy”, &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt;,  vol. 79, 2009, : 014203.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1635681</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:47Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-02-04T14:06:27Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1635681</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1635681</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

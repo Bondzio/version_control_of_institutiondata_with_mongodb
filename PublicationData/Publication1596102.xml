@@ -1,0 +1,132 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The alternative sigma factor SigB of Corynebacterium glutamicum modulates global gene expression during transition from exponential growth to stationary phase</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Christof</namePart>
+  <namePart type="family">Larisch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Diana</namePart>
+  <namePart type="family">Nakunst</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andrea T.</namePart>
+  <namePart type="family">Hueser</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Tauch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">22082</identifier></name>
+<name type="personal">
+  <namePart type="given">Jörn</namePart>
+  <namePart type="family">Kalinowski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">147567</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070724</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070741</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Background: Corynebacterium glutamicum is a gram-positive soil bacterium widely used for the industrial production of amino acids. There is great interest in the examination of the molecular mechanism of transcription control. One of these control mechanisms are sigma factors. C. glutamicum ATCC 13032 has seven putative sigma factor-encoding genes, including sigA and sigB. The sigA gene encodes the essential primary sigma factor of C. glutamicum and is responsible for promoter recognition of house-keeping genes. The sigB gene codes for the non-essential sigma factor SigB that has a proposed role in stress reponse. Results: The sigB gene expression was highest at transition between exponential growth and stationary phase, when the amount of sigA mRNA was already decreasing. Genome-wide transcription profiles of the wild-type and the sigB mutant were recorded by comparative DNA microarray hybridizations. The data indicated that the mRNA levels of 111 genes are significantly changed in the sigB-proficient strain during the transition phase, whereas the expression profile of the sigB-deficient strain showed only minor changes ( 26 genes). The genes that are higher expressed during transition phase only in the sigB-proficient strain mainly belong to the functional categories amino acid metabolism, carbon metabolism, stress defense, membrane processes, and phosphorus metabolism. The transcription start points of six of these genes were determined and the deduced promoter sequences turned out to be indistinguishable from that of the consensus promoter recognized by SigA. Real-time reverse transcription PCR assays revealed that the expression profiles of these genes during growth were similar to that of the sigB gene itself. In the sigB mutant, however, the transcription profiles resembled that of the sigA gene encoding the house-keeping sigma factor. Conclusion: During transition phase, the sigB gene showed an enhanced expression, while simultaneously the sigA mRNA decreased in abundance. This might cause a replacement of SigA by SigB at the RNA polymerase core enzyme and in turn results in increased expression of genes relevant for the transition and the stationary phase, either to cope with nutrient limitation or with the accompanying oxidative stress. The increased expression of genes encoding anti-oxidative or protection functions also prepares the cell for upcoming limitations and environmental stresses.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="1471_2164_8_4.pdf">https://pub.uni-bielefeld.de/download/1596102/2311110</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>BIOMED CENTRAL LTD</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>BMC Genomics</title></titleInfo>
+  <identifier type="issn">1471-2164</identifier>
+  <identifier type="MEDLINE">17204139</identifier>
+  <identifier type="ISI">000243660500001</identifier><identifier type="urn">urn:nbn:de:0070-pub-15961026</identifier><identifier type="doi">10.1186/1471-2164-8-4</identifier>
+<part><detail type="volume"><number>8</number></detail><detail type="issue"><number>1</number></detail>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Larisch, Christof, Nakunst, Diana, Hueser, Andrea T., Tauch, Andreas, and Kalinowski, Jörn. 2007. “The alternative sigma factor SigB of Corynebacterium glutamicum modulates global gene expression during transition from exponential growth to stationary phase”. &lt;em&gt;BMC Genomics&lt;/em&gt; 8 (1): 4.&lt;/div&gt;</chicago>
+<frontiers>Larisch, C., Nakunst, D., Hueser, A. T., Tauch, A., and Kalinowski, J. (2007). The alternative sigma factor SigB of Corynebacterium glutamicum modulates global gene expression during transition from exponential growth to stationary phase. &lt;em&gt;BMC Genomics&lt;/em&gt; 8:4.</frontiers>
+<angewandte-chemie>C.  Larisch, D.  Nakunst, A. T.  Hueser, A.  Tauch, and J.  Kalinowski, “The alternative sigma factor SigB of Corynebacterium glutamicum modulates global gene expression during transition from exponential growth to stationary phase”, &lt;em&gt;BMC Genomics&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;8&lt;/em&gt;, : 4.</angewandte-chemie>
+<apa>Larisch, C., Nakunst, D., Hueser, A. T., Tauch, A., &amp;amp; Kalinowski, J. (2007). The alternative sigma factor SigB of Corynebacterium glutamicum modulates global gene expression during transition from exponential growth to stationary phase. &lt;em&gt;BMC Genomics&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;(1): 4.</apa>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Larisch, C., Nakunst, D., Hueser, A. T., Tauch, A., &amp;amp; Kalinowski, J. (2007). The alternative sigma factor SigB of Corynebacterium glutamicum modulates global gene expression during transition from exponential growth to stationary phase. &lt;em&gt;BMC Genomics&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;(1): 4.&lt;/div&gt;</apa_indent>
+<lncs> Larisch, C., Nakunst, D., Hueser, A.T., Tauch, A., Kalinowski, J.: The alternative sigma factor SigB of Corynebacterium glutamicum modulates global gene expression during transition from exponential growth to stationary phase. BMC Genomics. 8, : 4 (2007).</lncs>
+<mla>Larisch, Christof, Nakunst, Diana, Hueser, Andrea T., Tauch, Andreas, and Kalinowski, Jörn. “The alternative sigma factor SigB of Corynebacterium glutamicum modulates global gene expression during transition from exponential growth to stationary phase”. &lt;em&gt;BMC Genomics&lt;/em&gt; 8.1 (2007): 4.</mla>
+<ieee> C. Larisch, et al., “The alternative sigma factor SigB of Corynebacterium glutamicum modulates global gene expression during transition from exponential growth to stationary phase”, &lt;em&gt;BMC Genomics&lt;/em&gt;,  vol. 8, 2007, : 4.</ieee>
+<default>Larisch C, Nakunst D, Hueser AT, Tauch A, Kalinowski J (2007) &lt;br /&gt;BMC Genomics 8(1): 4.</default>
+<wels>Larisch, C.; Nakunst, D.; Hueser, A. T.; Tauch, A.; Kalinowski, J. (2007): The alternative sigma factor SigB of Corynebacterium glutamicum modulates global gene expression during transition from exponential growth to stationary phase &lt;em&gt;BMC Genomics&lt;/em&gt;,8:(1):4</wels>
+<bio1>Larisch C, Nakunst D, Hueser AT, Tauch A, Kalinowski J (2007) &lt;br /&gt;The alternative sigma factor SigB of Corynebacterium glutamicum modulates global gene expression during transition from exponential growth to stationary phase.&lt;br /&gt;BMC Genomics 8(1): 4.</bio1>
+<aps> C.  Larisch, et al., The alternative sigma factor SigB of Corynebacterium glutamicum modulates global gene expression during transition from exponential growth to stationary phase, BMC Genomics &lt;strong&gt;8&lt;/strong&gt;, (2007).</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Larisch, C., Nakunst, D., Hueser, A.T., Tauch, A. &amp;amp; Kalinowski, J. (2007). The alternative sigma factor SigB of Corynebacterium glutamicum modulates global gene expression during transition from exponential growth to stationary phase. &lt;em&gt;BMC Genomics&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;(1): 4. BIOMED CENTRAL LTD. doi:10.1186/1471-2164-8-4.&lt;/div&gt;</dgps>
+<ama>Larisch C, Nakunst D, Hueser AT, Tauch A, Kalinowski J. The alternative sigma factor SigB of Corynebacterium glutamicum modulates global gene expression during transition from exponential growth to stationary phase. &lt;em&gt;BMC Genomics&lt;/em&gt;. 2007;8(1): 4.</ama>
+<harvard1>Larisch, C., et al., 2007. The alternative sigma factor SigB of Corynebacterium glutamicum modulates global gene expression during transition from exponential growth to stationary phase. &lt;em&gt;BMC Genomics&lt;/em&gt;, 8(1): 4.</harvard1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1596102</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:57Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-18T09:32:13Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1596102</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1596102</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

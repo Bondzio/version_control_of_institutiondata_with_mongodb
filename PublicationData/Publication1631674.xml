@@ -1,0 +1,133 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Reconfigurable magnetic logic for all basic logic functions produced by ion bombardment induced magnetic patterning</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">V.</namePart>
+  <namePart type="family">Hoink</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">D.</namePart>
+  <namePart type="family">Meyners</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jan-Michael</namePart>
+  <namePart type="family">Schmalhorst</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40191</identifier></name>
+<name type="personal">
+  <namePart type="given">Günter</namePart>
+  <namePart type="family">Reiss</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40207</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-0918-5940</description></name>
+<name type="personal">
+  <namePart type="given">D.</namePart>
+  <namePart type="family">Junk</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">D.</namePart>
+  <namePart type="family">Engel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A.</namePart>
+  <namePart type="family">Ehresmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Biophysik und Nanowissenschaften</namePart>
+  <identifier type="unibi">2161137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Dünne Schichten &amp; Physik der Nanostrukturen</namePart>
+  <identifier type="unibi">28536538</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  G. Reiss</namePart>
+  <identifier type="unibi">33079602</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">In most common logic gates based on transistors, different logic functions have to be realized by applying a large number of logic gates, which are capable of performing only one function. A promising approach to overcome this obstacle with the additional advantage of a nonvolatile output is a reconfigurable logic based on small arrays of magnetic tunnel junctions. Here, an approach utilizing an ion bombardment induced patterning of the reference layer is proposed where the same logic unit consisting of only two magnetic tunnel junctions can be used for the AND, OR, NAND, NOR, and X (N)OR, functions. (C) 2007 American Institute of Physics.</abstract>
+
+<originInfo><publisher>AMER INST PHYSICS</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>APPLIED PHYSICS LETTERS</title></titleInfo>
+  <identifier type="issn">0003-6951</identifier>
+  <identifier type="ISI">000250295700051</identifier><identifier type="doi">10.1063/1.2797949</identifier>
+<part><detail type="volume"><number>91</number></detail><detail type="issue"><number>16</number></detail><extent unit="pages">162505</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hoink, V., Meyners, D., Schmalhorst, J. - M., Reiss, G., Junk, D., Engel, D., &amp;amp; Ehresmann, A. (2007). Reconfigurable magnetic logic for all basic logic functions produced by ion bombardment induced magnetic patterning. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, &lt;em&gt;91&lt;/em&gt;(16).&lt;/div&gt;</apa_indent>
+<ieee>V. Hoink, et al., “Reconfigurable magnetic logic for all basic logic functions produced by ion bombardment induced magnetic patterning”, &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;,  vol. 91, 2007.</ieee>
+<lncs>Hoink, V., Meyners, D., Schmalhorst, J.-M., Reiss, G., Junk, D., Engel, D., Ehresmann, A.: Reconfigurable magnetic logic for all basic logic functions produced by ion bombardment induced magnetic patterning. APPLIED PHYSICS LETTERS. 91, (2007).</lncs>
+<mla>Hoink, V., Meyners, D., Schmalhorst, Jan-Michael, Reiss, Günter, Junk, D., Engel, D., and Ehresmann, A. “Reconfigurable magnetic logic for all basic logic functions produced by ion bombardment induced magnetic patterning”. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt; 91.16 (2007).</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hoink, V., Meyners, D., Schmalhorst, Jan-Michael, Reiss, Günter, Junk, D., Engel, D., and Ehresmann, A. 2007. “Reconfigurable magnetic logic for all basic logic functions produced by ion bombardment induced magnetic patterning”. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt; 91 (16).&lt;/div&gt;</chicago>
+<apa>Hoink, V., Meyners, D., Schmalhorst, J. - M., Reiss, G., Junk, D., Engel, D., &amp;amp; Ehresmann, A. (2007). Reconfigurable magnetic logic for all basic logic functions produced by ion bombardment induced magnetic patterning. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, &lt;em&gt;91&lt;/em&gt;(16).</apa>
+<angewandte-chemie>V.  Hoink, D.  Meyners, J. - M.  Schmalhorst, G.  Reiss, D.  Junk, D.  Engel, and A.  Ehresmann, “Reconfigurable magnetic logic for all basic logic functions produced by ion bombardment induced magnetic patterning”, &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;91&lt;/em&gt;.</angewandte-chemie>
+<frontiers>Hoink, V., Meyners, D., Schmalhorst, J. - M., Reiss, G., Junk, D., Engel, D., and Ehresmann, A. (2007). Reconfigurable magnetic logic for all basic logic functions produced by ion bombardment induced magnetic patterning. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt; 91.</frontiers>
+<harvard1>Hoink, V., et al., 2007. Reconfigurable magnetic logic for all basic logic functions produced by ion bombardment induced magnetic patterning. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, 91(16).</harvard1>
+<ama>Hoink V, Meyners D, Schmalhorst J-M, et al. Reconfigurable magnetic logic for all basic logic functions produced by ion bombardment induced magnetic patterning. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;. 2007;91(16).</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hoink, V., Meyners, D., Schmalhorst, J.-M., Reiss, G., Junk, D., Engel, D. &amp;amp; Ehresmann, A. (2007). Reconfigurable magnetic logic for all basic logic functions produced by ion bombardment induced magnetic patterning. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, &lt;em&gt;91&lt;/em&gt;(16). AMER INST PHYSICS. doi:10.1063/1.2797949.&lt;/div&gt;</dgps>
+<bio1>Hoink V, Meyners D, Schmalhorst J-M, Reiss G, Junk D, Engel D, Ehresmann A (2007) &lt;br /&gt;Reconfigurable magnetic logic for all basic logic functions produced by ion bombardment induced magnetic patterning.&lt;br /&gt;APPLIED PHYSICS LETTERS 91(16).</bio1>
+<aps>V.  Hoink, et al., Reconfigurable magnetic logic for all basic logic functions produced by ion bombardment induced magnetic patterning, APPLIED PHYSICS LETTERS &lt;strong&gt;91&lt;/strong&gt;, (2007).</aps>
+<wels>Hoink, V.; Meyners, D.; Schmalhorst, J. - M.; Reiss, G.; Junk, D.; Engel, D.; Ehresmann, A. (2007): Reconfigurable magnetic logic for all basic logic functions produced by ion bombardment induced magnetic patterning &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;,91:(16)</wels>
+<default>Hoink V, Meyners D, Schmalhorst J-M, Reiss G, Junk D, Engel D, Ehresmann A (2007) &lt;br /&gt;APPLIED PHYSICS LETTERS 91(16).</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1631674</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:05:53Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-16T09:52:01Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1631674</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1631674</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

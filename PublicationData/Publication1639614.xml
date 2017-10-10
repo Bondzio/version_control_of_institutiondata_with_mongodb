@@ -1,0 +1,122 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Giant clusters with unusual electronic and magnetic structures due to open shell metal centers embedded far apart from each other: Spin frustration and antisymmetric exchange</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">D</namePart>
+  <namePart type="family">Gatteschi</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">R</namePart>
+  <namePart type="family">Sessoli</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">W</namePart>
+  <namePart type="family">Plass</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Achim</namePart>
+  <namePart type="family">Müller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20118</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0003-0117-4021</description></name>
+<name type="personal">
+  <namePart type="given">Erich</namePart>
+  <namePart type="family">Krickemeyer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20112</identifier></name>
+<name type="personal">
+  <namePart type="given">Jochen</namePart>
+  <namePart type="family">Meyer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">D</namePart>
+  <namePart type="family">Solter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">P</namePart>
+  <namePart type="family">Adler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Anorganische Chemie I</namePart>
+  <identifier type="unibi">17964</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The magnetic properties of the compounds (NH4)(21)[{VO(H2O)}6{Mo(mu-H2O)(2)(mu-OH)Mo}(3){Mo-15 (MoNO)(2)O-58(H2O)(2)}(3)]. 65H(2)P, 1a, (NH(2)Me(2))(18)(NH4)(6)[{VO(H2O)}(6){Mo(mu-H2O)(2)(mu-O)Mo}(3){Mo-15(Mo NO)(2)O-58(H2O)(2)}(3)]. 14H(2)O, 1b, and Na-3(NH4)(12)[{Fe(H2O)(2)}(6){Mo(mu-H2O)(2)(mu-OH)Mo}(3) {Mo-15(MoNO)(2)O-58(H2O)(2)}(3)]. 76H(2)O, 2, have been investigated. 1a, 1b, and 2 contain giant cluster anions composed of three transferable Mo-17 ligands bridged by cationic centers which can be exchanged for other metal centers (this means that metal centers can be placed deliberately on the surface of large clusters serving as models for metal oxides). Six of these paramagnetic centers (V(IV) in 1a/1b and Fe(III) in 2) are arranged to form a trigonal prism. The analysis of the magnetic susceptibility data reveals an efficient exchange pathway between the centers located within the trigonal face of this prism mediated by the large and electronically unusual Mo-17 ligands. In the case of the vanadium(IV) compounds a remarkably strong antiferromagnetic coupling within the triangles (V ... V distances &gt; 650 pm) is observed, ca. 190 cm(-1) for 1a and ca. 160 cm(-1) for 1b, with the Hamiltonian defined as (H) over cap = J Sigma(i&lt;j)S(i) . S-j. The measurement of the anisotropic susceptibility of compound 1a allowed us to determine for the first time the elusive antisymmetric exchange parameter G, expected to be generally operative in spin frustrated systems. The electronic structure of the giant cluster anions of 1a, 1b, and 2 as well as, for the purpose of comparison, those of the compounds (NH4)(12)[{MoO2}(2){H12Mo15(MONO)(2)O-58(H2O)(2)} (2)]. 33H(2)O, 3, Na-8[{MoO2}(2){H12Mo15(MoO)(2)O-58 (H2O)(2)}(2)]. 58H(2)O, 4, and (NH(2)Me(2))(6)[H2H12((MoO3)-O-VI)(4)(Mo12O40)-O-V], 5, have been investigated by photoelectron spectroscopy and extended Huckel calculations.</abstract>
+
+<originInfo><publisher>AMER CHEMICAL SOC</publisher><dateIssued encoding="w3cdtf">1996</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>INORGANIC CHEMISTRY</title></titleInfo>
+  <identifier type="issn">0020-1669</identifier>
+  <identifier type="eIssn">1520-510X</identifier>
+  <identifier type="ISI">A1996UC84800028</identifier><identifier type="doi">10.1021/ic951085l</identifier>
+<part><detail type="volume"><number>35</number></detail><detail type="issue"><number>7</number></detail><extent unit="pages">1926-1934</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<harvard1>Gatteschi, D., et al., 1996. Giant clusters with unusual electronic and magnetic structures due to open shell metal centers embedded far apart from each other: Spin frustration and antisymmetric exchange. &lt;em&gt;INORGANIC CHEMISTRY&lt;/em&gt;, 35(7), p 1926-1934.</harvard1>
+<ama>Gatteschi D, Sessoli R, Plass W, et al. Giant clusters with unusual electronic and magnetic structures due to open shell metal centers embedded far apart from each other: Spin frustration and antisymmetric exchange. &lt;em&gt;INORGANIC CHEMISTRY&lt;/em&gt;. 1996;35(7):1926-1934.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gatteschi, D., Sessoli, R., Plass, W., Müller, A., Krickemeyer, E., Meyer, J., Solter, D. &amp;amp; Adler, P. (1996). Giant clusters with unusual electronic and magnetic structures due to open shell metal centers embedded far apart from each other: Spin frustration and antisymmetric exchange. &lt;em&gt;INORGANIC CHEMISTRY&lt;/em&gt;, &lt;em&gt;35&lt;/em&gt;(7), 1926-1934. AMER CHEMICAL SOC. doi:10.1021/ic951085l.&lt;/div&gt;</dgps>
+<aps>D.  Gatteschi, et al., Giant clusters with unusual electronic and magnetic structures due to open shell metal centers embedded far apart from each other: Spin frustration and antisymmetric exchange, INORGANIC CHEMISTRY &lt;strong&gt;35&lt;/strong&gt;, 1926-1934 (1996).</aps>
+<bio1>Gatteschi D, Sessoli R, Plass W, Müller A, Krickemeyer E, Meyer J, Solter D, Adler P (1996) &lt;br /&gt;Giant clusters with unusual electronic and magnetic structures due to open shell metal centers embedded far apart from each other: Spin frustration and antisymmetric exchange.&lt;br /&gt;INORGANIC CHEMISTRY 35(7): 1926-1934.</bio1>
+<wels>Gatteschi, D.; Sessoli, R.; Plass, W.; Müller, A.; Krickemeyer, E.; Meyer, J.; Solter, D.; Adler, P. (1996): Giant clusters with unusual electronic and magnetic structures due to open shell metal centers embedded far apart from each other: Spin frustration and antisymmetric exchange &lt;em&gt;INORGANIC CHEMISTRY&lt;/em&gt;,35:(7): 1926-1934.</wels>
+<default>Gatteschi D, Sessoli R, Plass W, Müller A, Krickemeyer E, Meyer J, Solter D, Adler P (1996) &lt;br /&gt;INORGANIC CHEMISTRY 35(7): 1926-1934.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gatteschi, D., Sessoli, R., Plass, W., Müller, A., Krickemeyer, E., Meyer, J., Solter, D., et al. (1996). Giant clusters with unusual electronic and magnetic structures due to open shell metal centers embedded far apart from each other: Spin frustration and antisymmetric exchange. &lt;em&gt;INORGANIC CHEMISTRY&lt;/em&gt;, &lt;em&gt;35&lt;/em&gt;(7), 1926-1934.&lt;/div&gt;</apa_indent>
+<ieee>D. Gatteschi, et al., “Giant clusters with unusual electronic and magnetic structures due to open shell metal centers embedded far apart from each other: Spin frustration and antisymmetric exchange”, &lt;em&gt;INORGANIC CHEMISTRY&lt;/em&gt;,  vol. 35, 1996,  pp. 1926-1934.</ieee>
+<lncs>Gatteschi, D., Sessoli, R., Plass, W., Müller, A., Krickemeyer, E., Meyer, J., Solter, D., Adler, P.: Giant clusters with unusual electronic and magnetic structures due to open shell metal centers embedded far apart from each other: Spin frustration and antisymmetric exchange. INORGANIC CHEMISTRY. 35, 1926-1934 (1996).</lncs>
+<mla>Gatteschi, D, Sessoli, R, Plass, W, Müller, Achim, Krickemeyer, Erich, Meyer, Jochen, Solter, D, and Adler, P. “Giant clusters with unusual electronic and magnetic structures due to open shell metal centers embedded far apart from each other: Spin frustration and antisymmetric exchange”. &lt;em&gt;INORGANIC CHEMISTRY&lt;/em&gt; 35.7 (1996): 1926-1934.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gatteschi, D, Sessoli, R, Plass, W, Müller, Achim, Krickemeyer, Erich, Meyer, Jochen, Solter, D, and Adler, P. 1996. “Giant clusters with unusual electronic and magnetic structures due to open shell metal centers embedded far apart from each other: Spin frustration and antisymmetric exchange”. &lt;em&gt;INORGANIC CHEMISTRY&lt;/em&gt; 35 (7): 1926-1934.&lt;/div&gt;</chicago>
+<angewandte-chemie>D.  Gatteschi, R.  Sessoli, W.  Plass, A.  Müller, E.  Krickemeyer, J.  Meyer, D.  Solter, and P.  Adler, “Giant clusters with unusual electronic and magnetic structures due to open shell metal centers embedded far apart from each other: Spin frustration and antisymmetric exchange”, &lt;em&gt;INORGANIC CHEMISTRY&lt;/em&gt;, &lt;strong&gt;1996&lt;/strong&gt;, &lt;em&gt;35&lt;/em&gt;, 1926-1934.</angewandte-chemie>
+<apa>Gatteschi, D., Sessoli, R., Plass, W., Müller, A., Krickemeyer, E., Meyer, J., Solter, D., et al. (1996). Giant clusters with unusual electronic and magnetic structures due to open shell metal centers embedded far apart from each other: Spin frustration and antisymmetric exchange. &lt;em&gt;INORGANIC CHEMISTRY&lt;/em&gt;, &lt;em&gt;35&lt;/em&gt;(7), 1926-1934.</apa>
+<frontiers>Gatteschi, D., Sessoli, R., Plass, W., Müller, A., Krickemeyer, E., Meyer, J., Solter, D., and Adler, P. (1996). Giant clusters with unusual electronic and magnetic structures due to open shell metal centers embedded far apart from each other: Spin frustration and antisymmetric exchange. &lt;em&gt;INORGANIC CHEMISTRY&lt;/em&gt; 35, 1926-1934.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1639614</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:15:19Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-02-02T16:14:45Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1639614</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1639614</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,148 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>The function of peroxiredoxins in plant organelle redox metabolism</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Karl-Josef</namePart>
+  <namePart type="family">Dietz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21935</identifier></name>
+<name type="personal">
+  <namePart type="given">S</namePart>
+  <namePart type="family">Jacob</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Marie-Luise</namePart>
+  <namePart type="family">Oelze</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">173136</identifier></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Laxa</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">V</namePart>
+  <namePart type="family">Tognetti</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">SMN</namePart>
+  <namePart type="family">de Miranda</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Baier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">I</namePart>
+  <namePart type="family">Finkemeier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">16941123</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070563</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2685177</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">In 1996, cDNA sequences referred to as plant peroxiredoxins (Prx), i.e. a 1-Cys Prx and a 2-Cys Prx, were reported from barley. Ten years of research have advanced our understanding of plant Prx as thiol-based peroxide reductases with a broad substrate specificity, ranging from hydrogen peroxide to alkyl hydroperoxides and peroxinitrite. Prx have several features in common. (i) They are abundant proteins that are routinely detected in proteomics approaches. (ii) They interact with proteins such as glutaredoxins, thioredoxins, and cyclophilins as reductants, but also non-dithioldisulphide exchange proteins. By work with transgenic plants, their activity was shown to (iii) affect metabolic integrity, (iv) protect DNA from damage in vitro and as shown here in vivo, and (v) modulate intracellular signalling related to reactive oxygen species and reactive nitrogen species. (vi) In all organisms Prx are encoded by small gene families that are of particular complexity in higher plants. A comparison of the Prx gene families in rice and Arabidopsis thaliana supports previous suggestions on Prx function in specific subcellular and metabolic context. (vii) Prx gene expression and activity are subjected to complex regulation realized by an integration of various signalling pathways. 2-Cys Prx expression depends on redox signals, abscisic acid, and protein kinase cascades. Besides these general properties, the chloroplast Prx have acquired specific roles in the context of photosynthesis. The thioredoxin-dependent peroxidase activity can be measured in crude plant extracts and contributes significantly to the overall H2O2 detoxification capacity. Thus organellar Prx proteins enable an alternative water-water cycle for detoxification of photochemically produced H2O2, which acts independently from the ascorbate-dependent Asada-Halliwell-Foyer cycle. 2-Cys Prx and Prx Q associate with thylakoid membrane components. The mitochondrial PrAII F is essential for root growth under stress. Following a more general introduction, the paper summarizes present knowledge on plant organellar Prx, addressing Prx in signalling, and also suggests some lines for future research.</abstract>
+
+<originInfo><publisher>OXFORD UNIV PRESS</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>antioxidant defence</topic><topic>mitochondrion</topic><topic>Oryza sativa (rice)</topic><topic>peroxide</topic><topic>redox signalling</topic><topic>chloroplast</topic><topic>peroxiredoxin</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Journal of Experimental Botany</title></titleInfo>
+  <identifier type="issn">0022-0957</identifier>
+  <identifier type="MEDLINE">16606633</identifier>
+  <identifier type="ISI">000238768200010</identifier><identifier type="doi">10.1093/jxb/erj160</identifier>
+<part><detail type="volume"><number>57</number></detail><detail type="issue"><number>8</number></detail><extent unit="pages">1697-1709</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Dietz, Karl-Josef, Jacob, S, Oelze, Marie-Luise, Laxa, M, Tognetti, V, de Miranda, SMN, Baier, M, and Finkemeier, I. 2006. “The function of peroxiredoxins in plant organelle redox metabolism”. In &lt;em&gt;Journal of Experimental Botany&lt;/em&gt;, 57:1697-1709. OXFORD UNIV PRESS.&lt;/div&gt;</chicago>
+<angewandte-chemie>K. - J.  Dietz, S.  Jacob, M. - L.  Oelze, M.  Laxa, V.  Tognetti, S. M. N.  de Miranda, M.  Baier, and I.  Finkemeier, in &lt;em&gt;Journal of Experimental Botany&lt;/em&gt;, Oxford Univ Press, &lt;strong&gt;2006&lt;/strong&gt;, p. 1697-1709.</angewandte-chemie>
+<apa>Dietz, K. - J., Jacob, S., Oelze, M. - L., Laxa, M., Tognetti, V., de Miranda, S. M. N., Baier, M., et al. (2006). The function of peroxiredoxins in plant organelle redox metabolism. &lt;em&gt;Journal of Experimental Botany&lt;/em&gt;, &lt;em&gt;57&lt;/em&gt;(8), 1697-1709.</apa>
+<frontiers>Dietz, K. - J., Jacob, S., Oelze, M. - L., Laxa, M., Tognetti, V., de Miranda, S. M. N., Baier, M., and Finkemeier, I. (2006). “The function of peroxiredoxins in plant organelle redox metabolism” in &lt;em&gt;Journal of Experimental Botany&lt;/em&gt;, vol. 57, (OXFORD UNIV PRESS), 1697-1709.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Dietz, K. - J., Jacob, S., Oelze, M. - L., Laxa, M., Tognetti, V., de Miranda, S. M. N., Baier, M., et al. (2006). The function of peroxiredoxins in plant organelle redox metabolism. &lt;em&gt;Journal of Experimental Botany&lt;/em&gt;, &lt;em&gt;57&lt;/em&gt;(8), 1697-1709.&lt;/div&gt;</apa_indent>
+<ieee> K.-J. Dietz, et al., “The function of peroxiredoxins in plant organelle redox metabolism”, &lt;em&gt;Journal of Experimental Botany&lt;/em&gt;, vol. 57, OXFORD UNIV PRESS, 2006,  pp.1697-1709.</ieee>
+<lncs> Dietz, K.-J., Jacob, S., Oelze, M.-L., Laxa, M., Tognetti, V., de Miranda, S.M.N., Baier, M., Finkemeier, I.: The function of peroxiredoxins in plant organelle redox metabolism. Journal of Experimental Botany. 57, p. 1697-1709. OXFORD UNIV PRESS (2006).</lncs>
+<mla>Dietz, Karl-Josef, Jacob, S, Oelze, Marie-Luise, Laxa, M, Tognetti, V, de Miranda, SMN, Baier, M, and Finkemeier, I. “The function of peroxiredoxins in plant organelle redox metabolism”. &lt;em&gt;Journal of Experimental Botany&lt;/em&gt;. OXFORD UNIV PRESS, 2006.Vol. 57. 1697-1709.</mla>
+<wels>Dietz, K. - J.; Jacob, S.; Oelze, M. - L.; Laxa, M.; Tognetti, V.; de Miranda, S. M. N.; Baier, M.; Finkemeier, I. (2006): The function of peroxiredoxins in plant organelle redox metabolism. In: Journal of Experimental Botany. OXFORD UNIV PRESS. (57).  S. 1697-1709.</wels>
+<default>Dietz K-J, Jacob S, Oelze M-L, Laxa M, Tognetti V, de Miranda SMN, Baier M, Finkemeier I (2006)  &lt;br /&gt;In:  Journal of Experimental Botany. 57. OXFORD UNIV PRESS:  1697-1709.</default>
+<ama>Dietz K-J, Jacob S, Oelze M-L, et al. The function of peroxiredoxins in plant organelle redox metabolism. In:  &lt;em&gt;Journal of Experimental Botany&lt;/em&gt;. Vol 57. OXFORD UNIV PRESS;  2006: 1697-1709.</ama>
+<harvard1>Dietz, K.-J., et al., 2006. The function of peroxiredoxins in plant organelle redox metabolism. In &lt;em&gt;Journal of Experimental Botany&lt;/em&gt;. no.57  OXFORD UNIV PRESS, pp. 1697-1709.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Dietz, K.-J., Jacob, S., Oelze, M.-L., Laxa, M., Tognetti, V., de Miranda, S.M.N., Baier, M. &amp;amp; Finkemeier, I. (2006). The function of peroxiredoxins in plant organelle redox metabolism. &lt;em&gt;Journal of Experimental Botany&lt;/em&gt; (S. 1697-1709). OXFORD UNIV PRESS. doi:10.1093/jxb/erj160.&lt;/div&gt;</dgps>
+<aps> K. - J.  Dietz, et al., The function of peroxiredoxins in plant organelle redox metabolism, in &lt;em&gt;Journal of Experimental Botany&lt;/em&gt;, &lt;strong&gt;57&lt;/strong&gt; (OXFORD UNIV PRESS, 2006), p. 1697-1709.</aps>
+<bio1>Dietz K-J, Jacob S, Oelze M-L, Laxa M, Tognetti V, de Miranda SMN, Baier M, Finkemeier I (2006) &lt;br /&gt;The function of peroxiredoxins in plant organelle redox metabolism. &lt;br /&gt;In:  Journal of Experimental Botany. 57. OXFORD UNIV PRESS:  1697-1709.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1598682</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:19:32Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-06-22T13:21:03Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1598682</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1598682</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

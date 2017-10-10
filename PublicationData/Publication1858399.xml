@@ -1,0 +1,110 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Denunziant ist nicht gleich Denunziant</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Gisela</namePart>
+  <namePart type="family">Diewald-Kerkmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">139291</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Klaus</namePart><namePart type="family">Behnke</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Jürgen</namePart><namePart type="family">Wolf</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>AG 9 - Medienpädagogik, Forschungsmethoden und Jugendforschung</namePart>
+  <identifier type="unibi">7978378</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Zeitgeschichte</namePart>
+  <identifier type="unibi">3791117</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Schule für Historische Forschung</namePart>
+  <identifier type="unibi">3652153</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Ullstein</publisher><dateIssued encoding="w3cdtf">1998</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Stasi auf dem Schulhof. Der Missbrauch von Kindern und Jugendlichen durch das Ministerium für Staatssicherheit</title></titleInfo>
+  <identifier type="isbn">3-548-33243-9</identifier>
+<part><detail type="volume"><number>33243</number></detail><extent unit="pages">46-59</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Diewald-Kerkmann, Gisela. 1998. “Denunziant ist nicht gleich Denunziant”. In &lt;em&gt;Stasi auf dem Schulhof. Der Missbrauch von Kindern und Jugendlichen durch das Ministerium für Staatssicherheit&lt;/em&gt;, ed. Klaus Behnke and Jürgen Wolf, 33243:46-59. Ullstein-Taschenbuch. Berlin: Ullstein.&lt;/div&gt;</chicago>
+<frontiers>Diewald-Kerkmann, G. (1998). “Denunziant ist nicht gleich Denunziant” in &lt;em&gt;Stasi auf dem Schulhof. Der Missbrauch von Kindern und Jugendlichen durch das Ministerium für Staatssicherheit&lt;/em&gt;, ed. K.  Behnke and J.  Wolf Ullstein-Taschenbuch, vol. 33243, (Berlin: Ullstein), 46-59.</frontiers>
+<angewandte-chemie>G.  Diewald-Kerkmann, in &lt;em&gt;Stasi auf dem Schulhof. Der Missbrauch von Kindern und Jugendlichen durch das Ministerium für Staatssicherheit&lt;/em&gt; (Eds.: K. Behnke, J. Wolf), Ullstein, Berlin, &lt;strong&gt;1998&lt;/strong&gt;, p. 46-59.</angewandte-chemie>
+<apa>Diewald-Kerkmann, G. (1998). Denunziant ist nicht gleich Denunziant. In K.  Behnke &amp;amp; J.  Wolf (Eds.), &lt;em&gt;Ullstein-Taschenbuch: Vol. 33243&lt;/em&gt;&lt;em&gt;. Stasi auf dem Schulhof. Der Missbrauch von Kindern und Jugendlichen durch das Ministerium für Staatssicherheit&lt;/em&gt; (pp. 46-59). Berlin: Ullstein.</apa>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Diewald-Kerkmann, G. (1998). Denunziant ist nicht gleich Denunziant. In K.  Behnke &amp;amp; J.  Wolf (Eds.), &lt;em&gt;Ullstein-Taschenbuch: Vol. 33243&lt;/em&gt;&lt;em&gt;. Stasi auf dem Schulhof. Der Missbrauch von Kindern und Jugendlichen durch das Ministerium für Staatssicherheit&lt;/em&gt; (pp. 46-59). Berlin: Ullstein.&lt;/div&gt;</apa_indent>
+<mla>Diewald-Kerkmann, Gisela. “Denunziant ist nicht gleich Denunziant”. &lt;em&gt;Stasi auf dem Schulhof. Der Missbrauch von Kindern und Jugendlichen durch das Ministerium für Staatssicherheit&lt;/em&gt;. Ed. Klaus Behnke and Jürgen Wolf. Berlin: Ullstein, 1998.Vol. 33243. Ullstein-Taschenbuch. 46-59.</mla>
+<lncs>Diewald-Kerkmann, G.: Denunziant ist nicht gleich Denunziant. In: Behnke, K. and Wolf, J. (eds.) Stasi auf dem Schulhof. Der Missbrauch von Kindern und Jugendlichen durch das Ministerium für Staatssicherheit. Ullstein-Taschenbuch. 33243, p. 46-59. Ullstein, Berlin (1998).</lncs>
+<ieee>G. Diewald-Kerkmann, “Denunziant ist nicht gleich Denunziant”, &lt;em&gt;Stasi auf dem Schulhof. Der Missbrauch von Kindern und Jugendlichen durch das Ministerium für Staatssicherheit&lt;/em&gt;, K. Behnke and J. Wolf, eds., Ullstein-Taschenbuch, vol. 33243,  Berlin: Ullstein, 1998,  pp.46-59.</ieee>
+<default>Diewald-Kerkmann G (1998)  &lt;br /&gt;In:  Stasi auf dem Schulhof. Der Missbrauch von Kindern und Jugendlichen durch das Ministerium für Staatssicherheit. Behnke K, Wolf J (Eds); Ullstein-Taschenbuch, 33243. Berlin: Ullstein:  46-59.</default>
+<wels>Diewald-Kerkmann, G. (1998): Denunziant ist nicht gleich Denunziant. In: Klaus Behnke; Jürgen Wolf (Hrsg.):  Stasi auf dem Schulhof. Der Missbrauch von Kindern und Jugendlichen durch das Ministerium für Staatssicherheit. Berlin: Ullstein. (Ullstein-Taschenbuch, 33243).  S. 46-59.</wels>
+<aps>G.  Diewald-Kerkmann, Denunziant ist nicht gleich Denunziant, in &lt;em&gt;Stasi auf dem Schulhof. Der Missbrauch von Kindern und Jugendlichen durch das Ministerium für Staatssicherheit&lt;/em&gt;, edited by K.  Behnke and J.  Wolf, Ullstein-Taschenbuch, &lt;strong&gt;33243&lt;/strong&gt; (Ullstein, Berlin, 1998), p. 46-59.</aps>
+<bio1>Diewald-Kerkmann G (1998) &lt;br /&gt;Denunziant ist nicht gleich Denunziant. &lt;br /&gt;In:  Stasi auf dem Schulhof. Der Missbrauch von Kindern und Jugendlichen durch das Ministerium für Staatssicherheit. Behnke K, Wolf J (Eds); Ullstein-Taschenbuch, 33243. Berlin: Ullstein:  46-59.</bio1>
+<ama>Diewald-Kerkmann G. Denunziant ist nicht gleich Denunziant. In: Behnke K, Wolf J, eds. &lt;em&gt;Stasi auf dem Schulhof. Der Missbrauch von Kindern und Jugendlichen durch das Ministerium für Staatssicherheit&lt;/em&gt;. Ullstein-Taschenbuch. Vol 33243. Berlin: Ullstein;  1998: 46-59.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Diewald-Kerkmann, G. (1998). Denunziant ist nicht gleich Denunziant (Ullstein-Taschenbuch). &lt;em&gt;Stasi auf dem Schulhof. Der Missbrauch von Kindern und Jugendlichen durch das Ministerium für Staatssicherheit&lt;/em&gt; (S. 46-59). Berlin: Ullstein.&lt;/div&gt;</dgps>
+<harvard1>Diewald-Kerkmann, G., 1998. Denunziant ist nicht gleich Denunziant. In K.  Behnke &amp;amp; J.  Wolf, eds. &lt;em&gt;Stasi auf dem Schulhof. Der Missbrauch von Kindern und Jugendlichen durch das Ministerium für Staatssicherheit&lt;/em&gt;. Ullstein-Taschenbuch. no.33243  Berlin: Ullstein, pp. 46-59.</harvard1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1858399</recordIdentifier><recordChangeDate encoding="w3cdtf">2015-06-16T10:05:11Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1858399</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1858399</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

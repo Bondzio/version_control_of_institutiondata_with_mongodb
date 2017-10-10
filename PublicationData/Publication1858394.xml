@@ -1,0 +1,110 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Denunziantentum und Gestapo. Die freiwilligen „Helfer aus der Bevölkerung“</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Gisela</namePart>
+  <namePart type="family">Diewald-Kerkmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">139291</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Gerhard</namePart><namePart type="family">Paul</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Klaus-Michael</namePart><namePart type="family">Mallmann</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">3652153</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">7978378</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">3791117</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>WBG</publisher><dateIssued encoding="w3cdtf">1995</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Die Gestapo. Mythos und Realität</title></titleInfo>
+  <identifier type="isbn">3-534-12572-X</identifier>
+<part><extent unit="pages">288-305</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Diewald-Kerkmann, G. (1995). Denunziantentum und Gestapo. Die freiwilligen „Helfer aus der Bevölkerung“. &lt;em&gt;Die Gestapo. Mythos und Realität&lt;/em&gt; (S. 288-305). Darmstadt: WBG.&lt;/div&gt;</dgps>
+<harvard1>Diewald-Kerkmann, G., 1995. Denunziantentum und Gestapo. Die freiwilligen „Helfer aus der Bevölkerung“. In G.  Paul &amp;amp; K. - M.  Mallmann, eds. &lt;em&gt;Die Gestapo. Mythos und Realität&lt;/em&gt;.  Darmstadt: WBG, pp. 288-305.</harvard1>
+<ama>Diewald-Kerkmann G. Denunziantentum und Gestapo. Die freiwilligen „Helfer aus der Bevölkerung“. In: Paul G, Mallmann K-M, eds. &lt;em&gt;Die Gestapo. Mythos und Realität&lt;/em&gt;. Darmstadt: WBG;  1995: 288-305.</ama>
+<aps> G.  Diewald-Kerkmann, Denunziantentum und Gestapo. Die freiwilligen „Helfer aus der Bevölkerung“, in &lt;em&gt;Die Gestapo. Mythos und Realität&lt;/em&gt;, edited by G.  Paul and K. - M.  Mallmann (WBG, Darmstadt, 1995), p. 288-305.</aps>
+<bio1>Diewald-Kerkmann G (1995) &lt;br /&gt;Denunziantentum und Gestapo. Die freiwilligen „Helfer aus der Bevölkerung“. &lt;br /&gt;In:  Die Gestapo. Mythos und Realität. Paul G, Mallmann K-M (Eds); Darmstadt: WBG:  288-305.</bio1>
+<wels>Diewald-Kerkmann, G. (1995): Denunziantentum und Gestapo. Die freiwilligen „Helfer aus der Bevölkerung“. In: Gerhard Paul; Klaus-Michael Mallmann (Hrsg.):  Die Gestapo. Mythos und Realität. Darmstadt: WBG.  S. 288-305.</wels>
+<default>Diewald-Kerkmann G (1995)  &lt;br /&gt;In:  Die Gestapo. Mythos und Realität. Paul G, Mallmann K-M (Eds);Darmstadt: WBG:  288-305.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Diewald-Kerkmann, G. (1995). Denunziantentum und Gestapo. Die freiwilligen „Helfer aus der Bevölkerung“. In G.  Paul &amp;amp; K. - M.  Mallmann (Eds.), &lt;em&gt;Die Gestapo. Mythos und Realität&lt;/em&gt; (pp. 288-305). Darmstadt: WBG.&lt;/div&gt;</apa_indent>
+<ieee> G. Diewald-Kerkmann, “Denunziantentum und Gestapo. Die freiwilligen „Helfer aus der Bevölkerung“”, &lt;em&gt;Die Gestapo. Mythos und Realität&lt;/em&gt;, G. Paul and K.-M. Mallmann, eds.,  Darmstadt: WBG, 1995,  pp.288-305.</ieee>
+<mla>Diewald-Kerkmann, Gisela. “Denunziantentum und Gestapo. Die freiwilligen „Helfer aus der Bevölkerung“”. &lt;em&gt;Die Gestapo. Mythos und Realität&lt;/em&gt;. Ed. Gerhard Paul and Klaus-Michael Mallmann. Darmstadt: WBG, 1995. 288-305.</mla>
+<lncs> Diewald-Kerkmann, G.: Denunziantentum und Gestapo. Die freiwilligen „Helfer aus der Bevölkerung“. In: Paul, G. and Mallmann, K.-M. (eds.) Die Gestapo. Mythos und Realität. p. 288-305. WBG, Darmstadt (1995).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Diewald-Kerkmann, Gisela. 1995. “Denunziantentum und Gestapo. Die freiwilligen „Helfer aus der Bevölkerung“”. In &lt;em&gt;Die Gestapo. Mythos und Realität&lt;/em&gt;, ed. Gerhard Paul and Klaus-Michael Mallmann, 288-305. Darmstadt: WBG.&lt;/div&gt;</chicago>
+<angewandte-chemie>G.  Diewald-Kerkmann, in &lt;em&gt;Die Gestapo. Mythos und Realität&lt;/em&gt; (Eds.: G. Paul, K.-M. Mallmann), Wbg, Darmstadt, &lt;strong&gt;1995&lt;/strong&gt;, p. 288-305.</angewandte-chemie>
+<apa>Diewald-Kerkmann, G. (1995). Denunziantentum und Gestapo. Die freiwilligen „Helfer aus der Bevölkerung“. In G.  Paul &amp;amp; K. - M.  Mallmann (Eds.), &lt;em&gt;Die Gestapo. Mythos und Realität&lt;/em&gt; (pp. 288-305). Darmstadt: WBG.</apa>
+<frontiers>Diewald-Kerkmann, G. (1995). “Denunziantentum und Gestapo. Die freiwilligen „Helfer aus der Bevölkerung“” in &lt;em&gt;Die Gestapo. Mythos und Realität&lt;/em&gt;, Paul, G., and Mallmann, K. - M. eds. (Darmstadt: WBG), 288-305.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1858394</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-11-25T11:12:17Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-11-25T11:12:17Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1858394</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1858394</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Quarkonium binding and dissociation: The spectral analysis of the QGP</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Helmut</namePart>
+  <namePart type="family">Satz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40339</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">23470601</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">in statistical QCD, the thermal properties of the quark-gluon plasma can be determined by studying the in-medium behaviour of heavy quark bound states. The results can be applied to quarkonium production in high energy nuclear collisions, if these indeed form a fully equilibrated QGP. Modifications could arise if an initial charm excess persists in the collision evolution and caused quarkonium regeneration at hadronization.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host">
+  <identifier type="issn">0375-9474</identifier>
+  <identifier type="arXiv">hep-ph/0609197</identifier>
+  <identifier type="INSPIRE">726501</identifier>
+  <identifier type="ISI">000244574400031</identifier><identifier type="doi">10.1016/j.nuclphysa.2006.11.026</identifier>
+<part><detail type="volume"><number>783</number></detail><extent unit="pages">249C-260C</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee> H. Satz, “Quarkonium binding and dissociation: The spectral analysis of the QGP”, ELSEVIER SCIENCE BV, 2007.</ieee>
+<lncs> Satz, H.: Quarkonium binding and dissociation: The spectral analysis of the QGP. (2007).</lncs>
+<mla>Satz, Helmut. “Quarkonium binding and dissociation: The spectral analysis of the QGP”., ELSEVIER SCIENCE BV, 2007.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Satz, H. (2007). &lt;em&gt;Quarkonium binding and dissociation: The spectral analysis of the QGP&lt;/em&gt;. Presented at the .&lt;/div&gt;</apa_indent>
+<angewandte-chemie>H.  Satz, Elsevier Science Bv, &lt;strong&gt;2007&lt;/strong&gt;, p. 249C-260C.</angewandte-chemie>
+<apa>Satz, H. (2007). &lt;em&gt;Quarkonium binding and dissociation: The spectral analysis of the QGP&lt;/em&gt;. Presented at the .</apa>
+<frontiers>Satz, H. (2007).“Quarkonium binding and dissociation: The spectral analysis of the QGP”.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Satz, Helmut. 2007. “Quarkonium binding and dissociation: The spectral analysis of the QGP”. Presented at the , 783:249C-260C. NUCLEAR PHYSICS A. ELSEVIER SCIENCE BV.&lt;/div&gt;</chicago>
+<harvard1>Satz, H., 2007. Quarkonium binding and dissociation: The spectral analysis of the QGP.</harvard1>
+<ama>Satz H. Quarkonium binding and dissociation: The spectral analysis of the QGP.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Satz, H. (2007). Quarkonium binding and dissociation: The spectral analysis of the QGP (NUCLEAR PHYSICS A) (S. 249C-260C). ELSEVIER SCIENCE BV. doi:10.1016/j.nuclphysa.2006.11.026.&lt;/div&gt;</dgps>
+<bio1>Satz H (2007) &lt;br /&gt;Quarkonium binding and dissociation: The spectral analysis of the QGP.</bio1>
+<aps> H.  Satz, Quarkonium binding and dissociation: The spectral analysis of the QGP, NUCLEAR PHYSICS A, &lt;strong&gt;783&lt;/strong&gt; (ELSEVIER SCIENCE BV, 2007), p. 249C-260C.</aps>
+<wels>Satz, H. (2007): Quarkonium binding and dissociation: The spectral analysis of the QGP. ELSEVIER SCIENCE BV. (NUCLEAR PHYSICS A, 783).  S. 249C-260C.</wels>
+<default>Satz H (2007) .</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1595286</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:37Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-24T13:15:53Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1595286</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1595286</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

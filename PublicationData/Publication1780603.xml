@@ -1,0 +1,114 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Integration von Erkennung und Interpretation von gesprochener Sprache</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Gernot A.</namePart>
+  <namePart type="family">Fink</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Franz</namePart>
+  <namePart type="family">Kummert</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10372</identifier></name>
+<name type="personal">
+  <namePart type="given">Gerhard</namePart>
+  <namePart type="family">Sagerer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10375</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Jürgen</namePart><namePart type="family">Kunze</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Technische Fakultät</namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Angewandte Informatik</namePart>
+  <identifier type="unibi">18304588</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Die Mehrzahl der heutigen sprachverstehenden Systeme sind aus zwei sehr unterschiedlichen Verarbeitungskomponenten aufgebaut, einer meist statistischen Spracherkennungskomponente und einer in der Regel wissensbasiert arbeitenden Komponente zur Interpretation. Die Kommunikation zwischen diesen Verarbeitungseinheiten ist stark eingeschränkt. In der Regel werden von der Spracherkennung nur Worthypothesenmengen berechnet und an die Interpretationskomponente weitergereicht &lt;i&gt;ohne weitere Interaktion&lt;/i&gt;. Wir stellen im folgenden ein Konzept zur Integration von Spracherkennung und Sprachverstehen vor, das die Interaktion dieser Komponenten entscheidend verbessert. Es stellt eine gemeinsame Wissensbasis und eine kompatible Wissensstruktur bereit und leistet eine integrierte Steuerung der Analyseaufgabe.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Kummert_011.pdf">https://pub.uni-bielefeld.de/download/1780603/2312968</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Gesellschaft für Informatik</publisher><dateIssued encoding="w3cdtf">1994</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>KI-94 workshops: 18. Deutsche Jahrestagung für Künstliche Intelligenz, KI-94, Saarbrücken, 18.-23. September 1994</title></titleInfo><identifier type="urn">urn:nbn:de:0070-bipr-21567</identifier>
+<part><extent unit="pages">168-169</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Fink, G. A.; Kummert, F.; Sagerer, G. (1994): Integration von Erkennung und Interpretation von gesprochener Sprache. In: Jürgen Kunze (Hrsg.):  KI-94 workshops: 18. Deutsche Jahrestagung für Künstliche Intelligenz, KI-94, Saarbrücken, 18.-23. September 1994. Bonn: Gesellschaft für Informatik.  S. 168-169.</wels>
+<default>Fink GA, Kummert F, Sagerer G (1994)  &lt;br /&gt;In:  KI-94 workshops: 18. Deutsche Jahrestagung für Künstliche Intelligenz, KI-94, Saarbrücken, 18.-23. September 1994. Kunze J (Ed);Bonn: Gesellschaft für Informatik:  168-169.</default>
+<harvard1>Fink, G.A., Kummert, F., &amp;amp; Sagerer, G., 1994. Integration von Erkennung und Interpretation von gesprochener Sprache. In J.  Kunze, ed. &lt;em&gt;KI-94 workshops: 18. Deutsche Jahrestagung für Künstliche Intelligenz, KI-94, Saarbrücken, 18.-23. September 1994&lt;/em&gt;.  Bonn: Gesellschaft für Informatik, pp. 168-169.</harvard1>
+<ama>Fink GA, Kummert F, Sagerer G. Integration von Erkennung und Interpretation von gesprochener Sprache. In: Kunze J, ed. &lt;em&gt;KI-94 workshops: 18. Deutsche Jahrestagung für Künstliche Intelligenz, KI-94, Saarbrücken, 18.-23. September 1994&lt;/em&gt;. Bonn: Gesellschaft für Informatik;  1994: 168-169.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fink, G.A., Kummert, F. &amp;amp; Sagerer, G. (1994). Integration von Erkennung und Interpretation von gesprochener Sprache. &lt;em&gt;KI-94 workshops: 18. Deutsche Jahrestagung für Künstliche Intelligenz, KI-94, Saarbrücken, 18.-23. September 1994&lt;/em&gt; (S. 168-169). Bonn: Gesellschaft für Informatik.&lt;/div&gt;</dgps>
+<bio1>Fink GA, Kummert F, Sagerer G (1994) &lt;br /&gt;Integration von Erkennung und Interpretation von gesprochener Sprache. &lt;br /&gt;In:  KI-94 workshops: 18. Deutsche Jahrestagung für Künstliche Intelligenz, KI-94, Saarbrücken, 18.-23. September 1994. Kunze J (Ed); Bonn: Gesellschaft für Informatik:  168-169.</bio1>
+<aps>G. A.  Fink, F.  Kummert, and G.  Sagerer, Integration von Erkennung und Interpretation von gesprochener Sprache, in &lt;em&gt;KI-94 workshops: 18. Deutsche Jahrestagung für Künstliche Intelligenz, KI-94, Saarbrücken, 18.-23. September 1994&lt;/em&gt;, edited by J.  Kunze (Gesellschaft für Informatik, Bonn, 1994), p. 168-169.</aps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fink, Gernot A., Kummert, Franz, and Sagerer, Gerhard. 1994. “Integration von Erkennung und Interpretation von gesprochener Sprache”. In &lt;em&gt;KI-94 workshops: 18. Deutsche Jahrestagung für Künstliche Intelligenz, KI-94, Saarbrücken, 18.-23. September 1994&lt;/em&gt;, ed. Jürgen Kunze, 168-169. Bonn: Gesellschaft für Informatik.&lt;/div&gt;</chicago>
+<angewandte-chemie>G. A.  Fink, F.  Kummert, and G.  Sagerer, in &lt;em&gt;KI-94 workshops: 18. Deutsche Jahrestagung für Künstliche Intelligenz, KI-94, Saarbrücken, 18.-23. September 1994&lt;/em&gt; (Ed.: J. Kunze), Gesellschaft Für Informatik, Bonn, &lt;strong&gt;1994&lt;/strong&gt;, p. 168-169.</angewandte-chemie>
+<apa>Fink, G. A., Kummert, F., &amp;amp; Sagerer, G. (1994). Integration von Erkennung und Interpretation von gesprochener Sprache. In J.  Kunze (Ed.), &lt;em&gt;KI-94 workshops: 18. Deutsche Jahrestagung für Künstliche Intelligenz, KI-94, Saarbrücken, 18.-23. September 1994&lt;/em&gt; (pp. 168-169). Bonn: Gesellschaft für Informatik.</apa>
+<frontiers>Fink, G. A., Kummert, F., and Sagerer, G. (1994). “Integration von Erkennung und Interpretation von gesprochener Sprache” in &lt;em&gt;KI-94 workshops: 18. Deutsche Jahrestagung für Künstliche Intelligenz, KI-94, Saarbrücken, 18.-23. September 1994&lt;/em&gt;, ed. J.  Kunze (Bonn: Gesellschaft für Informatik), 168-169.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fink, G. A., Kummert, F., &amp;amp; Sagerer, G. (1994). Integration von Erkennung und Interpretation von gesprochener Sprache. In J.  Kunze (Ed.), &lt;em&gt;KI-94 workshops: 18. Deutsche Jahrestagung für Künstliche Intelligenz, KI-94, Saarbrücken, 18.-23. September 1994&lt;/em&gt; (pp. 168-169). Bonn: Gesellschaft für Informatik.&lt;/div&gt;</apa_indent>
+<ieee>G.A. Fink, F. Kummert, and G. Sagerer, “Integration von Erkennung und Interpretation von gesprochener Sprache”, &lt;em&gt;KI-94 workshops: 18. Deutsche Jahrestagung für Künstliche Intelligenz, KI-94, Saarbrücken, 18.-23. September 1994&lt;/em&gt;, J. Kunze, ed.,  Bonn: Gesellschaft für Informatik, 1994,  pp.168-169.</ieee>
+<mla>Fink, Gernot A., Kummert, Franz, and Sagerer, Gerhard. “Integration von Erkennung und Interpretation von gesprochener Sprache”. &lt;em&gt;KI-94 workshops: 18. Deutsche Jahrestagung für Künstliche Intelligenz, KI-94, Saarbrücken, 18.-23. September 1994&lt;/em&gt;. Ed. Jürgen Kunze. Bonn: Gesellschaft für Informatik, 1994. 168-169.</mla>
+<lncs>Fink, G.A., Kummert, F., Sagerer, G.: Integration von Erkennung und Interpretation von gesprochener Sprache. In: Kunze, J. (ed.) KI-94 workshops: 18. Deutsche Jahrestagung für Künstliche Intelligenz, KI-94, Saarbrücken, 18.-23. September 1994. p. 168-169. Gesellschaft für Informatik, Bonn (1994).</lncs>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780603</recordIdentifier><recordChangeDate encoding="w3cdtf">2013-09-06T14:51:05Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780603</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780603</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

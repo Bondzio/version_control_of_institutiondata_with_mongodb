@@ -1,0 +1,104 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>&quot;Schluß-Lied&quot;. Georges Ballade &quot;Das Lied&quot;</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Wolfgang</namePart>
+  <namePart type="family">Braungart</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11652</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Wolfgang</namePart><namePart type="family">Braungart</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Ute</namePart><namePart type="family">Oelmann</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Bernhard</namePart><namePart type="family">Böschenstein</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10222814</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">4961697</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Niemeyer</publisher><dateIssued encoding="w3cdtf">2001</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Stefan George: Werke und Wirkung seit dem &quot;Siebenten Ring&quot;</title></titleInfo>
+  <identifier type="isbn">3-484-10834-7</identifier>
+<part><extent unit="pages">87-101</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Braungart, W. (2001). &quot;Schluß-Lied&quot;. Georges Ballade &quot;Das Lied&quot;. In W.  Braungart, U.  Oelmann, &amp;amp; B.  Böschenstein (Eds.), &lt;em&gt;Stefan George: Werke und Wirkung seit dem &quot;Siebenten Ring&quot;&lt;/em&gt; (pp. 87-101). Tübingen: Niemeyer.&lt;/div&gt;</apa_indent>
+<lncs>Braungart, W.: &quot;Schluß-Lied&quot;. Georges Ballade &quot;Das Lied&quot;. In: Braungart, W., Oelmann, U., and Böschenstein, B. (eds.) Stefan George: Werke und Wirkung seit dem &quot;Siebenten Ring&quot;. p. 87-101. Niemeyer, Tübingen (2001).</lncs>
+<mla>Braungart, Wolfgang. “&quot;Schluß-Lied&quot;. Georges Ballade &quot;Das Lied&quot;”. &lt;em&gt;Stefan George: Werke und Wirkung seit dem &quot;Siebenten Ring&quot;&lt;/em&gt;. Ed. Wolfgang Braungart, Ute Oelmann, and Bernhard Böschenstein. Tübingen: Niemeyer, 2001. 87-101.</mla>
+<ieee>W. Braungart, “&quot;Schluß-Lied&quot;. Georges Ballade &quot;Das Lied&quot;”, &lt;em&gt;Stefan George: Werke und Wirkung seit dem &quot;Siebenten Ring&quot;&lt;/em&gt;, W. Braungart, U. Oelmann, and B. Böschenstein, eds.,  Tübingen: Niemeyer, 2001,  pp.87-101.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Braungart, Wolfgang. 2001. “&quot;Schluß-Lied&quot;. Georges Ballade &quot;Das Lied&quot;”. In &lt;em&gt;Stefan George: Werke und Wirkung seit dem &quot;Siebenten Ring&quot;&lt;/em&gt;, ed. Wolfgang Braungart, Ute Oelmann, and Bernhard Böschenstein, 87-101. Tübingen: Niemeyer.&lt;/div&gt;</chicago>
+<frontiers>Braungart, W. (2001). “&quot;Schluß-Lied&quot;. Georges Ballade &quot;Das Lied&quot;” in &lt;em&gt;Stefan George: Werke und Wirkung seit dem &quot;Siebenten Ring&quot;&lt;/em&gt;, ed. W.  Braungart, U.  Oelmann, and B.  Böschenstein (Tübingen: Niemeyer), 87-101.</frontiers>
+<apa>Braungart, W. (2001). &quot;Schluß-Lied&quot;. Georges Ballade &quot;Das Lied&quot;. In W.  Braungart, U.  Oelmann, &amp;amp; B.  Böschenstein (Eds.), &lt;em&gt;Stefan George: Werke und Wirkung seit dem &quot;Siebenten Ring&quot;&lt;/em&gt; (pp. 87-101). Tübingen: Niemeyer.</apa>
+<angewandte-chemie>W.  Braungart, in &lt;em&gt;Stefan George: Werke und Wirkung seit dem &quot;Siebenten Ring&quot;&lt;/em&gt; (Eds.: W. Braungart, U. Oelmann, B. Böschenstein), Niemeyer, Tübingen, &lt;strong&gt;2001&lt;/strong&gt;, p. 87-101.</angewandte-chemie>
+<bio1>Braungart W (2001) &lt;br /&gt;&quot;Schluß-Lied&quot;. Georges Ballade &quot;Das Lied&quot;. &lt;br /&gt;In:  Stefan George: Werke und Wirkung seit dem &quot;Siebenten Ring&quot;. Braungart W, Oelmann U, Böschenstein B (Eds); Tübingen: Niemeyer:  87-101.</bio1>
+<aps>W.  Braungart, &quot;Schluß-Lied&quot;. Georges Ballade &quot;Das Lied&quot;, in &lt;em&gt;Stefan George: Werke und Wirkung seit dem &quot;Siebenten Ring&quot;&lt;/em&gt;, edited by W.  Braungart, et al. (Niemeyer, Tübingen, 2001), p. 87-101.</aps>
+<harvard1>Braungart, W., 2001. &quot;Schluß-Lied&quot;. Georges Ballade &quot;Das Lied&quot;. In W.  Braungart, U.  Oelmann, &amp;amp; B.  Böschenstein, eds. &lt;em&gt;Stefan George: Werke und Wirkung seit dem &quot;Siebenten Ring&quot;&lt;/em&gt;.  Tübingen: Niemeyer, pp. 87-101.</harvard1>
+<ama>Braungart W. &quot;Schluß-Lied&quot;. Georges Ballade &quot;Das Lied&quot;. In: Braungart W, Oelmann U, Böschenstein B, eds. &lt;em&gt;Stefan George: Werke und Wirkung seit dem &quot;Siebenten Ring&quot;&lt;/em&gt;. Tübingen: Niemeyer;  2001: 87-101.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Braungart, W. (2001). &quot;Schluß-Lied&quot;. Georges Ballade &quot;Das Lied&quot;. &lt;em&gt;Stefan George: Werke und Wirkung seit dem &quot;Siebenten Ring&quot;&lt;/em&gt; (S. 87-101). Tübingen: Niemeyer.&lt;/div&gt;</dgps>
+<default>Braungart W (2001)  &lt;br /&gt;In:  Stefan George: Werke und Wirkung seit dem &quot;Siebenten Ring&quot;. Braungart W, Oelmann U, Böschenstein B (Eds);Tübingen: Niemeyer:  87-101.</default>
+<wels>Braungart, W. (2001): &quot;Schluß-Lied&quot;. Georges Ballade &quot;Das Lied&quot;. In: Wolfgang Braungart; Ute Oelmann; Bernhard Böschenstein (Hrsg.):  Stefan George: Werke und Wirkung seit dem &quot;Siebenten Ring&quot;. Tübingen: Niemeyer.  S. 87-101.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1919951</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-11-25T13:44:37Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-04-05T06:54:38Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1919951</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1919951</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,97 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Computer and geometry teaching</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Günter</namePart>
+  <namePart type="family">Graumann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10520</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">At the beginning of my article I wish to emphasize the relevance of geometry learning in education and present my conception of geometry teaching. Thereby I shall point out why I don&apos;t find the orientation not only in Euklid but also in modern axiomatism sensible. A conception of geometry teaching which suits the sense and structure of general school education must be directed both to the formation of geometric concepts which are combined with each other and based on experiences and also to pure mathematical of everyday problems. This conception is similar to those of the representatives of the genetic method. Following this explanation I want to mention the part that computers can take in my conception and how school reacts on the change in our computer society. First, in my opinion, a critical discussion with an extensive view is necessary and secondly, a qualified discussion of course needs and concrete experiences with applications of computers in selected fields. The application of computers in geometry is an example for this. In the second part of my article I want to show with examples on school geometry how computers can support and enliven geometry teaching and what kinds of objectives should be aimed at. I will complete these reflections with examples of programs in Basic and Pascal as well as some outputs of these. Finally I want to say some words about my experiences with university students.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Graumann_028.pdf">https://pub.uni-bielefeld.de/download/1776190/2312096</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1985</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Mathematics Education Research In Finland: yearbook, Finnish Association of Mathematics and Science Education Research</title></titleInfo>
+  <identifier type="isbn">951-679-660-5</identifier><identifier type="urn">urn:nbn:de:0070-bipr-11391</identifier>
+<part><extent unit="pages">61-79</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa>Graumann, G. (1985). Computer and geometry teaching. &lt;em&gt;Mathematics Education Research In Finland: yearbook, Finnish Association of Mathematics and Science Education Research&lt;/em&gt;, 61-79.</apa>
+<angewandte-chemie>G.  Graumann, in &lt;em&gt;Mathematics Education Research In Finland: yearbook, Finnish Association of Mathematics and Science Education Research&lt;/em&gt;, Jyväskylä, &lt;strong&gt;1985&lt;/strong&gt;, p. 61-79.</angewandte-chemie>
+<frontiers>Graumann, G. (1985). “Computer and geometry teaching” in &lt;em&gt;Mathematics Education Research In Finland: yearbook, Finnish Association of Mathematics and Science Education Research&lt;/em&gt; Publication : B / Kasvatustieteiden Tutkimuslaitos (Jyväskylä) ; 3 (Jyväskylä), 61-79.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Graumann, Günter. 1985. “Computer and geometry teaching”. In &lt;em&gt;Mathematics Education Research In Finland: yearbook, Finnish Association of Mathematics and Science Education Research&lt;/em&gt;, 61-79. Publication : B / Kasvatustieteiden Tutkimuslaitos (Jyväskylä) ; 3. Jyväskylä.&lt;/div&gt;</chicago>
+<ieee>G. Graumann, “Computer and geometry teaching”, &lt;em&gt;Mathematics Education Research In Finland: yearbook, Finnish Association of Mathematics and Science Education Research&lt;/em&gt;, Publication : B / Kasvatustieteiden Tutkimuslaitos (Jyväskylä) ; 3,  Jyväskylä: 1985,  pp.61-79.</ieee>
+<lncs>Graumann, G.: Computer and geometry teaching. Mathematics Education Research In Finland: yearbook, Finnish Association of Mathematics and Science Education Research. Publication : B / Kasvatustieteiden Tutkimuslaitos (Jyväskylä) ; 3. p. 61-79. Jyväskylä (1985).</lncs>
+<mla>Graumann, Günter. “Computer and geometry teaching”. &lt;em&gt;Mathematics Education Research In Finland: yearbook, Finnish Association of Mathematics and Science Education Research&lt;/em&gt;. Jyväskylä, 1985. Publication : B / Kasvatustieteiden Tutkimuslaitos (Jyväskylä) ; 3. 61-79.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Graumann, G. (1985). Computer and geometry teaching. &lt;em&gt;Mathematics Education Research In Finland: yearbook, Finnish Association of Mathematics and Science Education Research&lt;/em&gt;, 61-79.&lt;/div&gt;</apa_indent>
+<wels>Graumann, G. (1985): Computer and geometry teaching. In: Mathematics Education Research In Finland: yearbook, Finnish Association of Mathematics and Science Education Research. Jyväskylä. (Publication : B / Kasvatustieteiden Tutkimuslaitos (Jyväskylä) ; 3, ).  S. 61-79.</wels>
+<default>Graumann G (1985)  &lt;br /&gt;In:  Mathematics Education Research In Finland: yearbook, Finnish Association of Mathematics and Science Education Research.  Publication : B / Kasvatustieteiden Tutkimuslaitos (Jyväskylä) ; 3, . Jyväskylä:  61-79.</default>
+<harvard1>Graumann, G., 1985. Computer and geometry teaching. In &lt;em&gt;Mathematics Education Research In Finland: yearbook, Finnish Association of Mathematics and Science Education Research&lt;/em&gt;. Publication : B / Kasvatustieteiden Tutkimuslaitos (Jyväskylä) ; 3.  Jyväskylä, pp. 61-79.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Graumann, G. (1985). Computer and geometry teaching (Publication : B / Kasvatustieteiden Tutkimuslaitos (Jyväskylä) ; 3). &lt;em&gt;Mathematics Education Research In Finland: yearbook, Finnish Association of Mathematics and Science Education Research&lt;/em&gt; (S. 61-79). Jyväskylä.&lt;/div&gt;</dgps>
+<ama>Graumann G. Computer and geometry teaching. In:  &lt;em&gt;Mathematics Education Research In Finland: yearbook, Finnish Association of Mathematics and Science Education Research&lt;/em&gt;. Publication : B / Kasvatustieteiden Tutkimuslaitos (Jyväskylä) ; 3. Jyväskylä;  1985: 61-79.</ama>
+<aps>G.  Graumann, Computer and geometry teaching, in &lt;em&gt;Mathematics Education Research In Finland: yearbook, Finnish Association of Mathematics and Science Education Research&lt;/em&gt;, Publication : B / Kasvatustieteiden Tutkimuslaitos (Jyväskylä) ; 3 (Jyväskylä, 1985), p. 61-79.</aps>
+<bio1>Graumann G (1985) &lt;br /&gt;Computer and geometry teaching. &lt;br /&gt;In:  Mathematics Education Research In Finland: yearbook, Finnish Association of Mathematics and Science Education Research.  Publication : B / Kasvatustieteiden Tutkimuslaitos (Jyväskylä) ; 3,  Jyväskylä:  61-79.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776190</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776190</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776190</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,120 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Legendre padé approximants in [pi]N scattering</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Jürgen</namePart>
+  <namePart type="family">Engels</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40338</identifier></name>
+<name type="personal">
+  <namePart type="given">Jochem</namePart>
+  <namePart type="family">Fleischer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40323</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Elektroschwache Wechselwirkungen</namePart>
+  <identifier type="unibi">23470617</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Padé approximants are expected to probe the singularity structure of scattering amplitudes. We apply Padé approximants for Legendre series to [pi]N amplitudes, which are obtained from phase shifts. The imaginary parts were calculated from the phase-shift analysis of Almehed and Lovelace, the real parts from fixed-t dispersion relations directly and from the phase-shift analysis of Nielsen and Oades. For all amplitudes (exept for the isospin-odd Nielsen-Oades) the poles of the Padé approximants are outside the region of analyticity in the Mandelstam plane. The Padé approximants and the truncated Legendre series for the imaginary parts deviate from each other only up to 1% even close to the boundary of the double-spectral function (except for B (+)).</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Engels_046.pdf">https://pub.uni-bielefeld.de/download/1776240/2312120</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1974</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Il nuovo cimento della Società Italiana di Fisica, A: nuclei, particles and field</title></titleInfo>
+  <identifier type="issn">0369-3546</identifier>
+  <identifier type="eIssn">1826-9869</identifier>
+  <identifier type="INSPIRE">80919</identifier>
+  <identifier type="ISI">A1975AR52400004</identifier><identifier type="urn">urn:nbn:de:0070-bipr-11672</identifier><identifier type="doi">10.1007/BF02735788</identifier>
+<part><detail type="volume"><number>24</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">73-92</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Engels J, Fleischer J. Legendre padé approximants in [pi]N scattering. &lt;em&gt;Il nuovo cimento della Società Italiana di Fisica, A: nuclei, particles and field&lt;/em&gt;. 1974;24(1):73-92.</ama>
+<harvard1>Engels, J., &amp;amp; Fleischer, J., 1974. Legendre padé approximants in [pi]N scattering. &lt;em&gt;Il nuovo cimento della Società Italiana di Fisica, A: nuclei, particles and field&lt;/em&gt;, 24(1), p 73-92.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, J. &amp;amp; Fleischer, J. (1974). Legendre padé approximants in [pi]N scattering. &lt;em&gt;Il nuovo cimento della Società Italiana di Fisica, A: nuclei, particles and field&lt;/em&gt;, &lt;em&gt;24&lt;/em&gt;(1), 73-92. doi:10.1007/BF02735788.&lt;/div&gt;</dgps>
+<aps>J.  Engels and J.  Fleischer, Legendre padé approximants in [pi]N scattering, Il nuovo cimento della Società Italiana di Fisica, A: nuclei, particles and field &lt;strong&gt;24&lt;/strong&gt;, 73-92 (1974).</aps>
+<bio1>Engels J, Fleischer J (1974) &lt;br /&gt;Legendre padé approximants in [pi]N scattering.&lt;br /&gt;Il nuovo cimento della Società Italiana di Fisica, A: nuclei, particles and field 24(1): 73-92.</bio1>
+<wels>Engels, J.; Fleischer, J. (1974): Legendre padé approximants in [pi]N scattering &lt;em&gt;Il nuovo cimento della Società Italiana di Fisica, A: nuclei, particles and field&lt;/em&gt;,24:(1): 73-92.</wels>
+<default>Engels J, Fleischer J (1974) &lt;br /&gt;Il nuovo cimento della Società Italiana di Fisica, A: nuclei, particles and field 24(1): 73-92.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, J., &amp;amp; Fleischer, J. (1974). Legendre padé approximants in [pi]N scattering. &lt;em&gt;Il nuovo cimento della Società Italiana di Fisica, A: nuclei, particles and field&lt;/em&gt;, &lt;em&gt;24&lt;/em&gt;(1), 73-92.&lt;/div&gt;</apa_indent>
+<ieee>J. Engels and J. Fleischer, “Legendre padé approximants in [pi]N scattering”, &lt;em&gt;Il nuovo cimento della Società Italiana di Fisica, A: nuclei, particles and field&lt;/em&gt;,  vol. 24, 1974,  pp. 73-92.</ieee>
+<mla>Engels, Jürgen, and Fleischer, Jochem. “Legendre padé approximants in [pi]N scattering”. &lt;em&gt;Il nuovo cimento della Società Italiana di Fisica, A: nuclei, particles and field&lt;/em&gt; 24.1 (1974): 73-92.</mla>
+<lncs>Engels, J., Fleischer, J.: Legendre padé approximants in [pi]N scattering. Il nuovo cimento della Società Italiana di Fisica, A: nuclei, particles and field. 24, 73-92 (1974).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, Jürgen, and Fleischer, Jochem. 1974. “Legendre padé approximants in [pi]N scattering”. &lt;em&gt;Il nuovo cimento della Società Italiana di Fisica, A: nuclei, particles and field&lt;/em&gt; 24 (1): 73-92.&lt;/div&gt;</chicago>
+<angewandte-chemie>J.  Engels, and J.  Fleischer, “Legendre padé approximants in [pi]N scattering”, &lt;em&gt;Il nuovo cimento della Società Italiana di Fisica, A: nuclei, particles and field&lt;/em&gt;, &lt;strong&gt;1974&lt;/strong&gt;, &lt;em&gt;24&lt;/em&gt;, 73-92.</angewandte-chemie>
+<apa>Engels, J., &amp;amp; Fleischer, J. (1974). Legendre padé approximants in [pi]N scattering. &lt;em&gt;Il nuovo cimento della Società Italiana di Fisica, A: nuclei, particles and field&lt;/em&gt;, &lt;em&gt;24&lt;/em&gt;(1), 73-92.</apa>
+<frontiers>Engels, J., and Fleischer, J. (1974). Legendre padé approximants in [pi]N scattering. &lt;em&gt;Il nuovo cimento della Società Italiana di Fisica, A: nuclei, particles and field&lt;/em&gt; 24, 73-92.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776240</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776240</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776240</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

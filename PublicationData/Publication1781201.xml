@@ -1,0 +1,116 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Which reality do we measure?</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Peter</namePart>
+  <namePart type="family">Weingart</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">76942</identifier></name>
+<name type="personal">
+  <namePart type="given">Roswitha</namePart>
+  <namePart type="family">Sehringer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Matthias</namePart>
+  <namePart type="family">Winterhager</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">76938</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0003-0331-2539</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Arbeitsbereich 7 - Wissenschaft, Technik, Medien</namePart>
+  <identifier type="unibi">5656064</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Bibliometriegruppe</namePart>
+  <identifier type="unibi">16315353</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Scientific reality is a multi-sided phenomenon which cannot be described in a single and authoritative way. The descriptions of scientific research areas differ if one compares the definitions of science policy programmes with expert judgments in the peer-review process. Bibliometric measurements function as an intermediate representation of science. To make them useful and compatible with other representations they have to be translated. The difficulties of mutual translation of these different delineations of scientific research areas are demonstrated in two case studies (marine sciences and multiple sclerosis research) where each of these three different representations of science is supported by empirical results.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Winterhager_014.pdf">https://pub.uni-bielefeld.de/download/1781201/2313219</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1990</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Scientometrics</title></titleInfo>
+  <identifier type="issn">0138-9130</identifier>
+  <identifier type="eIssn">1588-2861</identifier>
+  <identifier type="ISI">A1990EK50400015</identifier><identifier type="urn">urn:nbn:de:0070-pub-17812018</identifier><identifier type="doi">10.1007/BF02020709</identifier>
+<part><detail type="volume"><number>19</number></detail><detail type="issue"><number>5-6</number></detail><extent unit="pages">481-493</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Weingart, P., Sehringer, R., and Winterhager, M. (1990). Which reality do we measure? &lt;em&gt;Scientometrics&lt;/em&gt; 19, 481-493.</frontiers>
+<angewandte-chemie>P.  Weingart, R.  Sehringer, and M.  Winterhager, “Which reality do we measure?”, &lt;em&gt;Scientometrics&lt;/em&gt;, &lt;strong&gt;1990&lt;/strong&gt;, &lt;em&gt;19&lt;/em&gt;, 481-493.</angewandte-chemie>
+<apa>Weingart, P., Sehringer, R., &amp;amp; Winterhager, M. (1990). Which reality do we measure? &lt;em&gt;Scientometrics&lt;/em&gt;, &lt;em&gt;19&lt;/em&gt;(5-6), 481-493.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Weingart, Peter, Sehringer, Roswitha, and Winterhager, Matthias. 1990. “Which reality do we measure?”. &lt;em&gt;Scientometrics&lt;/em&gt; 19 (5-6): 481-493.&lt;/div&gt;</chicago>
+<mla>Weingart, Peter, Sehringer, Roswitha, and Winterhager, Matthias. “Which reality do we measure?”. &lt;em&gt;Scientometrics&lt;/em&gt; 19.5-6 (1990): 481-493.</mla>
+<lncs>Weingart, P., Sehringer, R., Winterhager, M.: Which reality do we measure? Scientometrics. 19, 481-493 (1990).</lncs>
+<ieee>P. Weingart, R. Sehringer, and M. Winterhager, “Which reality do we measure?”, &lt;em&gt;Scientometrics&lt;/em&gt;,  vol. 19, 1990,  pp. 481-493.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Weingart, P., Sehringer, R., &amp;amp; Winterhager, M. (1990). Which reality do we measure? &lt;em&gt;Scientometrics&lt;/em&gt;, &lt;em&gt;19&lt;/em&gt;(5-6), 481-493.&lt;/div&gt;</apa_indent>
+<default>Weingart P, Sehringer R, Winterhager M (1990) &lt;br /&gt;Scientometrics 19(5-6): 481-493.</default>
+<wels>Weingart, P.; Sehringer, R.; Winterhager, M. (1990): Which reality do we measure? &lt;em&gt;Scientometrics&lt;/em&gt;,19:(5-6): 481-493.</wels>
+<bio1>Weingart P, Sehringer R, Winterhager M (1990) &lt;br /&gt;Which reality do we measure?&lt;br /&gt;Scientometrics 19(5-6): 481-493.</bio1>
+<aps>P.  Weingart, R.  Sehringer, and M.  Winterhager, Which reality do we measure?, Scientometrics &lt;strong&gt;19&lt;/strong&gt;, 481-493 (1990).</aps>
+<ama>Weingart P, Sehringer R, Winterhager M. Which reality do we measure? &lt;em&gt;Scientometrics&lt;/em&gt;. 1990;19(5-6):481-493.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Weingart, P., Sehringer, R. &amp;amp; Winterhager, M. (1990). Which reality do we measure? &lt;em&gt;Scientometrics&lt;/em&gt;, &lt;em&gt;19&lt;/em&gt;(5-6), 481-493. doi:10.1007/BF02020709.&lt;/div&gt;</dgps>
+<harvard1>Weingart, P., Sehringer, R., &amp;amp; Winterhager, M., 1990. Which reality do we measure? &lt;em&gt;Scientometrics&lt;/em&gt;, 19(5-6), p 481-493.</harvard1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781201</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781201</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781201</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,133 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Fabrication of molecular nanotemplates in self-assembled monolayers by extreme-ultraviolet-induced chemical lithography</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Andrey</namePart>
+  <namePart type="family">Turchanin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">134664</identifier></name>
+<name type="personal">
+  <namePart type="given">Mark</namePart>
+  <namePart type="family">Schnietz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">3858032</identifier></name>
+<name type="personal">
+  <namePart type="given">Mohamed</namePart>
+  <namePart type="family">El-Desawy</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Harun H.</namePart>
+  <namePart type="family">Solak</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">David</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Armin</namePart>
+  <namePart type="family">Gölzhäuser</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">109837</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-0838-9028</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">29103248</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33079548</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2161137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Extreme-UV interference lithography (EUV-IL) is applied to create chemical nanopatterns in self-assembled monolayers (SAMs) of 4&apos;-nitro-1,1&apos;-biphenyl-4-thiol (NBPT) on gold. X-ray photoelectron spectroscopy shows that EUV irradiation induces both the conversion of the terminal nitro groups of NBPT into amino gro ups and the lateral crosslinking of the underlying aromatic cores. Large-area (approximate to 2 mm(2)) nitro/amino chemical patterns with periods ranging from 2000 nm to 60 nm can be generated. Regions of pristine NBPT on the exposed samples are exchanged with protein-resistant thiol SAMs of polyethyleneglycol, resulting in the formation of molecular nanotemplates, which can serve as the basis of complex biomimetic surfaces.</abstract>
+
+<originInfo><publisher>WILEY-V C H VERLAG GMBH</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>chemical nanopatterns</topic><topic>nanolithography</topic><topic>biomimetics</topic><topic>self-assembled monolayers</topic><topic>molecular engineering</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>SMALL</title></titleInfo>
+  <identifier type="issn">1613-6810</identifier>
+  <identifier type="eIssn">1613-6829</identifier>
+  <identifier type="MEDLINE">17960749</identifier>
+  <identifier type="ISI">000251697100021</identifier><identifier type="doi">10.1002/smll.200700516</identifier>
+<part><detail type="volume"><number>3</number></detail><detail type="issue"><number>12</number></detail><extent unit="pages">2114-2119</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Turchanin, A., Schnietz, M., El-Desawy, M., Solak, H. H., David, C., &amp;amp; Gölzhäuser, A. (2007). Fabrication of molecular nanotemplates in self-assembled monolayers by extreme-ultraviolet-induced chemical lithography. &lt;em&gt;SMALL&lt;/em&gt;, &lt;em&gt;3&lt;/em&gt;(12), 2114-2119.&lt;/div&gt;</apa_indent>
+<ieee> A. Turchanin, et al., “Fabrication of molecular nanotemplates in self-assembled monolayers by extreme-ultraviolet-induced chemical lithography”, &lt;em&gt;SMALL&lt;/em&gt;,  vol. 3, 2007,  pp. 2114-2119.</ieee>
+<lncs> Turchanin, A., Schnietz, M., El-Desawy, M., Solak, H.H., David, C., Gölzhäuser, A.: Fabrication of molecular nanotemplates in self-assembled monolayers by extreme-ultraviolet-induced chemical lithography. SMALL. 3, 2114-2119 (2007).</lncs>
+<mla>Turchanin, Andrey, Schnietz, Mark, El-Desawy, Mohamed, Solak, Harun H., David, Christian, and Gölzhäuser, Armin. “Fabrication of molecular nanotemplates in self-assembled monolayers by extreme-ultraviolet-induced chemical lithography”. &lt;em&gt;SMALL&lt;/em&gt; 3.12 (2007): 2114-2119.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Turchanin, Andrey, Schnietz, Mark, El-Desawy, Mohamed, Solak, Harun H., David, Christian, and Gölzhäuser, Armin. 2007. “Fabrication of molecular nanotemplates in self-assembled monolayers by extreme-ultraviolet-induced chemical lithography”. &lt;em&gt;SMALL&lt;/em&gt; 3 (12): 2114-2119.&lt;/div&gt;</chicago>
+<angewandte-chemie>A.  Turchanin, M.  Schnietz, M.  El-Desawy, H. H.  Solak, C.  David, and A.  Gölzhäuser, “Fabrication of molecular nanotemplates in self-assembled monolayers by extreme-ultraviolet-induced chemical lithography”, &lt;em&gt;SMALL&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;3&lt;/em&gt;, 2114-2119.</angewandte-chemie>
+<apa>Turchanin, A., Schnietz, M., El-Desawy, M., Solak, H. H., David, C., &amp;amp; Gölzhäuser, A. (2007). Fabrication of molecular nanotemplates in self-assembled monolayers by extreme-ultraviolet-induced chemical lithography. &lt;em&gt;SMALL&lt;/em&gt;, &lt;em&gt;3&lt;/em&gt;(12), 2114-2119.</apa>
+<frontiers>Turchanin, A., Schnietz, M., El-Desawy, M., Solak, H. H., David, C., and Gölzhäuser, A. (2007). Fabrication of molecular nanotemplates in self-assembled monolayers by extreme-ultraviolet-induced chemical lithography. &lt;em&gt;SMALL&lt;/em&gt; 3, 2114-2119.</frontiers>
+<ama>Turchanin A, Schnietz M, El-Desawy M, Solak HH, David C, Gölzhäuser A. Fabrication of molecular nanotemplates in self-assembled monolayers by extreme-ultraviolet-induced chemical lithography. &lt;em&gt;SMALL&lt;/em&gt;. 2007;3(12):2114-2119.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Turchanin, A., Schnietz, M., El-Desawy, M., Solak, H.H., David, C. &amp;amp; Gölzhäuser, A. (2007). Fabrication of molecular nanotemplates in self-assembled monolayers by extreme-ultraviolet-induced chemical lithography. &lt;em&gt;SMALL&lt;/em&gt;, &lt;em&gt;3&lt;/em&gt;(12), 2114-2119. WILEY-V C H VERLAG GMBH. doi:10.1002/smll.200700516.&lt;/div&gt;</dgps>
+<harvard1>Turchanin, A., et al., 2007. Fabrication of molecular nanotemplates in self-assembled monolayers by extreme-ultraviolet-induced chemical lithography. &lt;em&gt;SMALL&lt;/em&gt;, 3(12), p 2114-2119.</harvard1>
+<bio1>Turchanin A, Schnietz M, El-Desawy M, Solak HH, David C, Gölzhäuser A (2007) &lt;br /&gt;Fabrication of molecular nanotemplates in self-assembled monolayers by extreme-ultraviolet-induced chemical lithography.&lt;br /&gt;SMALL 3(12): 2114-2119.</bio1>
+<aps> A.  Turchanin, et al., Fabrication of molecular nanotemplates in self-assembled monolayers by extreme-ultraviolet-induced chemical lithography, SMALL &lt;strong&gt;3&lt;/strong&gt;, 2114-2119 (2007).</aps>
+<wels>Turchanin, A.; Schnietz, M.; El-Desawy, M.; Solak, H. H.; David, C.; Gölzhäuser, A. (2007): Fabrication of molecular nanotemplates in self-assembled monolayers by extreme-ultraviolet-induced chemical lithography &lt;em&gt;SMALL&lt;/em&gt;,3:(12): 2114-2119.</wels>
+<default>Turchanin A, Schnietz M, El-Desawy M, Solak HH, David C, Gölzhäuser A (2007) &lt;br /&gt;SMALL 3(12): 2114-2119.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1631011</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:05:26Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-19T08:27:08Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1631011</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1631011</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

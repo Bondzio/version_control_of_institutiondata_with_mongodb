@@ -1,0 +1,127 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Improved photobiological H-2 production in engineered green algal cells</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Olaf</namePart>
+  <namePart type="family">Kruse</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">22124</identifier></name>
+<name type="personal">
+  <namePart type="given">J</namePart>
+  <namePart type="family">Rupprecht</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Klaus-Peter</namePart>
+  <namePart type="family">Bader</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">157987</identifier></name>
+<name type="personal">
+  <namePart type="given">S</namePart>
+  <namePart type="family">Thomas-Hall</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">PM</namePart>
+  <namePart type="family">Schenk</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">G</namePart>
+  <namePart type="family">Finazzi</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">B</namePart>
+  <namePart type="family">Hankamer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Biologie</namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Centrum für Biotechnologie</namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Oxygenic photosynthetic organisms use solar energy to split water (H2O) into protons (H+), electrons (e(-)), and oxygen. A select group of photosynthetic microorganisms, including the green alga Chlamydomonas reinhardtii, has evolved the additional ability to redirect the derived H+ and e(-) to drive hydrogen (H-2) production via the chloroplast hydrogenases HydA1 and A2 (H(2)ase). This process occurs under anaerobic conditions and provides a biological basis for solar-driven H-2 production. However, its relatively poor yield is a major limitation for the economic viability of this process. To improve H-2 production in Chlamydomonas, we have developed a new approach to increase H+ and e(-) supply to the hydrogenases. In a first step, mutants blocked in the state 1 transition were selected. These mutants are inhibited in cyclic e(-) transfer around photosystem I, eliminating possible competition for e(-) with H(2)ase. Selected strains were further screened for increased H-2 production rates, leading to the isolation of Stm6. This strain has a modified respiratory metabolism, providing it with two additional important properties as follows: large starch reserves ( i.e. enhanced substrate availability), and a low dissolved O-2 concentration (40% of the wild type (WT)), resulting in reduced inhibition of H2ase activation. The H-2 production rates of Stm6 were 5 - 13 times that of the control WT strain over a range of conditions ( light intensity, culture time, +/- uncoupler). Typically, similar to 540 ml of H-2 liter(-1) culture ( up to 98% pure) were produced over a 10-14-day period at a maximal rate of 4 ml h(-1) ( efficiency = similar to 5 times the WT). Stm6 therefore represents an important step toward the development of future solar-powered H-2 production systems.</abstract>
+
+<originInfo><publisher>AMER SOC BIOCHEMISTRY MOLECULAR BIOLOGY INC</publisher><dateIssued encoding="w3cdtf">2005</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF BIOLOGICAL CHEMISTRY</title></titleInfo>
+  <identifier type="issn">0021-9258</identifier>
+  <identifier type="eIssn">1083-351X</identifier>
+  <identifier type="MEDLINE">16100118</identifier>
+  <identifier type="ISI">000232229700058</identifier><identifier type="doi">10.1074/jbc.M503840200</identifier>
+<part><detail type="volume"><number>280</number></detail><detail type="issue"><number>40</number></detail><extent unit="pages">34170-34177</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kruse, O., Rupprecht, J., Bader, K. - P., Thomas-Hall, S., Schenk, P. M., Finazzi, G., &amp;amp; Hankamer, B. (2005). Improved photobiological H-2 production in engineered green algal cells. &lt;em&gt;JOURNAL OF BIOLOGICAL CHEMISTRY&lt;/em&gt;, &lt;em&gt;280&lt;/em&gt;(40), 34170-34177.&lt;/div&gt;</apa_indent>
+<mla>Kruse, Olaf, Rupprecht, J, Bader, Klaus-Peter, Thomas-Hall, S, Schenk, PM, Finazzi, G, and Hankamer, B. “Improved photobiological H-2 production in engineered green algal cells”. &lt;em&gt;JOURNAL OF BIOLOGICAL CHEMISTRY&lt;/em&gt; 280.40 (2005): 34170-34177.</mla>
+<lncs>Kruse, O., Rupprecht, J., Bader, K.-P., Thomas-Hall, S., Schenk, P.M., Finazzi, G., Hankamer, B.: Improved photobiological H-2 production in engineered green algal cells. JOURNAL OF BIOLOGICAL CHEMISTRY. 280, 34170-34177 (2005).</lncs>
+<ieee>O. Kruse, et al., “Improved photobiological H-2 production in engineered green algal cells”, &lt;em&gt;JOURNAL OF BIOLOGICAL CHEMISTRY&lt;/em&gt;,  vol. 280, 2005,  pp. 34170-34177.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kruse, Olaf, Rupprecht, J, Bader, Klaus-Peter, Thomas-Hall, S, Schenk, PM, Finazzi, G, and Hankamer, B. 2005. “Improved photobiological H-2 production in engineered green algal cells”. &lt;em&gt;JOURNAL OF BIOLOGICAL CHEMISTRY&lt;/em&gt; 280 (40): 34170-34177.&lt;/div&gt;</chicago>
+<frontiers>Kruse, O., Rupprecht, J., Bader, K. - P., Thomas-Hall, S., Schenk, P. M., Finazzi, G., and Hankamer, B. (2005). Improved photobiological H-2 production in engineered green algal cells. &lt;em&gt;JOURNAL OF BIOLOGICAL CHEMISTRY&lt;/em&gt; 280, 34170-34177.</frontiers>
+<apa>Kruse, O., Rupprecht, J., Bader, K. - P., Thomas-Hall, S., Schenk, P. M., Finazzi, G., &amp;amp; Hankamer, B. (2005). Improved photobiological H-2 production in engineered green algal cells. &lt;em&gt;JOURNAL OF BIOLOGICAL CHEMISTRY&lt;/em&gt;, &lt;em&gt;280&lt;/em&gt;(40), 34170-34177.</apa>
+<angewandte-chemie>O.  Kruse, J.  Rupprecht, K. - P.  Bader, S.  Thomas-Hall, P. M.  Schenk, G.  Finazzi, and B.  Hankamer, “Improved photobiological H-2 production in engineered green algal cells”, &lt;em&gt;JOURNAL OF BIOLOGICAL CHEMISTRY&lt;/em&gt;, &lt;strong&gt;2005&lt;/strong&gt;, &lt;em&gt;280&lt;/em&gt;, 34170-34177.</angewandte-chemie>
+<aps>O.  Kruse, et al., Improved photobiological H-2 production in engineered green algal cells, JOURNAL OF BIOLOGICAL CHEMISTRY &lt;strong&gt;280&lt;/strong&gt;, 34170-34177 (2005).</aps>
+<bio1>Kruse O, Rupprecht J, Bader K-P, Thomas-Hall S, Schenk PM, Finazzi G, Hankamer B (2005) &lt;br /&gt;Improved photobiological H-2 production in engineered green algal cells.&lt;br /&gt;JOURNAL OF BIOLOGICAL CHEMISTRY 280(40): 34170-34177.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kruse, O., Rupprecht, J., Bader, K.-P., Thomas-Hall, S., Schenk, P.M., Finazzi, G. &amp;amp; Hankamer, B. (2005). Improved photobiological H-2 production in engineered green algal cells. &lt;em&gt;JOURNAL OF BIOLOGICAL CHEMISTRY&lt;/em&gt;, &lt;em&gt;280&lt;/em&gt;(40), 34170-34177. AMER SOC BIOCHEMISTRY MOLECULAR BIOLOGY INC. doi:10.1074/jbc.M503840200.&lt;/div&gt;</dgps>
+<harvard1>Kruse, O., et al., 2005. Improved photobiological H-2 production in engineered green algal cells. &lt;em&gt;JOURNAL OF BIOLOGICAL CHEMISTRY&lt;/em&gt;, 280(40), p 34170-34177.</harvard1>
+<ama>Kruse O, Rupprecht J, Bader K-P, et al. Improved photobiological H-2 production in engineered green algal cells. &lt;em&gt;JOURNAL OF BIOLOGICAL CHEMISTRY&lt;/em&gt;. 2005;280(40):34170-34177.</ama>
+<default>Kruse O, Rupprecht J, Bader K-P, Thomas-Hall S, Schenk PM, Finazzi G, Hankamer B (2005) &lt;br /&gt;JOURNAL OF BIOLOGICAL CHEMISTRY 280(40): 34170-34177.</default>
+<wels>Kruse, O.; Rupprecht, J.; Bader, K. - P.; Thomas-Hall, S.; Schenk, P. M.; Finazzi, G.; Hankamer, B. (2005): Improved photobiological H-2 production in engineered green algal cells &lt;em&gt;JOURNAL OF BIOLOGICAL CHEMISTRY&lt;/em&gt;,280:(40): 34170-34177.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1602202</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:32:08Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-06T13:21:42Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1602202</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1602202</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,92 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference abstract</genre>
+
+<titleInfo><title>Affordability of innovations in the health care market under the pressure of demographic development - health economic perspectives</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Wolfgang</namePart>
+  <namePart type="family">Greiner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">152704</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10046</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>SPRINGER</publisher><dateIssued encoding="w3cdtf">2005</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host">
+  <identifier type="issn">0031-6970</identifier>
+  <identifier type="ISI">000232696100022</identifier>
+<part><detail type="volume"><number>61</number></detail><detail type="issue"><number>9</number></detail><extent unit="pages">688-688</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Greiner, W. (2005): Affordability of innovations in the health care market under the pressure of demographic development - health economic perspectives. SPRINGER. (EUROPEAN JOURNAL OF CLINICAL PHARMACOLOGY, 61).  S. 688-688.</wels>
+<default>Greiner W (2005) .</default>
+<ama>Greiner W. Affordability of innovations in the health care market under the pressure of demographic development - health economic perspectives.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Greiner, W. (2005). Affordability of innovations in the health care market under the pressure of demographic development - health economic perspectives (EUROPEAN JOURNAL OF CLINICAL PHARMACOLOGY) (S. 688-688). SPRINGER.&lt;/div&gt;</dgps>
+<harvard1>Greiner, W., 2005. Affordability of innovations in the health care market under the pressure of demographic development - health economic perspectives.</harvard1>
+<aps> W.  Greiner, Affordability of innovations in the health care market under the pressure of demographic development - health economic perspectives, EUROPEAN JOURNAL OF CLINICAL PHARMACOLOGY, &lt;strong&gt;61&lt;/strong&gt; (SPRINGER, 2005), p. 688-688.</aps>
+<bio1>Greiner W (2005) &lt;br /&gt;Affordability of innovations in the health care market under the pressure of demographic development - health economic perspectives.</bio1>
+<angewandte-chemie>W.  Greiner, Springer, &lt;strong&gt;2005&lt;/strong&gt;, p. 688-688.</angewandte-chemie>
+<apa>Greiner, W. (2005). &lt;em&gt;Affordability of innovations in the health care market under the pressure of demographic development - health economic perspectives&lt;/em&gt;. Presented at the .</apa>
+<frontiers>Greiner, W. (2005).“Affordability of innovations in the health care market under the pressure of demographic development - health economic perspectives”.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Greiner, Wolfgang. 2005. “Affordability of innovations in the health care market under the pressure of demographic development - health economic perspectives”. Presented at the , 61:688-688. EUROPEAN JOURNAL OF CLINICAL PHARMACOLOGY. SPRINGER.&lt;/div&gt;</chicago>
+<ieee> W. Greiner, “Affordability of innovations in the health care market under the pressure of demographic development - health economic perspectives”, SPRINGER, 2005.</ieee>
+<lncs> Greiner, W.: Affordability of innovations in the health care market under the pressure of demographic development - health economic perspectives. (2005).</lncs>
+<mla>Greiner, Wolfgang. “Affordability of innovations in the health care market under the pressure of demographic development - health economic perspectives”., SPRINGER, 2005.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Greiner, W. (2005). &lt;em&gt;Affordability of innovations in the health care market under the pressure of demographic development - health economic perspectives&lt;/em&gt;. Presented at the .&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1601751</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:31:57Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-18T08:01:08Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1601751</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1601751</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

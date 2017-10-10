@@ -1,0 +1,90 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Nematoda</title></titleInfo>
+
+
+
+
+
+<name type="personal">
+  <namePart type="given">Walter</namePart>
+  <namePart type="family">Traunspurger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21944</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Likens</namePart><namePart type="family">G</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Biologie</namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Elsevier</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Encyclopedia of Inland Waters</title></titleInfo><identifier type="doi">10.1016/b978-012370626-3.00181-2</identifier>
+<part><detail type="volume"><number>2</number></detail><extent unit="pages">372-383</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Traunspurger W (2009)  &lt;br /&gt;In:  Encyclopedia of Inland Waters. G L (Ed);2. Oxford: Elsevier:  372-383.</default>
+<wels>Traunspurger, W. (2009): Nematoda. In: Likens G (Hrsg.):  Encyclopedia of Inland Waters. Oxford: Elsevier. (2).  S. 372-383.</wels>
+<bio1>Traunspurger W (2009) &lt;br /&gt;Nematoda. &lt;br /&gt;In:  Encyclopedia of Inland Waters. G L (Ed);2. Oxford: Elsevier:  372-383.</bio1>
+<aps>W.  Traunspurger, Nematoda, in &lt;em&gt;Encyclopedia of Inland Waters&lt;/em&gt;, edited by L.  G, &lt;strong&gt;2&lt;/strong&gt; (Elsevier, Oxford, 2009), p. 372-383.</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Traunspurger, W. (2009). Nematoda. &lt;em&gt;Encyclopedia of Inland Waters&lt;/em&gt; (S. 372-383). Oxford: Elsevier. doi:10.1016/b978-012370626-3.00181-2.&lt;/div&gt;</dgps>
+<ama>Traunspurger W. Nematoda. In: G L, ed. &lt;em&gt;Encyclopedia of Inland Waters&lt;/em&gt;. Vol 2. Oxford: Elsevier;  2009: 372-383.</ama>
+<harvard1>Traunspurger, W., 2009. Nematoda. In L.  G, ed. &lt;em&gt;Encyclopedia of Inland Waters&lt;/em&gt;. no.2  Oxford: Elsevier, pp. 372-383.</harvard1>
+<frontiers>Traunspurger, W. (2009). “Nematoda” in &lt;em&gt;Encyclopedia of Inland Waters&lt;/em&gt;, ed. L.  G, vol. 2, (Oxford: Elsevier), 372-383.</frontiers>
+<angewandte-chemie>W.  Traunspurger, in &lt;em&gt;Encyclopedia of Inland Waters&lt;/em&gt; (Ed.: L. G), Elsevier, Oxford, &lt;strong&gt;2009&lt;/strong&gt;, p. 372-383.</angewandte-chemie>
+<apa>Traunspurger, W. (2009). Nematoda. In L.  G (Ed.), &lt;em&gt;Encyclopedia of Inland Waters&lt;/em&gt; (Vol. 2, pp. 372-383). Oxford: Elsevier.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Traunspurger, Walter. 2009. “Nematoda”. In &lt;em&gt;Encyclopedia of Inland Waters&lt;/em&gt;, ed. Likens G, 2:372-383. Oxford: Elsevier.&lt;/div&gt;</chicago>
+<mla>Traunspurger, Walter. “Nematoda”. &lt;em&gt;Encyclopedia of Inland Waters&lt;/em&gt;. Ed. Likens G. Oxford: Elsevier, 2009.Vol. 2. 372-383.</mla>
+<lncs>Traunspurger, W.: Nematoda. In: G, L. (ed.) Encyclopedia of Inland Waters. 2, p. 372-383. Elsevier, Oxford (2009).</lncs>
+<ieee>W. Traunspurger, “Nematoda”, &lt;em&gt;Encyclopedia of Inland Waters&lt;/em&gt;, L. G, ed., vol. 2,  Oxford: Elsevier, 2009,  pp.372-383.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Traunspurger, W. (2009). Nematoda. In L.  G (Ed.), &lt;em&gt;Encyclopedia of Inland Waters&lt;/em&gt; (Vol. 2, pp. 372-383). Oxford: Elsevier.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1928109</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-12-06T18:07:40Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2014-02-26T10:43:50Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1928109</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1928109</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

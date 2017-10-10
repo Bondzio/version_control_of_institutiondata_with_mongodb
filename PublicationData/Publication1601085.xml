@@ -1,0 +1,89 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>An optimal algorithm for querying priced information: Monotone Boolean functions and game trees</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">F</namePart>
+  <namePart type="family">Cicalese</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">ES</namePart>
+  <namePart type="family">Laber</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<abstract lang="eng">We study competitive function evaluation in the context of computing with priced information. A function f has to be evaluated for a fixed but unknown choice of the values of the variables. Each variable x of f has an associated cost c(x), which has to be paid to read the value of x. The problem is to design algorithms that compute the function querying the values of the variables sequentially while trying to minimize the total cost incurred. The evaluation of the performance of the algorithms is made by employing competitive analysis. We determine the best possible extremal competitive ratio for the classes of threshold trees, game trees, and monotone boolean functions with constrained minterms, by providing a polynomial-time algorithm whose competitiveness matches the known lower bounds.</abstract>
+
+<originInfo><publisher>SPRINGER-VERLAG BERLIN</publisher><dateIssued encoding="w3cdtf">2005</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>ALGORITHMS - ESA 2005</title></titleInfo>
+  <identifier type="issn">0302-9743</identifier>
+  <identifier type="ISI">000233893100059</identifier><identifier type="doi">10.1007/11561071_59</identifier>
+<part><detail type="volume"><number>3669</number></detail><extent unit="pages">664-676</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Cicalese F, Laber ES (2005)  &lt;br /&gt;In:  ALGORITHMS - ESA 2005. 3669. SPRINGER-VERLAG BERLIN:  664-676.</default>
+<wels>Cicalese, F.; Laber, E. S. (2005): An optimal algorithm for querying priced information: Monotone Boolean functions and game trees. In: ALGORITHMS - ESA 2005. SPRINGER-VERLAG BERLIN. (3669).  S. 664-676.</wels>
+<bio1>Cicalese F, Laber ES (2005) &lt;br /&gt;An optimal algorithm for querying priced information: Monotone Boolean functions and game trees. &lt;br /&gt;In:  ALGORITHMS - ESA 2005. 3669. SPRINGER-VERLAG BERLIN:  664-676.</bio1>
+<aps>F.  Cicalese and E. S.  Laber, An optimal algorithm for querying priced information: Monotone Boolean functions and game trees, in &lt;em&gt;ALGORITHMS - ESA 2005&lt;/em&gt;, &lt;strong&gt;3669&lt;/strong&gt; (SPRINGER-VERLAG BERLIN, 2005), p. 664-676.</aps>
+<harvard1>Cicalese, F., &amp;amp; Laber, E.S., 2005. An optimal algorithm for querying priced information: Monotone Boolean functions and game trees. In &lt;em&gt;ALGORITHMS - ESA 2005&lt;/em&gt;. no.3669  SPRINGER-VERLAG BERLIN, pp. 664-676.</harvard1>
+<ama>Cicalese F, Laber ES. An optimal algorithm for querying priced information: Monotone Boolean functions and game trees. In:  &lt;em&gt;ALGORITHMS - ESA 2005&lt;/em&gt;. Vol 3669. SPRINGER-VERLAG BERLIN;  2005: 664-676.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cicalese, F. &amp;amp; Laber, E.S. (2005). An optimal algorithm for querying priced information: Monotone Boolean functions and game trees. &lt;em&gt;ALGORITHMS - ESA 2005&lt;/em&gt; (S. 664-676). SPRINGER-VERLAG BERLIN. doi:10.1007/11561071_59.&lt;/div&gt;</dgps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cicalese, F, and Laber, ES. 2005. “An optimal algorithm for querying priced information: Monotone Boolean functions and game trees”. In &lt;em&gt;ALGORITHMS - ESA 2005&lt;/em&gt;, 3669:664-676. SPRINGER-VERLAG BERLIN.&lt;/div&gt;</chicago>
+<frontiers>Cicalese, F., and Laber, E. S. (2005). “An optimal algorithm for querying priced information: Monotone Boolean functions and game trees” in &lt;em&gt;ALGORITHMS - ESA 2005&lt;/em&gt;, vol. 3669, (SPRINGER-VERLAG BERLIN), 664-676.</frontiers>
+<angewandte-chemie>F.  Cicalese, and E. S.  Laber, in &lt;em&gt;ALGORITHMS - ESA 2005&lt;/em&gt;, Springer-Verlag Berlin, &lt;strong&gt;2005&lt;/strong&gt;, p. 664-676.</angewandte-chemie>
+<apa>Cicalese, F., &amp;amp; Laber, E. S. (2005). An optimal algorithm for querying priced information: Monotone Boolean functions and game trees. &lt;em&gt;ALGORITHMS - ESA 2005&lt;/em&gt;, &lt;em&gt;3669&lt;/em&gt;, 664-676.</apa>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cicalese, F., &amp;amp; Laber, E. S. (2005). An optimal algorithm for querying priced information: Monotone Boolean functions and game trees. &lt;em&gt;ALGORITHMS - ESA 2005&lt;/em&gt;, &lt;em&gt;3669&lt;/em&gt;, 664-676.&lt;/div&gt;</apa_indent>
+<mla>Cicalese, F, and Laber, ES. “An optimal algorithm for querying priced information: Monotone Boolean functions and game trees”. &lt;em&gt;ALGORITHMS - ESA 2005&lt;/em&gt;. SPRINGER-VERLAG BERLIN, 2005.Vol. 3669. 664-676.</mla>
+<lncs>Cicalese, F., Laber, E.S.: An optimal algorithm for querying priced information: Monotone Boolean functions and game trees. ALGORITHMS - ESA 2005. 3669, p. 664-676. SPRINGER-VERLAG BERLIN (2005).</lncs>
+<ieee>F. Cicalese and E.S. Laber, “An optimal algorithm for querying priced information: Monotone Boolean functions and game trees”, &lt;em&gt;ALGORITHMS - ESA 2005&lt;/em&gt;, vol. 3669, SPRINGER-VERLAG BERLIN, 2005,  pp.664-676.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1601085</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:31:34Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2012-06-01T13:04:47Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1601085</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1601085</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,96 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Private Netzwerke</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Martin</namePart>
+  <namePart type="family">Diewald</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">124110</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Arbeitsbereich 5 - Sozialstruktur und soziale Ungleichheit</namePart>
+  <identifier type="unibi">5656055</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT2910.pdf">https://pub.uni-bielefeld.de/download/1782055/2313630</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Bundeszentrale für Polit. Bildung</publisher><dateIssued encoding="w3cdtf">1985</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Datenreport</title></titleInfo>
+  <identifier type="isbn">3-921352-35-7</identifier><identifier type="urn">urn:nbn:de:0070-bipr-29103</identifier>
+<part><extent unit="pages">454-461</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<angewandte-chemie>M.  Diewald, in &lt;em&gt;Datenreport&lt;/em&gt;, Bundeszentrale Für Polit. Bildung, Bonn, &lt;strong&gt;1985&lt;/strong&gt;, p. 454-461.</angewandte-chemie>
+<apa>Diewald, M. (1985). Private Netzwerke. &lt;em&gt;Datenreport&lt;/em&gt;, 454-461.</apa>
+<frontiers>Diewald, M. (1985). “Private Netzwerke” in &lt;em&gt;Datenreport&lt;/em&gt; Schriftenreihe / Bundeszentrale für politische Bildung ; 226 (Bonn: Bundeszentrale für Polit. Bildung), 454-461.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Diewald, Martin. 1985. “Private Netzwerke”. In &lt;em&gt;Datenreport&lt;/em&gt;, 454-461. Schriftenreihe / Bundeszentrale für politische Bildung ; 226. Bonn: Bundeszentrale für Polit. Bildung.&lt;/div&gt;</chicago>
+<ieee>M. Diewald, “Private Netzwerke”, &lt;em&gt;Datenreport&lt;/em&gt;, Schriftenreihe / Bundeszentrale für politische Bildung ; 226,  Bonn: Bundeszentrale für Polit. Bildung, 1985,  pp.454-461.</ieee>
+<lncs>Diewald, M.: Private Netzwerke. Datenreport. Schriftenreihe / Bundeszentrale für politische Bildung ; 226. p. 454-461. Bundeszentrale für Polit. Bildung, Bonn (1985).</lncs>
+<mla>Diewald, Martin. “Private Netzwerke”. &lt;em&gt;Datenreport&lt;/em&gt;. Bonn: Bundeszentrale für Polit. Bildung, 1985. Schriftenreihe / Bundeszentrale für politische Bildung ; 226. 454-461.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Diewald, M. (1985). Private Netzwerke. &lt;em&gt;Datenreport&lt;/em&gt;, 454-461.&lt;/div&gt;</apa_indent>
+<wels>Diewald, M. (1985): Private Netzwerke. In: Datenreport. Bonn: Bundeszentrale für Polit. Bildung. (Schriftenreihe / Bundeszentrale für politische Bildung ; 226, ).  S. 454-461.</wels>
+<default>Diewald M (1985)  &lt;br /&gt;In:  Datenreport.  Schriftenreihe / Bundeszentrale für politische Bildung ; 226, . Bonn: Bundeszentrale für Polit. Bildung:  454-461.</default>
+<harvard1>Diewald, M., 1985. Private Netzwerke. In &lt;em&gt;Datenreport&lt;/em&gt;. Schriftenreihe / Bundeszentrale für politische Bildung ; 226.  Bonn: Bundeszentrale für Polit. Bildung, pp. 454-461.</harvard1>
+<ama>Diewald M. Private Netzwerke. In:  &lt;em&gt;Datenreport&lt;/em&gt;. Schriftenreihe / Bundeszentrale für politische Bildung ; 226. Bonn: Bundeszentrale für Polit. Bildung;  1985: 454-461.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Diewald, M. (1985). Private Netzwerke (Schriftenreihe / Bundeszentrale für politische Bildung ; 226). &lt;em&gt;Datenreport&lt;/em&gt; (S. 454-461). Bonn: Bundeszentrale für Polit. Bildung.&lt;/div&gt;</dgps>
+<bio1>Diewald M (1985) &lt;br /&gt;Private Netzwerke. &lt;br /&gt;In:  Datenreport.  Schriftenreihe / Bundeszentrale für politische Bildung ; 226,  Bonn: Bundeszentrale für Polit. Bildung:  454-461.</bio1>
+<aps>M.  Diewald, Private Netzwerke, in &lt;em&gt;Datenreport&lt;/em&gt;, Schriftenreihe / Bundeszentrale für politische Bildung ; 226 (Bundeszentrale für Polit. Bildung, Bonn, 1985), p. 454-461.</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1782055</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1782055</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1782055</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

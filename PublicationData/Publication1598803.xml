@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>BioPerspectives - From basic research to industrial production</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">S</namePart>
+  <namePart type="family">Grabley</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alfred</namePart>
+  <namePart type="family">Pühler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21937</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Research Group  A. Pühler</namePart>
+  <identifier type="unibi">33070639</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Fakultät für Biologie</namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF BIOTECHNOLOGY</title></titleInfo>
+  <identifier type="issn">0168-1656</identifier>
+  <identifier type="ISI">000238620900001</identifier><identifier type="doi">10.1016/j.jbiotec.2006.04.001</identifier>
+<part><detail type="volume"><number>124</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">1-3</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Grabley, S.; Pühler, A. (2006): BioPerspectives - From basic research to industrial production &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;,124:(1): 1-3.</wels>
+<default>Grabley S, Pühler A (2006) &lt;br /&gt;JOURNAL OF BIOTECHNOLOGY 124(1): 1-3.</default>
+<ama>Grabley S, Pühler A. BioPerspectives - From basic research to industrial production. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;. 2006;124(1):1-3.</ama>
+<harvard1>Grabley, S., &amp;amp; Pühler, A., 2006. BioPerspectives - From basic research to industrial production. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, 124(1), p 1-3.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Grabley, S. &amp;amp; Pühler, A. (2006). BioPerspectives - From basic research to industrial production. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;124&lt;/em&gt;(1), 1-3. ELSEVIER SCIENCE BV. doi:10.1016/j.jbiotec.2006.04.001.&lt;/div&gt;</dgps>
+<aps>S.  Grabley and A.  Pühler, BioPerspectives - From basic research to industrial production, JOURNAL OF BIOTECHNOLOGY &lt;strong&gt;124&lt;/strong&gt;, 1-3 (2006).</aps>
+<bio1>Grabley S, Pühler A (2006) &lt;br /&gt;BioPerspectives - From basic research to industrial production.&lt;br /&gt;JOURNAL OF BIOTECHNOLOGY 124(1): 1-3.</bio1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Grabley, S, and Pühler, Alfred. 2006. “BioPerspectives - From basic research to industrial production”. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt; 124 (1): 1-3.&lt;/div&gt;</chicago>
+<apa>Grabley, S., &amp;amp; Pühler, A. (2006). BioPerspectives - From basic research to industrial production. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;124&lt;/em&gt;(1), 1-3.</apa>
+<angewandte-chemie>S.  Grabley, and A.  Pühler, “BioPerspectives - From basic research to industrial production”, &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;124&lt;/em&gt;, 1-3.</angewandte-chemie>
+<frontiers>Grabley, S., and Pühler, A. (2006). BioPerspectives - From basic research to industrial production. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt; 124, 1-3.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Grabley, S., &amp;amp; Pühler, A. (2006). BioPerspectives - From basic research to industrial production. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;124&lt;/em&gt;(1), 1-3.&lt;/div&gt;</apa_indent>
+<ieee>S. Grabley and A. Pühler, “BioPerspectives - From basic research to industrial production”, &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;,  vol. 124, 2006,  pp. 1-3.</ieee>
+<lncs>Grabley, S., Pühler, A.: BioPerspectives - From basic research to industrial production. JOURNAL OF BIOTECHNOLOGY. 124, 1-3 (2006).</lncs>
+<mla>Grabley, S, and Pühler, Alfred. “BioPerspectives - From basic research to industrial production”. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt; 124.1 (2006): 1-3.</mla>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1598803</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:19:35Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-11-08T10:27:25Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1598803</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1598803</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

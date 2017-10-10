@@ -1,0 +1,119 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Designing a sociable humanoid robot for interdisciplinary research</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Matthias</namePart>
+  <namePart type="family">Hackel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Stefan</namePart>
+  <namePart type="family">Schwope</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jannik</namePart>
+  <namePart type="family">Fritsch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">101755</identifier></name>
+<name type="personal">
+  <namePart type="given">Britta</namePart>
+  <namePart type="family">Wrede</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10380</identifier></name>
+<name type="personal">
+  <namePart type="given">Gerhard</namePart>
+  <namePart type="family">Sagerer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10375</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Angewandte Informatik</namePart>
+  <identifier type="unibi">18304588</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Institute for Cognition and Robotics</namePart>
+  <identifier type="unibi">5408013</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">This paper presents the humanoid robot BARTHOC and the smaller, but system-equal twin, BARTHOC Junior. Both robots have been developed to study human-robot interaction. The main focus of BARTHOC&apos;s design was to realize the expression and behavior of the robot to be as human-like as possible. This allows us to apply the platform to manifold research and demonstration areas. With its human-like look and mimic possibilities it differs from other platforms like ASIMO or QRIO and enables experiments even close to Mori&apos;s &apos;uncanny valley&apos;. The paper describes details of the mechanical and electrical design of BARTHOC together with its PC control interface and an overview of the interaction architecture. Its humanoid appearance allows limited imitation of human behavior. The basic interaction software running on BARTHOC has been completely ported from a mobile robot except for some functionalities that could not be used due to hardware differences such as the lack of mobility. Based on these components, the robot&apos;s human-like appearance will enable us to study embodied interaction and to explore theories of human intelligence.</abstract>
+
+<originInfo><publisher>VSP BV</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>human-robot interaction</topic><topic>embodied communication</topic><topic>humanoid robot</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Advanced Robotics</title></titleInfo>
+  <identifier type="issn">0169-1864</identifier>
+  <identifier type="ISI">000243431100003</identifier><identifier type="doi">10.1163/156855306778792425</identifier>
+<part><detail type="volume"><number>20</number></detail><detail type="issue"><number>11</number></detail><extent unit="pages">1219-1235</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa>Hackel, M., Schwope, S., Fritsch, J., Wrede, B., &amp;amp; Sagerer, G. (2006). Designing a sociable humanoid robot for interdisciplinary research. &lt;em&gt;Advanced Robotics&lt;/em&gt;, &lt;em&gt;20&lt;/em&gt;(11), 1219-1235.</apa>
+<angewandte-chemie>M.  Hackel, S.  Schwope, J.  Fritsch, B.  Wrede, and G.  Sagerer, in &lt;em&gt;Advanced Robotics&lt;/em&gt;, Vsp Bv, &lt;strong&gt;2006&lt;/strong&gt;, p. 1219-1235.</angewandte-chemie>
+<frontiers>Hackel, M., Schwope, S., Fritsch, J., Wrede, B., and Sagerer, G. (2006). “Designing a sociable humanoid robot for interdisciplinary research” in &lt;em&gt;Advanced Robotics&lt;/em&gt;, vol. 20, (VSP BV), 1219-1235.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hackel, Matthias, Schwope, Stefan, Fritsch, Jannik, Wrede, Britta, and Sagerer, Gerhard. 2006. “Designing a sociable humanoid robot for interdisciplinary research”. In &lt;em&gt;Advanced Robotics&lt;/em&gt;, 20:1219-1235. VSP BV.&lt;/div&gt;</chicago>
+<ieee>M. Hackel, et al., “Designing a sociable humanoid robot for interdisciplinary research”, &lt;em&gt;Advanced Robotics&lt;/em&gt;, vol. 20, VSP BV, 2006,  pp.1219-1235.</ieee>
+<lncs>Hackel, M., Schwope, S., Fritsch, J., Wrede, B., Sagerer, G.: Designing a sociable humanoid robot for interdisciplinary research. Advanced Robotics. 20, p. 1219-1235. VSP BV (2006).</lncs>
+<mla>Hackel, Matthias, Schwope, Stefan, Fritsch, Jannik, Wrede, Britta, and Sagerer, Gerhard. “Designing a sociable humanoid robot for interdisciplinary research”. &lt;em&gt;Advanced Robotics&lt;/em&gt;. VSP BV, 2006.Vol. 20. 1219-1235.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hackel, M., Schwope, S., Fritsch, J., Wrede, B., &amp;amp; Sagerer, G. (2006). Designing a sociable humanoid robot for interdisciplinary research. &lt;em&gt;Advanced Robotics&lt;/em&gt;, &lt;em&gt;20&lt;/em&gt;(11), 1219-1235.&lt;/div&gt;</apa_indent>
+<wels>Hackel, M.; Schwope, S.; Fritsch, J.; Wrede, B.; Sagerer, G. (2006): Designing a sociable humanoid robot for interdisciplinary research. In: Advanced Robotics. VSP BV. (20).  S. 1219-1235.</wels>
+<default>Hackel M, Schwope S, Fritsch J, Wrede B, Sagerer G (2006)  &lt;br /&gt;In:  Advanced Robotics. 20. VSP BV:  1219-1235.</default>
+<harvard1>Hackel, M., et al., 2006. Designing a sociable humanoid robot for interdisciplinary research. In &lt;em&gt;Advanced Robotics&lt;/em&gt;. no.20  VSP BV, pp. 1219-1235.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hackel, M., Schwope, S., Fritsch, J., Wrede, B. &amp;amp; Sagerer, G. (2006). Designing a sociable humanoid robot for interdisciplinary research. &lt;em&gt;Advanced Robotics&lt;/em&gt; (S. 1219-1235). VSP BV. doi:10.1163/156855306778792425.&lt;/div&gt;</dgps>
+<ama>Hackel M, Schwope S, Fritsch J, Wrede B, Sagerer G. Designing a sociable humanoid robot for interdisciplinary research. In:  &lt;em&gt;Advanced Robotics&lt;/em&gt;. Vol 20. VSP BV;  2006: 1219-1235.</ama>
+<aps>M.  Hackel, et al., Designing a sociable humanoid robot for interdisciplinary research, in &lt;em&gt;Advanced Robotics&lt;/em&gt;, &lt;strong&gt;20&lt;/strong&gt; (VSP BV, 2006), p. 1219-1235.</aps>
+<bio1>Hackel M, Schwope S, Fritsch J, Wrede B, Sagerer G (2006) &lt;br /&gt;Designing a sociable humanoid robot for interdisciplinary research. &lt;br /&gt;In:  Advanced Robotics. 20. VSP BV:  1219-1235.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1596215</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:59Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2013-06-20T15:01:48Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1596215</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1596215</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

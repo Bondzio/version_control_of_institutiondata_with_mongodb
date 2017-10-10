@@ -1,0 +1,115 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The quark propagator at finite temperature</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">G.</namePart>
+  <namePart type="family">Boyd</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Sourendu</namePart>
+  <namePart type="family">Gupta</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Frithjof</namePart>
+  <namePart type="family">Karsch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40326</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We study the quark propagator at finite temperature on euclidean lattices in the Landau gauge, and compare the results to an O(g2) lattice weak coupling calculation. The screening mass obtained from spatial correlation functions in the chiral symmetric phase is close to the Matsubara frequency. The temporal correlation functions yield a much smaller screening mass, which approaches the perturbative result, m(eff)2 = g2T2/6, for T greater than or similar to 1.75 T(c). Deviations from the perturbative behaviour are seen for T(c) less-than-or-equal-to T less-than-or-equal-to 1.75 T(c). For T less-than-or-equal-to T(c), the screening masses from both spatial and temporal correlation functions are large and close to half the mass of the rho-meson. Dispersion relations do not show any significant deviations from free particle behaviour.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="ka_20p.pdf">https://pub.uni-bielefeld.de/download/1784380/2314425</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1992</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Nuclear Physics, B</title></titleInfo>
+  <identifier type="issn">0550-3213</identifier>
+  <identifier type="INSPIRE">344233</identifier>
+  <identifier type="ISI">A1992JZ42800003</identifier><identifier type="urn">urn:nbn:de:0070-pub-17843800</identifier><identifier type="doi">10.1016/0550-3213(92)90055-G</identifier>
+<part><detail type="volume"><number>385</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">481-501</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Boyd, G., Gupta, Sourendu, and Karsch, Frithjof. 1992. “The quark propagator at finite temperature”. &lt;em&gt;Nuclear Physics, B&lt;/em&gt; 385 (3): 481-501.&lt;/div&gt;</chicago>
+<angewandte-chemie>G.  Boyd, S.  Gupta, and F.  Karsch, “The quark propagator at finite temperature”, &lt;em&gt;Nuclear Physics, B&lt;/em&gt;, &lt;strong&gt;1992&lt;/strong&gt;, &lt;em&gt;385&lt;/em&gt;, 481-501.</angewandte-chemie>
+<apa>Boyd, G., Gupta, S., &amp;amp; Karsch, F. (1992). The quark propagator at finite temperature. &lt;em&gt;Nuclear Physics, B&lt;/em&gt;, &lt;em&gt;385&lt;/em&gt;(3), 481-501.</apa>
+<frontiers>Boyd, G., Gupta, S., and Karsch, F. (1992). The quark propagator at finite temperature. &lt;em&gt;Nuclear Physics, B&lt;/em&gt; 385, 481-501.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Boyd, G., Gupta, S., &amp;amp; Karsch, F. (1992). The quark propagator at finite temperature. &lt;em&gt;Nuclear Physics, B&lt;/em&gt;, &lt;em&gt;385&lt;/em&gt;(3), 481-501.&lt;/div&gt;</apa_indent>
+<ieee>G. Boyd, S. Gupta, and F. Karsch, “The quark propagator at finite temperature”, &lt;em&gt;Nuclear Physics, B&lt;/em&gt;,  vol. 385, 1992,  pp. 481-501.</ieee>
+<mla>Boyd, G., Gupta, Sourendu, and Karsch, Frithjof. “The quark propagator at finite temperature”. &lt;em&gt;Nuclear Physics, B&lt;/em&gt; 385.3 (1992): 481-501.</mla>
+<lncs>Boyd, G., Gupta, S., Karsch, F.: The quark propagator at finite temperature. Nuclear Physics, B. 385, 481-501 (1992).</lncs>
+<wels>Boyd, G.; Gupta, S.; Karsch, F. (1992): The quark propagator at finite temperature &lt;em&gt;Nuclear Physics, B&lt;/em&gt;,385:(3): 481-501.</wels>
+<default>Boyd G, Gupta S, Karsch F (1992) &lt;br /&gt;Nuclear Physics, B 385(3): 481-501.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Boyd, G., Gupta, S. &amp;amp; Karsch, F. (1992). The quark propagator at finite temperature. &lt;em&gt;Nuclear Physics, B&lt;/em&gt;, &lt;em&gt;385&lt;/em&gt;(3), 481-501. doi:10.1016/0550-3213(92)90055-G.&lt;/div&gt;</dgps>
+<ama>Boyd G, Gupta S, Karsch F. The quark propagator at finite temperature. &lt;em&gt;Nuclear Physics, B&lt;/em&gt;. 1992;385(3):481-501.</ama>
+<harvard1>Boyd, G., Gupta, S., &amp;amp; Karsch, F., 1992. The quark propagator at finite temperature. &lt;em&gt;Nuclear Physics, B&lt;/em&gt;, 385(3), p 481-501.</harvard1>
+<aps>G.  Boyd, S.  Gupta, and F.  Karsch, The quark propagator at finite temperature, Nuclear Physics, B &lt;strong&gt;385&lt;/strong&gt;, 481-501 (1992).</aps>
+<bio1>Boyd G, Gupta S, Karsch F (1992) &lt;br /&gt;The quark propagator at finite temperature.&lt;br /&gt;Nuclear Physics, B 385(3): 481-501.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1784380</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1784380</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1784380</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

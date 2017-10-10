@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>The preprojective algebra of a modulated graph</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Vlastimil</namePart>
+  <namePart type="family">Dlab</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Claus Michael</namePart>
+  <namePart type="family">Ringel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10583</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Ringel_044.pdf">https://pub.uni-bielefeld.de/download/1781908/2313573</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Springer</publisher><dateIssued encoding="w3cdtf">1980</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Representation Theory II: Proceedings of the Second International Conference on Representations of Algebras, Ottawa, Carleton University, August 13-25, 1979: No. 2</title></titleInfo>
+  <identifier type="isbn">978-3-540-10264-9</identifier><identifier type="urn">urn:nbn:de:0070-pub-17819087</identifier><identifier type="doi">10.1007/BFb0088456</identifier>
+<part><extent unit="pages">216-231</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Dlab V, Ringel CM (1980)  &lt;br /&gt;In:  Representation Theory II: Proceedings of the Second International Conference on Representations of Algebras, Ottawa, Carleton University, August 13-25, 1979: No. 2.  Lecture Notes in Mathematics ; 832, . Berlin, Heidelberg: Springer:  216-231.</default>
+<wels>Dlab, V.; Ringel, C. M. (1980): The preprojective algebra of a modulated graph. In: Representation Theory II: Proceedings of the Second International Conference on Representations of Algebras, Ottawa, Carleton University, August 13-25, 1979: No. 2. Berlin, Heidelberg: Springer. (Lecture Notes in Mathematics ; 832, ).  S. 216-231.</wels>
+<aps>V.  Dlab and C. M.  Ringel, The preprojective algebra of a modulated graph, in &lt;em&gt;Representation Theory II: Proceedings of the Second International Conference on Representations of Algebras, Ottawa, Carleton University, August 13-25, 1979: No. 2&lt;/em&gt;, Lecture Notes in Mathematics ; 832 (Springer, Berlin, Heidelberg, 1980), p. 216-231.</aps>
+<bio1>Dlab V, Ringel CM (1980) &lt;br /&gt;The preprojective algebra of a modulated graph. &lt;br /&gt;In:  Representation Theory II: Proceedings of the Second International Conference on Representations of Algebras, Ottawa, Carleton University, August 13-25, 1979: No. 2.  Lecture Notes in Mathematics ; 832,  Berlin, Heidelberg: Springer:  216-231.</bio1>
+<ama>Dlab V, Ringel CM. The preprojective algebra of a modulated graph. In:  &lt;em&gt;Representation Theory II: Proceedings of the Second International Conference on Representations of Algebras, Ottawa, Carleton University, August 13-25, 1979: No. 2&lt;/em&gt;. Lecture Notes in Mathematics ; 832. Berlin, Heidelberg: Springer;  1980: 216-231.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Dlab, V. &amp;amp; Ringel, C.M. (1980). The preprojective algebra of a modulated graph (Lecture Notes in Mathematics ; 832). &lt;em&gt;Representation Theory II: Proceedings of the Second International Conference on Representations of Algebras, Ottawa, Carleton University, August 13-25, 1979: No. 2&lt;/em&gt; (S. 216-231). Berlin, Heidelberg: Springer. doi:10.1007/BFb0088456.&lt;/div&gt;</dgps>
+<harvard1>Dlab, V., &amp;amp; Ringel, C.M., 1980. The preprojective algebra of a modulated graph. In &lt;em&gt;Representation Theory II: Proceedings of the Second International Conference on Representations of Algebras, Ottawa, Carleton University, August 13-25, 1979: No. 2&lt;/em&gt;. Lecture Notes in Mathematics ; 832.  Berlin, Heidelberg: Springer, pp. 216-231.</harvard1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Dlab, Vlastimil, and Ringel, Claus Michael. 1980. “The preprojective algebra of a modulated graph”. In &lt;em&gt;Representation Theory II: Proceedings of the Second International Conference on Representations of Algebras, Ottawa, Carleton University, August 13-25, 1979: No. 2&lt;/em&gt;, 216-231. Lecture Notes in Mathematics ; 832. Berlin, Heidelberg: Springer.&lt;/div&gt;</chicago>
+<frontiers>Dlab, V., and Ringel, C. M. (1980). “The preprojective algebra of a modulated graph” in &lt;em&gt;Representation Theory II: Proceedings of the Second International Conference on Representations of Algebras, Ottawa, Carleton University, August 13-25, 1979: No. 2&lt;/em&gt; Lecture Notes in Mathematics ; 832 (Berlin, Heidelberg: Springer), 216-231.</frontiers>
+<angewandte-chemie>V.  Dlab, and C. M.  Ringel, in &lt;em&gt;Representation Theory II: Proceedings of the Second International Conference on Representations of Algebras, Ottawa, Carleton University, August 13-25, 1979: No. 2&lt;/em&gt;, Springer, Berlin, Heidelberg, &lt;strong&gt;1980&lt;/strong&gt;, p. 216-231.</angewandte-chemie>
+<apa>Dlab, V., &amp;amp; Ringel, C. M. (1980). The preprojective algebra of a modulated graph. &lt;em&gt;Representation Theory II: Proceedings of the Second International Conference on Representations of Algebras, Ottawa, Carleton University, August 13-25, 1979: No. 2&lt;/em&gt;, 216-231.</apa>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Dlab, V., &amp;amp; Ringel, C. M. (1980). The preprojective algebra of a modulated graph. &lt;em&gt;Representation Theory II: Proceedings of the Second International Conference on Representations of Algebras, Ottawa, Carleton University, August 13-25, 1979: No. 2&lt;/em&gt;, 216-231.&lt;/div&gt;</apa_indent>
+<lncs>Dlab, V., Ringel, C.M.: The preprojective algebra of a modulated graph. Representation Theory II: Proceedings of the Second International Conference on Representations of Algebras, Ottawa, Carleton University, August 13-25, 1979: No. 2. Lecture Notes in Mathematics ; 832. p. 216-231. Springer, Berlin, Heidelberg (1980).</lncs>
+<mla>Dlab, Vlastimil, and Ringel, Claus Michael. “The preprojective algebra of a modulated graph”. &lt;em&gt;Representation Theory II: Proceedings of the Second International Conference on Representations of Algebras, Ottawa, Carleton University, August 13-25, 1979: No. 2&lt;/em&gt;. Berlin, Heidelberg: Springer, 1980. Lecture Notes in Mathematics ; 832. 216-231.</mla>
+<ieee>V. Dlab and C.M. Ringel, “The preprojective algebra of a modulated graph”, &lt;em&gt;Representation Theory II: Proceedings of the Second International Conference on Representations of Algebras, Ottawa, Carleton University, August 13-25, 1979: No. 2&lt;/em&gt;, Lecture Notes in Mathematics ; 832,  Berlin, Heidelberg: Springer, 1980,  pp.216-231.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781908</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781908</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781908</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,146 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The extracytoplasmic function-type sigma factor SigM of Corynebacterium glutamicum ATCC 13032 is involved in transcription of disulfide stress-related genes</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Diana</namePart>
+  <namePart type="family">Nakunst</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Christof</namePart>
+  <namePart type="family">Larisch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andrea T.</namePart>
+  <namePart type="family">Hueser</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Tauch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">22082</identifier></name>
+<name type="personal">
+  <namePart type="given">Alfred</namePart>
+  <namePart type="family">Pühler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21937</identifier></name>
+<name type="personal">
+  <namePart type="given">Jörn</namePart>
+  <namePart type="family">Kalinowski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">147567</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070741</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070639</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070724</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The gene for the extracytoplasmic function (ECF) sigma factor SigM was deleted from the chromosome of the gram-positive soil bacterium Corynebacterium glutamicum to elucidate the role of the SigM protein in the regulation of gene expression. Comparative DNA microarray hybridizations of the C. glutamicum wild type and sigM-deficient mutant C. glutamicum DNI revealed 23 genes with enhanced expression in the sigM-proficient strain, encoding functions in the assembly of iron-sulfur clusters (suf operon), thioredoxin reductase (trxB), thioredoxins (trxC, trxB1), chaperones (groES, groEL, clpB), and proteins involved in the heat shock response (hspR, dnaJ, grpE). Deletion of the sigM gene rendered the C. glutamicum cells more sensitive to heat, cold, and the presence of the thiol oxidant diamide. Transcription of the sigM gene increased under different stress conditions, including heat shock, cold shock, and disulfide stress caused by diamide treatment, suggesting a regulatory role for SigM under thiol-oxidative stress conditions. Stress-responsive promoters were determined upstream of the suf operon and of the trxB, trxC, and trxB1 genes. The deduced SigM consensus promoter is characterized by the - 35 hexamer gGGAAT and the - 10 hexamer YGTTGR. Transcription of the sigM gene is apparently controlled by the ECF sigma factor SigH, since a sigH mutant was unable to enhance the expression of sigM and the SigM regulon under thioloxidative stress conditions. A typical SigH-responsive promoter was mapped upstream of the sigM gene. The ECF sigma factor SigM is apparently part of a regulatory cascade, and its transcription is controlled by SigH under conditions of thiol-oxidative stress.</abstract>
+
+<originInfo><publisher>AMER SOC MICROBIOLOGY</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF BACTERIOLOGY</title></titleInfo>
+  <identifier type="issn">0021-9193</identifier>
+  <identifier type="MEDLINE">17483229</identifier>
+  <identifier type="ISI">000247612100016</identifier><identifier type="doi">10.1128/JB.00382-07</identifier>
+<part><detail type="volume"><number>189</number></detail><detail type="issue"><number>13</number></detail><extent unit="pages">4696-4707</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>Nakunst D, Larisch C, Hueser AT, Tauch A, Pühler A, Kalinowski J (2007) &lt;br /&gt;The extracytoplasmic function-type sigma factor SigM of Corynebacterium glutamicum ATCC 13032 is involved in transcription of disulfide stress-related genes.&lt;br /&gt;JOURNAL OF BACTERIOLOGY 189(13): 4696-4707.</bio1>
+<aps> D.  Nakunst, et al., The extracytoplasmic function-type sigma factor SigM of Corynebacterium glutamicum ATCC 13032 is involved in transcription of disulfide stress-related genes, JOURNAL OF BACTERIOLOGY &lt;strong&gt;189&lt;/strong&gt;, 4696-4707 (2007).</aps>
+<harvard1>Nakunst, D., et al., 2007. The extracytoplasmic function-type sigma factor SigM of Corynebacterium glutamicum ATCC 13032 is involved in transcription of disulfide stress-related genes. &lt;em&gt;JOURNAL OF BACTERIOLOGY&lt;/em&gt;, 189(13), p 4696-4707.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Nakunst, D., Larisch, C., Hueser, A.T., Tauch, A., Pühler, A. &amp;amp; Kalinowski, J. (2007). The extracytoplasmic function-type sigma factor SigM of Corynebacterium glutamicum ATCC 13032 is involved in transcription of disulfide stress-related genes. &lt;em&gt;JOURNAL OF BACTERIOLOGY&lt;/em&gt;, &lt;em&gt;189&lt;/em&gt;(13), 4696-4707. AMER SOC MICROBIOLOGY. doi:10.1128/JB.00382-07.&lt;/div&gt;</dgps>
+<ama>Nakunst D, Larisch C, Hueser AT, Tauch A, Pühler A, Kalinowski J. The extracytoplasmic function-type sigma factor SigM of Corynebacterium glutamicum ATCC 13032 is involved in transcription of disulfide stress-related genes. &lt;em&gt;JOURNAL OF BACTERIOLOGY&lt;/em&gt;. 2007;189(13):4696-4707.</ama>
+<default>Nakunst D, Larisch C, Hueser AT, Tauch A, Pühler A, Kalinowski J (2007) &lt;br /&gt;JOURNAL OF BACTERIOLOGY 189(13): 4696-4707.</default>
+<wels>Nakunst, D.; Larisch, C.; Hueser, A. T.; Tauch, A.; Pühler, A.; Kalinowski, J. (2007): The extracytoplasmic function-type sigma factor SigM of Corynebacterium glutamicum ATCC 13032 is involved in transcription of disulfide stress-related genes &lt;em&gt;JOURNAL OF BACTERIOLOGY&lt;/em&gt;,189:(13): 4696-4707.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Nakunst, D., Larisch, C., Hueser, A. T., Tauch, A., Pühler, A., &amp;amp; Kalinowski, J. (2007). The extracytoplasmic function-type sigma factor SigM of Corynebacterium glutamicum ATCC 13032 is involved in transcription of disulfide stress-related genes. &lt;em&gt;JOURNAL OF BACTERIOLOGY&lt;/em&gt;, &lt;em&gt;189&lt;/em&gt;(13), 4696-4707.&lt;/div&gt;</apa_indent>
+<mla>Nakunst, Diana, Larisch, Christof, Hueser, Andrea T., Tauch, Andreas, Pühler, Alfred, and Kalinowski, Jörn. “The extracytoplasmic function-type sigma factor SigM of Corynebacterium glutamicum ATCC 13032 is involved in transcription of disulfide stress-related genes”. &lt;em&gt;JOURNAL OF BACTERIOLOGY&lt;/em&gt; 189.13 (2007): 4696-4707.</mla>
+<lncs> Nakunst, D., Larisch, C., Hueser, A.T., Tauch, A., Pühler, A., Kalinowski, J.: The extracytoplasmic function-type sigma factor SigM of Corynebacterium glutamicum ATCC 13032 is involved in transcription of disulfide stress-related genes. JOURNAL OF BACTERIOLOGY. 189, 4696-4707 (2007).</lncs>
+<ieee> D. Nakunst, et al., “The extracytoplasmic function-type sigma factor SigM of Corynebacterium glutamicum ATCC 13032 is involved in transcription of disulfide stress-related genes”, &lt;em&gt;JOURNAL OF BACTERIOLOGY&lt;/em&gt;,  vol. 189, 2007,  pp. 4696-4707.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Nakunst, Diana, Larisch, Christof, Hueser, Andrea T., Tauch, Andreas, Pühler, Alfred, and Kalinowski, Jörn. 2007. “The extracytoplasmic function-type sigma factor SigM of Corynebacterium glutamicum ATCC 13032 is involved in transcription of disulfide stress-related genes”. &lt;em&gt;JOURNAL OF BACTERIOLOGY&lt;/em&gt; 189 (13): 4696-4707.&lt;/div&gt;</chicago>
+<frontiers>Nakunst, D., Larisch, C., Hueser, A. T., Tauch, A., Pühler, A., and Kalinowski, J. (2007). The extracytoplasmic function-type sigma factor SigM of Corynebacterium glutamicum ATCC 13032 is involved in transcription of disulfide stress-related genes. &lt;em&gt;JOURNAL OF BACTERIOLOGY&lt;/em&gt; 189, 4696-4707.</frontiers>
+<apa>Nakunst, D., Larisch, C., Hueser, A. T., Tauch, A., Pühler, A., &amp;amp; Kalinowski, J. (2007). The extracytoplasmic function-type sigma factor SigM of Corynebacterium glutamicum ATCC 13032 is involved in transcription of disulfide stress-related genes. &lt;em&gt;JOURNAL OF BACTERIOLOGY&lt;/em&gt;, &lt;em&gt;189&lt;/em&gt;(13), 4696-4707.</apa>
+<angewandte-chemie>D.  Nakunst, C.  Larisch, A. T.  Hueser, A.  Tauch, A.  Pühler, and J.  Kalinowski, “The extracytoplasmic function-type sigma factor SigM of Corynebacterium glutamicum ATCC 13032 is involved in transcription of disulfide stress-related genes”, &lt;em&gt;JOURNAL OF BACTERIOLOGY&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;189&lt;/em&gt;, 4696-4707.</angewandte-chemie>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1593371</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:15:48Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-18T10:08:53Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1593371</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1593371</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

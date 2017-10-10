@@ -1,0 +1,125 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Comparative in-vivo and in-vitro Mo-99-time-differential-perturbed-angular-correlation studies on the nitrogenase MoFe protein and on other Mo species of different N-2-fixing bacteria</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Achim</namePart>
+  <namePart type="family">Müller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20118</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0003-0117-4021</description></name>
+<name type="personal">
+  <namePart type="given">W</namePart>
+  <namePart type="family">Suer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">C</namePart>
+  <namePart type="family">Pohlmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Klaus</namePart>
+  <namePart type="family">Schneider</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">179483</identifier></name>
+<name type="personal">
+  <namePart type="given">WG</namePart>
+  <namePart type="family">Thies</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">H</namePart>
+  <namePart type="family">Appel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Biochemie I</namePart>
+  <identifier type="unibi">17967</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Anorganische Chemie I</namePart>
+  <identifier type="unibi">17964</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Klebsiella pneumoniae, Azotobacter vinelandii and Rhodobacter capsulatus were cultivated in media containing (MoO42-)-Mo-99. The distribution of Mo-99 in cells grown under conditions of repression and derepression of nitrogenase synthesis, was investigated by anion-exchange (DEAE-Sephacel) chromatography. Cells of K. pneumoniae took up MoO42- only under conditions of derepression of nitrogenase thus serving the formation of the FeMo cofactor of the MoFe protein (Kp1) as the predominant Mo-containing species. In the case of A. vinelandii, under diazotrophic growth conditions, molybdenum was preferably incorporated into the nitrogenase MoFe protein (Av1). However, if excess amor;nts of molybdate were present in the medium, molybdenum was also bound to the Mo-storage protein. In the presence of 20 mM NH4+, conditions which completely repress nitrogenase formation, molybdenum accumulated in the Mo-storage protein exclusively. This protein proved to be unstable towards DEAE-Sephacel, apparently releasing all the molybdenum in form of MoO42- during the fractionation procedure. R. capsulatus contained, in addition to the MoFe protein (Rc1), significant amounts of other not-yet-identified Mo species, which partially are formed under conditions of both, repression and derepression of nitrogenase. The Mo centers of all these compounds were characterized by measuring the nuclear quadrupole interaction of the process Mo-99(beta-)(99) Tc using time differential perturbed angular correlation spectroscopy. The quadrupole coupling constant (nu(Q)) determined for the Mo center in MoFe proteins was consistently in the range 66-81 MHz. The values of the coupling constants determined with intact cells and with the isolated, partially purified, MoFe proteins were in very good agreement. For the Mo-storage protein of A. vinelandii, a quadrupole coupling constant of approximately 180 MHz was determined by measurements performed with nitrogenase-repressed cells as well as with gel-filtered cell-free extracts. Our work proves that the relevant study of hyperfine interactions allows the identification of the MoFe protein and also other Mo proteins in vivo as well as in vitro.</abstract>
+
+<originInfo><publisher>SPRINGER VERLAG</publisher><dateIssued encoding="w3cdtf">1997</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>differential perturbed angular correlation (TDPAC) spectroscopy</topic><topic>molybdenum-storage protein</topic><topic>molybdenum-iron protein</topic><topic>time</topic><topic>nitrogenase</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>EUROPEAN JOURNAL OF BIOCHEMISTRY</title></titleInfo>
+  <identifier type="issn">0014-2956</identifier>
+  <identifier type="eIssn">1432-1033</identifier>
+  <identifier type="MEDLINE">9208919</identifier>
+  <identifier type="ISI">A1997XE02500006</identifier><identifier type="doi">10.1111/j.1432-1033.1997.00311.x</identifier>
+<part><detail type="volume"><number>246</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">311-319</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa>Müller, A., Suer, W., Pohlmann, C., Schneider, K., Thies, W. G., &amp;amp; Appel, H. (1997). Comparative in-vivo and in-vitro Mo-99-time-differential-perturbed-angular-correlation studies on the nitrogenase MoFe protein and on other Mo species of different N-2-fixing bacteria. &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt;, &lt;em&gt;246&lt;/em&gt;(2), 311-319.</apa>
+<angewandte-chemie>A.  Müller, W.  Suer, C.  Pohlmann, K.  Schneider, W. G.  Thies, and H.  Appel, “Comparative in-vivo and in-vitro Mo-99-time-differential-perturbed-angular-correlation studies on the nitrogenase MoFe protein and on other Mo species of different N-2-fixing bacteria”, &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt;, &lt;strong&gt;1997&lt;/strong&gt;, &lt;em&gt;246&lt;/em&gt;, 311-319.</angewandte-chemie>
+<frontiers>Müller, A., Suer, W., Pohlmann, C., Schneider, K., Thies, W. G., and Appel, H. (1997). Comparative in-vivo and in-vitro Mo-99-time-differential-perturbed-angular-correlation studies on the nitrogenase MoFe protein and on other Mo species of different N-2-fixing bacteria. &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt; 246, 311-319.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, Achim, Suer, W, Pohlmann, C, Schneider, Klaus, Thies, WG, and Appel, H. 1997. “Comparative in-vivo and in-vitro Mo-99-time-differential-perturbed-angular-correlation studies on the nitrogenase MoFe protein and on other Mo species of different N-2-fixing bacteria”. &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt; 246 (2): 311-319.&lt;/div&gt;</chicago>
+<ieee>A. Müller, et al., “Comparative in-vivo and in-vitro Mo-99-time-differential-perturbed-angular-correlation studies on the nitrogenase MoFe protein and on other Mo species of different N-2-fixing bacteria”, &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt;,  vol. 246, 1997,  pp. 311-319.</ieee>
+<mla>Müller, Achim, Suer, W, Pohlmann, C, Schneider, Klaus, Thies, WG, and Appel, H. “Comparative in-vivo and in-vitro Mo-99-time-differential-perturbed-angular-correlation studies on the nitrogenase MoFe protein and on other Mo species of different N-2-fixing bacteria”. &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt; 246.2 (1997): 311-319.</mla>
+<lncs>Müller, A., Suer, W., Pohlmann, C., Schneider, K., Thies, W.G., Appel, H.: Comparative in-vivo and in-vitro Mo-99-time-differential-perturbed-angular-correlation studies on the nitrogenase MoFe protein and on other Mo species of different N-2-fixing bacteria. EUROPEAN JOURNAL OF BIOCHEMISTRY. 246, 311-319 (1997).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, A., Suer, W., Pohlmann, C., Schneider, K., Thies, W. G., &amp;amp; Appel, H. (1997). Comparative in-vivo and in-vitro Mo-99-time-differential-perturbed-angular-correlation studies on the nitrogenase MoFe protein and on other Mo species of different N-2-fixing bacteria. &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt;, &lt;em&gt;246&lt;/em&gt;(2), 311-319.&lt;/div&gt;</apa_indent>
+<wels>Müller, A.; Suer, W.; Pohlmann, C.; Schneider, K.; Thies, W. G.; Appel, H. (1997): Comparative in-vivo and in-vitro Mo-99-time-differential-perturbed-angular-correlation studies on the nitrogenase MoFe protein and on other Mo species of different N-2-fixing bacteria &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt;,246:(2): 311-319.</wels>
+<default>Müller A, Suer W, Pohlmann C, Schneider K, Thies WG, Appel H (1997) &lt;br /&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY 246(2): 311-319.</default>
+<ama>Müller A, Suer W, Pohlmann C, Schneider K, Thies WG, Appel H. Comparative in-vivo and in-vitro Mo-99-time-differential-perturbed-angular-correlation studies on the nitrogenase MoFe protein and on other Mo species of different N-2-fixing bacteria. &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt;. 1997;246(2):311-319.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, A., Suer, W., Pohlmann, C., Schneider, K., Thies, W.G. &amp;amp; Appel, H. (1997). Comparative in-vivo and in-vitro Mo-99-time-differential-perturbed-angular-correlation studies on the nitrogenase MoFe protein and on other Mo species of different N-2-fixing bacteria. &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt;, &lt;em&gt;246&lt;/em&gt;(2), 311-319. SPRINGER VERLAG. doi:10.1111/j.1432-1033.1997.00311.x.&lt;/div&gt;</dgps>
+<harvard1>Müller, A., et al., 1997. Comparative in-vivo and in-vitro Mo-99-time-differential-perturbed-angular-correlation studies on the nitrogenase MoFe protein and on other Mo species of different N-2-fixing bacteria. &lt;em&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY&lt;/em&gt;, 246(2), p 311-319.</harvard1>
+<aps>A.  Müller, et al., Comparative in-vivo and in-vitro Mo-99-time-differential-perturbed-angular-correlation studies on the nitrogenase MoFe protein and on other Mo species of different N-2-fixing bacteria, EUROPEAN JOURNAL OF BIOCHEMISTRY &lt;strong&gt;246&lt;/strong&gt;, 311-319 (1997).</aps>
+<bio1>Müller A, Suer W, Pohlmann C, Schneider K, Thies WG, Appel H (1997) &lt;br /&gt;Comparative in-vivo and in-vitro Mo-99-time-differential-perturbed-angular-correlation studies on the nitrogenase MoFe protein and on other Mo species of different N-2-fixing bacteria.&lt;br /&gt;EUROPEAN JOURNAL OF BIOCHEMISTRY 246(2): 311-319.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1636778</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:13:58Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-20T11:12:09Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1636778</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1636778</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

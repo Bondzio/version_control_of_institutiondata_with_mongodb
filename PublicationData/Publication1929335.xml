@@ -1,0 +1,128 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Automated detection and quantification of fluorescently labeled synapses in murine brain tissue sections for high throughput applications</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Julia</namePart>
+  <namePart type="family">Herold</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">162497</identifier></name>
+<name type="personal">
+  <namePart type="given">Walter</namePart>
+  <namePart type="family">Schubert</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Tim Wilhelm</namePart>
+  <namePart type="family">Nattkemper</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11602</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Biodata Mining</namePart>
+  <identifier type="unibi">29610175</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Center of Excellence - Cognitive Interaction Technology CITEC</namePart>
+  <identifier type="unibi">8014655</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group T. Nattkemper</namePart>
+  <identifier type="unibi">33067409</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The automated detection and quantification of fluorescently labeled synapses in the brain is a fundamental challenge in neurobiology. Here we have applied a framework, based on machine learning, to detect and quantify synapses in murine hippocampus tissue sections, fluorescently labeled for synaptophysin using a direct and indirect labeling method with FITC as fluorescent dye. In a pixel-wise application of the classifier, small neighborhoods around the image pixels are mapped to confidence values. Synapse positions are computed from these confidence values by evaluating the local confidence profiles and comparing the values with a chosen minimum confidence value, the so called confidence threshold. To avoid time-consuming hand-tuning of the confidence threshold we describe a protocol for deriving the threshold from a small set of images, in which an expert has marked punctuate synaptic fluorescence signals. We can show that it works with high accuracy for fully automated synapse detection in new sample images. The resulting patch-by-patch synapse screening system, referred to as i3S (intelligent synapse screening system), is able to detect several thousand synapses in an area of 768 x 512 pixels in approx. 20s. The software approach presented in this study provides a reliable basis for high throughput quantification of synapses in neural tissue. (C) 2010 Elsevier B.V. All rights reserved.</abstract>
+
+<originInfo><publisher>Elsevier BV</publisher><dateIssued encoding="w3cdtf">2010</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Bioimage analysis</topic><topic>Fluorescence microscopy</topic><topic>Synaptophysin staining</topic><topic>Support vector machine</topic><topic>detection</topic><topic>High throughput synapse</topic><topic>Neural tissue</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF BIOTECHNOLOGY</title></titleInfo>
+  <identifier type="issn">0168-1656</identifier>
+  <identifier type="MEDLINE">20230863</identifier>
+  <identifier type="ISI">000283565900011</identifier><identifier type="doi">10.1016/j.jbiotec.2010.03.004</identifier>
+<part><detail type="volume"><number>149</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">299-309</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<mla>Herold, Julia, Schubert, Walter, and Nattkemper, Tim Wilhelm. “Automated detection and quantification of fluorescently labeled synapses in murine brain tissue sections for high throughput applications”. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt; 149.4 (2010): 299-309.</mla>
+<lncs>Herold, J., Schubert, W., Nattkemper, T.W.: Automated detection and quantification of fluorescently labeled synapses in murine brain tissue sections for high throughput applications. JOURNAL OF BIOTECHNOLOGY. 149, 299-309 (2010).</lncs>
+<ieee>J. Herold, W. Schubert, and T.W. Nattkemper, “Automated detection and quantification of fluorescently labeled synapses in murine brain tissue sections for high throughput applications”, &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;,  vol. 149, 2010,  pp. 299-309.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Herold, J., Schubert, W., &amp;amp; Nattkemper, T. W. (2010). Automated detection and quantification of fluorescently labeled synapses in murine brain tissue sections for high throughput applications. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;149&lt;/em&gt;(4), 299-309.&lt;/div&gt;</apa_indent>
+<frontiers>Herold, J., Schubert, W., and Nattkemper, T. W. (2010). Automated detection and quantification of fluorescently labeled synapses in murine brain tissue sections for high throughput applications. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt; 149, 299-309.</frontiers>
+<angewandte-chemie>J.  Herold, W.  Schubert, and T. W.  Nattkemper, “Automated detection and quantification of fluorescently labeled synapses in murine brain tissue sections for high throughput applications”, &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;strong&gt;2010&lt;/strong&gt;, &lt;em&gt;149&lt;/em&gt;, 299-309.</angewandte-chemie>
+<apa>Herold, J., Schubert, W., &amp;amp; Nattkemper, T. W. (2010). Automated detection and quantification of fluorescently labeled synapses in murine brain tissue sections for high throughput applications. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;149&lt;/em&gt;(4), 299-309.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Herold, Julia, Schubert, Walter, and Nattkemper, Tim Wilhelm. 2010. “Automated detection and quantification of fluorescently labeled synapses in murine brain tissue sections for high throughput applications”. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt; 149 (4): 299-309.&lt;/div&gt;</chicago>
+<aps>J.  Herold, W.  Schubert, and T. W.  Nattkemper, Automated detection and quantification of fluorescently labeled synapses in murine brain tissue sections for high throughput applications, JOURNAL OF BIOTECHNOLOGY &lt;strong&gt;149&lt;/strong&gt;, 299-309 (2010).</aps>
+<bio1>Herold J, Schubert W, Nattkemper TW (2010) &lt;br /&gt;Automated detection and quantification of fluorescently labeled synapses in murine brain tissue sections for high throughput applications.&lt;br /&gt;JOURNAL OF BIOTECHNOLOGY 149(4): 299-309.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Herold, J., Schubert, W. &amp;amp; Nattkemper, T.W. (2010). Automated detection and quantification of fluorescently labeled synapses in murine brain tissue sections for high throughput applications. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;149&lt;/em&gt;(4), 299-309. Elsevier BV. doi:10.1016/j.jbiotec.2010.03.004.&lt;/div&gt;</dgps>
+<ama>Herold J, Schubert W, Nattkemper TW. Automated detection and quantification of fluorescently labeled synapses in murine brain tissue sections for high throughput applications. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;. 2010;149(4):299-309.</ama>
+<harvard1>Herold, J., Schubert, W., &amp;amp; Nattkemper, T.W., 2010. Automated detection and quantification of fluorescently labeled synapses in murine brain tissue sections for high throughput applications. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, 149(4), p 299-309.</harvard1>
+<default>Herold J, Schubert W, Nattkemper TW (2010) &lt;br /&gt;JOURNAL OF BIOTECHNOLOGY 149(4): 299-309.</default>
+<wels>Herold, J.; Schubert, W.; Nattkemper, T. W. (2010): Automated detection and quantification of fluorescently labeled synapses in murine brain tissue sections for high throughput applications &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;,149:(4): 299-309.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1929335</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-12-07T10:47:06Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-26T12:11:09Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1929335</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1929335</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

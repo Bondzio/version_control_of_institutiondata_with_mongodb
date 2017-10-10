@@ -1,0 +1,152 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Oxalic acid as a heterogeneous ice nucleus in the upper troposphere and its indirect aerosol effect</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">B.</namePart>
+  <namePart type="family">Zobrist</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">C.</namePart>
+  <namePart type="family">Marcolli</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Thomas</namePart>
+  <namePart type="family">Koop</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">104033</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-7571-3684</description></name>
+<name type="personal">
+  <namePart type="given">B. P.</namePart>
+  <namePart type="family">Luo</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">D. M.</namePart>
+  <namePart type="family">Murphy</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">U.</namePart>
+  <namePart type="family">Lohmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A. A.</namePart>
+  <namePart type="family">Zardini</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">U. K.</namePart>
+  <namePart type="family">Krieger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">T.</namePart>
+  <namePart type="family">Corti</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">D. J.</namePart>
+  <namePart type="family">Cziczo</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">S.</namePart>
+  <namePart type="family">Fueglistaler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">P. K.</namePart>
+  <namePart type="family">Hudson</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">D. S.</namePart>
+  <namePart type="family">Thomson</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">T.</namePart>
+  <namePart type="family">Peter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Physikalische Chemie II</namePart>
+  <identifier type="unibi">17980</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Heterogeneous ice freezing points of aqueous solutions containing various immersed solid dicarboxylic acids (oxalic, adipic, succinic, phthalic and fumaric) have been measured with a differential scanning calorimeter. The results show that only the dihydrate of oxalic acid (OAD) acts as a heterogeneous ice nucleus, with an increase in freezing temperature between 2 and 5 K depending on solution composition. In several field campaigns, oxalic acid enriched particles have been detected in the upper troposphere with single particle aerosol mass spectrometry. Simulations with a microphysical box model indicate that the presence of OAD may reduce the ice particle number density in cirrus clouds by up to ~50% when compared to exclusively homogeneous cirrus formation without OAD. Using the ECHAM4 climate model we estimate the global net radiative effect caused by this heterogeneous freezing to result in a cooling as high as −0.3 Wm−2.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="zobrist_atmoschemphys_2006.pdf">https://pub.uni-bielefeld.de/download/1598502/2381010</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>EUROPEAN GEOSCIENCES UNION</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>ATMOSPHERIC CHEMISTRY AND PHYSICS</title></titleInfo>
+  <identifier type="issn">1680-7316</identifier>
+  <identifier type="eIssn">1680-7324</identifier>
+  <identifier type="ISI">000239314100001</identifier><identifier type="urn">urn:nbn:de:0070-pub-15985020</identifier><identifier type="doi">10.5194/acp-6-3115-2006</identifier>
+<part><detail type="volume"><number>6</number></detail><detail type="issue"><number>10</number></detail><extent unit="pages">3115-3129</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<mla>Zobrist, B., Marcolli, C., Koop, Thomas, Luo, B. P., Murphy, D. M., Lohmann, U., Zardini, A. A., Krieger, U. K., Corti, T., Cziczo, D. J., Fueglistaler, S., Hudson, P. K., Thomson, D. S., and Peter, T. “Oxalic acid as a heterogeneous ice nucleus in the upper troposphere and its indirect aerosol effect”. &lt;em&gt;ATMOSPHERIC CHEMISTRY AND PHYSICS&lt;/em&gt; 6.10 (2006): 3115-3129.</mla>
+<lncs>Zobrist, B., Marcolli, C., Koop, T., Luo, B.P., Murphy, D.M., Lohmann, U., Zardini, A.A., Krieger, U.K., Corti, T., Cziczo, D.J., Fueglistaler, S., Hudson, P.K., Thomson, D.S., Peter, T.: Oxalic acid as a heterogeneous ice nucleus in the upper troposphere and its indirect aerosol effect. ATMOSPHERIC CHEMISTRY AND PHYSICS. 6, 3115-3129 (2006).</lncs>
+<ieee>B. Zobrist, et al., “Oxalic acid as a heterogeneous ice nucleus in the upper troposphere and its indirect aerosol effect”, &lt;em&gt;ATMOSPHERIC CHEMISTRY AND PHYSICS&lt;/em&gt;,  vol. 6, 2006,  pp. 3115-3129.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Zobrist, B., Marcolli, C., Koop, T., Luo, B. P., Murphy, D. M., Lohmann, U., Zardini, A. A., et al. (2006). Oxalic acid as a heterogeneous ice nucleus in the upper troposphere and its indirect aerosol effect. &lt;em&gt;ATMOSPHERIC CHEMISTRY AND PHYSICS&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;(10), 3115-3129.&lt;/div&gt;</apa_indent>
+<frontiers>Zobrist, B., Marcolli, C., Koop, T., Luo, B. P., Murphy, D. M., Lohmann, U., Zardini, A. A., Krieger, U. K., Corti, T., Cziczo, D. J., et al. (2006). Oxalic acid as a heterogeneous ice nucleus in the upper troposphere and its indirect aerosol effect. &lt;em&gt;ATMOSPHERIC CHEMISTRY AND PHYSICS&lt;/em&gt; 6, 3115-3129.</frontiers>
+<angewandte-chemie>B.  Zobrist, C.  Marcolli, T.  Koop, B. P.  Luo, D. M.  Murphy, U.  Lohmann, A. A.  Zardini, U. K.  Krieger, T.  Corti, D. J.  Cziczo, et al., “Oxalic acid as a heterogeneous ice nucleus in the upper troposphere and its indirect aerosol effect”, &lt;em&gt;ATMOSPHERIC CHEMISTRY AND PHYSICS&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;6&lt;/em&gt;, 3115-3129.</angewandte-chemie>
+<apa>Zobrist, B., Marcolli, C., Koop, T., Luo, B. P., Murphy, D. M., Lohmann, U., Zardini, A. A., et al. (2006). Oxalic acid as a heterogeneous ice nucleus in the upper troposphere and its indirect aerosol effect. &lt;em&gt;ATMOSPHERIC CHEMISTRY AND PHYSICS&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;(10), 3115-3129.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Zobrist, B., Marcolli, C., Koop, Thomas, Luo, B. P., Murphy, D. M., Lohmann, U., Zardini, A. A., et al. 2006. “Oxalic acid as a heterogeneous ice nucleus in the upper troposphere and its indirect aerosol effect”. &lt;em&gt;ATMOSPHERIC CHEMISTRY AND PHYSICS&lt;/em&gt; 6 (10): 3115-3129.&lt;/div&gt;</chicago>
+<bio1>Zobrist B, Marcolli C, Koop T, Luo BP, Murphy DM, Lohmann U, Zardini AA, Krieger UK, Corti T, Cziczo DJ, Fueglistaler S, Hudson PK, Thomson DS, Peter T (2006) &lt;br /&gt;Oxalic acid as a heterogeneous ice nucleus in the upper troposphere and its indirect aerosol effect.&lt;br /&gt;ATMOSPHERIC CHEMISTRY AND PHYSICS 6(10): 3115-3129.</bio1>
+<aps>B.  Zobrist, et al., Oxalic acid as a heterogeneous ice nucleus in the upper troposphere and its indirect aerosol effect, ATMOSPHERIC CHEMISTRY AND PHYSICS &lt;strong&gt;6&lt;/strong&gt;, 3115-3129 (2006).</aps>
+<ama>Zobrist B, Marcolli C, Koop T, et al. Oxalic acid as a heterogeneous ice nucleus in the upper troposphere and its indirect aerosol effect. &lt;em&gt;ATMOSPHERIC CHEMISTRY AND PHYSICS&lt;/em&gt;. 2006;6(10):3115-3129.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Zobrist, B., Marcolli, C., Koop, T., Luo, B.P., Murphy, D.M., Lohmann, U., Zardini, A.A., Krieger, U.K., Corti, T., Cziczo, D.J., Fueglistaler, S., Hudson, P.K., Thomson, D.S. &amp;amp; Peter, T. (2006). Oxalic acid as a heterogeneous ice nucleus in the upper troposphere and its indirect aerosol effect. &lt;em&gt;ATMOSPHERIC CHEMISTRY AND PHYSICS&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;(10), 3115-3129. EUROPEAN GEOSCIENCES UNION. doi:10.5194/acp-6-3115-2006.&lt;/div&gt;</dgps>
+<harvard1>Zobrist, B., et al., 2006. Oxalic acid as a heterogeneous ice nucleus in the upper troposphere and its indirect aerosol effect. &lt;em&gt;ATMOSPHERIC CHEMISTRY AND PHYSICS&lt;/em&gt;, 6(10), p 3115-3129.</harvard1>
+<default>Zobrist B, Marcolli C, Koop T, Luo BP, Murphy DM, Lohmann U, Zardini AA, Krieger UK, Corti T, Cziczo DJ, Fueglistaler S, et al. (2006) &lt;br /&gt;ATMOSPHERIC CHEMISTRY AND PHYSICS 6(10): 3115-3129.</default>
+<wels>Zobrist, B.; Marcolli, C.; Koop, T.; Luo, B. P.; Murphy, D. M.; Lohmann, U.; Zardini, A. A.; Krieger, U. K.; Corti, T.; Cziczo, D. J.; Fueglistaler, S.; Hudson, P. K.; Thomson, D. S.; Peter, T. (2006): Oxalic acid as a heterogeneous ice nucleus in the upper troposphere and its indirect aerosol effect &lt;em&gt;ATMOSPHERIC CHEMISTRY AND PHYSICS&lt;/em&gt;,6:(10): 3115-3129.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1598502</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:19:24Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2012-02-14T11:00:08Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1598502</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1598502</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

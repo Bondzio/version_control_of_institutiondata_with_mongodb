@@ -1,0 +1,129 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Sub-femtosecond X-ray pulse generation and measurement</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">R</namePart>
+  <namePart type="family">Kienberger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Hentschel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">C</namePart>
+  <namePart type="family">Spielmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">GA</namePart>
+  <namePart type="family">Reider</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">N</namePart>
+  <namePart type="family">Milosevic</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ulrich</namePart>
+  <namePart type="family">Heinzmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40276</identifier></name>
+<name type="personal">
+  <namePart type="given">Markus</namePart>
+  <namePart type="family">Drescher</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">5240380</identifier></name>
+<name type="personal">
+  <namePart type="given">F</namePart>
+  <namePart type="family">Krausz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Lehrstuhl für Molekül- und Oberflächenphysik</namePart>
+  <identifier type="unibi">29133467</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Centrum für Biotechnologie</namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We report the generation and measurement of isolated soft-X-ray pulses (lambda(X) = 14 nm) with a duration of tau(X) = 650 150 attoseconds (as) by using few-cycle intense visible/near-infrared (lambda(0) = 750 nm) laser pulses. For the temporal characterization of the X-ray pulses, a cross-correlation technique relying on laser field assisted X-ray photoemission from krypton atoms was employed. The experimental results bear direct evidence of the X-ray pulse being synchronized to the field oscillations of the visible-light pulse with attosecond precision and of bound-free electronic transitions from the 4p state of krypton responding to 90-eV excitation on an attosecond time scale. As a first demonstration of attosecond metrology, the synchronized single sub-fs X-ray pulses were used for tracing the electric field oscillations in a visible-light wave with a resolution of better than 150 as.</abstract>
+
+<originInfo><publisher>SPRINGER-VERLAG</publisher><dateIssued encoding="w3cdtf">2002</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>APPLIED PHYSICS B-LASERS AND OPTICS</title></titleInfo>
+  <identifier type="issn">0946-2171</identifier>
+  <identifier type="ISI">000177812200002</identifier><identifier type="doi">10.1007/s00340-002-0913-9</identifier>
+<part><detail type="volume"><number>74</number></detail><extent unit="pages">S3-S9</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Kienberger, R.; Hentschel, M.; Spielmann, C.; Reider, G. A.; Milosevic, N.; Heinzmann, U.; Drescher, M.; Krausz, F. (2002): Sub-femtosecond X-ray pulse generation and measurement. In: APPLIED PHYSICS B-LASERS AND OPTICS. SPRINGER-VERLAG. (74).  S. S3-S9.</wels>
+<default>Kienberger R, Hentschel M, Spielmann C, Reider GA, Milosevic N, Heinzmann U, Drescher M, Krausz F (2002)  &lt;br /&gt;In:  APPLIED PHYSICS B-LASERS AND OPTICS. 74. SPRINGER-VERLAG:  S3-S9.</default>
+<harvard1>Kienberger, R., et al., 2002. Sub-femtosecond X-ray pulse generation and measurement. In &lt;em&gt;APPLIED PHYSICS B-LASERS AND OPTICS&lt;/em&gt;. no.74  SPRINGER-VERLAG, pp. S3-S9.</harvard1>
+<ama>Kienberger R, Hentschel M, Spielmann C, et al. Sub-femtosecond X-ray pulse generation and measurement. In:  &lt;em&gt;APPLIED PHYSICS B-LASERS AND OPTICS&lt;/em&gt;. Vol 74. SPRINGER-VERLAG;  2002: S3-S9.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kienberger, R., Hentschel, M., Spielmann, C., Reider, G.A., Milosevic, N., Heinzmann, U., Drescher, M. &amp;amp; Krausz, F. (2002). Sub-femtosecond X-ray pulse generation and measurement. &lt;em&gt;APPLIED PHYSICS B-LASERS AND OPTICS&lt;/em&gt; (S. S3-S9). SPRINGER-VERLAG. doi:10.1007/s00340-002-0913-9.&lt;/div&gt;</dgps>
+<aps>R.  Kienberger, et al., Sub-femtosecond X-ray pulse generation and measurement, in &lt;em&gt;APPLIED PHYSICS B-LASERS AND OPTICS&lt;/em&gt;, &lt;strong&gt;74&lt;/strong&gt; (SPRINGER-VERLAG, 2002), p. S3-S9.</aps>
+<bio1>Kienberger R, Hentschel M, Spielmann C, Reider GA, Milosevic N, Heinzmann U, Drescher M, Krausz F (2002) &lt;br /&gt;Sub-femtosecond X-ray pulse generation and measurement. &lt;br /&gt;In:  APPLIED PHYSICS B-LASERS AND OPTICS. 74. SPRINGER-VERLAG:  S3-S9.</bio1>
+<angewandte-chemie>R.  Kienberger, M.  Hentschel, C.  Spielmann, G. A.  Reider, N.  Milosevic, U.  Heinzmann, M.  Drescher, and F.  Krausz, in &lt;em&gt;APPLIED PHYSICS B-LASERS AND OPTICS&lt;/em&gt;, Springer-Verlag, &lt;strong&gt;2002&lt;/strong&gt;, p. S3-S9.</angewandte-chemie>
+<apa>Kienberger, R., Hentschel, M., Spielmann, C., Reider, G. A., Milosevic, N., Heinzmann, U., Drescher, M., et al. (2002). Sub-femtosecond X-ray pulse generation and measurement. &lt;em&gt;APPLIED PHYSICS B-LASERS AND OPTICS&lt;/em&gt;, &lt;em&gt;74&lt;/em&gt;, S3-S9.</apa>
+<frontiers>Kienberger, R., Hentschel, M., Spielmann, C., Reider, G. A., Milosevic, N., Heinzmann, U., Drescher, M., and Krausz, F. (2002). “Sub-femtosecond X-ray pulse generation and measurement” in &lt;em&gt;APPLIED PHYSICS B-LASERS AND OPTICS&lt;/em&gt;, vol. 74, (SPRINGER-VERLAG), S3-S9.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kienberger, R, Hentschel, M, Spielmann, C, Reider, GA, Milosevic, N, Heinzmann, Ulrich, Drescher, Markus, and Krausz, F. 2002. “Sub-femtosecond X-ray pulse generation and measurement”. In &lt;em&gt;APPLIED PHYSICS B-LASERS AND OPTICS&lt;/em&gt;, 74:S3-S9. SPRINGER-VERLAG.&lt;/div&gt;</chicago>
+<ieee>R. Kienberger, et al., “Sub-femtosecond X-ray pulse generation and measurement”, &lt;em&gt;APPLIED PHYSICS B-LASERS AND OPTICS&lt;/em&gt;, vol. 74, SPRINGER-VERLAG, 2002,  pp.S3-S9.</ieee>
+<lncs>Kienberger, R., Hentschel, M., Spielmann, C., Reider, G.A., Milosevic, N., Heinzmann, U., Drescher, M., Krausz, F.: Sub-femtosecond X-ray pulse generation and measurement. APPLIED PHYSICS B-LASERS AND OPTICS. 74, p. S3-S9. SPRINGER-VERLAG (2002).</lncs>
+<mla>Kienberger, R, Hentschel, M, Spielmann, C, Reider, GA, Milosevic, N, Heinzmann, Ulrich, Drescher, Markus, and Krausz, F. “Sub-femtosecond X-ray pulse generation and measurement”. &lt;em&gt;APPLIED PHYSICS B-LASERS AND OPTICS&lt;/em&gt;. SPRINGER-VERLAG, 2002.Vol. 74. S3-S9.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kienberger, R., Hentschel, M., Spielmann, C., Reider, G. A., Milosevic, N., Heinzmann, U., Drescher, M., et al. (2002). Sub-femtosecond X-ray pulse generation and measurement. &lt;em&gt;APPLIED PHYSICS B-LASERS AND OPTICS&lt;/em&gt;, &lt;em&gt;74&lt;/em&gt;, S3-S9.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1613730</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:00:46Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-07T11:25:55Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1613730</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1613730</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

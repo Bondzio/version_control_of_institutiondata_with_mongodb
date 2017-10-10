@@ -1,0 +1,99 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Reactions of 2-bromopropene radical cation with amines - a study by FT-ICR spectrometry and DFT calculation</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Michael</namePart>
+  <namePart type="family">Büchner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Hans-Friedrich</namePart>
+  <namePart type="family">Grützmacher</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">41603</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Chemie</namePart>
+  <identifier type="unibi">10018</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The reactions of the 2-bromopropene radical cation 1(.+) with four amines (CH3NH2, CH3CH2NH2, (CH3)(2)NH, and (CH3)(3)N) and CH3SH were studied by Fourier transform-ion cyclotron resonance (FT-ICR) spectrometry and molecular orbital calculations. The ionization energy (IE) of (CH3)2NH, and (CH3)3N), respectively, are considerably below the IE(1). Consequently, fast electron transfer (ET) is the only reaction detected with 1(.+). The amine radical cation formed undergoes a (known) fast secondary reaction with the neutral amine and generates the corresponding ammonium ion. ET is also exothermic (0.14-0.78 eV) for the other reactants, but in these reaction systems substitution of the Br atom of 1(.+) by the nucleophile. and oxidation of the nucleophile by hydride transfer to 1(.+) competes efficiently with ET. The minimum energy reaction path (MERP) for the reaction system 1(.+)/CH3NH2 was analyzed by theoretical calculation of stationary points using DFT at the level B3LYP/6-31+G(3df,2p)//B3LYP/6-31G(d). The calculated MERP agrees to the general reaction scheme developed for the reactions of ionized alkenes with nucleophiles. In particular, the initial reaction step for substitution and oxidation, which competes with ET, is addition of the nucleophile to the ionized double bond. No energy minimum along the MERP was found with B3LYP/6-31G(d) corresponding to the encounter complex of 1(.+) and CH3NH2, while both UHF/6-31(Gd) and MP2/6-31G(d) show this complex as an energy minimum. The charge and spin density of the complex is almost completely localized at the 2-bromopropene component, confuting any &quot;hidden charge transfer&quot; in the complex prior to further reactions. The initial addition step, which is strongly exothermic, can be viewed as an &quot;inner sphere&quot; ET which combines the single ET from the nucleophile to 1(.+) with simultaneous bond formation between reactants. This &quot;inner sphere&quot; ET competes with &quot;outer sphere&quot; ET resulting only in charge exchange between the reactants. In the case of simple amines as nucleophiles, the &quot;outer sphere&quot;. ET requires considerable reorganization of the amine structure. This is indicated by significantly higher vertical IEv of the amines. Therefore, a fast ET prevails over fast addition of the nucleophile to the ionized double bond of 1(.+) only if the IEv(amine) is distinctly below IE(1). (C) 2003 Elsevier Science B.V. All rights reserved.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">2003</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>reaction</topic><topic>ion/molecule reaction</topic><topic>Fr-ICR</topic><topic>2-bromopropene radical cation</topic><topic>nucleophilic substitution</topic><topic>DFT</topic><topic>mechanism</topic><topic>electron transfer</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>INTERNATIONAL JOURNAL OF MASS SPECTROMETRY</title></titleInfo>
+  <identifier type="issn">1387-3806</identifier>
+  <identifier type="ISI">000184727800007</identifier><identifier type="doi">10.1016/S1387-3806(03)00206-9</identifier>
+<part><detail type="volume"><number>228</number></detail><detail type="issue"><number>2-3</number></detail><extent unit="pages">167-180</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>M. Büchner and H.-F. Grützmacher, “Reactions of 2-bromopropene radical cation with amines - a study by FT-ICR spectrometry and DFT calculation”, &lt;em&gt;INTERNATIONAL JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;, vol. 228, ELSEVIER SCIENCE BV, 2003,  pp.167-180.</ieee>
+<lncs>Büchner, M., Grützmacher, H.-F.: Reactions of 2-bromopropene radical cation with amines - a study by FT-ICR spectrometry and DFT calculation. INTERNATIONAL JOURNAL OF MASS SPECTROMETRY. 228, p. 167-180. ELSEVIER SCIENCE BV (2003).</lncs>
+<mla>Büchner, Michael, and Grützmacher, Hans-Friedrich. “Reactions of 2-bromopropene radical cation with amines - a study by FT-ICR spectrometry and DFT calculation”. &lt;em&gt;INTERNATIONAL JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;. ELSEVIER SCIENCE BV, 2003.Vol. 228. 167-180.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Büchner, M., &amp;amp; Grützmacher, H. - F. (2003). Reactions of 2-bromopropene radical cation with amines - a study by FT-ICR spectrometry and DFT calculation. &lt;em&gt;INTERNATIONAL JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;, &lt;em&gt;228&lt;/em&gt;(2-3), 167-180.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>M.  Büchner, and H. - F.  Grützmacher, in &lt;em&gt;INTERNATIONAL JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;, Elsevier Science Bv, &lt;strong&gt;2003&lt;/strong&gt;, p. 167-180.</angewandte-chemie>
+<apa>Büchner, M., &amp;amp; Grützmacher, H. - F. (2003). Reactions of 2-bromopropene radical cation with amines - a study by FT-ICR spectrometry and DFT calculation. &lt;em&gt;INTERNATIONAL JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;, &lt;em&gt;228&lt;/em&gt;(2-3), 167-180.</apa>
+<frontiers>Büchner, M., and Grützmacher, H. - F. (2003). “Reactions of 2-bromopropene radical cation with amines - a study by FT-ICR spectrometry and DFT calculation” in &lt;em&gt;INTERNATIONAL JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;, vol. 228, (ELSEVIER SCIENCE BV), 167-180.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Büchner, Michael, and Grützmacher, Hans-Friedrich. 2003. “Reactions of 2-bromopropene radical cation with amines - a study by FT-ICR spectrometry and DFT calculation”. In &lt;em&gt;INTERNATIONAL JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;, 228:167-180. ELSEVIER SCIENCE BV.&lt;/div&gt;</chicago>
+<harvard1>Büchner, M., &amp;amp; Grützmacher, H.-F., 2003. Reactions of 2-bromopropene radical cation with amines - a study by FT-ICR spectrometry and DFT calculation. In &lt;em&gt;INTERNATIONAL JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;. no.228  ELSEVIER SCIENCE BV, pp. 167-180.</harvard1>
+<ama>Büchner M, Grützmacher H-F. Reactions of 2-bromopropene radical cation with amines - a study by FT-ICR spectrometry and DFT calculation. In:  &lt;em&gt;INTERNATIONAL JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;. Vol 228. ELSEVIER SCIENCE BV;  2003: 167-180.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Büchner, M. &amp;amp; Grützmacher, H.-F. (2003). Reactions of 2-bromopropene radical cation with amines - a study by FT-ICR spectrometry and DFT calculation. &lt;em&gt;INTERNATIONAL JOURNAL OF MASS SPECTROMETRY&lt;/em&gt; (S. 167-180). ELSEVIER SCIENCE BV. doi:10.1016/S1387-3806(03)00206-9.&lt;/div&gt;</dgps>
+<bio1>Büchner M, Grützmacher H-F (2003) &lt;br /&gt;Reactions of 2-bromopropene radical cation with amines - a study by FT-ICR spectrometry and DFT calculation. &lt;br /&gt;In:  INTERNATIONAL JOURNAL OF MASS SPECTROMETRY. 228. ELSEVIER SCIENCE BV:  167-180.</bio1>
+<aps>M.  Büchner and H. - F.  Grützmacher, Reactions of 2-bromopropene radical cation with amines - a study by FT-ICR spectrometry and DFT calculation, in &lt;em&gt;INTERNATIONAL JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;, &lt;strong&gt;228&lt;/strong&gt; (ELSEVIER SCIENCE BV, 2003), p. 167-180.</aps>
+<wels>Büchner, M.; Grützmacher, H. - F. (2003): Reactions of 2-bromopropene radical cation with amines - a study by FT-ICR spectrometry and DFT calculation. In: INTERNATIONAL JOURNAL OF MASS SPECTROMETRY. ELSEVIER SCIENCE BV. (228).  S. 167-180.</wels>
+<default>Büchner M, Grützmacher H-F (2003)  &lt;br /&gt;In:  INTERNATIONAL JOURNAL OF MASS SPECTROMETRY. 228. ELSEVIER SCIENCE BV:  167-180.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1610534</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:59:03Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-10T14:54:50Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1610534</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1610534</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

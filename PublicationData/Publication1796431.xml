@@ -1,0 +1,143 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>In-depth analysis of the distinctive effects of norflurazon implies that tetrapyrrole biosynthesis, organellar gene expression and ABA cooperate in the GUN-type of plastid signalling</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">Voigt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ulrike</namePart>
+  <namePart type="family">Oster</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Frederik</namePart>
+  <namePart type="family">Boernke</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Peter</namePart>
+  <namePart type="family">Jahns</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Karl-Josef</namePart>
+  <namePart type="family">Dietz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21935</identifier></name>
+<name type="personal">
+  <namePart type="given">Dario</namePart>
+  <namePart type="family">Leister</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Tatjana</namePart>
+  <namePart type="family">Kleine</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Biologie</namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Biochemie und Physiologie der Pflanzen</namePart>
+  <identifier type="unibi">2685177</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  K.-J. Dietz</namePart>
+  <identifier type="unibi">33070563</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Genomforschung und Systembiologie</namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Application of norflurazon (NF) damages plastids, induces photobleaching and represses expression of the nuclear LHCB1.2 gene encoding a light-harvesting protein. In genomes uncoupled (gun) mutants, LHCB1.2 expression is maintained in the presence of NF. The mutants gun2, gun4 and gun5 exhibit perturbations in tetrapyrrole biosynthesis, but gun1 is defective in organellar gene expression (OGE). How gun mutations affect nuclear gene expression (NGE) and why the signals elicited by the two types evoke the same response remains unknown. Here we show that the carotenoid biosynthesis inhibitors amitrole and flurochloridone can replace NF in gun assays, whereas novel tetrapyrrole pathway mutations do not provoke a gun phenotype. Changes in haem levels also do not account for LHCB1.2 derepression in NF-treated gun mutants. Pigment measurements indicated that gun mutants are not resistant to NF, but gun2, gun4 and gun5 retain low levels of lutein, as well as of neoxanthin and violaxanthin, the precursors of abscisic acid (ABA). This might explain the enhanced ABA sensitivity of gun4 and gun5 plants found in germination assays. Metabolite profiling and analyses of reactive oxygen species and cellular redox state failed to suggest a link between gun mutations and altered LHCB1.2 expression. However, in contrast to NF-treated wild-type plants, gun mutants retain to a marked extent the capability to express the plastome-encoded proteins AtpB and RbcL. This, together with the finding that application of ABA can partially restore LHCB1.2 expression in NF-treated wild-type plants, supports the view that tetrapyrrole, OGE and ABA signalling are interconnected.</abstract>
+
+<originInfo><publisher>Wiley-Blackwell</publisher><dateIssued encoding="w3cdtf">2010</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>PHYSIOLOGIA PLANTARUM</title></titleInfo>
+  <identifier type="issn">0031-9317</identifier>
+  <identifier type="eIssn">1399-3054</identifier>
+  <identifier type="MEDLINE">20028479</identifier>
+  <identifier type="ISI">000275673000015</identifier><identifier type="doi">10.1111/j.1399-3054.2009.01343.x</identifier>
+<part><detail type="volume"><number>138</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">503-519</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Voigt, C.; Oster, U.; Boernke, F.; Jahns, P.; Dietz, K. - J.; Leister, D.; Kleine, T. (2010): In-depth analysis of the distinctive effects of norflurazon implies that tetrapyrrole biosynthesis, organellar gene expression and ABA cooperate in the GUN-type of plastid signalling &lt;em&gt;PHYSIOLOGIA PLANTARUM&lt;/em&gt;,138:(4): 503-519.</wels>
+<default>Voigt C, Oster U, Boernke F, Jahns P, Dietz K-J, Leister D, Kleine T (2010) &lt;br /&gt;PHYSIOLOGIA PLANTARUM 138(4): 503-519.</default>
+<ama>Voigt C, Oster U, Boernke F, et al. In-depth analysis of the distinctive effects of norflurazon implies that tetrapyrrole biosynthesis, organellar gene expression and ABA cooperate in the GUN-type of plastid signalling. &lt;em&gt;PHYSIOLOGIA PLANTARUM&lt;/em&gt;. 2010;138(4):503-519.</ama>
+<harvard1>Voigt, C., et al., 2010. In-depth analysis of the distinctive effects of norflurazon implies that tetrapyrrole biosynthesis, organellar gene expression and ABA cooperate in the GUN-type of plastid signalling. &lt;em&gt;PHYSIOLOGIA PLANTARUM&lt;/em&gt;, 138(4), p 503-519.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Voigt, C., Oster, U., Boernke, F., Jahns, P., Dietz, K.-J., Leister, D. &amp;amp; Kleine, T. (2010). In-depth analysis of the distinctive effects of norflurazon implies that tetrapyrrole biosynthesis, organellar gene expression and ABA cooperate in the GUN-type of plastid signalling. &lt;em&gt;PHYSIOLOGIA PLANTARUM&lt;/em&gt;, &lt;em&gt;138&lt;/em&gt;(4), 503-519. Wiley-Blackwell. doi:10.1111/j.1399-3054.2009.01343.x.&lt;/div&gt;</dgps>
+<bio1>Voigt C, Oster U, Boernke F, Jahns P, Dietz K-J, Leister D, Kleine T (2010) &lt;br /&gt;In-depth analysis of the distinctive effects of norflurazon implies that tetrapyrrole biosynthesis, organellar gene expression and ABA cooperate in the GUN-type of plastid signalling.&lt;br /&gt;PHYSIOLOGIA PLANTARUM 138(4): 503-519.</bio1>
+<aps>C.  Voigt, et al., In-depth analysis of the distinctive effects of norflurazon implies that tetrapyrrole biosynthesis, organellar gene expression and ABA cooperate in the GUN-type of plastid signalling, PHYSIOLOGIA PLANTARUM &lt;strong&gt;138&lt;/strong&gt;, 503-519 (2010).</aps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Voigt, Christian, Oster, Ulrike, Boernke, Frederik, Jahns, Peter, Dietz, Karl-Josef, Leister, Dario, and Kleine, Tatjana. 2010. “In-depth analysis of the distinctive effects of norflurazon implies that tetrapyrrole biosynthesis, organellar gene expression and ABA cooperate in the GUN-type of plastid signalling”. &lt;em&gt;PHYSIOLOGIA PLANTARUM&lt;/em&gt; 138 (4): 503-519.&lt;/div&gt;</chicago>
+<angewandte-chemie>C.  Voigt, U.  Oster, F.  Boernke, P.  Jahns, K. - J.  Dietz, D.  Leister, and T.  Kleine, “In-depth analysis of the distinctive effects of norflurazon implies that tetrapyrrole biosynthesis, organellar gene expression and ABA cooperate in the GUN-type of plastid signalling”, &lt;em&gt;PHYSIOLOGIA PLANTARUM&lt;/em&gt;, &lt;strong&gt;2010&lt;/strong&gt;, &lt;em&gt;138&lt;/em&gt;, 503-519.</angewandte-chemie>
+<apa>Voigt, C., Oster, U., Boernke, F., Jahns, P., Dietz, K. - J., Leister, D., &amp;amp; Kleine, T. (2010). In-depth analysis of the distinctive effects of norflurazon implies that tetrapyrrole biosynthesis, organellar gene expression and ABA cooperate in the GUN-type of plastid signalling. &lt;em&gt;PHYSIOLOGIA PLANTARUM&lt;/em&gt;, &lt;em&gt;138&lt;/em&gt;(4), 503-519.</apa>
+<frontiers>Voigt, C., Oster, U., Boernke, F., Jahns, P., Dietz, K. - J., Leister, D., and Kleine, T. (2010). In-depth analysis of the distinctive effects of norflurazon implies that tetrapyrrole biosynthesis, organellar gene expression and ABA cooperate in the GUN-type of plastid signalling. &lt;em&gt;PHYSIOLOGIA PLANTARUM&lt;/em&gt; 138, 503-519.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Voigt, C., Oster, U., Boernke, F., Jahns, P., Dietz, K. - J., Leister, D., &amp;amp; Kleine, T. (2010). In-depth analysis of the distinctive effects of norflurazon implies that tetrapyrrole biosynthesis, organellar gene expression and ABA cooperate in the GUN-type of plastid signalling. &lt;em&gt;PHYSIOLOGIA PLANTARUM&lt;/em&gt;, &lt;em&gt;138&lt;/em&gt;(4), 503-519.&lt;/div&gt;</apa_indent>
+<ieee>C. Voigt, et al., “In-depth analysis of the distinctive effects of norflurazon implies that tetrapyrrole biosynthesis, organellar gene expression and ABA cooperate in the GUN-type of plastid signalling”, &lt;em&gt;PHYSIOLOGIA PLANTARUM&lt;/em&gt;,  vol. 138, 2010,  pp. 503-519.</ieee>
+<lncs>Voigt, C., Oster, U., Boernke, F., Jahns, P., Dietz, K.-J., Leister, D., Kleine, T.: In-depth analysis of the distinctive effects of norflurazon implies that tetrapyrrole biosynthesis, organellar gene expression and ABA cooperate in the GUN-type of plastid signalling. PHYSIOLOGIA PLANTARUM. 138, 503-519 (2010).</lncs>
+<mla>Voigt, Christian, Oster, Ulrike, Boernke, Frederik, Jahns, Peter, Dietz, Karl-Josef, Leister, Dario, and Kleine, Tatjana. “In-depth analysis of the distinctive effects of norflurazon implies that tetrapyrrole biosynthesis, organellar gene expression and ABA cooperate in the GUN-type of plastid signalling”. &lt;em&gt;PHYSIOLOGIA PLANTARUM&lt;/em&gt; 138.4 (2010): 503-519.</mla>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1796431</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-10-14T09:04:10Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-12-22T12:11:21Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1796431</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1796431</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

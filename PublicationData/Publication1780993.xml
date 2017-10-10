@@ -1,0 +1,110 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Sechs Jahre Anwendungsentwicklung mit Prototyping - Revision von Begriffen und Konzepten</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Thorsten</namePart>
+  <namePart type="family">Spitta</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">41186</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Heinz</namePart><namePart type="family">Züllighoven</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">W.</namePart><namePart type="family">Altmann</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">E.-E.</namePart><namePart type="family">Doberkat</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10031</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+<name type="conference">
+  <namePart>Prototyping</namePart>
+</name>
+
+
+
+
+
+
+<abstract lang="eng">Es wird gezeigt, dass eine Revision des Begriffs (Software-)Prototyp zweckmäßig ist und bisherige Klassifikationen zum Prototyping eingeschränkt werden sollten. Es wird empfohlen, zwischen Modellen, Prototypen und Pilotsystemen zu unterscheiden. Die Sinnhaftigkeit der Begriffseinschränkung und der tatsächliche Verlauf großer Projekte wird an Fallstudien gezeigt. Die Fallstudien entstammen der Entwicklung eines integrierten Systems mit über 40 MJ Entwicklungsaufwand. Das System besteht aus Tourenplanung, Produktionssteuerung, Bestandsführung und Vertriebsabwicklung. Anhand der Fallstudien werden auch Nutzen und Gefahren des Prototyping gezeigt.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Spitta_021.pdf">https://pub.uni-bielefeld.de/download/1780993/2313131</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Teubner</publisher><dateIssued encoding="w3cdtf">1993</dateIssued><place><placeTerm type="text">Bonn</placeTerm></place>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+<subject><topic>Prototyping</topic><topic>Software Engineering</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Requirements Engineering ´93</title></titleInfo>
+  <identifier type="isbn">3-519-02682-1</identifier><identifier type="urn">urn:nbn:de:0070-pub-17809931</identifier>
+<part><detail type="volume"><number>41</number></detail><extent unit="pages">49-66</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<lncs> Spitta, T.: Sechs Jahre Anwendungsentwicklung mit Prototyping - Revision von Begriffen und Konzepten. In: Züllighoven, H., Altmann, W., and Doberkat, E.-E. (eds.) Requirements Engineering ´93. Berichte des German Chapter of the ACM. 41, p. 49-66. Teubner, Stuttgart (1993).</lncs>
+<mla>Spitta, Thorsten. “Sechs Jahre Anwendungsentwicklung mit Prototyping - Revision von Begriffen und Konzepten”. &lt;em&gt;Requirements Engineering ´93&lt;/em&gt;. Ed. Heinz Züllighoven, W. Altmann, and E.-E. Doberkat. Stuttgart: Teubner, 1993.Vol. 41. Berichte des German Chapter of the ACM. 49-66.</mla>
+<ieee> T. Spitta, “Sechs Jahre Anwendungsentwicklung mit Prototyping - Revision von Begriffen und Konzepten”, &lt;em&gt;Requirements Engineering ´93&lt;/em&gt;, H. Züllighoven, W. Altmann, and E.-E. Doberkat, eds., Berichte des German Chapter of the ACM, vol. 41,  Stuttgart: Teubner, 1993,  pp.49-66.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Spitta, T. (1993). Sechs Jahre Anwendungsentwicklung mit Prototyping - Revision von Begriffen und Konzepten. In H.  Züllighoven, W.  Altmann, &amp;amp; E. - E.  Doberkat (Eds.), &lt;em&gt;Berichte des German Chapter of the ACM: Vol. 41&lt;/em&gt;&lt;em&gt;. Requirements Engineering ´93&lt;/em&gt; (pp. 49-66). Stuttgart: Teubner.&lt;/div&gt;</apa_indent>
+<frontiers>Spitta, T. (1993). “Sechs Jahre Anwendungsentwicklung mit Prototyping - Revision von Begriffen und Konzepten” in &lt;em&gt;Requirements Engineering ´93&lt;/em&gt;, Züllighoven, H., Altmann, W., and Doberkat, E. - E. eds. Berichte des German Chapter of the ACM, vol. 41, (Stuttgart: Teubner), 49-66.</frontiers>
+<apa>Spitta, T. (1993). Sechs Jahre Anwendungsentwicklung mit Prototyping - Revision von Begriffen und Konzepten. In H.  Züllighoven, W.  Altmann, &amp;amp; E. - E.  Doberkat (Eds.), &lt;em&gt;Berichte des German Chapter of the ACM: Vol. 41&lt;/em&gt;&lt;em&gt;. Requirements Engineering ´93&lt;/em&gt; (pp. 49-66). Stuttgart: Teubner.</apa>
+<angewandte-chemie>T.  Spitta, in &lt;em&gt;Requirements Engineering ´93&lt;/em&gt; (Eds.: H. Züllighoven, W. Altmann, E.-E. Doberkat), Teubner, Stuttgart, &lt;strong&gt;1993&lt;/strong&gt;, p. 49-66.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Spitta, Thorsten. 1993. “Sechs Jahre Anwendungsentwicklung mit Prototyping - Revision von Begriffen und Konzepten”. In &lt;em&gt;Requirements Engineering ´93&lt;/em&gt;, ed. Heinz Züllighoven, W. Altmann, and E.-E. Doberkat, 41:49-66. Berichte des German Chapter of the ACM. Stuttgart: Teubner.&lt;/div&gt;</chicago>
+<aps> T.  Spitta, Sechs Jahre Anwendungsentwicklung mit Prototyping - Revision von Begriffen und Konzepten, in &lt;em&gt;Requirements Engineering ´93&lt;/em&gt;, edited by H.  Züllighoven, et al., Berichte des German Chapter of the ACM, &lt;strong&gt;41&lt;/strong&gt; (Teubner, Stuttgart, 1993), p. 49-66.</aps>
+<bio1>Spitta T (1993) &lt;br /&gt;Sechs Jahre Anwendungsentwicklung mit Prototyping - Revision von Begriffen und Konzepten. &lt;br /&gt;In:  Requirements Engineering ´93. Züllighoven H, Altmann W, Doberkat E-E (Eds); Berichte des German Chapter of the ACM, 41. Stuttgart: Teubner:  49-66.</bio1>
+<harvard1>Spitta, T., 1993. Sechs Jahre Anwendungsentwicklung mit Prototyping - Revision von Begriffen und Konzepten. In H.  Züllighoven, W.  Altmann, &amp;amp; E. - E.  Doberkat, eds. &lt;em&gt;Requirements Engineering ´93&lt;/em&gt;. Berichte des German Chapter of the ACM. no.41  Stuttgart: Teubner, pp. 49-66.</harvard1>
+<ama>Spitta T. Sechs Jahre Anwendungsentwicklung mit Prototyping - Revision von Begriffen und Konzepten. In: Züllighoven H, Altmann W, Doberkat E-E, eds. &lt;em&gt;Requirements Engineering ´93&lt;/em&gt;. Berichte des German Chapter of the ACM. Vol 41. Stuttgart: Teubner;  1993: 49-66.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Spitta, T. (1993). Sechs Jahre Anwendungsentwicklung mit Prototyping - Revision von Begriffen und Konzepten (Berichte des German Chapter of the ACM). &lt;em&gt;Requirements Engineering ´93&lt;/em&gt; (S. 49-66). Gehalten auf der Prototyping, Stuttgart: Teubner.&lt;/div&gt;</dgps>
+<default>Spitta T (1993)  &lt;br /&gt;In:  Requirements Engineering ´93. Züllighoven H, Altmann W, Doberkat E-E (Eds); Berichte des German Chapter of the ACM, 41. Stuttgart: Teubner:  49-66.</default>
+<wels>Spitta, T. (1993): Sechs Jahre Anwendungsentwicklung mit Prototyping - Revision von Begriffen und Konzepten. In: Heinz Züllighoven; W. Altmann; E.-E. Doberkat (Hrsg.):  Requirements Engineering ´93. Stuttgart: Teubner. (Berichte des German Chapter of the ACM, 41).  S. 49-66.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780993</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-09-24T10:40:17Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-09-24T10:40:17Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780993</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780993</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

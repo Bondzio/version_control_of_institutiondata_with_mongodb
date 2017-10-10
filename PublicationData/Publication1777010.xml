@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Moral hazard</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Walter</namePart>
+  <namePart type="family">Trockel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">62508</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0001-9827-6424</description></name>
+
+
+
+<name type="personal"><namePart type="given">Friedrich</namePart><namePart type="family">Geigant</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für mathematische Wirtschaftsforschung</namePart>
+  <identifier type="unibi">10053</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT1374.pdf">https://pub.uni-bielefeld.de/download/1777010/2312301</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Verl. Moderne Industrie</publisher><dateIssued encoding="w3cdtf">1994</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+<subject><topic>Volkswirtschaftslehre</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Lexikon der Volkswirtschaft</title></titleInfo>
+  <identifier type="isbn">3-478-37056-6</identifier><identifier type="urn">urn:nbn:de:0070-bipr-13740</identifier>
+<part><extent unit="pages">609</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Trockel, W. (1994): Moral hazard. In: Friedrich Geigant (Hrsg.):  Lexikon der Volkswirtschaft. 6., neubearb. u. erw. Aufl. Landsberg am Lech: Verl. Moderne Industrie.</wels>
+<default>Trockel W (1994)  &lt;br /&gt;In:  Lexikon der Volkswirtschaft. Geigant F (Ed); 6., neubearb. u. erw. Aufl. Landsberg am Lech: Verl. Moderne Industrie.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Trockel, W. (1994). Moral hazard. &lt;em&gt;Lexikon der Volkswirtschaft&lt;/em&gt; (6., neubearb. u. erw. Aufl.). Landsberg am Lech: Verl. Moderne Industrie.&lt;/div&gt;</dgps>
+<ama>Trockel W. Moral hazard. In: Geigant F, ed. &lt;em&gt;Lexikon der Volkswirtschaft&lt;/em&gt;. 6., neubearb. u. erw. Aufl. Landsberg am Lech: Verl. Moderne Industrie;  1994.</ama>
+<harvard1>Trockel, W., 1994. Moral hazard. In F.  Geigant, ed. &lt;em&gt;Lexikon der Volkswirtschaft&lt;/em&gt;. 6., neubearb. u. erw. Aufl.  Landsberg am Lech: Verl. Moderne Industrie.</harvard1>
+<aps>W.  Trockel, Moral hazard, in &lt;em&gt;Lexikon der Volkswirtschaft&lt;/em&gt;, edited by F.  Geigant, 6., neubearb. u. erw. Aufl. (Verl. Moderne Industrie, Landsberg Am Lech, 1994).</aps>
+<bio1>Trockel W (1994) &lt;br /&gt;Moral hazard. &lt;br /&gt;In:  Lexikon der Volkswirtschaft. Geigant F (Ed); 6., neubearb. u. erw. Aufl. Landsberg am Lech: Verl. Moderne Industrie.</bio1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Trockel, Walter. 1994. “Moral hazard”. In &lt;em&gt;Lexikon der Volkswirtschaft&lt;/em&gt;, ed. Friedrich Geigant, 6., neubearb. u. erw. Aufl. Landsberg am Lech: Verl. Moderne Industrie.&lt;/div&gt;</chicago>
+<angewandte-chemie>W.  Trockel, in &lt;em&gt;Lexikon der Volkswirtschaft&lt;/em&gt; (Ed.: F. Geigant), Verl. Moderne Industrie, Landsberg am Lech, &lt;strong&gt;1994&lt;/strong&gt;.</angewandte-chemie>
+<apa>Trockel, W. (1994). Moral hazard. In F.  Geigant (Ed.), &lt;em&gt;Lexikon der Volkswirtschaft&lt;/em&gt; (6., neubearb. u. erw. Aufl.). Landsberg am Lech: Verl. Moderne Industrie.</apa>
+<frontiers>Trockel, W. (1994). “Moral hazard” in &lt;em&gt;Lexikon der Volkswirtschaft&lt;/em&gt;, ed. F.  Geigant 6., neubearb. u. erw. Aufl. (Landsberg am Lech: Verl. Moderne Industrie).</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Trockel, W. (1994). Moral hazard. In F.  Geigant (Ed.), &lt;em&gt;Lexikon der Volkswirtschaft&lt;/em&gt; (6., neubearb. u. erw. Aufl.). Landsberg am Lech: Verl. Moderne Industrie.&lt;/div&gt;</apa_indent>
+<ieee>W. Trockel, “Moral hazard”, &lt;em&gt;Lexikon der Volkswirtschaft&lt;/em&gt;, F. Geigant, ed., 6., neubearb. u. erw. Aufl.,  Landsberg am Lech: Verl. Moderne Industrie, 1994.</ieee>
+<mla>Trockel, Walter. “Moral hazard”. &lt;em&gt;Lexikon der Volkswirtschaft&lt;/em&gt;. Ed. Friedrich Geigant. 6., neubearb. u. erw. Aufl. Landsberg am Lech: Verl. Moderne Industrie, 1994.</mla>
+<lncs>Trockel, W.: Moral hazard. In: Geigant, F. (ed.) Lexikon der Volkswirtschaft. 6., neubearb. u. erw. Aufl.  Verl. Moderne Industrie, Landsberg am Lech (1994).</lncs>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1777010</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1777010</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1777010</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

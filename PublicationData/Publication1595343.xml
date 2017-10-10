@@ -1,0 +1,137 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>A chemically induced new pea (Pisum sativum) mutant SGECd(t) with increased tolerance to, and accumulation of, cadmium</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Viktor E.</namePart>
+  <namePart type="family">Tsyganov</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andrei A.</namePart>
+  <namePart type="family">Belimov</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alexey Y.</namePart>
+  <namePart type="family">Borisov</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Vera I.</namePart>
+  <namePart type="family">Safronova</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Manfred</namePart>
+  <namePart type="family">Georgi</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Karl-Josef</namePart>
+  <namePart type="family">Dietz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21935</identifier></name>
+<name type="personal">
+  <namePart type="given">Igor A.</namePart>
+  <namePart type="family">Tikhonovich</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070563</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2685177</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Background and Aims To date, there are no crop mutants described in the literature that display both Cd accumulation and tolerance. In the present study a unique pea (Pisum sativum) mutant SGECd(t) with increased Cd tolerance and accumulation was isolated and characterized. Methods Ethylmethane sulfonate mutagenesis of the pea line SGE was used to obtain the mutant. Screening for Cd-tolerant seedlings in the M-2 generation was performed using hydroponics in the presence of 6 mu(M) CdCl2. Hybridological analysis was used to identify the inheritance of the mutant phenotype. Several physiological and biochemical characteristics of SGECd(t) were studied in hydroponic experiments in the presence of 3 mu(M) CdCl2, and elemental analysis was conducted. Key Results The mutant SGECd(t) was characterized as having a monogenic inheritance and a recessive phenotype. It showed increased Cd concentrations in roots and shoots but no obvious morphological defects, demonstrating its capability to cope well with increased Cd levels in its tissues. The enhanced Cd accumulation in the mutant was accompanied by maintenance of homeostasis of shoot Ca, Mg, Zn and Mn contents, and root Ca and Mg contents. Through the application of La+3 and the exclusion of Ca from the nutrient solution, maintenance of nutrient homeostasis in Cd-stressed SGECd(t) was shown to contribute to the increased Cd tolerance. Control plants of the mutant (i.e. no Cd treatment) had elevated concentrations of glutathione (GSH) in the roots. Through measurements of chitinase and guaiacol-dependent peroxidase activities, as well as proline and non-protein thiol (NPT) levels. it was shown that there were lower levels of Cd stress both in roots and shoots of SGECd(t). Accumulation of phytochelatins [(PCcalculated) = (NPT) - (GSH)] could be excluded as a cause of the increased Cd tolerance in the mutant. Conclusions The SGECd(t) mutant represents a novel and unique model to study adaptation of plants to toxic heavy metal concentrations.</abstract>
+
+<originInfo><publisher>OXFORD UNIV PRESS</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>calcium</topic><topic>Pisum sativum</topic><topic>pea mutant</topic><topic>homeostasis</topic><topic>nutrient</topic><topic>heavy metals</topic><topic>cadmium tolerance</topic><topic>glutathione</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Annals of Botany</title></titleInfo>
+  <identifier type="issn">0305-7364</identifier>
+  <identifier type="eIssn">1095-8290</identifier>
+  <identifier type="MEDLINE">17259229</identifier>
+  <identifier type="ISI">000244566000003</identifier><identifier type="doi">10.1093/aob/mcl261</identifier>
+<part><detail type="volume"><number>99</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">227-237</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps> V. E.  Tsyganov, et al., A chemically induced new pea (Pisum sativum) mutant SGECd(t) with increased tolerance to, and accumulation of, cadmium, Annals of Botany &lt;strong&gt;99&lt;/strong&gt;, 227-237 (2007).</aps>
+<bio1>Tsyganov VE, Belimov AA, Borisov AY, Safronova VI, Georgi M, Dietz K-J, Tikhonovich IA (2007) &lt;br /&gt;A chemically induced new pea (Pisum sativum) mutant SGECd(t) with increased tolerance to, and accumulation of, cadmium.&lt;br /&gt;Annals of Botany 99(2): 227-237.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Tsyganov, V.E., Belimov, A.A., Borisov, A.Y., Safronova, V.I., Georgi, M., Dietz, K.-J. &amp;amp; Tikhonovich, I.A. (2007). A chemically induced new pea (Pisum sativum) mutant SGECd(t) with increased tolerance to, and accumulation of, cadmium. &lt;em&gt;Annals of Botany&lt;/em&gt;, &lt;em&gt;99&lt;/em&gt;(2), 227-237. OXFORD UNIV PRESS. doi:10.1093/aob/mcl261.&lt;/div&gt;</dgps>
+<ama>Tsyganov VE, Belimov AA, Borisov AY, et al. A chemically induced new pea (Pisum sativum) mutant SGECd(t) with increased tolerance to, and accumulation of, cadmium. &lt;em&gt;Annals of Botany&lt;/em&gt;. 2007;99(2):227-237.</ama>
+<harvard1>Tsyganov, V.E., et al., 2007. A chemically induced new pea (Pisum sativum) mutant SGECd(t) with increased tolerance to, and accumulation of, cadmium. &lt;em&gt;Annals of Botany&lt;/em&gt;, 99(2), p 227-237.</harvard1>
+<default>Tsyganov VE, Belimov AA, Borisov AY, Safronova VI, Georgi M, Dietz K-J, Tikhonovich IA (2007) &lt;br /&gt;Annals of Botany 99(2): 227-237.</default>
+<wels>Tsyganov, V. E.; Belimov, A. A.; Borisov, A. Y.; Safronova, V. I.; Georgi, M.; Dietz, K. - J.; Tikhonovich, I. A. (2007): A chemically induced new pea (Pisum sativum) mutant SGECd(t) with increased tolerance to, and accumulation of, cadmium &lt;em&gt;Annals of Botany&lt;/em&gt;,99:(2): 227-237.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Tsyganov, V. E., Belimov, A. A., Borisov, A. Y., Safronova, V. I., Georgi, M., Dietz, K. - J., &amp;amp; Tikhonovich, I. A. (2007). A chemically induced new pea (Pisum sativum) mutant SGECd(t) with increased tolerance to, and accumulation of, cadmium. &lt;em&gt;Annals of Botany&lt;/em&gt;, &lt;em&gt;99&lt;/em&gt;(2), 227-237.&lt;/div&gt;</apa_indent>
+<lncs> Tsyganov, V.E., Belimov, A.A., Borisov, A.Y., Safronova, V.I., Georgi, M., Dietz, K.-J., Tikhonovich, I.A.: A chemically induced new pea (Pisum sativum) mutant SGECd(t) with increased tolerance to, and accumulation of, cadmium. Annals of Botany. 99, 227-237 (2007).</lncs>
+<mla>Tsyganov, Viktor E., Belimov, Andrei A., Borisov, Alexey Y., Safronova, Vera I., Georgi, Manfred, Dietz, Karl-Josef, and Tikhonovich, Igor A. “A chemically induced new pea (Pisum sativum) mutant SGECd(t) with increased tolerance to, and accumulation of, cadmium”. &lt;em&gt;Annals of Botany&lt;/em&gt; 99.2 (2007): 227-237.</mla>
+<ieee> V.E. Tsyganov, et al., “A chemically induced new pea (Pisum sativum) mutant SGECd(t) with increased tolerance to, and accumulation of, cadmium”, &lt;em&gt;Annals of Botany&lt;/em&gt;,  vol. 99, 2007,  pp. 227-237.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Tsyganov, Viktor E., Belimov, Andrei A., Borisov, Alexey Y., Safronova, Vera I., Georgi, Manfred, Dietz, Karl-Josef, and Tikhonovich, Igor A. 2007. “A chemically induced new pea (Pisum sativum) mutant SGECd(t) with increased tolerance to, and accumulation of, cadmium”. &lt;em&gt;Annals of Botany&lt;/em&gt; 99 (2): 227-237.&lt;/div&gt;</chicago>
+<frontiers>Tsyganov, V. E., Belimov, A. A., Borisov, A. Y., Safronova, V. I., Georgi, M., Dietz, K. - J., and Tikhonovich, I. A. (2007). A chemically induced new pea (Pisum sativum) mutant SGECd(t) with increased tolerance to, and accumulation of, cadmium. &lt;em&gt;Annals of Botany&lt;/em&gt; 99, 227-237.</frontiers>
+<angewandte-chemie>V. E.  Tsyganov, A. A.  Belimov, A. Y.  Borisov, V. I.  Safronova, M.  Georgi, K. - J.  Dietz, and I. A.  Tikhonovich, “A chemically induced new pea (Pisum sativum) mutant SGECd(t) with increased tolerance to, and accumulation of, cadmium”, &lt;em&gt;Annals of Botany&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;99&lt;/em&gt;, 227-237.</angewandte-chemie>
+<apa>Tsyganov, V. E., Belimov, A. A., Borisov, A. Y., Safronova, V. I., Georgi, M., Dietz, K. - J., &amp;amp; Tikhonovich, I. A. (2007). A chemically induced new pea (Pisum sativum) mutant SGECd(t) with increased tolerance to, and accumulation of, cadmium. &lt;em&gt;Annals of Botany&lt;/em&gt;, &lt;em&gt;99&lt;/em&gt;(2), 227-237.</apa>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1595343</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:39Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-18T09:52:15Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1595343</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1595343</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

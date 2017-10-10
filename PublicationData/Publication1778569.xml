@@ -1,0 +1,110 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>A simian virus 40-encoded protein of M r 74,000 daltons is structurally related to the capsid proteins of the virus</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Bernd</namePart>
+  <namePart type="family">Krippl</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Brigitte</namePart>
+  <namePart type="family">Dreiseikelmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">22023</identifier></name>
+<name type="personal">
+  <namePart type="given">Hermann</namePart>
+  <namePart type="family">Werchau</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Gentechnologie/Mikrobiologie</namePart>
+  <identifier type="unibi">2685250</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We have demonstrated the synthesis of a 74,000-dalton protein (74K protein) in African green monkey kidney cells infected with simian virus (SV)40. The 74K protein was detected late during the lytic cycle. Its synthesis was inhibited by arabinosyl cytosine as was the synthesis of the capsid proteins. Monospecific antibodies raised against VP1 and VP3 precipitated the structural proteins and the 74K protein. The 74K protein was not found in purified virions. Tryptic peptide analysis demonstrated that the 74K protein shares methionine- and serine-containing peptides with VP1 and VP3 and thus is structurally related to the capsid proteins.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Dreiseikelmann_07.pdf">https://pub.uni-bielefeld.de/download/1778569/2312472</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1983</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>structural proteins</topic><topic>tryptic peptide analysis</topic><topic>immunoprecipitation</topic><topic>SV40</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Journal of Cellular Biochemistry</title></titleInfo>
+  <identifier type="issn">0730-2312</identifier>
+  <identifier type="eIssn">1097-4644</identifier>
+  <identifier type="MEDLINE">6323496</identifier>
+  <identifier type="ISI">A1983SD57400001</identifier><identifier type="urn">urn:nbn:de:0070-pub-17785692</identifier><identifier type="doi">10.1002/jcb.240220402</identifier>
+<part><detail type="volume"><number>22</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">197-207</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Krippl, B., Dreiseikelmann, B. &amp;amp; Werchau, H. (1983). A simian virus 40-encoded protein of M r 74,000 daltons is structurally related to the capsid proteins of the virus. &lt;em&gt;Journal of Cellular Biochemistry&lt;/em&gt;, &lt;em&gt;22&lt;/em&gt;(4), 197-207. doi:10.1002/jcb.240220402.&lt;/div&gt;</dgps>
+<ama>Krippl B, Dreiseikelmann B, Werchau H. A simian virus 40-encoded protein of M r 74,000 daltons is structurally related to the capsid proteins of the virus. &lt;em&gt;Journal of Cellular Biochemistry&lt;/em&gt;. 1983;22(4):197-207.</ama>
+<harvard1>Krippl, B., Dreiseikelmann, B., &amp;amp; Werchau, H., 1983. A simian virus 40-encoded protein of M r 74,000 daltons is structurally related to the capsid proteins of the virus. &lt;em&gt;Journal of Cellular Biochemistry&lt;/em&gt;, 22(4), p 197-207.</harvard1>
+<bio1>Krippl B, Dreiseikelmann B, Werchau H (1983) &lt;br /&gt;A simian virus 40-encoded protein of M r 74,000 daltons is structurally related to the capsid proteins of the virus.&lt;br /&gt;Journal of Cellular Biochemistry 22(4): 197-207.</bio1>
+<aps>B.  Krippl, B.  Dreiseikelmann, and H.  Werchau, A simian virus 40-encoded protein of M r 74,000 daltons is structurally related to the capsid proteins of the virus, Journal of Cellular Biochemistry &lt;strong&gt;22&lt;/strong&gt;, 197-207 (1983).</aps>
+<wels>Krippl, B.; Dreiseikelmann, B.; Werchau, H. (1983): A simian virus 40-encoded protein of M r 74,000 daltons is structurally related to the capsid proteins of the virus &lt;em&gt;Journal of Cellular Biochemistry&lt;/em&gt;,22:(4): 197-207.</wels>
+<default>Krippl B, Dreiseikelmann B, Werchau H (1983) &lt;br /&gt;Journal of Cellular Biochemistry 22(4): 197-207.</default>
+<ieee>B. Krippl, B. Dreiseikelmann, and H. Werchau, “A simian virus 40-encoded protein of M r 74,000 daltons is structurally related to the capsid proteins of the virus”, &lt;em&gt;Journal of Cellular Biochemistry&lt;/em&gt;,  vol. 22, 1983,  pp. 197-207.</ieee>
+<mla>Krippl, Bernd, Dreiseikelmann, Brigitte, and Werchau, Hermann. “A simian virus 40-encoded protein of M r 74,000 daltons is structurally related to the capsid proteins of the virus”. &lt;em&gt;Journal of Cellular Biochemistry&lt;/em&gt; 22.4 (1983): 197-207.</mla>
+<lncs>Krippl, B., Dreiseikelmann, B., Werchau, H.: A simian virus 40-encoded protein of M r 74,000 daltons is structurally related to the capsid proteins of the virus. Journal of Cellular Biochemistry. 22, 197-207 (1983).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Krippl, B., Dreiseikelmann, B., &amp;amp; Werchau, H. (1983). A simian virus 40-encoded protein of M r 74,000 daltons is structurally related to the capsid proteins of the virus. &lt;em&gt;Journal of Cellular Biochemistry&lt;/em&gt;, &lt;em&gt;22&lt;/em&gt;(4), 197-207.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>B.  Krippl, B.  Dreiseikelmann, and H.  Werchau, “A simian virus 40-encoded protein of M r 74,000 daltons is structurally related to the capsid proteins of the virus”, &lt;em&gt;Journal of Cellular Biochemistry&lt;/em&gt;, &lt;strong&gt;1983&lt;/strong&gt;, &lt;em&gt;22&lt;/em&gt;, 197-207.</angewandte-chemie>
+<apa>Krippl, B., Dreiseikelmann, B., &amp;amp; Werchau, H. (1983). A simian virus 40-encoded protein of M r 74,000 daltons is structurally related to the capsid proteins of the virus. &lt;em&gt;Journal of Cellular Biochemistry&lt;/em&gt;, &lt;em&gt;22&lt;/em&gt;(4), 197-207.</apa>
+<frontiers>Krippl, B., Dreiseikelmann, B., and Werchau, H. (1983). A simian virus 40-encoded protein of M r 74,000 daltons is structurally related to the capsid proteins of the virus. &lt;em&gt;Journal of Cellular Biochemistry&lt;/em&gt; 22, 197-207.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Krippl, Bernd, Dreiseikelmann, Brigitte, and Werchau, Hermann. 1983. “A simian virus 40-encoded protein of M r 74,000 daltons is structurally related to the capsid proteins of the virus”. &lt;em&gt;Journal of Cellular Biochemistry&lt;/em&gt; 22 (4): 197-207.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1778569</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1778569</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1778569</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

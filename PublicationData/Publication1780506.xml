@@ -1,0 +1,108 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>A recursive bound for the number of complete K-subgraphs of a graph</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Rudolf</namePart>
+  <namePart type="family">Ahlswede</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10479</identifier></name>
+<name type="personal">
+  <namePart type="given">Ning</namePart>
+  <namePart type="family">Cai</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Zhen</namePart>
+  <namePart type="family">Zhang</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Rainer</namePart><namePart type="family">Bodendiek</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Rudolf</namePart><namePart type="family">Henn</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Ahlswede_68.pdf">https://pub.uni-bielefeld.de/download/1780506/2312934</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Physica-Verl.</publisher><dateIssued encoding="w3cdtf">1990</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Topics in combinatorics and graph theory: essays in honour of Gerhard Ringel</title></titleInfo>
+  <identifier type="isbn">3-7908-0439-8</identifier><identifier type="urn">urn:nbn:de:0070-bipr-21211</identifier>
+<part><extent unit="pages">37-39</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<mla>Ahlswede, Rudolf, Cai, Ning, and Zhang, Zhen. “A recursive bound for the number of complete K-subgraphs of a graph”. &lt;em&gt;Topics in combinatorics and graph theory: essays in honour of Gerhard Ringel&lt;/em&gt;. Ed. Rainer Bodendiek and Rudolf Henn. Heidelberg: Physica-Verl., 1990. 37-39.</mla>
+<lncs>Ahlswede, R., Cai, N., Zhang, Z.: A recursive bound for the number of complete K-subgraphs of a graph. In: Bodendiek, R. and Henn, R. (eds.) Topics in combinatorics and graph theory: essays in honour of Gerhard Ringel. p. 37-39. Physica-Verl., Heidelberg (1990).</lncs>
+<ieee>R. Ahlswede, N. Cai, and Z. Zhang, “A recursive bound for the number of complete K-subgraphs of a graph”, &lt;em&gt;Topics in combinatorics and graph theory: essays in honour of Gerhard Ringel&lt;/em&gt;, R. Bodendiek and R. Henn, eds.,  Heidelberg: Physica-Verl., 1990,  pp.37-39.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R., Cai, N., &amp;amp; Zhang, Z. (1990). A recursive bound for the number of complete K-subgraphs of a graph. In R.  Bodendiek &amp;amp; R.  Henn (Eds.), &lt;em&gt;Topics in combinatorics and graph theory: essays in honour of Gerhard Ringel&lt;/em&gt; (pp. 37-39). Heidelberg: Physica-Verl.&lt;/div&gt;</apa_indent>
+<frontiers>Ahlswede, R., Cai, N., and Zhang, Z. (1990). “A recursive bound for the number of complete K-subgraphs of a graph” in &lt;em&gt;Topics in combinatorics and graph theory: essays in honour of Gerhard Ringel&lt;/em&gt;, ed. R.  Bodendiek and R.  Henn (Heidelberg: Physica-Verl.), 37-39.</frontiers>
+<angewandte-chemie>R.  Ahlswede, N.  Cai, and Z.  Zhang, in &lt;em&gt;Topics in combinatorics and graph theory: essays in honour of Gerhard Ringel&lt;/em&gt; (Eds.: R. Bodendiek, R. Henn), Physica-Verl., Heidelberg, &lt;strong&gt;1990&lt;/strong&gt;, p. 37-39.</angewandte-chemie>
+<apa>Ahlswede, R., Cai, N., &amp;amp; Zhang, Z. (1990). A recursive bound for the number of complete K-subgraphs of a graph. In R.  Bodendiek &amp;amp; R.  Henn (Eds.), &lt;em&gt;Topics in combinatorics and graph theory: essays in honour of Gerhard Ringel&lt;/em&gt; (pp. 37-39). Heidelberg: Physica-Verl.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, Rudolf, Cai, Ning, and Zhang, Zhen. 1990. “A recursive bound for the number of complete K-subgraphs of a graph”. In &lt;em&gt;Topics in combinatorics and graph theory: essays in honour of Gerhard Ringel&lt;/em&gt;, ed. Rainer Bodendiek and Rudolf Henn, 37-39. Heidelberg: Physica-Verl.&lt;/div&gt;</chicago>
+<bio1>Ahlswede R, Cai N, Zhang Z (1990) &lt;br /&gt;A recursive bound for the number of complete K-subgraphs of a graph. &lt;br /&gt;In:  Topics in combinatorics and graph theory: essays in honour of Gerhard Ringel. Bodendiek R, Henn R (Eds); Heidelberg: Physica-Verl.:  37-39.</bio1>
+<aps>R.  Ahlswede, N.  Cai, and Z.  Zhang, A recursive bound for the number of complete K-subgraphs of a graph, in &lt;em&gt;Topics in combinatorics and graph theory: essays in honour of Gerhard Ringel&lt;/em&gt;, edited by R.  Bodendiek and R.  Henn (Physica-Verl., Heidelberg, 1990), p. 37-39.</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R., Cai, N. &amp;amp; Zhang, Z. (1990). A recursive bound for the number of complete K-subgraphs of a graph. &lt;em&gt;Topics in combinatorics and graph theory: essays in honour of Gerhard Ringel&lt;/em&gt; (S. 37-39). Heidelberg: Physica-Verl.&lt;/div&gt;</dgps>
+<harvard1>Ahlswede, R., Cai, N., &amp;amp; Zhang, Z., 1990. A recursive bound for the number of complete K-subgraphs of a graph. In R.  Bodendiek &amp;amp; R.  Henn, eds. &lt;em&gt;Topics in combinatorics and graph theory: essays in honour of Gerhard Ringel&lt;/em&gt;.  Heidelberg: Physica-Verl., pp. 37-39.</harvard1>
+<ama>Ahlswede R, Cai N, Zhang Z. A recursive bound for the number of complete K-subgraphs of a graph. In: Bodendiek R, Henn R, eds. &lt;em&gt;Topics in combinatorics and graph theory: essays in honour of Gerhard Ringel&lt;/em&gt;. Heidelberg: Physica-Verl.;  1990: 37-39.</ama>
+<default>Ahlswede R, Cai N, Zhang Z (1990)  &lt;br /&gt;In:  Topics in combinatorics and graph theory: essays in honour of Gerhard Ringel. Bodendiek R, Henn R (Eds);Heidelberg: Physica-Verl.:  37-39.</default>
+<wels>Ahlswede, R.; Cai, N.; Zhang, Z. (1990): A recursive bound for the number of complete K-subgraphs of a graph. In: Rainer Bodendiek; Rudolf Henn (Hrsg.):  Topics in combinatorics and graph theory: essays in honour of Gerhard Ringel. Heidelberg: Physica-Verl.  S. 37-39.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780506</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780506</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780506</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

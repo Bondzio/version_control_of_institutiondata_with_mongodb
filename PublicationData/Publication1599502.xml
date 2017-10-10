@@ -1,0 +1,102 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Estimating the term structure of interest rates using penalized splines</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">T</namePart>
+  <namePart type="family">Krivobokova</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Göran</namePart>
+  <namePart type="family">Kauermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">91009</identifier></name>
+<name type="personal">
+  <namePart type="given">T</namePart>
+  <namePart type="family">Archontakis</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Wirtschaftswissenschaften</namePart>
+  <identifier type="unibi">10031</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We analyse the term structure of interest rates extracted from US Treasury STRIPS data. There is a potential interest from a scientific and economic point of view to look at short and long term bonds simultaneously. In terms of modelling this means to look at smooth functions over time describing the observed term structure. This is the approach pursued in this paper, where penalized spline fitting is employed as smoothing technique.. Smoothing is thereby carried out with the respect to both, calendar time and time left to maturity. While the first reveals long term trends, smoothing with respect to the time left to maturity can conceptionally be interpreted as interpolation. Since term structure models have implications for both, the time series and cross-section dimension of yields, estimation techniques involving both dimensions simultaneously are preferred over one-dimensional techniques. Numerical parsimony is applied to fit the large data set and smoothing parameter selection is pursued by building up parallels to linear mixed models.</abstract>
+
+<originInfo><publisher>SPRINGER</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>STATISTICAL PAPERS</title></titleInfo>
+  <identifier type="issn">0932-5026</identifier>
+  <identifier type="eIssn">1613-9798</identifier>
+  <identifier type="ISI">000237024200005</identifier><identifier type="doi">10.1007/s00362-006-0297-8</identifier>
+<part><detail type="volume"><number>47</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">443-459</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>Krivobokova T, Kauermann G, Archontakis T (2006) &lt;br /&gt;Estimating the term structure of interest rates using penalized splines.&lt;br /&gt;STATISTICAL PAPERS 47(3): 443-459.</bio1>
+<aps>T.  Krivobokova, G.  Kauermann, and T.  Archontakis, Estimating the term structure of interest rates using penalized splines, STATISTICAL PAPERS &lt;strong&gt;47&lt;/strong&gt;, 443-459 (2006).</aps>
+<harvard1>Krivobokova, T., Kauermann, G., &amp;amp; Archontakis, T., 2006. Estimating the term structure of interest rates using penalized splines. &lt;em&gt;STATISTICAL PAPERS&lt;/em&gt;, 47(3), p 443-459.</harvard1>
+<ama>Krivobokova T, Kauermann G, Archontakis T. Estimating the term structure of interest rates using penalized splines. &lt;em&gt;STATISTICAL PAPERS&lt;/em&gt;. 2006;47(3):443-459.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Krivobokova, T., Kauermann, G. &amp;amp; Archontakis, T. (2006). Estimating the term structure of interest rates using penalized splines. &lt;em&gt;STATISTICAL PAPERS&lt;/em&gt;, &lt;em&gt;47&lt;/em&gt;(3), 443-459. SPRINGER. doi:10.1007/s00362-006-0297-8.&lt;/div&gt;</dgps>
+<default>Krivobokova T, Kauermann G, Archontakis T (2006) &lt;br /&gt;STATISTICAL PAPERS 47(3): 443-459.</default>
+<wels>Krivobokova, T.; Kauermann, G.; Archontakis, T. (2006): Estimating the term structure of interest rates using penalized splines &lt;em&gt;STATISTICAL PAPERS&lt;/em&gt;,47:(3): 443-459.</wels>
+<mla>Krivobokova, T, Kauermann, Göran, and Archontakis, T. “Estimating the term structure of interest rates using penalized splines”. &lt;em&gt;STATISTICAL PAPERS&lt;/em&gt; 47.3 (2006): 443-459.</mla>
+<lncs>Krivobokova, T., Kauermann, G., Archontakis, T.: Estimating the term structure of interest rates using penalized splines. STATISTICAL PAPERS. 47, 443-459 (2006).</lncs>
+<ieee>T. Krivobokova, G. Kauermann, and T. Archontakis, “Estimating the term structure of interest rates using penalized splines”, &lt;em&gt;STATISTICAL PAPERS&lt;/em&gt;,  vol. 47, 2006,  pp. 443-459.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Krivobokova, T., Kauermann, G., &amp;amp; Archontakis, T. (2006). Estimating the term structure of interest rates using penalized splines. &lt;em&gt;STATISTICAL PAPERS&lt;/em&gt;, &lt;em&gt;47&lt;/em&gt;(3), 443-459.&lt;/div&gt;</apa_indent>
+<frontiers>Krivobokova, T., Kauermann, G., and Archontakis, T. (2006). Estimating the term structure of interest rates using penalized splines. &lt;em&gt;STATISTICAL PAPERS&lt;/em&gt; 47, 443-459.</frontiers>
+<angewandte-chemie>T.  Krivobokova, G.  Kauermann, and T.  Archontakis, “Estimating the term structure of interest rates using penalized splines”, &lt;em&gt;STATISTICAL PAPERS&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;47&lt;/em&gt;, 443-459.</angewandte-chemie>
+<apa>Krivobokova, T., Kauermann, G., &amp;amp; Archontakis, T. (2006). Estimating the term structure of interest rates using penalized splines. &lt;em&gt;STATISTICAL PAPERS&lt;/em&gt;, &lt;em&gt;47&lt;/em&gt;(3), 443-459.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Krivobokova, T, Kauermann, Göran, and Archontakis, T. 2006. “Estimating the term structure of interest rates using penalized splines”. &lt;em&gt;STATISTICAL PAPERS&lt;/em&gt; 47 (3): 443-459.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1599502</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:19:59Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-05T11:15:52Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1599502</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1599502</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

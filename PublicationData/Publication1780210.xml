@@ -1,0 +1,95 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Einschließungssätze für Eigenwerte nichtnormaler Matrizen</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ludwig</namePart>
+  <namePart type="family">Elsner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10509</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Elsner_003.pdf">https://pub.uni-bielefeld.de/download/1780210/2312784</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Birkhäuser</publisher><dateIssued encoding="w3cdtf">1967</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Funktionalanalysis, Approximationstheorie, numerische Mathematik : Vortragsauszüge der Tagung über Numerische Probleme in der Approximationstheorie vom 22. bis 25. Juni 1965...: Vortragsauszüge der Tagung über Numerische Probleme in der Approximationstheorie vom 22. bis 25. Juni 1965 und der Tagung über Funktionsalanalytische Methoden in der Numerischen Mathematik vom 15. bis 20. November 1965, Oberwolfach</title></titleInfo><identifier type="urn">urn:nbn:de:0070-bipr-19679</identifier>
+<part><extent unit="pages">185-193</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Elsner, L. (1967). Einschließungssätze für Eigenwerte nichtnormaler Matrizen. &lt;em&gt;Funktionalanalysis, Approximationstheorie, numerische Mathematik : Vortragsauszüge der Tagung über Numerische Probleme in der Approximationstheorie vom 22. bis 25. Juni 1965..: Vortragsauszüge der Tagung über Numerische Probleme in der Approximationstheorie vom 22. bis 25. Juni 1965 und der Tagung über Funktionsalanalytische Methoden in der Numerischen Mathematik vom 15. bis 20. November 1965, Oberwolfach&lt;/em&gt;, 185-193.&lt;/div&gt;</apa_indent>
+<ieee>L. Elsner, “Einschließungssätze für Eigenwerte nichtnormaler Matrizen”, &lt;em&gt;Funktionalanalysis, Approximationstheorie, numerische Mathematik : Vortragsauszüge der Tagung über Numerische Probleme in der Approximationstheorie vom 22. bis 25. Juni 1965..: Vortragsauszüge der Tagung über Numerische Probleme in der Approximationstheorie vom 22. bis 25. Juni 1965 und der Tagung über Funktionsalanalytische Methoden in der Numerischen Mathematik vom 15. bis 20. November 1965, Oberwolfach&lt;/em&gt;, Internationale Schriftenreihe Numerische Mathematik = International series of numerical mathematics ; 7,  Basel: Birkhäuser, 1967,  pp.185-193.</ieee>
+<mla>Elsner, Ludwig. “Einschließungssätze für Eigenwerte nichtnormaler Matrizen”. &lt;em&gt;Funktionalanalysis, Approximationstheorie, numerische Mathematik : Vortragsauszüge der Tagung über Numerische Probleme in der Approximationstheorie vom 22. bis 25. Juni 1965..: Vortragsauszüge der Tagung über Numerische Probleme in der Approximationstheorie vom 22. bis 25. Juni 1965 und der Tagung über Funktionsalanalytische Methoden in der Numerischen Mathematik vom 15. bis 20. November 1965, Oberwolfach&lt;/em&gt;. Basel: Birkhäuser, 1967. Internationale Schriftenreihe Numerische Mathematik = International series of numerical mathematics ; 7. 185-193.</mla>
+<lncs>Elsner, L.: Einschließungssätze für Eigenwerte nichtnormaler Matrizen. Funktionalanalysis, Approximationstheorie, numerische Mathematik : Vortragsauszüge der Tagung über Numerische Probleme in der Approximationstheorie vom 22. bis 25. Juni 1965..: Vortragsauszüge der Tagung über Numerische Probleme in der Approximationstheorie vom 22. bis 25. Juni 1965 und der Tagung über Funktionsalanalytische Methoden in der Numerischen Mathematik vom 15. bis 20. November 1965, Oberwolfach. Internationale Schriftenreihe Numerische Mathematik = International series of numerical mathematics ; 7. p. 185-193. Birkhäuser, Basel (1967).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Elsner, Ludwig. 1967. “Einschließungssätze für Eigenwerte nichtnormaler Matrizen”. In &lt;em&gt;Funktionalanalysis, Approximationstheorie, numerische Mathematik : Vortragsauszüge der Tagung über Numerische Probleme in der Approximationstheorie vom 22. bis 25. Juni 1965..: Vortragsauszüge der Tagung über Numerische Probleme in der Approximationstheorie vom 22. bis 25. Juni 1965 und der Tagung über Funktionsalanalytische Methoden in der Numerischen Mathematik vom 15. bis 20. November 1965, Oberwolfach&lt;/em&gt;, 185-193. Internationale Schriftenreihe Numerische Mathematik = International series of numerical mathematics ; 7. Basel: Birkhäuser.&lt;/div&gt;</chicago>
+<angewandte-chemie>L.  Elsner, in &lt;em&gt;Funktionalanalysis, Approximationstheorie, numerische Mathematik : Vortragsauszüge der Tagung über Numerische Probleme in der Approximationstheorie vom 22. bis 25. Juni 1965..: Vortragsauszüge der Tagung über Numerische Probleme in der Approximationstheorie vom 22. bis 25. Juni 1965 und der Tagung über Funktionsalanalytische Methoden in der Numerischen Mathematik vom 15. bis 20. November 1965, Oberwolfach&lt;/em&gt;, Birkhäuser, Basel, &lt;strong&gt;1967&lt;/strong&gt;, p. 185-193.</angewandte-chemie>
+<apa>Elsner, L. (1967). Einschließungssätze für Eigenwerte nichtnormaler Matrizen. &lt;em&gt;Funktionalanalysis, Approximationstheorie, numerische Mathematik : Vortragsauszüge der Tagung über Numerische Probleme in der Approximationstheorie vom 22. bis 25. Juni 1965..: Vortragsauszüge der Tagung über Numerische Probleme in der Approximationstheorie vom 22. bis 25. Juni 1965 und der Tagung über Funktionsalanalytische Methoden in der Numerischen Mathematik vom 15. bis 20. November 1965, Oberwolfach&lt;/em&gt;, 185-193.</apa>
+<frontiers>Elsner, L. (1967). “Einschließungssätze für Eigenwerte nichtnormaler Matrizen” in &lt;em&gt;Funktionalanalysis, Approximationstheorie, numerische Mathematik : Vortragsauszüge der Tagung über Numerische Probleme in der Approximationstheorie vom 22. bis 25. Juni 1965..: Vortragsauszüge der Tagung über Numerische Probleme in der Approximationstheorie vom 22. bis 25. Juni 1965 und der Tagung über Funktionsalanalytische Methoden in der Numerischen Mathematik vom 15. bis 20. November 1965, Oberwolfach&lt;/em&gt; Internationale Schriftenreihe Numerische Mathematik = International series of numerical mathematics ; 7 (Basel: Birkhäuser), 185-193.</frontiers>
+<harvard1>Elsner, L., 1967. Einschließungssätze für Eigenwerte nichtnormaler Matrizen. In &lt;em&gt;Funktionalanalysis, Approximationstheorie, numerische Mathematik : Vortragsauszüge der Tagung über Numerische Probleme in der Approximationstheorie vom 22. bis 25. Juni 1965..: Vortragsauszüge der Tagung über Numerische Probleme in der Approximationstheorie vom 22. bis 25. Juni 1965 und der Tagung über Funktionsalanalytische Methoden in der Numerischen Mathematik vom 15. bis 20. November 1965, Oberwolfach&lt;/em&gt;. Internationale Schriftenreihe Numerische Mathematik = International series of numerical mathematics ; 7.  Basel: Birkhäuser, pp. 185-193.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Elsner, L. (1967). Einschließungssätze für Eigenwerte nichtnormaler Matrizen (Internationale Schriftenreihe Numerische Mathematik = International series of numerical mathematics ; 7). &lt;em&gt;Funktionalanalysis, Approximationstheorie, numerische Mathematik : Vortragsauszüge der Tagung über Numerische Probleme in der Approximationstheorie vom 22. bis 25. Juni 1965..: Vortragsauszüge der Tagung über Numerische Probleme in der Approximationstheorie vom 22. bis 25. Juni 1965 und der Tagung über Funktionsalanalytische Methoden in der Numerischen Mathematik vom 15. bis 20. November 1965, Oberwolfach&lt;/em&gt; (S. 185-193). Basel: Birkhäuser.&lt;/div&gt;</dgps>
+<ama>Elsner L. Einschließungssätze für Eigenwerte nichtnormaler Matrizen. In:  &lt;em&gt;Funktionalanalysis, Approximationstheorie, numerische Mathematik : Vortragsauszüge der Tagung über Numerische Probleme in der Approximationstheorie vom 22. bis 25. Juni 1965..: Vortragsauszüge der Tagung über Numerische Probleme in der Approximationstheorie vom 22. bis 25. Juni 1965 und der Tagung über Funktionsalanalytische Methoden in der Numerischen Mathematik vom 15. bis 20. November 1965, Oberwolfach&lt;/em&gt;. Internationale Schriftenreihe Numerische Mathematik = International series of numerical mathematics ; 7. Basel: Birkhäuser;  1967: 185-193.</ama>
+<aps>L.  Elsner, Einschließungssätze für Eigenwerte nichtnormaler Matrizen, in &lt;em&gt;Funktionalanalysis, Approximationstheorie, numerische Mathematik : Vortragsauszüge der Tagung über Numerische Probleme in der Approximationstheorie vom 22. bis 25. Juni 1965..: Vortragsauszüge der Tagung über Numerische Probleme in der Approximationstheorie vom 22. bis 25. Juni 1965 und der Tagung über Funktionsalanalytische Methoden in der Numerischen Mathematik vom 15. bis 20. November 1965, Oberwolfach&lt;/em&gt;, Internationale Schriftenreihe Numerische Mathematik = International series of numerical mathematics ; 7 (Birkhäuser, Basel, 1967), p. 185-193.</aps>
+<bio1>Elsner L (1967) &lt;br /&gt;Einschließungssätze für Eigenwerte nichtnormaler Matrizen. &lt;br /&gt;In:  Funktionalanalysis, Approximationstheorie, numerische Mathematik : Vortragsauszüge der Tagung über Numerische Probleme in der Approximationstheorie vom 22. bis 25. Juni 1965..: Vortragsauszüge der Tagung über Numerische Probleme in der Approximationstheorie vom 22. bis 25. Juni 1965 und der Tagung über Funktionsalanalytische Methoden in der Numerischen Mathematik vom 15. bis 20. November 1965, Oberwolfach.  Internationale Schriftenreihe Numerische Mathematik = International series of numerical mathematics ; 7,  Basel: Birkhäuser:  185-193.</bio1>
+<wels>Elsner, L. (1967): Einschließungssätze für Eigenwerte nichtnormaler Matrizen. In: Funktionalanalysis, Approximationstheorie, numerische Mathematik : Vortragsauszüge der Tagung über Numerische Probleme in der Approximationstheorie vom 22. bis 25. Juni 1965..: Vortragsauszüge der Tagung über Numerische Probleme in der Approximationstheorie vom 22. bis 25. Juni 1965 und der Tagung über Funktionsalanalytische Methoden in der Numerischen Mathematik vom 15. bis 20. November 1965, Oberwolfach. Basel: Birkhäuser. (Internationale Schriftenreihe Numerische Mathematik = International series of numerical mathematics ; 7, ).  S. 185-193.</wels>
+<default>Elsner L (1967)  &lt;br /&gt;In:  Funktionalanalysis, Approximationstheorie, numerische Mathematik : Vortragsauszüge der Tagung über Numerische Probleme in der Approximationstheorie vom 22. bis 25. Juni 1965..: Vortragsauszüge der Tagung über Numerische Probleme in der Approximationstheorie vom 22. bis 25. Juni 1965 und der Tagung über Funktionsalanalytische Methoden in der Numerischen Mathematik vom 15. bis 20. November 1965, Oberwolfach.  Internationale Schriftenreihe Numerische Mathematik = International series of numerical mathematics ; 7, . Basel: Birkhäuser:  185-193.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780210</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780210</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780210</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,114 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Literatur und Geschichte, Ökologie und Kultur</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Wolfgang</namePart>
+  <namePart type="family">Braungart</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11652</identifier></name>
+<name type="personal">
+  <namePart type="given">Walter</namePart>
+  <namePart type="family">Traunspurger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21944</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Lothar</namePart><namePart type="family">van Laak</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Katja</namePart><namePart type="family">Malsch</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">4961697</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2685511</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10222814</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Synchron, Wiss.-Verl. der Autoren</publisher><dateIssued encoding="w3cdtf">2010</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Literaturwissenschaft interdisziplinär</title></titleInfo>
+  <identifier type="isbn">978-3-939381-33-4</identifier>
+<part><extent unit="pages">35-56</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Braungart W, Traunspurger W (2010)  &lt;br /&gt;In:  Literaturwissenschaft interdisziplinär. van Laak L, Malsch K (Eds);Heidelberg: Synchron, Wiss.-Verl. der Autoren:  35-56.</default>
+<wels>Braungart, W.; Traunspurger, W. (2010): Literatur und Geschichte, Ökologie und Kultur. In: Lothar van Laak; Katja Malsch (Hrsg.):  Literaturwissenschaft interdisziplinär. Heidelberg: Synchron, Wiss.-Verl. der Autoren.  S. 35-56.</wels>
+<bio1>Braungart W, Traunspurger W (2010) &lt;br /&gt;Literatur und Geschichte, Ökologie und Kultur. &lt;br /&gt;In:  Literaturwissenschaft interdisziplinär. van Laak L, Malsch K (Eds); Heidelberg: Synchron, Wiss.-Verl. der Autoren:  35-56.</bio1>
+<aps>W.  Braungart and W.  Traunspurger, Literatur und Geschichte, Ökologie und Kultur, in &lt;em&gt;Literaturwissenschaft interdisziplinär&lt;/em&gt;, edited by L.  van Laak and K.  Malsch (Synchron, Wiss.-Verl. der Autoren, Heidelberg, 2010), p. 35-56.</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Braungart, W. &amp;amp; Traunspurger, W. (2010). Literatur und Geschichte, Ökologie und Kultur. &lt;em&gt;Literaturwissenschaft interdisziplinär&lt;/em&gt; (S. 35-56). Heidelberg: Synchron, Wiss.-Verl. der Autoren.&lt;/div&gt;</dgps>
+<harvard1>Braungart, W., &amp;amp; Traunspurger, W., 2010. Literatur und Geschichte, Ökologie und Kultur. In L.  van Laak &amp;amp; K.  Malsch, eds. &lt;em&gt;Literaturwissenschaft interdisziplinär&lt;/em&gt;.  Heidelberg: Synchron, Wiss.-Verl. der Autoren, pp. 35-56.</harvard1>
+<ama>Braungart W, Traunspurger W. Literatur und Geschichte, Ökologie und Kultur. In: van Laak L, Malsch K, eds. &lt;em&gt;Literaturwissenschaft interdisziplinär&lt;/em&gt;. Heidelberg: Synchron, Wiss.-Verl. der Autoren;  2010: 35-56.</ama>
+<frontiers>Braungart, W., and Traunspurger, W. (2010). “Literatur und Geschichte, Ökologie und Kultur” in &lt;em&gt;Literaturwissenschaft interdisziplinär&lt;/em&gt;, ed. L.  van Laak and K.  Malsch (Heidelberg: Synchron, Wiss.-Verl. der Autoren), 35-56.</frontiers>
+<angewandte-chemie>W.  Braungart, and W.  Traunspurger, in &lt;em&gt;Literaturwissenschaft interdisziplinär&lt;/em&gt; (Eds.: L. van Laak, K. Malsch), Synchron, Wiss.-Verl. Der Autoren, Heidelberg, &lt;strong&gt;2010&lt;/strong&gt;, p. 35-56.</angewandte-chemie>
+<apa>Braungart, W., &amp;amp; Traunspurger, W. (2010). Literatur und Geschichte, Ökologie und Kultur. In L.  van Laak &amp;amp; K.  Malsch (Eds.), &lt;em&gt;Literaturwissenschaft interdisziplinär&lt;/em&gt; (pp. 35-56). Heidelberg: Synchron, Wiss.-Verl. der Autoren.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Braungart, Wolfgang, and Traunspurger, Walter. 2010. “Literatur und Geschichte, Ökologie und Kultur”. In &lt;em&gt;Literaturwissenschaft interdisziplinär&lt;/em&gt;, ed. Lothar van Laak and Katja Malsch, 35-56. Heidelberg: Synchron, Wiss.-Verl. der Autoren.&lt;/div&gt;</chicago>
+<mla>Braungart, Wolfgang, and Traunspurger, Walter. “Literatur und Geschichte, Ökologie und Kultur”. &lt;em&gt;Literaturwissenschaft interdisziplinär&lt;/em&gt;. Ed. Lothar van Laak and Katja Malsch. Heidelberg: Synchron, Wiss.-Verl. der Autoren, 2010. 35-56.</mla>
+<lncs>Braungart, W., Traunspurger, W.: Literatur und Geschichte, Ökologie und Kultur. In: van Laak, L. and Malsch, K. (eds.) Literaturwissenschaft interdisziplinär. p. 35-56. Synchron, Wiss.-Verl. der Autoren, Heidelberg (2010).</lncs>
+<ieee>W. Braungart and W. Traunspurger, “Literatur und Geschichte, Ökologie und Kultur”, &lt;em&gt;Literaturwissenschaft interdisziplinär&lt;/em&gt;, L. van Laak and K. Malsch, eds.,  Heidelberg: Synchron, Wiss.-Verl. der Autoren, 2010,  pp.35-56.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Braungart, W., &amp;amp; Traunspurger, W. (2010). Literatur und Geschichte, Ökologie und Kultur. In L.  van Laak &amp;amp; K.  Malsch (Eds.), &lt;em&gt;Literaturwissenschaft interdisziplinär&lt;/em&gt; (pp. 35-56). Heidelberg: Synchron, Wiss.-Verl. der Autoren.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1918751</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-11-22T15:41:33Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-03-23T06:52:58Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1918751</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1918751</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

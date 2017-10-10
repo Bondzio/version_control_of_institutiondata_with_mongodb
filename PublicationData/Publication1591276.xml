@@ -1,0 +1,131 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Analytic coherent control of plasmon propagation in nanostructures</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Philip</namePart>
+  <namePart type="family">Tuchscherer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">Rewitz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Dmitri V.</namePart>
+  <namePart type="family">Voronine</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">F.</namePart>
+  <namePart type="family">Javier Garcia de Abajo</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Walter</namePart>
+  <namePart type="family">Pfeiffer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">182166</identifier></name>
+<name type="personal">
+  <namePart type="given">Tobias</namePart>
+  <namePart type="family">Brixner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Biophysik und Nanowissenschaften</namePart>
+  <identifier type="unibi">2161137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Lehrstuhl für Molekül- und Oberflächenphysik</namePart>
+  <identifier type="unibi">29133467</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  W. Pfeiffer</namePart>
+  <identifier type="unibi">33079586</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We present general analytic solutions for optical coherent control of electromagnetic energy propagation in plasmonic nanostructures. Propagating modes are excited with tightly focused ultrashort laser pulses that are shaped in amplitude, phase, and polarization (ellipticity and orientation angle). We decouple the interplay between two main mechanisms which are essential for the control of local near-fields. First, the amplitudes and the phase difference of two laser pulse polarization components are used to guide linear flux to a desired spatial position. Second, temporal compression of the near-field at the target location is achieved using the remaining free laser pulse parameter to flatten the local spectral phase. The resulting enhancement of nonlinear signals from this intuitive analytic two-step process is compared to and confirmed by the results of an iterative adaptive learning loop in which an evolutionary algorithm performs a global optimization. Thus, we gain detailed insight into why a certain complex laser pulse shape leads to a particular control target. This analytic approach may also be useful in a number of other coherent control scenarios. (C) 2009 Optical Society of America</abstract>
+
+<originInfo><publisher>Optical Society of America (OSA)</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>OPTICS EXPRESS</title></titleInfo>
+  <identifier type="issn">1094-4087</identifier>
+  <identifier type="eIssn">1094-4087</identifier>
+  <identifier type="MEDLINE">19654834</identifier>
+  <identifier type="ISI">000268843700103</identifier><identifier type="doi">10.1364/OE.17.014235</identifier>
+<part><detail type="volume"><number>17</number></detail><detail type="issue"><number>16</number></detail><extent unit="pages">14235-14259</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>P. Tuchscherer, et al., “Analytic coherent control of plasmon propagation in nanostructures”, &lt;em&gt;OPTICS EXPRESS&lt;/em&gt;,  vol. 17, 2009,  pp. 14235-14259.</ieee>
+<lncs>Tuchscherer, P., Rewitz, C., Voronine, D.V., Javier Garcia de Abajo, F., Pfeiffer, W., Brixner, T.: Analytic coherent control of plasmon propagation in nanostructures. OPTICS EXPRESS. 17, 14235-14259 (2009).</lncs>
+<mla>Tuchscherer, Philip, Rewitz, Christian, Voronine, Dmitri V., Javier Garcia de Abajo, F., Pfeiffer, Walter, and Brixner, Tobias. “Analytic coherent control of plasmon propagation in nanostructures”. &lt;em&gt;OPTICS EXPRESS&lt;/em&gt; 17.16 (2009): 14235-14259.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Tuchscherer, P., Rewitz, C., Voronine, D. V., Javier Garcia de Abajo, F., Pfeiffer, W., &amp;amp; Brixner, T. (2009). Analytic coherent control of plasmon propagation in nanostructures. &lt;em&gt;OPTICS EXPRESS&lt;/em&gt;, &lt;em&gt;17&lt;/em&gt;(16), 14235-14259.&lt;/div&gt;</apa_indent>
+<apa>Tuchscherer, P., Rewitz, C., Voronine, D. V., Javier Garcia de Abajo, F., Pfeiffer, W., &amp;amp; Brixner, T. (2009). Analytic coherent control of plasmon propagation in nanostructures. &lt;em&gt;OPTICS EXPRESS&lt;/em&gt;, &lt;em&gt;17&lt;/em&gt;(16), 14235-14259.</apa>
+<angewandte-chemie>P.  Tuchscherer, C.  Rewitz, D. V.  Voronine, F.  Javier Garcia de Abajo, W.  Pfeiffer, and T.  Brixner, “Analytic coherent control of plasmon propagation in nanostructures”, &lt;em&gt;OPTICS EXPRESS&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;17&lt;/em&gt;, 14235-14259.</angewandte-chemie>
+<frontiers>Tuchscherer, P., Rewitz, C., Voronine, D. V., Javier Garcia de Abajo, F., Pfeiffer, W., and Brixner, T. (2009). Analytic coherent control of plasmon propagation in nanostructures. &lt;em&gt;OPTICS EXPRESS&lt;/em&gt; 17, 14235-14259.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Tuchscherer, Philip, Rewitz, Christian, Voronine, Dmitri V., Javier Garcia de Abajo, F., Pfeiffer, Walter, and Brixner, Tobias. 2009. “Analytic coherent control of plasmon propagation in nanostructures”. &lt;em&gt;OPTICS EXPRESS&lt;/em&gt; 17 (16): 14235-14259.&lt;/div&gt;</chicago>
+<harvard1>Tuchscherer, P., et al., 2009. Analytic coherent control of plasmon propagation in nanostructures. &lt;em&gt;OPTICS EXPRESS&lt;/em&gt;, 17(16), p 14235-14259.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Tuchscherer, P., Rewitz, C., Voronine, D.V., Javier Garcia de Abajo, F., Pfeiffer, W. &amp;amp; Brixner, T. (2009). Analytic coherent control of plasmon propagation in nanostructures. &lt;em&gt;OPTICS EXPRESS&lt;/em&gt;, &lt;em&gt;17&lt;/em&gt;(16), 14235-14259. Optical Society of America (OSA). doi:10.1364/OE.17.014235.&lt;/div&gt;</dgps>
+<ama>Tuchscherer P, Rewitz C, Voronine DV, Javier Garcia de Abajo F, Pfeiffer W, Brixner T. Analytic coherent control of plasmon propagation in nanostructures. &lt;em&gt;OPTICS EXPRESS&lt;/em&gt;. 2009;17(16):14235-14259.</ama>
+<aps>P.  Tuchscherer, et al., Analytic coherent control of plasmon propagation in nanostructures, OPTICS EXPRESS &lt;strong&gt;17&lt;/strong&gt;, 14235-14259 (2009).</aps>
+<bio1>Tuchscherer P, Rewitz C, Voronine DV, Javier Garcia de Abajo F, Pfeiffer W, Brixner T (2009) &lt;br /&gt;Analytic coherent control of plasmon propagation in nanostructures.&lt;br /&gt;OPTICS EXPRESS 17(16): 14235-14259.</bio1>
+<wels>Tuchscherer, P.; Rewitz, C.; Voronine, D. V.; Javier Garcia de Abajo, F.; Pfeiffer, W.; Brixner, T. (2009): Analytic coherent control of plasmon propagation in nanostructures &lt;em&gt;OPTICS EXPRESS&lt;/em&gt;,17:(16): 14235-14259.</wels>
+<default>Tuchscherer P, Rewitz C, Voronine DV, Javier Garcia de Abajo F, Pfeiffer W, Brixner T (2009) &lt;br /&gt;OPTICS EXPRESS 17(16): 14235-14259.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1591276</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-26T09:45:44Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-10T12:28:15Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1591276</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1591276</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

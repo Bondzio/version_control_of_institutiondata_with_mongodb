@@ -1,0 +1,94 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Neutralität humanitärer NGOs in Kriegs- und Nachkriegssituationen. Ein frommer Wunsch?</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Jeanette</namePart>
+  <namePart type="family">Schade</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">6630212</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Ansgar</namePart><namePart type="family">Klein</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Silke</namePart><namePart type="family">Roth</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10030</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>VS-Verlag</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>NGOs im Spannungsfeld von Krisenprävention und Sicherheitspolitik</title></titleInfo>
+  <identifier type="isbn">978-3-531-15516-6</identifier>
+<part><detail type="volume"><number>25</number></detail><extent unit="pages">179-191</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Schade J. Neutralität humanitärer NGOs in Kriegs- und Nachkriegssituationen. Ein frommer Wunsch? In: Klein A, Roth S, eds. &lt;em&gt;NGOs im Spannungsfeld von Krisenprävention und Sicherheitspolitik&lt;/em&gt;. Bürgergesellschaft und Demokratie. Vol 25. Wiesbaden: VS-Verlag;  2007: 179-191.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schade, J. (2007). Neutralität humanitärer NGOs in Kriegs- und Nachkriegssituationen. Ein frommer Wunsch? (Bürgergesellschaft und Demokratie). &lt;em&gt;NGOs im Spannungsfeld von Krisenprävention und Sicherheitspolitik&lt;/em&gt; (S. 179-191). Wiesbaden: VS-Verlag.&lt;/div&gt;</dgps>
+<harvard1>Schade, J., 2007. Neutralität humanitärer NGOs in Kriegs- und Nachkriegssituationen. Ein frommer Wunsch? In A.  Klein &amp;amp; S.  Roth, eds. &lt;em&gt;NGOs im Spannungsfeld von Krisenprävention und Sicherheitspolitik&lt;/em&gt;. Bürgergesellschaft und Demokratie. no.25  Wiesbaden: VS-Verlag, pp. 179-191.</harvard1>
+<aps> J.  Schade, Neutralität humanitärer NGOs in Kriegs- und Nachkriegssituationen. Ein frommer Wunsch?, in &lt;em&gt;NGOs im Spannungsfeld von Krisenprävention und Sicherheitspolitik&lt;/em&gt;, edited by A.  Klein and S.  Roth, Bürgergesellschaft und Demokratie, &lt;strong&gt;25&lt;/strong&gt; (VS-Verlag, Wiesbaden, 2007), p. 179-191.</aps>
+<bio1>Schade J (2007) &lt;br /&gt;Neutralität humanitärer NGOs in Kriegs- und Nachkriegssituationen. Ein frommer Wunsch? &lt;br /&gt;In:  NGOs im Spannungsfeld von Krisenprävention und Sicherheitspolitik. Klein A, Roth S (Eds); Bürgergesellschaft und Demokratie, 25. Wiesbaden: VS-Verlag:  179-191.</bio1>
+<wels>Schade, J. (2007): Neutralität humanitärer NGOs in Kriegs- und Nachkriegssituationen. Ein frommer Wunsch? In: Ansgar Klein; Silke Roth (Hrsg.):  NGOs im Spannungsfeld von Krisenprävention und Sicherheitspolitik. Wiesbaden: VS-Verlag. (Bürgergesellschaft und Demokratie, 25).  S. 179-191.</wels>
+<default>Schade J (2007)  &lt;br /&gt;In:  NGOs im Spannungsfeld von Krisenprävention und Sicherheitspolitik. Klein A, Roth S (Eds); Bürgergesellschaft und Demokratie, 25. Wiesbaden: VS-Verlag:  179-191.</default>
+<ieee> J. Schade, “Neutralität humanitärer NGOs in Kriegs- und Nachkriegssituationen. Ein frommer Wunsch?”, &lt;em&gt;NGOs im Spannungsfeld von Krisenprävention und Sicherheitspolitik&lt;/em&gt;, A. Klein and S. Roth, eds., Bürgergesellschaft und Demokratie, vol. 25,  Wiesbaden: VS-Verlag, 2007,  pp.179-191.</ieee>
+<lncs> Schade, J.: Neutralität humanitärer NGOs in Kriegs- und Nachkriegssituationen. Ein frommer Wunsch? In: Klein, A. and Roth, S. (eds.) NGOs im Spannungsfeld von Krisenprävention und Sicherheitspolitik. Bürgergesellschaft und Demokratie. 25, p. 179-191. VS-Verlag, Wiesbaden (2007).</lncs>
+<mla>Schade, Jeanette. “Neutralität humanitärer NGOs in Kriegs- und Nachkriegssituationen. Ein frommer Wunsch?”. &lt;em&gt;NGOs im Spannungsfeld von Krisenprävention und Sicherheitspolitik&lt;/em&gt;. Ed. Ansgar Klein and Silke Roth. Wiesbaden: VS-Verlag, 2007.Vol. 25. Bürgergesellschaft und Demokratie. 179-191.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schade, J. (2007). Neutralität humanitärer NGOs in Kriegs- und Nachkriegssituationen. Ein frommer Wunsch? In A.  Klein &amp;amp; S.  Roth (Eds.), &lt;em&gt;Bürgergesellschaft und Demokratie: Vol. 25&lt;/em&gt;&lt;em&gt;. NGOs im Spannungsfeld von Krisenprävention und Sicherheitspolitik&lt;/em&gt; (pp. 179-191). Wiesbaden: VS-Verlag.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>J.  Schade, in &lt;em&gt;NGOs im Spannungsfeld von Krisenprävention und Sicherheitspolitik&lt;/em&gt; (Eds.: A. Klein, S. Roth), Vs-Verlag, Wiesbaden, &lt;strong&gt;2007&lt;/strong&gt;, p. 179-191.</angewandte-chemie>
+<apa>Schade, J. (2007). Neutralität humanitärer NGOs in Kriegs- und Nachkriegssituationen. Ein frommer Wunsch? In A.  Klein &amp;amp; S.  Roth (Eds.), &lt;em&gt;Bürgergesellschaft und Demokratie: Vol. 25&lt;/em&gt;&lt;em&gt;. NGOs im Spannungsfeld von Krisenprävention und Sicherheitspolitik&lt;/em&gt; (pp. 179-191). Wiesbaden: VS-Verlag.</apa>
+<frontiers>Schade, J. (2007). “Neutralität humanitärer NGOs in Kriegs- und Nachkriegssituationen. Ein frommer Wunsch?” in &lt;em&gt;NGOs im Spannungsfeld von Krisenprävention und Sicherheitspolitik&lt;/em&gt;, Klein, A., and Roth, S. eds. Bürgergesellschaft und Demokratie, vol. 25, (Wiesbaden: VS-Verlag), 179-191.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schade, Jeanette. 2007. “Neutralität humanitärer NGOs in Kriegs- und Nachkriegssituationen. Ein frommer Wunsch?”. In &lt;em&gt;NGOs im Spannungsfeld von Krisenprävention und Sicherheitspolitik&lt;/em&gt;, ed. Ansgar Klein and Silke Roth, 25:179-191. Bürgergesellschaft und Demokratie. Wiesbaden: VS-Verlag.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1859986</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-11-10T08:46:45Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-11-10T08:46:45Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1859986</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1859986</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

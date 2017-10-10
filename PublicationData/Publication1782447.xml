@@ -1,0 +1,101 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Psychologische Aspekte der Schuldfähigkeit (im Sinne des § 51 StGB bzw. 24/25 E 1962)</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Hans</namePart>
+  <namePart type="family">Thomae</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Hans Dieter</namePart>
+  <namePart type="family">Schmidt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Udo</namePart><namePart type="family">Undeutsch</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Soziologie</namePart>
+  <identifier type="unibi">10030</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT3148.pdf">https://pub.uni-bielefeld.de/download/1782447/2313837</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Hogrefe</publisher><dateIssued encoding="w3cdtf">1967</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Forensische Psychologie</title></titleInfo><identifier type="urn">urn:nbn:de:0070-bipr-31488</identifier>
+<part><extent unit="pages">326-396</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<mla>Thomae, Hans, and Schmidt, Hans Dieter. “Psychologische Aspekte der Schuldfähigkeit (im Sinne des § 51 StGB bzw. 24/25 E 1962)”. &lt;em&gt;Forensische Psychologie&lt;/em&gt;. Ed. Udo Undeutsch. Göttingen: Hogrefe, 1967. Handbuch der Psychologie ; 11. 326-396.</mla>
+<lncs>Thomae, H., Schmidt, H.D.: Psychologische Aspekte der Schuldfähigkeit (im Sinne des § 51 StGB bzw. 24/25 E 1962). In: Undeutsch, U. (ed.) Forensische Psychologie. Handbuch der Psychologie ; 11. p. 326-396. Hogrefe, Göttingen (1967).</lncs>
+<ieee>H. Thomae and H.D. Schmidt, “Psychologische Aspekte der Schuldfähigkeit (im Sinne des § 51 StGB bzw. 24/25 E 1962)”, &lt;em&gt;Forensische Psychologie&lt;/em&gt;, U. Undeutsch, ed., Handbuch der Psychologie ; 11,  Göttingen: Hogrefe, 1967,  pp.326-396.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Thomae, H., &amp;amp; Schmidt, H. D. (1967). Psychologische Aspekte der Schuldfähigkeit (im Sinne des § 51 StGB bzw. 24/25 E 1962). In U.  Undeutsch (Ed.), &lt;em&gt;Handbuch der Psychologie ; 11&lt;/em&gt;&lt;em&gt;. Forensische Psychologie&lt;/em&gt; (pp. 326-396). Göttingen: Hogrefe.&lt;/div&gt;</apa_indent>
+<frontiers>Thomae, H., and Schmidt, H. D. (1967). “Psychologische Aspekte der Schuldfähigkeit (im Sinne des § 51 StGB bzw. 24/25 E 1962)” in &lt;em&gt;Forensische Psychologie&lt;/em&gt;, ed. U.  Undeutsch Handbuch der Psychologie ; 11 (Göttingen: Hogrefe), 326-396.</frontiers>
+<apa>Thomae, H., &amp;amp; Schmidt, H. D. (1967). Psychologische Aspekte der Schuldfähigkeit (im Sinne des § 51 StGB bzw. 24/25 E 1962). In U.  Undeutsch (Ed.), &lt;em&gt;Handbuch der Psychologie ; 11&lt;/em&gt;&lt;em&gt;. Forensische Psychologie&lt;/em&gt; (pp. 326-396). Göttingen: Hogrefe.</apa>
+<angewandte-chemie>H.  Thomae, and H. D.  Schmidt, in &lt;em&gt;Forensische Psychologie&lt;/em&gt; (Ed.: U. Undeutsch), Hogrefe, Göttingen, &lt;strong&gt;1967&lt;/strong&gt;, p. 326-396.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Thomae, Hans, and Schmidt, Hans Dieter. 1967. “Psychologische Aspekte der Schuldfähigkeit (im Sinne des § 51 StGB bzw. 24/25 E 1962)”. In &lt;em&gt;Forensische Psychologie&lt;/em&gt;, ed. Udo Undeutsch, 326-396. Handbuch der Psychologie ; 11. Göttingen: Hogrefe.&lt;/div&gt;</chicago>
+<bio1>Thomae H, Schmidt HD (1967) &lt;br /&gt;Psychologische Aspekte der Schuldfähigkeit (im Sinne des § 51 StGB bzw. 24/25 E 1962). &lt;br /&gt;In:  Forensische Psychologie. Undeutsch U (Ed); Handbuch der Psychologie ; 11,  Göttingen: Hogrefe:  326-396.</bio1>
+<aps>H.  Thomae and H. D.  Schmidt, Psychologische Aspekte der Schuldfähigkeit (im Sinne des § 51 StGB bzw. 24/25 E 1962), in &lt;em&gt;Forensische Psychologie&lt;/em&gt;, edited by U.  Undeutsch, Handbuch der Psychologie ; 11 (Hogrefe, Göttingen, 1967), p. 326-396.</aps>
+<ama>Thomae H, Schmidt HD. Psychologische Aspekte der Schuldfähigkeit (im Sinne des § 51 StGB bzw. 24/25 E 1962). In: Undeutsch U, ed. &lt;em&gt;Forensische Psychologie&lt;/em&gt;. Handbuch der Psychologie ; 11. Göttingen: Hogrefe;  1967: 326-396.</ama>
+<harvard1>Thomae, H., &amp;amp; Schmidt, H.D., 1967. Psychologische Aspekte der Schuldfähigkeit (im Sinne des § 51 StGB bzw. 24/25 E 1962). In U.  Undeutsch, ed. &lt;em&gt;Forensische Psychologie&lt;/em&gt;. Handbuch der Psychologie ; 11.  Göttingen: Hogrefe, pp. 326-396.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Thomae, H. &amp;amp; Schmidt, H.D. (1967). Psychologische Aspekte der Schuldfähigkeit (im Sinne des § 51 StGB bzw. 24/25 E 1962) (Handbuch der Psychologie ; 11). &lt;em&gt;Forensische Psychologie&lt;/em&gt; (S. 326-396). Göttingen: Hogrefe.&lt;/div&gt;</dgps>
+<default>Thomae H, Schmidt HD (1967)  &lt;br /&gt;In:  Forensische Psychologie. Undeutsch U (Ed); Handbuch der Psychologie ; 11, . Göttingen: Hogrefe:  326-396.</default>
+<wels>Thomae, H.; Schmidt, H. D. (1967): Psychologische Aspekte der Schuldfähigkeit (im Sinne des § 51 StGB bzw. 24/25 E 1962). In: Udo Undeutsch (Hrsg.):  Forensische Psychologie. Göttingen: Hogrefe. (Handbuch der Psychologie ; 11, ).  S. 326-396.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1782447</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1782447</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1782447</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

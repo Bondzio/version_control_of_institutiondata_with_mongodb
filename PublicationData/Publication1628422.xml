@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Linear and cyclic sweep voltammetry at a rotating disk electrode. A digital simulation</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">J</namePart>
+  <namePart type="family">Strutwolf</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Wolfgang</namePart>
+  <namePart type="family">Schoeller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20336</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Theoretische Chemie</namePart>
+  <identifier type="unibi">17982</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The transport equation for the rotating disk electrode is solved numerically with appropriate boundary conditions for reversible and nonreversible redox reactions. A comparison of the computational mode with experimentel data is presented. The adaption of a steady state under variations of experimental parameters upsilon (scan rate) and omega (angular frequency of rotation) is investigated. It is shown that a triangular voltage scan can be used to indicate the attainment of a steady state in every zone of the current-voltage curve.</abstract>
+
+<originInfo><publisher>VCH PUBLISHERS INC</publisher><dateIssued encoding="w3cdtf">1996</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>digital simulation</topic><topic>rotating disk electrode</topic><topic>mass transport</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>ELECTROANALYSIS</title></titleInfo>
+  <identifier type="issn">1040-0397</identifier>
+  <identifier type="eIssn">1521-4109</identifier>
+  <identifier type="ISI">A1996VX35100010</identifier><identifier type="doi">10.1002/elan.1140081111</identifier>
+<part><detail type="volume"><number>8</number></detail><detail type="issue"><number>11</number></detail><extent unit="pages">1034-1039</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>J.  Strutwolf and W.  Schoeller, Linear and cyclic sweep voltammetry at a rotating disk electrode. A digital simulation, ELECTROANALYSIS &lt;strong&gt;8&lt;/strong&gt;, 1034-1039 (1996).</aps>
+<bio1>Strutwolf J, Schoeller W (1996) &lt;br /&gt;Linear and cyclic sweep voltammetry at a rotating disk electrode. A digital simulation.&lt;br /&gt;ELECTROANALYSIS 8(11): 1034-1039.</bio1>
+<ama>Strutwolf J, Schoeller W. Linear and cyclic sweep voltammetry at a rotating disk electrode. A digital simulation. &lt;em&gt;ELECTROANALYSIS&lt;/em&gt;. 1996;8(11):1034-1039.</ama>
+<harvard1>Strutwolf, J., &amp;amp; Schoeller, W., 1996. Linear and cyclic sweep voltammetry at a rotating disk electrode. A digital simulation. &lt;em&gt;ELECTROANALYSIS&lt;/em&gt;, 8(11), p 1034-1039.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Strutwolf, J. &amp;amp; Schoeller, W. (1996). Linear and cyclic sweep voltammetry at a rotating disk electrode. A digital simulation. &lt;em&gt;ELECTROANALYSIS&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;(11), 1034-1039. VCH PUBLISHERS INC. doi:10.1002/elan.1140081111.&lt;/div&gt;</dgps>
+<default>Strutwolf J, Schoeller W (1996) &lt;br /&gt;ELECTROANALYSIS 8(11): 1034-1039.</default>
+<wels>Strutwolf, J.; Schoeller, W. (1996): Linear and cyclic sweep voltammetry at a rotating disk electrode. A digital simulation &lt;em&gt;ELECTROANALYSIS&lt;/em&gt;,8:(11): 1034-1039.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Strutwolf, J., &amp;amp; Schoeller, W. (1996). Linear and cyclic sweep voltammetry at a rotating disk electrode. A digital simulation. &lt;em&gt;ELECTROANALYSIS&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;(11), 1034-1039.&lt;/div&gt;</apa_indent>
+<mla>Strutwolf, J, and Schoeller, Wolfgang. “Linear and cyclic sweep voltammetry at a rotating disk electrode. A digital simulation”. &lt;em&gt;ELECTROANALYSIS&lt;/em&gt; 8.11 (1996): 1034-1039.</mla>
+<lncs>Strutwolf, J., Schoeller, W.: Linear and cyclic sweep voltammetry at a rotating disk electrode. A digital simulation. ELECTROANALYSIS. 8, 1034-1039 (1996).</lncs>
+<ieee>J. Strutwolf and W. Schoeller, “Linear and cyclic sweep voltammetry at a rotating disk electrode. A digital simulation”, &lt;em&gt;ELECTROANALYSIS&lt;/em&gt;,  vol. 8, 1996,  pp. 1034-1039.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Strutwolf, J, and Schoeller, Wolfgang. 1996. “Linear and cyclic sweep voltammetry at a rotating disk electrode. A digital simulation”. &lt;em&gt;ELECTROANALYSIS&lt;/em&gt; 8 (11): 1034-1039.&lt;/div&gt;</chicago>
+<frontiers>Strutwolf, J., and Schoeller, W. (1996). Linear and cyclic sweep voltammetry at a rotating disk electrode. A digital simulation. &lt;em&gt;ELECTROANALYSIS&lt;/em&gt; 8, 1034-1039.</frontiers>
+<apa>Strutwolf, J., &amp;amp; Schoeller, W. (1996). Linear and cyclic sweep voltammetry at a rotating disk electrode. A digital simulation. &lt;em&gt;ELECTROANALYSIS&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;(11), 1034-1039.</apa>
+<angewandte-chemie>J.  Strutwolf, and W.  Schoeller, “Linear and cyclic sweep voltammetry at a rotating disk electrode. A digital simulation”, &lt;em&gt;ELECTROANALYSIS&lt;/em&gt;, &lt;strong&gt;1996&lt;/strong&gt;, &lt;em&gt;8&lt;/em&gt;, 1034-1039.</angewandte-chemie>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1628422</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:23:28Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-04T11:03:27Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1628422</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1628422</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

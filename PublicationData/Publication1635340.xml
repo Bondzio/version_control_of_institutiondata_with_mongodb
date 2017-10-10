@@ -1,0 +1,109 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Using Penalized Splines to Model Age- and Season-of-Birth-Dependent Effects of Childhood Mortality Risk Factors in Rural Burkina Faso</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Heiko</namePart>
+  <namePart type="family">Becher</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Göran</namePart>
+  <namePart type="family">Kauermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">91009</identifier></name>
+<name type="personal">
+  <namePart type="given">Pavel</namePart>
+  <namePart type="family">Khomski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Bocar</namePart>
+  <namePart type="family">Kouyate</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Wirtschaftswissenschaften</namePart>
+  <identifier type="unibi">10031</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Several previous studies have identified risk factors for childhood mortality in high risk areas, such as Sub-Saharan Africa. Among these are lifestyle factors related for example to nutrition or sanitation. Other factors are related to social class, ethnicity and poverty in general. Few studies have investigated a dependence of these factors by age and season of birth which is the focus in this study. We perform a survival analysis of 9121 children born between 1998 and 2001 in a rural area of western Burkina Faso. The whole population is under demographic surveillance since 1993. All cause mortality is used as the endpoint and follow-up information until the age of five years is available. Recently developed spline regression methods are used for the analysis. Ethnic group, religion, age of mother, twin status, sex, and distance to next health center are used as covariates all of which having a clear effect on survival in standard Cox regression analysis. With penalized spline regression, a more detailed risk pattern is observed. Ethnicity is more related to death at early age, as well as age of mother. The effect of the risk factors considered also appear to be related with season of birth.</abstract>
+
+<originInfo><publisher>Wiley-Blackwell</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Child mortality</topic><topic>Penalized spline</topic><topic>estimation</topic><topic>Survival time modeling</topic><topic>Non proportional hazard model</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>BIOMETRICAL JOURNAL</title></titleInfo>
+  <identifier type="issn">0323-3847</identifier>
+  <identifier type="eIssn">1521-4036</identifier>
+  <identifier type="MEDLINE">19197959</identifier>
+  <identifier type="ISI">000264082000009</identifier><identifier type="doi">10.1002/bimj.200810496</identifier>
+<part><detail type="volume"><number>51</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">110-122</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>H.  Becher, et al., Using Penalized Splines to Model Age- and Season-of-Birth-Dependent Effects of Childhood Mortality Risk Factors in Rural Burkina Faso, BIOMETRICAL JOURNAL &lt;strong&gt;51&lt;/strong&gt;, 110-122 (2009).</aps>
+<bio1>Becher H, Kauermann G, Khomski P, Kouyate B (2009) &lt;br /&gt;Using Penalized Splines to Model Age- and Season-of-Birth-Dependent Effects of Childhood Mortality Risk Factors in Rural Burkina Faso.&lt;br /&gt;BIOMETRICAL JOURNAL 51(1): 110-122.</bio1>
+<ama>Becher H, Kauermann G, Khomski P, Kouyate B. Using Penalized Splines to Model Age- and Season-of-Birth-Dependent Effects of Childhood Mortality Risk Factors in Rural Burkina Faso. &lt;em&gt;BIOMETRICAL JOURNAL&lt;/em&gt;. 2009;51(1):110-122.</ama>
+<harvard1>Becher, H., et al., 2009. Using Penalized Splines to Model Age- and Season-of-Birth-Dependent Effects of Childhood Mortality Risk Factors in Rural Burkina Faso. &lt;em&gt;BIOMETRICAL JOURNAL&lt;/em&gt;, 51(1), p 110-122.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Becher, H., Kauermann, G., Khomski, P. &amp;amp; Kouyate, B. (2009). Using Penalized Splines to Model Age- and Season-of-Birth-Dependent Effects of Childhood Mortality Risk Factors in Rural Burkina Faso. &lt;em&gt;BIOMETRICAL JOURNAL&lt;/em&gt;, &lt;em&gt;51&lt;/em&gt;(1), 110-122. Wiley-Blackwell. doi:10.1002/bimj.200810496.&lt;/div&gt;</dgps>
+<default>Becher H, Kauermann G, Khomski P, Kouyate B (2009) &lt;br /&gt;BIOMETRICAL JOURNAL 51(1): 110-122.</default>
+<wels>Becher, H.; Kauermann, G.; Khomski, P.; Kouyate, B. (2009): Using Penalized Splines to Model Age- and Season-of-Birth-Dependent Effects of Childhood Mortality Risk Factors in Rural Burkina Faso &lt;em&gt;BIOMETRICAL JOURNAL&lt;/em&gt;,51:(1): 110-122.</wels>
+<mla>Becher, Heiko, Kauermann, Göran, Khomski, Pavel, and Kouyate, Bocar. “Using Penalized Splines to Model Age- and Season-of-Birth-Dependent Effects of Childhood Mortality Risk Factors in Rural Burkina Faso”. &lt;em&gt;BIOMETRICAL JOURNAL&lt;/em&gt; 51.1 (2009): 110-122.</mla>
+<lncs>Becher, H., Kauermann, G., Khomski, P., Kouyate, B.: Using Penalized Splines to Model Age- and Season-of-Birth-Dependent Effects of Childhood Mortality Risk Factors in Rural Burkina Faso. BIOMETRICAL JOURNAL. 51, 110-122 (2009).</lncs>
+<ieee>H. Becher, et al., “Using Penalized Splines to Model Age- and Season-of-Birth-Dependent Effects of Childhood Mortality Risk Factors in Rural Burkina Faso”, &lt;em&gt;BIOMETRICAL JOURNAL&lt;/em&gt;,  vol. 51, 2009,  pp. 110-122.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Becher, H., Kauermann, G., Khomski, P., &amp;amp; Kouyate, B. (2009). Using Penalized Splines to Model Age- and Season-of-Birth-Dependent Effects of Childhood Mortality Risk Factors in Rural Burkina Faso. &lt;em&gt;BIOMETRICAL JOURNAL&lt;/em&gt;, &lt;em&gt;51&lt;/em&gt;(1), 110-122.&lt;/div&gt;</apa_indent>
+<frontiers>Becher, H., Kauermann, G., Khomski, P., and Kouyate, B. (2009). Using Penalized Splines to Model Age- and Season-of-Birth-Dependent Effects of Childhood Mortality Risk Factors in Rural Burkina Faso. &lt;em&gt;BIOMETRICAL JOURNAL&lt;/em&gt; 51, 110-122.</frontiers>
+<angewandte-chemie>H.  Becher, G.  Kauermann, P.  Khomski, and B.  Kouyate, “Using Penalized Splines to Model Age- and Season-of-Birth-Dependent Effects of Childhood Mortality Risk Factors in Rural Burkina Faso”, &lt;em&gt;BIOMETRICAL JOURNAL&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;51&lt;/em&gt;, 110-122.</angewandte-chemie>
+<apa>Becher, H., Kauermann, G., Khomski, P., &amp;amp; Kouyate, B. (2009). Using Penalized Splines to Model Age- and Season-of-Birth-Dependent Effects of Childhood Mortality Risk Factors in Rural Burkina Faso. &lt;em&gt;BIOMETRICAL JOURNAL&lt;/em&gt;, &lt;em&gt;51&lt;/em&gt;(1), 110-122.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Becher, Heiko, Kauermann, Göran, Khomski, Pavel, and Kouyate, Bocar. 2009. “Using Penalized Splines to Model Age- and Season-of-Birth-Dependent Effects of Childhood Mortality Risk Factors in Rural Burkina Faso”. &lt;em&gt;BIOMETRICAL JOURNAL&lt;/em&gt; 51 (1): 110-122.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1635340</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:37Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-05T11:13:20Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1635340</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1635340</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

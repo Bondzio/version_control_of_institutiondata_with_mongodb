@@ -1,0 +1,141 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Acceleration of absolute negative mobility</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Jan</namePart>
+  <namePart type="family">Regtmeier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">148272</identifier></name>
+<name type="personal">
+  <namePart type="given">Sebastian</namePart>
+  <namePart type="family">Grauwin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ralf</namePart>
+  <namePart type="family">Eichhorn</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Peter</namePart>
+  <namePart type="family">Reimann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">70631</identifier></name>
+<name type="personal">
+  <namePart type="given">Dario</namePart>
+  <namePart type="family">Anselmetti</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40180</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-8720-4369</description></name>
+<name type="personal">
+  <namePart type="given">Alexandra</namePart>
+  <namePart type="family">Ros</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2161137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33079524</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">29105470</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">29125395</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Recently, the counter intuitive migration phenomenon of absolute negative mobility (ANM) has been demonstrated to occur for colloidal particles in a suitably arranged post array within a microfluidic device [1]. This effect is based on the interplay of Brownian motion, nonlinear dynamics induced through microstructuring, and nonequilibrium driving, and results in a particle movement opposite to an applied static force. Simultaneously, the migration of a different particle species along the direction of the static force is possible [19], thus providing a new tool for particle sorting in microfluidic device format. The so far demonstrated maximum velocities for micrometer-sized spheres are slow, i.e., in the order of 10 nm per second. Here, we investigate numerically, how maximum ANM velocities can be significantly accelerated by a careful adjustment of the post size and shape. Based on this numerical analysis, a post design is developed and tested in a microfluidic device made of PDMS. The experiment reveals an order of magnitude increase in velocity.</abstract>
+
+<originInfo><publisher>WILEY-V C H VERLAG GMBH</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>separation</topic><topic>absolute negative mobility</topic><topic>microfluidics</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF SEPARATION SCIENCE</title></titleInfo>
+  <identifier type="issn">1615-9306</identifier>
+  <identifier type="eIssn">1615-9314</identifier>
+  <identifier type="MEDLINE">17623426</identifier>
+  <identifier type="ISI">000248240000009</identifier><identifier type="doi">10.1002/jssc.200600546</identifier>
+<part><detail type="volume"><number>30</number></detail><detail type="issue"><number>10</number></detail><extent unit="pages">1461-1467</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Regtmeier J, Grauwin S, Eichhorn R, Reimann P, Anselmetti D, Ros A (2007) &lt;br /&gt;JOURNAL OF SEPARATION SCIENCE 30(10): 1461-1467.</default>
+<wels>Regtmeier, J.; Grauwin, S.; Eichhorn, R.; Reimann, P.; Anselmetti, D.; Ros, A. (2007): Acceleration of absolute negative mobility &lt;em&gt;JOURNAL OF SEPARATION SCIENCE&lt;/em&gt;,30:(10): 1461-1467.</wels>
+<aps> J.  Regtmeier, et al., Acceleration of absolute negative mobility, JOURNAL OF SEPARATION SCIENCE &lt;strong&gt;30&lt;/strong&gt;, 1461-1467 (2007).</aps>
+<bio1>Regtmeier J, Grauwin S, Eichhorn R, Reimann P, Anselmetti D, Ros A (2007) &lt;br /&gt;Acceleration of absolute negative mobility.&lt;br /&gt;JOURNAL OF SEPARATION SCIENCE 30(10): 1461-1467.</bio1>
+<harvard1>Regtmeier, J., et al., 2007. Acceleration of absolute negative mobility. &lt;em&gt;JOURNAL OF SEPARATION SCIENCE&lt;/em&gt;, 30(10), p 1461-1467.</harvard1>
+<ama>Regtmeier J, Grauwin S, Eichhorn R, Reimann P, Anselmetti D, Ros A. Acceleration of absolute negative mobility. &lt;em&gt;JOURNAL OF SEPARATION SCIENCE&lt;/em&gt;. 2007;30(10):1461-1467.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Regtmeier, J., Grauwin, S., Eichhorn, R., Reimann, P., Anselmetti, D. &amp;amp; Ros, A. (2007). Acceleration of absolute negative mobility. &lt;em&gt;JOURNAL OF SEPARATION SCIENCE&lt;/em&gt;, &lt;em&gt;30&lt;/em&gt;(10), 1461-1467. WILEY-V C H VERLAG GMBH. doi:10.1002/jssc.200600546.&lt;/div&gt;</dgps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Regtmeier, Jan, Grauwin, Sebastian, Eichhorn, Ralf, Reimann, Peter, Anselmetti, Dario, and Ros, Alexandra. 2007. “Acceleration of absolute negative mobility”. &lt;em&gt;JOURNAL OF SEPARATION SCIENCE&lt;/em&gt; 30 (10): 1461-1467.&lt;/div&gt;</chicago>
+<frontiers>Regtmeier, J., Grauwin, S., Eichhorn, R., Reimann, P., Anselmetti, D., and Ros, A. (2007). Acceleration of absolute negative mobility. &lt;em&gt;JOURNAL OF SEPARATION SCIENCE&lt;/em&gt; 30, 1461-1467.</frontiers>
+<angewandte-chemie>J.  Regtmeier, S.  Grauwin, R.  Eichhorn, P.  Reimann, D.  Anselmetti, and A.  Ros, “Acceleration of absolute negative mobility”, &lt;em&gt;JOURNAL OF SEPARATION SCIENCE&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;30&lt;/em&gt;, 1461-1467.</angewandte-chemie>
+<apa>Regtmeier, J., Grauwin, S., Eichhorn, R., Reimann, P., Anselmetti, D., &amp;amp; Ros, A. (2007). Acceleration of absolute negative mobility. &lt;em&gt;JOURNAL OF SEPARATION SCIENCE&lt;/em&gt;, &lt;em&gt;30&lt;/em&gt;(10), 1461-1467.</apa>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Regtmeier, J., Grauwin, S., Eichhorn, R., Reimann, P., Anselmetti, D., &amp;amp; Ros, A. (2007). Acceleration of absolute negative mobility. &lt;em&gt;JOURNAL OF SEPARATION SCIENCE&lt;/em&gt;, &lt;em&gt;30&lt;/em&gt;(10), 1461-1467.&lt;/div&gt;</apa_indent>
+<mla>Regtmeier, Jan, Grauwin, Sebastian, Eichhorn, Ralf, Reimann, Peter, Anselmetti, Dario, and Ros, Alexandra. “Acceleration of absolute negative mobility”. &lt;em&gt;JOURNAL OF SEPARATION SCIENCE&lt;/em&gt; 30.10 (2007): 1461-1467.</mla>
+<lncs> Regtmeier, J., Grauwin, S., Eichhorn, R., Reimann, P., Anselmetti, D., Ros, A.: Acceleration of absolute negative mobility. JOURNAL OF SEPARATION SCIENCE. 30, 1461-1467 (2007).</lncs>
+<ieee> J. Regtmeier, et al., “Acceleration of absolute negative mobility”, &lt;em&gt;JOURNAL OF SEPARATION SCIENCE&lt;/em&gt;,  vol. 30, 2007,  pp. 1461-1467.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1593009</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:15:39Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-19T08:07:16Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1593009</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1593009</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

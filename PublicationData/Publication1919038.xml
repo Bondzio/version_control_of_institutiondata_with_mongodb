@@ -1,0 +1,102 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Ruth Schaumann, Autorin und Künstlerin des katholischen Milieu</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Wolfgang</namePart>
+  <namePart type="family">Braungart</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11652</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Wilhelm</namePart><namePart type="family">Kühlmann</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Roman</namePart><namePart type="family">Luckscheiter</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">4961697</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10222814</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Rombach</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Moderne und Antimoderne. Der Renouveau catholique und die deutsche Literatur</title></titleInfo>
+  <identifier type="isbn">978-3-7930-9546-0</identifier>
+<part><detail type="volume"><number>1</number></detail><extent unit="pages">361-379</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa>Braungart, W. (2008). Ruth Schaumann, Autorin und Künstlerin des katholischen Milieu. In W.  Kühlmann &amp;amp; R.  Luckscheiter (Eds.), &lt;em&gt;Rombach Wissenschaften. Reihe Catholica: Vol. 1&lt;/em&gt;&lt;em&gt;. Moderne und Antimoderne. Der Renouveau catholique und die deutsche Literatur&lt;/em&gt; (pp. 361-379). Freiburg, i. Br., Berlin, Wien: Rombach.</apa>
+<angewandte-chemie>W.  Braungart, in &lt;em&gt;Moderne und Antimoderne. Der Renouveau catholique und die deutsche Literatur&lt;/em&gt; (Eds.: W. Kühlmann, R. Luckscheiter), Rombach, Freiburg, i. Br., Berlin, Wien, &lt;strong&gt;2008&lt;/strong&gt;, p. 361-379.</angewandte-chemie>
+<frontiers>Braungart, W. (2008). “Ruth Schaumann, Autorin und Künstlerin des katholischen Milieu” in &lt;em&gt;Moderne und Antimoderne. Der Renouveau catholique und die deutsche Literatur&lt;/em&gt;, ed. W.  Kühlmann and R.  Luckscheiter Rombach Wissenschaften. Reihe Catholica, vol. 1, (Freiburg, i. Br., Berlin, Wien: Rombach), 361-379.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Braungart, Wolfgang. 2008. “Ruth Schaumann, Autorin und Künstlerin des katholischen Milieu”. In &lt;em&gt;Moderne und Antimoderne. Der Renouveau catholique und die deutsche Literatur&lt;/em&gt;, ed. Wilhelm Kühlmann and Roman Luckscheiter, 1:361-379. Rombach Wissenschaften. Reihe Catholica. Freiburg, i. Br., Berlin, Wien: Rombach.&lt;/div&gt;</chicago>
+<ieee>W. Braungart, “Ruth Schaumann, Autorin und Künstlerin des katholischen Milieu”, &lt;em&gt;Moderne und Antimoderne. Der Renouveau catholique und die deutsche Literatur&lt;/em&gt;, W. Kühlmann and R. Luckscheiter, eds., Rombach Wissenschaften. Reihe Catholica, vol. 1,  Freiburg, i. Br., Berlin, Wien: Rombach, 2008,  pp.361-379.</ieee>
+<mla>Braungart, Wolfgang. “Ruth Schaumann, Autorin und Künstlerin des katholischen Milieu”. &lt;em&gt;Moderne und Antimoderne. Der Renouveau catholique und die deutsche Literatur&lt;/em&gt;. Ed. Wilhelm Kühlmann and Roman Luckscheiter. Freiburg, i. Br., Berlin, Wien: Rombach, 2008.Vol. 1. Rombach Wissenschaften. Reihe Catholica. 361-379.</mla>
+<lncs>Braungart, W.: Ruth Schaumann, Autorin und Künstlerin des katholischen Milieu. In: Kühlmann, W. and Luckscheiter, R. (eds.) Moderne und Antimoderne. Der Renouveau catholique und die deutsche Literatur. Rombach Wissenschaften. Reihe Catholica. 1, p. 361-379. Rombach, Freiburg, i. Br., Berlin, Wien (2008).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Braungart, W. (2008). Ruth Schaumann, Autorin und Künstlerin des katholischen Milieu. In W.  Kühlmann &amp;amp; R.  Luckscheiter (Eds.), &lt;em&gt;Rombach Wissenschaften. Reihe Catholica: Vol. 1&lt;/em&gt;&lt;em&gt;. Moderne und Antimoderne. Der Renouveau catholique und die deutsche Literatur&lt;/em&gt; (pp. 361-379). Freiburg, i. Br., Berlin, Wien: Rombach.&lt;/div&gt;</apa_indent>
+<wels>Braungart, W. (2008): Ruth Schaumann, Autorin und Künstlerin des katholischen Milieu. In: Wilhelm Kühlmann; Roman Luckscheiter (Hrsg.):  Moderne und Antimoderne. Der Renouveau catholique und die deutsche Literatur. Freiburg, i. Br., Berlin, Wien: Rombach. (Rombach Wissenschaften. Reihe Catholica, 1).  S. 361-379.</wels>
+<default>Braungart W (2008)  &lt;br /&gt;In:  Moderne und Antimoderne. Der Renouveau catholique und die deutsche Literatur. Kühlmann W, Luckscheiter R (Eds); Rombach Wissenschaften. Reihe Catholica, 1. Freiburg, i. Br., Berlin, Wien: Rombach:  361-379.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Braungart, W. (2008). Ruth Schaumann, Autorin und Künstlerin des katholischen Milieu (Rombach Wissenschaften. Reihe Catholica). &lt;em&gt;Moderne und Antimoderne. Der Renouveau catholique und die deutsche Literatur&lt;/em&gt; (S. 361-379). Freiburg, i. Br., Berlin, Wien: Rombach.&lt;/div&gt;</dgps>
+<harvard1>Braungart, W., 2008. Ruth Schaumann, Autorin und Künstlerin des katholischen Milieu. In W.  Kühlmann &amp;amp; R.  Luckscheiter, eds. &lt;em&gt;Moderne und Antimoderne. Der Renouveau catholique und die deutsche Literatur&lt;/em&gt;. Rombach Wissenschaften. Reihe Catholica. no.1  Freiburg, i. Br., Berlin, Wien: Rombach, pp. 361-379.</harvard1>
+<ama>Braungart W. Ruth Schaumann, Autorin und Künstlerin des katholischen Milieu. In: Kühlmann W, Luckscheiter R, eds. &lt;em&gt;Moderne und Antimoderne. Der Renouveau catholique und die deutsche Literatur&lt;/em&gt;. Rombach Wissenschaften. Reihe Catholica. Vol 1. Freiburg, i. Br., Berlin, Wien: Rombach;  2008: 361-379.</ama>
+<aps>W.  Braungart, Ruth Schaumann, Autorin und Künstlerin des katholischen Milieu, in &lt;em&gt;Moderne und Antimoderne. Der Renouveau catholique und die deutsche Literatur&lt;/em&gt;, edited by W.  Kühlmann and R.  Luckscheiter, Rombach Wissenschaften. Reihe Catholica, &lt;strong&gt;1&lt;/strong&gt; (Rombach, Freiburg, I. Br., Berlin, Wien, 2008), p. 361-379.</aps>
+<bio1>Braungart W (2008) &lt;br /&gt;Ruth Schaumann, Autorin und Künstlerin des katholischen Milieu. &lt;br /&gt;In:  Moderne und Antimoderne. Der Renouveau catholique und die deutsche Literatur. Kühlmann W, Luckscheiter R (Eds); Rombach Wissenschaften. Reihe Catholica, 1. Freiburg, i. Br., Berlin, Wien: Rombach:  361-379.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1919038</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-11-23T13:04:39Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-04-01T05:46:26Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1919038</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1919038</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

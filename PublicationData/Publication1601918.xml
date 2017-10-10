@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Discrete contributions to static dipole polarizabilities of excited bound states of non-relativistic hydrogen-like atoms</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">V</namePart>
+  <namePart type="family">Koch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Dirk</namePart>
+  <namePart type="family">Andrae</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20327</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Theoretische Chemie</namePart>
+  <identifier type="unibi">17982</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The static dipole polarizability alpha(d, i) for an arbitrary bound state i of the non- relativistic hydrogen- like atom has been known for a long time from, e. g., the second- order perturbation theory treatment of the Stark effect. A reliable result for the ground state requires both summation over the discrete spectrum and inclusion of the continuum contribution. This continuum contribution is known to decrease for excited states, but a systematic study of this decrease has not been available so far. We present here representative results from a systematic study of alpha(d, i), whichwas performed as a first test of a new algorithm for the radial integrals involved. Partial sum approximations of the discrete contribution yield the total ad, i with a relative error of less than 1% for all states i with principal quantum number n &gt;= 5. Corresponding results for the relativistic case, for which the radial integral algorithm was developed, will be presented elsewhere.</abstract>
+
+<originInfo><publisher>SPRINGER</publisher><dateIssued encoding="w3cdtf">2005</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>static dipole polarizability for</topic><topic>non-relativistic hydrogen-like atom</topic><topic>excited bound states</topic><topic>generalized Laguerre polynomials</topic><topic>confluent</topic><topic>hypergeometric functions</topic><topic>Appell function F2</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>THEORETICAL CHEMISTRY ACCOUNTS</title></titleInfo>
+  <identifier type="issn">1432-881X</identifier>
+  <identifier type="eIssn">1432-2234</identifier>
+  <identifier type="ISI">000232500500016</identifier><identifier type="doi">10.1007/s00214-005-0691-7</identifier>
+<part><detail type="volume"><number>114</number></detail><detail type="issue"><number>4-5</number></detail><extent unit="pages">380-386</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>V.  Koch and D.  Andrae, Discrete contributions to static dipole polarizabilities of excited bound states of non-relativistic hydrogen-like atoms, THEORETICAL CHEMISTRY ACCOUNTS &lt;strong&gt;114&lt;/strong&gt;, 380-386 (2005).</aps>
+<bio1>Koch V, Andrae D (2005) &lt;br /&gt;Discrete contributions to static dipole polarizabilities of excited bound states of non-relativistic hydrogen-like atoms.&lt;br /&gt;THEORETICAL CHEMISTRY ACCOUNTS 114(4-5): 380-386.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Koch, V. &amp;amp; Andrae, D. (2005). Discrete contributions to static dipole polarizabilities of excited bound states of non-relativistic hydrogen-like atoms. &lt;em&gt;THEORETICAL CHEMISTRY ACCOUNTS&lt;/em&gt;, &lt;em&gt;114&lt;/em&gt;(4-5), 380-386. SPRINGER. doi:10.1007/s00214-005-0691-7.&lt;/div&gt;</dgps>
+<harvard1>Koch, V., &amp;amp; Andrae, D., 2005. Discrete contributions to static dipole polarizabilities of excited bound states of non-relativistic hydrogen-like atoms. &lt;em&gt;THEORETICAL CHEMISTRY ACCOUNTS&lt;/em&gt;, 114(4-5), p 380-386.</harvard1>
+<ama>Koch V, Andrae D. Discrete contributions to static dipole polarizabilities of excited bound states of non-relativistic hydrogen-like atoms. &lt;em&gt;THEORETICAL CHEMISTRY ACCOUNTS&lt;/em&gt;. 2005;114(4-5):380-386.</ama>
+<default>Koch V, Andrae D (2005) &lt;br /&gt;THEORETICAL CHEMISTRY ACCOUNTS 114(4-5): 380-386.</default>
+<wels>Koch, V.; Andrae, D. (2005): Discrete contributions to static dipole polarizabilities of excited bound states of non-relativistic hydrogen-like atoms &lt;em&gt;THEORETICAL CHEMISTRY ACCOUNTS&lt;/em&gt;,114:(4-5): 380-386.</wels>
+<mla>Koch, V, and Andrae, Dirk. “Discrete contributions to static dipole polarizabilities of excited bound states of non-relativistic hydrogen-like atoms”. &lt;em&gt;THEORETICAL CHEMISTRY ACCOUNTS&lt;/em&gt; 114.4-5 (2005): 380-386.</mla>
+<lncs>Koch, V., Andrae, D.: Discrete contributions to static dipole polarizabilities of excited bound states of non-relativistic hydrogen-like atoms. THEORETICAL CHEMISTRY ACCOUNTS. 114, 380-386 (2005).</lncs>
+<ieee>V. Koch and D. Andrae, “Discrete contributions to static dipole polarizabilities of excited bound states of non-relativistic hydrogen-like atoms”, &lt;em&gt;THEORETICAL CHEMISTRY ACCOUNTS&lt;/em&gt;,  vol. 114, 2005,  pp. 380-386.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Koch, V., &amp;amp; Andrae, D. (2005). Discrete contributions to static dipole polarizabilities of excited bound states of non-relativistic hydrogen-like atoms. &lt;em&gt;THEORETICAL CHEMISTRY ACCOUNTS&lt;/em&gt;, &lt;em&gt;114&lt;/em&gt;(4-5), 380-386.&lt;/div&gt;</apa_indent>
+<frontiers>Koch, V., and Andrae, D. (2005). Discrete contributions to static dipole polarizabilities of excited bound states of non-relativistic hydrogen-like atoms. &lt;em&gt;THEORETICAL CHEMISTRY ACCOUNTS&lt;/em&gt; 114, 380-386.</frontiers>
+<apa>Koch, V., &amp;amp; Andrae, D. (2005). Discrete contributions to static dipole polarizabilities of excited bound states of non-relativistic hydrogen-like atoms. &lt;em&gt;THEORETICAL CHEMISTRY ACCOUNTS&lt;/em&gt;, &lt;em&gt;114&lt;/em&gt;(4-5), 380-386.</apa>
+<angewandte-chemie>V.  Koch, and D.  Andrae, “Discrete contributions to static dipole polarizabilities of excited bound states of non-relativistic hydrogen-like atoms”, &lt;em&gt;THEORETICAL CHEMISTRY ACCOUNTS&lt;/em&gt;, &lt;strong&gt;2005&lt;/strong&gt;, &lt;em&gt;114&lt;/em&gt;, 380-386.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Koch, V, and Andrae, Dirk. 2005. “Discrete contributions to static dipole polarizabilities of excited bound states of non-relativistic hydrogen-like atoms”. &lt;em&gt;THEORETICAL CHEMISTRY ACCOUNTS&lt;/em&gt; 114 (4-5): 380-386.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1601918</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:32:02Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-07T16:48:27Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1601918</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1601918</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

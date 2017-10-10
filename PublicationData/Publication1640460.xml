@@ -1,0 +1,125 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>THE NODULE-SPECIFIC VFENOD-GRP3 GENE ENCODING A GLYCINE-RICH EARLY NODULIN IS LOCATED ON CHROMOSOME-I OF VICIA-FABA L AND IS PREDOMINANTLY EXPRESSED IN THE INTERZONE II-III OF ROOT-NODULES</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Helge</namePart>
+  <namePart type="family">Küster</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">G</namePart>
+  <namePart type="family">SCHRODER</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">FRUHLING</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">U</namePart>
+  <namePart type="family">PICH</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">RIEPING</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">I</namePart>
+  <namePart type="family">SCHUBERT</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">AM</namePart>
+  <namePart type="family">PERLICK</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alfred</namePart>
+  <namePart type="family">Pühler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21937</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Biologie</namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">A nodule-specific cDNA was isolated from a Vicia faba L. nodule cDNA library. Since time course experiments revealed an early expression of this transcript in the nodule, this cDNA coded for an early nodulin and was designated VfENOD-GRP3. Based on tissue print hybridizations, we found a predominant expression of VfENOD-GRP3 transcripts in the interzone II-III region of broad bean root nodules. The encoded early nodulin ENOD-GRP3 was characterized by an N-terminal signal peptide and a C-terminal domain displaying a glycine content of 31%. Sequence analysis of a genomic VfENOD-GRP3 clone revealed that the signal peptide and the glycine-rich domain were specified by two separate exons. Primer extension experiments identified two adjacent transcription start sites for VfENOD-GRP3 transcripts. The common nodulin sequences &apos;AAAGAT&apos; and &apos;CTCTT&apos; were present five and three times on both DNA strands of the putative VfENOD-GRP3 promoter, respectively. Additionally, three sequence motifs resembling organ-specific elements of the soybean lbc3 gene promoter and a sequence similar to the binding site 1 for the nodule trans-acting factor Nat2 were identified. From Southern blot data and from sequence analysis of genomic PCR fragments, the presence of a VfENOD-GRP3 gene family was inferred. By PCR experiments using sequence-specific primers and DNA of microisolated chromosomes as a template, this family was located on the long arm of chromosome I.</abstract>
+
+<originInfo><publisher>KLUWER ACADEMIC PUBL</publisher><dateIssued encoding="w3cdtf">1995</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>GLYCINE-RICH EARLY NODULIN</topic><topic>TISSUE PRINT HYBRIDIZATION</topic><topic>PHYSICAL GENE MAPPING</topic><topic>VIVIA FABA L</topic><topic>INTERZONE II-III PREDOMINANT EXPRESSION</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>PLANT MOLECULAR BIOLOGY</title></titleInfo>
+  <identifier type="issn">0167-4412</identifier>
+  <identifier type="eIssn">1573-5028</identifier>
+  <identifier type="MEDLINE">7632912</identifier>
+  <identifier type="ISI">A1995RN25300007</identifier><identifier type="doi">10.1007/BF00020390</identifier>
+<part><detail type="volume"><number>28</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">405-421</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Küster, H., SCHRODER, G., FRUHLING, M., PICH, U., RIEPING, M., SCHUBERT, I., PERLICK, A. M., et al. (1995). THE NODULE-SPECIFIC VFENOD-GRP3 GENE ENCODING A GLYCINE-RICH EARLY NODULIN IS LOCATED ON CHROMOSOME-I OF VICIA-FABA L AND IS PREDOMINANTLY EXPRESSED IN THE INTERZONE II-III OF ROOT-NODULES. &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt;, &lt;em&gt;28&lt;/em&gt;(3), 405-421.&lt;/div&gt;</apa_indent>
+<ieee>H. Küster, et al., “THE NODULE-SPECIFIC VFENOD-GRP3 GENE ENCODING A GLYCINE-RICH EARLY NODULIN IS LOCATED ON CHROMOSOME-I OF VICIA-FABA L AND IS PREDOMINANTLY EXPRESSED IN THE INTERZONE II-III OF ROOT-NODULES”, &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt;,  vol. 28, 1995,  pp. 405-421.</ieee>
+<mla>Küster, Helge, SCHRODER, G, FRUHLING, M, PICH, U, RIEPING, M, SCHUBERT, I, PERLICK, AM, and Pühler, Alfred. “THE NODULE-SPECIFIC VFENOD-GRP3 GENE ENCODING A GLYCINE-RICH EARLY NODULIN IS LOCATED ON CHROMOSOME-I OF VICIA-FABA L AND IS PREDOMINANTLY EXPRESSED IN THE INTERZONE II-III OF ROOT-NODULES”. &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt; 28.3 (1995): 405-421.</mla>
+<lncs>Küster, H., SCHRODER, G., FRUHLING, M., PICH, U., RIEPING, M., SCHUBERT, I., PERLICK, A.M., Pühler, A.: THE NODULE-SPECIFIC VFENOD-GRP3 GENE ENCODING A GLYCINE-RICH EARLY NODULIN IS LOCATED ON CHROMOSOME-I OF VICIA-FABA L AND IS PREDOMINANTLY EXPRESSED IN THE INTERZONE II-III OF ROOT-NODULES. PLANT MOLECULAR BIOLOGY. 28, 405-421 (1995).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Küster, Helge, SCHRODER, G, FRUHLING, M, PICH, U, RIEPING, M, SCHUBERT, I, PERLICK, AM, and Pühler, Alfred. 1995. “THE NODULE-SPECIFIC VFENOD-GRP3 GENE ENCODING A GLYCINE-RICH EARLY NODULIN IS LOCATED ON CHROMOSOME-I OF VICIA-FABA L AND IS PREDOMINANTLY EXPRESSED IN THE INTERZONE II-III OF ROOT-NODULES”. &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt; 28 (3): 405-421.&lt;/div&gt;</chicago>
+<apa>Küster, H., SCHRODER, G., FRUHLING, M., PICH, U., RIEPING, M., SCHUBERT, I., PERLICK, A. M., et al. (1995). THE NODULE-SPECIFIC VFENOD-GRP3 GENE ENCODING A GLYCINE-RICH EARLY NODULIN IS LOCATED ON CHROMOSOME-I OF VICIA-FABA L AND IS PREDOMINANTLY EXPRESSED IN THE INTERZONE II-III OF ROOT-NODULES. &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt;, &lt;em&gt;28&lt;/em&gt;(3), 405-421.</apa>
+<angewandte-chemie>H.  Küster, G.  SCHRODER, M.  FRUHLING, U.  PICH, M.  RIEPING, I.  SCHUBERT, A. M.  PERLICK, and A.  Pühler, “THE NODULE-SPECIFIC VFENOD-GRP3 GENE ENCODING A GLYCINE-RICH EARLY NODULIN IS LOCATED ON CHROMOSOME-I OF VICIA-FABA L AND IS PREDOMINANTLY EXPRESSED IN THE INTERZONE II-III OF ROOT-NODULES”, &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt;, &lt;strong&gt;1995&lt;/strong&gt;, &lt;em&gt;28&lt;/em&gt;, 405-421.</angewandte-chemie>
+<frontiers>Küster, H., SCHRODER, G., FRUHLING, M., PICH, U., RIEPING, M., SCHUBERT, I., PERLICK, A. M., and Pühler, A. (1995). THE NODULE-SPECIFIC VFENOD-GRP3 GENE ENCODING A GLYCINE-RICH EARLY NODULIN IS LOCATED ON CHROMOSOME-I OF VICIA-FABA L AND IS PREDOMINANTLY EXPRESSED IN THE INTERZONE II-III OF ROOT-NODULES. &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt; 28, 405-421.</frontiers>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Küster, H., SCHRODER, G., FRUHLING, M., PICH, U., RIEPING, M., SCHUBERT, I., PERLICK, A.M. &amp;amp; Pühler, A. (1995). THE NODULE-SPECIFIC VFENOD-GRP3 GENE ENCODING A GLYCINE-RICH EARLY NODULIN IS LOCATED ON CHROMOSOME-I OF VICIA-FABA L AND IS PREDOMINANTLY EXPRESSED IN THE INTERZONE II-III OF ROOT-NODULES. &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt;, &lt;em&gt;28&lt;/em&gt;(3), 405-421. KLUWER ACADEMIC PUBL. doi:10.1007/BF00020390.&lt;/div&gt;</dgps>
+<ama>Küster H, SCHRODER G, FRUHLING M, et al. THE NODULE-SPECIFIC VFENOD-GRP3 GENE ENCODING A GLYCINE-RICH EARLY NODULIN IS LOCATED ON CHROMOSOME-I OF VICIA-FABA L AND IS PREDOMINANTLY EXPRESSED IN THE INTERZONE II-III OF ROOT-NODULES. &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt;. 1995;28(3):405-421.</ama>
+<harvard1>Küster, H., et al., 1995. THE NODULE-SPECIFIC VFENOD-GRP3 GENE ENCODING A GLYCINE-RICH EARLY NODULIN IS LOCATED ON CHROMOSOME-I OF VICIA-FABA L AND IS PREDOMINANTLY EXPRESSED IN THE INTERZONE II-III OF ROOT-NODULES. &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt;, 28(3), p 405-421.</harvard1>
+<bio1>Küster H, SCHRODER G, FRUHLING M, PICH U, RIEPING M, SCHUBERT I, PERLICK AM, Pühler A (1995) &lt;br /&gt;THE NODULE-SPECIFIC VFENOD-GRP3 GENE ENCODING A GLYCINE-RICH EARLY NODULIN IS LOCATED ON CHROMOSOME-I OF VICIA-FABA L AND IS PREDOMINANTLY EXPRESSED IN THE INTERZONE II-III OF ROOT-NODULES.&lt;br /&gt;PLANT MOLECULAR BIOLOGY 28(3): 405-421.</bio1>
+<aps>H.  Küster, et al., THE NODULE-SPECIFIC VFENOD-GRP3 GENE ENCODING A GLYCINE-RICH EARLY NODULIN IS LOCATED ON CHROMOSOME-I OF VICIA-FABA L AND IS PREDOMINANTLY EXPRESSED IN THE INTERZONE II-III OF ROOT-NODULES, PLANT MOLECULAR BIOLOGY &lt;strong&gt;28&lt;/strong&gt;, 405-421 (1995).</aps>
+<wels>Küster, H.; SCHRODER, G.; FRUHLING, M.; PICH, U.; RIEPING, M.; SCHUBERT, I.; PERLICK, A. M.; Pühler, A. (1995): THE NODULE-SPECIFIC VFENOD-GRP3 GENE ENCODING A GLYCINE-RICH EARLY NODULIN IS LOCATED ON CHROMOSOME-I OF VICIA-FABA L AND IS PREDOMINANTLY EXPRESSED IN THE INTERZONE II-III OF ROOT-NODULES &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt;,28:(3): 405-421.</wels>
+<default>Küster H, SCHRODER G, FRUHLING M, PICH U, RIEPING M, SCHUBERT I, PERLICK AM, Pühler A (1995) &lt;br /&gt;PLANT MOLECULAR BIOLOGY 28(3): 405-421.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1640460</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:15:50Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-07-14T14:25:12Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1640460</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1640460</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

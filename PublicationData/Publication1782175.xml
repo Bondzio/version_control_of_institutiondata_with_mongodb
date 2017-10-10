@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>On mappings of handlebodies and Heegaard splittings</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Friedhelm</namePart>
+  <namePart type="family">Waldhausen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10607</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">James Cecil</namePart><namePart type="family">Cantrell</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">C. Henry</namePart><namePart type="family">Edwards</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Waldhausen_017.pdf">https://pub.uni-bielefeld.de/download/1782175/2313705</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Markham Publ. Co.</publisher><dateIssued encoding="w3cdtf">1971</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Topology of manifolds: proceedings of the University of Georgia Topology of Manifolds Institute 1969</title></titleInfo>
+  <identifier type="isbn">0-8410-1018-8</identifier><identifier type="urn">urn:nbn:de:0070-bipr-30085</identifier>
+<part><extent unit="pages">205-211</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Waldhausen, F. (1971). On mappings of handlebodies and Heegaard splittings. In J. C.   Cantrell &amp;amp; C. H.  Edwards (Eds.), &lt;em&gt;Markham mathematics series&lt;/em&gt;&lt;em&gt;. Topology of manifolds: proceedings of the University of Georgia Topology of Manifolds Institute 1969&lt;/em&gt; (2. print., pp. 205-211). Chicago: Markham Publ. Co.&lt;/div&gt;</apa_indent>
+<lncs>Waldhausen, F.: On mappings of handlebodies and Heegaard splittings. In: Cantrell, J.C. and Edwards , C.H. (eds.) Topology of manifolds: proceedings of the University of Georgia Topology of Manifolds Institute 1969. Markham mathematics series. 2. print. p. 205-211. Markham Publ. Co., Chicago (1971).</lncs>
+<mla>Waldhausen, Friedhelm. “On mappings of handlebodies and Heegaard splittings”. &lt;em&gt;Topology of manifolds: proceedings of the University of Georgia Topology of Manifolds Institute 1969&lt;/em&gt;. Ed. James Cecil  Cantrell and C. Henry Edwards. 2. print. Chicago: Markham Publ. Co., 1971. Markham mathematics series. 205-211.</mla>
+<ieee>F. Waldhausen, “On mappings of handlebodies and Heegaard splittings”, &lt;em&gt;Topology of manifolds: proceedings of the University of Georgia Topology of Manifolds Institute 1969&lt;/em&gt;, J.C.  Cantrell and C.H. Edwards, eds., Markham mathematics series, 2. print.,  Chicago: Markham Publ. Co., 1971,  pp.205-211.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Waldhausen, Friedhelm. 1971. “On mappings of handlebodies and Heegaard splittings”. In &lt;em&gt;Topology of manifolds: proceedings of the University of Georgia Topology of Manifolds Institute 1969&lt;/em&gt;, ed. James Cecil  Cantrell and C. Henry Edwards, 2. print., 205-211. Markham mathematics series. Chicago: Markham Publ. Co.&lt;/div&gt;</chicago>
+<frontiers>Waldhausen, F. (1971). “On mappings of handlebodies and Heegaard splittings” in &lt;em&gt;Topology of manifolds: proceedings of the University of Georgia Topology of Manifolds Institute 1969&lt;/em&gt;, ed. J. C.   Cantrell and C. H.  Edwards Markham mathematics series 2. print. (Chicago: Markham Publ. Co.), 205-211.</frontiers>
+<apa>Waldhausen, F. (1971). On mappings of handlebodies and Heegaard splittings. In J. C.   Cantrell &amp;amp; C. H.  Edwards (Eds.), &lt;em&gt;Markham mathematics series&lt;/em&gt;&lt;em&gt;. Topology of manifolds: proceedings of the University of Georgia Topology of Manifolds Institute 1969&lt;/em&gt; (2. print., pp. 205-211). Chicago: Markham Publ. Co.</apa>
+<angewandte-chemie>F.  Waldhausen, in &lt;em&gt;Topology of manifolds: proceedings of the University of Georgia Topology of Manifolds Institute 1969&lt;/em&gt; (Eds.: J.C.  Cantrell, C.H. Edwards), Markham Publ. Co., Chicago, &lt;strong&gt;1971&lt;/strong&gt;, p. 205-211.</angewandte-chemie>
+<aps>F.  Waldhausen, On mappings of handlebodies and Heegaard splittings, in &lt;em&gt;Topology of manifolds: proceedings of the University of Georgia Topology of Manifolds Institute 1969&lt;/em&gt;, edited by J. C.   Cantrell and C. H.  Edwards, Markham mathematics series, 2. print. (Markham Publ. Co., Chicago, 1971), p. 205-211.</aps>
+<bio1>Waldhausen F (1971) &lt;br /&gt;On mappings of handlebodies and Heegaard splittings. &lt;br /&gt;In:  Topology of manifolds: proceedings of the University of Georgia Topology of Manifolds Institute 1969. Cantrell JC, Edwards  CH (Eds); Markham mathematics series,  2. print. Chicago: Markham Publ. Co.:  205-211.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Waldhausen, F. (1971). On mappings of handlebodies and Heegaard splittings (Markham mathematics series). &lt;em&gt;Topology of manifolds: proceedings of the University of Georgia Topology of Manifolds Institute 1969&lt;/em&gt; (2. print., S. 205-211). Chicago: Markham Publ. Co.&lt;/div&gt;</dgps>
+<harvard1>Waldhausen, F., 1971. On mappings of handlebodies and Heegaard splittings. In J. C.   Cantrell &amp;amp; C. H.  Edwards, eds. &lt;em&gt;Topology of manifolds: proceedings of the University of Georgia Topology of Manifolds Institute 1969&lt;/em&gt;. Markham mathematics series. 2. print.  Chicago: Markham Publ. Co., pp. 205-211.</harvard1>
+<ama>Waldhausen F. On mappings of handlebodies and Heegaard splittings. In: Cantrell JC, Edwards  CH, eds. &lt;em&gt;Topology of manifolds: proceedings of the University of Georgia Topology of Manifolds Institute 1969&lt;/em&gt;. Markham mathematics series. 2. print. Chicago: Markham Publ. Co.;  1971: 205-211.</ama>
+<default>Waldhausen F (1971)  &lt;br /&gt;In:  Topology of manifolds: proceedings of the University of Georgia Topology of Manifolds Institute 1969. Cantrell JC, Edwards  CH (Eds); Markham mathematics series,  2. print. Chicago: Markham Publ. Co.:  205-211.</default>
+<wels>Waldhausen, F. (1971): On mappings of handlebodies and Heegaard splittings. In: James Cecil  Cantrell; C. Henry Edwards (Hrsg.):  Topology of manifolds: proceedings of the University of Georgia Topology of Manifolds Institute 1969. 2. print. Chicago: Markham Publ. Co. (Markham mathematics series, ).  S. 205-211.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1782175</recordIdentifier><recordChangeDate encoding="w3cdtf">2014-06-27T12:53:54Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1782175</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1782175</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

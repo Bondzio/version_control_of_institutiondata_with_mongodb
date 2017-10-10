@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Drastic effects of El Nino on Galapagos pinnipeds</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Fritz</namePart>
+  <namePart type="family">Trillmich</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21949</identifier></name>
+<name type="personal">
+  <namePart type="given">Dominique</namePart>
+  <namePart type="family">Limberger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Verhaltensforschung</namePart>
+  <identifier type="unibi">2528935</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Population dynamics of pinnipeds living in the tropical upwelling ecosystem of the Galapagos were strongly influenced by the 1982–83 Southern Oscillation-El Nino (EN) event which was the strongest recorded in this century. The Galapagos fur seal (Arctocephalus galapagoensis) population lost the four youngest year classes (1980–1983) almost entirely and approximately 30% of the adult females and non-territorial males. Mortality of large territorial males was almost 100%. Most of the 1982 year class of Galapagos sea lions (Zalophus californianus wollebaeki) died and there was a much lower pup production in the breeding season following EN. Recurrent EN events must strongly influence age structure and average population size of these and other otariid species depending on tropical upwelling ecosystems.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Trillmich_019.pdf">https://pub.uni-bielefeld.de/download/1781862/2313554</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1985</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Oecologia</title></titleInfo>
+  <identifier type="issn">0029-8549</identifier>
+  <identifier type="eIssn">1432-1939</identifier>
+  <identifier type="ISI">A1985ANM6000003</identifier><identifier type="urn">urn:nbn:de:0070-pub-17818622</identifier><identifier type="doi">10.1007/BF00378445</identifier>
+<part><detail type="volume"><number>67</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">19-22</extent>
+</part>
+</relatedItem>
+
+<note type="nonBielefeld">yes</note>
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Trillmich, Fritz, and Limberger, Dominique. 1985. “Drastic effects of El Nino on Galapagos pinnipeds”. &lt;em&gt;Oecologia&lt;/em&gt; 67 (1): 19-22.&lt;/div&gt;</chicago>
+<frontiers>Trillmich, F., and Limberger, D. (1985). Drastic effects of El Nino on Galapagos pinnipeds. &lt;em&gt;Oecologia&lt;/em&gt; 67, 19-22.</frontiers>
+<angewandte-chemie>F.  Trillmich, and D.  Limberger, “Drastic effects of El Nino on Galapagos pinnipeds”, &lt;em&gt;Oecologia&lt;/em&gt;, &lt;strong&gt;1985&lt;/strong&gt;, &lt;em&gt;67&lt;/em&gt;, 19-22.</angewandte-chemie>
+<apa>Trillmich, F., &amp;amp; Limberger, D. (1985). Drastic effects of El Nino on Galapagos pinnipeds. &lt;em&gt;Oecologia&lt;/em&gt;, &lt;em&gt;67&lt;/em&gt;(1), 19-22.</apa>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Trillmich, F., &amp;amp; Limberger, D. (1985). Drastic effects of El Nino on Galapagos pinnipeds. &lt;em&gt;Oecologia&lt;/em&gt;, &lt;em&gt;67&lt;/em&gt;(1), 19-22.&lt;/div&gt;</apa_indent>
+<lncs>Trillmich, F., Limberger, D.: Drastic effects of El Nino on Galapagos pinnipeds. Oecologia. 67, 19-22 (1985).</lncs>
+<mla>Trillmich, Fritz, and Limberger, Dominique. “Drastic effects of El Nino on Galapagos pinnipeds”. &lt;em&gt;Oecologia&lt;/em&gt; 67.1 (1985): 19-22.</mla>
+<ieee>F. Trillmich and D. Limberger, “Drastic effects of El Nino on Galapagos pinnipeds”, &lt;em&gt;Oecologia&lt;/em&gt;,  vol. 67, 1985,  pp. 19-22.</ieee>
+<default>Trillmich F, Limberger D (1985) &lt;br /&gt;Oecologia 67(1): 19-22.</default>
+<wels>Trillmich, F.; Limberger, D. (1985): Drastic effects of El Nino on Galapagos pinnipeds &lt;em&gt;Oecologia&lt;/em&gt;,67:(1): 19-22.</wels>
+<bio1>Trillmich F, Limberger D (1985) &lt;br /&gt;Drastic effects of El Nino on Galapagos pinnipeds.&lt;br /&gt;Oecologia 67(1): 19-22.</bio1>
+<aps>F.  Trillmich and D.  Limberger, Drastic effects of El Nino on Galapagos pinnipeds, Oecologia &lt;strong&gt;67&lt;/strong&gt;, 19-22 (1985).</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Trillmich, F. &amp;amp; Limberger, D. (1985). Drastic effects of El Nino on Galapagos pinnipeds. &lt;em&gt;Oecologia&lt;/em&gt;, &lt;em&gt;67&lt;/em&gt;(1), 19-22. doi:10.1007/BF00378445.&lt;/div&gt;</dgps>
+<harvard1>Trillmich, F., &amp;amp; Limberger, D., 1985. Drastic effects of El Nino on Galapagos pinnipeds. &lt;em&gt;Oecologia&lt;/em&gt;, 67(1), p 19-22.</harvard1>
+<ama>Trillmich F, Limberger D. Drastic effects of El Nino on Galapagos pinnipeds. &lt;em&gt;Oecologia&lt;/em&gt;. 1985;67(1):19-22.</ama>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781862</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781862</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781862</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

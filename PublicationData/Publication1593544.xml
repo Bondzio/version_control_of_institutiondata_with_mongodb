@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Pulsating potential ratchet</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Peter</namePart>
+  <namePart type="family">Reimann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">70631</identifier></name>
+<name type="personal">
+  <namePart type="given">Mykhaylo</namePart>
+  <namePart type="family">Evstigneev</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">118403</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-7056-2573</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">29105470</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We consider Brownian motion in a periodic array of potential wells. The potential barriers between adjacent wells are spatially symmetric and pulsating periodically in time. While the modulation amplitude is the same for all barriers, the spatial symmetry is broken by sequentially alternating the respective pulsation frequencies among three different incommensurate values. The result is a net motion ( ratchet effect), whose direction depends in an intriguing way on the detailed choice of parameters. Copyright (C) EPLA, 2007.</abstract>
+
+<originInfo><publisher>EDP SCIENCES S A</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>EPL</title></titleInfo>
+  <identifier type="issn">0295-5075</identifier>
+  <identifier type="eIssn">1286-4854</identifier>
+  <identifier type="ISI">000247234000004</identifier><identifier type="doi">10.1209/0295-5075/78/50004</identifier>
+<part><detail type="volume"><number>78</number></detail><detail type="issue"><number>5</number></detail>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<harvard1>Reimann, P., &amp;amp; Evstigneev, M., 2007. Pulsating potential ratchet. &lt;em&gt;EPL&lt;/em&gt;, 78(5): 50004.</harvard1>
+<ama>Reimann P, Evstigneev M. Pulsating potential ratchet. &lt;em&gt;EPL&lt;/em&gt;. 2007;78(5): 50004.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Reimann, P. &amp;amp; Evstigneev, M. (2007). Pulsating potential ratchet. &lt;em&gt;EPL&lt;/em&gt;, &lt;em&gt;78&lt;/em&gt;(5): 50004. EDP SCIENCES S A. doi:10.1209/0295-5075/78/50004.&lt;/div&gt;</dgps>
+<bio1>Reimann P, Evstigneev M (2007) &lt;br /&gt;Pulsating potential ratchet.&lt;br /&gt;EPL 78(5): 50004.</bio1>
+<aps> P.  Reimann and M.  Evstigneev, Pulsating potential ratchet, EPL &lt;strong&gt;78&lt;/strong&gt;, (2007).</aps>
+<wels>Reimann, P.; Evstigneev, M. (2007): Pulsating potential ratchet &lt;em&gt;EPL&lt;/em&gt;,78:(5):50004</wels>
+<default>Reimann P, Evstigneev M (2007) &lt;br /&gt;EPL 78(5): 50004.</default>
+<ieee> P. Reimann and M. Evstigneev, “Pulsating potential ratchet”, &lt;em&gt;EPL&lt;/em&gt;,  vol. 78, 2007, : 50004.</ieee>
+<mla>Reimann, Peter, and Evstigneev, Mykhaylo. “Pulsating potential ratchet”. &lt;em&gt;EPL&lt;/em&gt; 78.5 (2007): 50004.</mla>
+<lncs> Reimann, P., Evstigneev, M.: Pulsating potential ratchet. EPL. 78, : 50004 (2007).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Reimann, P., &amp;amp; Evstigneev, M. (2007). Pulsating potential ratchet. &lt;em&gt;EPL&lt;/em&gt;, &lt;em&gt;78&lt;/em&gt;(5): 50004.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>P.  Reimann, and M.  Evstigneev, “Pulsating potential ratchet”, &lt;em&gt;EPL&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;78&lt;/em&gt;, : 50004.</angewandte-chemie>
+<apa>Reimann, P., &amp;amp; Evstigneev, M. (2007). Pulsating potential ratchet. &lt;em&gt;EPL&lt;/em&gt;, &lt;em&gt;78&lt;/em&gt;(5): 50004.</apa>
+<frontiers>Reimann, P., and Evstigneev, M. (2007). Pulsating potential ratchet. &lt;em&gt;EPL&lt;/em&gt; 78:50004.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Reimann, Peter, and Evstigneev, Mykhaylo. 2007. “Pulsating potential ratchet”. &lt;em&gt;EPL&lt;/em&gt; 78 (5): 50004.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1593544</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:15:54Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-20T09:31:05Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1593544</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1593544</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

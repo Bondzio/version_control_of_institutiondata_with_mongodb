@@ -1,0 +1,128 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Pure multiple RNA secondary structure alignments: A progressive profile approach</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Matthias</namePart>
+  <namePart type="family">Höchsmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Björn</namePart>
+  <namePart type="family">Voss</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Robert</namePart>
+  <namePart type="family">Giegerich</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">147565</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Graduate Center</namePart>
+  <identifier type="unibi">16941123</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group R. Giegerich</namePart>
+  <identifier type="unibi">33067120</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Praktische Informatik</namePart>
+  <identifier type="unibi">10039</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">In functional, noncoding RNA, structure is often essential to function. While the full 3D structure is very difficult to determine, the 2D structure of an RNA molecule gives good clues to its 3D structure, and for molecules of moderate length, it can be predicted with good reliability. Structure comparison is, in analogy to sequence comparison, the essential technique to infer related function. We provide a method for computing multiple alignments of RNA secondary structures under the tree alignment model, which is suitable to cluster RNA molecules purely on the structural level, i.e., sequence similarity is not required. We give a systematic generalization of the profile alignment method from strings to trees and forests. We introduce a tree profile representation of RNA secondary structure alignments which allows reasonable scoring in structure comparison. Besides the technical aspects, an RNA profile is a useful data structure to represent multiple structures of RNA sequences. Moreover, we propose a visualization of RNA consensus structures that is enriched by the full sequence information.</abstract>
+
+<originInfo><publisher>IEEE COMPUTER SOC</publisher><dateIssued encoding="w3cdtf">2004</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>RNA secondary structures</topic><topic>alignment of trees</topic><topic>noncoding RNAs</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>IEEE-ACM TRANSACTIONS ON COMPUTATIONAL BIOLOGY AND BIOINFORMATIOCS</title></titleInfo>
+  <identifier type="issn">1545-5963</identifier>
+  <identifier type="MEDLINE">17048408</identifier>
+  <identifier type="ISI">000235447800006</identifier><identifier type="doi">10.1109/TCBB.2004.11</identifier>
+<part><detail type="volume"><number>1</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">53-62</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Höchsmann, Matthias, Voss, Björn, and Giegerich, Robert. 2004. “Pure multiple RNA secondary structure alignments: A progressive profile approach”. &lt;em&gt;IEEE-ACM TRANSACTIONS ON COMPUTATIONAL BIOLOGY AND BIOINFORMATIOCS&lt;/em&gt; 1 (1): 53-62.&lt;/div&gt;</chicago>
+<apa>Höchsmann, M., Voss, B., &amp;amp; Giegerich, R. (2004). Pure multiple RNA secondary structure alignments: A progressive profile approach. &lt;em&gt;IEEE-ACM TRANSACTIONS ON COMPUTATIONAL BIOLOGY AND BIOINFORMATIOCS&lt;/em&gt;, &lt;em&gt;1&lt;/em&gt;(1), 53-62.</apa>
+<angewandte-chemie>M.  Höchsmann, B.  Voss, and R.  Giegerich, “Pure multiple RNA secondary structure alignments: A progressive profile approach”, &lt;em&gt;IEEE-ACM TRANSACTIONS ON COMPUTATIONAL BIOLOGY AND BIOINFORMATIOCS&lt;/em&gt;, &lt;strong&gt;2004&lt;/strong&gt;, &lt;em&gt;1&lt;/em&gt;, 53-62.</angewandte-chemie>
+<frontiers>Höchsmann, M., Voss, B., and Giegerich, R. (2004). Pure multiple RNA secondary structure alignments: A progressive profile approach. &lt;em&gt;IEEE-ACM TRANSACTIONS ON COMPUTATIONAL BIOLOGY AND BIOINFORMATIOCS&lt;/em&gt; 1, 53-62.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Höchsmann, M., Voss, B., &amp;amp; Giegerich, R. (2004). Pure multiple RNA secondary structure alignments: A progressive profile approach. &lt;em&gt;IEEE-ACM TRANSACTIONS ON COMPUTATIONAL BIOLOGY AND BIOINFORMATIOCS&lt;/em&gt;, &lt;em&gt;1&lt;/em&gt;(1), 53-62.&lt;/div&gt;</apa_indent>
+<ieee>M. Höchsmann, B. Voss, and R. Giegerich, “Pure multiple RNA secondary structure alignments: A progressive profile approach”, &lt;em&gt;IEEE-ACM TRANSACTIONS ON COMPUTATIONAL BIOLOGY AND BIOINFORMATIOCS&lt;/em&gt;,  vol. 1, 2004,  pp. 53-62.</ieee>
+<mla>Höchsmann, Matthias, Voss, Björn, and Giegerich, Robert. “Pure multiple RNA secondary structure alignments: A progressive profile approach”. &lt;em&gt;IEEE-ACM TRANSACTIONS ON COMPUTATIONAL BIOLOGY AND BIOINFORMATIOCS&lt;/em&gt; 1.1 (2004): 53-62.</mla>
+<lncs>Höchsmann, M., Voss, B., Giegerich, R.: Pure multiple RNA secondary structure alignments: A progressive profile approach. IEEE-ACM TRANSACTIONS ON COMPUTATIONAL BIOLOGY AND BIOINFORMATIOCS. 1, 53-62 (2004).</lncs>
+<wels>Höchsmann, M.; Voss, B.; Giegerich, R. (2004): Pure multiple RNA secondary structure alignments: A progressive profile approach &lt;em&gt;IEEE-ACM TRANSACTIONS ON COMPUTATIONAL BIOLOGY AND BIOINFORMATIOCS&lt;/em&gt;,1:(1): 53-62.</wels>
+<default>Höchsmann M, Voss B, Giegerich R (2004) &lt;br /&gt;IEEE-ACM TRANSACTIONS ON COMPUTATIONAL BIOLOGY AND BIOINFORMATIOCS 1(1): 53-62.</default>
+<ama>Höchsmann M, Voss B, Giegerich R. Pure multiple RNA secondary structure alignments: A progressive profile approach. &lt;em&gt;IEEE-ACM TRANSACTIONS ON COMPUTATIONAL BIOLOGY AND BIOINFORMATIOCS&lt;/em&gt;. 2004;1(1):53-62.</ama>
+<harvard1>Höchsmann, M., Voss, B., &amp;amp; Giegerich, R., 2004. Pure multiple RNA secondary structure alignments: A progressive profile approach. &lt;em&gt;IEEE-ACM TRANSACTIONS ON COMPUTATIONAL BIOLOGY AND BIOINFORMATIOCS&lt;/em&gt;, 1(1), p 53-62.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Höchsmann, M., Voss, B. &amp;amp; Giegerich, R. (2004). Pure multiple RNA secondary structure alignments: A progressive profile approach. &lt;em&gt;IEEE-ACM TRANSACTIONS ON COMPUTATIONAL BIOLOGY AND BIOINFORMATIOCS&lt;/em&gt;, &lt;em&gt;1&lt;/em&gt;(1), 53-62. IEEE COMPUTER SOC. doi:10.1109/TCBB.2004.11.&lt;/div&gt;</dgps>
+<bio1>Höchsmann M, Voss B, Giegerich R (2004) &lt;br /&gt;Pure multiple RNA secondary structure alignments: A progressive profile approach.&lt;br /&gt;IEEE-ACM TRANSACTIONS ON COMPUTATIONAL BIOLOGY AND BIOINFORMATIOCS 1(1): 53-62.</bio1>
+<aps>M.  Höchsmann, B.  Voss, and R.  Giegerich, Pure multiple RNA secondary structure alignments: A progressive profile approach, IEEE-ACM TRANSACTIONS ON COMPUTATIONAL BIOLOGY AND BIOINFORMATIOCS &lt;strong&gt;1&lt;/strong&gt;, 53-62 (2004).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1600293</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:31:12Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-10-06T14:24:59Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1600293</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1600293</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

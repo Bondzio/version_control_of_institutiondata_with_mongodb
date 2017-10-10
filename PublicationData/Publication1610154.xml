@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>A ring walk of methylene groups in toluene radical cations. An extension of the toluene-cycloheptatriene rearrangement of aromatic radical cations. Theory and experiment</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Hans-Friedrich</namePart>
+  <namePart type="family">Grützmacher</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">41603</identifier></name>
+<name type="personal">
+  <namePart type="given">Natascha</namePart>
+  <namePart type="family">Harting</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Chemie</namePart>
+  <identifier type="unibi">10018</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The minimum energy reaction pathway (MERP) of the toluene-cycloheptatriene radical cation rearrangement (TOL/CHT-rearrangement) has been calculated by the UHF and DFT model at the level UHF/6-311+G(3df,2p)//UHF/6-31G(d) and B3LYP/6311+G(3df,2p)//B3LYp/6-31G(d), respectively, including the ring walk of the substituent by a 1,2-shift around the aromatic ring. This ring walk corresponds to interconversion of distonic ions and norcaradiene radical cations (the two intermediates of the TOL/CHT-rearrangement) by making and breaking of the external C-C bonds of the cyclopropane moiety of the intermediate norcaradiene structure. For toluene radical cation 1, UHF calculations adequately reproduce earlier results 4 and show, that the ring walk of the CH3-substituents requires slightly more energy than formation of the cycloheptatriene radical cation. By the DFT model, the distonic ion, which is formed initially by a 1,2-H shift from CH, to the benzene ring, is not stable but the transition state of an interconversion of norcaradiene radical cations along a ring walk of the CH, substituent. The activation energy for this ring walk exceeds that for formation of the cycloheptatriene radical cation by c. 30 kJ mol(-1). Thus, isomerization of 1 by a ring walk of the CH3 substituent competes with the TOL/CHT-rearrangement likely only for excited 1. The calculation was repeated for the MERPs of a TOL/CHT-rearrangement of para-xylene radical cation 5 and ethylbenzene radical cation 2, yielding basically the same results as for 1. According to the calculation, polar substituents alter significantly the relative energies of the competing routes of isomerization. For benzylcyanide 3 (X = CN), the activation energy for a ring walk of the NC-CH2-substituent is distinctly below that of a ring enlargement. For benzyl methyl ether 4 (X = OCH3), the distonic intermediate along the UHF-MERP is unusually stable. Further, the 7-methoxy-norcaradiene radical ion is unstable and corresponds to a transition state between isomeric distonic intermediates differing by a 1 2-shift of the side chain. In contrast, the 7-methoxy-norearadiene radical ion is the only intermediate of the DFT-MERP, and the distonic ion is the transition state for a 1,2-shift of the cyclopropane ring. A ring walk of the CH3OCH2-substituent is much more favorable than formation of a 7-methoxy-cycloheptatriene radical cation in both MERPs. The findings of the theoretical calculation are substantiated by the mass spectrometric fragmentations of meta- and para-methoxymethylated 1-phenylethanols 8 and 9 and of para-methoxymethyl substituted benzyl ethyl ether 10 and benzyl n-propyl ether It. Important fragmentation routes of metastable molecular ions of these compounds correspond to elimination of alcohols. Use of deuterated derivatives shows that the elimination occurs by a &quot;false&quot; ortho-effect which requires migration of a ROCH2-substituent around the benzene ring. Results of particular interest are obtained for the asymmetric bis-ethers 10 and 11. Here, the MIKE spectra of the molecular ions of deuterated analogs reveal a selective ring walk of the C2H5OCH2- and n-C3H7OCH2-side chain, respectively.</abstract>
+
+<originInfo><publisher>IM PUBLICATIONS</publisher><dateIssued encoding="w3cdtf">2003</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>rearrangement</topic><topic>toluene-cycloheptatriene radical cation rearrangement</topic><topic>substituent effect</topic><topic>substituent ring walk</topic><topic>profile</topic><topic>reaction energy</topic><topic>theoretical calculation</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>EUROPEAN JOURNAL OF MASS SPECTROMETRY</title></titleInfo>
+  <identifier type="issn">1356-1049</identifier>
+  <identifier type="MEDLINE">12939485</identifier>
+  <identifier type="ISI">000185456100012</identifier><identifier type="doi">10.1255/ejms.565</identifier>
+<part><detail type="volume"><number>9</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">327-341</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Grützmacher, H. - F., &amp;amp; Harting, N. (2003). A ring walk of methylene groups in toluene radical cations. An extension of the toluene-cycloheptatriene rearrangement of aromatic radical cations. Theory and experiment. &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;, &lt;em&gt;9&lt;/em&gt;(1), 327-341.&lt;/div&gt;</apa_indent>
+<lncs>Grützmacher, H.-F., Harting, N.: A ring walk of methylene groups in toluene radical cations. An extension of the toluene-cycloheptatriene rearrangement of aromatic radical cations. Theory and experiment. EUROPEAN JOURNAL OF MASS SPECTROMETRY. 9, 327-341 (2003).</lncs>
+<mla>Grützmacher, Hans-Friedrich, and Harting, Natascha. “A ring walk of methylene groups in toluene radical cations. An extension of the toluene-cycloheptatriene rearrangement of aromatic radical cations. Theory and experiment”. &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt; 9.1 (2003): 327-341.</mla>
+<ieee>H.-F. Grützmacher and N. Harting, “A ring walk of methylene groups in toluene radical cations. An extension of the toluene-cycloheptatriene rearrangement of aromatic radical cations. Theory and experiment”, &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;,  vol. 9, 2003,  pp. 327-341.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Grützmacher, Hans-Friedrich, and Harting, Natascha. 2003. “A ring walk of methylene groups in toluene radical cations. An extension of the toluene-cycloheptatriene rearrangement of aromatic radical cations. Theory and experiment”. &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt; 9 (1): 327-341.&lt;/div&gt;</chicago>
+<frontiers>Grützmacher, H. - F., and Harting, N. (2003). A ring walk of methylene groups in toluene radical cations. An extension of the toluene-cycloheptatriene rearrangement of aromatic radical cations. Theory and experiment. &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt; 9, 327-341.</frontiers>
+<apa>Grützmacher, H. - F., &amp;amp; Harting, N. (2003). A ring walk of methylene groups in toluene radical cations. An extension of the toluene-cycloheptatriene rearrangement of aromatic radical cations. Theory and experiment. &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;, &lt;em&gt;9&lt;/em&gt;(1), 327-341.</apa>
+<angewandte-chemie>H. - F.  Grützmacher, and N.  Harting, “A ring walk of methylene groups in toluene radical cations. An extension of the toluene-cycloheptatriene rearrangement of aromatic radical cations. Theory and experiment”, &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;, &lt;strong&gt;2003&lt;/strong&gt;, &lt;em&gt;9&lt;/em&gt;, 327-341.</angewandte-chemie>
+<aps>H. - F.  Grützmacher and N.  Harting, A ring walk of methylene groups in toluene radical cations. An extension of the toluene-cycloheptatriene rearrangement of aromatic radical cations. Theory and experiment, EUROPEAN JOURNAL OF MASS SPECTROMETRY &lt;strong&gt;9&lt;/strong&gt;, 327-341 (2003).</aps>
+<bio1>Grützmacher H-F, Harting N (2003) &lt;br /&gt;A ring walk of methylene groups in toluene radical cations. An extension of the toluene-cycloheptatriene rearrangement of aromatic radical cations. Theory and experiment.&lt;br /&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY 9(1): 327-341.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Grützmacher, H.-F. &amp;amp; Harting, N. (2003). A ring walk of methylene groups in toluene radical cations. An extension of the toluene-cycloheptatriene rearrangement of aromatic radical cations. Theory and experiment. &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;, &lt;em&gt;9&lt;/em&gt;(1), 327-341. IM PUBLICATIONS. doi:10.1255/ejms.565.&lt;/div&gt;</dgps>
+<harvard1>Grützmacher, H.-F., &amp;amp; Harting, N., 2003. A ring walk of methylene groups in toluene radical cations. An extension of the toluene-cycloheptatriene rearrangement of aromatic radical cations. Theory and experiment. &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;, 9(1), p 327-341.</harvard1>
+<ama>Grützmacher H-F, Harting N. A ring walk of methylene groups in toluene radical cations. An extension of the toluene-cycloheptatriene rearrangement of aromatic radical cations. Theory and experiment. &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;. 2003;9(1):327-341.</ama>
+<default>Grützmacher H-F, Harting N (2003) &lt;br /&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY 9(1): 327-341.</default>
+<wels>Grützmacher, H. - F.; Harting, N. (2003): A ring walk of methylene groups in toluene radical cations. An extension of the toluene-cycloheptatriene rearrangement of aromatic radical cations. Theory and experiment &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;,9:(1): 327-341.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1610154</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:58:54Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-10T14:56:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1610154</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1610154</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

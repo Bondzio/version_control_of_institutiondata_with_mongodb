@@ -1,0 +1,107 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Single-molecule fluorescence resonance energy transfer in nanopipets: Improving distance resolution and concentration range</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Jan</namePart>
+  <namePart type="family">Vogelsang</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Soren</namePart>
+  <namePart type="family">Doose</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Markus</namePart>
+  <namePart type="family">Sauer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">177825</identifier></name>
+<name type="personal">
+  <namePart type="given">Philip</namePart>
+  <namePart type="family">Tinnefeld</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">In recent years fluorescence resonance energy transfer (FRET) has widely been used to measure distances, binding, and distance dynamics at the single-molecule (sm) level. Some basic constraints of smFRET are the limited distance resolution owing to low photon statistics and the restriction to high affinity interactions. We demonstrate that by confining molecules in nanopipets with an inner diameter of similar to 100 nm at the tip, FRET can be measured with improved photon statistics and at up to 50-fold higher concentrations. The flow of the donor/acceptor (Cy3B/ATTO647N) labeled double-stranded DNA conjugates was established by electrokinetic forces. Because of the small inner diameter of the nanopipet, every molecule passing the tip is detected applying alternating laser excitation (ALEX). Thus, the technique offers the advantage to study interactions with smaller association constants (&lt; 10(9) M-1) using minute sample amounts (&lt; 5 mu L). The improved photon statistics reduces shot-noise contributions and results in sharper FRET distributions. Experimental results are supported by Monte Carlo simulations which also explain the occurrence of two populations in burst size distributions measured in nanopipet experiments. Because of the confinement of the molecules in nanopipets, the widths of FRET histograms are reduced to a degree where shot-noise is not the only limiting factor but also conformational dynamics of the linkers used to attach the chromophores have to be considered. In addition, our experiments emphasize the influence of photoinduced dark states on both the mean energy transfer efficiency and the width of FRET histograms.</abstract>
+
+<originInfo><publisher>AMER CHEMICAL SOC</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>ANALYTICAL CHEMISTRY</title></titleInfo>
+  <identifier type="issn">0003-2700</identifier>
+  <identifier type="eIssn">1520-6882</identifier>
+  <identifier type="MEDLINE">17822310</identifier>
+  <identifier type="ISI">000249871000026</identifier><identifier type="doi">10.1021/ac071176n</identifier>
+<part><detail type="volume"><number>79</number></detail><detail type="issue"><number>19</number></detail><extent unit="pages">7367-7375</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Vogelsang J, Doose S, Sauer M, Tinnefeld P (2007) &lt;br /&gt;ANALYTICAL CHEMISTRY 79(19): 7367-7375.</default>
+<wels>Vogelsang, J.; Doose, S.; Sauer, M.; Tinnefeld, P. (2007): Single-molecule fluorescence resonance energy transfer in nanopipets: Improving distance resolution and concentration range &lt;em&gt;ANALYTICAL CHEMISTRY&lt;/em&gt;,79:(19): 7367-7375.</wels>
+<aps>J.  Vogelsang, et al., Single-molecule fluorescence resonance energy transfer in nanopipets: Improving distance resolution and concentration range, ANALYTICAL CHEMISTRY &lt;strong&gt;79&lt;/strong&gt;, 7367-7375 (2007).</aps>
+<bio1>Vogelsang J, Doose S, Sauer M, Tinnefeld P (2007) &lt;br /&gt;Single-molecule fluorescence resonance energy transfer in nanopipets: Improving distance resolution and concentration range.&lt;br /&gt;ANALYTICAL CHEMISTRY 79(19): 7367-7375.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Vogelsang, J., Doose, S., Sauer, M. &amp;amp; Tinnefeld, P. (2007). Single-molecule fluorescence resonance energy transfer in nanopipets: Improving distance resolution and concentration range. &lt;em&gt;ANALYTICAL CHEMISTRY&lt;/em&gt;, &lt;em&gt;79&lt;/em&gt;(19), 7367-7375. AMER CHEMICAL SOC. doi:10.1021/ac071176n.&lt;/div&gt;</dgps>
+<harvard1>Vogelsang, J., et al., 2007. Single-molecule fluorescence resonance energy transfer in nanopipets: Improving distance resolution and concentration range. &lt;em&gt;ANALYTICAL CHEMISTRY&lt;/em&gt;, 79(19), p 7367-7375.</harvard1>
+<ama>Vogelsang J, Doose S, Sauer M, Tinnefeld P. Single-molecule fluorescence resonance energy transfer in nanopipets: Improving distance resolution and concentration range. &lt;em&gt;ANALYTICAL CHEMISTRY&lt;/em&gt;. 2007;79(19):7367-7375.</ama>
+<frontiers>Vogelsang, J., Doose, S., Sauer, M., and Tinnefeld, P. (2007). Single-molecule fluorescence resonance energy transfer in nanopipets: Improving distance resolution and concentration range. &lt;em&gt;ANALYTICAL CHEMISTRY&lt;/em&gt; 79, 7367-7375.</frontiers>
+<apa>Vogelsang, J., Doose, S., Sauer, M., &amp;amp; Tinnefeld, P. (2007). Single-molecule fluorescence resonance energy transfer in nanopipets: Improving distance resolution and concentration range. &lt;em&gt;ANALYTICAL CHEMISTRY&lt;/em&gt;, &lt;em&gt;79&lt;/em&gt;(19), 7367-7375.</apa>
+<angewandte-chemie>J.  Vogelsang, S.  Doose, M.  Sauer, and P.  Tinnefeld, “Single-molecule fluorescence resonance energy transfer in nanopipets: Improving distance resolution and concentration range”, &lt;em&gt;ANALYTICAL CHEMISTRY&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;79&lt;/em&gt;, 7367-7375.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Vogelsang, Jan, Doose, Soren, Sauer, Markus, and Tinnefeld, Philip. 2007. “Single-molecule fluorescence resonance energy transfer in nanopipets: Improving distance resolution and concentration range”. &lt;em&gt;ANALYTICAL CHEMISTRY&lt;/em&gt; 79 (19): 7367-7375.&lt;/div&gt;</chicago>
+<lncs>Vogelsang, J., Doose, S., Sauer, M., Tinnefeld, P.: Single-molecule fluorescence resonance energy transfer in nanopipets: Improving distance resolution and concentration range. ANALYTICAL CHEMISTRY. 79, 7367-7375 (2007).</lncs>
+<mla>Vogelsang, Jan, Doose, Soren, Sauer, Markus, and Tinnefeld, Philip. “Single-molecule fluorescence resonance energy transfer in nanopipets: Improving distance resolution and concentration range”. &lt;em&gt;ANALYTICAL CHEMISTRY&lt;/em&gt; 79.19 (2007): 7367-7375.</mla>
+<ieee>J. Vogelsang, et al., “Single-molecule fluorescence resonance energy transfer in nanopipets: Improving distance resolution and concentration range”, &lt;em&gt;ANALYTICAL CHEMISTRY&lt;/em&gt;,  vol. 79, 2007,  pp. 7367-7375.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Vogelsang, J., Doose, S., Sauer, M., &amp;amp; Tinnefeld, P. (2007). Single-molecule fluorescence resonance energy transfer in nanopipets: Improving distance resolution and concentration range. &lt;em&gt;ANALYTICAL CHEMISTRY&lt;/em&gt;, &lt;em&gt;79&lt;/em&gt;(19), 7367-7375.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1631864</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:05:58Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-01-18T14:21:46Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1631864</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1631864</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

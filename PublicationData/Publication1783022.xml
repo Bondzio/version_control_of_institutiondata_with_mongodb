@@ -1,0 +1,171 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Trace2PS and FSA2PS: two software toolkits for converting trace and fsa files to PostScript format</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Justina</namePart>
+  <namePart type="family">Krawczyk</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">8254153</identifier></name>
+<name type="personal">
+  <namePart type="given">Alexander</namePart>
+  <namePart type="family">Goesmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">152495</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-7086-2568</description></name>
+<name type="personal">
+  <namePart type="given">Ralf</namePart>
+  <namePart type="family">Nolte</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">166681</identifier></name>
+<name type="personal">
+  <namePart type="given">Martin</namePart>
+  <namePart type="family">Werber</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Bernd</namePart>
+  <namePart type="family">Weisshaar</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">86212</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-7635-3473</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Research Group A. Goesmann</namePart>
+  <identifier type="unibi">33067438</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Genomforschung</namePart>
+  <identifier type="unibi">2684836</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  B. Weisshaar</namePart>
+  <identifier type="unibi">33070678</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Computational Genomics</namePart>
+  <identifier type="unibi">29609402</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Bioinformatics Resource Facility</namePart>
+  <identifier type="unibi">441927</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Genomforschung und Systembiologie</namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Background:
+
+Due to the advanced techniques in sequencing and fragment analysis, DNA sequencers and analyzers produce vast amounts of data within short time. To administrate the large data volume conveniently, efficient data management systems are used in order to process and to store sequencers&apos; or analyzers&apos; data outcome. The inclusion of graphical reports in such systems is necessary to achieve a comprehensive view of the integrated data. However, the resulting data of sequencing and fragment analysis runs are stored in a proprietary format, the so-called trace or fsa format, which is only readable by programs provided by the instrument&apos;s vendor operating on the machine itself or by commercial tools designed for editing the respective data. To allow for a quick conversion of the proprietary data format into a commonly used one, toolkits are required that reach this aim and can be easily integrated into workflow systems.
+Results:
+
+We have developed the software toolkits Trace2PS and Fsa2PS which allow to convert sequence and fragment analysis raw data files to PostScript images, respectively. The toolkits are implemented as Perl modules that can be used as standalone command line applications in conjunction with a script-based analysis pipeline, or integrated in software applications for displaying the data content of trace and fsa files. The converter modules support the commonly used file formats for storage of sequencing (ABI and SCF) and fragment analysis data (FSA).
+Conclusion:
+
+The software toolkits provide useful applications to convert sequencing and fragment analysis files from a proprietary into a more common, human-readable format. Trace2PS and FSA2PS are useful and capable in data management workflow systems like SAMS, or laboratory information systems that are used for displaying trace and fragment analysis results via web-based tools over an intranet or internet connection to users that can view their results directly on the screen.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="BMC_01.pdf">https://pub.uni-bielefeld.de/download/1783022/2314099</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Springer Science + Business Media</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Source Code for Biology and Medicine</title></titleInfo>
+  <identifier type="issn">1751-0473</identifier>
+  <identifier type="MEDLINE">19622158</identifier><identifier type="urn">urn:nbn:de:0070-pub-17830223</identifier><identifier type="doi">10.1186/1751-0473-4-4</identifier>
+<part><detail type="volume"><number>4</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">4</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<lncs>Krawczyk, J., Goesmann, A., Nolte, R., Werber, M., Weisshaar, B.: Trace2PS and FSA2PS: two software toolkits for converting trace and fsa files to PostScript format. Source Code for Biology and Medicine. 4, (2009).</lncs>
+<mla>Krawczyk, Justina, Goesmann, Alexander, Nolte, Ralf, Werber, Martin, and Weisshaar, Bernd. “Trace2PS and FSA2PS: two software toolkits for converting trace and fsa files to PostScript format”. &lt;em&gt;Source Code for Biology and Medicine&lt;/em&gt; 4.1 (2009).</mla>
+<ieee>J. Krawczyk, et al., “Trace2PS and FSA2PS: two software toolkits for converting trace and fsa files to PostScript format”, &lt;em&gt;Source Code for Biology and Medicine&lt;/em&gt;,  vol. 4, 2009.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Krawczyk, J., Goesmann, A., Nolte, R., Werber, M., &amp;amp; Weisshaar, B. (2009). Trace2PS and FSA2PS: two software toolkits for converting trace and fsa files to PostScript format. &lt;em&gt;Source Code for Biology and Medicine&lt;/em&gt;, &lt;em&gt;4&lt;/em&gt;(1).&lt;/div&gt;</apa_indent>
+<frontiers>Krawczyk, J., Goesmann, A., Nolte, R., Werber, M., and Weisshaar, B. (2009). Trace2PS and FSA2PS: two software toolkits for converting trace and fsa files to PostScript format. &lt;em&gt;Source Code for Biology and Medicine&lt;/em&gt; 4.</frontiers>
+<angewandte-chemie>J.  Krawczyk, A.  Goesmann, R.  Nolte, M.  Werber, and B.  Weisshaar, “Trace2PS and FSA2PS: two software toolkits for converting trace and fsa files to PostScript format”, &lt;em&gt;Source Code for Biology and Medicine&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;4&lt;/em&gt;.</angewandte-chemie>
+<apa>Krawczyk, J., Goesmann, A., Nolte, R., Werber, M., &amp;amp; Weisshaar, B. (2009). Trace2PS and FSA2PS: two software toolkits for converting trace and fsa files to PostScript format. &lt;em&gt;Source Code for Biology and Medicine&lt;/em&gt;, &lt;em&gt;4&lt;/em&gt;(1).</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Krawczyk, Justina, Goesmann, Alexander, Nolte, Ralf, Werber, Martin, and Weisshaar, Bernd. 2009. “Trace2PS and FSA2PS: two software toolkits for converting trace and fsa files to PostScript format”. &lt;em&gt;Source Code for Biology and Medicine&lt;/em&gt; 4 (1).&lt;/div&gt;</chicago>
+<aps>J.  Krawczyk, et al., Trace2PS and FSA2PS: two software toolkits for converting trace and fsa files to PostScript format, Source Code for Biology and Medicine &lt;strong&gt;4&lt;/strong&gt;, (2009).</aps>
+<bio1>Krawczyk J, Goesmann A, Nolte R, Werber M, Weisshaar B (2009) &lt;br /&gt;Trace2PS and FSA2PS: two software toolkits for converting trace and fsa files to PostScript format.&lt;br /&gt;Source Code for Biology and Medicine 4(1).</bio1>
+<harvard1>Krawczyk, J., et al., 2009. Trace2PS and FSA2PS: two software toolkits for converting trace and fsa files to PostScript format. &lt;em&gt;Source Code for Biology and Medicine&lt;/em&gt;, 4(1).</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Krawczyk, J., Goesmann, A., Nolte, R., Werber, M. &amp;amp; Weisshaar, B. (2009). Trace2PS and FSA2PS: two software toolkits for converting trace and fsa files to PostScript format. &lt;em&gt;Source Code for Biology and Medicine&lt;/em&gt;, &lt;em&gt;4&lt;/em&gt;(1). Springer Science + Business Media. doi:10.1186/1751-0473-4-4.&lt;/div&gt;</dgps>
+<ama>Krawczyk J, Goesmann A, Nolte R, Werber M, Weisshaar B. Trace2PS and FSA2PS: two software toolkits for converting trace and fsa files to PostScript format. &lt;em&gt;Source Code for Biology and Medicine&lt;/em&gt;. 2009;4(1).</ama>
+<default>Krawczyk J, Goesmann A, Nolte R, Werber M, Weisshaar B (2009) &lt;br /&gt;Source Code for Biology and Medicine 4(1).</default>
+<wels>Krawczyk, J.; Goesmann, A.; Nolte, R.; Werber, M.; Weisshaar, B. (2009): Trace2PS and FSA2PS: two software toolkits for converting trace and fsa files to PostScript format &lt;em&gt;Source Code for Biology and Medicine&lt;/em&gt;,4:(1)</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1783022</recordIdentifier><recordCreationDate encoding="w3cdtf">2015-12-16T10:29:06Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2015-12-16T10:29:06Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1783022</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1783022</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

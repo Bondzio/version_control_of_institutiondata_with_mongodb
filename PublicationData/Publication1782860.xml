@@ -1,0 +1,95 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Das deutsche Lesebuch: was kann man aus seiner Geschichte und Verwendung lernen?</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Hans</namePart>
+  <namePart type="family">Kroeger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Wissenschaftliche Einrichtung Oberstufenkolleg</namePart>
+  <identifier type="unibi">11292831</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT3367.pdf">https://pub.uni-bielefeld.de/download/1782860/2314030</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1983</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Diskussion Deutsch</title></titleInfo><identifier type="urn">urn:nbn:de:0070-bipr-33672</identifier>
+<part><detail type="volume"><number>70</number></detail><extent unit="pages">189-204</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kroeger, H. (1983). Das deutsche Lesebuch: was kann man aus seiner Geschichte und Verwendung lernen? &lt;em&gt;Diskussion Deutsch&lt;/em&gt;, &lt;em&gt;70&lt;/em&gt;, 189-204.&lt;/div&gt;</apa_indent>
+<mla>Kroeger, Hans. “Das deutsche Lesebuch: was kann man aus seiner Geschichte und Verwendung lernen?”. &lt;em&gt;Diskussion Deutsch&lt;/em&gt; 70 (1983): 189-204.</mla>
+<lncs>Kroeger, H.: Das deutsche Lesebuch: was kann man aus seiner Geschichte und Verwendung lernen? Diskussion Deutsch. 70, 189-204 (1983).</lncs>
+<ieee>H. Kroeger, “Das deutsche Lesebuch: was kann man aus seiner Geschichte und Verwendung lernen?”, &lt;em&gt;Diskussion Deutsch&lt;/em&gt;,  vol. 70, 1983,  pp. 189-204.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kroeger, Hans. 1983. “Das deutsche Lesebuch: was kann man aus seiner Geschichte und Verwendung lernen?”. &lt;em&gt;Diskussion Deutsch&lt;/em&gt; 70: 189-204.&lt;/div&gt;</chicago>
+<frontiers>Kroeger, H. (1983). Das deutsche Lesebuch: was kann man aus seiner Geschichte und Verwendung lernen? &lt;em&gt;Diskussion Deutsch&lt;/em&gt; 70, 189-204.</frontiers>
+<apa>Kroeger, H. (1983). Das deutsche Lesebuch: was kann man aus seiner Geschichte und Verwendung lernen? &lt;em&gt;Diskussion Deutsch&lt;/em&gt;, &lt;em&gt;70&lt;/em&gt;, 189-204.</apa>
+<angewandte-chemie>H.  Kroeger, “Das deutsche Lesebuch: was kann man aus seiner Geschichte und Verwendung lernen?”, &lt;em&gt;Diskussion Deutsch&lt;/em&gt;, &lt;strong&gt;1983&lt;/strong&gt;, &lt;em&gt;70&lt;/em&gt;, 189-204.</angewandte-chemie>
+<aps>H.  Kroeger, Das deutsche Lesebuch: was kann man aus seiner Geschichte und Verwendung lernen?, Diskussion Deutsch &lt;strong&gt;70&lt;/strong&gt;, 189-204 (1983).</aps>
+<bio1>Kroeger H (1983) &lt;br /&gt;Das deutsche Lesebuch: was kann man aus seiner Geschichte und Verwendung lernen?&lt;br /&gt;Diskussion Deutsch 70: 189-204.</bio1>
+<ama>Kroeger H. Das deutsche Lesebuch: was kann man aus seiner Geschichte und Verwendung lernen? &lt;em&gt;Diskussion Deutsch&lt;/em&gt;. 1983;70:189-204.</ama>
+<harvard1>Kroeger, H., 1983. Das deutsche Lesebuch: was kann man aus seiner Geschichte und Verwendung lernen? &lt;em&gt;Diskussion Deutsch&lt;/em&gt;, 70, p 189-204.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kroeger, H. (1983). Das deutsche Lesebuch: was kann man aus seiner Geschichte und Verwendung lernen? &lt;em&gt;Diskussion Deutsch&lt;/em&gt;, &lt;em&gt;70&lt;/em&gt;, 189-204.&lt;/div&gt;</dgps>
+<default>Kroeger H (1983) &lt;br /&gt;Diskussion Deutsch 70: 189-204.</default>
+<wels>Kroeger, H. (1983): Das deutsche Lesebuch: was kann man aus seiner Geschichte und Verwendung lernen? &lt;em&gt;Diskussion Deutsch&lt;/em&gt;,70: 189-204.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1782860</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1782860</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1782860</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

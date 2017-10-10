@@ -1,0 +1,157 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Sulfatase modifying factor 1 trafficking through the cells: from endoplasmic reticulum to the endoplasmic reticulum</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Ester</namePart>
+  <namePart type="family">Zito</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Mario</namePart>
+  <namePart type="family">Buono</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Stefano</namePart>
+  <namePart type="family">Pepe</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Carmine</namePart>
+  <namePart type="family">Settembre</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ida</namePart>
+  <namePart type="family">Annunziata</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Enrico Maria</namePart>
+  <namePart type="family">Surace</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Thomas</namePart>
+  <namePart type="family">Dierks</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">140658</identifier></name>
+<name type="personal">
+  <namePart type="given">Maria</namePart>
+  <namePart type="family">Monti</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Marianna</namePart>
+  <namePart type="family">Cozzolino</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Piero</namePart>
+  <namePart type="family">Pucci</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andrea</namePart>
+  <namePart type="family">Ballabio</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Maria Pia</namePart>
+  <namePart type="family">Cosma</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Biochemie und Biotechnik</namePart>
+  <identifier type="unibi">4838684</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  T. Dierks</namePart>
+  <identifier type="unibi">33086409</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Biochemie I</namePart>
+  <identifier type="unibi">17967</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Sulfatase modifying factor 1 (SUMF1) is the gene mutated in multiple sulfatase deficiency (MSD) that encodes the formylglycine-generating enzyme, an essential activator of all the sulfatases. SUMF1 is a glycosylated enzyme that is resident in the endoplasmic reticulum (ER), although it is also secreted. Here, we demonstrate that upon secretion, SUMF1 can be taken up from the medium by several cell lines. Furthermore, the in vivo engineering of mice liver to produce SUMF1 shows its secretion into the blood serum and its uptake into different tissues. Additionally, we show that non-glycosylated forms of SUMF1 can still be secreted, while only the glycosylated SUMF1 enters cells, via a receptor-mediated mechanism. Surprisingly, following its uptake, SUMF1 shuttles from the plasma membrane to the ER, a route that has to date only been well characterized for some of the toxins. Remarkably, once taken up and relocalized into the ER, SUMF1 is still active, enhancing the sulfatase activities in both cultured cells and mice tissues.</abstract>
+
+<originInfo><publisher>NATURE PUBLISHING GROUP</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>endoplasmic reticulum</topic><topic>sulfatases</topic><topic>trafficking</topic><topic>SUMF1</topic><topic>protein secretion and uptake</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>EMBO JOURNAL</title></titleInfo>
+  <identifier type="issn">0261-4189</identifier>
+  <identifier type="eIssn">1460-2075</identifier>
+  <identifier type="MEDLINE">17446859</identifier>
+  <identifier type="ISI">000247083100001</identifier><identifier type="doi">10.1038/sj.emboj.7601695</identifier>
+<part><detail type="volume"><number>26</number></detail><detail type="issue"><number>10</number></detail><extent unit="pages">2443-2453</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<angewandte-chemie>E.  Zito, M.  Buono, S.  Pepe, C.  Settembre, I.  Annunziata, E. M.  Surace, T.  Dierks, M.  Monti, M.  Cozzolino, P.  Pucci, et al., “Sulfatase modifying factor 1 trafficking through the cells: from endoplasmic reticulum to the endoplasmic reticulum”, &lt;em&gt;EMBO JOURNAL&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;26&lt;/em&gt;, 2443-2453.</angewandte-chemie>
+<apa>Zito, E., Buono, M., Pepe, S., Settembre, C., Annunziata, I., Surace, E. M., Dierks, T., et al. (2007). Sulfatase modifying factor 1 trafficking through the cells: from endoplasmic reticulum to the endoplasmic reticulum. &lt;em&gt;EMBO JOURNAL&lt;/em&gt;, &lt;em&gt;26&lt;/em&gt;(10), 2443-2453.</apa>
+<frontiers>Zito, E., Buono, M., Pepe, S., Settembre, C., Annunziata, I., Surace, E. M., Dierks, T., Monti, M., Cozzolino, M., Pucci, P., et al. (2007). Sulfatase modifying factor 1 trafficking through the cells: from endoplasmic reticulum to the endoplasmic reticulum. &lt;em&gt;EMBO JOURNAL&lt;/em&gt; 26, 2443-2453.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Zito, Ester, Buono, Mario, Pepe, Stefano, Settembre, Carmine, Annunziata, Ida, Surace, Enrico Maria, Dierks, Thomas, et al. 2007. “Sulfatase modifying factor 1 trafficking through the cells: from endoplasmic reticulum to the endoplasmic reticulum”. &lt;em&gt;EMBO JOURNAL&lt;/em&gt; 26 (10): 2443-2453.&lt;/div&gt;</chicago>
+<ieee>E. Zito, et al., “Sulfatase modifying factor 1 trafficking through the cells: from endoplasmic reticulum to the endoplasmic reticulum”, &lt;em&gt;EMBO JOURNAL&lt;/em&gt;,  vol. 26, 2007,  pp. 2443-2453.</ieee>
+<mla>Zito, Ester, Buono, Mario, Pepe, Stefano, Settembre, Carmine, Annunziata, Ida, Surace, Enrico Maria, Dierks, Thomas, Monti, Maria, Cozzolino, Marianna, Pucci, Piero, Ballabio, Andrea, and Cosma, Maria Pia. “Sulfatase modifying factor 1 trafficking through the cells: from endoplasmic reticulum to the endoplasmic reticulum”. &lt;em&gt;EMBO JOURNAL&lt;/em&gt; 26.10 (2007): 2443-2453.</mla>
+<lncs>Zito, E., Buono, M., Pepe, S., Settembre, C., Annunziata, I., Surace, E.M., Dierks, T., Monti, M., Cozzolino, M., Pucci, P., Ballabio, A., Cosma, M.P.: Sulfatase modifying factor 1 trafficking through the cells: from endoplasmic reticulum to the endoplasmic reticulum. EMBO JOURNAL. 26, 2443-2453 (2007).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Zito, E., Buono, M., Pepe, S., Settembre, C., Annunziata, I., Surace, E. M., Dierks, T., et al. (2007). Sulfatase modifying factor 1 trafficking through the cells: from endoplasmic reticulum to the endoplasmic reticulum. &lt;em&gt;EMBO JOURNAL&lt;/em&gt;, &lt;em&gt;26&lt;/em&gt;(10), 2443-2453.&lt;/div&gt;</apa_indent>
+<wels>Zito, E.; Buono, M.; Pepe, S.; Settembre, C.; Annunziata, I.; Surace, E. M.; Dierks, T.; Monti, M.; Cozzolino, M.; Pucci, P.; Ballabio, A.; Cosma, M. P. (2007): Sulfatase modifying factor 1 trafficking through the cells: from endoplasmic reticulum to the endoplasmic reticulum &lt;em&gt;EMBO JOURNAL&lt;/em&gt;,26:(10): 2443-2453.</wels>
+<default>Zito E, Buono M, Pepe S, Settembre C, Annunziata I, Surace EM, Dierks T, Monti M, Cozzolino M, Pucci P, Ballabio A, et al. (2007) &lt;br /&gt;EMBO JOURNAL 26(10): 2443-2453.</default>
+<ama>Zito E, Buono M, Pepe S, et al. Sulfatase modifying factor 1 trafficking through the cells: from endoplasmic reticulum to the endoplasmic reticulum. &lt;em&gt;EMBO JOURNAL&lt;/em&gt;. 2007;26(10):2443-2453.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Zito, E., Buono, M., Pepe, S., Settembre, C., Annunziata, I., Surace, E.M., Dierks, T., Monti, M., Cozzolino, M., Pucci, P., Ballabio, A. &amp;amp; Cosma, M.P. (2007). Sulfatase modifying factor 1 trafficking through the cells: from endoplasmic reticulum to the endoplasmic reticulum. &lt;em&gt;EMBO JOURNAL&lt;/em&gt;, &lt;em&gt;26&lt;/em&gt;(10), 2443-2453. NATURE PUBLISHING GROUP. doi:10.1038/sj.emboj.7601695.&lt;/div&gt;</dgps>
+<harvard1>Zito, E., et al., 2007. Sulfatase modifying factor 1 trafficking through the cells: from endoplasmic reticulum to the endoplasmic reticulum. &lt;em&gt;EMBO JOURNAL&lt;/em&gt;, 26(10), p 2443-2453.</harvard1>
+<aps>E.  Zito, et al., Sulfatase modifying factor 1 trafficking through the cells: from endoplasmic reticulum to the endoplasmic reticulum, EMBO JOURNAL &lt;strong&gt;26&lt;/strong&gt;, 2443-2453 (2007).</aps>
+<bio1>Zito E, Buono M, Pepe S, Settembre C, Annunziata I, Surace EM, Dierks T, Monti M, Cozzolino M, Pucci P, Ballabio A, Cosma MP (2007) &lt;br /&gt;Sulfatase modifying factor 1 trafficking through the cells: from endoplasmic reticulum to the endoplasmic reticulum.&lt;br /&gt;EMBO JOURNAL 26(10): 2443-2453.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1593622</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:15:57Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-12-06T23:27:51Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1593622</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1593622</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,145 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The cytosolic, cell surface and extracellular proteomes of the biotechnologically important soil bacterium Cornyebacterium efficiens YS-314 in comparison to those of Corynebacterium glutamicum ATCC 13032</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">N.</namePart>
+  <namePart type="family">Hansmeier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">T. C.</namePart>
+  <namePart type="family">Chao</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alfred</namePart>
+  <namePart type="family">Pühler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21937</identifier></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Tauch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">22082</identifier></name>
+<name type="personal">
+  <namePart type="given">Jörn</namePart>
+  <namePart type="family">Kalinowski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">147567</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070741</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070639</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070724</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Reference maps of the cytosolic, cell surface and extracellular proteome fractions of the amino acid-producing soil bacterium Corynebacterium efficiens YS-314 were established. The analysis window covers a pI range from 3 to 7 along with a molecular mass range from 10 to 130 kDa. After second-dimensional separation on SDS-PAGE and Coomassie staining, computational analysis detected 635 protein spots in the cytosolic proteome fraction, whereas 76 and 102 spots were detected in the cell surface and extracellular proteomes, respectively. By means of MALDI-TOF-MS and tryptic peptide mass fingerprinting, 164 cytosolic proteins, 49 proteins of the cell surface and 89 extracellular protein spots were identified, representing in total 177 different proteins. Additionally, reference maps of the three cellular proteome fractions of the close phylogenetic relative Corynebacterium glutamicum ATCC 13032 were generated and used for comparative proteomics. Classification according to the Clusters of Orthologous Groups of proteins scheme and abundance analysis of the identified proteins revealed species-specific differences. The high abundance of molecular chaperones and amino acid biosynthesis enzymes in C. efficiens points to environmental adaptations of this recently discovered amino acid-producing bacterium.</abstract>
+
+<originInfo><publisher>WILEY-V C H VERLAG GMBH</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>proteome map</topic><topic>Fimbrial</topic><topic>Corynebacterium efficiens</topic><topic>proteins</topic><topic>Corynebacterium glutamicum</topic><topic>two-dimensional gel electrophoresis</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>PROTEOMICS</title></titleInfo>
+  <identifier type="issn">1615-9853</identifier>
+  <identifier type="eIssn">1615-9861</identifier>
+  <identifier type="MEDLINE">16302278</identifier>
+  <identifier type="ISI">000234764800022</identifier><identifier type="doi">10.1002/pmic.200500144</identifier>
+<part><detail type="volume"><number>6</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">233-250</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps> N.  Hansmeier, et al., The cytosolic, cell surface and extracellular proteomes of the biotechnologically important soil bacterium Cornyebacterium efficiens YS-314 in comparison to those of Corynebacterium glutamicum ATCC 13032, PROTEOMICS &lt;strong&gt;6&lt;/strong&gt;, 233-250 (2006).</aps>
+<bio1>Hansmeier N, Chao TC, Pühler A, Tauch A, Kalinowski J (2006) &lt;br /&gt;The cytosolic, cell surface and extracellular proteomes of the biotechnologically important soil bacterium Cornyebacterium efficiens YS-314 in comparison to those of Corynebacterium glutamicum ATCC 13032.&lt;br /&gt;PROTEOMICS 6(1): 233-250.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hansmeier, N., Chao, T.C., Pühler, A., Tauch, A. &amp;amp; Kalinowski, J. (2006). The cytosolic, cell surface and extracellular proteomes of the biotechnologically important soil bacterium Cornyebacterium efficiens YS-314 in comparison to those of Corynebacterium glutamicum ATCC 13032. &lt;em&gt;PROTEOMICS&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;(1), 233-250. WILEY-V C H VERLAG GMBH. doi:10.1002/pmic.200500144.&lt;/div&gt;</dgps>
+<harvard1>Hansmeier, N., et al., 2006. The cytosolic, cell surface and extracellular proteomes of the biotechnologically important soil bacterium Cornyebacterium efficiens YS-314 in comparison to those of Corynebacterium glutamicum ATCC 13032. &lt;em&gt;PROTEOMICS&lt;/em&gt;, 6(1), p 233-250.</harvard1>
+<ama>Hansmeier N, Chao TC, Pühler A, Tauch A, Kalinowski J. The cytosolic, cell surface and extracellular proteomes of the biotechnologically important soil bacterium Cornyebacterium efficiens YS-314 in comparison to those of Corynebacterium glutamicum ATCC 13032. &lt;em&gt;PROTEOMICS&lt;/em&gt;. 2006;6(1):233-250.</ama>
+<default>Hansmeier N, Chao TC, Pühler A, Tauch A, Kalinowski J (2006) &lt;br /&gt;PROTEOMICS 6(1): 233-250.</default>
+<wels>Hansmeier, N.; Chao, T. C.; Pühler, A.; Tauch, A.; Kalinowski, J. (2006): The cytosolic, cell surface and extracellular proteomes of the biotechnologically important soil bacterium Cornyebacterium efficiens YS-314 in comparison to those of Corynebacterium glutamicum ATCC 13032 &lt;em&gt;PROTEOMICS&lt;/em&gt;,6:(1): 233-250.</wels>
+<lncs> Hansmeier, N., Chao, T.C., Pühler, A., Tauch, A., Kalinowski, J.: The cytosolic, cell surface and extracellular proteomes of the biotechnologically important soil bacterium Cornyebacterium efficiens YS-314 in comparison to those of Corynebacterium glutamicum ATCC 13032. PROTEOMICS. 6, 233-250 (2006).</lncs>
+<mla>Hansmeier, N., Chao, T. C., Pühler, Alfred, Tauch, Andreas, and Kalinowski, Jörn. “The cytosolic, cell surface and extracellular proteomes of the biotechnologically important soil bacterium Cornyebacterium efficiens YS-314 in comparison to those of Corynebacterium glutamicum ATCC 13032”. &lt;em&gt;PROTEOMICS&lt;/em&gt; 6.1 (2006): 233-250.</mla>
+<ieee> N. Hansmeier, et al., “The cytosolic, cell surface and extracellular proteomes of the biotechnologically important soil bacterium Cornyebacterium efficiens YS-314 in comparison to those of Corynebacterium glutamicum ATCC 13032”, &lt;em&gt;PROTEOMICS&lt;/em&gt;,  vol. 6, 2006,  pp. 233-250.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hansmeier, N., Chao, T. C., Pühler, A., Tauch, A., &amp;amp; Kalinowski, J. (2006). The cytosolic, cell surface and extracellular proteomes of the biotechnologically important soil bacterium Cornyebacterium efficiens YS-314 in comparison to those of Corynebacterium glutamicum ATCC 13032. &lt;em&gt;PROTEOMICS&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;(1), 233-250.&lt;/div&gt;</apa_indent>
+<frontiers>Hansmeier, N., Chao, T. C., Pühler, A., Tauch, A., and Kalinowski, J. (2006). The cytosolic, cell surface and extracellular proteomes of the biotechnologically important soil bacterium Cornyebacterium efficiens YS-314 in comparison to those of Corynebacterium glutamicum ATCC 13032. &lt;em&gt;PROTEOMICS&lt;/em&gt; 6, 233-250.</frontiers>
+<apa>Hansmeier, N., Chao, T. C., Pühler, A., Tauch, A., &amp;amp; Kalinowski, J. (2006). The cytosolic, cell surface and extracellular proteomes of the biotechnologically important soil bacterium Cornyebacterium efficiens YS-314 in comparison to those of Corynebacterium glutamicum ATCC 13032. &lt;em&gt;PROTEOMICS&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;(1), 233-250.</apa>
+<angewandte-chemie>N.  Hansmeier, T. C.  Chao, A.  Pühler, A.  Tauch, and J.  Kalinowski, “The cytosolic, cell surface and extracellular proteomes of the biotechnologically important soil bacterium Cornyebacterium efficiens YS-314 in comparison to those of Corynebacterium glutamicum ATCC 13032”, &lt;em&gt;PROTEOMICS&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;6&lt;/em&gt;, 233-250.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hansmeier, N., Chao, T. C., Pühler, Alfred, Tauch, Andreas, and Kalinowski, Jörn. 2006. “The cytosolic, cell surface and extracellular proteomes of the biotechnologically important soil bacterium Cornyebacterium efficiens YS-314 in comparison to those of Corynebacterium glutamicum ATCC 13032”. &lt;em&gt;PROTEOMICS&lt;/em&gt; 6 (1): 233-250.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1600852</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:31:26Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-11T09:51:13Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1600852</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1600852</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,127 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>MURML: A Multimodal Utterance Representation Markup Language for Conversational Agents</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Alfred</namePart>
+  <namePart type="family">Kranstedt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Stefan</namePart>
+  <namePart type="family">Kopp</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ipke</namePart>
+  <namePart type="family">Wachsmuth</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">73476</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Sociable Agents</namePart>
+  <identifier type="unibi">24110177</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Wissensbasierte Systeme</namePart>
+  <identifier type="unibi">10044</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Institute for Cognition and Robotics</namePart>
+  <identifier type="unibi">5408013</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+<name type="conference">
+  <namePart>in conjunction with the First International Joint Conference on Autonomous Agents &amp; Multi-Agent Systems</namePart>
+</name>
+
+
+
+
+
+
+<abstract lang="eng">This paper presents work on an artificial anthropomorphic agent with multimodal interaction abilitities. It focuses on the development of a markup language, MURML, that bridges between the planning and the animation tasks in the production of multimodal utterances. This hierarchically structured notation provides flexible means of describing gestures in a form-based way and of explicitly experessing their relations to accompanying speech.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="MURML.pdf">https://pub.uni-bielefeld.de/download/1857788/2620515</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">2002</dateIssued><place><placeTerm type="text">Bologna, Italy</placeTerm></place>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>form-based gesture description</topic><topic>multimodal communication</topic><topic>conversational agents</topic><topic>markup languages</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>AAMAS&apos;02 Workshop Embodied conversational agents - let&apos;s specify and evaluate them!</title></titleInfo><identifier type="urn">urn:nbn:de:0070-pub-18577885</identifier>
+<part>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kranstedt, A., Kopp, S., &amp;amp; Wachsmuth, I. (2002). MURML: A Multimodal Utterance Representation Markup Language for Conversational Agents. &lt;em&gt;AAMAS&apos;02 Workshop Embodied conversational agents - let&apos;s specify and evaluate them!&lt;/em&gt;.&lt;/div&gt;</apa_indent>
+<mla>Kranstedt, Alfred, Kopp, Stefan, and Wachsmuth, Ipke. “MURML: A Multimodal Utterance Representation Markup Language for Conversational Agents”. &lt;em&gt;AAMAS&apos;02 Workshop Embodied conversational agents - let&apos;s specify and evaluate them!&lt;/em&gt;. 2002.</mla>
+<lncs>Kranstedt, A., Kopp, S., Wachsmuth, I.: MURML: A Multimodal Utterance Representation Markup Language for Conversational Agents. AAMAS&apos;02 Workshop Embodied conversational agents - let&apos;s specify and evaluate them!.  (2002).</lncs>
+<ieee>A. Kranstedt, S. Kopp, and I. Wachsmuth, “MURML: A Multimodal Utterance Representation Markup Language for Conversational Agents”, &lt;em&gt;AAMAS&apos;02 Workshop Embodied conversational agents - let&apos;s specify and evaluate them!&lt;/em&gt;, 2002.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kranstedt, Alfred, Kopp, Stefan, and Wachsmuth, Ipke. 2002. “MURML: A Multimodal Utterance Representation Markup Language for Conversational Agents”. In &lt;em&gt;AAMAS&apos;02 Workshop Embodied conversational agents - let&apos;s specify and evaluate them!&lt;/em&gt;.&lt;/div&gt;</chicago>
+<frontiers>Kranstedt, A., Kopp, S., and Wachsmuth, I. (2002). “MURML: A Multimodal Utterance Representation Markup Language for Conversational Agents” in &lt;em&gt;AAMAS&apos;02 Workshop Embodied conversational agents - let&apos;s specify and evaluate them!&lt;/em&gt;.</frontiers>
+<angewandte-chemie>A.  Kranstedt, S.  Kopp, and I.  Wachsmuth, in &lt;em&gt;AAMAS&apos;02 Workshop Embodied conversational agents - let&apos;s specify and evaluate them!&lt;/em&gt;, &lt;strong&gt;2002&lt;/strong&gt;.</angewandte-chemie>
+<apa>Kranstedt, A., Kopp, S., &amp;amp; Wachsmuth, I. (2002). MURML: A Multimodal Utterance Representation Markup Language for Conversational Agents. &lt;em&gt;AAMAS&apos;02 Workshop Embodied conversational agents - let&apos;s specify and evaluate them!&lt;/em&gt;.</apa>
+<aps>A.  Kranstedt, S.  Kopp, and I.  Wachsmuth, MURML: A Multimodal Utterance Representation Markup Language for Conversational Agents, in &lt;em&gt;AAMAS&apos;02 Workshop Embodied conversational agents - let&apos;s specify and evaluate them!&lt;/em&gt; (2002).</aps>
+<bio1>Kranstedt A, Kopp S, Wachsmuth I (2002) &lt;br /&gt;MURML: A Multimodal Utterance Representation Markup Language for Conversational Agents. &lt;br /&gt;In:  AAMAS&apos;02 Workshop Embodied conversational agents - let&apos;s specify and evaluate them!. .</bio1>
+<ama>Kranstedt A, Kopp S, Wachsmuth I. MURML: A Multimodal Utterance Representation Markup Language for Conversational Agents. In:  &lt;em&gt;AAMAS&apos;02 Workshop Embodied conversational agents - let&apos;s specify and evaluate them!&lt;/em&gt;. 2002.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kranstedt, A., Kopp, S. &amp;amp; Wachsmuth, I. (2002). MURML: A Multimodal Utterance Representation Markup Language for Conversational Agents. &lt;em&gt;AAMAS&apos;02 Workshop Embodied conversational agents - let&apos;s specify and evaluate them!&lt;/em&gt;. Gehalten auf der in conjunction with the First International Joint Conference on Autonomous Agents &amp;amp; Multi-Agent Systems.&lt;/div&gt;</dgps>
+<harvard1>Kranstedt, A., Kopp, S., &amp;amp; Wachsmuth, I., 2002. MURML: A Multimodal Utterance Representation Markup Language for Conversational Agents. In &lt;em&gt;AAMAS&apos;02 Workshop Embodied conversational agents - let&apos;s specify and evaluate them!&lt;/em&gt;.</harvard1>
+<default>Kranstedt A, Kopp S, Wachsmuth I (2002)  &lt;br /&gt;In:  AAMAS&apos;02 Workshop Embodied conversational agents - let&apos;s specify and evaluate them!. .</default>
+<wels>Kranstedt, A.; Kopp, S.; Wachsmuth, I. (2002): MURML: A Multimodal Utterance Representation Markup Language for Conversational Agents. In: AAMAS&apos;02 Workshop Embodied conversational agents - let&apos;s specify and evaluate them!.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1857788</recordIdentifier><recordChangeDate encoding="w3cdtf">2015-08-27T07:55:34Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1857788</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1857788</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

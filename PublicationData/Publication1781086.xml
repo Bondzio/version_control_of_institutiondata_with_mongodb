@@ -1,0 +1,95 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Channel capacities for list codes</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Rudolf</namePart>
+  <namePart type="family">Ahlswede</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10479</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT2345.pdf">https://pub.uni-bielefeld.de/download/1781086/2313152</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1973</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Journal of applied probability</title></titleInfo><identifier type="urn">urn:nbn:de:0070-bipr-23458</identifier>
+<part><detail type="volume"><number>10</number></detail><extent unit="pages">824-836</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>R.  Ahlswede, Channel capacities for list codes, Journal of applied probability &lt;strong&gt;10&lt;/strong&gt;, 824-836 (1973).</aps>
+<bio1>Ahlswede R (1973) &lt;br /&gt;Channel capacities for list codes.&lt;br /&gt;Journal of applied probability 10: 824-836.</bio1>
+<ama>Ahlswede R. Channel capacities for list codes. &lt;em&gt;Journal of applied probability&lt;/em&gt;. 1973;10:824-836.</ama>
+<harvard1>Ahlswede, R., 1973. Channel capacities for list codes. &lt;em&gt;Journal of applied probability&lt;/em&gt;, 10, p 824-836.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R. (1973). Channel capacities for list codes. &lt;em&gt;Journal of applied probability&lt;/em&gt;, &lt;em&gt;10&lt;/em&gt;, 824-836.&lt;/div&gt;</dgps>
+<default>Ahlswede R (1973) &lt;br /&gt;Journal of applied probability 10: 824-836.</default>
+<wels>Ahlswede, R. (1973): Channel capacities for list codes &lt;em&gt;Journal of applied probability&lt;/em&gt;,10: 824-836.</wels>
+<lncs>Ahlswede, R.: Channel capacities for list codes. Journal of applied probability. 10, 824-836 (1973).</lncs>
+<mla>Ahlswede, Rudolf. “Channel capacities for list codes”. &lt;em&gt;Journal of applied probability&lt;/em&gt; 10 (1973): 824-836.</mla>
+<ieee>R. Ahlswede, “Channel capacities for list codes”, &lt;em&gt;Journal of applied probability&lt;/em&gt;,  vol. 10, 1973,  pp. 824-836.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R. (1973). Channel capacities for list codes. &lt;em&gt;Journal of applied probability&lt;/em&gt;, &lt;em&gt;10&lt;/em&gt;, 824-836.&lt;/div&gt;</apa_indent>
+<frontiers>Ahlswede, R. (1973). Channel capacities for list codes. &lt;em&gt;Journal of applied probability&lt;/em&gt; 10, 824-836.</frontiers>
+<angewandte-chemie>R.  Ahlswede, “Channel capacities for list codes”, &lt;em&gt;Journal of applied probability&lt;/em&gt;, &lt;strong&gt;1973&lt;/strong&gt;, &lt;em&gt;10&lt;/em&gt;, 824-836.</angewandte-chemie>
+<apa>Ahlswede, R. (1973). Channel capacities for list codes. &lt;em&gt;Journal of applied probability&lt;/em&gt;, &lt;em&gt;10&lt;/em&gt;, 824-836.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, Rudolf. 1973. “Channel capacities for list codes”. &lt;em&gt;Journal of applied probability&lt;/em&gt; 10: 824-836.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781086</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781086</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781086</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

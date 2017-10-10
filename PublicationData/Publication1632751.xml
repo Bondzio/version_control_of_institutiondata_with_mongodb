@@ -1,0 +1,125 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Characterization of the putative iron sulfur protein IdiC (ORF5) in Synechococcus elongatus PCC 7942</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Daniel</namePart>
+  <namePart type="family">Pietsch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Dorothee</namePart>
+  <namePart type="family">Staiger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">81014</identifier></name>
+<name type="personal">
+  <namePart type="given">Elfriede K.</namePart>
+  <namePart type="family">Pistorius</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Klaus-Peter</namePart>
+  <namePart type="family">Michel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Genomforschung und Systembiologie</namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Molekulare Zellphysiologie</namePart>
+  <identifier type="unibi">2685209</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  D. Staiger</namePart>
+  <identifier type="unibi">33070658</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The IdiC protein ((i) under bar ron (d) under bar eficiency (i) under bar nduced protein (C) under bar) is encoded by orf5 (now called idiC), which is part of the iron-responsive idiB operon of Synechococcus elongatus PCC 7942. The 20.5 kDa IdiC protein has a putative transmembrane helix and belongs to the thioredoxin (TRX)-like [2Fe-2S] ferredoxin family. IdiC has the highest similarity to the peripheral subunit NuoE of the Escherichia coli NDH-1 complex. IdiC expression increased under iron starvation and also in the late growth phase, representing growth conditions, which favor photosynthetic cyclic and respiratory electron transport over photosynthetic linear electron transport from water to NADP(+). Attempts to insertionally inactivate the idiC gene generated merodiploid mutants with a strongly reduced IdiC content (mutant MuD) but no IdiC-free mutant. Thus, IdiC seems to be an essential protein for the viability of S. elongatus under the used experimental conditions. Comparative analyses of S. elongatus wild type (WT) and mutant MuD showed that under iron limitation in WT and MuD the amount of the reaction center proteins PsbA and PsaA/B was highly reduced. MuD had a lower growth rate, chlorophyll content, and photosynthetic O-2 evolving activity with bicarbonate as electron acceptor than WT. Immunoblot analyses also showed that in MuD, when grown under iron limitation, the amount of the proteins IdiC and IdiB was greatly reduced as compared to WT. As a consequence of the reduction of the transcription factor IdiB, IdiA and IrpA expression were also decreased. In addition, the IsiA protein concentration was lower in MuD than in WT, although the isiA mRNA was equally high in MuD and WT. Another significant difference was the lower expression of the ferredoxin:NADP(+) oxidoreductase in mutant MuD under iron limitation compared to WT. A possible function of the protein IdiC in cyclic electron transport around photosystem I and/or in respiratory electron transport will be discussed.</abstract>
+
+<originInfo><publisher>Springer</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>IdiC</topic><topic>Synechococcus elongatus PCC 7942</topic><topic>ferredoxin</topic><topic>iron limitation</topic><topic>NDH-1 complex</topic><topic>photosynthetic</topic><topic>NADP(+)</topic><topic>and respiratory electron transport chain</topic><topic>oxidoreductase</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Photosynthesis Research</title></titleInfo>
+  <identifier type="issn">0166-8595</identifier>
+  <identifier type="eIssn">1573-5079</identifier>
+  <identifier type="MEDLINE">17690995</identifier>
+  <identifier type="ISI">000248913400009</identifier><identifier type="doi">10.1007/s11120-007-9222-9</identifier>
+<part><detail type="volume"><number>94</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">91-108</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Pietsch, D., Staiger, D., Pistorius, E. K., and Michel, K. - P. (2007). Characterization of the putative iron sulfur protein IdiC (ORF5) in Synechococcus elongatus PCC 7942. &lt;em&gt;Photosynthesis Research&lt;/em&gt; 94, 91-108.</frontiers>
+<angewandte-chemie>D.  Pietsch, D.  Staiger, E. K.  Pistorius, and K. - P.  Michel, “Characterization of the putative iron sulfur protein IdiC (ORF5) in Synechococcus elongatus PCC 7942”, &lt;em&gt;Photosynthesis Research&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;94&lt;/em&gt;, 91-108.</angewandte-chemie>
+<apa>Pietsch, D., Staiger, D., Pistorius, E. K., &amp;amp; Michel, K. - P. (2007). Characterization of the putative iron sulfur protein IdiC (ORF5) in Synechococcus elongatus PCC 7942. &lt;em&gt;Photosynthesis Research&lt;/em&gt;, &lt;em&gt;94&lt;/em&gt;(1), 91-108.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Pietsch, Daniel, Staiger, Dorothee, Pistorius, Elfriede K., and Michel, Klaus-Peter. 2007. “Characterization of the putative iron sulfur protein IdiC (ORF5) in Synechococcus elongatus PCC 7942”. &lt;em&gt;Photosynthesis Research&lt;/em&gt; 94 (1): 91-108.&lt;/div&gt;</chicago>
+<mla>Pietsch, Daniel, Staiger, Dorothee, Pistorius, Elfriede K., and Michel, Klaus-Peter. “Characterization of the putative iron sulfur protein IdiC (ORF5) in Synechococcus elongatus PCC 7942”. &lt;em&gt;Photosynthesis Research&lt;/em&gt; 94.1 (2007): 91-108.</mla>
+<lncs>Pietsch, D., Staiger, D., Pistorius, E.K., Michel, K.-P.: Characterization of the putative iron sulfur protein IdiC (ORF5) in Synechococcus elongatus PCC 7942. Photosynthesis Research. 94, 91-108 (2007).</lncs>
+<ieee>D. Pietsch, et al., “Characterization of the putative iron sulfur protein IdiC (ORF5) in Synechococcus elongatus PCC 7942”, &lt;em&gt;Photosynthesis Research&lt;/em&gt;,  vol. 94, 2007,  pp. 91-108.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Pietsch, D., Staiger, D., Pistorius, E. K., &amp;amp; Michel, K. - P. (2007). Characterization of the putative iron sulfur protein IdiC (ORF5) in Synechococcus elongatus PCC 7942. &lt;em&gt;Photosynthesis Research&lt;/em&gt;, &lt;em&gt;94&lt;/em&gt;(1), 91-108.&lt;/div&gt;</apa_indent>
+<default>Pietsch D, Staiger D, Pistorius EK, Michel K-P (2007) &lt;br /&gt;Photosynthesis Research 94(1): 91-108.</default>
+<wels>Pietsch, D.; Staiger, D.; Pistorius, E. K.; Michel, K. - P. (2007): Characterization of the putative iron sulfur protein IdiC (ORF5) in Synechococcus elongatus PCC 7942 &lt;em&gt;Photosynthesis Research&lt;/em&gt;,94:(1): 91-108.</wels>
+<bio1>Pietsch D, Staiger D, Pistorius EK, Michel K-P (2007) &lt;br /&gt;Characterization of the putative iron sulfur protein IdiC (ORF5) in Synechococcus elongatus PCC 7942.&lt;br /&gt;Photosynthesis Research 94(1): 91-108.</bio1>
+<aps>D.  Pietsch, et al., Characterization of the putative iron sulfur protein IdiC (ORF5) in Synechococcus elongatus PCC 7942, Photosynthesis Research &lt;strong&gt;94&lt;/strong&gt;, 91-108 (2007).</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Pietsch, D., Staiger, D., Pistorius, E.K. &amp;amp; Michel, K.-P. (2007). Characterization of the putative iron sulfur protein IdiC (ORF5) in Synechococcus elongatus PCC 7942. &lt;em&gt;Photosynthesis Research&lt;/em&gt;, &lt;em&gt;94&lt;/em&gt;(1), 91-108. Springer. doi:10.1007/s11120-007-9222-9.&lt;/div&gt;</dgps>
+<ama>Pietsch D, Staiger D, Pistorius EK, Michel K-P. Characterization of the putative iron sulfur protein IdiC (ORF5) in Synechococcus elongatus PCC 7942. &lt;em&gt;Photosynthesis Research&lt;/em&gt;. 2007;94(1):91-108.</ama>
+<harvard1>Pietsch, D., et al., 2007. Characterization of the putative iron sulfur protein IdiC (ORF5) in Synechococcus elongatus PCC 7942. &lt;em&gt;Photosynthesis Research&lt;/em&gt;, 94(1), p 91-108.</harvard1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1632751</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:06:19Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-12-02T13:09:51Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1632751</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1632751</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

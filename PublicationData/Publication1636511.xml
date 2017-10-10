@@ -1,0 +1,107 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Applicability of an exposure model for the determination of emissions from mobile phone base stations</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Jürgen</namePart>
+  <namePart type="family">Breckenkamp</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">124680</identifier></name>
+<name type="personal">
+  <namePart type="given">H. P.</namePart>
+  <namePart type="family">Neitzke</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">C.</namePart>
+  <namePart type="family">Bornkessel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Gabriele</namePart>
+  <namePart type="family">Berg-Beckhoff</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG 3 Epidemiologie &amp; International Public Health</namePart>
+  <identifier type="unibi">21333</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Applicability of a model to estimate radiofrequency electromagnetic field (RF-EMF) strength in households from mobile phone base stations was evaluated with technical data of mobile phone base stations available from the German Net Agency, and dosimetric measurements, performed in an epidemiological study. Estimated exposure and exposure measured with dosemeters in 1322 participating households were compared. For that purpose, the upper 10th percentiles of both outcomes were defined as the &apos;higher exposed&apos; groups. To assess the agreement of the defined &apos;higher&apos; exposed groups, kappa coefficient, sensitivity and specificity were calculated. The present results show only a weak agreement of calculations and measurements (kappa values between -0.03 and 0.28, sensitivity between 7.1 and 34.6). Only in some of the sub-analyses, a higher agreement was found, e.g. when measured instead of interpolated geo-coordinates were used to calculate the distance between households and base stations, which is one important parameter in modelling exposure. During the development of the exposure model, more precise input data were available for its internal validation, which yielded kappa values between 0.41 and 0.68 and sensitivity between 55 and 76 for different types of housing areas. Contrary to this, the calculation of exposure-on the basis of the available imprecise data from the epidemiological study-is associated with a relatively high degree of uncertainty. Thus, the model can only be applied in epidemiological studies, when the uncertainty of the input data is considerably reduced. Otherwise, the use of dosemeters to determine the exposure from RF-EMF in epidemiological studies is recommended.</abstract>
+
+<originInfo><publisher>OXFORD UNIV PRESS</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>RADIATION PROTECTION DOSIMETRY</title></titleInfo>
+  <identifier type="issn">0144-8420</identifier>
+  <identifier type="eIssn">1742-3406</identifier>
+  <identifier type="MEDLINE">18676976</identifier>
+  <identifier type="ISI">000261302000011</identifier><identifier type="doi">10.1093/rpd/ncn201</identifier>
+<part><detail type="volume"><number>131</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">474-481</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Breckenkamp J, Neitzke HP, Bornkessel C, Berg-Beckhoff G. Applicability of an exposure model for the determination of emissions from mobile phone base stations. &lt;em&gt;RADIATION PROTECTION DOSIMETRY&lt;/em&gt;. 2008;131(4):474-481.</ama>
+<harvard1>Breckenkamp, J., et al., 2008. Applicability of an exposure model for the determination of emissions from mobile phone base stations. &lt;em&gt;RADIATION PROTECTION DOSIMETRY&lt;/em&gt;, 131(4), p 474-481.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Breckenkamp, J., Neitzke, H.P., Bornkessel, C. &amp;amp; Berg-Beckhoff, G. (2008). Applicability of an exposure model for the determination of emissions from mobile phone base stations. &lt;em&gt;RADIATION PROTECTION DOSIMETRY&lt;/em&gt;, &lt;em&gt;131&lt;/em&gt;(4), 474-481. OXFORD UNIV PRESS. doi:10.1093/rpd/ncn201.&lt;/div&gt;</dgps>
+<bio1>Breckenkamp J, Neitzke HP, Bornkessel C, Berg-Beckhoff G (2008) &lt;br /&gt;Applicability of an exposure model for the determination of emissions from mobile phone base stations.&lt;br /&gt;RADIATION PROTECTION DOSIMETRY 131(4): 474-481.</bio1>
+<aps>J.  Breckenkamp, et al., Applicability of an exposure model for the determination of emissions from mobile phone base stations, RADIATION PROTECTION DOSIMETRY &lt;strong&gt;131&lt;/strong&gt;, 474-481 (2008).</aps>
+<wels>Breckenkamp, J.; Neitzke, H. P.; Bornkessel, C.; Berg-Beckhoff, G. (2008): Applicability of an exposure model for the determination of emissions from mobile phone base stations &lt;em&gt;RADIATION PROTECTION DOSIMETRY&lt;/em&gt;,131:(4): 474-481.</wels>
+<default>Breckenkamp J, Neitzke HP, Bornkessel C, Berg-Beckhoff G (2008) &lt;br /&gt;RADIATION PROTECTION DOSIMETRY 131(4): 474-481.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Breckenkamp, J., Neitzke, H. P., Bornkessel, C., &amp;amp; Berg-Beckhoff, G. (2008). Applicability of an exposure model for the determination of emissions from mobile phone base stations. &lt;em&gt;RADIATION PROTECTION DOSIMETRY&lt;/em&gt;, &lt;em&gt;131&lt;/em&gt;(4), 474-481.&lt;/div&gt;</apa_indent>
+<ieee>J. Breckenkamp, et al., “Applicability of an exposure model for the determination of emissions from mobile phone base stations”, &lt;em&gt;RADIATION PROTECTION DOSIMETRY&lt;/em&gt;,  vol. 131, 2008,  pp. 474-481.</ieee>
+<lncs>Breckenkamp, J., Neitzke, H.P., Bornkessel, C., Berg-Beckhoff, G.: Applicability of an exposure model for the determination of emissions from mobile phone base stations. RADIATION PROTECTION DOSIMETRY. 131, 474-481 (2008).</lncs>
+<mla>Breckenkamp, Jürgen, Neitzke, H. P., Bornkessel, C., and Berg-Beckhoff, Gabriele. “Applicability of an exposure model for the determination of emissions from mobile phone base stations”. &lt;em&gt;RADIATION PROTECTION DOSIMETRY&lt;/em&gt; 131.4 (2008): 474-481.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Breckenkamp, Jürgen, Neitzke, H. P., Bornkessel, C., and Berg-Beckhoff, Gabriele. 2008. “Applicability of an exposure model for the determination of emissions from mobile phone base stations”. &lt;em&gt;RADIATION PROTECTION DOSIMETRY&lt;/em&gt; 131 (4): 474-481.&lt;/div&gt;</chicago>
+<apa>Breckenkamp, J., Neitzke, H. P., Bornkessel, C., &amp;amp; Berg-Beckhoff, G. (2008). Applicability of an exposure model for the determination of emissions from mobile phone base stations. &lt;em&gt;RADIATION PROTECTION DOSIMETRY&lt;/em&gt;, &lt;em&gt;131&lt;/em&gt;(4), 474-481.</apa>
+<angewandte-chemie>J.  Breckenkamp, H. P.  Neitzke, C.  Bornkessel, and G.  Berg-Beckhoff, “Applicability of an exposure model for the determination of emissions from mobile phone base stations”, &lt;em&gt;RADIATION PROTECTION DOSIMETRY&lt;/em&gt;, &lt;strong&gt;2008&lt;/strong&gt;, &lt;em&gt;131&lt;/em&gt;, 474-481.</angewandte-chemie>
+<frontiers>Breckenkamp, J., Neitzke, H. P., Bornkessel, C., and Berg-Beckhoff, G. (2008). Applicability of an exposure model for the determination of emissions from mobile phone base stations. &lt;em&gt;RADIATION PROTECTION DOSIMETRY&lt;/em&gt; 131, 474-481.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1636511</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:08:07Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2013-07-10T11:08:26Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1636511</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1636511</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

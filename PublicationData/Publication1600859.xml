@@ -1,0 +1,133 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>A general binding mechanism for all human sulfatases by the formylglycine-generating enzyme</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">D</namePart>
+  <namePart type="family">Roeser</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Preusser-Kunze</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">B</namePart>
+  <namePart type="family">Schmidt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">K</namePart>
+  <namePart type="family">Gasow</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">JG</namePart>
+  <namePart type="family">Wittmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Thomas</namePart>
+  <namePart type="family">Dierks</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">140658</identifier></name>
+<name type="personal">
+  <namePart type="given">K</namePart>
+  <namePart type="family">von Figura</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">MG</namePart>
+  <namePart type="family">Rudolph</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Chemie</namePart>
+  <identifier type="unibi">10018</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Biochemie I</namePart>
+  <identifier type="unibi">17967</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The formylglycine (FGly)-generating enzyme (FGE) uses molecular oxygen to oxidize a conserved cysteine residue in all eukaryotic sulfatases to the catalytically active FGly. Sulfatases degrade and remodel sulfate esters, and inactivity of FGE results in multiple sulfatase deficiency, a fatal disease. The previously determined FGE crystal structure revealed two crucial cysteine residues in the active site, one of which was thought to be implicated in substrate binding. The other cysteine residue partakes in a novel oxygenase mechanism that does not rely on any cofactors. Here, we present crystal structures of the individual FGE cysteine mutants and employ chemical probing of wild-type FGE, which defined the cysteines to differ strongly in their reactivity. This striking difference in reactivity is explained by the distinct roles of these cysteine residues in the catalytic mechanism. Hitherto, an enzyme-substrate complex as an essential cornerstone for the structural evaluation of the FGly formation mechanism has remained elusive. We also present two FGE-substrate complexes with pentamer and heptamer peptides that mimic sulfatases. The peptides isolate a small cavity that is a likely binding site for molecular oxygen and could host reactive oxygen intermediates during cysteine oxidation. Importantly, these FGE-peptide complexes directly unveil the molecular bases of FGE substrate binding and specificity. Because of the conserved nature of FGE sequences in other organisms, this binding mechanism is of general validity. Furthermore, several disease-causing mutations in both FGE and sulfatases are explained by this binding mechanism.</abstract>
+
+<originInfo><publisher>NATL ACAD SCIENCES</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>enzyme mechanism</topic><topic>posttranslational modification</topic><topic>oxygenase</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA</title></titleInfo>
+  <identifier type="issn">0027-8424</identifier>
+  <identifier type="eIssn">1091-6490</identifier>
+  <identifier type="MEDLINE">16368756</identifier>
+  <identifier type="ISI">000234677800016</identifier><identifier type="doi">10.1073/pnas.0507592102</identifier>
+<part><detail type="volume"><number>103</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">81-86</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Roeser, D.; Preusser-Kunze, A.; Schmidt, B.; Gasow, K.; Wittmann, J. G.; Dierks, T.; von Figura, K.; Rudolph, M. G. (2006): A general binding mechanism for all human sulfatases by the formylglycine-generating enzyme &lt;em&gt;PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA&lt;/em&gt;,103:(1): 81-86.</wels>
+<default>Roeser D, Preusser-Kunze A, Schmidt B, Gasow K, Wittmann JG, Dierks T, von Figura K, Rudolph MG (2006) &lt;br /&gt;PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA 103(1): 81-86.</default>
+<ama>Roeser D, Preusser-Kunze A, Schmidt B, et al. A general binding mechanism for all human sulfatases by the formylglycine-generating enzyme. &lt;em&gt;PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA&lt;/em&gt;. 2006;103(1):81-86.</ama>
+<harvard1>Roeser, D., et al., 2006. A general binding mechanism for all human sulfatases by the formylglycine-generating enzyme. &lt;em&gt;PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA&lt;/em&gt;, 103(1), p 81-86.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Roeser, D., Preusser-Kunze, A., Schmidt, B., Gasow, K., Wittmann, J.G., Dierks, T., von Figura, K. &amp;amp; Rudolph, M.G. (2006). A general binding mechanism for all human sulfatases by the formylglycine-generating enzyme. &lt;em&gt;PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA&lt;/em&gt;, &lt;em&gt;103&lt;/em&gt;(1), 81-86. NATL ACAD SCIENCES. doi:10.1073/pnas.0507592102.&lt;/div&gt;</dgps>
+<bio1>Roeser D, Preusser-Kunze A, Schmidt B, Gasow K, Wittmann JG, Dierks T, von Figura K, Rudolph MG (2006) &lt;br /&gt;A general binding mechanism for all human sulfatases by the formylglycine-generating enzyme.&lt;br /&gt;PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA 103(1): 81-86.</bio1>
+<aps>D.  Roeser, et al., A general binding mechanism for all human sulfatases by the formylglycine-generating enzyme, PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA &lt;strong&gt;103&lt;/strong&gt;, 81-86 (2006).</aps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Roeser, D, Preusser-Kunze, A, Schmidt, B, Gasow, K, Wittmann, JG, Dierks, Thomas, von Figura, K, and Rudolph, MG. 2006. “A general binding mechanism for all human sulfatases by the formylglycine-generating enzyme”. &lt;em&gt;PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA&lt;/em&gt; 103 (1): 81-86.&lt;/div&gt;</chicago>
+<angewandte-chemie>D.  Roeser, A.  Preusser-Kunze, B.  Schmidt, K.  Gasow, J. G.  Wittmann, T.  Dierks, K.  von Figura, and M. G.  Rudolph, “A general binding mechanism for all human sulfatases by the formylglycine-generating enzyme”, &lt;em&gt;PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;103&lt;/em&gt;, 81-86.</angewandte-chemie>
+<apa>Roeser, D., Preusser-Kunze, A., Schmidt, B., Gasow, K., Wittmann, J. G., Dierks, T., von Figura, K., et al. (2006). A general binding mechanism for all human sulfatases by the formylglycine-generating enzyme. &lt;em&gt;PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA&lt;/em&gt;, &lt;em&gt;103&lt;/em&gt;(1), 81-86.</apa>
+<frontiers>Roeser, D., Preusser-Kunze, A., Schmidt, B., Gasow, K., Wittmann, J. G., Dierks, T., von Figura, K., and Rudolph, M. G. (2006). A general binding mechanism for all human sulfatases by the formylglycine-generating enzyme. &lt;em&gt;PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA&lt;/em&gt; 103, 81-86.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Roeser, D., Preusser-Kunze, A., Schmidt, B., Gasow, K., Wittmann, J. G., Dierks, T., von Figura, K., et al. (2006). A general binding mechanism for all human sulfatases by the formylglycine-generating enzyme. &lt;em&gt;PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA&lt;/em&gt;, &lt;em&gt;103&lt;/em&gt;(1), 81-86.&lt;/div&gt;</apa_indent>
+<ieee>D. Roeser, et al., “A general binding mechanism for all human sulfatases by the formylglycine-generating enzyme”, &lt;em&gt;PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA&lt;/em&gt;,  vol. 103, 2006,  pp. 81-86.</ieee>
+<lncs>Roeser, D., Preusser-Kunze, A., Schmidt, B., Gasow, K., Wittmann, J.G., Dierks, T., von Figura, K., Rudolph, M.G.: A general binding mechanism for all human sulfatases by the formylglycine-generating enzyme. PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA. 103, 81-86 (2006).</lncs>
+<mla>Roeser, D, Preusser-Kunze, A, Schmidt, B, Gasow, K, Wittmann, JG, Dierks, Thomas, von Figura, K, and Rudolph, MG. “A general binding mechanism for all human sulfatases by the formylglycine-generating enzyme”. &lt;em&gt;PROCEEDINGS OF THE NATIONAL ACADEMY OF SCIENCES OF THE UNITED STATES OF AMERICA&lt;/em&gt; 103.1 (2006): 81-86.</mla>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1600859</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:31:27Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-12-06T23:29:32Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1600859</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1600859</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

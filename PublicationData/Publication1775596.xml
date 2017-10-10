@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Modelling the fast fluorescence rise of photosynthesis</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ellen</namePart>
+  <namePart type="family">Baake</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">161046</identifier></name>
+<name type="personal">
+  <namePart type="given">Johannes P.</namePart>
+  <namePart type="family">Schlöder</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Forschungsschwerpunkt Mathematisierung</namePart>
+  <identifier type="unibi">10060</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We construct an ODE model for the fast fluorescence rise of photosynthesis by combining the current reaction scheme of the PS II two-electron-gate with a quasi steady-state description of the fast processes of excitation energy transfer and primary charge separation. The model is fitted to measured induction curves with a multiple shooting algorithm, and remarkably good approximations of the data are obtained. Model refinements are discussed focusing on PS II heterogeneity, and on PS I.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Baake_004.pdf">https://pub.uni-bielefeld.de/download/1775596/2311964</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1992</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Bulletin of mathematical biology</title></titleInfo>
+  <identifier type="issn">0092-8240</identifier>
+  <identifier type="eIssn">1522-9602</identifier>
+  <identifier type="ISI">A1992JH89000006</identifier><identifier type="urn">urn:nbn:de:0070-pub-17755964</identifier><identifier type="doi">10.1007/BF02460663</identifier>
+<part><detail type="volume"><number>54</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">999-1021</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baake, E. &amp;amp; Schlöder, J.P. (1992). Modelling the fast fluorescence rise of photosynthesis. &lt;em&gt;Bulletin of mathematical biology&lt;/em&gt;, &lt;em&gt;54&lt;/em&gt;(6), 999-1021. doi:10.1007/BF02460663.&lt;/div&gt;</dgps>
+<ama>Baake E, Schlöder JP. Modelling the fast fluorescence rise of photosynthesis. &lt;em&gt;Bulletin of mathematical biology&lt;/em&gt;. 1992;54(6):999-1021.</ama>
+<harvard1>Baake, E., &amp;amp; Schlöder, J.P., 1992. Modelling the fast fluorescence rise of photosynthesis. &lt;em&gt;Bulletin of mathematical biology&lt;/em&gt;, 54(6), p 999-1021.</harvard1>
+<aps>E.  Baake and J. P.  Schlöder, Modelling the fast fluorescence rise of photosynthesis, Bulletin of mathematical biology &lt;strong&gt;54&lt;/strong&gt;, 999-1021 (1992).</aps>
+<bio1>Baake E, Schlöder JP (1992) &lt;br /&gt;Modelling the fast fluorescence rise of photosynthesis.&lt;br /&gt;Bulletin of mathematical biology 54(6): 999-1021.</bio1>
+<wels>Baake, E.; Schlöder, J. P. (1992): Modelling the fast fluorescence rise of photosynthesis &lt;em&gt;Bulletin of mathematical biology&lt;/em&gt;,54:(6): 999-1021.</wels>
+<default>Baake E, Schlöder JP (1992) &lt;br /&gt;Bulletin of mathematical biology 54(6): 999-1021.</default>
+<ieee>E. Baake and J.P. Schlöder, “Modelling the fast fluorescence rise of photosynthesis”, &lt;em&gt;Bulletin of mathematical biology&lt;/em&gt;,  vol. 54, 1992,  pp. 999-1021.</ieee>
+<lncs>Baake, E., Schlöder, J.P.: Modelling the fast fluorescence rise of photosynthesis. Bulletin of mathematical biology. 54, 999-1021 (1992).</lncs>
+<mla>Baake, Ellen, and Schlöder, Johannes P. “Modelling the fast fluorescence rise of photosynthesis”. &lt;em&gt;Bulletin of mathematical biology&lt;/em&gt; 54.6 (1992): 999-1021.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baake, E., &amp;amp; Schlöder, J. P. (1992). Modelling the fast fluorescence rise of photosynthesis. &lt;em&gt;Bulletin of mathematical biology&lt;/em&gt;, &lt;em&gt;54&lt;/em&gt;(6), 999-1021.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>E.  Baake, and J. P.  Schlöder, “Modelling the fast fluorescence rise of photosynthesis”, &lt;em&gt;Bulletin of mathematical biology&lt;/em&gt;, &lt;strong&gt;1992&lt;/strong&gt;, &lt;em&gt;54&lt;/em&gt;, 999-1021.</angewandte-chemie>
+<apa>Baake, E., &amp;amp; Schlöder, J. P. (1992). Modelling the fast fluorescence rise of photosynthesis. &lt;em&gt;Bulletin of mathematical biology&lt;/em&gt;, &lt;em&gt;54&lt;/em&gt;(6), 999-1021.</apa>
+<frontiers>Baake, E., and Schlöder, J. P. (1992). Modelling the fast fluorescence rise of photosynthesis. &lt;em&gt;Bulletin of mathematical biology&lt;/em&gt; 54, 999-1021.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baake, Ellen, and Schlöder, Johannes P. 1992. “Modelling the fast fluorescence rise of photosynthesis”. &lt;em&gt;Bulletin of mathematical biology&lt;/em&gt; 54 (6): 999-1021.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1775596</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1775596</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1775596</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

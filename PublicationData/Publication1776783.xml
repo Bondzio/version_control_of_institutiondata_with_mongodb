@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Inneres Wort und inwohnender Christus: zum mystischen Spiritualismus Sebastian Francks und seinen Implikationen</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Otto</namePart>
+  <namePart type="family">Langer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Jan-Dirk</namePart><namePart type="family">Müller</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Linguistik und Literaturwissenschaft</namePart>
+  <identifier type="unibi">10019</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Langer_15.pdf">https://pub.uni-bielefeld.de/download/1776783/2312237</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Harrassowitz</publisher><dateIssued encoding="w3cdtf">1993</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Sebastian Franck: (1499 - 1542) ; Vorträge, gehalten anläßlich eines Arbeitsgesprächs vom 4. bis 7. September 1989 in der Herzog-August-Bibliothek Wolfenbüttel</title></titleInfo>
+  <identifier type="isbn">3-447-03454-8</identifier><identifier type="urn">urn:nbn:de:0070-bipr-13043</identifier>
+<part><extent unit="pages">55-69</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<mla>Langer, Otto. “Inneres Wort und inwohnender Christus: zum mystischen Spiritualismus Sebastian Francks und seinen Implikationen”. &lt;em&gt;Sebastian Franck: (1499 - 1542) ; Vorträge, gehalten anläßlich eines Arbeitsgesprächs vom 4. bis 7. September 1989 in der Herzog-August-Bibliothek Wolfenbüttel&lt;/em&gt;. Ed. Jan-Dirk Müller. Wiesbaden: Harrassowitz, 1993. Wolfenbütteler Forschungen ; 56. 55-69.</mla>
+<lncs>Langer, O.: Inneres Wort und inwohnender Christus: zum mystischen Spiritualismus Sebastian Francks und seinen Implikationen. In: Müller, J.-D. (ed.) Sebastian Franck: (1499 - 1542) ; Vorträge, gehalten anläßlich eines Arbeitsgesprächs vom 4. bis 7. September 1989 in der Herzog-August-Bibliothek Wolfenbüttel. Wolfenbütteler Forschungen ; 56. p. 55-69. Harrassowitz, Wiesbaden (1993).</lncs>
+<ieee>O. Langer, “Inneres Wort und inwohnender Christus: zum mystischen Spiritualismus Sebastian Francks und seinen Implikationen”, &lt;em&gt;Sebastian Franck: (1499 - 1542) ; Vorträge, gehalten anläßlich eines Arbeitsgesprächs vom 4. bis 7. September 1989 in der Herzog-August-Bibliothek Wolfenbüttel&lt;/em&gt;, J.-D. Müller, ed., Wolfenbütteler Forschungen ; 56,  Wiesbaden: Harrassowitz, 1993,  pp.55-69.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Langer, O. (1993). Inneres Wort und inwohnender Christus: zum mystischen Spiritualismus Sebastian Francks und seinen Implikationen. In J. - D.  Müller (Ed.), &lt;em&gt;Wolfenbütteler Forschungen ; 56&lt;/em&gt;&lt;em&gt;. Sebastian Franck: (1499 - 1542) ; Vorträge, gehalten anläßlich eines Arbeitsgesprächs vom 4. bis 7. September 1989 in der Herzog-August-Bibliothek Wolfenbüttel&lt;/em&gt; (pp. 55-69). Wiesbaden: Harrassowitz.&lt;/div&gt;</apa_indent>
+<frontiers>Langer, O. (1993). “Inneres Wort und inwohnender Christus: zum mystischen Spiritualismus Sebastian Francks und seinen Implikationen” in &lt;em&gt;Sebastian Franck: (1499 - 1542) ; Vorträge, gehalten anläßlich eines Arbeitsgesprächs vom 4. bis 7. September 1989 in der Herzog-August-Bibliothek Wolfenbüttel&lt;/em&gt;, ed. J. - D.  Müller Wolfenbütteler Forschungen ; 56 (Wiesbaden: Harrassowitz), 55-69.</frontiers>
+<apa>Langer, O. (1993). Inneres Wort und inwohnender Christus: zum mystischen Spiritualismus Sebastian Francks und seinen Implikationen. In J. - D.  Müller (Ed.), &lt;em&gt;Wolfenbütteler Forschungen ; 56&lt;/em&gt;&lt;em&gt;. Sebastian Franck: (1499 - 1542) ; Vorträge, gehalten anläßlich eines Arbeitsgesprächs vom 4. bis 7. September 1989 in der Herzog-August-Bibliothek Wolfenbüttel&lt;/em&gt; (pp. 55-69). Wiesbaden: Harrassowitz.</apa>
+<angewandte-chemie>O.  Langer, in &lt;em&gt;Sebastian Franck: (1499 - 1542) ; Vorträge, gehalten anläßlich eines Arbeitsgesprächs vom 4. bis 7. September 1989 in der Herzog-August-Bibliothek Wolfenbüttel&lt;/em&gt; (Ed.: J.-D. Müller), Harrassowitz, Wiesbaden, &lt;strong&gt;1993&lt;/strong&gt;, p. 55-69.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Langer, Otto. 1993. “Inneres Wort und inwohnender Christus: zum mystischen Spiritualismus Sebastian Francks und seinen Implikationen”. In &lt;em&gt;Sebastian Franck: (1499 - 1542) ; Vorträge, gehalten anläßlich eines Arbeitsgesprächs vom 4. bis 7. September 1989 in der Herzog-August-Bibliothek Wolfenbüttel&lt;/em&gt;, ed. Jan-Dirk Müller, 55-69. Wolfenbütteler Forschungen ; 56. Wiesbaden: Harrassowitz.&lt;/div&gt;</chicago>
+<bio1>Langer O (1993) &lt;br /&gt;Inneres Wort und inwohnender Christus: zum mystischen Spiritualismus Sebastian Francks und seinen Implikationen. &lt;br /&gt;In:  Sebastian Franck: (1499 - 1542) ; Vorträge, gehalten anläßlich eines Arbeitsgesprächs vom 4. bis 7. September 1989 in der Herzog-August-Bibliothek Wolfenbüttel. Müller J-D (Ed); Wolfenbütteler Forschungen ; 56,  Wiesbaden: Harrassowitz:  55-69.</bio1>
+<aps>O.  Langer, Inneres Wort und inwohnender Christus: zum mystischen Spiritualismus Sebastian Francks und seinen Implikationen, in &lt;em&gt;Sebastian Franck: (1499 - 1542) ; Vorträge, gehalten anläßlich eines Arbeitsgesprächs vom 4. bis 7. September 1989 in der Herzog-August-Bibliothek Wolfenbüttel&lt;/em&gt;, edited by J. - D.  Müller, Wolfenbütteler Forschungen ; 56 (Harrassowitz, Wiesbaden, 1993), p. 55-69.</aps>
+<harvard1>Langer, O., 1993. Inneres Wort und inwohnender Christus: zum mystischen Spiritualismus Sebastian Francks und seinen Implikationen. In J. - D.  Müller, ed. &lt;em&gt;Sebastian Franck: (1499 - 1542) ; Vorträge, gehalten anläßlich eines Arbeitsgesprächs vom 4. bis 7. September 1989 in der Herzog-August-Bibliothek Wolfenbüttel&lt;/em&gt;. Wolfenbütteler Forschungen ; 56.  Wiesbaden: Harrassowitz, pp. 55-69.</harvard1>
+<ama>Langer O. Inneres Wort und inwohnender Christus: zum mystischen Spiritualismus Sebastian Francks und seinen Implikationen. In: Müller J-D, ed. &lt;em&gt;Sebastian Franck: (1499 - 1542) ; Vorträge, gehalten anläßlich eines Arbeitsgesprächs vom 4. bis 7. September 1989 in der Herzog-August-Bibliothek Wolfenbüttel&lt;/em&gt;. Wolfenbütteler Forschungen ; 56. Wiesbaden: Harrassowitz;  1993: 55-69.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Langer, O. (1993). Inneres Wort und inwohnender Christus: zum mystischen Spiritualismus Sebastian Francks und seinen Implikationen (Wolfenbütteler Forschungen ; 56). &lt;em&gt;Sebastian Franck: (1499 - 1542) ; Vorträge, gehalten anläßlich eines Arbeitsgesprächs vom 4. bis 7. September 1989 in der Herzog-August-Bibliothek Wolfenbüttel&lt;/em&gt; (S. 55-69). Wiesbaden: Harrassowitz.&lt;/div&gt;</dgps>
+<default>Langer O (1993)  &lt;br /&gt;In:  Sebastian Franck: (1499 - 1542) ; Vorträge, gehalten anläßlich eines Arbeitsgesprächs vom 4. bis 7. September 1989 in der Herzog-August-Bibliothek Wolfenbüttel. Müller J-D (Ed); Wolfenbütteler Forschungen ; 56, . Wiesbaden: Harrassowitz:  55-69.</default>
+<wels>Langer, O. (1993): Inneres Wort und inwohnender Christus: zum mystischen Spiritualismus Sebastian Francks und seinen Implikationen. In: Jan-Dirk Müller (Hrsg.):  Sebastian Franck: (1499 - 1542) ; Vorträge, gehalten anläßlich eines Arbeitsgesprächs vom 4. bis 7. September 1989 in der Herzog-August-Bibliothek Wolfenbüttel. Wiesbaden: Harrassowitz. (Wolfenbütteler Forschungen ; 56, ).  S. 55-69.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776783</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776783</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776783</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

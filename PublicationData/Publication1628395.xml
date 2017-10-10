@@ -1,0 +1,112 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Rapid determination of plasmid copy number</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">T</namePart>
+  <namePart type="family">Schmidt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Karl</namePart>
+  <namePart type="family">Friehs</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11015</identifier></name>
+<name type="personal">
+  <namePart type="given">Erwin</namePart>
+  <namePart type="family">Flaschel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11014</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Technische Fakultät</namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Centrum für Biotechnologie</namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Plasmid copy number, the number of expression vectors per host cell, is a key variable in recombinant microbial cultivation. Therefore, it would be very helpful, if the plasmid copy number could be determined during the operating process period. A rapid quantification of this important process variable would even open the possibility of its use in process control. However, current assays like gel electrophoresis, CsCl-gradient centrifugation, HPLC and other methods are time consuming and difficult to quantify. Indirect methods: like the correlation of copy number with, e.g. the activity of an enzyme, coded on the plasmid, are prone to errors due to the production kinetics, turnover rate and protein denaturation. Here, a method is presented, which enables the plasmid copy number to be determined in less than 30 min. This novel procedure based on plasmid isolation by means of a commercial DNA-isolation kit and quantification by capillary electrophoresis, should allow the copy number to be used in process control.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">1996</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>DNA quantification</topic><topic>plasmid copy number</topic><topic>plasmid isolation</topic><topic>electrophoresis</topic><topic>recombinant Escherichia</topic><topic>capillary</topic><topic>coli</topic><topic>laser induced fluorescence</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF BIOTECHNOLOGY</title></titleInfo>
+  <identifier type="issn">0168-1656</identifier>
+  <identifier type="MEDLINE">8879172</identifier>
+  <identifier type="ISI">A1996VY21400021</identifier><identifier type="doi">10.1016/0168-1656(96)01519-2</identifier>
+<part><detail type="volume"><number>49</number></detail><detail type="issue"><number>1-3</number></detail><extent unit="pages">219-229</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Schmidt, T.; Friehs, K.; Flaschel, E. (1996): Rapid determination of plasmid copy number &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;,49:(1-3): 219-229.</wels>
+<default>Schmidt T, Friehs K, Flaschel E (1996) &lt;br /&gt;JOURNAL OF BIOTECHNOLOGY 49(1-3): 219-229.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schmidt, T., Friehs, K. &amp;amp; Flaschel, E. (1996). Rapid determination of plasmid copy number. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;49&lt;/em&gt;(1-3), 219-229. ELSEVIER SCIENCE BV. doi:10.1016/0168-1656(96)01519-2.&lt;/div&gt;</dgps>
+<ama>Schmidt T, Friehs K, Flaschel E. Rapid determination of plasmid copy number. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;. 1996;49(1-3):219-229.</ama>
+<harvard1>Schmidt, T., Friehs, K., &amp;amp; Flaschel, E., 1996. Rapid determination of plasmid copy number. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, 49(1-3), p 219-229.</harvard1>
+<aps>T.  Schmidt, K.  Friehs, and E.  Flaschel, Rapid determination of plasmid copy number, JOURNAL OF BIOTECHNOLOGY &lt;strong&gt;49&lt;/strong&gt;, 219-229 (1996).</aps>
+<bio1>Schmidt T, Friehs K, Flaschel E (1996) &lt;br /&gt;Rapid determination of plasmid copy number.&lt;br /&gt;JOURNAL OF BIOTECHNOLOGY 49(1-3): 219-229.</bio1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schmidt, T, Friehs, Karl, and Flaschel, Erwin. 1996. “Rapid determination of plasmid copy number”. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt; 49 (1-3): 219-229.&lt;/div&gt;</chicago>
+<angewandte-chemie>T.  Schmidt, K.  Friehs, and E.  Flaschel, “Rapid determination of plasmid copy number”, &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;strong&gt;1996&lt;/strong&gt;, &lt;em&gt;49&lt;/em&gt;, 219-229.</angewandte-chemie>
+<apa>Schmidt, T., Friehs, K., &amp;amp; Flaschel, E. (1996). Rapid determination of plasmid copy number. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;49&lt;/em&gt;(1-3), 219-229.</apa>
+<frontiers>Schmidt, T., Friehs, K., and Flaschel, E. (1996). Rapid determination of plasmid copy number. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt; 49, 219-229.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schmidt, T., Friehs, K., &amp;amp; Flaschel, E. (1996). Rapid determination of plasmid copy number. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;49&lt;/em&gt;(1-3), 219-229.&lt;/div&gt;</apa_indent>
+<ieee>T. Schmidt, K. Friehs, and E. Flaschel, “Rapid determination of plasmid copy number”, &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;,  vol. 49, 1996,  pp. 219-229.</ieee>
+<lncs>Schmidt, T., Friehs, K., Flaschel, E.: Rapid determination of plasmid copy number. JOURNAL OF BIOTECHNOLOGY. 49, 219-229 (1996).</lncs>
+<mla>Schmidt, T, Friehs, Karl, and Flaschel, Erwin. “Rapid determination of plasmid copy number”. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt; 49.1-3 (1996): 219-229.</mla>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1628395</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:23:27Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-15T13:23:12Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1628395</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1628395</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

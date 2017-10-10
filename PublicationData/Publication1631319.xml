@@ -1,0 +1,117 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Neuroproteomics in stem cell differentiation</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Susanne</namePart>
+  <namePart type="family">Beyer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Eilhard</namePart>
+  <namePart type="family">Mix</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Raimund</namePart>
+  <namePart type="family">Hoffrogge</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">175628</identifier></name>
+<name type="personal">
+  <namePart type="given">Katja</namePart>
+  <namePart type="family">Luenser</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Uwe</namePart>
+  <namePart type="family">Voelker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Arndt</namePart>
+  <namePart type="family">Rolfs</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Technische Fakultät</namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The term &quot;proteome&quot; is used to describe the entire complement of proteins in a given organism or in a system at a given time. Proteome analysis in neuroscience, also called &quot;neuroproteomics&quot; or &quot;neuromics&quot; is in its initial stage, and shows a deficit of studies in the context of brain development. It is the main objective of this review to illustrate the potential of neuroproteomics as a tool to unravel the differentiation of neural stem or progenitor cells to terminally differentiated neurons. Experimental results regarding the rat striatal progenitor model cell line ST14A are presented to illustrate the large rearrangements of the proteome during the differentiation process of neural progenitor cells and their modification by neurotrophic factors like the glial cell line-derived neurotrophic factor (GDNF). Thereby native stem cells and cells transfected with GDNF gene were investigated at the proliferative state and at seven time points up to 72 h after induction of differentiation. In addition, the immortalized human fetal midbrain stem cell line ReNcell VM was analyzed in order to detect stem cell differentiation associated changes of the protein profile. This review gives also an outlook on technical improvements and perspectives of application of neural stem cell proteomics.</abstract>
+
+<originInfo><publisher>WILEY-V C H VERLAG GMBH</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>neural progenitor cell (NPC)</topic><topic>neuronal</topic><topic>differentiation</topic><topic>proteome profiling</topic><topic>neural stem cell (NSC)</topic><topic>neuroproteomics</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>PROTEOMICS CLINICAL APPLICATIONS</title></titleInfo>
+  <identifier type="issn">1862-8346</identifier>
+  <identifier type="eIssn">1862-8354</identifier>
+  <identifier type="MEDLINE">21136647</identifier>
+  <identifier type="ISI">000251022600016</identifier><identifier type="doi">10.1002/prca.200700324</identifier>
+<part><detail type="volume"><number>1</number></detail><detail type="issue"><number>11</number></detail><extent unit="pages">1513-1523</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Beyer S, Mix E, Hoffrogge R, Luenser K, Voelker U, Rolfs A. Neuroproteomics in stem cell differentiation. &lt;em&gt;PROTEOMICS CLINICAL APPLICATIONS&lt;/em&gt;. 2007;1(11):1513-1523.</ama>
+<harvard1>Beyer, S., et al., 2007. Neuroproteomics in stem cell differentiation. &lt;em&gt;PROTEOMICS CLINICAL APPLICATIONS&lt;/em&gt;, 1(11), p 1513-1523.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Beyer, S., Mix, E., Hoffrogge, R., Luenser, K., Voelker, U. &amp;amp; Rolfs, A. (2007). Neuroproteomics in stem cell differentiation. &lt;em&gt;PROTEOMICS CLINICAL APPLICATIONS&lt;/em&gt;, &lt;em&gt;1&lt;/em&gt;(11), 1513-1523. WILEY-V C H VERLAG GMBH. doi:10.1002/prca.200700324.&lt;/div&gt;</dgps>
+<bio1>Beyer S, Mix E, Hoffrogge R, Luenser K, Voelker U, Rolfs A (2007) &lt;br /&gt;Neuroproteomics in stem cell differentiation.&lt;br /&gt;PROTEOMICS CLINICAL APPLICATIONS 1(11): 1513-1523.</bio1>
+<aps>S.  Beyer, et al., Neuroproteomics in stem cell differentiation, PROTEOMICS CLINICAL APPLICATIONS &lt;strong&gt;1&lt;/strong&gt;, 1513-1523 (2007).</aps>
+<wels>Beyer, S.; Mix, E.; Hoffrogge, R.; Luenser, K.; Voelker, U.; Rolfs, A. (2007): Neuroproteomics in stem cell differentiation &lt;em&gt;PROTEOMICS CLINICAL APPLICATIONS&lt;/em&gt;,1:(11): 1513-1523.</wels>
+<default>Beyer S, Mix E, Hoffrogge R, Luenser K, Voelker U, Rolfs A (2007) &lt;br /&gt;PROTEOMICS CLINICAL APPLICATIONS 1(11): 1513-1523.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Beyer, S., Mix, E., Hoffrogge, R., Luenser, K., Voelker, U., &amp;amp; Rolfs, A. (2007). Neuroproteomics in stem cell differentiation. &lt;em&gt;PROTEOMICS CLINICAL APPLICATIONS&lt;/em&gt;, &lt;em&gt;1&lt;/em&gt;(11), 1513-1523.&lt;/div&gt;</apa_indent>
+<ieee>S. Beyer, et al., “Neuroproteomics in stem cell differentiation”, &lt;em&gt;PROTEOMICS CLINICAL APPLICATIONS&lt;/em&gt;,  vol. 1, 2007,  pp. 1513-1523.</ieee>
+<mla>Beyer, Susanne, Mix, Eilhard, Hoffrogge, Raimund, Luenser, Katja, Voelker, Uwe, and Rolfs, Arndt. “Neuroproteomics in stem cell differentiation”. &lt;em&gt;PROTEOMICS CLINICAL APPLICATIONS&lt;/em&gt; 1.11 (2007): 1513-1523.</mla>
+<lncs>Beyer, S., Mix, E., Hoffrogge, R., Luenser, K., Voelker, U., Rolfs, A.: Neuroproteomics in stem cell differentiation. PROTEOMICS CLINICAL APPLICATIONS. 1, 1513-1523 (2007).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Beyer, Susanne, Mix, Eilhard, Hoffrogge, Raimund, Luenser, Katja, Voelker, Uwe, and Rolfs, Arndt. 2007. “Neuroproteomics in stem cell differentiation”. &lt;em&gt;PROTEOMICS CLINICAL APPLICATIONS&lt;/em&gt; 1 (11): 1513-1523.&lt;/div&gt;</chicago>
+<apa>Beyer, S., Mix, E., Hoffrogge, R., Luenser, K., Voelker, U., &amp;amp; Rolfs, A. (2007). Neuroproteomics in stem cell differentiation. &lt;em&gt;PROTEOMICS CLINICAL APPLICATIONS&lt;/em&gt;, &lt;em&gt;1&lt;/em&gt;(11), 1513-1523.</apa>
+<angewandte-chemie>S.  Beyer, E.  Mix, R.  Hoffrogge, K.  Luenser, U.  Voelker, and A.  Rolfs, “Neuroproteomics in stem cell differentiation”, &lt;em&gt;PROTEOMICS CLINICAL APPLICATIONS&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;1&lt;/em&gt;, 1513-1523.</angewandte-chemie>
+<frontiers>Beyer, S., Mix, E., Hoffrogge, R., Luenser, K., Voelker, U., and Rolfs, A. (2007). Neuroproteomics in stem cell differentiation. &lt;em&gt;PROTEOMICS CLINICAL APPLICATIONS&lt;/em&gt; 1, 1513-1523.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1631319</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:05:38Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-11-17T15:28:45Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1631319</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1631319</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

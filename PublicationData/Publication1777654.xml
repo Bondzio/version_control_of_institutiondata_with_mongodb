@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Neue Technologien, Allgemeinbildung und Unterricht in der Sekundarstufe I</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Klaus-Jürgen</namePart>
+  <namePart type="family">Tillmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21774</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Helmut</namePart><namePart type="family">Heid</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Erziehungswissenschaft</namePart>
+  <identifier type="unibi">10021</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG 4 - Schulentwicklung und Schulforschung</namePart>
+  <identifier type="unibi">7978212</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Tillmann_051.pdf">https://pub.uni-bielefeld.de/download/1777654/2312352</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Beltz</publisher><dateIssued encoding="w3cdtf">1987</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Allgemeinbildung: vom 10. bis 12. März 1986 in der Universität Heidelberg ; Beiträge zum 10. Kongreß der Deutschen Gesellschaft für Erziehungswissenschaft</title></titleInfo>
+  <identifier type="isbn">3-407-41121-9</identifier><identifier type="urn">urn:nbn:de:0070-bipr-14290</identifier>
+<part><extent unit="pages">97-104</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Tillmann, K. - J. (1987). Neue Technologien, Allgemeinbildung und Unterricht in der Sekundarstufe I. In H.  Heid (Ed.), &lt;em&gt;Zeitschrift für Pädagogik : Beiheft ; 21&lt;/em&gt;&lt;em&gt;. Allgemeinbildung: vom 10. bis 12. März 1986 in der Universität Heidelberg ; Beiträge zum 10. Kongreß der Deutschen Gesellschaft für Erziehungswissenschaft&lt;/em&gt; (pp. 97-104). Weinheim: Beltz.&lt;/div&gt;</apa_indent>
+<mla>Tillmann, Klaus-Jürgen. “Neue Technologien, Allgemeinbildung und Unterricht in der Sekundarstufe I”. &lt;em&gt;Allgemeinbildung: vom 10. bis 12. März 1986 in der Universität Heidelberg ; Beiträge zum 10. Kongreß der Deutschen Gesellschaft für Erziehungswissenschaft&lt;/em&gt;. Ed. Helmut Heid. Weinheim: Beltz, 1987. Zeitschrift für Pädagogik : Beiheft ; 21. 97-104.</mla>
+<lncs>Tillmann, K.-J.: Neue Technologien, Allgemeinbildung und Unterricht in der Sekundarstufe I. In: Heid, H. (ed.) Allgemeinbildung: vom 10. bis 12. März 1986 in der Universität Heidelberg ; Beiträge zum 10. Kongreß der Deutschen Gesellschaft für Erziehungswissenschaft. Zeitschrift für Pädagogik : Beiheft ; 21. p. 97-104. Beltz, Weinheim (1987).</lncs>
+<ieee>K.-J. Tillmann, “Neue Technologien, Allgemeinbildung und Unterricht in der Sekundarstufe I”, &lt;em&gt;Allgemeinbildung: vom 10. bis 12. März 1986 in der Universität Heidelberg ; Beiträge zum 10. Kongreß der Deutschen Gesellschaft für Erziehungswissenschaft&lt;/em&gt;, H. Heid, ed., Zeitschrift für Pädagogik : Beiheft ; 21,  Weinheim: Beltz, 1987,  pp.97-104.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Tillmann, Klaus-Jürgen. 1987. “Neue Technologien, Allgemeinbildung und Unterricht in der Sekundarstufe I”. In &lt;em&gt;Allgemeinbildung: vom 10. bis 12. März 1986 in der Universität Heidelberg ; Beiträge zum 10. Kongreß der Deutschen Gesellschaft für Erziehungswissenschaft&lt;/em&gt;, ed. Helmut Heid, 97-104. Zeitschrift für Pädagogik : Beiheft ; 21. Weinheim: Beltz.&lt;/div&gt;</chicago>
+<frontiers>Tillmann, K. - J. (1987). “Neue Technologien, Allgemeinbildung und Unterricht in der Sekundarstufe I” in &lt;em&gt;Allgemeinbildung: vom 10. bis 12. März 1986 in der Universität Heidelberg ; Beiträge zum 10. Kongreß der Deutschen Gesellschaft für Erziehungswissenschaft&lt;/em&gt;, ed. H.  Heid Zeitschrift für Pädagogik : Beiheft ; 21 (Weinheim: Beltz), 97-104.</frontiers>
+<apa>Tillmann, K. - J. (1987). Neue Technologien, Allgemeinbildung und Unterricht in der Sekundarstufe I. In H.  Heid (Ed.), &lt;em&gt;Zeitschrift für Pädagogik : Beiheft ; 21&lt;/em&gt;&lt;em&gt;. Allgemeinbildung: vom 10. bis 12. März 1986 in der Universität Heidelberg ; Beiträge zum 10. Kongreß der Deutschen Gesellschaft für Erziehungswissenschaft&lt;/em&gt; (pp. 97-104). Weinheim: Beltz.</apa>
+<angewandte-chemie>K. - J.  Tillmann, in &lt;em&gt;Allgemeinbildung: vom 10. bis 12. März 1986 in der Universität Heidelberg ; Beiträge zum 10. Kongreß der Deutschen Gesellschaft für Erziehungswissenschaft&lt;/em&gt; (Ed.: H. Heid), Beltz, Weinheim, &lt;strong&gt;1987&lt;/strong&gt;, p. 97-104.</angewandte-chemie>
+<bio1>Tillmann K-J (1987) &lt;br /&gt;Neue Technologien, Allgemeinbildung und Unterricht in der Sekundarstufe I. &lt;br /&gt;In:  Allgemeinbildung: vom 10. bis 12. März 1986 in der Universität Heidelberg ; Beiträge zum 10. Kongreß der Deutschen Gesellschaft für Erziehungswissenschaft. Heid H (Ed); Zeitschrift für Pädagogik : Beiheft ; 21,  Weinheim: Beltz:  97-104.</bio1>
+<aps>K. - J.  Tillmann, Neue Technologien, Allgemeinbildung und Unterricht in der Sekundarstufe I, in &lt;em&gt;Allgemeinbildung: vom 10. bis 12. März 1986 in der Universität Heidelberg ; Beiträge zum 10. Kongreß der Deutschen Gesellschaft für Erziehungswissenschaft&lt;/em&gt;, edited by H.  Heid, Zeitschrift für Pädagogik : Beiheft ; 21 (Beltz, Weinheim, 1987), p. 97-104.</aps>
+<harvard1>Tillmann, K.-J., 1987. Neue Technologien, Allgemeinbildung und Unterricht in der Sekundarstufe I. In H.  Heid, ed. &lt;em&gt;Allgemeinbildung: vom 10. bis 12. März 1986 in der Universität Heidelberg ; Beiträge zum 10. Kongreß der Deutschen Gesellschaft für Erziehungswissenschaft&lt;/em&gt;. Zeitschrift für Pädagogik : Beiheft ; 21.  Weinheim: Beltz, pp. 97-104.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Tillmann, K.-J. (1987). Neue Technologien, Allgemeinbildung und Unterricht in der Sekundarstufe I (Zeitschrift für Pädagogik : Beiheft ; 21). &lt;em&gt;Allgemeinbildung: vom 10. bis 12. März 1986 in der Universität Heidelberg ; Beiträge zum 10. Kongreß der Deutschen Gesellschaft für Erziehungswissenschaft&lt;/em&gt; (S. 97-104). Weinheim: Beltz.&lt;/div&gt;</dgps>
+<ama>Tillmann K-J. Neue Technologien, Allgemeinbildung und Unterricht in der Sekundarstufe I. In: Heid H, ed. &lt;em&gt;Allgemeinbildung: vom 10. bis 12. März 1986 in der Universität Heidelberg ; Beiträge zum 10. Kongreß der Deutschen Gesellschaft für Erziehungswissenschaft&lt;/em&gt;. Zeitschrift für Pädagogik : Beiheft ; 21. Weinheim: Beltz;  1987: 97-104.</ama>
+<default>Tillmann K-J (1987)  &lt;br /&gt;In:  Allgemeinbildung: vom 10. bis 12. März 1986 in der Universität Heidelberg ; Beiträge zum 10. Kongreß der Deutschen Gesellschaft für Erziehungswissenschaft. Heid H (Ed); Zeitschrift für Pädagogik : Beiheft ; 21, . Weinheim: Beltz:  97-104.</default>
+<wels>Tillmann, K. - J. (1987): Neue Technologien, Allgemeinbildung und Unterricht in der Sekundarstufe I. In: Helmut Heid (Hrsg.):  Allgemeinbildung: vom 10. bis 12. März 1986 in der Universität Heidelberg ; Beiträge zum 10. Kongreß der Deutschen Gesellschaft für Erziehungswissenschaft. Weinheim: Beltz. (Zeitschrift für Pädagogik : Beiheft ; 21, ).  S. 97-104.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1777654</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1777654</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1777654</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

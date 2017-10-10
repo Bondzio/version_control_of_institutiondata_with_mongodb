@@ -1,0 +1,96 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Gesellschaft</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Wilhelm</namePart>
+  <namePart type="family">Heitmeyer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21765</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Peter</namePart><namePart type="family">Imbusch</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Wilhelm</namePart><namePart type="family">Heitmeyer</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10058</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>VS Verlag für Sozialwissenschaften</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+<subject><topic>Gesellschaft</topic><topic>society</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Integration - Desintegration. Ein Reader zur Ordnungsproblematik moderner Gesellschaften</title></titleInfo>
+  <identifier type="isbn">978-3-531-15583-8</identifier>
+<part><extent unit="pages">21-26</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Heitmeyer, W. (2008): Gesellschaft. In: Peter Imbusch; Wilhelm Heitmeyer (Hrsg.):  Integration - Desintegration. Ein Reader zur Ordnungsproblematik moderner Gesellschaften. Wiesbaden: VS Verlag für Sozialwissenschaften.  S. 21-26.</wels>
+<default>Heitmeyer W (2008)  &lt;br /&gt;In:  Integration - Desintegration. Ein Reader zur Ordnungsproblematik moderner Gesellschaften. Imbusch P, Heitmeyer W (Eds);Wiesbaden: VS Verlag für Sozialwissenschaften:  21-26.</default>
+<harvard1>Heitmeyer, W., 2008. Gesellschaft. In P.  Imbusch &amp;amp; W.  Heitmeyer, eds. &lt;em&gt;Integration - Desintegration. Ein Reader zur Ordnungsproblematik moderner Gesellschaften&lt;/em&gt;.  Wiesbaden: VS Verlag für Sozialwissenschaften, pp. 21-26.</harvard1>
+<ama>Heitmeyer W. Gesellschaft. In: Imbusch P, Heitmeyer W, eds. &lt;em&gt;Integration - Desintegration. Ein Reader zur Ordnungsproblematik moderner Gesellschaften&lt;/em&gt;. Wiesbaden: VS Verlag für Sozialwissenschaften;  2008: 21-26.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heitmeyer, W. (2008). Gesellschaft. &lt;em&gt;Integration - Desintegration. Ein Reader zur Ordnungsproblematik moderner Gesellschaften&lt;/em&gt; (S. 21-26). Wiesbaden: VS Verlag für Sozialwissenschaften.&lt;/div&gt;</dgps>
+<aps>W.  Heitmeyer, Gesellschaft, in &lt;em&gt;Integration - Desintegration. Ein Reader zur Ordnungsproblematik moderner Gesellschaften&lt;/em&gt;, edited by P.  Imbusch and W.  Heitmeyer (VS Verlag für Sozialwissenschaften, Wiesbaden, 2008), p. 21-26.</aps>
+<bio1>Heitmeyer W (2008) &lt;br /&gt;Gesellschaft. &lt;br /&gt;In:  Integration - Desintegration. Ein Reader zur Ordnungsproblematik moderner Gesellschaften. Imbusch P, Heitmeyer W (Eds); Wiesbaden: VS Verlag für Sozialwissenschaften:  21-26.</bio1>
+<apa>Heitmeyer, W. (2008). Gesellschaft. In P.  Imbusch &amp;amp; W.  Heitmeyer (Eds.), &lt;em&gt;Integration - Desintegration. Ein Reader zur Ordnungsproblematik moderner Gesellschaften&lt;/em&gt; (pp. 21-26). Wiesbaden: VS Verlag für Sozialwissenschaften.</apa>
+<angewandte-chemie>W.  Heitmeyer, in &lt;em&gt;Integration - Desintegration. Ein Reader zur Ordnungsproblematik moderner Gesellschaften&lt;/em&gt; (Eds.: P. Imbusch, W. Heitmeyer), Vs Verlag Für Sozialwissenschaften, Wiesbaden, &lt;strong&gt;2008&lt;/strong&gt;, p. 21-26.</angewandte-chemie>
+<frontiers>Heitmeyer, W. (2008). “Gesellschaft” in &lt;em&gt;Integration - Desintegration. Ein Reader zur Ordnungsproblematik moderner Gesellschaften&lt;/em&gt;, ed. P.  Imbusch and W.  Heitmeyer (Wiesbaden: VS Verlag für Sozialwissenschaften), 21-26.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heitmeyer, Wilhelm. 2008. “Gesellschaft”. In &lt;em&gt;Integration - Desintegration. Ein Reader zur Ordnungsproblematik moderner Gesellschaften&lt;/em&gt;, ed. Peter Imbusch and Wilhelm Heitmeyer, 21-26. Wiesbaden: VS Verlag für Sozialwissenschaften.&lt;/div&gt;</chicago>
+<ieee>W. Heitmeyer, “Gesellschaft”, &lt;em&gt;Integration - Desintegration. Ein Reader zur Ordnungsproblematik moderner Gesellschaften&lt;/em&gt;, P. Imbusch and W. Heitmeyer, eds.,  Wiesbaden: VS Verlag für Sozialwissenschaften, 2008,  pp.21-26.</ieee>
+<mla>Heitmeyer, Wilhelm. “Gesellschaft”. &lt;em&gt;Integration - Desintegration. Ein Reader zur Ordnungsproblematik moderner Gesellschaften&lt;/em&gt;. Ed. Peter Imbusch and Wilhelm Heitmeyer. Wiesbaden: VS Verlag für Sozialwissenschaften, 2008. 21-26.</mla>
+<lncs>Heitmeyer, W.: Gesellschaft. In: Imbusch, P. and Heitmeyer, W. (eds.) Integration - Desintegration. Ein Reader zur Ordnungsproblematik moderner Gesellschaften. p. 21-26. VS Verlag für Sozialwissenschaften, Wiesbaden (2008).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heitmeyer, W. (2008). Gesellschaft. In P.  Imbusch &amp;amp; W.  Heitmeyer (Eds.), &lt;em&gt;Integration - Desintegration. Ein Reader zur Ordnungsproblematik moderner Gesellschaften&lt;/em&gt; (pp. 21-26). Wiesbaden: VS Verlag für Sozialwissenschaften.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1861277</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-02-15T12:39:26Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-02-15T12:39:26Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1861277</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1861277</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

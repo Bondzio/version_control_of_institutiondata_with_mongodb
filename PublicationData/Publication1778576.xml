@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The superimmunity gene sim of bacteriophage P1 causes superinfection exclusion</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Manfred</namePart>
+  <namePart type="family">Kliem</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Brigitte</namePart>
+  <namePart type="family">Dreiseikelmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">22023</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2685250</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Previous work has shown that the sim gene of bacteriophage P1, if cloned into a multicopy vector, confers immunity against P1 infection to cells. We show that a 1.85-kb DNA fragment from the sim region of P1 (in the multicopy plasmid pMK4) expresses immunity and encodes three proteins with molecular weights of about 25, 24, and 15 kDa. Deletion of 650 bp from the sim region abolished synthesis of all three proteins and of the sim phenotype. Expression of sim did not prevent adsorption of P1 to cells. Successful transfection with linear P1 DNA suggests that the recombinational circularization of P1 DNA is not inhibited in the presence of sim. Plasmid pMK4 and a P1 prophage can be induced maintained in the cell indicating that replication of the prophage is not disturbed by sim. The prophage can be induced in the presence of sim. This shows that the sim phenotype is not caused by preventing lytic replication or phage maturation. In cells with pMK4 there is no expression of genes from infecting phages and transduction frequency is drastically reduced. We suggest that sim functions as a superinfection exclusion system by preventing transfer of DNA from the adsorbed phages into the cytoplasm.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Dreiseikelmann_11.pdf">https://pub.uni-bielefeld.de/download/1778576/2312474</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1989</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Virology</title></titleInfo>
+  <identifier type="issn">0042-6822</identifier>
+  <identifier type="MEDLINE">2763457</identifier>
+  <identifier type="ISI">A1989AH83100004</identifier><identifier type="urn">urn:nbn:de:0070-pub-17785768</identifier><identifier type="doi">10.1016/0042-6822(89)90602-8</identifier>
+<part><detail type="volume"><number>171</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">350-355</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kliem, Manfred, and Dreiseikelmann, Brigitte. 1989. “The superimmunity gene sim of bacteriophage P1 causes superinfection exclusion”. &lt;em&gt;Virology&lt;/em&gt; 171 (2): 350-355.&lt;/div&gt;</chicago>
+<apa>Kliem, M., &amp;amp; Dreiseikelmann, B. (1989). The superimmunity gene sim of bacteriophage P1 causes superinfection exclusion. &lt;em&gt;Virology&lt;/em&gt;, &lt;em&gt;171&lt;/em&gt;(2), 350-355.</apa>
+<angewandte-chemie>M.  Kliem, and B.  Dreiseikelmann, “The superimmunity gene sim of bacteriophage P1 causes superinfection exclusion”, &lt;em&gt;Virology&lt;/em&gt;, &lt;strong&gt;1989&lt;/strong&gt;, &lt;em&gt;171&lt;/em&gt;, 350-355.</angewandte-chemie>
+<frontiers>Kliem, M., and Dreiseikelmann, B. (1989). The superimmunity gene sim of bacteriophage P1 causes superinfection exclusion. &lt;em&gt;Virology&lt;/em&gt; 171, 350-355.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kliem, M., &amp;amp; Dreiseikelmann, B. (1989). The superimmunity gene sim of bacteriophage P1 causes superinfection exclusion. &lt;em&gt;Virology&lt;/em&gt;, &lt;em&gt;171&lt;/em&gt;(2), 350-355.&lt;/div&gt;</apa_indent>
+<ieee> M. Kliem and B. Dreiseikelmann, “The superimmunity gene sim of bacteriophage P1 causes superinfection exclusion”, &lt;em&gt;Virology&lt;/em&gt;,  vol. 171, 1989,  pp. 350-355.</ieee>
+<mla>Kliem, Manfred, and Dreiseikelmann, Brigitte. “The superimmunity gene sim of bacteriophage P1 causes superinfection exclusion”. &lt;em&gt;Virology&lt;/em&gt; 171.2 (1989): 350-355.</mla>
+<lncs> Kliem, M., Dreiseikelmann, B.: The superimmunity gene sim of bacteriophage P1 causes superinfection exclusion. Virology. 171, 350-355 (1989).</lncs>
+<wels>Kliem, M.; Dreiseikelmann, B. (1989): The superimmunity gene sim of bacteriophage P1 causes superinfection exclusion &lt;em&gt;Virology&lt;/em&gt;,171:(2): 350-355.</wels>
+<default>Kliem M, Dreiseikelmann B (1989) &lt;br /&gt;Virology 171(2): 350-355.</default>
+<harvard1>Kliem, M., &amp;amp; Dreiseikelmann, B., 1989. The superimmunity gene sim of bacteriophage P1 causes superinfection exclusion. &lt;em&gt;Virology&lt;/em&gt;, 171(2), p 350-355.</harvard1>
+<ama>Kliem M, Dreiseikelmann B. The superimmunity gene sim of bacteriophage P1 causes superinfection exclusion. &lt;em&gt;Virology&lt;/em&gt;. 1989;171(2):350-355.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kliem, M. &amp;amp; Dreiseikelmann, B. (1989). The superimmunity gene sim of bacteriophage P1 causes superinfection exclusion. &lt;em&gt;Virology&lt;/em&gt;, &lt;em&gt;171&lt;/em&gt;(2), 350-355. doi:10.1016/0042-6822(89)90602-8.&lt;/div&gt;</dgps>
+<bio1>Kliem M, Dreiseikelmann B (1989) &lt;br /&gt;The superimmunity gene sim of bacteriophage P1 causes superinfection exclusion.&lt;br /&gt;Virology 171(2): 350-355.</bio1>
+<aps> M.  Kliem and B.  Dreiseikelmann, The superimmunity gene sim of bacteriophage P1 causes superinfection exclusion, Virology &lt;strong&gt;171&lt;/strong&gt;, 350-355 (1989).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1778576</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-09-05T14:47:31Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-09-05T14:47:31Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1778576</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1778576</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

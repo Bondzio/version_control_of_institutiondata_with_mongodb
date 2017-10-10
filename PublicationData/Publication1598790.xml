@@ -1,0 +1,107 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Computing the Minkowski sum of prisms</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">D.</namePart>
+  <namePart type="family">Pallaschke</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Joachim</namePart>
+  <namePart type="family">Rosenmüller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">62516</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für mathematische Wirtschaftsforschung</namePart>
+  <identifier type="unibi">10053</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Fakultät für Wirtschaftswissenschaften</namePart>
+  <identifier type="unibi">10031</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Within this paper we study the Minkowski sum of prisms (&quot;Cephoids&quot;) in a finite dimensional vector space. For a vector a is an element of R-n with positive components we write (a) over bar=(1/(a) over bar (1),..., 1/(a) over bar (n) and denote by Pi = Pi((a) over bar)={x is an element of R-n\[(a) over bar, x] &lt;= 1, x &gt;= 0} the associated prism. We provide a representation of a finite sum of prisms in terms of inequalities.</abstract>
+
+<originInfo><publisher>Springer</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>polytopes</topic><topic>convex analysis</topic><topic>minkowski sum</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Journal of Global Optimization</title></titleInfo>
+  <identifier type="issn">0925-5001</identifier>
+  <identifier type="ISI">000238519800009</identifier><identifier type="doi">10.1007/s10898-005-3841-5</identifier>
+<part><detail type="volume"><number>35</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">321-341</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Pallaschke, D. &amp;amp; Rosenmüller, J. (2006). Computing the Minkowski sum of prisms. &lt;em&gt;Journal of Global Optimization&lt;/em&gt;, &lt;em&gt;35&lt;/em&gt;(2), 321-341. Springer. doi:10.1007/s10898-005-3841-5.&lt;/div&gt;</dgps>
+<harvard1>Pallaschke, D., &amp;amp; Rosenmüller, J., 2006. Computing the Minkowski sum of prisms. &lt;em&gt;Journal of Global Optimization&lt;/em&gt;, 35(2), p 321-341.</harvard1>
+<ama>Pallaschke D, Rosenmüller J. Computing the Minkowski sum of prisms. &lt;em&gt;Journal of Global Optimization&lt;/em&gt;. 2006;35(2):321-341.</ama>
+<bio1>Pallaschke D, Rosenmüller J (2006) &lt;br /&gt;Computing the Minkowski sum of prisms.&lt;br /&gt;Journal of Global Optimization 35(2): 321-341.</bio1>
+<aps>D.  Pallaschke and J.  Rosenmüller, Computing the Minkowski sum of prisms, Journal of Global Optimization &lt;strong&gt;35&lt;/strong&gt;, 321-341 (2006).</aps>
+<wels>Pallaschke, D.; Rosenmüller, J. (2006): Computing the Minkowski sum of prisms &lt;em&gt;Journal of Global Optimization&lt;/em&gt;,35:(2): 321-341.</wels>
+<default>Pallaschke D, Rosenmüller J (2006) &lt;br /&gt;Journal of Global Optimization 35(2): 321-341.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Pallaschke, D., &amp;amp; Rosenmüller, J. (2006). Computing the Minkowski sum of prisms. &lt;em&gt;Journal of Global Optimization&lt;/em&gt;, &lt;em&gt;35&lt;/em&gt;(2), 321-341.&lt;/div&gt;</apa_indent>
+<ieee>D. Pallaschke and J. Rosenmüller, “Computing the Minkowski sum of prisms”, &lt;em&gt;Journal of Global Optimization&lt;/em&gt;,  vol. 35, 2006,  pp. 321-341.</ieee>
+<mla>Pallaschke, D., and Rosenmüller, Joachim. “Computing the Minkowski sum of prisms”. &lt;em&gt;Journal of Global Optimization&lt;/em&gt; 35.2 (2006): 321-341.</mla>
+<lncs>Pallaschke, D., Rosenmüller, J.: Computing the Minkowski sum of prisms. Journal of Global Optimization. 35, 321-341 (2006).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Pallaschke, D., and Rosenmüller, Joachim. 2006. “Computing the Minkowski sum of prisms”. &lt;em&gt;Journal of Global Optimization&lt;/em&gt; 35 (2): 321-341.&lt;/div&gt;</chicago>
+<apa>Pallaschke, D., &amp;amp; Rosenmüller, J. (2006). Computing the Minkowski sum of prisms. &lt;em&gt;Journal of Global Optimization&lt;/em&gt;, &lt;em&gt;35&lt;/em&gt;(2), 321-341.</apa>
+<angewandte-chemie>D.  Pallaschke, and J.  Rosenmüller, “Computing the Minkowski sum of prisms”, &lt;em&gt;Journal of Global Optimization&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;35&lt;/em&gt;, 321-341.</angewandte-chemie>
+<frontiers>Pallaschke, D., and Rosenmüller, J. (2006). Computing the Minkowski sum of prisms. &lt;em&gt;Journal of Global Optimization&lt;/em&gt; 35, 321-341.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1598790</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:19:34Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2014-08-08T09:08:36Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1598790</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1598790</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

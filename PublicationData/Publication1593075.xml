@@ -1,0 +1,144 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Functional integration of the HUP1 hexose symporter gene into the genome of C. reinhardtii: Impacts on biological H2 production</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Anja</namePart>
+  <namePart type="family">Doebbe</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">3654632</identifier></name>
+<name type="personal">
+  <namePart type="given">Jens</namePart>
+  <namePart type="family">Rupprecht</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Julia</namePart>
+  <namePart type="family">Beckmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jan H.</namePart>
+  <namePart type="family">Mussgnug</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">3654583</identifier></name>
+<name type="personal">
+  <namePart type="given">Armin</namePart>
+  <namePart type="family">Hallmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">98455</identifier></name>
+<name type="personal">
+  <namePart type="given">Ben</namePart>
+  <namePart type="family">Hankamer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Olaf</namePart>
+  <namePart type="family">Kruse</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">22124</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">4838684</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33086312</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2685483</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">4833667</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Phototrophic organisms use photosynthesis to convert solar energy into chemical energy. In nature, the chemical energy is stored in a diverse range of biopolymers. These sunlight-derived, energy-rich biopolymers can be converted into environmentally clean and CO2 neutral fuels. A select group of photosynthetic microorganisms have evolved the ability to extract and divert protons and electrons derived from water, to chloroplast hydrogenase(s) to produce molecular H2 fuel. Here, we describe the development and characterization of C. reinhardtii strains, derived from the high H2 production mutant Stm6, into which the HUP1 (hexose uptake protein) hexose symporter from Chlorella kessleri was introduced. The isolated cell lines can use externally supplied glucose for heterotrophic growth in the dark. More importantly, external glucose supply (1mM) was shown to increase the H2 production capacity in strain Stm6Glc4 to ~150% of that of the high-H2 producing strain, Stm6. This establishes the foundations for a new fuel production process in which H2O and glucose can simultaneously be used for H2 production. It also opens new perspectives on future strategies for improving Bio-H2 production efficiency under natural day/night regimes and for using sugar waste material for energy production in green algae as photosynthetic catalysts.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Chlamydomonas</topic><topic>sun light</topic><topic>hydrogen</topic><topic>photosynthesis</topic><topic>glucose transporter</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>J. Biotechnol. 131</title></titleInfo>
+  <identifier type="issn">0168-1656</identifier>
+  <identifier type="MEDLINE">17624461</identifier>
+  <identifier type="ISI">000248770300004</identifier><identifier type="doi">10.1016/j.jbiotec.2007.05.017</identifier>
+<part><detail type="volume"><number>131</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">27-33</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Doebbe A, Rupprecht J, Beckmann J, et al. Functional integration of the HUP1 hexose symporter gene into the genome of C. reinhardtii: Impacts on biological H2 production. &lt;em&gt;J. Biotechnol. 131&lt;/em&gt;. 2007;131(1):27-33.</ama>
+<harvard1>Doebbe, A., et al., 2007. Functional integration of the HUP1 hexose symporter gene into the genome of C. reinhardtii: Impacts on biological H2 production. &lt;em&gt;J. Biotechnol. 131&lt;/em&gt;, 131(1), p 27-33.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Doebbe, A., Rupprecht, J., Beckmann, J., Mussgnug, J.H., Hallmann, A., Hankamer, B. &amp;amp; Kruse, O. (2007). Functional integration of the HUP1 hexose symporter gene into the genome of C. reinhardtii: Impacts on biological H2 production. &lt;em&gt;J. Biotechnol. 131&lt;/em&gt;, &lt;em&gt;131&lt;/em&gt;(1), 27-33. ELSEVIER SCIENCE BV. doi:10.1016/j.jbiotec.2007.05.017.&lt;/div&gt;</dgps>
+<aps>A.  Doebbe, et al., Functional integration of the HUP1 hexose symporter gene into the genome of C. reinhardtii: Impacts on biological H2 production, J. Biotechnol. 131 &lt;strong&gt;131&lt;/strong&gt;, 27-33 (2007).</aps>
+<bio1>Doebbe A, Rupprecht J, Beckmann J, Mussgnug JH, Hallmann A, Hankamer B, Kruse O (2007) &lt;br /&gt;Functional integration of the HUP1 hexose symporter gene into the genome of C. reinhardtii: Impacts on biological H2 production.&lt;br /&gt;J. Biotechnol. 131 131(1): 27-33.</bio1>
+<wels>Doebbe, A.; Rupprecht, J.; Beckmann, J.; Mussgnug, J. H.; Hallmann, A.; Hankamer, B.; Kruse, O. (2007): Functional integration of the HUP1 hexose symporter gene into the genome of C. reinhardtii: Impacts on biological H2 production &lt;em&gt;J. Biotechnol. 131&lt;/em&gt;,131:(1): 27-33.</wels>
+<default>Doebbe A, Rupprecht J, Beckmann J, Mussgnug JH, Hallmann A, Hankamer B, Kruse O (2007) &lt;br /&gt;J. Biotechnol. 131 131(1): 27-33.</default>
+<ieee>A. Doebbe, et al., “Functional integration of the HUP1 hexose symporter gene into the genome of C. reinhardtii: Impacts on biological H2 production”, &lt;em&gt;J. Biotechnol. 131&lt;/em&gt;,  vol. 131, 2007,  pp. 27-33.</ieee>
+<lncs>Doebbe, A., Rupprecht, J., Beckmann, J., Mussgnug, J.H., Hallmann, A., Hankamer, B., Kruse, O.: Functional integration of the HUP1 hexose symporter gene into the genome of C. reinhardtii: Impacts on biological H2 production. J. Biotechnol. 131. 131, 27-33 (2007).</lncs>
+<mla>Doebbe, Anja, Rupprecht, Jens, Beckmann, Julia, Mussgnug, Jan H., Hallmann, Armin, Hankamer, Ben, and Kruse, Olaf. “Functional integration of the HUP1 hexose symporter gene into the genome of C. reinhardtii: Impacts on biological H2 production”. &lt;em&gt;J. Biotechnol. 131&lt;/em&gt; 131.1 (2007): 27-33.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Doebbe, A., Rupprecht, J., Beckmann, J., Mussgnug, J. H., Hallmann, A., Hankamer, B., &amp;amp; Kruse, O. (2007). Functional integration of the HUP1 hexose symporter gene into the genome of C. reinhardtii: Impacts on biological H2 production. &lt;em&gt;J. Biotechnol. 131&lt;/em&gt;, &lt;em&gt;131&lt;/em&gt;(1), 27-33.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>A.  Doebbe, J.  Rupprecht, J.  Beckmann, J. H.  Mussgnug, A.  Hallmann, B.  Hankamer, and O.  Kruse, “Functional integration of the HUP1 hexose symporter gene into the genome of C. reinhardtii: Impacts on biological H2 production”, &lt;em&gt;J. Biotechnol. 131&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;131&lt;/em&gt;, 27-33.</angewandte-chemie>
+<apa>Doebbe, A., Rupprecht, J., Beckmann, J., Mussgnug, J. H., Hallmann, A., Hankamer, B., &amp;amp; Kruse, O. (2007). Functional integration of the HUP1 hexose symporter gene into the genome of C. reinhardtii: Impacts on biological H2 production. &lt;em&gt;J. Biotechnol. 131&lt;/em&gt;, &lt;em&gt;131&lt;/em&gt;(1), 27-33.</apa>
+<frontiers>Doebbe, A., Rupprecht, J., Beckmann, J., Mussgnug, J. H., Hallmann, A., Hankamer, B., and Kruse, O. (2007). Functional integration of the HUP1 hexose symporter gene into the genome of C. reinhardtii: Impacts on biological H2 production. &lt;em&gt;J. Biotechnol. 131&lt;/em&gt; 131, 27-33.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Doebbe, Anja, Rupprecht, Jens, Beckmann, Julia, Mussgnug, Jan H., Hallmann, Armin, Hankamer, Ben, and Kruse, Olaf. 2007. “Functional integration of the HUP1 hexose symporter gene into the genome of C. reinhardtii: Impacts on biological H2 production”. &lt;em&gt;J. Biotechnol. 131&lt;/em&gt; 131 (1): 27-33.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1593075</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:15:41Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-01-08T14:40:54Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1593075</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1593075</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

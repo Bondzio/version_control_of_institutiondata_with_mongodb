@@ -1,0 +1,110 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Biophysical considerations of membrane electroporation</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Eberhard</namePart>
+  <namePart type="family">Neumann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20317</identifier></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Sprafke</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Elvira</namePart>
+  <namePart type="family">Boldt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Hendrik</namePart>
+  <namePart type="family">Wolf</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Donald C.</namePart><namePart type="family">Chang</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Chemie</namePart>
+  <identifier type="unibi">10018</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Neumann_B_44.pdf">https://pub.uni-bielefeld.de/download/1777124/2312319</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Academic Press</publisher><dateIssued encoding="w3cdtf">1992</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Guide to electroporation and electrofusion</title></titleInfo>
+  <identifier type="isbn">0-12-168041-X</identifier><identifier type="urn">urn:nbn:de:0070-bipr-13923</identifier>
+<part><extent unit="pages">77-90</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Neumann, E.; Sprafke, A.; Boldt, E.; Wolf, H. (1992): Biophysical considerations of membrane electroporation. In: Donald C. Chang (Hrsg.):  Guide to electroporation and electrofusion. San Diego: Academic Press.  S. 77-90.</wels>
+<default>Neumann E, Sprafke A, Boldt E, Wolf H (1992)  &lt;br /&gt;In:  Guide to electroporation and electrofusion. Chang DC (Ed);San Diego: Academic Press:  77-90.</default>
+<ama>Neumann E, Sprafke A, Boldt E, Wolf H. Biophysical considerations of membrane electroporation. In: Chang DC, ed. &lt;em&gt;Guide to electroporation and electrofusion&lt;/em&gt;. San Diego: Academic Press;  1992: 77-90.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neumann, E., Sprafke, A., Boldt, E. &amp;amp; Wolf, H. (1992). Biophysical considerations of membrane electroporation. &lt;em&gt;Guide to electroporation and electrofusion&lt;/em&gt; (S. 77-90). San Diego: Academic Press.&lt;/div&gt;</dgps>
+<harvard1>Neumann, E., et al., 1992. Biophysical considerations of membrane electroporation. In D. C.  Chang, ed. &lt;em&gt;Guide to electroporation and electrofusion&lt;/em&gt;.  San Diego: Academic Press, pp. 77-90.</harvard1>
+<aps>E.  Neumann, et al., Biophysical considerations of membrane electroporation, in &lt;em&gt;Guide to electroporation and electrofusion&lt;/em&gt;, edited by D. C.  Chang (Academic Press, San Diego, 1992), p. 77-90.</aps>
+<bio1>Neumann E, Sprafke A, Boldt E, Wolf H (1992) &lt;br /&gt;Biophysical considerations of membrane electroporation. &lt;br /&gt;In:  Guide to electroporation and electrofusion. Chang DC (Ed); San Diego: Academic Press:  77-90.</bio1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neumann, Eberhard, Sprafke, Andreas, Boldt, Elvira, and Wolf, Hendrik. 1992. “Biophysical considerations of membrane electroporation”. In &lt;em&gt;Guide to electroporation and electrofusion&lt;/em&gt;, ed. Donald C. Chang, 77-90. San Diego: Academic Press.&lt;/div&gt;</chicago>
+<apa>Neumann, E., Sprafke, A., Boldt, E., &amp;amp; Wolf, H. (1992). Biophysical considerations of membrane electroporation. In D. C.  Chang (Ed.), &lt;em&gt;Guide to electroporation and electrofusion&lt;/em&gt; (pp. 77-90). San Diego: Academic Press.</apa>
+<angewandte-chemie>E.  Neumann, A.  Sprafke, E.  Boldt, and H.  Wolf, in &lt;em&gt;Guide to electroporation and electrofusion&lt;/em&gt; (Ed.: D.C. Chang), Academic Press, San Diego, &lt;strong&gt;1992&lt;/strong&gt;, p. 77-90.</angewandte-chemie>
+<frontiers>Neumann, E., Sprafke, A., Boldt, E., and Wolf, H. (1992). “Biophysical considerations of membrane electroporation” in &lt;em&gt;Guide to electroporation and electrofusion&lt;/em&gt;, ed. D. C.  Chang (San Diego: Academic Press), 77-90.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neumann, E., Sprafke, A., Boldt, E., &amp;amp; Wolf, H. (1992). Biophysical considerations of membrane electroporation. In D. C.  Chang (Ed.), &lt;em&gt;Guide to electroporation and electrofusion&lt;/em&gt; (pp. 77-90). San Diego: Academic Press.&lt;/div&gt;</apa_indent>
+<ieee>E. Neumann, et al., “Biophysical considerations of membrane electroporation”, &lt;em&gt;Guide to electroporation and electrofusion&lt;/em&gt;, D.C. Chang, ed.,  San Diego: Academic Press, 1992,  pp.77-90.</ieee>
+<lncs>Neumann, E., Sprafke, A., Boldt, E., Wolf, H.: Biophysical considerations of membrane electroporation. In: Chang, D.C. (ed.) Guide to electroporation and electrofusion. p. 77-90. Academic Press, San Diego (1992).</lncs>
+<mla>Neumann, Eberhard, Sprafke, Andreas, Boldt, Elvira, and Wolf, Hendrik. “Biophysical considerations of membrane electroporation”. &lt;em&gt;Guide to electroporation and electrofusion&lt;/em&gt;. Ed. Donald C. Chang. San Diego: Academic Press, 1992. 77-90.</mla>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1777124</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1777124</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1777124</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

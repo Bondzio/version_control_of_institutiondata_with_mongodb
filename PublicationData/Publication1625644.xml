@@ -1,0 +1,134 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Mechanism of electroporative dye uptake by mouse B cells</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Eberhard</namePart>
+  <namePart type="family">Neumann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20317</identifier></name>
+<name type="personal">
+  <namePart type="given">Katja</namePart>
+  <namePart type="family">Tönsing</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">47837</identifier></name>
+<name type="personal">
+  <namePart type="given">Sergej</namePart>
+  <namePart type="family">Kakorin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20316</identifier></name>
+<name type="personal">
+  <namePart type="given">P</namePart>
+  <namePart type="family">Budde</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jürgen</namePart>
+  <namePart type="family">Frey</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20196</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Biophysik und angewandte Nanowissenschaften</namePart>
+  <identifier type="unibi">29125395</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Biochemie II</namePart>
+  <identifier type="unibi">17968</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Physikalische Chemie III</namePart>
+  <identifier type="unibi">17981</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Centrum für Biotechnologie</namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The color change of electroporated intact immunoglobulin G receptor(-) (Fc gamma R-) mouse B cells (line llA1.6) after direct electroporative transfer of the dye SERVA blue G (M-r 854) into the cell interior is shown to be dominantly due to diffusion of the dye after the electric field pulse. Hence the dye transport is described by Fick&apos;s first law, where, as a novelty, time-integrated flow coefficients are introduced. The chemical-kinetic analysis uses three different pore states (P) in the reaction cascade (C reversible arrow P-1 reversible arrow P-2 reversible arrow P-3), to model the sigmoid kinetics of pore formation as well as the biphasic pore resealing. The rate coefficient for pore formation k(p) is dependent on the external electric field strength E and pulse duration t(E). At E = 2.1 kV cm(-1) and t(E) = 200 mu s, k(p) = (2.4 +/- 0.2) x 10(3) s(-1) at T = 293 K; the respective (field-dependent) flow coefficient and permeability coefficient are k(f)(0) = (1.0 +/- 0.1) x 10(-2) s(-1) and P-0 = 2 cm s(-1), respectively. The maximum value of the fractional surface area of the dye-conductive pores is 0.035 +/- 0.003%, and the maximum pore number is N-p = (1.5 +/- 0.1) x 10(5) per average cell. The diffusion coefficient for SERVA blue G, D = 10(-6) cm(2) s(-1), is slightly smaller than that of free dye diffusion, indicating transient interaction of the dye with the pore lipids during translocation. The mean radii of the three pore states are (r) over bar(P-1) = 0.7 +/- 0.1 nm, (r) over bar(P-2) = 1.0 +/- 0.1 nm, and (r) over bar(P-3) = 1.2 +/- 0.1 nm, respectively. The resealing rate coefficients are k(-2) = (4.0 +/- 0.5) x 10(-2) s(-1) and k(-3) = (4.5 +/- 0.5) x 10(-3) s(-1), independent of E. At zero field, the equilibrium constant of the pore states (P) relative to closed membrane states (C) is K-p(0) = [(P)]/[C] = 0.02 +/- 0.002, indicating 2.0 +/- 0.2% water associated with the lipid membrane. Finally, the results of SERVA blue G cell coloring and the new analytical framework may also serve as a guideline for the optimization of the electroporative delivery of drugs that are similar in structure to SERVA blue G, for instance, bleomycin, which has been used successfully in the new discipline of electrochemotherapy.</abstract>
+
+<originInfo><publisher>BIOPHYSICAL SOCIETY</publisher><dateIssued encoding="w3cdtf">1998</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>BIOPHYSICAL JOURNAL</title></titleInfo>
+  <identifier type="issn">0006-3495</identifier>
+  <identifier type="MEDLINE">9449314</identifier>
+  <identifier type="ISI">000073393400012</identifier><identifier type="doi">10.1016/S0006-3495(98)77771-9</identifier>
+<part><detail type="volume"><number>74</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">98-108</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Neumann E, Tönsing K, Kakorin S, Budde P, Frey J (1998) &lt;br /&gt;BIOPHYSICAL JOURNAL 74(1): 98-108.</default>
+<wels>Neumann, E.; Tönsing, K.; Kakorin, S.; Budde, P.; Frey, J. (1998): Mechanism of electroporative dye uptake by mouse B cells &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt;,74:(1): 98-108.</wels>
+<bio1>Neumann E, Tönsing K, Kakorin S, Budde P, Frey J (1998) &lt;br /&gt;Mechanism of electroporative dye uptake by mouse B cells.&lt;br /&gt;BIOPHYSICAL JOURNAL 74(1): 98-108.</bio1>
+<aps>E.  Neumann, et al., Mechanism of electroporative dye uptake by mouse B cells, BIOPHYSICAL JOURNAL &lt;strong&gt;74&lt;/strong&gt;, 98-108 (1998).</aps>
+<harvard1>Neumann, E., et al., 1998. Mechanism of electroporative dye uptake by mouse B cells. &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt;, 74(1), p 98-108.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neumann, E., Tönsing, K., Kakorin, S., Budde, P. &amp;amp; Frey, J. (1998). Mechanism of electroporative dye uptake by mouse B cells. &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt;, &lt;em&gt;74&lt;/em&gt;(1), 98-108. BIOPHYSICAL SOCIETY. doi:10.1016/S0006-3495(98)77771-9.&lt;/div&gt;</dgps>
+<ama>Neumann E, Tönsing K, Kakorin S, Budde P, Frey J. Mechanism of electroporative dye uptake by mouse B cells. &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt;. 1998;74(1):98-108.</ama>
+<frontiers>Neumann, E., Tönsing, K., Kakorin, S., Budde, P., and Frey, J. (1998). Mechanism of electroporative dye uptake by mouse B cells. &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt; 74, 98-108.</frontiers>
+<apa>Neumann, E., Tönsing, K., Kakorin, S., Budde, P., &amp;amp; Frey, J. (1998). Mechanism of electroporative dye uptake by mouse B cells. &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt;, &lt;em&gt;74&lt;/em&gt;(1), 98-108.</apa>
+<angewandte-chemie>E.  Neumann, K.  Tönsing, S.  Kakorin, P.  Budde, and J.  Frey, “Mechanism of electroporative dye uptake by mouse B cells”, &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt;, &lt;strong&gt;1998&lt;/strong&gt;, &lt;em&gt;74&lt;/em&gt;, 98-108.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neumann, Eberhard, Tönsing, Katja, Kakorin, Sergej, Budde, P, and Frey, Jürgen. 1998. “Mechanism of electroporative dye uptake by mouse B cells”. &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt; 74 (1): 98-108.&lt;/div&gt;</chicago>
+<mla>Neumann, Eberhard, Tönsing, Katja, Kakorin, Sergej, Budde, P, and Frey, Jürgen. “Mechanism of electroporative dye uptake by mouse B cells”. &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt; 74.1 (1998): 98-108.</mla>
+<lncs>Neumann, E., Tönsing, K., Kakorin, S., Budde, P., Frey, J.: Mechanism of electroporative dye uptake by mouse B cells. BIOPHYSICAL JOURNAL. 74, 98-108 (1998).</lncs>
+<ieee>E. Neumann, et al., “Mechanism of electroporative dye uptake by mouse B cells”, &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt;,  vol. 74, 1998,  pp. 98-108.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neumann, E., Tönsing, K., Kakorin, S., Budde, P., &amp;amp; Frey, J. (1998). Mechanism of electroporative dye uptake by mouse B cells. &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt;, &lt;em&gt;74&lt;/em&gt;(1), 98-108.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1625644</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:20:48Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-14T15:02:31Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1625644</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1625644</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

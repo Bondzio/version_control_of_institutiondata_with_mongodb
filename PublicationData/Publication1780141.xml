@@ -1,0 +1,108 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Die vergessenen Frauen: zum Sportengagement von Mädchen und Frauen sozialer Unterschichten</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Christa</namePart>
+  <namePart type="family">Kleindienst-Cachay</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40005</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Hartmut</namePart><namePart type="family">Gabler</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Hermann</namePart><namePart type="family">Bausinger</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Abteilung Sportwissenschaft</namePart>
+  <identifier type="unibi">10027</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Arbeitsbereich IV - Sport und Erziehung</namePart>
+  <identifier type="unibi">28978161</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Kleindienst_Cachay_14.pdf">https://pub.uni-bielefeld.de/download/1780141/2312746</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Hofmann</publisher><dateIssued encoding="w3cdtf">1990</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Für einen besseren Sport ...: Themen, Entwicklungen und Perspektiven aus Sport und Sportwissenschaft, Ommo Grupe zum 60. Geburtstag</title></titleInfo>
+  <identifier type="isbn">3-7780-3650-5</identifier><identifier type="urn">urn:nbn:de:0070-bipr-19233</identifier>
+<part><extent unit="pages">193-212</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>C.  Kleindienst-Cachay, Die vergessenen Frauen: zum Sportengagement von Mädchen und Frauen sozialer Unterschichten, in &lt;em&gt;Für einen besseren Sport ..: Themen, Entwicklungen und Perspektiven aus Sport und Sportwissenschaft, Ommo Grupe zum 60. Geburtstag&lt;/em&gt;, edited by H.  Gabler and H.  Bausinger (Hofmann, Schorndorf, 1990), p. 193-212.</aps>
+<bio1>Kleindienst-Cachay C (1990) &lt;br /&gt;Die vergessenen Frauen: zum Sportengagement von Mädchen und Frauen sozialer Unterschichten. &lt;br /&gt;In:  Für einen besseren Sport ..: Themen, Entwicklungen und Perspektiven aus Sport und Sportwissenschaft, Ommo Grupe zum 60. Geburtstag. Gabler H, Bausinger H (Eds); Schorndorf: Hofmann:  193-212.</bio1>
+<harvard1>Kleindienst-Cachay, C., 1990. Die vergessenen Frauen: zum Sportengagement von Mädchen und Frauen sozialer Unterschichten. In H.  Gabler &amp;amp; H.  Bausinger, eds. &lt;em&gt;Für einen besseren Sport ..: Themen, Entwicklungen und Perspektiven aus Sport und Sportwissenschaft, Ommo Grupe zum 60. Geburtstag&lt;/em&gt;.  Schorndorf: Hofmann, pp. 193-212.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kleindienst-Cachay, C. (1990). Die vergessenen Frauen: zum Sportengagement von Mädchen und Frauen sozialer Unterschichten. &lt;em&gt;Für einen besseren Sport ..: Themen, Entwicklungen und Perspektiven aus Sport und Sportwissenschaft, Ommo Grupe zum 60. Geburtstag&lt;/em&gt; (S. 193-212). Schorndorf: Hofmann.&lt;/div&gt;</dgps>
+<ama>Kleindienst-Cachay C. Die vergessenen Frauen: zum Sportengagement von Mädchen und Frauen sozialer Unterschichten. In: Gabler H, Bausinger H, eds. &lt;em&gt;Für einen besseren Sport ..: Themen, Entwicklungen und Perspektiven aus Sport und Sportwissenschaft, Ommo Grupe zum 60. Geburtstag&lt;/em&gt;. Schorndorf: Hofmann;  1990: 193-212.</ama>
+<default>Kleindienst-Cachay C (1990)  &lt;br /&gt;In:  Für einen besseren Sport ..: Themen, Entwicklungen und Perspektiven aus Sport und Sportwissenschaft, Ommo Grupe zum 60. Geburtstag. Gabler H, Bausinger H (Eds);Schorndorf: Hofmann:  193-212.</default>
+<wels>Kleindienst-Cachay, C. (1990): Die vergessenen Frauen: zum Sportengagement von Mädchen und Frauen sozialer Unterschichten. In: Hartmut Gabler; Hermann Bausinger (Hrsg.):  Für einen besseren Sport ..: Themen, Entwicklungen und Perspektiven aus Sport und Sportwissenschaft, Ommo Grupe zum 60. Geburtstag. Schorndorf: Hofmann.  S. 193-212.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kleindienst-Cachay, C. (1990). Die vergessenen Frauen: zum Sportengagement von Mädchen und Frauen sozialer Unterschichten. In H.  Gabler &amp;amp; H.  Bausinger (Eds.), &lt;em&gt;Für einen besseren Sport ..: Themen, Entwicklungen und Perspektiven aus Sport und Sportwissenschaft, Ommo Grupe zum 60. Geburtstag&lt;/em&gt; (pp. 193-212). Schorndorf: Hofmann.&lt;/div&gt;</apa_indent>
+<mla>Kleindienst-Cachay, Christa. “Die vergessenen Frauen: zum Sportengagement von Mädchen und Frauen sozialer Unterschichten”. &lt;em&gt;Für einen besseren Sport ..: Themen, Entwicklungen und Perspektiven aus Sport und Sportwissenschaft, Ommo Grupe zum 60. Geburtstag&lt;/em&gt;. Ed. Hartmut Gabler and Hermann Bausinger. Schorndorf: Hofmann, 1990. 193-212.</mla>
+<lncs>Kleindienst-Cachay, C.: Die vergessenen Frauen: zum Sportengagement von Mädchen und Frauen sozialer Unterschichten. In: Gabler, H. and Bausinger, H. (eds.) Für einen besseren Sport ..: Themen, Entwicklungen und Perspektiven aus Sport und Sportwissenschaft, Ommo Grupe zum 60. Geburtstag. p. 193-212. Hofmann, Schorndorf (1990).</lncs>
+<ieee>C. Kleindienst-Cachay, “Die vergessenen Frauen: zum Sportengagement von Mädchen und Frauen sozialer Unterschichten”, &lt;em&gt;Für einen besseren Sport ..: Themen, Entwicklungen und Perspektiven aus Sport und Sportwissenschaft, Ommo Grupe zum 60. Geburtstag&lt;/em&gt;, H. Gabler and H. Bausinger, eds.,  Schorndorf: Hofmann, 1990,  pp.193-212.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kleindienst-Cachay, Christa. 1990. “Die vergessenen Frauen: zum Sportengagement von Mädchen und Frauen sozialer Unterschichten”. In &lt;em&gt;Für einen besseren Sport ..: Themen, Entwicklungen und Perspektiven aus Sport und Sportwissenschaft, Ommo Grupe zum 60. Geburtstag&lt;/em&gt;, ed. Hartmut Gabler and Hermann Bausinger, 193-212. Schorndorf: Hofmann.&lt;/div&gt;</chicago>
+<frontiers>Kleindienst-Cachay, C. (1990). “Die vergessenen Frauen: zum Sportengagement von Mädchen und Frauen sozialer Unterschichten” in &lt;em&gt;Für einen besseren Sport ..: Themen, Entwicklungen und Perspektiven aus Sport und Sportwissenschaft, Ommo Grupe zum 60. Geburtstag&lt;/em&gt;, ed. H.  Gabler and H.  Bausinger (Schorndorf: Hofmann), 193-212.</frontiers>
+<angewandte-chemie>C.  Kleindienst-Cachay, in &lt;em&gt;Für einen besseren Sport ..: Themen, Entwicklungen und Perspektiven aus Sport und Sportwissenschaft, Ommo Grupe zum 60. Geburtstag&lt;/em&gt; (Eds.: H. Gabler, H. Bausinger), Hofmann, Schorndorf, &lt;strong&gt;1990&lt;/strong&gt;, p. 193-212.</angewandte-chemie>
+<apa>Kleindienst-Cachay, C. (1990). Die vergessenen Frauen: zum Sportengagement von Mädchen und Frauen sozialer Unterschichten. In H.  Gabler &amp;amp; H.  Bausinger (Eds.), &lt;em&gt;Für einen besseren Sport ..: Themen, Entwicklungen und Perspektiven aus Sport und Sportwissenschaft, Ommo Grupe zum 60. Geburtstag&lt;/em&gt; (pp. 193-212). Schorndorf: Hofmann.</apa>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780141</recordIdentifier><recordChangeDate encoding="w3cdtf">2014-09-30T08:11:34Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780141</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780141</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,133 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>A small cavity with reactive internal shell atoms spanned by four {As(W/V)(9)}-type building blocks allows host-guest chemistry under confined conditions</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Achim</namePart>
+  <namePart type="family">Müller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20118</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0003-0117-4021</description></name>
+<name type="personal">
+  <namePart type="given">MT</namePart>
+  <namePart type="family">Pope</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alice</namePart>
+  <namePart type="family">Merca</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">41218202</identifier></name>
+<name type="personal">
+  <namePart type="given">Hartmut</namePart>
+  <namePart type="family">Bögge</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20106</identifier></name>
+<name type="personal">
+  <namePart type="given">Marc</namePart>
+  <namePart type="family">Schmidtmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Joris</namePart>
+  <namePart type="family">van Slageren</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M.</namePart>
+  <namePart type="family">Dressel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">D. G.</namePart>
+  <namePart type="family">Kurth</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Chemie</namePart>
+  <identifier type="unibi">10018</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Anorganische Chemie I</namePart>
+  <identifier type="unibi">17964</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The reaction of [H2AsIII-W18O60](7-) with VO2+ and SO42- ions in aqueous solution leads to a V-IV/V-V mixed-valence cluster anion containing the {AS(4)M(40)O(140)}-type cryptand which has a high formation tendency. An important result is that it exhibits a new type of reactive internal cavity shell. The correspondingly obtained compound Na(NH4)(20)[{((VO)-O-IV(H2O))((VVO)-V-IV)(2)- (SO4)(2)}{((AsW9O33)-W-III)(2)((AsW7.5V1.5O31)-W-III-O-V)(2)-(WO2)(4)}]- 40H(2)O (1), which can also be synthesized from a precursor with the preorganized cryptand, was characterized by elemental and thermogravimetric analyses (determination of crystal water content), redox titrations (determination of the number of V-IV centers), electronic absorption as well as vibrational spectra, single-crystal X-ray structure analysis (including bond valence sum calculations), and magnetic susceptibility measurements. The relatively small central cavity-formed by the linking of four {AsM9}-type lacunary units (M=W/V) by four WO6 octahedra-allows positioning of a variety of cationic as well as anionic &quot;guests&quot; under confined conditions according to a new approach: replacement of some of the W by V atoms leads to high reactivity of the internal cavity shell as a result of relatively weak VO bonds compared to the WO bonds. This allows an interesting &quot;encapsulation chemistry&quot; with new options. In the present case the cavity contains besides an arrangement of three V-IV centers, two sulfate groups that replace O atoms of the {AsM9} units as well as an interesting hydrogen bond situation.</abstract>
+
+<originInfo><publisher>WILEY-V C H VERLAG GMBH</publisher><dateIssued encoding="w3cdtf">2005</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>cryptand</topic><topic>poly-oxometalates</topic><topic>magnetism</topic><topic>encapsulation chemistry</topic><topic>vanadium</topic><topic>tungsten</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Chemistry - a European Journal</title></titleInfo>
+  <identifier type="issn">0947-6539</identifier>
+  <identifier type="eIssn">1521-3765</identifier>
+  <identifier type="MEDLINE">16041809</identifier>
+  <identifier type="ISI">000232567700005</identifier><identifier type="doi">10.1002/chem.200500284</identifier>
+<part><detail type="volume"><number>11</number></detail><detail type="issue"><number>20</number></detail><extent unit="pages">5849-5854</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>A. Müller, et al., “A small cavity with reactive internal shell atoms spanned by four {As(W/V)(9)}-type building blocks allows host-guest chemistry under confined conditions”, &lt;em&gt;Chemistry - a European Journal&lt;/em&gt;,  vol. 11, 2005,  pp. 5849-5854.</ieee>
+<mla>Müller, Achim, Pope, MT, Merca, Alice, Bögge, Hartmut, Schmidtmann, Marc, van Slageren, Joris, Dressel, M., and Kurth, D. G. “A small cavity with reactive internal shell atoms spanned by four {As(W/V)(9)}-type building blocks allows host-guest chemistry under confined conditions”. &lt;em&gt;Chemistry - a European Journal&lt;/em&gt; 11.20 (2005): 5849-5854.</mla>
+<lncs>Müller, A., Pope, M.T., Merca, A., Bögge, H., Schmidtmann, M., van Slageren, J., Dressel, M., Kurth, D.G.: A small cavity with reactive internal shell atoms spanned by four {As(W/V)(9)}-type building blocks allows host-guest chemistry under confined conditions. Chemistry - a European Journal. 11, 5849-5854 (2005).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, A., Pope, M. T., Merca, A., Bögge, H., Schmidtmann, M., van Slageren, J., Dressel, M., et al. (2005). A small cavity with reactive internal shell atoms spanned by four {As(W/V)(9)}-type building blocks allows host-guest chemistry under confined conditions. &lt;em&gt;Chemistry - a European Journal&lt;/em&gt;, &lt;em&gt;11&lt;/em&gt;(20), 5849-5854.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>A.  Müller, M. T.  Pope, A.  Merca, H.  Bögge, M.  Schmidtmann, J.  van Slageren, M.  Dressel, and D. G.  Kurth, “A small cavity with reactive internal shell atoms spanned by four {As(W/V)(9)}-type building blocks allows host-guest chemistry under confined conditions”, &lt;em&gt;Chemistry - a European Journal&lt;/em&gt;, &lt;strong&gt;2005&lt;/strong&gt;, &lt;em&gt;11&lt;/em&gt;, 5849-5854.</angewandte-chemie>
+<apa>Müller, A., Pope, M. T., Merca, A., Bögge, H., Schmidtmann, M., van Slageren, J., Dressel, M., et al. (2005). A small cavity with reactive internal shell atoms spanned by four {As(W/V)(9)}-type building blocks allows host-guest chemistry under confined conditions. &lt;em&gt;Chemistry - a European Journal&lt;/em&gt;, &lt;em&gt;11&lt;/em&gt;(20), 5849-5854.</apa>
+<frontiers>Müller, A., Pope, M. T., Merca, A., Bögge, H., Schmidtmann, M., van Slageren, J., Dressel, M., and Kurth, D. G. (2005). A small cavity with reactive internal shell atoms spanned by four {As(W/V)(9)}-type building blocks allows host-guest chemistry under confined conditions. &lt;em&gt;Chemistry - a European Journal&lt;/em&gt; 11, 5849-5854.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, Achim, Pope, MT, Merca, Alice, Bögge, Hartmut, Schmidtmann, Marc, van Slageren, Joris, Dressel, M., and Kurth, D. G. 2005. “A small cavity with reactive internal shell atoms spanned by four {As(W/V)(9)}-type building blocks allows host-guest chemistry under confined conditions”. &lt;em&gt;Chemistry - a European Journal&lt;/em&gt; 11 (20): 5849-5854.&lt;/div&gt;</chicago>
+<harvard1>Müller, A., et al., 2005. A small cavity with reactive internal shell atoms spanned by four {As(W/V)(9)}-type building blocks allows host-guest chemistry under confined conditions. &lt;em&gt;Chemistry - a European Journal&lt;/em&gt;, 11(20), p 5849-5854.</harvard1>
+<ama>Müller A, Pope MT, Merca A, et al. A small cavity with reactive internal shell atoms spanned by four {As(W/V)(9)}-type building blocks allows host-guest chemistry under confined conditions. &lt;em&gt;Chemistry - a European Journal&lt;/em&gt;. 2005;11(20):5849-5854.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, A., Pope, M.T., Merca, A., Bögge, H., Schmidtmann, M., van Slageren, J., Dressel, M. &amp;amp; Kurth, D.G. (2005). A small cavity with reactive internal shell atoms spanned by four {As(W/V)(9)}-type building blocks allows host-guest chemistry under confined conditions. &lt;em&gt;Chemistry - a European Journal&lt;/em&gt;, &lt;em&gt;11&lt;/em&gt;(20), 5849-5854. WILEY-V C H VERLAG GMBH. doi:10.1002/chem.200500284.&lt;/div&gt;</dgps>
+<aps>A.  Müller, et al., A small cavity with reactive internal shell atoms spanned by four {As(W/V)(9)}-type building blocks allows host-guest chemistry under confined conditions, Chemistry - a European Journal &lt;strong&gt;11&lt;/strong&gt;, 5849-5854 (2005).</aps>
+<bio1>Müller A, Pope MT, Merca A, Bögge H, Schmidtmann M, van Slageren J, Dressel M, Kurth DG (2005) &lt;br /&gt;A small cavity with reactive internal shell atoms spanned by four {As(W/V)(9)}-type building blocks allows host-guest chemistry under confined conditions.&lt;br /&gt;Chemistry - a European Journal 11(20): 5849-5854.</bio1>
+<wels>Müller, A.; Pope, M. T.; Merca, A.; Bögge, H.; Schmidtmann, M.; van Slageren, J.; Dressel, M.; Kurth, D. G. (2005): A small cavity with reactive internal shell atoms spanned by four {As(W/V)(9)}-type building blocks allows host-guest chemistry under confined conditions &lt;em&gt;Chemistry - a European Journal&lt;/em&gt;,11:(20): 5849-5854.</wels>
+<default>Müller A, Pope MT, Merca A, Bögge H, Schmidtmann M, van Slageren J, Dressel M, Kurth DG (2005) &lt;br /&gt;Chemistry - a European Journal 11(20): 5849-5854.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1601989</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:32:03Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2013-12-10T09:01:23Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1601989</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1601989</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

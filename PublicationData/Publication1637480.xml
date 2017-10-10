@@ -1,0 +1,115 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Thermodynamics of four-flavour QCD with improved staggered fermions</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Jürgen</namePart>
+  <namePart type="family">Engels</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40338</identifier></name>
+<name type="personal">
+  <namePart type="given">R</namePart>
+  <namePart type="family">Joswig</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Frithjof</namePart>
+  <namePart type="family">Karsch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40326</identifier></name>
+<name type="personal">
+  <namePart type="given">Edwin</namePart>
+  <namePart type="family">Laermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40621</identifier></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Lütgemeier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Bengt</namePart>
+  <namePart type="family">Petersson</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40337</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We have calculated the pressure and energy density in four-flavour QCD using improved fermion and gauge actions. We observe a strong reduction of finite cut-off effects in the high temperature regime, similar to what has been noted before for the SU(3) gauge theory. Calculations have been performed on 16(3) x 4 and 16(4) lattices for two values of the quark mass, ma = 0.05 and 0.1. A calculation of the string tension at zero temperature yields a critical temperature T-c/root sigma = 0.407 +/- 0.010 for the smaller quark mass value. (C) 1997 Elsevier Science B.V.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">1997</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>PHYSICS LETTERS B</title></titleInfo>
+  <identifier type="issn">0370-2693</identifier>
+  <identifier type="arXiv">hep-lat/9612018</identifier>
+  <identifier type="INSPIRE">427684</identifier>
+  <identifier type="ISI">A1997WQ98800031</identifier><identifier type="doi">10.1016/S0370-2693(97)00114-7</identifier>
+<part><detail type="volume"><number>396</number></detail><detail type="issue"><number>1-4</number></detail><extent unit="pages">210-216</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Engels J, Joswig R, Karsch F, Laermann E, Lütgemeier M, Petersson B (1997) &lt;br /&gt;PHYSICS LETTERS B 396(1-4): 210-216.</default>
+<wels>Engels, J.; Joswig, R.; Karsch, F.; Laermann, E.; Lütgemeier, M.; Petersson, B. (1997): Thermodynamics of four-flavour QCD with improved staggered fermions &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt;,396:(1-4): 210-216.</wels>
+<bio1>Engels J, Joswig R, Karsch F, Laermann E, Lütgemeier M, Petersson B (1997) &lt;br /&gt;Thermodynamics of four-flavour QCD with improved staggered fermions.&lt;br /&gt;PHYSICS LETTERS B 396(1-4): 210-216.</bio1>
+<aps>J.  Engels, et al., Thermodynamics of four-flavour QCD with improved staggered fermions, PHYSICS LETTERS B &lt;strong&gt;396&lt;/strong&gt;, 210-216 (1997).</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, J., Joswig, R., Karsch, F., Laermann, E., Lütgemeier, M. &amp;amp; Petersson, B. (1997). Thermodynamics of four-flavour QCD with improved staggered fermions. &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt;, &lt;em&gt;396&lt;/em&gt;(1-4), 210-216. ELSEVIER SCIENCE BV. doi:10.1016/S0370-2693(97)00114-7.&lt;/div&gt;</dgps>
+<harvard1>Engels, J., et al., 1997. Thermodynamics of four-flavour QCD with improved staggered fermions. &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt;, 396(1-4), p 210-216.</harvard1>
+<ama>Engels J, Joswig R, Karsch F, Laermann E, Lütgemeier M, Petersson B. Thermodynamics of four-flavour QCD with improved staggered fermions. &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt;. 1997;396(1-4):210-216.</ama>
+<frontiers>Engels, J., Joswig, R., Karsch, F., Laermann, E., Lütgemeier, M., and Petersson, B. (1997). Thermodynamics of four-flavour QCD with improved staggered fermions. &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt; 396, 210-216.</frontiers>
+<angewandte-chemie>J.  Engels, R.  Joswig, F.  Karsch, E.  Laermann, M.  Lütgemeier, and B.  Petersson, “Thermodynamics of four-flavour QCD with improved staggered fermions”, &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt;, &lt;strong&gt;1997&lt;/strong&gt;, &lt;em&gt;396&lt;/em&gt;, 210-216.</angewandte-chemie>
+<apa>Engels, J., Joswig, R., Karsch, F., Laermann, E., Lütgemeier, M., &amp;amp; Petersson, B. (1997). Thermodynamics of four-flavour QCD with improved staggered fermions. &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt;, &lt;em&gt;396&lt;/em&gt;(1-4), 210-216.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, Jürgen, Joswig, R, Karsch, Frithjof, Laermann, Edwin, Lütgemeier, M, and Petersson, Bengt. 1997. “Thermodynamics of four-flavour QCD with improved staggered fermions”. &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt; 396 (1-4): 210-216.&lt;/div&gt;</chicago>
+<lncs>Engels, J., Joswig, R., Karsch, F., Laermann, E., Lütgemeier, M., Petersson, B.: Thermodynamics of four-flavour QCD with improved staggered fermions. PHYSICS LETTERS B. 396, 210-216 (1997).</lncs>
+<mla>Engels, Jürgen, Joswig, R, Karsch, Frithjof, Laermann, Edwin, Lütgemeier, M, and Petersson, Bengt. “Thermodynamics of four-flavour QCD with improved staggered fermions”. &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt; 396.1-4 (1997): 210-216.</mla>
+<ieee>J. Engels, et al., “Thermodynamics of four-flavour QCD with improved staggered fermions”, &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt;,  vol. 396, 1997,  pp. 210-216.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, J., Joswig, R., Karsch, F., Laermann, E., Lütgemeier, M., &amp;amp; Petersson, B. (1997). Thermodynamics of four-flavour QCD with improved staggered fermions. &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt;, &lt;em&gt;396&lt;/em&gt;(1-4), 210-216.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1637480</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:14:16Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2012-01-19T14:56:22Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1637480</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1637480</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

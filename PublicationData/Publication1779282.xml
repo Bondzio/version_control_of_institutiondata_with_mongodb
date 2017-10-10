@@ -1,0 +1,107 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Estimation and children&apos;s concept of rational number size</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Merlyn J.</namePart>
+  <namePart type="family">Behr</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Thomas R.</namePart>
+  <namePart type="family">Post</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ipke</namePart>
+  <namePart type="family">Wachsmuth</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">73476</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Harold L.</namePart><namePart type="family">Schoen</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>AG Wissensbasierte Systeme</namePart>
+  <identifier type="unibi">10044</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Wachsmuth_38.pdf">https://pub.uni-bielefeld.de/download/1779282/2312640</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1986</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+<relatedItem type="host"><location><url>http://www.cehd.umn.edu/ci/rationalnumberproject/86_1.html</url></location></relatedItem>
+
+<relatedItem type="host"><titleInfo><title>Estimation and mental computation</title></titleInfo>
+  <identifier type="isbn">0-87353-226-0</identifier><identifier type="urn">urn:nbn:de:0070-bipr-18155</identifier>
+<part><extent unit="pages">103-111</extent>
+</part>
+</relatedItem>
+
+<note type="nonBielefeld">yes</note>
+<extension>
+<bibliographicCitation>
+<harvard1>Behr, M.J., Post, T.R., &amp;amp; Wachsmuth, I., 1986. Estimation and children&apos;s concept of rational number size. In H. L.  Schoen, ed. &lt;em&gt;Estimation and mental computation&lt;/em&gt;. Yearbook / National Council of Teachers of Mathematics ; 1986.  Reston, Va., pp. 103-111.</harvard1>
+<ama>Behr MJ, Post TR, Wachsmuth I. Estimation and children&apos;s concept of rational number size. In: Schoen HL, ed. &lt;em&gt;Estimation and mental computation&lt;/em&gt;. Yearbook / National Council of Teachers of Mathematics ; 1986. Reston, Va.;  1986: 103-111.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Behr, M.J., Post, T.R. &amp;amp; Wachsmuth, I. (1986). Estimation and children&apos;s concept of rational number size (Yearbook / National Council of Teachers of Mathematics ; 1986). &lt;em&gt;Estimation and mental computation&lt;/em&gt; (S. 103-111). Reston, Va.&lt;/div&gt;</dgps>
+<aps>M. J.  Behr, T. R.  Post, and I.  Wachsmuth, Estimation and children&apos;s concept of rational number size, in &lt;em&gt;Estimation and mental computation&lt;/em&gt;, edited by H. L.  Schoen, Yearbook / National Council of Teachers of Mathematics ; 1986 (Reston, Va., 1986), p. 103-111.</aps>
+<bio1>Behr MJ, Post TR, Wachsmuth I (1986) &lt;br /&gt;Estimation and children&apos;s concept of rational number size. &lt;br /&gt;In:  Estimation and mental computation. Schoen HL (Ed); Yearbook / National Council of Teachers of Mathematics ; 1986,  Reston, Va.:  103-111.</bio1>
+<wels>Behr, M. J.; Post, T. R.; Wachsmuth, I. (1986): Estimation and children&apos;s concept of rational number size. In: Harold L. Schoen (Hrsg.):  Estimation and mental computation. Reston, Va. (Yearbook / National Council of Teachers of Mathematics ; 1986, ).  S. 103-111.</wels>
+<default>Behr MJ, Post TR, Wachsmuth I (1986)  &lt;br /&gt;In:  Estimation and mental computation. Schoen HL (Ed); Yearbook / National Council of Teachers of Mathematics ; 1986, . Reston, Va.:  103-111.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Behr, M. J., Post, T. R., &amp;amp; Wachsmuth, I. (1986). Estimation and children&apos;s concept of rational number size. In H. L.  Schoen (Ed.), &lt;em&gt;Yearbook / National Council of Teachers of Mathematics ; 1986&lt;/em&gt;&lt;em&gt;. Estimation and mental computation&lt;/em&gt; (pp. 103-111). Reston, Va.&lt;/div&gt;</apa_indent>
+<ieee>M.J. Behr, T.R. Post, and I. Wachsmuth, “Estimation and children&apos;s concept of rational number size”, &lt;em&gt;Estimation and mental computation&lt;/em&gt;, H.L. Schoen, ed., Yearbook / National Council of Teachers of Mathematics ; 1986,  Reston, Va.: 1986,  pp.103-111.</ieee>
+<lncs>Behr, M.J., Post, T.R., Wachsmuth, I.: Estimation and children&apos;s concept of rational number size. In: Schoen, H.L. (ed.) Estimation and mental computation. Yearbook / National Council of Teachers of Mathematics ; 1986. p. 103-111. Reston, Va. (1986).</lncs>
+<mla>Behr, Merlyn J., Post, Thomas R., and Wachsmuth, Ipke. “Estimation and children&apos;s concept of rational number size”. &lt;em&gt;Estimation and mental computation&lt;/em&gt;. Ed. Harold L. Schoen. Reston, Va., 1986. Yearbook / National Council of Teachers of Mathematics ; 1986. 103-111.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Behr, Merlyn J., Post, Thomas R., and Wachsmuth, Ipke. 1986. “Estimation and children&apos;s concept of rational number size”. In &lt;em&gt;Estimation and mental computation&lt;/em&gt;, ed. Harold L. Schoen, 103-111. Yearbook / National Council of Teachers of Mathematics ; 1986. Reston, Va.&lt;/div&gt;</chicago>
+<angewandte-chemie>M. J.  Behr, T. R.  Post, and I.  Wachsmuth, in &lt;em&gt;Estimation and mental computation&lt;/em&gt; (Ed.: H.L. Schoen), Reston, Va., &lt;strong&gt;1986&lt;/strong&gt;, p. 103-111.</angewandte-chemie>
+<apa>Behr, M. J., Post, T. R., &amp;amp; Wachsmuth, I. (1986). Estimation and children&apos;s concept of rational number size. In H. L.  Schoen (Ed.), &lt;em&gt;Yearbook / National Council of Teachers of Mathematics ; 1986&lt;/em&gt;&lt;em&gt;. Estimation and mental computation&lt;/em&gt; (pp. 103-111). Reston, Va.</apa>
+<frontiers>Behr, M. J., Post, T. R., and Wachsmuth, I. (1986). “Estimation and children&apos;s concept of rational number size” in &lt;em&gt;Estimation and mental computation&lt;/em&gt;, ed. H. L.  Schoen Yearbook / National Council of Teachers of Mathematics ; 1986 (Reston, Va.), 103-111.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1779282</recordIdentifier><recordChangeDate encoding="w3cdtf">2013-12-24T00:16:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1779282</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1779282</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

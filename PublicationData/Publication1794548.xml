@@ -1,0 +1,130 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>High-throughput identification of genetic markers using representational oligonucleotide microarray analysis</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Cornelia</namePart>
+  <namePart type="family">Lange</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Lukas</namePart>
+  <namePart type="family">Mittermayr</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Juliane C.</namePart>
+  <namePart type="family">Dohm</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Daniela</namePart>
+  <namePart type="family">Holtgräwe</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">162199</identifier></name>
+<name type="personal">
+  <namePart type="given">Bernd</namePart>
+  <namePart type="family">Weisshaar</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">86212</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-7635-3473</description></name>
+<name type="personal">
+  <namePart type="given">Heinz</namePart>
+  <namePart type="family">Himmelbauer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Genomforschung und Systembiologie</namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  B. Weisshaar</namePart>
+  <identifier type="unibi">33070678</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Genomforschung</namePart>
+  <identifier type="unibi">2684836</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Springer Science + Business Media</publisher><dateIssued encoding="w3cdtf">2010</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Theoretical and Applied Genetics</title></titleInfo>
+  <identifier type="issn">0040-5752</identifier>
+  <identifier type="eIssn">1432-2242</identifier>
+  <identifier type="MEDLINE">20379697</identifier>
+  <identifier type="ISI">000280090700011</identifier><identifier type="doi">10.1007/s00122-010-1329-2</identifier>
+<part><detail type="volume"><number>121</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">549-565</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Lange, C.; Mittermayr, L.; Dohm, J. C.; Holtgräwe, D.; Weisshaar, B.; Himmelbauer, H. (2010): High-throughput identification of genetic markers using representational oligonucleotide microarray analysis &lt;em&gt;Theoretical and Applied Genetics&lt;/em&gt;,121:(3): 549-565.</wels>
+<default>Lange C, Mittermayr L, Dohm JC, Holtgräwe D, Weisshaar B, Himmelbauer H (2010) &lt;br /&gt;Theoretical and Applied Genetics 121(3): 549-565.</default>
+<harvard1>Lange, C., et al., 2010. High-throughput identification of genetic markers using representational oligonucleotide microarray analysis. &lt;em&gt;Theoretical and Applied Genetics&lt;/em&gt;, 121(3), p 549-565.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lange, C., Mittermayr, L., Dohm, J.C., Holtgräwe, D., Weisshaar, B. &amp;amp; Himmelbauer, H. (2010). High-throughput identification of genetic markers using representational oligonucleotide microarray analysis. &lt;em&gt;Theoretical and Applied Genetics&lt;/em&gt;, &lt;em&gt;121&lt;/em&gt;(3), 549-565. Springer Science + Business Media. doi:10.1007/s00122-010-1329-2.&lt;/div&gt;</dgps>
+<ama>Lange C, Mittermayr L, Dohm JC, Holtgräwe D, Weisshaar B, Himmelbauer H. High-throughput identification of genetic markers using representational oligonucleotide microarray analysis. &lt;em&gt;Theoretical and Applied Genetics&lt;/em&gt;. 2010;121(3):549-565.</ama>
+<aps>C.  Lange, et al., High-throughput identification of genetic markers using representational oligonucleotide microarray analysis, Theoretical and Applied Genetics &lt;strong&gt;121&lt;/strong&gt;, 549-565 (2010).</aps>
+<bio1>Lange C, Mittermayr L, Dohm JC, Holtgräwe D, Weisshaar B, Himmelbauer H (2010) &lt;br /&gt;High-throughput identification of genetic markers using representational oligonucleotide microarray analysis.&lt;br /&gt;Theoretical and Applied Genetics 121(3): 549-565.</bio1>
+<apa>Lange, C., Mittermayr, L., Dohm, J. C., Holtgräwe, D., Weisshaar, B., &amp;amp; Himmelbauer, H. (2010). High-throughput identification of genetic markers using representational oligonucleotide microarray analysis. &lt;em&gt;Theoretical and Applied Genetics&lt;/em&gt;, &lt;em&gt;121&lt;/em&gt;(3), 549-565.</apa>
+<angewandte-chemie>C.  Lange, L.  Mittermayr, J. C.  Dohm, D.  Holtgräwe, B.  Weisshaar, and H.  Himmelbauer, “High-throughput identification of genetic markers using representational oligonucleotide microarray analysis”, &lt;em&gt;Theoretical and Applied Genetics&lt;/em&gt;, &lt;strong&gt;2010&lt;/strong&gt;, &lt;em&gt;121&lt;/em&gt;, 549-565.</angewandte-chemie>
+<frontiers>Lange, C., Mittermayr, L., Dohm, J. C., Holtgräwe, D., Weisshaar, B., and Himmelbauer, H. (2010). High-throughput identification of genetic markers using representational oligonucleotide microarray analysis. &lt;em&gt;Theoretical and Applied Genetics&lt;/em&gt; 121, 549-565.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lange, Cornelia, Mittermayr, Lukas, Dohm, Juliane C., Holtgräwe, Daniela, Weisshaar, Bernd, and Himmelbauer, Heinz. 2010. “High-throughput identification of genetic markers using representational oligonucleotide microarray analysis”. &lt;em&gt;Theoretical and Applied Genetics&lt;/em&gt; 121 (3): 549-565.&lt;/div&gt;</chicago>
+<ieee>C. Lange, et al., “High-throughput identification of genetic markers using representational oligonucleotide microarray analysis”, &lt;em&gt;Theoretical and Applied Genetics&lt;/em&gt;,  vol. 121, 2010,  pp. 549-565.</ieee>
+<lncs>Lange, C., Mittermayr, L., Dohm, J.C., Holtgräwe, D., Weisshaar, B., Himmelbauer, H.: High-throughput identification of genetic markers using representational oligonucleotide microarray analysis. Theoretical and Applied Genetics. 121, 549-565 (2010).</lncs>
+<mla>Lange, Cornelia, Mittermayr, Lukas, Dohm, Juliane C., Holtgräwe, Daniela, Weisshaar, Bernd, and Himmelbauer, Heinz. “High-throughput identification of genetic markers using representational oligonucleotide microarray analysis”. &lt;em&gt;Theoretical and Applied Genetics&lt;/em&gt; 121.3 (2010): 549-565.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lange, C., Mittermayr, L., Dohm, J. C., Holtgräwe, D., Weisshaar, B., &amp;amp; Himmelbauer, H. (2010). High-throughput identification of genetic markers using representational oligonucleotide microarray analysis. &lt;em&gt;Theoretical and Applied Genetics&lt;/em&gt;, &lt;em&gt;121&lt;/em&gt;(3), 549-565.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1794548</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-10-14T09:02:33Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2015-12-16T10:29:05Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1794548</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1794548</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

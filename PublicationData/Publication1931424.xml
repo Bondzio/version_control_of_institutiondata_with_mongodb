@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Investigation of the flame-stabilization process in turbulent, lifted flames</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Brockhinke</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20287</identifier></name>
+<name type="personal">
+  <namePart type="given">Peter</namePart>
+  <namePart type="family">Andresen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Katharina</namePart>
+  <namePart type="family">Kohse-Höinghaus</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20770</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Physikalische Chemie I</namePart>
+  <identifier type="unibi">17978</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>VDI-Verlag</publisher><dateIssued encoding="w3cdtf">1997</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>VDI-Bericht 1313 &quot;Verbrennung uind Feuerungen&quot;</title></titleInfo>
+  <identifier type="isbn">3-18-091313-4</identifier>
+<part><extent unit="pages">509-512</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>A. Brockhinke, P. Andresen, and K. Kohse-Höinghaus, “Investigation of the flame-stabilization process in turbulent, lifted flames”, &lt;em&gt;VDI-Bericht 1313 &quot;Verbrennung uind Feuerungen&quot;&lt;/em&gt;, VDI-Verlag, 1997,  pp.509-512.</ieee>
+<mla>Brockhinke, Andreas, Andresen, Peter, and Kohse-Höinghaus, Katharina. “Investigation of the flame-stabilization process in turbulent, lifted flames”. &lt;em&gt;VDI-Bericht 1313 &quot;Verbrennung uind Feuerungen&quot;&lt;/em&gt;. VDI-Verlag, 1997. 509-512.</mla>
+<lncs>Brockhinke, A., Andresen, P., Kohse-Höinghaus, K.: Investigation of the flame-stabilization process in turbulent, lifted flames. VDI-Bericht 1313 &quot;Verbrennung uind Feuerungen&quot;. p. 509-512. VDI-Verlag (1997).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Brockhinke, A., Andresen, P., &amp;amp; Kohse-Höinghaus, K. (1997). Investigation of the flame-stabilization process in turbulent, lifted flames. &lt;em&gt;VDI-Bericht 1313 &quot;Verbrennung uind Feuerungen&quot;&lt;/em&gt;, 509-512.&lt;/div&gt;</apa_indent>
+<apa>Brockhinke, A., Andresen, P., &amp;amp; Kohse-Höinghaus, K. (1997). Investigation of the flame-stabilization process in turbulent, lifted flames. &lt;em&gt;VDI-Bericht 1313 &quot;Verbrennung uind Feuerungen&quot;&lt;/em&gt;, 509-512.</apa>
+<angewandte-chemie>A.  Brockhinke, P.  Andresen, and K.  Kohse-Höinghaus, in &lt;em&gt;VDI-Bericht 1313 &quot;Verbrennung uind Feuerungen&quot;&lt;/em&gt;, Vdi-Verlag, &lt;strong&gt;1997&lt;/strong&gt;, p. 509-512.</angewandte-chemie>
+<frontiers>Brockhinke, A., Andresen, P., and Kohse-Höinghaus, K. (1997). “Investigation of the flame-stabilization process in turbulent, lifted flames” in &lt;em&gt;VDI-Bericht 1313 &quot;Verbrennung uind Feuerungen&quot;&lt;/em&gt; (VDI-Verlag), 509-512.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Brockhinke, Andreas, Andresen, Peter, and Kohse-Höinghaus, Katharina. 1997. “Investigation of the flame-stabilization process in turbulent, lifted flames”. In &lt;em&gt;VDI-Bericht 1313 &quot;Verbrennung uind Feuerungen&quot;&lt;/em&gt;, 509-512. VDI-Verlag.&lt;/div&gt;</chicago>
+<harvard1>Brockhinke, A., Andresen, P., &amp;amp; Kohse-Höinghaus, K., 1997. Investigation of the flame-stabilization process in turbulent, lifted flames. In &lt;em&gt;VDI-Bericht 1313 &quot;Verbrennung uind Feuerungen&quot;&lt;/em&gt;.  VDI-Verlag, pp. 509-512.</harvard1>
+<ama>Brockhinke A, Andresen P, Kohse-Höinghaus K. Investigation of the flame-stabilization process in turbulent, lifted flames. In:  &lt;em&gt;VDI-Bericht 1313 &quot;Verbrennung uind Feuerungen&quot;&lt;/em&gt;. VDI-Verlag;  1997: 509-512.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Brockhinke, A., Andresen, P. &amp;amp; Kohse-Höinghaus, K. (1997). Investigation of the flame-stabilization process in turbulent, lifted flames. &lt;em&gt;VDI-Bericht 1313 &quot;Verbrennung uind Feuerungen&quot;&lt;/em&gt; (S. 509-512). VDI-Verlag.&lt;/div&gt;</dgps>
+<aps>A.  Brockhinke, P.  Andresen, and K.  Kohse-Höinghaus, Investigation of the flame-stabilization process in turbulent, lifted flames, in &lt;em&gt;VDI-Bericht 1313 &quot;Verbrennung uind Feuerungen&quot;&lt;/em&gt; (VDI-Verlag, 1997), p. 509-512.</aps>
+<bio1>Brockhinke A, Andresen P, Kohse-Höinghaus K (1997) &lt;br /&gt;Investigation of the flame-stabilization process in turbulent, lifted flames. &lt;br /&gt;In:  VDI-Bericht 1313 &quot;Verbrennung uind Feuerungen&quot;.  VDI-Verlag:  509-512.</bio1>
+<wels>Brockhinke, A.; Andresen, P.; Kohse-Höinghaus, K. (1997): Investigation of the flame-stabilization process in turbulent, lifted flames. In: VDI-Bericht 1313 &quot;Verbrennung uind Feuerungen&quot;. VDI-Verlag.  S. 509-512.</wels>
+<default>Brockhinke A, Andresen P, Kohse-Höinghaus K (1997)  &lt;br /&gt;In:  VDI-Bericht 1313 &quot;Verbrennung uind Feuerungen&quot;. VDI-Verlag:  509-512.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1931424</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-12-07T14:20:02Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-10T13:22:50Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1931424</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1931424</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,136 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Risk factors and cofactors for HTLV-I associated myelopathy / tropical spastic paraparesis (HAM/TSP) in Jamaica</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Alexander</namePart>
+  <namePart type="family">Krämer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21463</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0003-2774-7860</description></name>
+<name type="personal">
+  <namePart type="given">E. M.</namePart>
+  <namePart type="family">Maloney</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">O. St. C.</namePart>
+  <namePart type="family">Morgan</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">P.</namePart>
+  <namePart type="family">Rodgers-Johnson</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A.</namePart>
+  <namePart type="family">Manns</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">E. L.</namePart>
+  <namePart type="family">Murphy</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">S. A.</namePart>
+  <namePart type="family">Larsen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">B.</namePart>
+  <namePart type="family">Cranston</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J. O.</namePart>
+  <namePart type="family">Murphy</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J.</namePart>
+  <namePart type="family">Benichou</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">W. A.</namePart>
+  <namePart type="family">Blattner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG 2 Biomedizinische Grundlagen und Bevölkerungsmedizin</namePart>
+  <identifier type="unibi">21332</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Human T-cell lymphotropic virus type I (HTLV-I) has been etiologically associated with a neurologic syndrome called HTLV-I-associated myelopathy/tropical spastic paraparesis (HAM/TSP) as well as with adult T-cell leukemia/lymphoma. The authors sought to quantify the risk in Jamaica of HAM/TSP associated with HTLV-I infection and cofactors associated with this disease among infected individuals. Between 1988 and 1989, prevalent and incident HAM/TSP patients and controls with other neurologic diseases were enrolled in a retrospective study. A second control group was composed of HTLV-I-seropositive, asymptomatic carriers in Jamaica, ascertained in a separate study conducted in 1988. Although HTLV-I seropositivity was not a component of the case definition for HAM/TSP, all 43 HAM/TSP patients were HTLV-I seropositive compared with two (4.0%) of the controls with other neurologic diseases. Given HTLV-I seropositivity, one cofactor associated with the risk of HAM/TSP was young age at initial heterosexual intercourse (odds ratio = 4.00, 95% confidence interval 1.29-12.46 for individuals aged less than or equal to 15; odds ratio = 4.26, 95% confidence interval 1.41-12.90 for individuals aged 16-17 years at initial intercourse). Among individuals who reported this early age at initial sexual intercourse, an increased risk of HAM/TSP was associated with having reported more than five lifetime sexual partners (odds ratio = 2.88, 95% confidence interval 0.90-8.70). Neither an early age at initial sexual intercourse or the number of lifetime sexual partners was a risk factor for adult T-cell leukemia/lymphoma. These data support the hypothesis that HAM/TSP is associated with sexually acquired HTLV-I infection, whereas adult T-cell leukemia/lymphoma is not.</abstract>
+
+<originInfo><publisher>AMER J EPIDEMIOLOGY</publisher><dateIssued encoding="w3cdtf">1995</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>T-CELL</topic><topic>PARAPARESIS</topic><topic>TROPICAL SPASTIC</topic><topic>TRANSMITTED DISEASES</topic><topic>SEXUALLY</topic><topic>HTLV-I</topic><topic>LYMPHOMA</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>American Journal of Epidemiology</title></titleInfo>
+  <identifier type="issn">0002-9262</identifier>
+  <identifier type="MEDLINE">7485068</identifier>
+  <identifier type="ISI">A1995TG25900011</identifier>
+<part><detail type="volume"><number>142</number></detail><detail type="issue"><number>11</number></detail><extent unit="pages">1212-1220</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Krämer A, Maloney EM, Morgan OSC, Rodgers-Johnson P, Manns A, Murphy EL, Larsen SA, Cranston B, Murphy JO, Benichou J, Blattner WA (1995) &lt;br /&gt;American Journal of Epidemiology 142(11): 1212-1220.</default>
+<wels>Krämer, A.; Maloney, E. M.; Morgan, O. S. C.; Rodgers-Johnson, P.; Manns, A.; Murphy, E. L.; Larsen, S. A.; Cranston, B.; Murphy, J. O.; Benichou, J.; Blattner, W. A. (1995): Risk factors and cofactors for HTLV-I associated myelopathy / tropical spastic paraparesis (HAM/TSP) in Jamaica &lt;em&gt;American Journal of Epidemiology&lt;/em&gt;,142:(11): 1212-1220.</wels>
+<aps>A.  Krämer, et al., Risk factors and cofactors for HTLV-I associated myelopathy / tropical spastic paraparesis (HAM/TSP) in Jamaica, American Journal of Epidemiology &lt;strong&gt;142&lt;/strong&gt;, 1212-1220 (1995).</aps>
+<bio1>Krämer A, Maloney EM, Morgan OSC, Rodgers-Johnson P, Manns A, Murphy EL, Larsen SA, Cranston B, Murphy JO, Benichou J, Blattner WA (1995) &lt;br /&gt;Risk factors and cofactors for HTLV-I associated myelopathy / tropical spastic paraparesis (HAM/TSP) in Jamaica.&lt;br /&gt;American Journal of Epidemiology 142(11): 1212-1220.</bio1>
+<ama>Krämer A, Maloney EM, Morgan OSC, et al. Risk factors and cofactors for HTLV-I associated myelopathy / tropical spastic paraparesis (HAM/TSP) in Jamaica. &lt;em&gt;American Journal of Epidemiology&lt;/em&gt;. 1995;142(11):1212-1220.</ama>
+<harvard1>Krämer, A., et al., 1995. Risk factors and cofactors for HTLV-I associated myelopathy / tropical spastic paraparesis (HAM/TSP) in Jamaica. &lt;em&gt;American Journal of Epidemiology&lt;/em&gt;, 142(11), p 1212-1220.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Krämer, A., Maloney, E.M., Morgan, O.S.C., Rodgers-Johnson, P., Manns, A., Murphy, E.L., Larsen, S.A., Cranston, B., Murphy, J.O., Benichou, J. &amp;amp; Blattner, W.A. (1995). Risk factors and cofactors for HTLV-I associated myelopathy / tropical spastic paraparesis (HAM/TSP) in Jamaica. &lt;em&gt;American Journal of Epidemiology&lt;/em&gt;, &lt;em&gt;142&lt;/em&gt;(11), 1212-1220. AMER J EPIDEMIOLOGY.&lt;/div&gt;</dgps>
+<frontiers>Krämer, A., Maloney, E. M., Morgan, O. S. C., Rodgers-Johnson, P., Manns, A., Murphy, E. L., Larsen, S. A., Cranston, B., Murphy, J. O., Benichou, J., et al. (1995). Risk factors and cofactors for HTLV-I associated myelopathy / tropical spastic paraparesis (HAM/TSP) in Jamaica. &lt;em&gt;American Journal of Epidemiology&lt;/em&gt; 142, 1212-1220.</frontiers>
+<apa>Krämer, A., Maloney, E. M., Morgan, O. S. C., Rodgers-Johnson, P., Manns, A., Murphy, E. L., Larsen, S. A., et al. (1995). Risk factors and cofactors for HTLV-I associated myelopathy / tropical spastic paraparesis (HAM/TSP) in Jamaica. &lt;em&gt;American Journal of Epidemiology&lt;/em&gt;, &lt;em&gt;142&lt;/em&gt;(11), 1212-1220.</apa>
+<angewandte-chemie>A.  Krämer, E. M.  Maloney, O. S. C.  Morgan, P.  Rodgers-Johnson, A.  Manns, E. L.  Murphy, S. A.  Larsen, B.  Cranston, J. O.  Murphy, J.  Benichou, et al., “Risk factors and cofactors for HTLV-I associated myelopathy / tropical spastic paraparesis (HAM/TSP) in Jamaica”, &lt;em&gt;American Journal of Epidemiology&lt;/em&gt;, &lt;strong&gt;1995&lt;/strong&gt;, &lt;em&gt;142&lt;/em&gt;, 1212-1220.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Krämer, Alexander, Maloney, E. M., Morgan, O. St. C., Rodgers-Johnson, P., Manns, A., Murphy, E. L., Larsen, S. A., et al. 1995. “Risk factors and cofactors for HTLV-I associated myelopathy / tropical spastic paraparesis (HAM/TSP) in Jamaica”. &lt;em&gt;American Journal of Epidemiology&lt;/em&gt; 142 (11): 1212-1220.&lt;/div&gt;</chicago>
+<mla>Krämer, Alexander, Maloney, E. M., Morgan, O. St. C., Rodgers-Johnson, P., Manns, A., Murphy, E. L., Larsen, S. A., Cranston, B., Murphy, J. O., Benichou, J., and Blattner, W. A. “Risk factors and cofactors for HTLV-I associated myelopathy / tropical spastic paraparesis (HAM/TSP) in Jamaica”. &lt;em&gt;American Journal of Epidemiology&lt;/em&gt; 142.11 (1995): 1212-1220.</mla>
+<lncs>Krämer, A., Maloney, E.M., Morgan, O.S.C., Rodgers-Johnson, P., Manns, A., Murphy, E.L., Larsen, S.A., Cranston, B., Murphy, J.O., Benichou, J., Blattner, W.A.: Risk factors and cofactors for HTLV-I associated myelopathy / tropical spastic paraparesis (HAM/TSP) in Jamaica. American Journal of Epidemiology. 142, 1212-1220 (1995).</lncs>
+<ieee>A. Krämer, et al., “Risk factors and cofactors for HTLV-I associated myelopathy / tropical spastic paraparesis (HAM/TSP) in Jamaica”, &lt;em&gt;American Journal of Epidemiology&lt;/em&gt;,  vol. 142, 1995,  pp. 1212-1220.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Krämer, A., Maloney, E. M., Morgan, O. S. C., Rodgers-Johnson, P., Manns, A., Murphy, E. L., Larsen, S. A., et al. (1995). Risk factors and cofactors for HTLV-I associated myelopathy / tropical spastic paraparesis (HAM/TSP) in Jamaica. &lt;em&gt;American Journal of Epidemiology&lt;/em&gt;, &lt;em&gt;142&lt;/em&gt;(11), 1212-1220.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1629330</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:26:46Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2014-01-06T10:26:09Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1629330</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1629330</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

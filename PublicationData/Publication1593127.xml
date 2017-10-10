@@ -1,0 +1,102 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Polymer properties of polythymine as revealed by translational diffusion</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Soeren</namePart>
+  <namePart type="family">Doose</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Hannes</namePart>
+  <namePart type="family">Barsch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Markus</namePart>
+  <namePart type="family">Sauer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">177825</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Biopolymers, such as single- stranded DNA ( ssDNA), are often described as semiflexible polymers or wormlike chains. We investigated the length dependence of diffusional properties of homogeneous ssDNA ( polythymine) with up to 100 nucleotides using fluorescence correlation spectroscopy. We found that the hydrodynamic radius Rh scales according to a power law, with an exponent between 0.5 and 0.7 depending on ionic strength I. With Rh being proportional to the square root of the persistence length L-p, we found that L-p approximate to l(m), with m = - 0.22 +/- 0.01 for polythymine with 100 residues. For comparison, we performed molecular dynamics ( MD) simulations with a force field that accounts for short- range interactions in vacuum, and determined the characteristic polymer properties end- to- end distance R, radius of gyration S, and persistence length L-p of various labeled and nonlabeled polythymine derivatives. We found excellent agreement for the length dependence of simulated S and experimental R-h measured at 100 mM NaCl, revealing that electrostatic interactions are completely shielded in aqueous solution at such ionic strength. MD simulations further showed that polythymine with.; 30 residues can be described as a semiflexible polymer with negligible influence of the fluorescent label; and that static flexibility is limited by geometrical and steric constraints as expressed by an intrinsic persistence length of; 1.7 nm. These results provide a benchmark for theories and MD simulations describing the influence of electrostatic interactions on polyelectrolyte properties, and thus help to develop a complete and accurate description of ssDNA.</abstract>
+
+<originInfo><publisher>BIOPHYSICAL SOCIETY</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>BIOPHYSICAL JOURNAL</title></titleInfo>
+  <identifier type="issn">0006-3495</identifier>
+  <identifier type="MEDLINE">17513377</identifier>
+  <identifier type="ISI">000248208800016</identifier><identifier type="doi">10.1529/biophysj.107.107342</identifier>
+<part><detail type="volume"><number>93</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">1224-1234</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Doose, S.; Barsch, H.; Sauer, M. (2007): Polymer properties of polythymine as revealed by translational diffusion &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt;,93:(4): 1224-1234.</wels>
+<default>Doose S, Barsch H, Sauer M (2007) &lt;br /&gt;BIOPHYSICAL JOURNAL 93(4): 1224-1234.</default>
+<ama>Doose S, Barsch H, Sauer M. Polymer properties of polythymine as revealed by translational diffusion. &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt;. 2007;93(4):1224-1234.</ama>
+<harvard1>Doose, S., Barsch, H., &amp;amp; Sauer, M., 2007. Polymer properties of polythymine as revealed by translational diffusion. &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt;, 93(4), p 1224-1234.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Doose, S., Barsch, H. &amp;amp; Sauer, M. (2007). Polymer properties of polythymine as revealed by translational diffusion. &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt;, &lt;em&gt;93&lt;/em&gt;(4), 1224-1234. BIOPHYSICAL SOCIETY. doi:10.1529/biophysj.107.107342.&lt;/div&gt;</dgps>
+<bio1>Doose S, Barsch H, Sauer M (2007) &lt;br /&gt;Polymer properties of polythymine as revealed by translational diffusion.&lt;br /&gt;BIOPHYSICAL JOURNAL 93(4): 1224-1234.</bio1>
+<aps> S.  Doose, H.  Barsch, and M.  Sauer, Polymer properties of polythymine as revealed by translational diffusion, BIOPHYSICAL JOURNAL &lt;strong&gt;93&lt;/strong&gt;, 1224-1234 (2007).</aps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Doose, Soeren, Barsch, Hannes, and Sauer, Markus. 2007. “Polymer properties of polythymine as revealed by translational diffusion”. &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt; 93 (4): 1224-1234.&lt;/div&gt;</chicago>
+<apa>Doose, S., Barsch, H., &amp;amp; Sauer, M. (2007). Polymer properties of polythymine as revealed by translational diffusion. &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt;, &lt;em&gt;93&lt;/em&gt;(4), 1224-1234.</apa>
+<angewandte-chemie>S.  Doose, H.  Barsch, and M.  Sauer, “Polymer properties of polythymine as revealed by translational diffusion”, &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;93&lt;/em&gt;, 1224-1234.</angewandte-chemie>
+<frontiers>Doose, S., Barsch, H., and Sauer, M. (2007). Polymer properties of polythymine as revealed by translational diffusion. &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt; 93, 1224-1234.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Doose, S., Barsch, H., &amp;amp; Sauer, M. (2007). Polymer properties of polythymine as revealed by translational diffusion. &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt;, &lt;em&gt;93&lt;/em&gt;(4), 1224-1234.&lt;/div&gt;</apa_indent>
+<ieee> S. Doose, H. Barsch, and M. Sauer, “Polymer properties of polythymine as revealed by translational diffusion”, &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt;,  vol. 93, 2007,  pp. 1224-1234.</ieee>
+<mla>Doose, Soeren, Barsch, Hannes, and Sauer, Markus. “Polymer properties of polythymine as revealed by translational diffusion”. &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt; 93.4 (2007): 1224-1234.</mla>
+<lncs> Doose, S., Barsch, H., Sauer, M.: Polymer properties of polythymine as revealed by translational diffusion. BIOPHYSICAL JOURNAL. 93, 1224-1234 (2007).</lncs>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1593127</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:15:42Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-18T09:15:55Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1593127</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1593127</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

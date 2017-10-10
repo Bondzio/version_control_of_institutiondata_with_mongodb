@@ -1,0 +1,126 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Two-loop QCD gauge coupling at high temperatures</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Mikko</namePart>
+  <namePart type="family">Laine</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">93995</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-2680-4213</description></name>
+<name type="personal">
+  <namePart type="given">York</namePart>
+  <namePart type="family">Schroeder</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">138494</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0003-3535-4194</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Astroteilchen und Kosmologie</namePart>
+  <identifier type="unibi">23381619</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Astroteilchen und Kosmologie</namePart>
+  <identifier type="unibi">23381619</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Elementarteilchen und Quantenfelder</namePart>
+  <identifier type="unibi">23470443</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We determine the 2-loop effective gauge coupling of QCD at high temperatures, defined as a matching coeffcient appearing in the dimensionally reduced effective field theory. The result allows to improve on one of the classic non-perturbative probes for the convergence of the weak-coupling expansion at high temperatures, the comparison of full and effective theory determinations of an observable called the spatial string tension. We find surprisingly good agreement almost down to the critical temperature of the deconfinement phase transition. We also determine one new contribution of order O(g(6)T(4)) to the pressure of hot QCD.</abstract>
+
+<originInfo><publisher>INT SCHOOL ADVANCED STUDIES</publisher><dateIssued encoding="w3cdtf">2005</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>computations</topic><topic>thermal field theory</topic><topic>lattice gauge field theories</topic><topic>NLO</topic><topic>QCD</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JHEP</title></titleInfo>
+  <identifier type="issn">1126-6708</identifier>
+  <identifier type="eIssn">1029-8479</identifier>
+  <identifier type="arXiv">hep-ph/0503061</identifier>
+  <identifier type="INSPIRE">677886</identifier>
+  <identifier type="ISI">000229059000014</identifier><identifier type="doi">10.1088/1126-6708/2005/03/067</identifier>
+<part><detail type="volume"><number>2005</number></detail><detail type="issue"><number>03</number></detail><extent unit="pages">067</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>M.  Laine and Y.  Schroeder, Two-loop QCD gauge coupling at high temperatures, JHEP &lt;strong&gt;2005&lt;/strong&gt;, (2005).</aps>
+<bio1>Laine M, Schroeder Y (2005) &lt;br /&gt;Two-loop QCD gauge coupling at high temperatures.&lt;br /&gt;JHEP 2005(03).</bio1>
+<harvard1>Laine, M., &amp;amp; Schroeder, Y., 2005. Two-loop QCD gauge coupling at high temperatures. &lt;em&gt;JHEP&lt;/em&gt;, 2005(03).</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Laine, M. &amp;amp; Schroeder, Y. (2005). Two-loop QCD gauge coupling at high temperatures. &lt;em&gt;JHEP&lt;/em&gt;, &lt;em&gt;2005&lt;/em&gt;(03). INT SCHOOL ADVANCED STUDIES. doi:10.1088/1126-6708/2005/03/067.&lt;/div&gt;</dgps>
+<ama>Laine M, Schroeder Y. Two-loop QCD gauge coupling at high temperatures. &lt;em&gt;JHEP&lt;/em&gt;. 2005;2005(03).</ama>
+<default>Laine M, Schroeder Y (2005) &lt;br /&gt;JHEP 2005(03).</default>
+<wels>Laine, M.; Schroeder, Y. (2005): Two-loop QCD gauge coupling at high temperatures &lt;em&gt;JHEP&lt;/em&gt;,2005:(03)</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Laine, M., &amp;amp; Schroeder, Y. (2005). Two-loop QCD gauge coupling at high temperatures. &lt;em&gt;JHEP&lt;/em&gt;, &lt;em&gt;2005&lt;/em&gt;(03).&lt;/div&gt;</apa_indent>
+<lncs>Laine, M., Schroeder, Y.: Two-loop QCD gauge coupling at high temperatures. JHEP. 2005, (2005).</lncs>
+<mla>Laine, Mikko, and Schroeder, York. “Two-loop QCD gauge coupling at high temperatures”. &lt;em&gt;JHEP&lt;/em&gt; 2005.03 (2005).</mla>
+<ieee>M. Laine and Y. Schroeder, “Two-loop QCD gauge coupling at high temperatures”, &lt;em&gt;JHEP&lt;/em&gt;,  vol. 2005, 2005.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Laine, Mikko, and Schroeder, York. 2005. “Two-loop QCD gauge coupling at high temperatures”. &lt;em&gt;JHEP&lt;/em&gt; 2005 (03).&lt;/div&gt;</chicago>
+<frontiers>Laine, M., and Schroeder, Y. (2005). Two-loop QCD gauge coupling at high temperatures. &lt;em&gt;JHEP&lt;/em&gt; 2005.</frontiers>
+<apa>Laine, M., &amp;amp; Schroeder, Y. (2005). Two-loop QCD gauge coupling at high temperatures. &lt;em&gt;JHEP&lt;/em&gt;, &lt;em&gt;2005&lt;/em&gt;(03).</apa>
+<angewandte-chemie>M.  Laine, and Y.  Schroeder, “Two-loop QCD gauge coupling at high temperatures”, &lt;em&gt;JHEP&lt;/em&gt;, &lt;strong&gt;2005&lt;/strong&gt;, &lt;em&gt;2005&lt;/em&gt;.</angewandte-chemie>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1603856</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:40:04Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-09T12:42:21Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1603856</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1603856</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

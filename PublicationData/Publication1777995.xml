@@ -1,0 +1,109 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>A pyrolysis mechanism for ammonia</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">David F.</namePart>
+  <namePart type="family">Davidson</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Katharina</namePart>
+  <namePart type="family">Kohse-Höinghaus</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20770</identifier></name>
+<name type="personal">
+  <namePart type="given">Albert Y.</namePart>
+  <namePart type="family">Chang</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ronald K.</namePart>
+  <namePart type="family">Hanson</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Physikalische Chemie I</namePart>
+  <identifier type="unibi">17978</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Kohse_Hoeinghaus_19.pdf">https://pub.uni-bielefeld.de/download/1777995/2312385</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1990</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>International Journal of Chemical Kinetics</title></titleInfo>
+  <identifier type="issn">0538-8066</identifier>
+  <identifier type="eIssn">1097-4601</identifier><identifier type="urn">urn:nbn:de:0070-pub-17779953</identifier><identifier type="doi">10.1002/kin.550220501</identifier>
+<part><detail type="volume"><number>22</number></detail><detail type="issue"><number>5</number></detail><extent unit="pages">fmi</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Davidson DF, Kohse-Höinghaus K, Chang AY, Hanson RK. A pyrolysis mechanism for ammonia. &lt;em&gt;International Journal of Chemical Kinetics&lt;/em&gt;. 1990;22(5).</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Davidson, D.F., Kohse-Höinghaus, K., Chang, A.Y. &amp;amp; Hanson, R.K. (1990). A pyrolysis mechanism for ammonia. &lt;em&gt;International Journal of Chemical Kinetics&lt;/em&gt;, &lt;em&gt;22&lt;/em&gt;(5). doi:10.1002/kin.550220501.&lt;/div&gt;</dgps>
+<harvard1>Davidson, D.F., et al., 1990. A pyrolysis mechanism for ammonia. &lt;em&gt;International Journal of Chemical Kinetics&lt;/em&gt;, 22(5).</harvard1>
+<aps>D. F.  Davidson, et al., A pyrolysis mechanism for ammonia, International Journal of Chemical Kinetics &lt;strong&gt;22&lt;/strong&gt;, (1990).</aps>
+<bio1>Davidson DF, Kohse-Höinghaus K, Chang AY, Hanson RK (1990) &lt;br /&gt;A pyrolysis mechanism for ammonia.&lt;br /&gt;International Journal of Chemical Kinetics 22(5).</bio1>
+<wels>Davidson, D. F.; Kohse-Höinghaus, K.; Chang, A. Y.; Hanson, R. K. (1990): A pyrolysis mechanism for ammonia &lt;em&gt;International Journal of Chemical Kinetics&lt;/em&gt;,22:(5)</wels>
+<default>Davidson DF, Kohse-Höinghaus K, Chang AY, Hanson RK (1990) &lt;br /&gt;International Journal of Chemical Kinetics 22(5).</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Davidson, D. F., Kohse-Höinghaus, K., Chang, A. Y., &amp;amp; Hanson, R. K. (1990). A pyrolysis mechanism for ammonia. &lt;em&gt;International Journal of Chemical Kinetics&lt;/em&gt;, &lt;em&gt;22&lt;/em&gt;(5).&lt;/div&gt;</apa_indent>
+<ieee>D.F. Davidson, et al., “A pyrolysis mechanism for ammonia”, &lt;em&gt;International Journal of Chemical Kinetics&lt;/em&gt;,  vol. 22, 1990.</ieee>
+<mla>Davidson, David F., Kohse-Höinghaus, Katharina, Chang, Albert Y., and Hanson, Ronald K. “A pyrolysis mechanism for ammonia”. &lt;em&gt;International Journal of Chemical Kinetics&lt;/em&gt; 22.5 (1990).</mla>
+<lncs>Davidson, D.F., Kohse-Höinghaus, K., Chang, A.Y., Hanson, R.K.: A pyrolysis mechanism for ammonia. International Journal of Chemical Kinetics. 22, (1990).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Davidson, David F., Kohse-Höinghaus, Katharina, Chang, Albert Y., and Hanson, Ronald K. 1990. “A pyrolysis mechanism for ammonia”. &lt;em&gt;International Journal of Chemical Kinetics&lt;/em&gt; 22 (5).&lt;/div&gt;</chicago>
+<angewandte-chemie>D. F.  Davidson, K.  Kohse-Höinghaus, A. Y.  Chang, and R. K.  Hanson, “A pyrolysis mechanism for ammonia”, &lt;em&gt;International Journal of Chemical Kinetics&lt;/em&gt;, &lt;strong&gt;1990&lt;/strong&gt;, &lt;em&gt;22&lt;/em&gt;.</angewandte-chemie>
+<apa>Davidson, D. F., Kohse-Höinghaus, K., Chang, A. Y., &amp;amp; Hanson, R. K. (1990). A pyrolysis mechanism for ammonia. &lt;em&gt;International Journal of Chemical Kinetics&lt;/em&gt;, &lt;em&gt;22&lt;/em&gt;(5).</apa>
+<frontiers>Davidson, D. F., Kohse-Höinghaus, K., Chang, A. Y., and Hanson, R. K. (1990). A pyrolysis mechanism for ammonia. &lt;em&gt;International Journal of Chemical Kinetics&lt;/em&gt; 22.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1777995</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1777995</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1777995</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

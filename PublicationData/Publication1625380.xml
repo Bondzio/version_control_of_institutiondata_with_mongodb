@@ -1,0 +1,128 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Unusual stepwise assembly and molecular growth: [H14Mo37O112](14-) and [H3Mo57V6(NO)(6)O-189(H2O)(12)(MoO)(6)](21-)</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Achim</namePart>
+  <namePart type="family">Müller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20118</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0003-0117-4021</description></name>
+<name type="personal">
+  <namePart type="given">Jochen</namePart>
+  <namePart type="family">Meyer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Erich</namePart>
+  <namePart type="family">Krickemeyer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20112</identifier></name>
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">Beugholt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Hartmut</namePart>
+  <namePart type="family">Bögge</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20106</identifier></name>
+<name type="personal">
+  <namePart type="given">F</namePart>
+  <namePart type="family">Peters</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Marc</namePart>
+  <namePart type="family">Schmidtmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Paul</namePart>
+  <namePart type="family">Kögerler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M. J.</namePart>
+  <namePart type="family">Koop</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Anorganische Chemie I</namePart>
+  <identifier type="unibi">17964</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The understanding of the formation of complex molecular systems from simple building blocks by conservative self-assembly processes is still a challenge. We report the synthesis and structural characterization of the large reduced polyoxometallate compounds (NH4)(14)[H14Mo37O112]. 35 H2O (1), (NH4)(21)[H3Mo57V6(NO)(6)O-183(H2O)(18)]. 55H(2)O (2) (by an improved synthesis) and Na-3(NH4)(18)[H3Mo63V6(NO)(6)O-195(H2O)(12)]. 41H(2)O (3). The cluster systems are formed by a stepwise growth process. This implies the appearance, during the cluster formation, of ephemeral polyoxometallate intermediates (some of which we were able to isolate). The negative charge and therefore the nucleophilicity of the intermediate cluster fragments increase when they are reduced, resulting in further attraction of electrophiles and thus in growth of molecular systems. IN the case of the cluster anion of 3 we observed, correspondingly, the loss of an [MoO](4+) oxometallate fragment by air oxidation; this implies that aits uptake and release are controlled by th degree of reduction of the cluster. correspondingly, intermediates between the anions of 2 and 3 of the {Mo57+xV6} type could be isolated. The unusual anion of 1 is formed by symmetry breaking processed.</abstract>
+
+<originInfo><publisher>WILEY-V C H VERLAG GMBH</publisher><dateIssued encoding="w3cdtf">1998</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>molecular growth</topic><topic>self-assembly</topic><topic>polyoxometallates</topic><topic>molybdenum</topic><topic>clusters</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>CHEMISTRY-A EUROPEAN JOURNAL</title></titleInfo>
+  <identifier type="issn">0947-6539</identifier>
+  <identifier type="eIssn">1521-3765</identifier>
+  <identifier type="ISI">000074301700005</identifier><identifier type="doi">10.1002/(SICI)1521-3765(19980615)4:6&lt;1000::AID-CHEM1000&gt;3.0.CO;2-C</identifier>
+<part><detail type="volume"><number>4</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">1000-1006</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Müller A, Meyer J, Krickemeyer E, et al. Unusual stepwise assembly and molecular growth: [H14Mo37O112](14-) and [H3Mo57V6(NO)(6)O-189(H2O)(12)(MoO)(6)](21-). &lt;em&gt;CHEMISTRY-A EUROPEAN JOURNAL&lt;/em&gt;. 1998;4(6):1000-1006.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, A., Meyer, J., Krickemeyer, E., Beugholt, C., Bögge, H., Peters, F., Schmidtmann, M., Kögerler, P. &amp;amp; Koop, M.J. (1998). Unusual stepwise assembly and molecular growth: [H14Mo37O112](14-) and [H3Mo57V6(NO)(6)O-189(H2O)(12)(MoO)(6)](21-). &lt;em&gt;CHEMISTRY-A EUROPEAN JOURNAL&lt;/em&gt;, &lt;em&gt;4&lt;/em&gt;(6), 1000-1006. WILEY-V C H VERLAG GMBH. doi:10.1002/(SICI)1521-3765(19980615)4:6&amp;lt;1000::AID-CHEM1000&amp;gt;3.0.CO;2-C.&lt;/div&gt;</dgps>
+<harvard1>Müller, A., et al., 1998. Unusual stepwise assembly and molecular growth: [H14Mo37O112](14-) and [H3Mo57V6(NO)(6)O-189(H2O)(12)(MoO)(6)](21-). &lt;em&gt;CHEMISTRY-A EUROPEAN JOURNAL&lt;/em&gt;, 4(6), p 1000-1006.</harvard1>
+<bio1>Müller A, Meyer J, Krickemeyer E, Beugholt C, Bögge H, Peters F, Schmidtmann M, Kögerler P, Koop MJ (1998) &lt;br /&gt;Unusual stepwise assembly and molecular growth: [H14Mo37O112](14-) and [H3Mo57V6(NO)(6)O-189(H2O)(12)(MoO)(6)](21-).&lt;br /&gt;CHEMISTRY-A EUROPEAN JOURNAL 4(6): 1000-1006.</bio1>
+<aps>A.  Müller, et al., Unusual stepwise assembly and molecular growth: [H14Mo37O112](14-) and [H3Mo57V6(NO)(6)O-189(H2O)(12)(MoO)(6)](21-), CHEMISTRY-A EUROPEAN JOURNAL &lt;strong&gt;4&lt;/strong&gt;, 1000-1006 (1998).</aps>
+<wels>Müller, A.; Meyer, J.; Krickemeyer, E.; Beugholt, C.; Bögge, H.; Peters, F.; Schmidtmann, M.; Kögerler, P.; Koop, M. J. (1998): Unusual stepwise assembly and molecular growth: [H14Mo37O112](14-) and [H3Mo57V6(NO)(6)O-189(H2O)(12)(MoO)(6)](21-) &lt;em&gt;CHEMISTRY-A EUROPEAN JOURNAL&lt;/em&gt;,4:(6): 1000-1006.</wels>
+<default>Müller A, Meyer J, Krickemeyer E, Beugholt C, Bögge H, Peters F, Schmidtmann M, Kögerler P, Koop MJ (1998) &lt;br /&gt;CHEMISTRY-A EUROPEAN JOURNAL 4(6): 1000-1006.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, A., Meyer, J., Krickemeyer, E., Beugholt, C., Bögge, H., Peters, F., Schmidtmann, M., et al. (1998). Unusual stepwise assembly and molecular growth: [H14Mo37O112](14-) and [H3Mo57V6(NO)(6)O-189(H2O)(12)(MoO)(6)](21-). &lt;em&gt;CHEMISTRY-A EUROPEAN JOURNAL&lt;/em&gt;, &lt;em&gt;4&lt;/em&gt;(6), 1000-1006.&lt;/div&gt;</apa_indent>
+<ieee>A. Müller, et al., “Unusual stepwise assembly and molecular growth: [H14Mo37O112](14-) and [H3Mo57V6(NO)(6)O-189(H2O)(12)(MoO)(6)](21-)”, &lt;em&gt;CHEMISTRY-A EUROPEAN JOURNAL&lt;/em&gt;,  vol. 4, 1998,  pp. 1000-1006.</ieee>
+<lncs>Müller, A., Meyer, J., Krickemeyer, E., Beugholt, C., Bögge, H., Peters, F., Schmidtmann, M., Kögerler, P., Koop, M.J.: Unusual stepwise assembly and molecular growth: [H14Mo37O112](14-) and [H3Mo57V6(NO)(6)O-189(H2O)(12)(MoO)(6)](21-). CHEMISTRY-A EUROPEAN JOURNAL. 4, 1000-1006 (1998).</lncs>
+<mla>Müller, Achim, Meyer, Jochen, Krickemeyer, Erich, Beugholt, Christian, Bögge, Hartmut, Peters, F, Schmidtmann, Marc, Kögerler, Paul, and Koop, M. J. “Unusual stepwise assembly and molecular growth: [H14Mo37O112](14-) and [H3Mo57V6(NO)(6)O-189(H2O)(12)(MoO)(6)](21-)”. &lt;em&gt;CHEMISTRY-A EUROPEAN JOURNAL&lt;/em&gt; 4.6 (1998): 1000-1006.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, Achim, Meyer, Jochen, Krickemeyer, Erich, Beugholt, Christian, Bögge, Hartmut, Peters, F, Schmidtmann, Marc, Kögerler, Paul, and Koop, M. J. 1998. “Unusual stepwise assembly and molecular growth: [H14Mo37O112](14-) and [H3Mo57V6(NO)(6)O-189(H2O)(12)(MoO)(6)](21-)”. &lt;em&gt;CHEMISTRY-A EUROPEAN JOURNAL&lt;/em&gt; 4 (6): 1000-1006.&lt;/div&gt;</chicago>
+<angewandte-chemie>A.  Müller, J.  Meyer, E.  Krickemeyer, C.  Beugholt, H.  Bögge, F.  Peters, M.  Schmidtmann, P.  Kögerler, and M. J.  Koop, “Unusual stepwise assembly and molecular growth: [H14Mo37O112](14-) and [H3Mo57V6(NO)(6)O-189(H2O)(12)(MoO)(6)](21-)”, &lt;em&gt;CHEMISTRY-A EUROPEAN JOURNAL&lt;/em&gt;, &lt;strong&gt;1998&lt;/strong&gt;, &lt;em&gt;4&lt;/em&gt;, 1000-1006.</angewandte-chemie>
+<apa>Müller, A., Meyer, J., Krickemeyer, E., Beugholt, C., Bögge, H., Peters, F., Schmidtmann, M., et al. (1998). Unusual stepwise assembly and molecular growth: [H14Mo37O112](14-) and [H3Mo57V6(NO)(6)O-189(H2O)(12)(MoO)(6)](21-). &lt;em&gt;CHEMISTRY-A EUROPEAN JOURNAL&lt;/em&gt;, &lt;em&gt;4&lt;/em&gt;(6), 1000-1006.</apa>
+<frontiers>Müller, A., Meyer, J., Krickemeyer, E., Beugholt, C., Bögge, H., Peters, F., Schmidtmann, M., Kögerler, P., and Koop, M. J. (1998). Unusual stepwise assembly and molecular growth: [H14Mo37O112](14-) and [H3Mo57V6(NO)(6)O-189(H2O)(12)(MoO)(6)](21-). &lt;em&gt;CHEMISTRY-A EUROPEAN JOURNAL&lt;/em&gt; 4, 1000-1006.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1625380</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:20:40Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-02-02T16:09:49Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1625380</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1625380</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

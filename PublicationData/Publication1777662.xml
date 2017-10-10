@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Mit dem neuen Boot in den falschen Hafen? Anmerkungen zur Schulreform der letzten 25 Jahre</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Klaus-Jürgen</namePart>
+  <namePart type="family">Tillmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21774</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Hartmut</namePart><namePart type="family">Wenzel</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Erziehungswissenschaft</namePart>
+  <identifier type="unibi">10021</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG 4 - Schulentwicklung und Schulforschung</namePart>
+  <identifier type="unibi">7978212</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Tillmann_057.pdf">https://pub.uni-bielefeld.de/download/1777662/2312359</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Dt. Studien Verl.</publisher><dateIssued encoding="w3cdtf">1989</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Schule auf dem Weg ins 21. Jahrhundert: Bilanz, Probleme, Perspektiven</title></titleInfo>
+  <identifier type="isbn">3-89271-184-4</identifier><identifier type="urn">urn:nbn:de:0070-bipr-14367</identifier>
+<part><extent unit="pages">19-27</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Tillmann, K. - J. (1989). “Mit dem neuen Boot in den falschen Hafen? Anmerkungen zur Schulreform der letzten 25 Jahre” in &lt;em&gt;Schule auf dem Weg ins 21. Jahrhundert: Bilanz, Probleme, Perspektiven&lt;/em&gt;, ed. H.  Wenzel (Weinheim: Dt. Studien Verl.), 19-27.</frontiers>
+<apa>Tillmann, K. - J. (1989). Mit dem neuen Boot in den falschen Hafen? Anmerkungen zur Schulreform der letzten 25 Jahre. In H.  Wenzel (Ed.), &lt;em&gt;Schule auf dem Weg ins 21. Jahrhundert: Bilanz, Probleme, Perspektiven&lt;/em&gt; (pp. 19-27). Weinheim: Dt. Studien Verl.</apa>
+<angewandte-chemie>K. - J.  Tillmann, in &lt;em&gt;Schule auf dem Weg ins 21. Jahrhundert: Bilanz, Probleme, Perspektiven&lt;/em&gt; (Ed.: H. Wenzel), Dt. Studien Verl., Weinheim, &lt;strong&gt;1989&lt;/strong&gt;, p. 19-27.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Tillmann, Klaus-Jürgen. 1989. “Mit dem neuen Boot in den falschen Hafen? Anmerkungen zur Schulreform der letzten 25 Jahre”. In &lt;em&gt;Schule auf dem Weg ins 21. Jahrhundert: Bilanz, Probleme, Perspektiven&lt;/em&gt;, ed. Hartmut Wenzel, 19-27. Weinheim: Dt. Studien Verl.&lt;/div&gt;</chicago>
+<mla>Tillmann, Klaus-Jürgen. “Mit dem neuen Boot in den falschen Hafen? Anmerkungen zur Schulreform der letzten 25 Jahre”. &lt;em&gt;Schule auf dem Weg ins 21. Jahrhundert: Bilanz, Probleme, Perspektiven&lt;/em&gt;. Ed. Hartmut Wenzel. Weinheim: Dt. Studien Verl., 1989. 19-27.</mla>
+<lncs>Tillmann, K.-J.: Mit dem neuen Boot in den falschen Hafen? Anmerkungen zur Schulreform der letzten 25 Jahre. In: Wenzel, H. (ed.) Schule auf dem Weg ins 21. Jahrhundert: Bilanz, Probleme, Perspektiven. p. 19-27. Dt. Studien Verl., Weinheim (1989).</lncs>
+<ieee>K.-J. Tillmann, “Mit dem neuen Boot in den falschen Hafen? Anmerkungen zur Schulreform der letzten 25 Jahre”, &lt;em&gt;Schule auf dem Weg ins 21. Jahrhundert: Bilanz, Probleme, Perspektiven&lt;/em&gt;, H. Wenzel, ed.,  Weinheim: Dt. Studien Verl., 1989,  pp.19-27.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Tillmann, K. - J. (1989). Mit dem neuen Boot in den falschen Hafen? Anmerkungen zur Schulreform der letzten 25 Jahre. In H.  Wenzel (Ed.), &lt;em&gt;Schule auf dem Weg ins 21. Jahrhundert: Bilanz, Probleme, Perspektiven&lt;/em&gt; (pp. 19-27). Weinheim: Dt. Studien Verl.&lt;/div&gt;</apa_indent>
+<default>Tillmann K-J (1989)  &lt;br /&gt;In:  Schule auf dem Weg ins 21. Jahrhundert: Bilanz, Probleme, Perspektiven. Wenzel H (Ed);Weinheim: Dt. Studien Verl.:  19-27.</default>
+<wels>Tillmann, K. - J. (1989): Mit dem neuen Boot in den falschen Hafen? Anmerkungen zur Schulreform der letzten 25 Jahre. In: Hartmut Wenzel (Hrsg.):  Schule auf dem Weg ins 21. Jahrhundert: Bilanz, Probleme, Perspektiven. Weinheim: Dt. Studien Verl.  S. 19-27.</wels>
+<bio1>Tillmann K-J (1989) &lt;br /&gt;Mit dem neuen Boot in den falschen Hafen? Anmerkungen zur Schulreform der letzten 25 Jahre. &lt;br /&gt;In:  Schule auf dem Weg ins 21. Jahrhundert: Bilanz, Probleme, Perspektiven. Wenzel H (Ed); Weinheim: Dt. Studien Verl.:  19-27.</bio1>
+<aps>K. - J.  Tillmann, Mit dem neuen Boot in den falschen Hafen? Anmerkungen zur Schulreform der letzten 25 Jahre, in &lt;em&gt;Schule auf dem Weg ins 21. Jahrhundert: Bilanz, Probleme, Perspektiven&lt;/em&gt;, edited by H.  Wenzel (Dt. Studien Verl., Weinheim, 1989), p. 19-27.</aps>
+<ama>Tillmann K-J. Mit dem neuen Boot in den falschen Hafen? Anmerkungen zur Schulreform der letzten 25 Jahre. In: Wenzel H, ed. &lt;em&gt;Schule auf dem Weg ins 21. Jahrhundert: Bilanz, Probleme, Perspektiven&lt;/em&gt;. Weinheim: Dt. Studien Verl.;  1989: 19-27.</ama>
+<harvard1>Tillmann, K.-J., 1989. Mit dem neuen Boot in den falschen Hafen? Anmerkungen zur Schulreform der letzten 25 Jahre. In H.  Wenzel, ed. &lt;em&gt;Schule auf dem Weg ins 21. Jahrhundert: Bilanz, Probleme, Perspektiven&lt;/em&gt;.  Weinheim: Dt. Studien Verl., pp. 19-27.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Tillmann, K.-J. (1989). Mit dem neuen Boot in den falschen Hafen? Anmerkungen zur Schulreform der letzten 25 Jahre. &lt;em&gt;Schule auf dem Weg ins 21. Jahrhundert: Bilanz, Probleme, Perspektiven&lt;/em&gt; (S. 19-27). Weinheim: Dt. Studien Verl.&lt;/div&gt;</dgps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1777662</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1777662</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1777662</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,102 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>The canonical algebras (with an appendix by W. Crawley-Boevey)</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">William</namePart>
+  <namePart type="family">Crawley-Boevey</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Claus Michael</namePart>
+  <namePart type="family">Ringel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10583</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Stanislaw</namePart><namePart type="family">Balcerzyk</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Ringel_079.pdf">https://pub.uni-bielefeld.de/download/1775666/2311985</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Panstw. Wyd. Naukowe</publisher><dateIssued encoding="w3cdtf">1990</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Topics in algebra</title></titleInfo>
+  <identifier type="isbn">83-01-09579-2</identifier><identifier type="urn">urn:nbn:de:0070-bipr-9632</identifier>
+<part><detail type="volume"><number>1: Rings and representations of algebras</number></detail><extent unit="pages">407-432</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Crawley-Boevey, William, and Ringel, Claus Michael. 1990. “The canonical algebras (with an appendix by W. Crawley-Boevey)”. In &lt;em&gt;Topics in algebra&lt;/em&gt;, ed. Stanislaw Balcerzyk, 1: Rings and representations of algebras:407-432. Banach Center publications ; 26,1. Warszawa: Panstw. Wyd. Naukowe.&lt;/div&gt;</chicago>
+<frontiers>Crawley-Boevey, W., and Ringel, C. M. (1990). “The canonical algebras (with an appendix by W. Crawley-Boevey)” in &lt;em&gt;Topics in algebra&lt;/em&gt;, ed. S.  Balcerzyk Banach Center publications ; 26,1, vol. 1: Rings and representations of algebras, (Warszawa: Panstw. Wyd. Naukowe), 407-432.</frontiers>
+<apa>Crawley-Boevey, W., &amp;amp; Ringel, C. M. (1990). The canonical algebras (with an appendix by W. Crawley-Boevey). In S.  Balcerzyk (Ed.), &lt;em&gt;Banach Center publications ; 26,1: Vol. 1: Rings and representations of algebras&lt;/em&gt;&lt;em&gt;. Topics in algebra&lt;/em&gt; (pp. 407-432). Warszawa: Panstw. Wyd. Naukowe.</apa>
+<angewandte-chemie>W.  Crawley-Boevey, and C. M.  Ringel, in &lt;em&gt;Topics in algebra&lt;/em&gt; (Ed.: S. Balcerzyk), Panstw. Wyd. Naukowe, Warszawa, &lt;strong&gt;1990&lt;/strong&gt;, p. 407-432.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Crawley-Boevey, W., &amp;amp; Ringel, C. M. (1990). The canonical algebras (with an appendix by W. Crawley-Boevey). In S.  Balcerzyk (Ed.), &lt;em&gt;Banach Center publications ; 26,1: Vol. 1: Rings and representations of algebras&lt;/em&gt;&lt;em&gt;. Topics in algebra&lt;/em&gt; (pp. 407-432). Warszawa: Panstw. Wyd. Naukowe.&lt;/div&gt;</apa_indent>
+<mla>Crawley-Boevey, William, and Ringel, Claus Michael. “The canonical algebras (with an appendix by W. Crawley-Boevey)”. &lt;em&gt;Topics in algebra&lt;/em&gt;. Ed. Stanislaw Balcerzyk. Warszawa: Panstw. Wyd. Naukowe, 1990.Vol. 1: Rings and representations of algebras. Banach Center publications ; 26,1. 407-432.</mla>
+<lncs>Crawley-Boevey, W., Ringel, C.M.: The canonical algebras (with an appendix by W. Crawley-Boevey). In: Balcerzyk, S. (ed.) Topics in algebra. Banach Center publications ; 26,1. 1: Rings and representations of algebras, p. 407-432. Panstw. Wyd. Naukowe, Warszawa (1990).</lncs>
+<ieee>W. Crawley-Boevey and C.M. Ringel, “The canonical algebras (with an appendix by W. Crawley-Boevey)”, &lt;em&gt;Topics in algebra&lt;/em&gt;, S. Balcerzyk, ed., Banach Center publications ; 26,1, vol. 1: Rings and representations of algebras,  Warszawa: Panstw. Wyd. Naukowe, 1990,  pp.407-432.</ieee>
+<default>Crawley-Boevey W, Ringel CM (1990)  &lt;br /&gt;In:  Topics in algebra. Balcerzyk S (Ed); Banach Center publications ; 26,1, 1: Rings and representations of algebras. Warszawa: Panstw. Wyd. Naukowe:  407-432.</default>
+<wels>Crawley-Boevey, W.; Ringel, C. M. (1990): The canonical algebras (with an appendix by W. Crawley-Boevey). In: Stanislaw Balcerzyk (Hrsg.):  Topics in algebra. Warszawa: Panstw. Wyd. Naukowe. (Banach Center publications ; 26,1, 1: Rings and representations of algebras).  S. 407-432.</wels>
+<bio1>Crawley-Boevey W, Ringel CM (1990) &lt;br /&gt;The canonical algebras (with an appendix by W. Crawley-Boevey). &lt;br /&gt;In:  Topics in algebra. Balcerzyk S (Ed); Banach Center publications ; 26,1, 1: Rings and representations of algebras. Warszawa: Panstw. Wyd. Naukowe:  407-432.</bio1>
+<aps>W.  Crawley-Boevey and C. M.  Ringel, The canonical algebras (with an appendix by W. Crawley-Boevey), in &lt;em&gt;Topics in algebra&lt;/em&gt;, edited by S.  Balcerzyk, Banach Center publications ; 26,1, &lt;strong&gt;1: Rings and representations of algebras&lt;/strong&gt; (Panstw. Wyd. Naukowe, Warszawa, 1990), p. 407-432.</aps>
+<ama>Crawley-Boevey W, Ringel CM. The canonical algebras (with an appendix by W. Crawley-Boevey). In: Balcerzyk S, ed. &lt;em&gt;Topics in algebra&lt;/em&gt;. Banach Center publications ; 26,1. Vol 1: Rings and representations of algebras. Warszawa: Panstw. Wyd. Naukowe;  1990: 407-432.</ama>
+<harvard1>Crawley-Boevey, W., &amp;amp; Ringel, C.M., 1990. The canonical algebras (with an appendix by W. Crawley-Boevey). In S.  Balcerzyk, ed. &lt;em&gt;Topics in algebra&lt;/em&gt;. Banach Center publications ; 26,1. no.1: Rings and representations of algebras  Warszawa: Panstw. Wyd. Naukowe, pp. 407-432.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Crawley-Boevey, W. &amp;amp; Ringel, C.M. (1990). The canonical algebras (with an appendix by W. Crawley-Boevey) (Banach Center publications ; 26,1). &lt;em&gt;Topics in algebra&lt;/em&gt; (S. 407-432). Warszawa: Panstw. Wyd. Naukowe.&lt;/div&gt;</dgps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1775666</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1775666</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1775666</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

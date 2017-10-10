@@ -1,0 +1,119 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>C-70 dimers - Energetics and topology</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">CL</namePart>
+  <namePart type="family">Nagy</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Stefu</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">MV</namePart>
+  <namePart type="family">Diudea</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Dress</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Achim</namePart>
+  <namePart type="family">Müller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20118</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0003-0117-4021</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Chemie</namePart>
+  <identifier type="unibi">10018</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Anorganische Chemie I</namePart>
+  <identifier type="unibi">17964</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">All sp(2) peanut-shaped dimeric fullerenes derived from D-5h C-70 are modeled. Construction of the isomers was monitored by a cyclic permutation of bonds in the linking zone of the two caps resulting from deleting the boundary of a face from the parent C-70 fullerene. Local curvature was calculated in terms of both angular defects and strain energy. Topological equivalence classes of the constituent substructures were evaluated by calculating the topological indices of the parent cages, their medials and duals. Detailed network transformation, starting from C-70, through sp(3) dimer, peanut sp(2) dimer, up to the corresponding tubulene is given. Semiempirical calculations showed a monotonic decrease in the heat of formation along the above pathway.</abstract>
+
+<originInfo><publisher>CROATIAN CHEMICAL SOC</publisher><dateIssued encoding="w3cdtf">2004</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>dimeric fullerenes</topic><topic>sp(2) dimers</topic><topic>sp(2) tubulene</topic><topic>dimer topology</topic><topic>sp(3) adducts</topic><topic>C-70-peanut dimers</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>CROATICA CHEMICA ACTA</title></titleInfo>
+  <identifier type="issn">0011-1643</identifier>
+  <identifier type="ISI">000225056000007</identifier>
+<part><detail type="volume"><number>77</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">457-464</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>C. L.  Nagy, et al., C-70 dimers - Energetics and topology, in &lt;em&gt;CROATICA CHEMICA ACTA&lt;/em&gt;, &lt;strong&gt;77&lt;/strong&gt; (CROATIAN CHEMICAL SOC, 2004), p. 457-464.</aps>
+<bio1>Nagy CL, Stefu M, Diudea MV, Dress A, Müller A (2004) &lt;br /&gt;C-70 dimers - Energetics and topology. &lt;br /&gt;In:  CROATICA CHEMICA ACTA. 77. CROATIAN CHEMICAL SOC:  457-464.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Nagy, C.L., Stefu, M., Diudea, M.V., Dress, A. &amp;amp; Müller, A. (2004). C-70 dimers - Energetics and topology. &lt;em&gt;CROATICA CHEMICA ACTA&lt;/em&gt; (S. 457-464). CROATIAN CHEMICAL SOC.&lt;/div&gt;</dgps>
+<harvard1>Nagy, C.L., et al., 2004. C-70 dimers - Energetics and topology. In &lt;em&gt;CROATICA CHEMICA ACTA&lt;/em&gt;. no.77  CROATIAN CHEMICAL SOC, pp. 457-464.</harvard1>
+<ama>Nagy CL, Stefu M, Diudea MV, Dress A, Müller A. C-70 dimers - Energetics and topology. In:  &lt;em&gt;CROATICA CHEMICA ACTA&lt;/em&gt;. Vol 77. CROATIAN CHEMICAL SOC;  2004: 457-464.</ama>
+<default>Nagy CL, Stefu M, Diudea MV, Dress A, Müller A (2004)  &lt;br /&gt;In:  CROATICA CHEMICA ACTA. 77. CROATIAN CHEMICAL SOC:  457-464.</default>
+<wels>Nagy, C. L.; Stefu, M.; Diudea, M. V.; Dress, A.; Müller, A. (2004): C-70 dimers - Energetics and topology. In: CROATICA CHEMICA ACTA. CROATIAN CHEMICAL SOC. (77).  S. 457-464.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Nagy, C. L., Stefu, M., Diudea, M. V., Dress, A., &amp;amp; Müller, A. (2004). C-70 dimers - Energetics and topology. &lt;em&gt;CROATICA CHEMICA ACTA&lt;/em&gt;, &lt;em&gt;77&lt;/em&gt;(3), 457-464.&lt;/div&gt;</apa_indent>
+<mla>Nagy, CL, Stefu, M, Diudea, MV, Dress, Andreas, and Müller, Achim. “C-70 dimers - Energetics and topology”. &lt;em&gt;CROATICA CHEMICA ACTA&lt;/em&gt;. CROATIAN CHEMICAL SOC, 2004.Vol. 77. 457-464.</mla>
+<lncs>Nagy, C.L., Stefu, M., Diudea, M.V., Dress, A., Müller, A.: C-70 dimers - Energetics and topology. CROATICA CHEMICA ACTA. 77, p. 457-464. CROATIAN CHEMICAL SOC (2004).</lncs>
+<ieee>C.L. Nagy, et al., “C-70 dimers - Energetics and topology”, &lt;em&gt;CROATICA CHEMICA ACTA&lt;/em&gt;, vol. 77, CROATIAN CHEMICAL SOC, 2004,  pp.457-464.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Nagy, CL, Stefu, M, Diudea, MV, Dress, Andreas, and Müller, Achim. 2004. “C-70 dimers - Energetics and topology”. In &lt;em&gt;CROATICA CHEMICA ACTA&lt;/em&gt;, 77:457-464. CROATIAN CHEMICAL SOC.&lt;/div&gt;</chicago>
+<frontiers>Nagy, C. L., Stefu, M., Diudea, M. V., Dress, A., and Müller, A. (2004). “C-70 dimers - Energetics and topology” in &lt;em&gt;CROATICA CHEMICA ACTA&lt;/em&gt;, vol. 77, (CROATIAN CHEMICAL SOC), 457-464.</frontiers>
+<angewandte-chemie>C. L.  Nagy, M.  Stefu, M. V.  Diudea, A.  Dress, and A.  Müller, in &lt;em&gt;CROATICA CHEMICA ACTA&lt;/em&gt;, Croatian Chemical Soc, &lt;strong&gt;2004&lt;/strong&gt;, p. 457-464.</angewandte-chemie>
+<apa>Nagy, C. L., Stefu, M., Diudea, M. V., Dress, A., &amp;amp; Müller, A. (2004). C-70 dimers - Energetics and topology. &lt;em&gt;CROATICA CHEMICA ACTA&lt;/em&gt;, &lt;em&gt;77&lt;/em&gt;(3), 457-464.</apa>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1605989</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:41:00Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-11-10T12:24:43Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1605989</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1605989</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,118 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Experimentelle Neurolinguistik</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Horst M.</namePart>
+  <namePart type="family">Müller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11733</identifier></name>
+<name type="personal">
+  <namePart type="given">Sabine</namePart>
+  <namePart type="family">Weiss</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">89444</identifier></name>
+<name type="personal">
+  <namePart type="given">Gert</namePart>
+  <namePart type="family">Rickheit</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11746</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">J.</namePart><namePart type="family">Berndsen</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">C.</namePart><namePart type="family">Doppler</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">D.</namePart><namePart type="family">Gibbon</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">I.</namePart><namePart type="family">Hudabiunigg</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">H.</namePart><namePart type="family">Lobin</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">J.-T.</namePart><namePart type="family">Milde</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Horst M.</namePart><namePart type="family">Müller</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Lorenz</namePart><namePart type="family">Sichelschmidt</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">C.</namePart><namePart type="family">Stolz</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Hans</namePart><namePart type="family">Strohner</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Arbeitsgruppe Experimentelle Neurolinguistik</namePart>
+  <identifier type="unibi">7388525</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Aisthesis Verlag</publisher><dateIssued encoding="w3cdtf">1997</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Linguistik: Die Bielefelder Sicht</title></titleInfo>
+  <identifier type="isbn">3-89528-189-1</identifier>
+<part><extent unit="pages">125-128</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Müller HM, Weiss S, Rickheit G (1997)  &lt;br /&gt;In:  Linguistik: Die Bielefelder Sicht. Berndsen  J, Doppler C, Gibbon D, Hudabiunigg I, Lobin H, Milde J-T, Müller HM, Sichelschmidt L, Stolz C, Strohner H (Eds);Bielefeld: Aisthesis Verlag:  125-128.</default>
+<wels>Müller, H. M.; Weiss, S.; Rickheit, G. (1997): Experimentelle Neurolinguistik. In: J. Berndsen; C. Doppler; D. Gibbon; I. Hudabiunigg; H. Lobin; J.-T. Milde; Horst M. Müller; Lorenz Sichelschmidt; C. Stolz; Hans Strohner (Hrsg.):  Linguistik: Die Bielefelder Sicht. Bielefeld: Aisthesis Verlag.  S. 125-128.</wels>
+<aps>H. M.  Müller, S.  Weiss, and G.  Rickheit, Experimentelle Neurolinguistik, in &lt;em&gt;Linguistik: Die Bielefelder Sicht&lt;/em&gt;, edited by J.  Berndsen, et al. (Aisthesis Verlag, Bielefeld, 1997), p. 125-128.</aps>
+<bio1>Müller HM, Weiss S, Rickheit G (1997) &lt;br /&gt;Experimentelle Neurolinguistik. &lt;br /&gt;In:  Linguistik: Die Bielefelder Sicht. Berndsen  J, Doppler C, Gibbon D, Hudabiunigg I, Lobin H, Milde J-T, Müller HM, Sichelschmidt L, Stolz C, Strohner H (Eds); Bielefeld: Aisthesis Verlag:  125-128.</bio1>
+<harvard1>Müller, H.M., Weiss, S., &amp;amp; Rickheit, G., 1997. Experimentelle Neurolinguistik. In J.  Berndsen, et al., eds. &lt;em&gt;Linguistik: Die Bielefelder Sicht&lt;/em&gt;.  Bielefeld: Aisthesis Verlag, pp. 125-128.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, H.M., Weiss, S. &amp;amp; Rickheit, G. (1997). Experimentelle Neurolinguistik. &lt;em&gt;Linguistik: Die Bielefelder Sicht&lt;/em&gt; (S. 125-128). Bielefeld: Aisthesis Verlag.&lt;/div&gt;</dgps>
+<ama>Müller HM, Weiss S, Rickheit G. Experimentelle Neurolinguistik. In: Berndsen  J, Doppler C, Gibbon D, et al., eds. &lt;em&gt;Linguistik: Die Bielefelder Sicht&lt;/em&gt;. Bielefeld: Aisthesis Verlag;  1997: 125-128.</ama>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, Horst M., Weiss, Sabine, and Rickheit, Gert. 1997. “Experimentelle Neurolinguistik”. In &lt;em&gt;Linguistik: Die Bielefelder Sicht&lt;/em&gt;, ed. J. Berndsen, C. Doppler, D. Gibbon, I. Hudabiunigg, H. Lobin, J.-T. Milde, Horst M. Müller, et al., 125-128. Bielefeld: Aisthesis Verlag.&lt;/div&gt;</chicago>
+<frontiers>Müller, H. M., Weiss, S., and Rickheit, G. (1997). “Experimentelle Neurolinguistik” in &lt;em&gt;Linguistik: Die Bielefelder Sicht&lt;/em&gt;, ed. J.  Berndsen, C.  Doppler, D.  Gibbon, I.  Hudabiunigg, H.  Lobin, J. - T.  Milde, H. M.  Müller, L.  Sichelschmidt, C.  Stolz, H.  Strohner, et al. (Bielefeld: Aisthesis Verlag), 125-128.</frontiers>
+<apa>Müller, H. M., Weiss, S., &amp;amp; Rickheit, G. (1997). Experimentelle Neurolinguistik. In J.  Berndsen, C.  Doppler, D.  Gibbon, I.  Hudabiunigg, H.  Lobin, J. - T.  Milde, H. M.  Müller, et al. (Eds.), &lt;em&gt;Linguistik: Die Bielefelder Sicht&lt;/em&gt; (pp. 125-128). Bielefeld: Aisthesis Verlag.</apa>
+<angewandte-chemie>H. M.  Müller, S.  Weiss, and G.  Rickheit, in &lt;em&gt;Linguistik: Die Bielefelder Sicht&lt;/em&gt; (Eds.: J. Berndsen, C. Doppler, D. Gibbon, I. Hudabiunigg, H. Lobin, J.-T. Milde, H.M. Müller, L. Sichelschmidt, C. Stolz, H. Strohner, et al.), Aisthesis Verlag, Bielefeld, &lt;strong&gt;1997&lt;/strong&gt;, p. 125-128.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, H. M., Weiss, S., &amp;amp; Rickheit, G. (1997). Experimentelle Neurolinguistik. In J.  Berndsen, C.  Doppler, D.  Gibbon, I.  Hudabiunigg, H.  Lobin, J. - T.  Milde, H. M.  Müller, et al. (Eds.), &lt;em&gt;Linguistik: Die Bielefelder Sicht&lt;/em&gt; (pp. 125-128). Bielefeld: Aisthesis Verlag.&lt;/div&gt;</apa_indent>
+<lncs>Müller, H.M., Weiss, S., Rickheit, G.: Experimentelle Neurolinguistik. In: Berndsen,  J., Doppler, C., Gibbon, D., Hudabiunigg, I., Lobin, H., Milde, J.-T., Müller, H.M., Sichelschmidt, L., Stolz, C., and Strohner, H. (eds.) Linguistik: Die Bielefelder Sicht. p. 125-128. Aisthesis Verlag, Bielefeld (1997).</lncs>
+<mla>Müller, Horst M., Weiss, Sabine, and Rickheit, Gert. “Experimentelle Neurolinguistik”. &lt;em&gt;Linguistik: Die Bielefelder Sicht&lt;/em&gt;. Ed. J. Berndsen, C. Doppler, D. Gibbon, I. Hudabiunigg, H. Lobin, J.-T. Milde, Horst M. Müller, Lorenz Sichelschmidt, C. Stolz, and Hans Strohner. Bielefeld: Aisthesis Verlag, 1997. 125-128.</mla>
+<ieee>H.M. Müller, S. Weiss, and G. Rickheit, “Experimentelle Neurolinguistik”, &lt;em&gt;Linguistik: Die Bielefelder Sicht&lt;/em&gt;, J. Berndsen, et al., eds.,  Bielefeld: Aisthesis Verlag, 1997,  pp.125-128.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1925612</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-12-03T09:42:54Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2013-04-05T16:51:07Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1925612</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1925612</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

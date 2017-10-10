@@ -1,0 +1,119 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>DECOMP - from interpreting mass spectrometry peaks to solving the money changing problem</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Sebastian</namePart>
+  <namePart type="family">Boecker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Zsuzsanna</namePart>
+  <namePart type="family">Lipták</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">164350</identifier></name>
+<name type="personal">
+  <namePart type="given">Marcel</namePart>
+  <namePart type="family">Martin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">164354</identifier></name>
+<name type="personal">
+  <namePart type="given">Anton</namePart>
+  <namePart type="family">Pervukhin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Henner</namePart>
+  <namePart type="family">Sudek</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Genominformatik</namePart>
+  <identifier type="unibi">66100</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We introduce DECOMP a tool that computes the sum formula of all molecules whose mass equals the input mass. This problem arises frequently in biochemistry and mass spectrometry (MS), when we know the molecular mass of a protein, DNA or metabolite fragment but have no other information. A closely related problem is known as the Money Changing Problem (MCP), where all masses are positive integers. Recently, efficient algorithms have been developed for the MCP, in which DECOMP applies to real-valued MS data. The excellent performance of this method on proteomic and metabolomic MS data has recently been demonstrated. DECOMP has an easy-to-use graphical interface, which caters for both types of users: those interested in solving MCP instances and those submitting MS data.</abstract>
+
+<originInfo><publisher>OXFORD UNIV PRESS</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>BIOINFORMATICS</title></titleInfo>
+  <identifier type="issn">1367-4803</identifier>
+  <identifier type="eIssn">1460-2059</identifier>
+  <identifier type="MEDLINE">18174179</identifier>
+  <identifier type="ISI">000253246300024</identifier><identifier type="doi">10.1093/bioinformatics/btm631</identifier>
+<part><detail type="volume"><number>24</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">591-593</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Boecker, Sebastian, Lipták, Zsuzsanna, Martin, Marcel, Pervukhin, Anton, and Sudek, Henner. 2008. “DECOMP - from interpreting mass spectrometry peaks to solving the money changing problem”. &lt;em&gt;BIOINFORMATICS&lt;/em&gt; 24 (4): 591-593.&lt;/div&gt;</chicago>
+<apa>Boecker, S., Lipták, Z., Martin, M., Pervukhin, A., &amp;amp; Sudek, H. (2008). DECOMP - from interpreting mass spectrometry peaks to solving the money changing problem. &lt;em&gt;BIOINFORMATICS&lt;/em&gt;, &lt;em&gt;24&lt;/em&gt;(4), 591-593.</apa>
+<angewandte-chemie>S.  Boecker, Z.  Lipták, M.  Martin, A.  Pervukhin, and H.  Sudek, “DECOMP - from interpreting mass spectrometry peaks to solving the money changing problem”, &lt;em&gt;BIOINFORMATICS&lt;/em&gt;, &lt;strong&gt;2008&lt;/strong&gt;, &lt;em&gt;24&lt;/em&gt;, 591-593.</angewandte-chemie>
+<frontiers>Boecker, S., Lipták, Z., Martin, M., Pervukhin, A., and Sudek, H. (2008). DECOMP - from interpreting mass spectrometry peaks to solving the money changing problem. &lt;em&gt;BIOINFORMATICS&lt;/em&gt; 24, 591-593.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Boecker, S., Lipták, Z., Martin, M., Pervukhin, A., &amp;amp; Sudek, H. (2008). DECOMP - from interpreting mass spectrometry peaks to solving the money changing problem. &lt;em&gt;BIOINFORMATICS&lt;/em&gt;, &lt;em&gt;24&lt;/em&gt;(4), 591-593.&lt;/div&gt;</apa_indent>
+<ieee>S. Boecker, et al., “DECOMP - from interpreting mass spectrometry peaks to solving the money changing problem”, &lt;em&gt;BIOINFORMATICS&lt;/em&gt;,  vol. 24, 2008,  pp. 591-593.</ieee>
+<lncs>Boecker, S., Lipták, Z., Martin, M., Pervukhin, A., Sudek, H.: DECOMP - from interpreting mass spectrometry peaks to solving the money changing problem. BIOINFORMATICS. 24, 591-593 (2008).</lncs>
+<mla>Boecker, Sebastian, Lipták, Zsuzsanna, Martin, Marcel, Pervukhin, Anton, and Sudek, Henner. “DECOMP - from interpreting mass spectrometry peaks to solving the money changing problem”. &lt;em&gt;BIOINFORMATICS&lt;/em&gt; 24.4 (2008): 591-593.</mla>
+<wels>Boecker, S.; Lipták, Z.; Martin, M.; Pervukhin, A.; Sudek, H. (2008): DECOMP - from interpreting mass spectrometry peaks to solving the money changing problem &lt;em&gt;BIOINFORMATICS&lt;/em&gt;,24:(4): 591-593.</wels>
+<default>Boecker S, Lipták Z, Martin M, Pervukhin A, Sudek H (2008) &lt;br /&gt;BIOINFORMATICS 24(4): 591-593.</default>
+<harvard1>Boecker, S., et al., 2008. DECOMP - from interpreting mass spectrometry peaks to solving the money changing problem. &lt;em&gt;BIOINFORMATICS&lt;/em&gt;, 24(4), p 591-593.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Boecker, S., Lipták, Z., Martin, M., Pervukhin, A. &amp;amp; Sudek, H. (2008). DECOMP - from interpreting mass spectrometry peaks to solving the money changing problem. &lt;em&gt;BIOINFORMATICS&lt;/em&gt;, &lt;em&gt;24&lt;/em&gt;(4), 591-593. OXFORD UNIV PRESS. doi:10.1093/bioinformatics/btm631.&lt;/div&gt;</dgps>
+<ama>Boecker S, Lipták Z, Martin M, Pervukhin A, Sudek H. DECOMP - from interpreting mass spectrometry peaks to solving the money changing problem. &lt;em&gt;BIOINFORMATICS&lt;/em&gt;. 2008;24(4):591-593.</ama>
+<bio1>Boecker S, Lipták Z, Martin M, Pervukhin A, Sudek H (2008) &lt;br /&gt;DECOMP - from interpreting mass spectrometry peaks to solving the money changing problem.&lt;br /&gt;BIOINFORMATICS 24(4): 591-593.</bio1>
+<aps>S.  Boecker, et al., DECOMP - from interpreting mass spectrometry peaks to solving the money changing problem, BIOINFORMATICS &lt;strong&gt;24&lt;/strong&gt;, 591-593 (2008).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1592737</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T11:50:48Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-10-13T11:43:51Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1592737</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1592737</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,113 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Nonvolatile field programmable spin-logic for reconfigurable computing</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">R</namePart>
+  <namePart type="family">Richter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">L</namePart>
+  <namePart type="family">Bär</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J</namePart>
+  <namePart type="family">Wecker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Günter</namePart>
+  <namePart type="family">Reiss</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40207</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-0918-5940</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">28536538</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We have fabricated field programmable spin-logic gates based on spin-dependent tunneling (SDT) elements. Here we show their feasibility down to a width of 0.6 mum of the SDT elements that form spin-logic gates. We further demonstrate the clocked operation of a hybrid spin-logic gate consisting of SDT elements and a semiconductor-based sense amplifier. Apart from the nonvolatility of the inputs, the output and the programming information, the experimentally demonstrated concept seems to be suitable for reconfigurable computing operations. (C) 2002 American Institute of Physics.</abstract>
+
+<originInfo><publisher>AMER INST PHYSICS</publisher><dateIssued encoding="w3cdtf">2002</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>APPLIED PHYSICS LETTERS</title></titleInfo>
+  <identifier type="issn">0003-6951</identifier>
+  <identifier type="ISI">000173896400061</identifier><identifier type="doi">10.1063/1.1449536</identifier>
+<part><detail type="volume"><number>80</number></detail><detail type="issue"><number>7</number></detail><extent unit="pages">1291-1293</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa>Richter, R., Bär, L., Wecker, J., &amp;amp; Reiss, G. (2002). Nonvolatile field programmable spin-logic for reconfigurable computing. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, &lt;em&gt;80&lt;/em&gt;(7), 1291-1293.</apa>
+<angewandte-chemie>R.  Richter, L.  Bär, J.  Wecker, and G.  Reiss, “Nonvolatile field programmable spin-logic for reconfigurable computing”, &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, &lt;strong&gt;2002&lt;/strong&gt;, &lt;em&gt;80&lt;/em&gt;, 1291-1293.</angewandte-chemie>
+<frontiers>Richter, R., Bär, L., Wecker, J., and Reiss, G. (2002). Nonvolatile field programmable spin-logic for reconfigurable computing. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt; 80, 1291-1293.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Richter, R, Bär, L, Wecker, J, and Reiss, Günter. 2002. “Nonvolatile field programmable spin-logic for reconfigurable computing”. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt; 80 (7): 1291-1293.&lt;/div&gt;</chicago>
+<ieee> R. Richter, et al., “Nonvolatile field programmable spin-logic for reconfigurable computing”, &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;,  vol. 80, 2002,  pp. 1291-1293.</ieee>
+<lncs> Richter, R., Bär, L., Wecker, J., Reiss, G.: Nonvolatile field programmable spin-logic for reconfigurable computing. APPLIED PHYSICS LETTERS. 80, 1291-1293 (2002).</lncs>
+<mla>Richter, R, Bär, L, Wecker, J, and Reiss, Günter. “Nonvolatile field programmable spin-logic for reconfigurable computing”. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt; 80.7 (2002): 1291-1293.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Richter, R., Bär, L., Wecker, J., &amp;amp; Reiss, G. (2002). Nonvolatile field programmable spin-logic for reconfigurable computing. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, &lt;em&gt;80&lt;/em&gt;(7), 1291-1293.&lt;/div&gt;</apa_indent>
+<wels>Richter, R.; Bär, L.; Wecker, J.; Reiss, G. (2002): Nonvolatile field programmable spin-logic for reconfigurable computing &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;,80:(7): 1291-1293.</wels>
+<default>Richter R, Bär L, Wecker J, Reiss G (2002) &lt;br /&gt;APPLIED PHYSICS LETTERS 80(7): 1291-1293.</default>
+<harvard1>Richter, R., et al., 2002. Nonvolatile field programmable spin-logic for reconfigurable computing. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, 80(7), p 1291-1293.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Richter, R., Bär, L., Wecker, J. &amp;amp; Reiss, G. (2002). Nonvolatile field programmable spin-logic for reconfigurable computing. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, &lt;em&gt;80&lt;/em&gt;(7), 1291-1293. AMER INST PHYSICS. doi:10.1063/1.1449536.&lt;/div&gt;</dgps>
+<ama>Richter R, Bär L, Wecker J, Reiss G. Nonvolatile field programmable spin-logic for reconfigurable computing. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;. 2002;80(7):1291-1293.</ama>
+<bio1>Richter R, Bär L, Wecker J, Reiss G (2002) &lt;br /&gt;Nonvolatile field programmable spin-logic for reconfigurable computing.&lt;br /&gt;APPLIED PHYSICS LETTERS 80(7): 1291-1293.</bio1>
+<aps> R.  Richter, et al., Nonvolatile field programmable spin-logic for reconfigurable computing, APPLIED PHYSICS LETTERS &lt;strong&gt;80&lt;/strong&gt;, 1291-1293 (2002).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1615372</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:01:52Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-09-21T13:19:21Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1615372</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1615372</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

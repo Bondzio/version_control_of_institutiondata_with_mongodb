@@ -1,0 +1,104 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Die internationale Zusammenarbeit bei der Bewältigung der Weltflüchtlingsprobleme</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Christoph</namePart>
+  <namePart type="family">Gusy</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21583</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Weltgesellschaft</namePart>
+  <identifier type="unibi">89044</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Fakultät für Rechtswissenschaft</namePart>
+  <identifier type="unibi">10029</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Gusy_018.pdf">https://pub.uni-bielefeld.de/download/1780195/2312769</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1980</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>AWR-Bulletin</title></titleInfo>
+  <identifier type="issn">0001-2947</identifier><identifier type="urn">urn:nbn:de:0070-bipr-19478</identifier>
+<part><detail type="volume"><number>18</number></detail><extent unit="pages">73-89</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Gusy C (1980) &lt;br /&gt;AWR-Bulletin 18: 73-89.</default>
+<wels>Gusy, C. (1980): Die internationale Zusammenarbeit bei der Bewältigung der Weltflüchtlingsprobleme &lt;em&gt;AWR-Bulletin&lt;/em&gt;,18: 73-89.</wels>
+<aps>C.  Gusy, Die internationale Zusammenarbeit bei der Bewältigung der Weltflüchtlingsprobleme, AWR-Bulletin &lt;strong&gt;18&lt;/strong&gt;, 73-89 (1980).</aps>
+<bio1>Gusy C (1980) &lt;br /&gt;Die internationale Zusammenarbeit bei der Bewältigung der Weltflüchtlingsprobleme.&lt;br /&gt;AWR-Bulletin 18: 73-89.</bio1>
+<harvard1>Gusy, C., 1980. Die internationale Zusammenarbeit bei der Bewältigung der Weltflüchtlingsprobleme. &lt;em&gt;AWR-Bulletin&lt;/em&gt;, 18, p 73-89.</harvard1>
+<ama>Gusy C. Die internationale Zusammenarbeit bei der Bewältigung der Weltflüchtlingsprobleme. &lt;em&gt;AWR-Bulletin&lt;/em&gt;. 1980;18:73-89.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gusy, C. (1980). Die internationale Zusammenarbeit bei der Bewältigung der Weltflüchtlingsprobleme. &lt;em&gt;AWR-Bulletin&lt;/em&gt;, &lt;em&gt;18&lt;/em&gt;, 73-89.&lt;/div&gt;</dgps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gusy, Christoph. 1980. “Die internationale Zusammenarbeit bei der Bewältigung der Weltflüchtlingsprobleme”. &lt;em&gt;AWR-Bulletin&lt;/em&gt; 18: 73-89.&lt;/div&gt;</chicago>
+<frontiers>Gusy, C. (1980). Die internationale Zusammenarbeit bei der Bewältigung der Weltflüchtlingsprobleme. &lt;em&gt;AWR-Bulletin&lt;/em&gt; 18, 73-89.</frontiers>
+<apa>Gusy, C. (1980). Die internationale Zusammenarbeit bei der Bewältigung der Weltflüchtlingsprobleme. &lt;em&gt;AWR-Bulletin&lt;/em&gt;, &lt;em&gt;18&lt;/em&gt;, 73-89.</apa>
+<angewandte-chemie>C.  Gusy, “Die internationale Zusammenarbeit bei der Bewältigung der Weltflüchtlingsprobleme”, &lt;em&gt;AWR-Bulletin&lt;/em&gt;, &lt;strong&gt;1980&lt;/strong&gt;, &lt;em&gt;18&lt;/em&gt;, 73-89.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gusy, C. (1980). Die internationale Zusammenarbeit bei der Bewältigung der Weltflüchtlingsprobleme. &lt;em&gt;AWR-Bulletin&lt;/em&gt;, &lt;em&gt;18&lt;/em&gt;, 73-89.&lt;/div&gt;</apa_indent>
+<mla>Gusy, Christoph. “Die internationale Zusammenarbeit bei der Bewältigung der Weltflüchtlingsprobleme”. &lt;em&gt;AWR-Bulletin&lt;/em&gt; 18 (1980): 73-89.</mla>
+<lncs>Gusy, C.: Die internationale Zusammenarbeit bei der Bewältigung der Weltflüchtlingsprobleme. AWR-Bulletin. 18, 73-89 (1980).</lncs>
+<ieee>C. Gusy, “Die internationale Zusammenarbeit bei der Bewältigung der Weltflüchtlingsprobleme”, &lt;em&gt;AWR-Bulletin&lt;/em&gt;,  vol. 18, 1980,  pp. 73-89.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780195</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780195</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780195</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

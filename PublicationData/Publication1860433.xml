@@ -1,0 +1,92 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Wissenschaftspropädeutik - Folgerungen für Lehrplan und Fachunterricht</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Hans-Ulrich</namePart>
+  <namePart type="family">Musolff</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21745</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Gerhard</namePart><namePart type="family">Mertens</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">7978103</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Schöningh</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Handbuch der Erziehungswissenschaft. Bd. 2: Schule</title></titleInfo>
+  <identifier type="isbn">978-3-506-76496-6</identifier>
+<part><extent unit="pages">329-338</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Musolff H-U (2009)  &lt;br /&gt;In:  Handbuch der Erziehungswissenschaft. Bd. 2: Schule. Mertens G (Ed);Paderborn : Schöningh:  329-338.</default>
+<wels>Musolff, H. - U. (2009): Wissenschaftspropädeutik - Folgerungen für Lehrplan und Fachunterricht. In: Gerhard Mertens (Hrsg.):  Handbuch der Erziehungswissenschaft. Bd. 2: Schule. Paderborn : Schöningh.  S. 329-338.</wels>
+<aps>H. - U.  Musolff, Wissenschaftspropädeutik - Folgerungen für Lehrplan und Fachunterricht, in &lt;em&gt;Handbuch der Erziehungswissenschaft. Bd. 2: Schule&lt;/em&gt;, edited by G.  Mertens (Schöningh, Paderborn , 2009), p. 329-338.</aps>
+<bio1>Musolff H-U (2009) &lt;br /&gt;Wissenschaftspropädeutik - Folgerungen für Lehrplan und Fachunterricht. &lt;br /&gt;In:  Handbuch der Erziehungswissenschaft. Bd. 2: Schule. Mertens G (Ed); Paderborn : Schöningh:  329-338.</bio1>
+<ama>Musolff H-U. Wissenschaftspropädeutik - Folgerungen für Lehrplan und Fachunterricht. In: Mertens G, ed. &lt;em&gt;Handbuch der Erziehungswissenschaft. Bd. 2: Schule&lt;/em&gt;. Paderborn : Schöningh;  2009: 329-338.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Musolff, H.-U. (2009). Wissenschaftspropädeutik - Folgerungen für Lehrplan und Fachunterricht. &lt;em&gt;Handbuch der Erziehungswissenschaft. Bd. 2: Schule&lt;/em&gt; (S. 329-338). Paderborn : Schöningh.&lt;/div&gt;</dgps>
+<harvard1>Musolff, H.-U., 2009. Wissenschaftspropädeutik - Folgerungen für Lehrplan und Fachunterricht. In G.  Mertens, ed. &lt;em&gt;Handbuch der Erziehungswissenschaft. Bd. 2: Schule&lt;/em&gt;.  Paderborn : Schöningh, pp. 329-338.</harvard1>
+<frontiers>Musolff, H. - U. (2009). “Wissenschaftspropädeutik - Folgerungen für Lehrplan und Fachunterricht” in &lt;em&gt;Handbuch der Erziehungswissenschaft. Bd. 2: Schule&lt;/em&gt;, ed. G.  Mertens (Paderborn : Schöningh), 329-338.</frontiers>
+<angewandte-chemie>H. - U.  Musolff, in &lt;em&gt;Handbuch der Erziehungswissenschaft. Bd. 2: Schule&lt;/em&gt; (Ed.: G. Mertens), Schöningh, Paderborn , &lt;strong&gt;2009&lt;/strong&gt;, p. 329-338.</angewandte-chemie>
+<apa>Musolff, H. - U. (2009). Wissenschaftspropädeutik - Folgerungen für Lehrplan und Fachunterricht. In G.  Mertens (Ed.), &lt;em&gt;Handbuch der Erziehungswissenschaft. Bd. 2: Schule&lt;/em&gt; (pp. 329-338). Paderborn : Schöningh.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Musolff, Hans-Ulrich. 2009. “Wissenschaftspropädeutik - Folgerungen für Lehrplan und Fachunterricht”. In &lt;em&gt;Handbuch der Erziehungswissenschaft. Bd. 2: Schule&lt;/em&gt;, ed. Gerhard Mertens, 329-338. Paderborn : Schöningh.&lt;/div&gt;</chicago>
+<lncs>Musolff, H.-U.: Wissenschaftspropädeutik - Folgerungen für Lehrplan und Fachunterricht. In: Mertens, G. (ed.) Handbuch der Erziehungswissenschaft. Bd. 2: Schule. p. 329-338. Schöningh, Paderborn  (2009).</lncs>
+<mla>Musolff, Hans-Ulrich. “Wissenschaftspropädeutik - Folgerungen für Lehrplan und Fachunterricht”. &lt;em&gt;Handbuch der Erziehungswissenschaft. Bd. 2: Schule&lt;/em&gt;. Ed. Gerhard Mertens. Paderborn : Schöningh, 2009. 329-338.</mla>
+<ieee>H.-U. Musolff, “Wissenschaftspropädeutik - Folgerungen für Lehrplan und Fachunterricht”, &lt;em&gt;Handbuch der Erziehungswissenschaft. Bd. 2: Schule&lt;/em&gt;, G. Mertens, ed.,  Paderborn : Schöningh, 2009,  pp.329-338.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Musolff, H. - U. (2009). Wissenschaftspropädeutik - Folgerungen für Lehrplan und Fachunterricht. In G.  Mertens (Ed.), &lt;em&gt;Handbuch der Erziehungswissenschaft. Bd. 2: Schule&lt;/em&gt; (pp. 329-338). Paderborn : Schöningh.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1860433</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-02-15T10:50:27Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-02-15T10:50:27Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1860433</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1860433</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

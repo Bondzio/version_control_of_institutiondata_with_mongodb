@@ -1,0 +1,97 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>New relations between territory and space: changing borders in Western Europe and North America.</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Mathias</namePart>
+  <namePart type="family">Albert</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">24825</identifier></name>
+<name type="personal">
+  <namePart type="given">Lothar</namePart>
+  <namePart type="family">Brock</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">David</namePart><namePart type="family">Spener</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Kathleen</namePart><namePart type="family">Staudt</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Arbeitsbereich 4 - Politik und Gesellschaft</namePart>
+  <identifier type="unibi">5656050</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Lynne Rienner</publisher><dateIssued encoding="w3cdtf">1998</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>The U.S.-Mexico Border. Transcending Divisions, Contesting Identities.</title></titleInfo>
+<part><extent unit="pages">215-232</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Albert, Mathias, and Brock, Lothar. 1998. “New relations between territory and space: changing borders in Western Europe and North America.”. In &lt;em&gt;The U.S.-Mexico Border. Transcending Divisions, Contesting Identities.&lt;/em&gt;, ed. David Spener and Kathleen Staudt, 215-232. Boulder: Lynne Rienner.&lt;/div&gt;</chicago>
+<frontiers>Albert, M., and Brock, L. (1998). “New relations between territory and space: changing borders in Western Europe and North America.” in &lt;em&gt;The U.S.-Mexico Border. Transcending Divisions, Contesting Identities.&lt;/em&gt;, ed. D.  Spener and K.  Staudt (Boulder: Lynne Rienner), 215-232.</frontiers>
+<apa>Albert, M., &amp;amp; Brock, L. (1998). New relations between territory and space: changing borders in Western Europe and North America. In D.  Spener &amp;amp; K.  Staudt (Eds.), &lt;em&gt;The U.S.-Mexico Border. Transcending Divisions, Contesting Identities.&lt;/em&gt; (pp. 215-232). Boulder: Lynne Rienner.</apa>
+<angewandte-chemie>M.  Albert, and L.  Brock, in &lt;em&gt;The U.S.-Mexico Border. Transcending Divisions, Contesting Identities.&lt;/em&gt; (Eds.: D. Spener, K. Staudt), Lynne Rienner, Boulder, &lt;strong&gt;1998&lt;/strong&gt;, p. 215-232.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Albert, M., &amp;amp; Brock, L. (1998). New relations between territory and space: changing borders in Western Europe and North America. In D.  Spener &amp;amp; K.  Staudt (Eds.), &lt;em&gt;The U.S.-Mexico Border. Transcending Divisions, Contesting Identities.&lt;/em&gt; (pp. 215-232). Boulder: Lynne Rienner.&lt;/div&gt;</apa_indent>
+<mla>Albert, Mathias, and Brock, Lothar. “New relations between territory and space: changing borders in Western Europe and North America.”. &lt;em&gt;The U.S.-Mexico Border. Transcending Divisions, Contesting Identities.&lt;/em&gt; Ed. David Spener and Kathleen Staudt. Boulder: Lynne Rienner, 1998. 215-232.</mla>
+<lncs>Albert, M., Brock, L.: New relations between territory and space: changing borders in Western Europe and North America. In: Spener, D. and Staudt, K. (eds.) The U.S.-Mexico Border. Transcending Divisions, Contesting Identities. p. 215-232. Lynne Rienner, Boulder (1998).</lncs>
+<ieee>M. Albert and L. Brock, “New relations between territory and space: changing borders in Western Europe and North America.”, &lt;em&gt;The U.S.-Mexico Border. Transcending Divisions, Contesting Identities.&lt;/em&gt;, D. Spener and K. Staudt, eds.,  Boulder: Lynne Rienner, 1998,  pp.215-232.</ieee>
+<default>Albert M, Brock L (1998)  &lt;br /&gt;In:  The U.S.-Mexico Border. Transcending Divisions, Contesting Identities. Spener D, Staudt K (Eds);Boulder: Lynne Rienner:  215-232.</default>
+<wels>Albert, M.; Brock, L. (1998): New relations between territory and space: changing borders in Western Europe and North America. In: David Spener; Kathleen Staudt (Hrsg.):  The U.S.-Mexico Border. Transcending Divisions, Contesting Identities.. Boulder: Lynne Rienner.  S. 215-232.</wels>
+<aps>M.  Albert and L.  Brock, New relations between territory and space: changing borders in Western Europe and North America., in &lt;em&gt;The U.S.-Mexico Border. Transcending Divisions, Contesting Identities.&lt;/em&gt;, edited by D.  Spener and K.  Staudt (Lynne Rienner, Boulder, 1998), p. 215-232.</aps>
+<bio1>Albert M, Brock L (1998) &lt;br /&gt;New relations between territory and space: changing borders in Western Europe and North America. &lt;br /&gt;In:  The U.S.-Mexico Border. Transcending Divisions, Contesting Identities. Spener D, Staudt K (Eds); Boulder: Lynne Rienner:  215-232.</bio1>
+<harvard1>Albert, M., &amp;amp; Brock, L., 1998. New relations between territory and space: changing borders in Western Europe and North America. In D.  Spener &amp;amp; K.  Staudt, eds. &lt;em&gt;The U.S.-Mexico Border. Transcending Divisions, Contesting Identities.&lt;/em&gt;  Boulder: Lynne Rienner, pp. 215-232.</harvard1>
+<ama>Albert M, Brock L. New relations between territory and space: changing borders in Western Europe and North America. In: Spener D, Staudt K, eds. &lt;em&gt;The U.S.-Mexico Border. Transcending Divisions, Contesting Identities.&lt;/em&gt; Boulder: Lynne Rienner;  1998: 215-232.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Albert, M. &amp;amp; Brock, L. (1998). New relations between territory and space: changing borders in Western Europe and North America. &lt;em&gt;The U.S.-Mexico Border. Transcending Divisions, Contesting Identities.&lt;/em&gt; (S. 215-232). Boulder: Lynne Rienner.&lt;/div&gt;</dgps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1921728</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-11-29T11:22:45Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-02T19:30:36Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1921728</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1921728</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

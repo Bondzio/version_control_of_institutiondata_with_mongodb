@@ -1,0 +1,129 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The trinuclear gallium-bridged ferrocenophane [{Fe(eta(5)-C5H4)(2)}(3)Ga-2]: Synthesis, bonding, structure, and coordination chemistry</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Alexander</namePart>
+  <namePart type="family">Althoff</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Dirk</namePart>
+  <namePart type="family">Eisner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Peter</namePart>
+  <namePart type="family">Jutzi</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20144</identifier></name>
+<name type="personal">
+  <namePart type="given">Norman</namePart>
+  <namePart type="family">Lenze</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Beate</namePart>
+  <namePart type="family">Neumann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Wolfgang</namePart>
+  <namePart type="family">Schoeller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20336</identifier></name>
+<name type="personal">
+  <namePart type="given">Hans-Georg</namePart>
+  <namePart type="family">Stammler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20167</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Anorganische Chemie und Strukturchemie</namePart>
+  <identifier type="unibi">17966</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Theoretische Chemie</namePart>
+  <identifier type="unibi">17982</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The trinuclear ferrocenophane [{Fe(eta(5)-C5H4)(3)}(2)Ga-2] (3) featuring two sp(2)-hybridized gallium atoms in bridging positions between three ferrocene-1,1&apos;-diyl units represents a novel type of ferrocene derivative. Compound 3 is obtained by thermal treatment of 1,1&apos;-bis(dimethylgallyl)ferrocene (1) in nondonor solvents or in diethyl ether as solvent and subsequent thermal decomplexation. The [1.1]ferrocenophane [{Fe(eta(5)-C5H4)(2)}(2){GaMe}(2)] (2) is an intermediate in the formation of 3. The reaction of 3 with an excess of trimethylgallium leads back to 1 and proves the reversibility of the multistep reaction sequence. Theoretical calculations reveal a carousel-type D-3h structure for 3. The compound can best be described as being composed of three only weakly interacting ferrocenediyl units covalently connected by gallium atoms without any pi-bond contribution in the Ga-C bonds. Owing to steric constraints 3 cannot be reduced to the dianion 3(2-), which would feature a Ga-Ga bond. Compound 3 represents a stereochemically rigid difunctional Lewis acid allowing the formation of the adducts 3a-3d possessing linear donor-aceptor-aceptor-donor arrangements. Crystal structure data for 3a-3d show a symmetry-reduced chiral ferrocenophane core (D-3h -&gt; D-3). A polymeric rodlike structure is observed for 3b and 3d caused by it-stacking effects (3b) or by a difunctional donor-acceptor interaction (3d). In solution, the chirality of the adducts is lost by rapid interconversion of the enantiomers. A cyclic voltammogram of 3b in pyridine reveals three quasi-reversible oxidation steps at -356, -154, and 8 mV, indicating only weak electron delocalization in the cationic species. The redox potentials of the pyridine adduct 3b are compared with those of other pyridine-stabilized gallyl-sustituted ferrocene derivatives and with ferrocene itself.</abstract>
+
+<originInfo><publisher>WILEY-V C H VERLAG GMBH</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>electrochemistry</topic><topic>ELF (electron</topic><topic>localization function)</topic><topic>organogallium compounds</topic><topic>dynamic covalent chemistry</topic><topic>metallocenes</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>CHEMISTRY-A EUROPEAN JOURNAL</title></titleInfo>
+  <identifier type="issn">0947-6539</identifier>
+  <identifier type="eIssn">1521-3765</identifier>
+  <identifier type="MEDLINE">16680791</identifier>
+  <identifier type="ISI">000239325400009</identifier><identifier type="doi">10.1002/chem.200600218</identifier>
+<part><detail type="volume"><number>12</number></detail><detail type="issue"><number>21</number></detail><extent unit="pages">5471-5480</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Althoff A, Eisner D, Jutzi P, Lenze N, Neumann B, Schoeller W, Stammler H-G (2006) &lt;br /&gt;CHEMISTRY-A EUROPEAN JOURNAL 12(21): 5471-5480.</default>
+<wels>Althoff, A.; Eisner, D.; Jutzi, P.; Lenze, N.; Neumann, B.; Schoeller, W.; Stammler, H. - G. (2006): The trinuclear gallium-bridged ferrocenophane [{Fe(eta(5)-C5H4)(2)}(3)Ga-2]: Synthesis, bonding, structure, and coordination chemistry &lt;em&gt;CHEMISTRY-A EUROPEAN JOURNAL&lt;/em&gt;,12:(21): 5471-5480.</wels>
+<bio1>Althoff A, Eisner D, Jutzi P, Lenze N, Neumann B, Schoeller W, Stammler H-G (2006) &lt;br /&gt;The trinuclear gallium-bridged ferrocenophane [{Fe(eta(5)-C5H4)(2)}(3)Ga-2]: Synthesis, bonding, structure, and coordination chemistry.&lt;br /&gt;CHEMISTRY-A EUROPEAN JOURNAL 12(21): 5471-5480.</bio1>
+<aps>A.  Althoff, et al., The trinuclear gallium-bridged ferrocenophane [{Fe(eta(5)-C5H4)(2)}(3)Ga-2]: Synthesis, bonding, structure, and coordination chemistry, CHEMISTRY-A EUROPEAN JOURNAL &lt;strong&gt;12&lt;/strong&gt;, 5471-5480 (2006).</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Althoff, A., Eisner, D., Jutzi, P., Lenze, N., Neumann, B., Schoeller, W. &amp;amp; Stammler, H.-G. (2006). The trinuclear gallium-bridged ferrocenophane [{Fe(eta(5)-C5H4)(2)}(3)Ga-2]: Synthesis, bonding, structure, and coordination chemistry. &lt;em&gt;CHEMISTRY-A EUROPEAN JOURNAL&lt;/em&gt;, &lt;em&gt;12&lt;/em&gt;(21), 5471-5480. WILEY-V C H VERLAG GMBH. doi:10.1002/chem.200600218.&lt;/div&gt;</dgps>
+<harvard1>Althoff, A., et al., 2006. The trinuclear gallium-bridged ferrocenophane [{Fe(eta(5)-C5H4)(2)}(3)Ga-2]: Synthesis, bonding, structure, and coordination chemistry. &lt;em&gt;CHEMISTRY-A EUROPEAN JOURNAL&lt;/em&gt;, 12(21), p 5471-5480.</harvard1>
+<ama>Althoff A, Eisner D, Jutzi P, et al. The trinuclear gallium-bridged ferrocenophane [{Fe(eta(5)-C5H4)(2)}(3)Ga-2]: Synthesis, bonding, structure, and coordination chemistry. &lt;em&gt;CHEMISTRY-A EUROPEAN JOURNAL&lt;/em&gt;. 2006;12(21):5471-5480.</ama>
+<frontiers>Althoff, A., Eisner, D., Jutzi, P., Lenze, N., Neumann, B., Schoeller, W., and Stammler, H. - G. (2006). The trinuclear gallium-bridged ferrocenophane [{Fe(eta(5)-C5H4)(2)}(3)Ga-2]: Synthesis, bonding, structure, and coordination chemistry. &lt;em&gt;CHEMISTRY-A EUROPEAN JOURNAL&lt;/em&gt; 12, 5471-5480.</frontiers>
+<apa>Althoff, A., Eisner, D., Jutzi, P., Lenze, N., Neumann, B., Schoeller, W., &amp;amp; Stammler, H. - G. (2006). The trinuclear gallium-bridged ferrocenophane [{Fe(eta(5)-C5H4)(2)}(3)Ga-2]: Synthesis, bonding, structure, and coordination chemistry. &lt;em&gt;CHEMISTRY-A EUROPEAN JOURNAL&lt;/em&gt;, &lt;em&gt;12&lt;/em&gt;(21), 5471-5480.</apa>
+<angewandte-chemie>A.  Althoff, D.  Eisner, P.  Jutzi, N.  Lenze, B.  Neumann, W.  Schoeller, and H. - G.  Stammler, “The trinuclear gallium-bridged ferrocenophane [{Fe(eta(5)-C5H4)(2)}(3)Ga-2]: Synthesis, bonding, structure, and coordination chemistry”, &lt;em&gt;CHEMISTRY-A EUROPEAN JOURNAL&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;12&lt;/em&gt;, 5471-5480.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Althoff, Alexander, Eisner, Dirk, Jutzi, Peter, Lenze, Norman, Neumann, Beate, Schoeller, Wolfgang, and Stammler, Hans-Georg. 2006. “The trinuclear gallium-bridged ferrocenophane [{Fe(eta(5)-C5H4)(2)}(3)Ga-2]: Synthesis, bonding, structure, and coordination chemistry”. &lt;em&gt;CHEMISTRY-A EUROPEAN JOURNAL&lt;/em&gt; 12 (21): 5471-5480.&lt;/div&gt;</chicago>
+<lncs>Althoff, A., Eisner, D., Jutzi, P., Lenze, N., Neumann, B., Schoeller, W., Stammler, H.-G.: The trinuclear gallium-bridged ferrocenophane [{Fe(eta(5)-C5H4)(2)}(3)Ga-2]: Synthesis, bonding, structure, and coordination chemistry. CHEMISTRY-A EUROPEAN JOURNAL. 12, 5471-5480 (2006).</lncs>
+<mla>Althoff, Alexander, Eisner, Dirk, Jutzi, Peter, Lenze, Norman, Neumann, Beate, Schoeller, Wolfgang, and Stammler, Hans-Georg. “The trinuclear gallium-bridged ferrocenophane [{Fe(eta(5)-C5H4)(2)}(3)Ga-2]: Synthesis, bonding, structure, and coordination chemistry”. &lt;em&gt;CHEMISTRY-A EUROPEAN JOURNAL&lt;/em&gt; 12.21 (2006): 5471-5480.</mla>
+<ieee>A. Althoff, et al., “The trinuclear gallium-bridged ferrocenophane [{Fe(eta(5)-C5H4)(2)}(3)Ga-2]: Synthesis, bonding, structure, and coordination chemistry”, &lt;em&gt;CHEMISTRY-A EUROPEAN JOURNAL&lt;/em&gt;,  vol. 12, 2006,  pp. 5471-5480.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Althoff, A., Eisner, D., Jutzi, P., Lenze, N., Neumann, B., Schoeller, W., &amp;amp; Stammler, H. - G. (2006). The trinuclear gallium-bridged ferrocenophane [{Fe(eta(5)-C5H4)(2)}(3)Ga-2]: Synthesis, bonding, structure, and coordination chemistry. &lt;em&gt;CHEMISTRY-A EUROPEAN JOURNAL&lt;/em&gt;, &lt;em&gt;12&lt;/em&gt;(21), 5471-5480.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1598437</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:19:23Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-04T11:03:29Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1598437</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1598437</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,137 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Spectroscopic and crystallographic studies of the mutant R416W give insight into the nucleotide binding traits of subunit B of the A(1)A(O) ATP synthase</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Anil</namePart>
+  <namePart type="family">Kumar</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Malathy Sony Subramanian</namePart>
+  <namePart type="family">Manimekalai</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Asha Manikkoth</namePart>
+  <namePart type="family">Balakrishna</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Cornelia</namePart>
+  <namePart type="family">Hunke</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Sven</namePart>
+  <namePart type="family">Weigelt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Norbert</namePart>
+  <namePart type="family">Sewald</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20281</identifier></name>
+<name type="personal">
+  <namePart type="given">Gerhard</namePart>
+  <namePart type="family">Grueber</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Biochemie und Biotechnik</namePart>
+  <identifier type="unibi">4838684</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  N. Sewald</namePart>
+  <identifier type="unibi">33086655</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Organische Chemie III</namePart>
+  <identifier type="unibi">17977</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">A strategically placed tryptophan in position of Arg416 was used as an optical probe to monitor adenosine triphosphate and adenosine-diphosphate binding to subunit B of the A(1)A(O) adenosine triphosphate (ATP) synthase from Methanosarcina mazei Go1. Tryptophan fluorescence and fluorescence correlation spectroscopy gave binding constants indicating a preferred binding of ATP over ADP to the protein. The X-ray crystal structure of the R416W mutant protein in the presence of ATP was solved to 2.1 angstrom resolution, showing the substituted Trp-residue inside the predicted adenine-binding pocket. The cocrystallized ATP molecule could be trapped in a so-called transition nucleotide-binding state. The high resolution structure shows the phosphate residues of the ATP near the P-loop region (S150-E158) and its adenine ring forms pi-pi interaction with Phe149. This transition binding position of ATP could be confirmed by tryptophan emission spectra using the subunit B mutant F149W. The trapped ATP position, similar to the one of the binding region of the antibiotic efrapeptin in F1FO ATP synthases, is discussed in light of a transition nucleotide-binding state of ATP while on its way to the final binding pocket. Finally, the inhibitory effect of efrapeptin C in ATPase activity of a reconstituted A(3)B(3)- and A(3)B(R416W)(3)-subcomplex, composed of subunit A and the B subunit mutant R416W, of the A(1)A(O) ATP synthase is shown.</abstract>
+
+<originInfo><publisher>Wiley-Blackwell</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>F1FO ATP synthase</topic><topic>V-ATPase</topic><topic>crystal structure</topic><topic>Methanosarcina mazei Go1</topic><topic>Methanococcus jannaschii</topic><topic>archaeal ATPase</topic><topic>A(1)A(O) ATP synthase</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>PROTEINS-STRUCTURE FUNCTION AND BIOINFORMATICS</title></titleInfo>
+  <identifier type="issn">0887-3585</identifier>
+  <identifier type="eIssn">1097-0134</identifier>
+  <identifier type="MEDLINE">19003877</identifier>
+  <identifier type="ISI">000266133600003</identifier><identifier type="doi">10.1002/prot.22289</identifier>
+<part><detail type="volume"><number>75</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">807-819</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Kumar A, Manimekalai MSS, Balakrishna AM, Hunke C, Weigelt S, Sewald N, Grueber G (2009) &lt;br /&gt;PROTEINS-STRUCTURE FUNCTION AND BIOINFORMATICS 75(4): 807-819.</default>
+<wels>Kumar, A.; Manimekalai, M. S. S.; Balakrishna, A. M.; Hunke, C.; Weigelt, S.; Sewald, N.; Grueber, G. (2009): Spectroscopic and crystallographic studies of the mutant R416W give insight into the nucleotide binding traits of subunit B of the A(1)A(O) ATP synthase &lt;em&gt;PROTEINS-STRUCTURE FUNCTION AND BIOINFORMATICS&lt;/em&gt;,75:(4): 807-819.</wels>
+<aps>A.  Kumar, et al., Spectroscopic and crystallographic studies of the mutant R416W give insight into the nucleotide binding traits of subunit B of the A(1)A(O) ATP synthase, PROTEINS-STRUCTURE FUNCTION AND BIOINFORMATICS &lt;strong&gt;75&lt;/strong&gt;, 807-819 (2009).</aps>
+<bio1>Kumar A, Manimekalai MSS, Balakrishna AM, Hunke C, Weigelt S, Sewald N, Grueber G (2009) &lt;br /&gt;Spectroscopic and crystallographic studies of the mutant R416W give insight into the nucleotide binding traits of subunit B of the A(1)A(O) ATP synthase.&lt;br /&gt;PROTEINS-STRUCTURE FUNCTION AND BIOINFORMATICS 75(4): 807-819.</bio1>
+<harvard1>Kumar, A., et al., 2009. Spectroscopic and crystallographic studies of the mutant R416W give insight into the nucleotide binding traits of subunit B of the A(1)A(O) ATP synthase. &lt;em&gt;PROTEINS-STRUCTURE FUNCTION AND BIOINFORMATICS&lt;/em&gt;, 75(4), p 807-819.</harvard1>
+<ama>Kumar A, Manimekalai MSS, Balakrishna AM, et al. Spectroscopic and crystallographic studies of the mutant R416W give insight into the nucleotide binding traits of subunit B of the A(1)A(O) ATP synthase. &lt;em&gt;PROTEINS-STRUCTURE FUNCTION AND BIOINFORMATICS&lt;/em&gt;. 2009;75(4):807-819.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kumar, A., Manimekalai, M.S.S., Balakrishna, A.M., Hunke, C., Weigelt, S., Sewald, N. &amp;amp; Grueber, G. (2009). Spectroscopic and crystallographic studies of the mutant R416W give insight into the nucleotide binding traits of subunit B of the A(1)A(O) ATP synthase. &lt;em&gt;PROTEINS-STRUCTURE FUNCTION AND BIOINFORMATICS&lt;/em&gt;, &lt;em&gt;75&lt;/em&gt;(4), 807-819. Wiley-Blackwell. doi:10.1002/prot.22289.&lt;/div&gt;</dgps>
+<frontiers>Kumar, A., Manimekalai, M. S. S., Balakrishna, A. M., Hunke, C., Weigelt, S., Sewald, N., and Grueber, G. (2009). Spectroscopic and crystallographic studies of the mutant R416W give insight into the nucleotide binding traits of subunit B of the A(1)A(O) ATP synthase. &lt;em&gt;PROTEINS-STRUCTURE FUNCTION AND BIOINFORMATICS&lt;/em&gt; 75, 807-819.</frontiers>
+<apa>Kumar, A., Manimekalai, M. S. S., Balakrishna, A. M., Hunke, C., Weigelt, S., Sewald, N., &amp;amp; Grueber, G. (2009). Spectroscopic and crystallographic studies of the mutant R416W give insight into the nucleotide binding traits of subunit B of the A(1)A(O) ATP synthase. &lt;em&gt;PROTEINS-STRUCTURE FUNCTION AND BIOINFORMATICS&lt;/em&gt;, &lt;em&gt;75&lt;/em&gt;(4), 807-819.</apa>
+<angewandte-chemie>A.  Kumar, M. S. S.  Manimekalai, A. M.  Balakrishna, C.  Hunke, S.  Weigelt, N.  Sewald, and G.  Grueber, “Spectroscopic and crystallographic studies of the mutant R416W give insight into the nucleotide binding traits of subunit B of the A(1)A(O) ATP synthase”, &lt;em&gt;PROTEINS-STRUCTURE FUNCTION AND BIOINFORMATICS&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;75&lt;/em&gt;, 807-819.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kumar, Anil, Manimekalai, Malathy Sony Subramanian, Balakrishna, Asha Manikkoth, Hunke, Cornelia, Weigelt, Sven, Sewald, Norbert, and Grueber, Gerhard. 2009. “Spectroscopic and crystallographic studies of the mutant R416W give insight into the nucleotide binding traits of subunit B of the A(1)A(O) ATP synthase”. &lt;em&gt;PROTEINS-STRUCTURE FUNCTION AND BIOINFORMATICS&lt;/em&gt; 75 (4): 807-819.&lt;/div&gt;</chicago>
+<mla>Kumar, Anil, Manimekalai, Malathy Sony Subramanian, Balakrishna, Asha Manikkoth, Hunke, Cornelia, Weigelt, Sven, Sewald, Norbert, and Grueber, Gerhard. “Spectroscopic and crystallographic studies of the mutant R416W give insight into the nucleotide binding traits of subunit B of the A(1)A(O) ATP synthase”. &lt;em&gt;PROTEINS-STRUCTURE FUNCTION AND BIOINFORMATICS&lt;/em&gt; 75.4 (2009): 807-819.</mla>
+<lncs>Kumar, A., Manimekalai, M.S.S., Balakrishna, A.M., Hunke, C., Weigelt, S., Sewald, N., Grueber, G.: Spectroscopic and crystallographic studies of the mutant R416W give insight into the nucleotide binding traits of subunit B of the A(1)A(O) ATP synthase. PROTEINS-STRUCTURE FUNCTION AND BIOINFORMATICS. 75, 807-819 (2009).</lncs>
+<ieee>A. Kumar, et al., “Spectroscopic and crystallographic studies of the mutant R416W give insight into the nucleotide binding traits of subunit B of the A(1)A(O) ATP synthase”, &lt;em&gt;PROTEINS-STRUCTURE FUNCTION AND BIOINFORMATICS&lt;/em&gt;,  vol. 75, 2009,  pp. 807-819.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kumar, A., Manimekalai, M. S. S., Balakrishna, A. M., Hunke, C., Weigelt, S., Sewald, N., &amp;amp; Grueber, G. (2009). Spectroscopic and crystallographic studies of the mutant R416W give insight into the nucleotide binding traits of subunit B of the A(1)A(O) ATP synthase. &lt;em&gt;PROTEINS-STRUCTURE FUNCTION AND BIOINFORMATICS&lt;/em&gt;, &lt;em&gt;75&lt;/em&gt;(4), 807-819.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1633800</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:01Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-03T09:10:49Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1633800</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1633800</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

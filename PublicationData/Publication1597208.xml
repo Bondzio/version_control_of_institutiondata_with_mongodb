@@ -1,0 +1,110 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>COAST: Controllable approximative stochastic reaction algorithm</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Holger</namePart>
+  <namePart type="family">Wagner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Mark</namePart>
+  <namePart type="family">Moeller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Klaus</namePart>
+  <namePart type="family">Prank</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Centrum für Biotechnologie</namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Graduate Center</namePart>
+  <identifier type="unibi">16941123</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We present an approximative algorithm for stochastic simulations of chemical reaction systems, called COAST, based on three different modeling levels: for small numbers of particles an exact stochastic model; for intermediate numbers an approximative, but computationally more efficient stochastic model based on discrete Gaussian distributions; and for large numbers the deterministic reaction kinetics. In every simulation time step, the subdivision of the reaction channels into the three different modeling levels is done automatically, where all approximations applied can be controlled by a single error parameter for which an appropriate value can easily be found. Test simulations show that the results of COAST simulations agree well with the outcomes of exact algorithms; however, the asymptotic run times of COAST are asymptotically proportional to smaller powers of the particle numbers than exact algorithms. (c) 2006 American Institute of Physics.</abstract>
+
+<originInfo><publisher>AMER INST PHYSICS</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF CHEMICAL PHYSICS</title></titleInfo>
+  <identifier type="issn">0021-9606</identifier>
+  <identifier type="MEDLINE">17100426</identifier>
+  <identifier type="ISI">000241830200008</identifier><identifier type="doi">10.1063/1.2361284</identifier>
+<part><detail type="volume"><number>125</number></detail><detail type="issue"><number>17</number></detail><extent unit="pages">174104</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wagner, Holger, Moeller, Mark, and Prank, Klaus. 2006. “COAST: Controllable approximative stochastic reaction algorithm”. &lt;em&gt;JOURNAL OF CHEMICAL PHYSICS&lt;/em&gt; 125 (17).&lt;/div&gt;</chicago>
+<apa>Wagner, H., Moeller, M., &amp;amp; Prank, K. (2006). COAST: Controllable approximative stochastic reaction algorithm. &lt;em&gt;JOURNAL OF CHEMICAL PHYSICS&lt;/em&gt;, &lt;em&gt;125&lt;/em&gt;(17).</apa>
+<angewandte-chemie>H.  Wagner, M.  Moeller, and K.  Prank, “COAST: Controllable approximative stochastic reaction algorithm”, &lt;em&gt;JOURNAL OF CHEMICAL PHYSICS&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;125&lt;/em&gt;.</angewandte-chemie>
+<frontiers>Wagner, H., Moeller, M., and Prank, K. (2006). COAST: Controllable approximative stochastic reaction algorithm. &lt;em&gt;JOURNAL OF CHEMICAL PHYSICS&lt;/em&gt; 125.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wagner, H., Moeller, M., &amp;amp; Prank, K. (2006). COAST: Controllable approximative stochastic reaction algorithm. &lt;em&gt;JOURNAL OF CHEMICAL PHYSICS&lt;/em&gt;, &lt;em&gt;125&lt;/em&gt;(17).&lt;/div&gt;</apa_indent>
+<ieee>H. Wagner, M. Moeller, and K. Prank, “COAST: Controllable approximative stochastic reaction algorithm”, &lt;em&gt;JOURNAL OF CHEMICAL PHYSICS&lt;/em&gt;,  vol. 125, 2006.</ieee>
+<lncs>Wagner, H., Moeller, M., Prank, K.: COAST: Controllable approximative stochastic reaction algorithm. JOURNAL OF CHEMICAL PHYSICS. 125, (2006).</lncs>
+<mla>Wagner, Holger, Moeller, Mark, and Prank, Klaus. “COAST: Controllable approximative stochastic reaction algorithm”. &lt;em&gt;JOURNAL OF CHEMICAL PHYSICS&lt;/em&gt; 125.17 (2006).</mla>
+<wels>Wagner, H.; Moeller, M.; Prank, K. (2006): COAST: Controllable approximative stochastic reaction algorithm &lt;em&gt;JOURNAL OF CHEMICAL PHYSICS&lt;/em&gt;,125:(17)</wels>
+<default>Wagner H, Moeller M, Prank K (2006) &lt;br /&gt;JOURNAL OF CHEMICAL PHYSICS 125(17).</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wagner, H., Moeller, M. &amp;amp; Prank, K. (2006). COAST: Controllable approximative stochastic reaction algorithm. &lt;em&gt;JOURNAL OF CHEMICAL PHYSICS&lt;/em&gt;, &lt;em&gt;125&lt;/em&gt;(17). AMER INST PHYSICS. doi:10.1063/1.2361284.&lt;/div&gt;</dgps>
+<ama>Wagner H, Moeller M, Prank K. COAST: Controllable approximative stochastic reaction algorithm. &lt;em&gt;JOURNAL OF CHEMICAL PHYSICS&lt;/em&gt;. 2006;125(17).</ama>
+<harvard1>Wagner, H., Moeller, M., &amp;amp; Prank, K., 2006. COAST: Controllable approximative stochastic reaction algorithm. &lt;em&gt;JOURNAL OF CHEMICAL PHYSICS&lt;/em&gt;, 125(17).</harvard1>
+<bio1>Wagner H, Moeller M, Prank K (2006) &lt;br /&gt;COAST: Controllable approximative stochastic reaction algorithm.&lt;br /&gt;JOURNAL OF CHEMICAL PHYSICS 125(17).</bio1>
+<aps>H.  Wagner, M.  Moeller, and K.  Prank, COAST: Controllable approximative stochastic reaction algorithm, JOURNAL OF CHEMICAL PHYSICS &lt;strong&gt;125&lt;/strong&gt;, (2006).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1597208</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:18:44Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-28T14:31:08Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1597208</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1597208</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

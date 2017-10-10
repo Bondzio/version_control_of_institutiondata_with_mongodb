@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Funktionsmodelle zum Zeichnen von Ellipsen</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Günter</namePart>
+  <namePart type="family">Graumann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10520</identifier></name>
+<name type="personal">
+  <namePart type="given">Helmut</namePart>
+  <namePart type="family">Siegert</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Graumann_027.pdf">https://pub.uni-bielefeld.de/download/1776188/2312095</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Franzbecker</publisher><dateIssued encoding="w3cdtf">1985</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Beiträge zum Mathematikunterricht: 19. Bundestagung vom 5.3. bis 8.3.1985 in Giessen</title></titleInfo>
+  <identifier type="isbn">3-88120-094-0</identifier><identifier type="urn">urn:nbn:de:0070-bipr-11385</identifier>
+<part><extent unit="pages">124-127</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa>Graumann, G., &amp;amp; Siegert, H. (1985). Funktionsmodelle zum Zeichnen von Ellipsen. &lt;em&gt;Beiträge zum Mathematikunterricht: 19. Bundestagung vom 5.3. bis 8.3.1985 in Giessen&lt;/em&gt;, 124-127.</apa>
+<angewandte-chemie>G.  Graumann, and H.  Siegert, in &lt;em&gt;Beiträge zum Mathematikunterricht: 19. Bundestagung vom 5.3. bis 8.3.1985 in Giessen&lt;/em&gt;, Franzbecker, Bad Salzdetfurth, &lt;strong&gt;1985&lt;/strong&gt;, p. 124-127.</angewandte-chemie>
+<frontiers>Graumann, G., and Siegert, H. (1985). “Funktionsmodelle zum Zeichnen von Ellipsen” in &lt;em&gt;Beiträge zum Mathematikunterricht: 19. Bundestagung vom 5.3. bis 8.3.1985 in Giessen&lt;/em&gt; (Bad Salzdetfurth: Franzbecker), 124-127.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Graumann, Günter, and Siegert, Helmut. 1985. “Funktionsmodelle zum Zeichnen von Ellipsen”. In &lt;em&gt;Beiträge zum Mathematikunterricht: 19. Bundestagung vom 5.3. bis 8.3.1985 in Giessen&lt;/em&gt;, 124-127. Bad Salzdetfurth: Franzbecker.&lt;/div&gt;</chicago>
+<ieee>G. Graumann and H. Siegert, “Funktionsmodelle zum Zeichnen von Ellipsen”, &lt;em&gt;Beiträge zum Mathematikunterricht: 19. Bundestagung vom 5.3. bis 8.3.1985 in Giessen&lt;/em&gt;,  Bad Salzdetfurth: Franzbecker, 1985,  pp.124-127.</ieee>
+<mla>Graumann, Günter, and Siegert, Helmut. “Funktionsmodelle zum Zeichnen von Ellipsen”. &lt;em&gt;Beiträge zum Mathematikunterricht: 19. Bundestagung vom 5.3. bis 8.3.1985 in Giessen&lt;/em&gt;. Bad Salzdetfurth: Franzbecker, 1985. 124-127.</mla>
+<lncs>Graumann, G., Siegert, H.: Funktionsmodelle zum Zeichnen von Ellipsen. Beiträge zum Mathematikunterricht: 19. Bundestagung vom 5.3. bis 8.3.1985 in Giessen. p. 124-127. Franzbecker, Bad Salzdetfurth (1985).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Graumann, G., &amp;amp; Siegert, H. (1985). Funktionsmodelle zum Zeichnen von Ellipsen. &lt;em&gt;Beiträge zum Mathematikunterricht: 19. Bundestagung vom 5.3. bis 8.3.1985 in Giessen&lt;/em&gt;, 124-127.&lt;/div&gt;</apa_indent>
+<wels>Graumann, G.; Siegert, H. (1985): Funktionsmodelle zum Zeichnen von Ellipsen. In: Beiträge zum Mathematikunterricht: 19. Bundestagung vom 5.3. bis 8.3.1985 in Giessen. Bad Salzdetfurth: Franzbecker.  S. 124-127.</wels>
+<default>Graumann G, Siegert H (1985)  &lt;br /&gt;In:  Beiträge zum Mathematikunterricht: 19. Bundestagung vom 5.3. bis 8.3.1985 in Giessen. Bad Salzdetfurth: Franzbecker:  124-127.</default>
+<harvard1>Graumann, G., &amp;amp; Siegert, H., 1985. Funktionsmodelle zum Zeichnen von Ellipsen. In &lt;em&gt;Beiträge zum Mathematikunterricht: 19. Bundestagung vom 5.3. bis 8.3.1985 in Giessen&lt;/em&gt;.  Bad Salzdetfurth: Franzbecker, pp. 124-127.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Graumann, G. &amp;amp; Siegert, H. (1985). Funktionsmodelle zum Zeichnen von Ellipsen. &lt;em&gt;Beiträge zum Mathematikunterricht: 19. Bundestagung vom 5.3. bis 8.3.1985 in Giessen&lt;/em&gt; (S. 124-127). Bad Salzdetfurth: Franzbecker.&lt;/div&gt;</dgps>
+<ama>Graumann G, Siegert H. Funktionsmodelle zum Zeichnen von Ellipsen. In:  &lt;em&gt;Beiträge zum Mathematikunterricht: 19. Bundestagung vom 5.3. bis 8.3.1985 in Giessen&lt;/em&gt;. Bad Salzdetfurth: Franzbecker;  1985: 124-127.</ama>
+<aps>G.  Graumann and H.  Siegert, Funktionsmodelle zum Zeichnen von Ellipsen, in &lt;em&gt;Beiträge zum Mathematikunterricht: 19. Bundestagung vom 5.3. bis 8.3.1985 in Giessen&lt;/em&gt; (Franzbecker, Bad Salzdetfurth, 1985), p. 124-127.</aps>
+<bio1>Graumann G, Siegert H (1985) &lt;br /&gt;Funktionsmodelle zum Zeichnen von Ellipsen. &lt;br /&gt;In:  Beiträge zum Mathematikunterricht: 19. Bundestagung vom 5.3. bis 8.3.1985 in Giessen.  Bad Salzdetfurth: Franzbecker:  124-127.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776188</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776188</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776188</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

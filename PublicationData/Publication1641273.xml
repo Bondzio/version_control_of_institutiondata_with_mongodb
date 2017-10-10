@@ -1,0 +1,145 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Spin-resolved Auger electron spectroscopy after photoexcitation with circularly polarized radiation from the BESSY crossed undulator</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Norbert</namePart>
+  <namePart type="family">Müller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">74650</identifier></name>
+<name type="personal">
+  <namePart type="given">R</namePart>
+  <namePart type="family">David</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">G</namePart>
+  <namePart type="family">Snell</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">R</namePart>
+  <namePart type="family">Kuntze</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Markus</namePart>
+  <namePart type="family">Drescher</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">5240380</identifier></name>
+<name type="personal">
+  <namePart type="given">N</namePart>
+  <namePart type="family">Böwering</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">P</namePart>
+  <namePart type="family">Stoppmans</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">S. W.</namePart>
+  <namePart type="family">Yu</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ulrich</namePart>
+  <namePart type="family">Heinzmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40276</identifier></name>
+<name type="personal">
+  <namePart type="given">J</namePart>
+  <namePart type="family">Viefhaus</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">U</namePart>
+  <namePart type="family">Hergenhahn</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">U</namePart>
+  <namePart type="family">Becker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Lehrstuhl für Molekül- und Oberflächenphysik</namePart>
+  <identifier type="unibi">29133467</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Centrum für Biotechnologie</namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The new crossed undulator beamline U2-FSGM at BESSY enables spin resolved spectroscopy of electrons emitted after excitation of atoms, molecules and solids by circularly polarized radiation, even beyond the energy limit of normal-incidence monochromators.  It is thus possible to perform spin resolved Auger spectroscopy of an enlarged number of elements.  We present first results obtained at the U2-FSGM in the gas phase and from solids.  For the gas phase we show spin resolved data for 5p- and 4d-photoionization of Xe and for the N4,5O2,3O2,3 Auger decay in Xe which agree within the uncertainties with theory.  They are measured by means of a newly developed time-of-flight apparatus including spin polarization analysis.  For solids we present spin resolved M3VV Auger spectra obtained at Cu(100) in a normal incidence, normal emission setup.  On the low energy side of the Auger peak they show a change of the preferential spin direction not expected within an atomic model of the Cu M3VV Auger decay.  In the center of the peak the preferential spin direction is antiparallel to the spin of the photons exciting the primary M3 hole states.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">1995</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF ELECTRON SPECTROSCOPY AND RELATED PHENOMENA</title></titleInfo>
+  <identifier type="issn">0368-2048</identifier>
+  <identifier type="ISI">A1995QR25300030</identifier><identifier type="doi">10.1016/0368-2048(94)02313-1</identifier>
+<part><detail type="volume"><number>72</number></detail><extent unit="pages">187-193</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Müller, N., David, R., Snell, G., Kuntze, R., Drescher, M., Böwering, N., Stoppmans, P., Yu, S. W., Heinzmann, U., Viefhaus, J., et al. (1995). Spin-resolved Auger electron spectroscopy after photoexcitation with circularly polarized radiation from the BESSY crossed undulator. &lt;em&gt;JOURNAL OF ELECTRON SPECTROSCOPY AND RELATED PHENOMENA&lt;/em&gt; 72, 187-193.</frontiers>
+<angewandte-chemie>N.  Müller, R.  David, G.  Snell, R.  Kuntze, M.  Drescher, N.  Böwering, P.  Stoppmans, S. W.  Yu, U.  Heinzmann, J.  Viefhaus, et al., “Spin-resolved Auger electron spectroscopy after photoexcitation with circularly polarized radiation from the BESSY crossed undulator”, &lt;em&gt;JOURNAL OF ELECTRON SPECTROSCOPY AND RELATED PHENOMENA&lt;/em&gt;, &lt;strong&gt;1995&lt;/strong&gt;, &lt;em&gt;72&lt;/em&gt;, 187-193.</angewandte-chemie>
+<apa>Müller, N., David, R., Snell, G., Kuntze, R., Drescher, M., Böwering, N., Stoppmans, P., et al. (1995). Spin-resolved Auger electron spectroscopy after photoexcitation with circularly polarized radiation from the BESSY crossed undulator. &lt;em&gt;JOURNAL OF ELECTRON SPECTROSCOPY AND RELATED PHENOMENA&lt;/em&gt;, &lt;em&gt;72&lt;/em&gt;, 187-193.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, Norbert, David, R, Snell, G, Kuntze, R, Drescher, Markus, Böwering, N, Stoppmans, P, et al. 1995. “Spin-resolved Auger electron spectroscopy after photoexcitation with circularly polarized radiation from the BESSY crossed undulator”. &lt;em&gt;JOURNAL OF ELECTRON SPECTROSCOPY AND RELATED PHENOMENA&lt;/em&gt; 72: 187-193.&lt;/div&gt;</chicago>
+<lncs>Müller, N., David, R., Snell, G., Kuntze, R., Drescher, M., Böwering, N., Stoppmans, P., Yu, S.W., Heinzmann, U., Viefhaus, J., Hergenhahn, U., Becker, U.: Spin-resolved Auger electron spectroscopy after photoexcitation with circularly polarized radiation from the BESSY crossed undulator. JOURNAL OF ELECTRON SPECTROSCOPY AND RELATED PHENOMENA. 72, 187-193 (1995).</lncs>
+<mla>Müller, Norbert, David, R, Snell, G, Kuntze, R, Drescher, Markus, Böwering, N, Stoppmans, P, Yu, S. W., Heinzmann, Ulrich, Viefhaus, J, Hergenhahn, U, and Becker, U. “Spin-resolved Auger electron spectroscopy after photoexcitation with circularly polarized radiation from the BESSY crossed undulator”. &lt;em&gt;JOURNAL OF ELECTRON SPECTROSCOPY AND RELATED PHENOMENA&lt;/em&gt; 72 (1995): 187-193.</mla>
+<ieee>N. Müller, et al., “Spin-resolved Auger electron spectroscopy after photoexcitation with circularly polarized radiation from the BESSY crossed undulator”, &lt;em&gt;JOURNAL OF ELECTRON SPECTROSCOPY AND RELATED PHENOMENA&lt;/em&gt;,  vol. 72, 1995,  pp. 187-193.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, N., David, R., Snell, G., Kuntze, R., Drescher, M., Böwering, N., Stoppmans, P., et al. (1995). Spin-resolved Auger electron spectroscopy after photoexcitation with circularly polarized radiation from the BESSY crossed undulator. &lt;em&gt;JOURNAL OF ELECTRON SPECTROSCOPY AND RELATED PHENOMENA&lt;/em&gt;, &lt;em&gt;72&lt;/em&gt;, 187-193.&lt;/div&gt;</apa_indent>
+<default>Müller N, David R, Snell G, Kuntze R, Drescher M, Böwering N, Stoppmans P, Yu SW, Heinzmann U, Viefhaus J, Hergenhahn U, et al. (1995) &lt;br /&gt;JOURNAL OF ELECTRON SPECTROSCOPY AND RELATED PHENOMENA 72: 187-193.</default>
+<wels>Müller, N.; David, R.; Snell, G.; Kuntze, R.; Drescher, M.; Böwering, N.; Stoppmans, P.; Yu, S. W.; Heinzmann, U.; Viefhaus, J.; Hergenhahn, U.; Becker, U. (1995): Spin-resolved Auger electron spectroscopy after photoexcitation with circularly polarized radiation from the BESSY crossed undulator &lt;em&gt;JOURNAL OF ELECTRON SPECTROSCOPY AND RELATED PHENOMENA&lt;/em&gt;,72: 187-193.</wels>
+<aps>N.  Müller, et al., Spin-resolved Auger electron spectroscopy after photoexcitation with circularly polarized radiation from the BESSY crossed undulator, JOURNAL OF ELECTRON SPECTROSCOPY AND RELATED PHENOMENA &lt;strong&gt;72&lt;/strong&gt;, 187-193 (1995).</aps>
+<bio1>Müller N, David R, Snell G, Kuntze R, Drescher M, Böwering N, Stoppmans P, Yu SW, Heinzmann U, Viefhaus J, Hergenhahn U, Becker U (1995) &lt;br /&gt;Spin-resolved Auger electron spectroscopy after photoexcitation with circularly polarized radiation from the BESSY crossed undulator.&lt;br /&gt;JOURNAL OF ELECTRON SPECTROSCOPY AND RELATED PHENOMENA 72: 187-193.</bio1>
+<harvard1>Müller, N., et al., 1995. Spin-resolved Auger electron spectroscopy after photoexcitation with circularly polarized radiation from the BESSY crossed undulator. &lt;em&gt;JOURNAL OF ELECTRON SPECTROSCOPY AND RELATED PHENOMENA&lt;/em&gt;, 72, p 187-193.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, N., David, R., Snell, G., Kuntze, R., Drescher, M., Böwering, N., Stoppmans, P., Yu, S.W., Heinzmann, U., Viefhaus, J., Hergenhahn, U. &amp;amp; Becker, U. (1995). Spin-resolved Auger electron spectroscopy after photoexcitation with circularly polarized radiation from the BESSY crossed undulator. &lt;em&gt;JOURNAL OF ELECTRON SPECTROSCOPY AND RELATED PHENOMENA&lt;/em&gt;, &lt;em&gt;72&lt;/em&gt;, 187-193. ELSEVIER SCIENCE BV. doi:10.1016/0368-2048(94)02313-1.&lt;/div&gt;</dgps>
+<ama>Müller N, David R, Snell G, et al. Spin-resolved Auger electron spectroscopy after photoexcitation with circularly polarized radiation from the BESSY crossed undulator. &lt;em&gt;JOURNAL OF ELECTRON SPECTROSCOPY AND RELATED PHENOMENA&lt;/em&gt;. 1995;72:187-193.</ama>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1641273</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:27:03Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2012-02-15T13:35:34Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1641273</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1641273</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

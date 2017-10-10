@@ -1,0 +1,128 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Construction and characterization of a sugar beet (Beta vulgaris) fosmid library</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Cornelia</namePart>
+  <namePart type="family">Lange</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Daniela</namePart>
+  <namePart type="family">Holtgräwe</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">162199</identifier></name>
+<name type="personal">
+  <namePart type="given">Britta</namePart>
+  <namePart type="family">Schulz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Bernd</namePart>
+  <namePart type="family">Weisshaar</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">86212</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-7635-3473</description></name>
+<name type="personal">
+  <namePart type="given">Heinz</namePart>
+  <namePart type="family">Himmelbauer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Genomforschung und Systembiologie</namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  B. Weisshaar</namePart>
+  <identifier type="unibi">33070678</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Genomforschung</namePart>
+  <identifier type="unibi">2684836</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>NATL RESEARCH COUNCIL CANADA-N R C RESEARCH PRESS</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>fosmid</topic><topic>genome sequence</topic><topic>physical mapping</topic><topic>sugar beet</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Genome</title></titleInfo>
+  <identifier type="issn">0831-2796</identifier>
+  <identifier type="eIssn">1480-3321</identifier>
+  <identifier type="MEDLINE">18956027</identifier>
+  <identifier type="ISI">000262753700011</identifier><identifier type="doi">10.1139/G08-071</identifier>
+<part><detail type="volume"><number>51</number></detail><detail type="issue"><number>11</number></detail><extent unit="pages">948-951</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Lange, C., Holtgräwe, D., Schulz, B., Weisshaar, B., and Himmelbauer, H. (2008). Construction and characterization of a sugar beet (Beta vulgaris) fosmid library. &lt;em&gt;Genome&lt;/em&gt; 51, 948-951.</frontiers>
+<angewandte-chemie>C.  Lange, D.  Holtgräwe, B.  Schulz, B.  Weisshaar, and H.  Himmelbauer, “Construction and characterization of a sugar beet (Beta vulgaris) fosmid library”, &lt;em&gt;Genome&lt;/em&gt;, &lt;strong&gt;2008&lt;/strong&gt;, &lt;em&gt;51&lt;/em&gt;, 948-951.</angewandte-chemie>
+<apa>Lange, C., Holtgräwe, D., Schulz, B., Weisshaar, B., &amp;amp; Himmelbauer, H. (2008). Construction and characterization of a sugar beet (Beta vulgaris) fosmid library. &lt;em&gt;Genome&lt;/em&gt;, &lt;em&gt;51&lt;/em&gt;(11), 948-951.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lange, Cornelia, Holtgräwe, Daniela, Schulz, Britta, Weisshaar, Bernd, and Himmelbauer, Heinz. 2008. “Construction and characterization of a sugar beet (Beta vulgaris) fosmid library”. &lt;em&gt;Genome&lt;/em&gt; 51 (11): 948-951.&lt;/div&gt;</chicago>
+<lncs>Lange, C., Holtgräwe, D., Schulz, B., Weisshaar, B., Himmelbauer, H.: Construction and characterization of a sugar beet (Beta vulgaris) fosmid library. Genome. 51, 948-951 (2008).</lncs>
+<mla>Lange, Cornelia, Holtgräwe, Daniela, Schulz, Britta, Weisshaar, Bernd, and Himmelbauer, Heinz. “Construction and characterization of a sugar beet (Beta vulgaris) fosmid library”. &lt;em&gt;Genome&lt;/em&gt; 51.11 (2008): 948-951.</mla>
+<ieee>C. Lange, et al., “Construction and characterization of a sugar beet (Beta vulgaris) fosmid library”, &lt;em&gt;Genome&lt;/em&gt;,  vol. 51, 2008,  pp. 948-951.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lange, C., Holtgräwe, D., Schulz, B., Weisshaar, B., &amp;amp; Himmelbauer, H. (2008). Construction and characterization of a sugar beet (Beta vulgaris) fosmid library. &lt;em&gt;Genome&lt;/em&gt;, &lt;em&gt;51&lt;/em&gt;(11), 948-951.&lt;/div&gt;</apa_indent>
+<default>Lange C, Holtgräwe D, Schulz B, Weisshaar B, Himmelbauer H (2008) &lt;br /&gt;Genome 51(11): 948-951.</default>
+<wels>Lange, C.; Holtgräwe, D.; Schulz, B.; Weisshaar, B.; Himmelbauer, H. (2008): Construction and characterization of a sugar beet (Beta vulgaris) fosmid library &lt;em&gt;Genome&lt;/em&gt;,51:(11): 948-951.</wels>
+<bio1>Lange C, Holtgräwe D, Schulz B, Weisshaar B, Himmelbauer H (2008) &lt;br /&gt;Construction and characterization of a sugar beet (Beta vulgaris) fosmid library.&lt;br /&gt;Genome 51(11): 948-951.</bio1>
+<aps>C.  Lange, et al., Construction and characterization of a sugar beet (Beta vulgaris) fosmid library, Genome &lt;strong&gt;51&lt;/strong&gt;, 948-951 (2008).</aps>
+<harvard1>Lange, C., et al., 2008. Construction and characterization of a sugar beet (Beta vulgaris) fosmid library. &lt;em&gt;Genome&lt;/em&gt;, 51(11), p 948-951.</harvard1>
+<ama>Lange C, Holtgräwe D, Schulz B, Weisshaar B, Himmelbauer H. Construction and characterization of a sugar beet (Beta vulgaris) fosmid library. &lt;em&gt;Genome&lt;/em&gt;. 2008;51(11):948-951.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lange, C., Holtgräwe, D., Schulz, B., Weisshaar, B. &amp;amp; Himmelbauer, H. (2008). Construction and characterization of a sugar beet (Beta vulgaris) fosmid library. &lt;em&gt;Genome&lt;/em&gt;, &lt;em&gt;51&lt;/em&gt;(11), 948-951. NATL RESEARCH COUNCIL CANADA-N R C RESEARCH PRESS. doi:10.1139/G08-071.&lt;/div&gt;</dgps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1635969</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:53Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2015-12-16T10:29:04Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1635969</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1635969</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

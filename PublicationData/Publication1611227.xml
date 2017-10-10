@@ -1,0 +1,113 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Integrating context-free and context-dependent attentional mechanisms for gestural object reference</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Gunther</namePart>
+  <namePart type="family">Heidemann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Robert</namePart>
+  <namePart type="family">Rae</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Holger</namePart>
+  <namePart type="family">Bekel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ingo</namePart>
+  <namePart type="family">Bax</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Helge</namePart>
+  <namePart type="family">Ritter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">91130</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Neuroinformatik</namePart>
+  <identifier type="unibi">10038</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+<name type="conference">
+  <namePart>ICVS</namePart>
+</name>
+
+
+
+
+
+
+<abstract lang="eng">We present a vision system for human-machine interaction that relies on a small wearable camera which can be mounted to common glasses. The camera views the area in front of the user, especially the hands. To evaluate hand movements for pointing gestures to objects and to recognise object reference, an approach relying on the integration of bottom-up generated feature maps and top-down propagated recognition results is introduced. In this vision system, modules for context free focus of attention work in parallel to a recognition system for hand gestures. In contrast to other approaches, the fusion of the two branches is not on the symbolic but on the sub-symbolic level by use of attention maps. This method is plausible from a cognitive point of view and facilitates the integration of entirely different modalities.</abstract>
+
+<originInfo><publisher>Springer</publisher><dateIssued encoding="w3cdtf">2003</dateIssued><place><placeTerm type="text">Graz</placeTerm></place>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Computer Vision Systems</title></titleInfo>
+  <identifier type="issn">0302-9743</identifier>
+  <identifier type="ISI">000183490200003</identifier><identifier type="doi">10.1007/3-540-36592-3_3</identifier>
+<part><detail type="volume"><number>2626</number></detail><extent unit="pages">22-33</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Heidemann, G.; Rae, R.; Bekel, H.; Bax, I.; Ritter, H. (2003): Integrating context-free and context-dependent attentional mechanisms for gestural object reference. In: Computer Vision Systems. Berlin: Springer. (2626).  S. 22-33.</wels>
+<default>Heidemann G, Rae R, Bekel H, Bax I, Ritter H (2003)  &lt;br /&gt;In:  Computer Vision Systems. 2626. Berlin: Springer:  22-33.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heidemann, G., Rae, R., Bekel, H., Bax, I. &amp;amp; Ritter, H. (2003). Integrating context-free and context-dependent attentional mechanisms for gestural object reference. &lt;em&gt;Computer Vision Systems&lt;/em&gt; (S. 22-33). Gehalten auf der ICVS, Berlin: Springer. doi:10.1007/3-540-36592-3_3.&lt;/div&gt;</dgps>
+<harvard1>Heidemann, G., et al., 2003. Integrating context-free and context-dependent attentional mechanisms for gestural object reference. In &lt;em&gt;Computer Vision Systems&lt;/em&gt;. no.2626  Berlin: Springer, pp. 22-33.</harvard1>
+<ama>Heidemann G, Rae R, Bekel H, Bax I, Ritter H. Integrating context-free and context-dependent attentional mechanisms for gestural object reference. In:  &lt;em&gt;Computer Vision Systems&lt;/em&gt;. Vol 2626. Berlin: Springer;  2003: 22-33.</ama>
+<bio1>Heidemann G, Rae R, Bekel H, Bax I, Ritter H (2003) &lt;br /&gt;Integrating context-free and context-dependent attentional mechanisms for gestural object reference. &lt;br /&gt;In:  Computer Vision Systems. 2626. Berlin: Springer:  22-33.</bio1>
+<aps>G.  Heidemann, et al., Integrating context-free and context-dependent attentional mechanisms for gestural object reference, in &lt;em&gt;Computer Vision Systems&lt;/em&gt;, &lt;strong&gt;2626&lt;/strong&gt; (Springer, Berlin, 2003), p. 22-33.</aps>
+<apa>Heidemann, G., Rae, R., Bekel, H., Bax, I., &amp;amp; Ritter, H. (2003). Integrating context-free and context-dependent attentional mechanisms for gestural object reference. &lt;em&gt;Computer Vision Systems&lt;/em&gt;, &lt;em&gt;2626&lt;/em&gt;, 22-33.</apa>
+<angewandte-chemie>G.  Heidemann, R.  Rae, H.   Bekel, I.  Bax, and H.  Ritter, in &lt;em&gt;Computer Vision Systems&lt;/em&gt;, Springer, Berlin, &lt;strong&gt;2003&lt;/strong&gt;, p. 22-33.</angewandte-chemie>
+<frontiers>Heidemann, G., Rae, R., Bekel, H., Bax, I., and Ritter, H. (2003). “Integrating context-free and context-dependent attentional mechanisms for gestural object reference” in &lt;em&gt;Computer Vision Systems&lt;/em&gt;, vol. 2626, (Berlin: Springer), 22-33.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heidemann, Gunther, Rae, Robert, Bekel, Holger, Bax, Ingo, and Ritter, Helge. 2003. “Integrating context-free and context-dependent attentional mechanisms for gestural object reference”. In &lt;em&gt;Computer Vision Systems&lt;/em&gt;, 2626:22-33. Berlin: Springer.&lt;/div&gt;</chicago>
+<ieee>G. Heidemann, et al., “Integrating context-free and context-dependent attentional mechanisms for gestural object reference”, &lt;em&gt;Computer Vision Systems&lt;/em&gt;, vol. 2626,  Berlin: Springer, 2003,  pp.22-33.</ieee>
+<mla>Heidemann, Gunther, Rae, Robert, Bekel, Holger, Bax, Ingo, and Ritter, Helge. “Integrating context-free and context-dependent attentional mechanisms for gestural object reference”. &lt;em&gt;Computer Vision Systems&lt;/em&gt;. Berlin: Springer, 2003.Vol. 2626. 22-33.</mla>
+<lncs>Heidemann, G., Rae, R., Bekel, H., Bax, I., Ritter, H.: Integrating context-free and context-dependent attentional mechanisms for gestural object reference. Computer Vision Systems. 2626, p. 22-33. Springer, Berlin (2003).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heidemann, G., Rae, R., Bekel, H., Bax, I., &amp;amp; Ritter, H. (2003). Integrating context-free and context-dependent attentional mechanisms for gestural object reference. &lt;em&gt;Computer Vision Systems&lt;/em&gt;, &lt;em&gt;2626&lt;/em&gt;, 22-33.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1611227</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:59:19Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-06-15T19:30:09Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1611227</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1611227</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

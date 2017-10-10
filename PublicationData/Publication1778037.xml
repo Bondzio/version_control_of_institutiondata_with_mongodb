@@ -1,0 +1,111 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>State-specific rotational energy transfer in OH (A 2[Sigma]+, v&apos;=0) by some combustion-relevant collision partners</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Jörg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ulrich</namePart>
+  <namePart type="family">Meier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A.</namePart>
+  <namePart type="family">Kienle</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Katharina</namePart>
+  <namePart type="family">Kohse-Höinghaus</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20770</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Physikalische Chemie I</namePart>
+  <identifier type="unibi">17978</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">State-to-state rotational energy transfer (RET) coefficients were determined for inelastic collisions of OH (A 2[Sigma]+, v&apos;=0) with N2, CO2, and H20 at 300K. The experimental procedure described previously allows the direct evaluation of state-specific RET coefficients from timeresolved laser-induced fluorescence (LIF) measurements without any assumptions on the RET. The results show strikingly different RET behaviour for the three collision partners. The data can serve as a basis for a comparison with dynamic collision models.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Kohse_Hoeinghaus_29.pdf">https://pub.uni-bielefeld.de/download/1778037/2312398</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1992</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Applied Physics B</title></titleInfo>
+  <identifier type="issn">0721-7269</identifier>
+  <identifier type="eIssn">1432-0649</identifier>
+  <identifier type="ISI">A1992JR46600001</identifier><identifier type="urn">urn:nbn:de:0070-pub-17780379</identifier><identifier type="doi">10.1007/BF00333071</identifier>
+<part><detail type="volume"><number>55</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">305-310</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Jörg A, Meier U, Kienle A, Kohse-Höinghaus K (1992) &lt;br /&gt;Applied Physics B 55(4): 305-310.</default>
+<wels>Jörg, A.; Meier, U.; Kienle, A.; Kohse-Höinghaus, K. (1992): State-specific rotational energy transfer in OH (A 2[Sigma]+, v&apos;=0) by some combustion-relevant collision partners &lt;em&gt;Applied Physics B&lt;/em&gt;,55:(4): 305-310.</wels>
+<aps>A.  Jörg, et al., State-specific rotational energy transfer in OH (A 2[Sigma]+, v&apos;=0) by some combustion-relevant collision partners, Applied Physics B &lt;strong&gt;55&lt;/strong&gt;, 305-310 (1992).</aps>
+<bio1>Jörg A, Meier U, Kienle A, Kohse-Höinghaus K (1992) &lt;br /&gt;State-specific rotational energy transfer in OH (A 2[Sigma]+, v&apos;=0) by some combustion-relevant collision partners.&lt;br /&gt;Applied Physics B 55(4): 305-310.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Jörg, A., Meier, U., Kienle, A. &amp;amp; Kohse-Höinghaus, K. (1992). State-specific rotational energy transfer in OH (A 2[Sigma]+, v&apos;=0) by some combustion-relevant collision partners. &lt;em&gt;Applied Physics B&lt;/em&gt;, &lt;em&gt;55&lt;/em&gt;(4), 305-310. doi:10.1007/BF00333071.&lt;/div&gt;</dgps>
+<harvard1>Jörg, A., et al., 1992. State-specific rotational energy transfer in OH (A 2[Sigma]+, v&apos;=0) by some combustion-relevant collision partners. &lt;em&gt;Applied Physics B&lt;/em&gt;, 55(4), p 305-310.</harvard1>
+<ama>Jörg A, Meier U, Kienle A, Kohse-Höinghaus K. State-specific rotational energy transfer in OH (A 2[Sigma]+, v&apos;=0) by some combustion-relevant collision partners. &lt;em&gt;Applied Physics B&lt;/em&gt;. 1992;55(4):305-310.</ama>
+<frontiers>Jörg, A., Meier, U., Kienle, A., and Kohse-Höinghaus, K. (1992). State-specific rotational energy transfer in OH (A 2[Sigma]+, v&apos;=0) by some combustion-relevant collision partners. &lt;em&gt;Applied Physics B&lt;/em&gt; 55, 305-310.</frontiers>
+<angewandte-chemie>A.  Jörg, U.  Meier, A.  Kienle, and K.  Kohse-Höinghaus, “State-specific rotational energy transfer in OH (A 2[Sigma]+, v&apos;=0) by some combustion-relevant collision partners”, &lt;em&gt;Applied Physics B&lt;/em&gt;, &lt;strong&gt;1992&lt;/strong&gt;, &lt;em&gt;55&lt;/em&gt;, 305-310.</angewandte-chemie>
+<apa>Jörg, A., Meier, U., Kienle, A., &amp;amp; Kohse-Höinghaus, K. (1992). State-specific rotational energy transfer in OH (A 2[Sigma]+, v&apos;=0) by some combustion-relevant collision partners. &lt;em&gt;Applied Physics B&lt;/em&gt;, &lt;em&gt;55&lt;/em&gt;(4), 305-310.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Jörg, Andreas, Meier, Ulrich, Kienle, A., and Kohse-Höinghaus, Katharina. 1992. “State-specific rotational energy transfer in OH (A 2[Sigma]+, v&apos;=0) by some combustion-relevant collision partners”. &lt;em&gt;Applied Physics B&lt;/em&gt; 55 (4): 305-310.&lt;/div&gt;</chicago>
+<lncs>Jörg, A., Meier, U., Kienle, A., Kohse-Höinghaus, K.: State-specific rotational energy transfer in OH (A 2[Sigma]+, v&apos;=0) by some combustion-relevant collision partners. Applied Physics B. 55, 305-310 (1992).</lncs>
+<mla>Jörg, Andreas, Meier, Ulrich, Kienle, A., and Kohse-Höinghaus, Katharina. “State-specific rotational energy transfer in OH (A 2[Sigma]+, v&apos;=0) by some combustion-relevant collision partners”. &lt;em&gt;Applied Physics B&lt;/em&gt; 55.4 (1992): 305-310.</mla>
+<ieee>A. Jörg, et al., “State-specific rotational energy transfer in OH (A 2[Sigma]+, v&apos;=0) by some combustion-relevant collision partners”, &lt;em&gt;Applied Physics B&lt;/em&gt;,  vol. 55, 1992,  pp. 305-310.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Jörg, A., Meier, U., Kienle, A., &amp;amp; Kohse-Höinghaus, K. (1992). State-specific rotational energy transfer in OH (A 2[Sigma]+, v&apos;=0) by some combustion-relevant collision partners. &lt;em&gt;Applied Physics B&lt;/em&gt;, &lt;em&gt;55&lt;/em&gt;(4), 305-310.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1778037</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1778037</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1778037</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

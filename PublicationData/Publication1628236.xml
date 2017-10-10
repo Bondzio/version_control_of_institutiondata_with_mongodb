@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Identification via compressed data</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Rudolf</namePart>
+  <namePart type="family">Ahlswede</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10479</identifier></name>
+<name type="personal">
+  <namePart type="given">EH</namePart>
+  <namePart type="family">Yang</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Z</namePart>
+  <namePart type="family">Zhang</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">A new coding problem is introduced for a correlated source (X(n),Y-n)(n=1)(infinity). The observer of X(n) can transmit data depending on X(n) at a prescribed rate R, Based on these data the observer of Y-n tries to identify whether for some distortion measure rho (like the Hamming distance) n(-1) rho(X(n),Y-n) less than or equal to d, a prescribed fidelity criterion. We investigate as functions of R and d the exponents of two error probabilities, the probabilities for misacceptance, and the probabilities for misrejection, In the case where X(n) and Y-n are independent, we completely characterize the achievable region for the rate R and the exponents of two error probabilities; in the case where X(n) and Y-n are correlated, we get some interesting partial results for the achievable region, During the process, we develop a new method for proving converses, which is called &apos;&apos;The Inherently Typical Subset Lemma,&apos;&apos; This new method goes considerably beyond the &apos;&apos;Entropy Characterization,&apos;&apos; the Image Size Characterization,&apos;&apos; and its extensions, It is conceivable that this new method has a strong impact on Multiuser Information Theory.</abstract>
+
+<originInfo><publisher>IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC</publisher><dateIssued encoding="w3cdtf">1997</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>identification with fidelity</topic><topic>probabilities</topic><topic>multiuser information theory</topic><topic>rate distortion function</topic><topic>misacceptance and misrejection error</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>IEEE TRANSACTIONS ON INFORMATION THEORY</title></titleInfo>
+  <identifier type="issn">0018-9448</identifier>
+  <identifier type="ISI">A1997WB74900005</identifier><identifier type="doi">10.1109/18.567648</identifier>
+<part><detail type="volume"><number>43</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">48-70</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Ahlswede R, Yang EH, Zhang Z. Identification via compressed data. In:  &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;. Vol 43. IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC;  1997: 48-70.</ama>
+<harvard1>Ahlswede, R., Yang, E.H., &amp;amp; Zhang, Z., 1997. Identification via compressed data. In &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;. no.43  IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, pp. 48-70.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R., Yang, E.H. &amp;amp; Zhang, Z. (1997). Identification via compressed data. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt; (S. 48-70). IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC. doi:10.1109/18.567648.&lt;/div&gt;</dgps>
+<aps>R.  Ahlswede, E. H.  Yang, and Z.  Zhang, Identification via compressed data, in &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, &lt;strong&gt;43&lt;/strong&gt; (IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 1997), p. 48-70.</aps>
+<bio1>Ahlswede R, Yang EH, Zhang Z (1997) &lt;br /&gt;Identification via compressed data. &lt;br /&gt;In:  IEEE TRANSACTIONS ON INFORMATION THEORY. 43. IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC:  48-70.</bio1>
+<wels>Ahlswede, R.; Yang, E. H.; Zhang, Z. (1997): Identification via compressed data. In: IEEE TRANSACTIONS ON INFORMATION THEORY. IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC. (43).  S. 48-70.</wels>
+<default>Ahlswede R, Yang EH, Zhang Z (1997)  &lt;br /&gt;In:  IEEE TRANSACTIONS ON INFORMATION THEORY. 43. IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC:  48-70.</default>
+<ieee>R. Ahlswede, E.H. Yang, and Z. Zhang, “Identification via compressed data”, &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, vol. 43, IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 1997,  pp.48-70.</ieee>
+<lncs>Ahlswede, R., Yang, E.H., Zhang, Z.: Identification via compressed data. IEEE TRANSACTIONS ON INFORMATION THEORY. 43, p. 48-70. IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC (1997).</lncs>
+<mla>Ahlswede, Rudolf, Yang, EH, and Zhang, Z. “Identification via compressed data”. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;. IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 1997.Vol. 43. 48-70.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R., Yang, E. H., &amp;amp; Zhang, Z. (1997). Identification via compressed data. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, &lt;em&gt;43&lt;/em&gt;(1), 48-70.&lt;/div&gt;</apa_indent>
+<apa>Ahlswede, R., Yang, E. H., &amp;amp; Zhang, Z. (1997). Identification via compressed data. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, &lt;em&gt;43&lt;/em&gt;(1), 48-70.</apa>
+<angewandte-chemie>R.  Ahlswede, E. H.  Yang, and Z.  Zhang, in &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, Ieee-Inst Electrical Electronics Engineers Inc, &lt;strong&gt;1997&lt;/strong&gt;, p. 48-70.</angewandte-chemie>
+<frontiers>Ahlswede, R., Yang, E. H., and Zhang, Z. (1997). “Identification via compressed data” in &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, vol. 43, (IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC), 48-70.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, Rudolf, Yang, EH, and Zhang, Z. 1997. “Identification via compressed data”. In &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, 43:48-70. IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1628236</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:23:23Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-11-11T11:17:32Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1628236</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1628236</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

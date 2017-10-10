@@ -1,0 +1,132 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>A method for linking computed image features to histological semantics in neuropathology</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">B.</namePart>
+  <namePart type="family">Lessmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Tim Wilhelm</namePart>
+  <namePart type="family">Nattkemper</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11602</identifier></name>
+<name type="personal">
+  <namePart type="given">V. H.</namePart>
+  <namePart type="family">Hans</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A.</namePart>
+  <namePart type="family">Degenhard</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Biodata Mining</namePart>
+  <identifier type="unibi">29610175</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group T. Nattkemper</namePart>
+  <identifier type="unibi">33067409</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Genominformatik</namePart>
+  <identifier type="unibi">66100</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">In medical image analysis the image content is often represented by features computed from the pixel matrix in order to support the development of improved clinical diagnosis systems. These features need to be interpreted and understood at a clinical level of understanding Many features are of abstract nature, as for instance features derived from a wavelet transform. The interpretation and analysis of such features are difficult. This lack of coincidence between computed features and their meaning for a user in a given situation is commonly referred to as the semantic gap. In this work, we propose a method for feature analysis and interpretation based oil the simultaneous visualization of feature and image domain. Histopathological images of meningiomas WHO (World Health Organization) grade I are represented by features derived from color transforms and the Discrete Wavelet Transform. The wavelet-based feature space is then visualized and explored using unsupervised machine learning methods. We show how to analyze and select features according to their relevance for the description of clinically relevant characteristics. (C) 2007 Elsevier Inc. All rights reserved.</abstract>
+
+<originInfo><publisher>ACADEMIC PRESS INC ELSEVIER SCIENCE</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Self Organizing Map</topic><topic>Discrete Wavelet Transform</topic><topic>feature selection</topic><topic>histopathology</topic><topic>image analysis</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Journal of Biomedical Informatics</title></titleInfo>
+  <identifier type="issn">1532-0464</identifier>
+  <identifier type="MEDLINE">17698418</identifier>
+  <identifier type="ISI">000252356500004</identifier><identifier type="doi">10.1016/j.jbi.2007.06.007</identifier>
+<part><detail type="volume"><number>40</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">631-641</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Lessmann B, Nattkemper TW, Hans VH, Degenhard A (2007) &lt;br /&gt;Journal of Biomedical Informatics 40(6): 631-641.</default>
+<wels>Lessmann, B.; Nattkemper, T. W.; Hans, V. H.; Degenhard, A. (2007): A method for linking computed image features to histological semantics in neuropathology &lt;em&gt;Journal of Biomedical Informatics&lt;/em&gt;,40:(6): 631-641.</wels>
+<bio1>Lessmann B, Nattkemper TW, Hans VH, Degenhard A (2007) &lt;br /&gt;A method for linking computed image features to histological semantics in neuropathology.&lt;br /&gt;Journal of Biomedical Informatics 40(6): 631-641.</bio1>
+<aps>B.  Lessmann, et al., A method for linking computed image features to histological semantics in neuropathology, Journal of Biomedical Informatics &lt;strong&gt;40&lt;/strong&gt;, 631-641 (2007).</aps>
+<ama>Lessmann B, Nattkemper TW, Hans VH, Degenhard A. A method for linking computed image features to histological semantics in neuropathology. &lt;em&gt;Journal of Biomedical Informatics&lt;/em&gt;. 2007;40(6):631-641.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lessmann, B., Nattkemper, T.W., Hans, V.H. &amp;amp; Degenhard, A. (2007). A method for linking computed image features to histological semantics in neuropathology. &lt;em&gt;Journal of Biomedical Informatics&lt;/em&gt;, &lt;em&gt;40&lt;/em&gt;(6), 631-641. ACADEMIC PRESS INC ELSEVIER SCIENCE. doi:10.1016/j.jbi.2007.06.007.&lt;/div&gt;</dgps>
+<harvard1>Lessmann, B., et al., 2007. A method for linking computed image features to histological semantics in neuropathology. &lt;em&gt;Journal of Biomedical Informatics&lt;/em&gt;, 40(6), p 631-641.</harvard1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lessmann, B., Nattkemper, Tim Wilhelm, Hans, V. H., and Degenhard, A. 2007. “A method for linking computed image features to histological semantics in neuropathology”. &lt;em&gt;Journal of Biomedical Informatics&lt;/em&gt; 40 (6): 631-641.&lt;/div&gt;</chicago>
+<frontiers>Lessmann, B., Nattkemper, T. W., Hans, V. H., and Degenhard, A. (2007). A method for linking computed image features to histological semantics in neuropathology. &lt;em&gt;Journal of Biomedical Informatics&lt;/em&gt; 40, 631-641.</frontiers>
+<angewandte-chemie>B.  Lessmann, T. W.  Nattkemper, V. H.  Hans, and A.  Degenhard, “A method for linking computed image features to histological semantics in neuropathology”, &lt;em&gt;Journal of Biomedical Informatics&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;40&lt;/em&gt;, 631-641.</angewandte-chemie>
+<apa>Lessmann, B., Nattkemper, T. W., Hans, V. H., &amp;amp; Degenhard, A. (2007). A method for linking computed image features to histological semantics in neuropathology. &lt;em&gt;Journal of Biomedical Informatics&lt;/em&gt;, &lt;em&gt;40&lt;/em&gt;(6), 631-641.</apa>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lessmann, B., Nattkemper, T. W., Hans, V. H., &amp;amp; Degenhard, A. (2007). A method for linking computed image features to histological semantics in neuropathology. &lt;em&gt;Journal of Biomedical Informatics&lt;/em&gt;, &lt;em&gt;40&lt;/em&gt;(6), 631-641.&lt;/div&gt;</apa_indent>
+<mla>Lessmann, B., Nattkemper, Tim Wilhelm, Hans, V. H., and Degenhard, A. “A method for linking computed image features to histological semantics in neuropathology”. &lt;em&gt;Journal of Biomedical Informatics&lt;/em&gt; 40.6 (2007): 631-641.</mla>
+<lncs>Lessmann, B., Nattkemper, T.W., Hans, V.H., Degenhard, A.: A method for linking computed image features to histological semantics in neuropathology. Journal of Biomedical Informatics. 40, 631-641 (2007).</lncs>
+<ieee>B. Lessmann, et al., “A method for linking computed image features to histological semantics in neuropathology”, &lt;em&gt;Journal of Biomedical Informatics&lt;/em&gt;,  vol. 40, 2007,  pp. 631-641.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1630749</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:05:11Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-26T12:33:35Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1630749</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1630749</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

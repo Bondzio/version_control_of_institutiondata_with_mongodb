@@ -1,0 +1,166 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>EVAR: ein sprachverstehendes Dialogsystem</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">W.</namePart>
+  <namePart type="family">Eckert</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Gernot A.</namePart>
+  <namePart type="family">Fink</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A.</namePart>
+  <namePart type="family">Kießling</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">R.</namePart>
+  <namePart type="family">Kompe</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Thomas</namePart>
+  <namePart type="family">Kuhn</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Franz</namePart>
+  <namePart type="family">Kummert</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10372</identifier></name>
+<name type="personal">
+  <namePart type="given">Marion</namePart>
+  <namePart type="family">Mast</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Heinrich</namePart>
+  <namePart type="family">Niemann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">E.</namePart>
+  <namePart type="family">Nöth</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">R.</namePart>
+  <namePart type="family">Prechtel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">S.</namePart>
+  <namePart type="family">Rieck</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Gerhard</namePart>
+  <namePart type="family">Sagerer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10375</identifier></name>
+<name type="personal">
+  <namePart type="given">A.</namePart>
+  <namePart type="family">Scheuer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">G.</namePart>
+  <namePart type="family">Schukat-Talamazzini</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">B.</namePart>
+  <namePart type="family">Seestaedt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Günther</namePart><namePart type="family">Görz</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Technische Fakultät</namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Angewandte Informatik</namePart>
+  <identifier type="unibi">18304588</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">This article presents the speech understanding and dialog system EVAR and concentrates on the linguistic processing of the system. The task of EVAR is to lead an information retrieval dialogue about the German InterCity train system. The linguistic knowledge is uniformly represented in a semantic network structure. The knowledge base is well structured following the layered linguistic model. Interface to the speech recognition is the level of word hypotheses. The control algorithm is independent of the application and allows to alternate dynamically between the two fundamental control strategies top-down and bottom-up. The linguistic knowledge represented in the system is used to control the recognition phase and for the understanding phase. The system can handle defect input due to recognition errors. Results are presented for speaker-dependent and multi-speaker versions of the recognition module.</abstract>
+<abstract lang="eng">Dieser Artikel befaßt sich mit dem sprachverstehenden Dialogsystem EVAR, insbesondere mit der linguistischen Verarbeitung des Systems. Aufgabe von EVAR ist die Führung eines informationsabfragenden Dialogs über das deutsche InterCity-Zugsystem. Das linguistische Wissen ist einheitlich in einem semantischen Netz repräsentiert. Die Wissensbasis ist gemäß einem geschichteten linguistischen Modell strukturiert. Schnittstelle zur Spracherkennung ist die Worthypothesen-Ebene. Der Kontrollalgorithmus ist anwendungsunabhängig formuliert und erlaubt das dynamische Umschalten zwischen den beiden grundlegenden Analysestrategien top-down und bottom-up. Das im System repräsentierte Wissen wird sowohl zur Steuerung der Erkennungsphase als auch in der Verstehensphase benutzt. Das System ist in der Lage, Anfragen trotz fehlerhafter Erkennungsergebnisse zu bearbeiten. Ergebnisse für eine sprecherabhängige- und eine Mehrsprecher-Version der Erkennung werden vorgestellt.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Kummert_037.pdf">https://pub.uni-bielefeld.de/download/1780627/2312975</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Springer</publisher><dateIssued encoding="w3cdtf">1992</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+<subject><topic>Sprachverarbeitung</topic><topic>Kongress</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>KONVENS 92: 1. Konferenz &quot;Verarbeitung Natürlicher Sprache&quot;, Nürnberg, 7. - 9. Oktober 1992</title></titleInfo>
+  <identifier type="isbn">3-540-55959-0</identifier><identifier type="urn">urn:nbn:de:0070-bipr-21632</identifier>
+<part><extent unit="pages">49-58</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Eckert W, Fink GA, Kießling A, Kompe R, Kuhn T, Kummert F, Mast M, Niemann H, Nöth E, Prechtel R, Rieck S, et al. (1992)  &lt;br /&gt;In:  KONVENS 92: 1. Konferenz &quot;Verarbeitung Natürlicher Sprache&quot;, Nürnberg, 7. - 9. Oktober 1992. Görz G (Ed); Informatik aktuell, . Berlin [u.a.]: Springer:  49-58.</default>
+<wels>Eckert, W.; Fink, G. A.; Kießling, A.; Kompe, R.; Kuhn, T.; Kummert, F.; Mast, M.; Niemann, H.; Nöth, E.; Prechtel, R.; Rieck, S.; Sagerer, G.; Scheuer, A.; Schukat-Talamazzini, G.; Seestaedt, B. (1992): EVAR: ein sprachverstehendes Dialogsystem. In: Günther Görz (Hrsg.):  KONVENS 92: 1. Konferenz &quot;Verarbeitung Natürlicher Sprache&quot;, Nürnberg, 7. - 9. Oktober 1992. Berlin [u.a.]: Springer. (Informatik aktuell, ).  S. 49-58.</wels>
+<aps>W.  Eckert, et al., EVAR: ein sprachverstehendes Dialogsystem, in &lt;em&gt;KONVENS 92: 1. Konferenz &quot;Verarbeitung Natürlicher Sprache&quot;, Nürnberg, 7. - 9. Oktober 1992&lt;/em&gt;, edited by G.  Görz, Informatik aktuell (Springer, Berlin [U.a.], 1992), p. 49-58.</aps>
+<bio1>Eckert W, Fink GA, Kießling A, Kompe R, Kuhn T, Kummert F, Mast M, Niemann H, Nöth E, Prechtel R, Rieck S, Sagerer G, Scheuer A, Schukat-Talamazzini G, Seestaedt B (1992) &lt;br /&gt;EVAR: ein sprachverstehendes Dialogsystem. &lt;br /&gt;In:  KONVENS 92: 1. Konferenz &quot;Verarbeitung Natürlicher Sprache&quot;, Nürnberg, 7. - 9. Oktober 1992. Görz G (Ed); Informatik aktuell,  Berlin [u.a.]: Springer:  49-58.</bio1>
+<ama>Eckert W, Fink GA, Kießling A, et al. EVAR: ein sprachverstehendes Dialogsystem. In: Görz G, ed. &lt;em&gt;KONVENS 92: 1. Konferenz &quot;Verarbeitung Natürlicher Sprache&quot;, Nürnberg, 7. - 9. Oktober 1992&lt;/em&gt;. Informatik aktuell. Berlin [u.a.]: Springer;  1992: 49-58.</ama>
+<harvard1>Eckert, W., et al., 1992. EVAR: ein sprachverstehendes Dialogsystem. In G.  Görz, ed. &lt;em&gt;KONVENS 92: 1. Konferenz &quot;Verarbeitung Natürlicher Sprache&quot;, Nürnberg, 7. - 9. Oktober 1992&lt;/em&gt;. Informatik aktuell.  Berlin [u.a.]: Springer, pp. 49-58.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Eckert, W., Fink, G.A., Kießling, A., Kompe, R., Kuhn, T., Kummert, F., Mast, M., Niemann, H., Nöth, E., Prechtel, R., Rieck, S., Sagerer, G., Scheuer, A., Schukat-Talamazzini, G. &amp;amp; Seestaedt, B. (1992). EVAR: ein sprachverstehendes Dialogsystem (Informatik aktuell). &lt;em&gt;KONVENS 92: 1. Konferenz &quot;Verarbeitung Natürlicher Sprache&quot;, Nürnberg, 7. - 9. Oktober 1992&lt;/em&gt; (S. 49-58). Berlin [u.a.]: Springer.&lt;/div&gt;</dgps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Eckert, W., Fink, Gernot A., Kießling, A., Kompe, R., Kuhn, Thomas, Kummert, Franz, Mast, Marion, et al. 1992. “EVAR: ein sprachverstehendes Dialogsystem”. In &lt;em&gt;KONVENS 92: 1. Konferenz &quot;Verarbeitung Natürlicher Sprache&quot;, Nürnberg, 7. - 9. Oktober 1992&lt;/em&gt;, ed. Günther Görz, 49-58. Informatik aktuell. Berlin [u.a.]: Springer.&lt;/div&gt;</chicago>
+<frontiers>Eckert, W., Fink, G. A., Kießling, A., Kompe, R., Kuhn, T., Kummert, F., Mast, M., Niemann, H., Nöth, E., Prechtel, R., et al. (1992). “EVAR: ein sprachverstehendes Dialogsystem” in &lt;em&gt;KONVENS 92: 1. Konferenz &quot;Verarbeitung Natürlicher Sprache&quot;, Nürnberg, 7. - 9. Oktober 1992&lt;/em&gt;, ed. G.  Görz Informatik aktuell (Berlin [u.a.]: Springer), 49-58.</frontiers>
+<apa>Eckert, W., Fink, G. A., Kießling, A., Kompe, R., Kuhn, T., Kummert, F., Mast, M., et al. (1992). EVAR: ein sprachverstehendes Dialogsystem. In G.  Görz (Ed.), &lt;em&gt;Informatik aktuell&lt;/em&gt;&lt;em&gt;. KONVENS 92: 1. Konferenz &quot;Verarbeitung Natürlicher Sprache&quot;, Nürnberg, 7. - 9. Oktober 1992&lt;/em&gt; (pp. 49-58). Berlin [u.a.]: Springer.</apa>
+<angewandte-chemie>W.  Eckert, G. A.  Fink, A.  Kießling, R.  Kompe, T.  Kuhn, F.  Kummert, M.  Mast, H.  Niemann, E.  Nöth, R.  Prechtel, et al., in &lt;em&gt;KONVENS 92: 1. Konferenz &quot;Verarbeitung Natürlicher Sprache&quot;, Nürnberg, 7. - 9. Oktober 1992&lt;/em&gt; (Ed.: G. Görz), Springer, Berlin [u.a.], &lt;strong&gt;1992&lt;/strong&gt;, p. 49-58.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Eckert, W., Fink, G. A., Kießling, A., Kompe, R., Kuhn, T., Kummert, F., Mast, M., et al. (1992). EVAR: ein sprachverstehendes Dialogsystem. In G.  Görz (Ed.), &lt;em&gt;Informatik aktuell&lt;/em&gt;&lt;em&gt;. KONVENS 92: 1. Konferenz &quot;Verarbeitung Natürlicher Sprache&quot;, Nürnberg, 7. - 9. Oktober 1992&lt;/em&gt; (pp. 49-58). Berlin [u.a.]: Springer.&lt;/div&gt;</apa_indent>
+<lncs>Eckert, W., Fink, G.A., Kießling, A., Kompe, R., Kuhn, T., Kummert, F., Mast, M., Niemann, H., Nöth, E., Prechtel, R., Rieck, S., Sagerer, G., Scheuer, A., Schukat-Talamazzini, G., Seestaedt, B.: EVAR: ein sprachverstehendes Dialogsystem. In: Görz, G. (ed.) KONVENS 92: 1. Konferenz &quot;Verarbeitung Natürlicher Sprache&quot;, Nürnberg, 7. - 9. Oktober 1992. Informatik aktuell. p. 49-58. Springer, Berlin [u.a.] (1992).</lncs>
+<mla>Eckert, W., Fink, Gernot A., Kießling, A., Kompe, R., Kuhn, Thomas, Kummert, Franz, Mast, Marion, Niemann, Heinrich, Nöth, E., Prechtel, R., Rieck, S., Sagerer, Gerhard, Scheuer, A., Schukat-Talamazzini, G., and Seestaedt, B. “EVAR: ein sprachverstehendes Dialogsystem”. &lt;em&gt;KONVENS 92: 1. Konferenz &quot;Verarbeitung Natürlicher Sprache&quot;, Nürnberg, 7. - 9. Oktober 1992&lt;/em&gt;. Ed. Günther Görz. Berlin [u.a.]: Springer, 1992. Informatik aktuell. 49-58.</mla>
+<ieee>W. Eckert, et al., “EVAR: ein sprachverstehendes Dialogsystem”, &lt;em&gt;KONVENS 92: 1. Konferenz &quot;Verarbeitung Natürlicher Sprache&quot;, Nürnberg, 7. - 9. Oktober 1992&lt;/em&gt;, G. Görz, ed., Informatik aktuell,  Berlin [u.a.]: Springer, 1992,  pp.49-58.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780627</recordIdentifier><recordChangeDate encoding="w3cdtf">2013-09-06T14:09:11Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780627</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780627</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

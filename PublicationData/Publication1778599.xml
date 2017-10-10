@@ -1,0 +1,105 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Faith development research at twenty years</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Heinz</namePart>
+  <namePart type="family">Streib</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40417</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Osmer</namePart><namePart type="family">Richard R.</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Schweitzer</namePart><namePart type="family">Friedrich</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Abteilung Theologie</namePart>
+  <identifier type="unibi">10034</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Streib-twentyyears.pdf">https://pub.uni-bielefeld.de/download/1778599/2312485</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Streib_2003_Fd-at-20">https://pub.uni-bielefeld.de/download/1778599/2210154</url>
+  </location>
+  <physicalDescription><internetMediaType>ARRAY(0x91b40f8)</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Chalice Press</publisher><dateIssued encoding="w3cdtf">2003</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Developing a public faith: New directions in practical theology, essays in honor of James. W. Fowler</title></titleInfo><identifier type="urn">urn:nbn:de:0070-bipr-16559</identifier>
+<part><extent unit="pages">15-42</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>Streib H (2003) &lt;br /&gt;Faith development research at twenty years. &lt;br /&gt;In:  Developing a public faith: New directions in practical theology, essays in honor of James. W. Fowler. Richard R. O, Friedrich S (Eds); St. Louis: Chalice Press:  15-42.</bio1>
+<aps>H.  Streib, Faith development research at twenty years, in &lt;em&gt;Developing a public faith: New directions in practical theology, essays in honor of James. W. Fowler&lt;/em&gt;, edited by O.  Richard R. and S.  Friedrich (Chalice Press, St. Louis, 2003), p. 15-42.</aps>
+<harvard1>Streib, H., 2003. Faith development research at twenty years. In O.  Richard R. &amp;amp; S.  Friedrich, eds. &lt;em&gt;Developing a public faith: New directions in practical theology, essays in honor of James. W. Fowler&lt;/em&gt;.  St. Louis: Chalice Press, pp. 15-42.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Streib, H. (2003). Faith development research at twenty years. &lt;em&gt;Developing a public faith: New directions in practical theology, essays in honor of James. W. Fowler&lt;/em&gt; (S. 15-42). St. Louis: Chalice Press.&lt;/div&gt;</dgps>
+<ama>Streib H. Faith development research at twenty years. In: Richard R. O, Friedrich S, eds. &lt;em&gt;Developing a public faith: New directions in practical theology, essays in honor of James. W. Fowler&lt;/em&gt;. St. Louis: Chalice Press;  2003: 15-42.</ama>
+<default>Streib H (2003)  &lt;br /&gt;In:  Developing a public faith: New directions in practical theology, essays in honor of James. W. Fowler. Richard R. O, Friedrich S (Eds);St. Louis: Chalice Press:  15-42.</default>
+<wels>Streib, H. (2003): Faith development research at twenty years. In: Osmer Richard R.; Schweitzer Friedrich (Hrsg.):  Developing a public faith: New directions in practical theology, essays in honor of James. W. Fowler. St. Louis: Chalice Press.  S. 15-42.</wels>
+<lncs>Streib, H.: Faith development research at twenty years. In: Richard R., O. and Friedrich, S. (eds.) Developing a public faith: New directions in practical theology, essays in honor of James. W. Fowler. p. 15-42. Chalice Press, St. Louis (2003).</lncs>
+<mla>Streib, Heinz. “Faith development research at twenty years”. &lt;em&gt;Developing a public faith: New directions in practical theology, essays in honor of James. W. Fowler&lt;/em&gt;. Ed. Osmer Richard R. and Schweitzer Friedrich. St. Louis: Chalice Press, 2003. 15-42.</mla>
+<ieee>H. Streib, “Faith development research at twenty years”, &lt;em&gt;Developing a public faith: New directions in practical theology, essays in honor of James. W. Fowler&lt;/em&gt;, O. Richard R. and S. Friedrich, eds.,  St. Louis: Chalice Press, 2003,  pp.15-42.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Streib, H. (2003). Faith development research at twenty years. In O.  Richard R. &amp;amp; S.  Friedrich (Eds.), &lt;em&gt;Developing a public faith: New directions in practical theology, essays in honor of James. W. Fowler&lt;/em&gt; (pp. 15-42). St. Louis: Chalice Press.&lt;/div&gt;</apa_indent>
+<frontiers>Streib, H. (2003). “Faith development research at twenty years” in &lt;em&gt;Developing a public faith: New directions in practical theology, essays in honor of James. W. Fowler&lt;/em&gt;, ed. O.  Richard R. and S.  Friedrich (St. Louis: Chalice Press), 15-42.</frontiers>
+<apa>Streib, H. (2003). Faith development research at twenty years. In O.  Richard R. &amp;amp; S.  Friedrich (Eds.), &lt;em&gt;Developing a public faith: New directions in practical theology, essays in honor of James. W. Fowler&lt;/em&gt; (pp. 15-42). St. Louis: Chalice Press.</apa>
+<angewandte-chemie>H.  Streib, in &lt;em&gt;Developing a public faith: New directions in practical theology, essays in honor of James. W. Fowler&lt;/em&gt; (Eds.: O. Richard R., S. Friedrich), Chalice Press, St. Louis, &lt;strong&gt;2003&lt;/strong&gt;, p. 15-42.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Streib, Heinz. 2003. “Faith development research at twenty years”. In &lt;em&gt;Developing a public faith: New directions in practical theology, essays in honor of James. W. Fowler&lt;/em&gt;, ed. Osmer Richard R. and Schweitzer Friedrich, 15-42. St. Louis: Chalice Press.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1778599</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1778599</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1778599</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

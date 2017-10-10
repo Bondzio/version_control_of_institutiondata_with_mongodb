@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Expressionistischer Leseabend</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Hans</namePart>
+  <namePart type="family">Kroeger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Werner</namePart><namePart type="family">Glenewinkel</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Wissenschaftliche Einrichtung Oberstufenkolleg</namePart>
+  <identifier type="unibi">11292831</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT3366.pdf">https://pub.uni-bielefeld.de/download/1782858/2314029</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Oberstufenkolleg</publisher><dateIssued encoding="w3cdtf">1982</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Pädagogische Stöberkiste: Anregendes u. Nachdenkliches, Praktisches u. Nützliches</title></titleInfo>
+  <identifier type="isbn">3-921912-99-7</identifier><identifier type="urn">urn:nbn:de:0070-bipr-33660</identifier>
+<part><extent unit="pages">15-19</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>Kroeger H (1982) &lt;br /&gt;Expressionistischer Leseabend. &lt;br /&gt;In:  Pädagogische Stöberkiste: Anregendes u. Nachdenkliches, Praktisches u. Nützliches. Glenewinkel W (Ed); Bielefeld: Oberstufenkolleg:  15-19.</bio1>
+<aps>H.  Kroeger, Expressionistischer Leseabend, in &lt;em&gt;Pädagogische Stöberkiste: Anregendes u. Nachdenkliches, Praktisches u. Nützliches&lt;/em&gt;, edited by W.  Glenewinkel (Oberstufenkolleg, Bielefeld, 1982), p. 15-19.</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kroeger, H. (1982). Expressionistischer Leseabend. &lt;em&gt;Pädagogische Stöberkiste: Anregendes u. Nachdenkliches, Praktisches u. Nützliches&lt;/em&gt; (S. 15-19). Bielefeld: Oberstufenkolleg.&lt;/div&gt;</dgps>
+<harvard1>Kroeger, H., 1982. Expressionistischer Leseabend. In W.  Glenewinkel, ed. &lt;em&gt;Pädagogische Stöberkiste: Anregendes u. Nachdenkliches, Praktisches u. Nützliches&lt;/em&gt;.  Bielefeld: Oberstufenkolleg, pp. 15-19.</harvard1>
+<ama>Kroeger H. Expressionistischer Leseabend. In: Glenewinkel W, ed. &lt;em&gt;Pädagogische Stöberkiste: Anregendes u. Nachdenkliches, Praktisches u. Nützliches&lt;/em&gt;. Bielefeld: Oberstufenkolleg;  1982: 15-19.</ama>
+<default>Kroeger H (1982)  &lt;br /&gt;In:  Pädagogische Stöberkiste: Anregendes u. Nachdenkliches, Praktisches u. Nützliches. Glenewinkel W (Ed);Bielefeld: Oberstufenkolleg:  15-19.</default>
+<wels>Kroeger, H. (1982): Expressionistischer Leseabend. In: Werner Glenewinkel (Hrsg.):  Pädagogische Stöberkiste: Anregendes u. Nachdenkliches, Praktisches u. Nützliches. Bielefeld: Oberstufenkolleg.  S. 15-19.</wels>
+<mla>Kroeger, Hans. “Expressionistischer Leseabend”. &lt;em&gt;Pädagogische Stöberkiste: Anregendes u. Nachdenkliches, Praktisches u. Nützliches&lt;/em&gt;. Ed. Werner Glenewinkel. Bielefeld: Oberstufenkolleg, 1982. 15-19.</mla>
+<lncs>Kroeger, H.: Expressionistischer Leseabend. In: Glenewinkel, W. (ed.) Pädagogische Stöberkiste: Anregendes u. Nachdenkliches, Praktisches u. Nützliches. p. 15-19. Oberstufenkolleg, Bielefeld (1982).</lncs>
+<ieee>H. Kroeger, “Expressionistischer Leseabend”, &lt;em&gt;Pädagogische Stöberkiste: Anregendes u. Nachdenkliches, Praktisches u. Nützliches&lt;/em&gt;, W. Glenewinkel, ed.,  Bielefeld: Oberstufenkolleg, 1982,  pp.15-19.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kroeger, H. (1982). Expressionistischer Leseabend. In W.  Glenewinkel (Ed.), &lt;em&gt;Pädagogische Stöberkiste: Anregendes u. Nachdenkliches, Praktisches u. Nützliches&lt;/em&gt; (pp. 15-19). Bielefeld: Oberstufenkolleg.&lt;/div&gt;</apa_indent>
+<frontiers>Kroeger, H. (1982). “Expressionistischer Leseabend” in &lt;em&gt;Pädagogische Stöberkiste: Anregendes u. Nachdenkliches, Praktisches u. Nützliches&lt;/em&gt;, ed. W.  Glenewinkel (Bielefeld: Oberstufenkolleg), 15-19.</frontiers>
+<apa>Kroeger, H. (1982). Expressionistischer Leseabend. In W.  Glenewinkel (Ed.), &lt;em&gt;Pädagogische Stöberkiste: Anregendes u. Nachdenkliches, Praktisches u. Nützliches&lt;/em&gt; (pp. 15-19). Bielefeld: Oberstufenkolleg.</apa>
+<angewandte-chemie>H.  Kroeger, in &lt;em&gt;Pädagogische Stöberkiste: Anregendes u. Nachdenkliches, Praktisches u. Nützliches&lt;/em&gt; (Ed.: W. Glenewinkel), Oberstufenkolleg, Bielefeld, &lt;strong&gt;1982&lt;/strong&gt;, p. 15-19.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kroeger, Hans. 1982. “Expressionistischer Leseabend”. In &lt;em&gt;Pädagogische Stöberkiste: Anregendes u. Nachdenkliches, Praktisches u. Nützliches&lt;/em&gt;, ed. Werner Glenewinkel, 15-19. Bielefeld: Oberstufenkolleg.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1782858</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1782858</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1782858</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,141 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Direct Imitation of Human Facial Expressions by a User-Interface Robot</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Marko</namePart>
+  <namePart type="family">Tscherepanow</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">128602</identifier></name>
+<name type="personal">
+  <namePart type="given">Matthias</namePart>
+  <namePart type="family">Hillebrand</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Frank</namePart>
+  <namePart type="family">Hegel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">147843</identifier></name>
+<name type="personal">
+  <namePart type="given">Britta</namePart>
+  <namePart type="family">Wrede</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10380</identifier></name>
+<name type="personal">
+  <namePart type="given">Franz</namePart>
+  <namePart type="family">Kummert</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10372</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Center of Excellence - Cognitive Interaction Technology CITEC</namePart>
+  <identifier type="unibi">8014655</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Institute for Cognition and Robotics</namePart>
+  <identifier type="unibi">5408013</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Angewandte Informatik</namePart>
+  <identifier type="unibi">18304588</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>C2 - Communicating Emotions</namePart>
+  <identifier type="unibi">27015500</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+<name type="conference">
+  <namePart>IEEE-RAS International Conference on Humanoid Robots (Humanoids)</namePart>
+</name>
+
+
+
+
+
+
+<abstract lang="eng">Imitating the facial expressions of another person is a meaningful signal within interpersonal communication. Providing a robot with the capability of imitating the face of an interactant marks a first step towards implementing a communication model of mimicry. In this paper, we present a novel approach to facial expression imitation which does not require observed expressions to be assigned to a set of basic emotional expressions. Rather, arbitrary expressions are directly imitated exclusively based on camera images of the interactant’s face. Consequently, therepertoireof displayable expressions is extended significantly and becomes more appropriate for interactions with humans.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="2009_tscherepanow_Humanoids09.pdf">https://pub.uni-bielefeld.de/download/1925655/2489012</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+</relatedItem>
+<originInfo><publisher>IEEE-RAS</publisher><dateIssued encoding="w3cdtf">2009</dateIssued><place><placeTerm type="text">Paris, France</placeTerm></place>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Proceedings of the IEEE-RAS International Conference on Humanoid Robots (Humanoids)</title></titleInfo><identifier type="doi">10.1109/ichr.2009.5379583</identifier>
+<part><extent unit="pages">154-160</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Tscherepanow, M.; Hillebrand, M.; Hegel, F.; Wrede, B.; Kummert, F. (2009): Direct Imitation of Human Facial Expressions by a User-Interface Robot. In: Proceedings of the IEEE-RAS International Conference on Humanoid Robots (Humanoids). IEEE-RAS.  S. 154-160.</wels>
+<default>Tscherepanow M, Hillebrand M, Hegel F, Wrede B, Kummert F (2009)  &lt;br /&gt;In:  Proceedings of the IEEE-RAS International Conference on Humanoid Robots (Humanoids). IEEE-RAS:  154-160.</default>
+<harvard1>Tscherepanow, M., et al., 2009. Direct Imitation of Human Facial Expressions by a User-Interface Robot. In &lt;em&gt;Proceedings of the IEEE-RAS International Conference on Humanoid Robots (Humanoids)&lt;/em&gt;.  IEEE-RAS, pp. 154-160.</harvard1>
+<ama>Tscherepanow M, Hillebrand M, Hegel F, Wrede B, Kummert F. Direct Imitation of Human Facial Expressions by a User-Interface Robot. In:  &lt;em&gt;Proceedings of the IEEE-RAS International Conference on Humanoid Robots (Humanoids)&lt;/em&gt;. IEEE-RAS;  2009: 154-160.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Tscherepanow, M., Hillebrand, M., Hegel, F., Wrede, B. &amp;amp; Kummert, F. (2009). Direct Imitation of Human Facial Expressions by a User-Interface Robot. &lt;em&gt;Proceedings of the IEEE-RAS International Conference on Humanoid Robots (Humanoids)&lt;/em&gt; (S. 154-160). Gehalten auf der IEEE-RAS International Conference on Humanoid Robots (Humanoids), IEEE-RAS. doi:10.1109/ichr.2009.5379583.&lt;/div&gt;</dgps>
+<aps>M.  Tscherepanow, et al., Direct Imitation of Human Facial Expressions by a User-Interface Robot, in &lt;em&gt;Proceedings of the IEEE-RAS International Conference on Humanoid Robots (Humanoids)&lt;/em&gt; (IEEE-RAS, 2009), p. 154-160.</aps>
+<bio1>Tscherepanow M, Hillebrand M, Hegel F, Wrede B, Kummert F (2009) &lt;br /&gt;Direct Imitation of Human Facial Expressions by a User-Interface Robot. &lt;br /&gt;In:  Proceedings of the IEEE-RAS International Conference on Humanoid Robots (Humanoids).  IEEE-RAS:  154-160.</bio1>
+<apa>Tscherepanow, M., Hillebrand, M., Hegel, F., Wrede, B., &amp;amp; Kummert, F. (2009). Direct Imitation of Human Facial Expressions by a User-Interface Robot. &lt;em&gt;Proceedings of the IEEE-RAS International Conference on Humanoid Robots (Humanoids)&lt;/em&gt;, 154-160.</apa>
+<angewandte-chemie>M.  Tscherepanow, M.  Hillebrand, F.  Hegel, B.  Wrede, and F.  Kummert, in &lt;em&gt;Proceedings of the IEEE-RAS International Conference on Humanoid Robots (Humanoids)&lt;/em&gt;, Ieee-Ras, &lt;strong&gt;2009&lt;/strong&gt;, p. 154-160.</angewandte-chemie>
+<frontiers>Tscherepanow, M., Hillebrand, M., Hegel, F., Wrede, B., and Kummert, F. (2009). “Direct Imitation of Human Facial Expressions by a User-Interface Robot” in &lt;em&gt;Proceedings of the IEEE-RAS International Conference on Humanoid Robots (Humanoids)&lt;/em&gt; (IEEE-RAS), 154-160.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Tscherepanow, Marko, Hillebrand, Matthias, Hegel, Frank, Wrede, Britta, and Kummert, Franz. 2009. “Direct Imitation of Human Facial Expressions by a User-Interface Robot”. In &lt;em&gt;Proceedings of the IEEE-RAS International Conference on Humanoid Robots (Humanoids)&lt;/em&gt;, 154-160. IEEE-RAS.&lt;/div&gt;</chicago>
+<ieee>M. Tscherepanow, et al., “Direct Imitation of Human Facial Expressions by a User-Interface Robot”, &lt;em&gt;Proceedings of the IEEE-RAS International Conference on Humanoid Robots (Humanoids)&lt;/em&gt;, IEEE-RAS, 2009,  pp.154-160.</ieee>
+<lncs>Tscherepanow, M., Hillebrand, M., Hegel, F., Wrede, B., Kummert, F.: Direct Imitation of Human Facial Expressions by a User-Interface Robot. Proceedings of the IEEE-RAS International Conference on Humanoid Robots (Humanoids). p. 154-160. IEEE-RAS (2009).</lncs>
+<mla>Tscherepanow, Marko, Hillebrand, Matthias, Hegel, Frank, Wrede, Britta, and Kummert, Franz. “Direct Imitation of Human Facial Expressions by a User-Interface Robot”. &lt;em&gt;Proceedings of the IEEE-RAS International Conference on Humanoid Robots (Humanoids)&lt;/em&gt;. IEEE-RAS, 2009. 154-160.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Tscherepanow, M., Hillebrand, M., Hegel, F., Wrede, B., &amp;amp; Kummert, F. (2009). Direct Imitation of Human Facial Expressions by a User-Interface Robot. &lt;em&gt;Proceedings of the IEEE-RAS International Conference on Humanoid Robots (Humanoids)&lt;/em&gt;, 154-160.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1925655</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-12-03T09:53:14Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2013-10-15T10:45:40Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1925655</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1925655</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

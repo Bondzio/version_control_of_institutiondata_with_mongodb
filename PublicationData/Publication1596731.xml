@@ -1,0 +1,119 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Visual exploratory analysis of DCE-MRI data in breast cancer by dimensional data reduction: A comparative study</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Claudio</namePart>
+  <namePart type="family">Varini</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Degenhard</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Tim Wilhelm</namePart>
+  <namePart type="family">Nattkemper</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11602</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33067409</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">One trend in modern medical imaging is the growing signal dimension in new multi-modal or multivariate imaging approaches. To analyze such high dimensional data. new approaches need to be proposed and evaluated. The Scope Of this study is to investigate the potential of three different algorithms for dimensional data reduction for the visual exploration of biomedical signals arising front dynamic contrast-enhanced magnetic resonance (DCE-MRI) applied to breast cancer detection. The algorithms employed are the established Principal Component Analysis (PCA) and Self-Organizing Maps (SOM) and the recently proposed Locally Linear Embedding (LLE). The experimental dataset comprises the time-series associated with the voxels of six benign and six malignant breast juniors. Ill order to visually explore the dataset, the multi-dimensional signal space of all the time-series is projected into a two-dimensional space by PCA, SOM and LLE, respectively, We show how the visualization of the respective projected spaces with customized colors call allow the user to discover hidden regularities in the data. ill particular with regard to the differentiation between benign and malignant lesions, The performances of the three algorithms are quantitatively compared. while discussing their advantages and drawbacks. (c) 2006 Elsevier Ltd. All rights reserved.</abstract>
+
+<originInfo><publisher>ELSEVIER SCI LTD</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Visual data exploration</topic><topic>Embedding (LLE)</topic><topic>Principal Component Analysis (PCA)</topic><topic>Dimensional data reduction</topic><topic>Self-Organizing</topic><topic>Maps (SOM)</topic><topic>Locally Linear</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>BIOMEDICAL SIGNAL PROCESSING AND CONTROL</title></titleInfo>
+  <identifier type="issn">1746-8094</identifier>
+  <identifier type="ISI">000205644200006</identifier><identifier type="doi">10.1016/j.bspc.2006.05.001</identifier>
+<part><detail type="volume"><number>1</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">56-63</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Varini C, Degenhard A, Nattkemper TW (2006) &lt;br /&gt;BIOMEDICAL SIGNAL PROCESSING AND CONTROL 1(1): 56-63.</default>
+<wels>Varini, C.; Degenhard, A.; Nattkemper, T. W. (2006): Visual exploratory analysis of DCE-MRI data in breast cancer by dimensional data reduction: A comparative study &lt;em&gt;BIOMEDICAL SIGNAL PROCESSING AND CONTROL&lt;/em&gt;,1:(1): 56-63.</wels>
+<aps> C.  Varini, A.  Degenhard, and T. W.  Nattkemper, Visual exploratory analysis of DCE-MRI data in breast cancer by dimensional data reduction: A comparative study, BIOMEDICAL SIGNAL PROCESSING AND CONTROL &lt;strong&gt;1&lt;/strong&gt;, 56-63 (2006).</aps>
+<bio1>Varini C, Degenhard A, Nattkemper TW (2006) &lt;br /&gt;Visual exploratory analysis of DCE-MRI data in breast cancer by dimensional data reduction: A comparative study.&lt;br /&gt;BIOMEDICAL SIGNAL PROCESSING AND CONTROL 1(1): 56-63.</bio1>
+<ama>Varini C, Degenhard A, Nattkemper TW. Visual exploratory analysis of DCE-MRI data in breast cancer by dimensional data reduction: A comparative study. &lt;em&gt;BIOMEDICAL SIGNAL PROCESSING AND CONTROL&lt;/em&gt;. 2006;1(1):56-63.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Varini, C., Degenhard, A. &amp;amp; Nattkemper, T.W. (2006). Visual exploratory analysis of DCE-MRI data in breast cancer by dimensional data reduction: A comparative study. &lt;em&gt;BIOMEDICAL SIGNAL PROCESSING AND CONTROL&lt;/em&gt;, &lt;em&gt;1&lt;/em&gt;(1), 56-63. ELSEVIER SCI LTD. doi:10.1016/j.bspc.2006.05.001.&lt;/div&gt;</dgps>
+<harvard1>Varini, C., Degenhard, A., &amp;amp; Nattkemper, T.W., 2006. Visual exploratory analysis of DCE-MRI data in breast cancer by dimensional data reduction: A comparative study. &lt;em&gt;BIOMEDICAL SIGNAL PROCESSING AND CONTROL&lt;/em&gt;, 1(1), p 56-63.</harvard1>
+<frontiers>Varini, C., Degenhard, A., and Nattkemper, T. W. (2006). Visual exploratory analysis of DCE-MRI data in breast cancer by dimensional data reduction: A comparative study. &lt;em&gt;BIOMEDICAL SIGNAL PROCESSING AND CONTROL&lt;/em&gt; 1, 56-63.</frontiers>
+<apa>Varini, C., Degenhard, A., &amp;amp; Nattkemper, T. W. (2006). Visual exploratory analysis of DCE-MRI data in breast cancer by dimensional data reduction: A comparative study. &lt;em&gt;BIOMEDICAL SIGNAL PROCESSING AND CONTROL&lt;/em&gt;, &lt;em&gt;1&lt;/em&gt;(1), 56-63.</apa>
+<angewandte-chemie>C.  Varini, A.  Degenhard, and T. W.  Nattkemper, “Visual exploratory analysis of DCE-MRI data in breast cancer by dimensional data reduction: A comparative study”, &lt;em&gt;BIOMEDICAL SIGNAL PROCESSING AND CONTROL&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;1&lt;/em&gt;, 56-63.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Varini, Claudio, Degenhard, Andreas, and Nattkemper, Tim Wilhelm. 2006. “Visual exploratory analysis of DCE-MRI data in breast cancer by dimensional data reduction: A comparative study”. &lt;em&gt;BIOMEDICAL SIGNAL PROCESSING AND CONTROL&lt;/em&gt; 1 (1): 56-63.&lt;/div&gt;</chicago>
+<lncs> Varini, C., Degenhard, A., Nattkemper, T.W.: Visual exploratory analysis of DCE-MRI data in breast cancer by dimensional data reduction: A comparative study. BIOMEDICAL SIGNAL PROCESSING AND CONTROL. 1, 56-63 (2006).</lncs>
+<mla>Varini, Claudio, Degenhard, Andreas, and Nattkemper, Tim Wilhelm. “Visual exploratory analysis of DCE-MRI data in breast cancer by dimensional data reduction: A comparative study”. &lt;em&gt;BIOMEDICAL SIGNAL PROCESSING AND CONTROL&lt;/em&gt; 1.1 (2006): 56-63.</mla>
+<ieee> C. Varini, A. Degenhard, and T.W. Nattkemper, “Visual exploratory analysis of DCE-MRI data in breast cancer by dimensional data reduction: A comparative study”, &lt;em&gt;BIOMEDICAL SIGNAL PROCESSING AND CONTROL&lt;/em&gt;,  vol. 1, 2006,  pp. 56-63.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Varini, C., Degenhard, A., &amp;amp; Nattkemper, T. W. (2006). Visual exploratory analysis of DCE-MRI data in breast cancer by dimensional data reduction: A comparative study. &lt;em&gt;BIOMEDICAL SIGNAL PROCESSING AND CONTROL&lt;/em&gt;, &lt;em&gt;1&lt;/em&gt;(1), 56-63.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1596731</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:18:32Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-12T12:16:32Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1596731</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1596731</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

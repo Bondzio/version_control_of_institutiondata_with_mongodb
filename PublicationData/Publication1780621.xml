@@ -1,0 +1,118 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>The interaction of word recognition and linguistic processing in speech understanding</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Heinrich</namePart>
+  <namePart type="family">Niemann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Gerhard</namePart>
+  <namePart type="family">Sagerer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10375</identifier></name>
+<name type="personal">
+  <namePart type="given">Ute</namePart>
+  <namePart type="family">Ehrlich</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">G.</namePart>
+  <namePart type="family">Schukat-Talamazzini</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Franz</namePart>
+  <namePart type="family">Kummert</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10372</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Pietro</namePart><namePart type="family">Laface</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">R.</namePart><namePart type="family">de Mori</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">18304588</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Kummert_034.pdf">https://pub.uni-bielefeld.de/download/1780621/2312973</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Springer</publisher><dateIssued encoding="w3cdtf">1992</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Automatische Spracherkennung</topic><topic>Kongress</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Speech recognition and understanding</title></titleInfo>
+  <identifier type="isbn">3-540-54032-6</identifier><identifier type="urn">urn:nbn:de:0070-bipr-21613</identifier>
+<part><extent unit="pages">425-453</extent>
+</part>
+</relatedItem>
+
+<note type="nonBielefeld">yes</note>
+<extension>
+<bibliographicCitation>
+<apa>Niemann, H., Sagerer, G., Ehrlich, U., Schukat-Talamazzini, G., &amp;amp; Kummert, F. (1992). The interaction of word recognition and linguistic processing in speech understanding. In P.  Laface &amp;amp; R.  de Mori (Eds.), &lt;em&gt;NATO ASI series, Series F: Computer and systems sciences ; 75&lt;/em&gt;&lt;em&gt;. Speech recognition and understanding&lt;/em&gt; (pp. 425-453). Berlin [u.a.]: Springer.</apa>
+<angewandte-chemie>H.  Niemann, G.  Sagerer, U.  Ehrlich, G.  Schukat-Talamazzini, and F.  Kummert, in &lt;em&gt;Speech recognition and understanding&lt;/em&gt; (Eds.: P. Laface, R. de Mori), Springer, Berlin [u.a.], &lt;strong&gt;1992&lt;/strong&gt;, p. 425-453.</angewandte-chemie>
+<frontiers>Niemann, H., Sagerer, G., Ehrlich, U., Schukat-Talamazzini, G., and Kummert, F. (1992). “The interaction of word recognition and linguistic processing in speech understanding” in &lt;em&gt;Speech recognition and understanding&lt;/em&gt;, Laface, P., and de Mori, R. eds. NATO ASI series, Series F: Computer and systems sciences ; 75 (Berlin [u.a.]: Springer), 425-453.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Niemann, Heinrich, Sagerer, Gerhard, Ehrlich, Ute, Schukat-Talamazzini, G., and Kummert, Franz. 1992. “The interaction of word recognition and linguistic processing in speech understanding”. In &lt;em&gt;Speech recognition and understanding&lt;/em&gt;, ed. Pietro Laface and R. de Mori, 425-453. NATO ASI series, Series F: Computer and systems sciences ; 75. Berlin [u.a.]: Springer.&lt;/div&gt;</chicago>
+<ieee> H. Niemann, et al., “The interaction of word recognition and linguistic processing in speech understanding”, &lt;em&gt;Speech recognition and understanding&lt;/em&gt;, P. Laface and R. de Mori, eds., NATO ASI series, Series F: Computer and systems sciences ; 75,  Berlin [u.a.]: Springer, 1992,  pp.425-453.</ieee>
+<mla>Niemann, Heinrich, Sagerer, Gerhard, Ehrlich, Ute, Schukat-Talamazzini, G., and Kummert, Franz. “The interaction of word recognition and linguistic processing in speech understanding”. &lt;em&gt;Speech recognition and understanding&lt;/em&gt;. Ed. Pietro Laface and R. de Mori. Berlin [u.a.]: Springer, 1992. NATO ASI series, Series F: Computer and systems sciences ; 75. 425-453.</mla>
+<lncs> Niemann, H., Sagerer, G., Ehrlich, U., Schukat-Talamazzini, G., Kummert, F.: The interaction of word recognition and linguistic processing in speech understanding. In: Laface, P. and de Mori, R. (eds.) Speech recognition and understanding. NATO ASI series, Series F: Computer and systems sciences ; 75. p. 425-453. Springer, Berlin [u.a.] (1992).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Niemann, H., Sagerer, G., Ehrlich, U., Schukat-Talamazzini, G., &amp;amp; Kummert, F. (1992). The interaction of word recognition and linguistic processing in speech understanding. In P.  Laface &amp;amp; R.  de Mori (Eds.), &lt;em&gt;NATO ASI series, Series F: Computer and systems sciences ; 75&lt;/em&gt;&lt;em&gt;. Speech recognition and understanding&lt;/em&gt; (pp. 425-453). Berlin [u.a.]: Springer.&lt;/div&gt;</apa_indent>
+<wels>Niemann, H.; Sagerer, G.; Ehrlich, U.; Schukat-Talamazzini, G.; Kummert, F. (1992): The interaction of word recognition and linguistic processing in speech understanding. In: Pietro Laface; R. de Mori (Hrsg.):  Speech recognition and understanding. Berlin [u.a.]: Springer. (NATO ASI series, Series F: Computer and systems sciences ; 75, ).  S. 425-453.</wels>
+<default>Niemann H, Sagerer G, Ehrlich U, Schukat-Talamazzini G, Kummert F (1992)  &lt;br /&gt;In:  Speech recognition and understanding. Laface P, de Mori R (Eds); NATO ASI series, Series F: Computer and systems sciences ; 75, . Berlin [u.a.]: Springer:  425-453.</default>
+<ama>Niemann H, Sagerer G, Ehrlich U, Schukat-Talamazzini G, Kummert F. The interaction of word recognition and linguistic processing in speech understanding. In: Laface P, de Mori R, eds. &lt;em&gt;Speech recognition and understanding&lt;/em&gt;. NATO ASI series, Series F: Computer and systems sciences ; 75. Berlin [u.a.]: Springer;  1992: 425-453.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Niemann, H., Sagerer, G., Ehrlich, U., Schukat-Talamazzini, G. &amp;amp; Kummert, F. (1992). The interaction of word recognition and linguistic processing in speech understanding (NATO ASI series, Series F: Computer and systems sciences ; 75). &lt;em&gt;Speech recognition and understanding&lt;/em&gt; (S. 425-453). Berlin [u.a.]: Springer.&lt;/div&gt;</dgps>
+<harvard1>Niemann, H., et al., 1992. The interaction of word recognition and linguistic processing in speech understanding. In P.  Laface &amp;amp; R.  de Mori, eds. &lt;em&gt;Speech recognition and understanding&lt;/em&gt;. NATO ASI series, Series F: Computer and systems sciences ; 75.  Berlin [u.a.]: Springer, pp. 425-453.</harvard1>
+<aps> H.  Niemann, et al., The interaction of word recognition and linguistic processing in speech understanding, in &lt;em&gt;Speech recognition and understanding&lt;/em&gt;, edited by P.  Laface and R.  de Mori, NATO ASI series, Series F: Computer and systems sciences ; 75 (Springer, Berlin [U.a.], 1992), p. 425-453.</aps>
+<bio1>Niemann H, Sagerer G, Ehrlich U, Schukat-Talamazzini G, Kummert F (1992) &lt;br /&gt;The interaction of word recognition and linguistic processing in speech understanding. &lt;br /&gt;In:  Speech recognition and understanding. Laface P, de Mori R (Eds); NATO ASI series, Series F: Computer and systems sciences ; 75,  Berlin [u.a.]: Springer:  425-453.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780621</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-10-27T15:23:11Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-27T15:23:11Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780621</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780621</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

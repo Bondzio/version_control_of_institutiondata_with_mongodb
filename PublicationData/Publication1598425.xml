@@ -1,0 +1,121 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Bioanalysis in structured microfluidic systems</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Alexandra</namePart>
+  <namePart type="family">Ros</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Wibke</namePart>
+  <namePart type="family">Hellmich</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jan</namePart>
+  <namePart type="family">Regtmeier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">148272</identifier></name>
+<name type="personal">
+  <namePart type="given">Thanh Tu</namePart>
+  <namePart type="family">Duong</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Dario</namePart>
+  <namePart type="family">Anselmetti</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40180</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-8720-4369</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33079524</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">29125395</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Microfluiclic and lab-on-a-chip devices have attracted widespread interest in separation sciences and bioanalysis. Recent designs in microfluidic devices extend common separation concepts by exploiting new phenomena for molecular dynamics on a length scale of 10 mu m and below, giving rise to novel manipulation tools and nonintuitive phenomena for microseparations. Here, we focus on three very recent developments for bioseparations based on tailored microfluidic systems: Single cell navigation, trapping and steering with subsequent on-chip lysis, protein separation and LIF detection (Section 3.1), then we report dielectrophoretic trapping and separation of large DNA fragments in structured microfluidic devices (Section 3.2). Finally, a paradoxial migration phenomenon based on thermal fluctuations, periodically arranged microchannels and a biased alternating current electric field is presented in Section 3.3.</abstract>
+
+<originInfo><publisher>WILEY-V C H VERLAG GMBH</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>DNA</topic><topic>single cell</topic><topic>protein</topic><topic>microfluidic device</topic><topic>migration phenomena</topic><topic>analytics</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>ELECTROPHORESIS</title></titleInfo>
+  <identifier type="issn">0173-0835</identifier>
+  <identifier type="eIssn">1522-2683</identifier>
+  <identifier type="MEDLINE">16817165</identifier>
+  <identifier type="ISI">000239360800014</identifier><identifier type="doi">10.1002/elps.200500923</identifier>
+<part><detail type="volume"><number>27</number></detail><detail type="issue"><number>13</number></detail><extent unit="pages">2651-2658</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<lncs> Ros, A., Hellmich, W., Regtmeier, J., Duong, T.T., Anselmetti, D.: Bioanalysis in structured microfluidic systems. ELECTROPHORESIS. 27, 2651-2658 (2006).</lncs>
+<mla>Ros, Alexandra, Hellmich, Wibke, Regtmeier, Jan, Duong, Thanh Tu, and Anselmetti, Dario. “Bioanalysis in structured microfluidic systems”. &lt;em&gt;ELECTROPHORESIS&lt;/em&gt; 27.13 (2006): 2651-2658.</mla>
+<ieee> A. Ros, et al., “Bioanalysis in structured microfluidic systems”, &lt;em&gt;ELECTROPHORESIS&lt;/em&gt;,  vol. 27, 2006,  pp. 2651-2658.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ros, A., Hellmich, W., Regtmeier, J., Duong, T. T., &amp;amp; Anselmetti, D. (2006). Bioanalysis in structured microfluidic systems. &lt;em&gt;ELECTROPHORESIS&lt;/em&gt;, &lt;em&gt;27&lt;/em&gt;(13), 2651-2658.&lt;/div&gt;</apa_indent>
+<frontiers>Ros, A., Hellmich, W., Regtmeier, J., Duong, T. T., and Anselmetti, D. (2006). Bioanalysis in structured microfluidic systems. &lt;em&gt;ELECTROPHORESIS&lt;/em&gt; 27, 2651-2658.</frontiers>
+<angewandte-chemie>A.  Ros, W.  Hellmich, J.  Regtmeier, T. T.  Duong, and D.  Anselmetti, “Bioanalysis in structured microfluidic systems”, &lt;em&gt;ELECTROPHORESIS&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;27&lt;/em&gt;, 2651-2658.</angewandte-chemie>
+<apa>Ros, A., Hellmich, W., Regtmeier, J., Duong, T. T., &amp;amp; Anselmetti, D. (2006). Bioanalysis in structured microfluidic systems. &lt;em&gt;ELECTROPHORESIS&lt;/em&gt;, &lt;em&gt;27&lt;/em&gt;(13), 2651-2658.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ros, Alexandra, Hellmich, Wibke, Regtmeier, Jan, Duong, Thanh Tu, and Anselmetti, Dario. 2006. “Bioanalysis in structured microfluidic systems”. &lt;em&gt;ELECTROPHORESIS&lt;/em&gt; 27 (13): 2651-2658.&lt;/div&gt;</chicago>
+<bio1>Ros A, Hellmich W, Regtmeier J, Duong TT, Anselmetti D (2006) &lt;br /&gt;Bioanalysis in structured microfluidic systems.&lt;br /&gt;ELECTROPHORESIS 27(13): 2651-2658.</bio1>
+<aps> A.  Ros, et al., Bioanalysis in structured microfluidic systems, ELECTROPHORESIS &lt;strong&gt;27&lt;/strong&gt;, 2651-2658 (2006).</aps>
+<harvard1>Ros, A., et al., 2006. Bioanalysis in structured microfluidic systems. &lt;em&gt;ELECTROPHORESIS&lt;/em&gt;, 27(13), p 2651-2658.</harvard1>
+<ama>Ros A, Hellmich W, Regtmeier J, Duong TT, Anselmetti D. Bioanalysis in structured microfluidic systems. &lt;em&gt;ELECTROPHORESIS&lt;/em&gt;. 2006;27(13):2651-2658.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ros, A., Hellmich, W., Regtmeier, J., Duong, T.T. &amp;amp; Anselmetti, D. (2006). Bioanalysis in structured microfluidic systems. &lt;em&gt;ELECTROPHORESIS&lt;/em&gt;, &lt;em&gt;27&lt;/em&gt;(13), 2651-2658. WILEY-V C H VERLAG GMBH. doi:10.1002/elps.200500923.&lt;/div&gt;</dgps>
+<default>Ros A, Hellmich W, Regtmeier J, Duong TT, Anselmetti D (2006) &lt;br /&gt;ELECTROPHORESIS 27(13): 2651-2658.</default>
+<wels>Ros, A.; Hellmich, W.; Regtmeier, J.; Duong, T. T.; Anselmetti, D. (2006): Bioanalysis in structured microfluidic systems &lt;em&gt;ELECTROPHORESIS&lt;/em&gt;,27:(13): 2651-2658.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1598425</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:19:23Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-12T10:00:50Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1598425</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1598425</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

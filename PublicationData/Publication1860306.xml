@@ -1,0 +1,96 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Lernen und Geschlecht</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Barbara</namePart>
+  <namePart type="family">Koch-Priewe</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">9536884</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Christin</namePart><namePart type="family">Grohn-Menard</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">7978212</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+<name type="conference">
+  <namePart>14. Bundeskongress Frauen und Schule</namePart>
+</name>
+
+
+
+
+
+
+
+<originInfo><publisher>Kleine</publisher><dateIssued encoding="w3cdtf">2007</dateIssued><place><placeTerm type="text">Potsdam, Germany</placeTerm></place>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Bildung neu bilden. Balancen finden</title></titleInfo>
+  <identifier type="isbn">978-3-89370-434-7</identifier>
+<part><detail type="volume"><number>163</number></detail><extent unit="pages">82-101</extent>
+</part>
+</relatedItem>
+
+<note type="nonBielefeld">yes</note>
+<extension>
+<bibliographicCitation>
+<frontiers>Koch-Priewe, B. (2007). “Lernen und Geschlecht” in &lt;em&gt;Bildung neu bilden. Balancen finden&lt;/em&gt;, Grohn-Menard, C. ed. Wissenschaftliche Reihe, vol. 163, (Bielefeld: Kleine), 82-101.</frontiers>
+<angewandte-chemie>B.  Koch-Priewe, in &lt;em&gt;Bildung neu bilden. Balancen finden&lt;/em&gt; (Ed.: C. Grohn-Menard), Kleine, Bielefeld, &lt;strong&gt;2007&lt;/strong&gt;, p. 82-101.</angewandte-chemie>
+<apa>Koch-Priewe, B. (2007). Lernen und Geschlecht. In C.  Grohn-Menard (Ed.), &lt;em&gt;Wissenschaftliche Reihe: Vol. 163&lt;/em&gt;&lt;em&gt;. Bildung neu bilden. Balancen finden&lt;/em&gt; (pp. 82-101). Bielefeld: Kleine.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Koch-Priewe, Barbara. 2007. “Lernen und Geschlecht”. In &lt;em&gt;Bildung neu bilden. Balancen finden&lt;/em&gt;, ed. Christin Grohn-Menard, 163:82-101. Wissenschaftliche Reihe. Bielefeld: Kleine.&lt;/div&gt;</chicago>
+<mla>Koch-Priewe, Barbara. “Lernen und Geschlecht”. &lt;em&gt;Bildung neu bilden. Balancen finden&lt;/em&gt;. Ed. Christin Grohn-Menard. Bielefeld: Kleine, 2007.Vol. 163. Wissenschaftliche Reihe. 82-101.</mla>
+<lncs> Koch-Priewe, B.: Lernen und Geschlecht. In: Grohn-Menard, C. (ed.) Bildung neu bilden. Balancen finden. Wissenschaftliche Reihe. 163, p. 82-101. Kleine, Bielefeld (2007).</lncs>
+<ieee> B. Koch-Priewe, “Lernen und Geschlecht”, &lt;em&gt;Bildung neu bilden. Balancen finden&lt;/em&gt;, C. Grohn-Menard, ed., Wissenschaftliche Reihe, vol. 163,  Bielefeld: Kleine, 2007,  pp.82-101.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Koch-Priewe, B. (2007). Lernen und Geschlecht. In C.  Grohn-Menard (Ed.), &lt;em&gt;Wissenschaftliche Reihe: Vol. 163&lt;/em&gt;&lt;em&gt;. Bildung neu bilden. Balancen finden&lt;/em&gt; (pp. 82-101). Bielefeld: Kleine.&lt;/div&gt;</apa_indent>
+<default>Koch-Priewe B (2007)  &lt;br /&gt;In:  Bildung neu bilden. Balancen finden. Grohn-Menard C (Ed); Wissenschaftliche Reihe, 163. Bielefeld: Kleine:  82-101.</default>
+<wels>Koch-Priewe, B. (2007): Lernen und Geschlecht. In: Christin Grohn-Menard (Hrsg.):  Bildung neu bilden. Balancen finden. Bielefeld: Kleine. (Wissenschaftliche Reihe, 163).  S. 82-101.</wels>
+<bio1>Koch-Priewe B (2007) &lt;br /&gt;Lernen und Geschlecht. &lt;br /&gt;In:  Bildung neu bilden. Balancen finden. Grohn-Menard C (Ed); Wissenschaftliche Reihe, 163. Bielefeld: Kleine:  82-101.</bio1>
+<aps> B.  Koch-Priewe, Lernen und Geschlecht, in &lt;em&gt;Bildung neu bilden. Balancen finden&lt;/em&gt;, edited by C.  Grohn-Menard, Wissenschaftliche Reihe, &lt;strong&gt;163&lt;/strong&gt; (Kleine, Bielefeld, 2007), p. 82-101.</aps>
+<ama>Koch-Priewe B. Lernen und Geschlecht. In: Grohn-Menard C, ed. &lt;em&gt;Bildung neu bilden. Balancen finden&lt;/em&gt;. Wissenschaftliche Reihe. Vol 163. Bielefeld: Kleine;  2007: 82-101.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Koch-Priewe, B. (2007). Lernen und Geschlecht (Wissenschaftliche Reihe). &lt;em&gt;Bildung neu bilden. Balancen finden&lt;/em&gt; (S. 82-101). Gehalten auf der 14. Bundeskongress Frauen und Schule, Bielefeld: Kleine.&lt;/div&gt;</dgps>
+<harvard1>Koch-Priewe, B., 2007. Lernen und Geschlecht. In C.  Grohn-Menard, ed. &lt;em&gt;Bildung neu bilden. Balancen finden&lt;/em&gt;. Wissenschaftliche Reihe. no.163  Bielefeld: Kleine, pp. 82-101.</harvard1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1860306</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-11-15T10:52:28Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-11-15T10:52:28Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1860306</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1860306</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

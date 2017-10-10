@@ -1,0 +1,90 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Kinder und Werbung. Zwischen Manipulation und Faszination?</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Uwe</namePart>
+  <namePart type="family">Sander</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">57718</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">7978378</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>tv-diskurs</title></titleInfo>
+  <identifier type="issn">1433-9439</identifier>
+<part><detail type="volume"><number>11</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">15-18</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Sander, U. (2007): Kinder und Werbung. Zwischen Manipulation und Faszination? &lt;em&gt;tv-diskurs&lt;/em&gt;,11:(3): 15-18.</wels>
+<default>Sander U (2007) &lt;br /&gt;tv-diskurs 11(3): 15-18.</default>
+<ama>Sander U. Kinder und Werbung. Zwischen Manipulation und Faszination? &lt;em&gt;tv-diskurs&lt;/em&gt;. 2007;11(3):15-18.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sander, U. (2007). Kinder und Werbung. Zwischen Manipulation und Faszination? &lt;em&gt;tv-diskurs&lt;/em&gt;, &lt;em&gt;11&lt;/em&gt;(3), 15-18.&lt;/div&gt;</dgps>
+<harvard1>Sander, U., 2007. Kinder und Werbung. Zwischen Manipulation und Faszination? &lt;em&gt;tv-diskurs&lt;/em&gt;, 11(3), p 15-18.</harvard1>
+<bio1>Sander U (2007) &lt;br /&gt;Kinder und Werbung. Zwischen Manipulation und Faszination?&lt;br /&gt;tv-diskurs 11(3): 15-18.</bio1>
+<aps> U.  Sander, Kinder und Werbung. Zwischen Manipulation und Faszination?, tv-diskurs &lt;strong&gt;11&lt;/strong&gt;, 15-18 (2007).</aps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sander, Uwe. 2007. “Kinder und Werbung. Zwischen Manipulation und Faszination?”. &lt;em&gt;tv-diskurs&lt;/em&gt; 11 (3): 15-18.&lt;/div&gt;</chicago>
+<angewandte-chemie>U.  Sander, “Kinder und Werbung. Zwischen Manipulation und Faszination?”, &lt;em&gt;tv-diskurs&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;11&lt;/em&gt;, 15-18.</angewandte-chemie>
+<apa>Sander, U. (2007). Kinder und Werbung. Zwischen Manipulation und Faszination? &lt;em&gt;tv-diskurs&lt;/em&gt;, &lt;em&gt;11&lt;/em&gt;(3), 15-18.</apa>
+<frontiers>Sander, U. (2007). Kinder und Werbung. Zwischen Manipulation und Faszination? &lt;em&gt;tv-diskurs&lt;/em&gt; 11, 15-18.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sander, U. (2007). Kinder und Werbung. Zwischen Manipulation und Faszination? &lt;em&gt;tv-diskurs&lt;/em&gt;, &lt;em&gt;11&lt;/em&gt;(3), 15-18.&lt;/div&gt;</apa_indent>
+<ieee> U. Sander, “Kinder und Werbung. Zwischen Manipulation und Faszination?”, &lt;em&gt;tv-diskurs&lt;/em&gt;,  vol. 11, 2007,  pp. 15-18.</ieee>
+<mla>Sander, Uwe. “Kinder und Werbung. Zwischen Manipulation und Faszination?”. &lt;em&gt;tv-diskurs&lt;/em&gt; 11.3 (2007): 15-18.</mla>
+<lncs> Sander, U.: Kinder und Werbung. Zwischen Manipulation und Faszination? tv-diskurs. 11, 15-18 (2007).</lncs>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1858642</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-11-04T10:54:24Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-11-04T10:54:24Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1858642</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1858642</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

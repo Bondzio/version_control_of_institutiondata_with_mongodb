@@ -1,0 +1,123 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>A hydrodynamic switch: Microfluidic separation system for magnetic beads</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">A.</namePart>
+  <namePart type="family">Weddemann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">F.</namePart>
+  <namePart type="family">Wittbracht</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A.</namePart>
+  <namePart type="family">Auge</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Hütten</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40194</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Biophysik und Nanowissenschaften</namePart>
+  <identifier type="unibi">2161137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Dünne Schichten &amp; Physik der Nanostrukturen</namePart>
+  <identifier type="unibi">28536538</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  A. Hütten</namePart>
+  <identifier type="unibi">33079566</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">In this work a device for separating small magnetic particles in continuous flow is introduced, consisting of two microfluidic channels that are connected by a junction channel. Applying two different flow rates, particles can be separated combining hydrodynamic and magnetophoretic effects. The two different flow rates introduce an additional degree of freedom that enables the microfluidic geometry to act as a hydrodynamic switch that can overcome diffusive contributions making the device applicable for particles of the size scale below 100 nm. Theoretical predictions based on finite element methods are compared to experimental observations.</abstract>
+
+<originInfo><publisher>AIP Publishing</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>microchannel flow</topic><topic>finite element analysis</topic><topic>magnetohydrodynamics</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>APPLIED PHYSICS LETTERS</title></titleInfo>
+  <identifier type="issn">0003-6951</identifier>
+  <identifier type="ISI">000265738700082</identifier><identifier type="doi">10.1063/1.3123809</identifier>
+<part><detail type="volume"><number>94</number></detail><detail type="issue"><number>17</number></detail><extent unit="pages">173501</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Weddemann, A.; Wittbracht, F.; Auge, A.; Hütten, A. (2009): A hydrodynamic switch: Microfluidic separation system for magnetic beads &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;,94:(17)</wels>
+<default>Weddemann A, Wittbracht F, Auge A, Hütten A (2009) &lt;br /&gt;APPLIED PHYSICS LETTERS 94(17).</default>
+<harvard1>Weddemann, A., et al., 2009. A hydrodynamic switch: Microfluidic separation system for magnetic beads. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, 94(17).</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Weddemann, A., Wittbracht, F., Auge, A. &amp;amp; Hütten, A. (2009). A hydrodynamic switch: Microfluidic separation system for magnetic beads. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, &lt;em&gt;94&lt;/em&gt;(17). AIP Publishing. doi:10.1063/1.3123809.&lt;/div&gt;</dgps>
+<ama>Weddemann A, Wittbracht F, Auge A, Hütten A. A hydrodynamic switch: Microfluidic separation system for magnetic beads. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;. 2009;94(17).</ama>
+<aps>A.  Weddemann, et al., A hydrodynamic switch: Microfluidic separation system for magnetic beads, APPLIED PHYSICS LETTERS &lt;strong&gt;94&lt;/strong&gt;, (2009).</aps>
+<bio1>Weddemann A, Wittbracht F, Auge A, Hütten A (2009) &lt;br /&gt;A hydrodynamic switch: Microfluidic separation system for magnetic beads.&lt;br /&gt;APPLIED PHYSICS LETTERS 94(17).</bio1>
+<angewandte-chemie>A.  Weddemann, F.  Wittbracht, A.  Auge, and A.  Hütten, “A hydrodynamic switch: Microfluidic separation system for magnetic beads”, &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;94&lt;/em&gt;.</angewandte-chemie>
+<apa>Weddemann, A., Wittbracht, F., Auge, A., &amp;amp; Hütten, A. (2009). A hydrodynamic switch: Microfluidic separation system for magnetic beads. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, &lt;em&gt;94&lt;/em&gt;(17).</apa>
+<frontiers>Weddemann, A., Wittbracht, F., Auge, A., and Hütten, A. (2009). A hydrodynamic switch: Microfluidic separation system for magnetic beads. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt; 94.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Weddemann, A., Wittbracht, F., Auge, A., and Hütten, Andreas. 2009. “A hydrodynamic switch: Microfluidic separation system for magnetic beads”. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt; 94 (17).&lt;/div&gt;</chicago>
+<ieee>A. Weddemann, et al., “A hydrodynamic switch: Microfluidic separation system for magnetic beads”, &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;,  vol. 94, 2009.</ieee>
+<mla>Weddemann, A., Wittbracht, F., Auge, A., and Hütten, Andreas. “A hydrodynamic switch: Microfluidic separation system for magnetic beads”. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt; 94.17 (2009).</mla>
+<lncs>Weddemann, A., Wittbracht, F., Auge, A., Hütten, A.: A hydrodynamic switch: Microfluidic separation system for magnetic beads. APPLIED PHYSICS LETTERS. 94, (2009).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Weddemann, A., Wittbracht, F., Auge, A., &amp;amp; Hütten, A. (2009). A hydrodynamic switch: Microfluidic separation system for magnetic beads. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, &lt;em&gt;94&lt;/em&gt;(17).&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1633921</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:03Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-04T16:05:10Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1633921</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1633921</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

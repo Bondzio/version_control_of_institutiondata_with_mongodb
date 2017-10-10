@@ -1,0 +1,142 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Construction of an adult barnacle (Balanus amphitrite) cDNA library and selection of reference genes for quantitative RT-PCR studies</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Tristano Bacchetti</namePart>
+  <namePart type="family">De Gregoris</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Marco</namePart>
+  <namePart type="family">Borra</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Elio</namePart>
+  <namePart type="family">Biffali</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Thomas</namePart>
+  <namePart type="family">Bekel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">161487</identifier></name>
+<name type="personal">
+  <namePart type="given">J. Grant</namePart>
+  <namePart type="family">Burgess</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Richard R.</namePart>
+  <namePart type="family">Kirby</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Anthony S.</namePart>
+  <namePart type="family">Clare</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Bioinformatics Resource Facility</namePart>
+  <identifier type="unibi">441927</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Fakultät für Biologie</namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">BACKGROUND:
+
+Balanus amphitrite is a barnacle commonly used in biofouling research. Although many aspects of its biology have been elucidated, the lack of genetic information is impeding a molecular understanding of its life cycle. As part of a wider multidisciplinary approach to reveal the biogenic cues influencing barnacle settlement and metamorphosis, we have sequenced and annotated the first cDNA library for B. amphitrite. We also present a systematic validation of potential reference genes for normalization of quantitative real-time PCR (qRT-PCR) data obtained from different developmental stages of this animal.
+
+RESULTS:
+
+We generated a cDNA library containing expressed sequence tags (ESTs) from adult B. amphitrite. A total of 609 unique sequences (comprising 79 assembled clusters and 530 singlets) were derived from 905 reliable unidirectionally sequenced ESTs. Bioinformatics tools such as BLAST, HMMer and InterPro were employed to allow functional annotation of the ESTs. Based on these analyses, we selected 11 genes to study their ability to normalize qRT-PCR data. Total RNA extracted from 7 developmental stages was reverse transcribed and the expression stability of the selected genes was compared using geNorm, BestKeeper and NormFinder. These software programs produced highly comparable results, with the most stable gene being mt-cyb, while tuba, tubb and cp1 were clearly unsuitable for data normalization.
+
+CONCLUSION:
+
+The collection of B. amphitrite ESTs and their annotation has been made publically available representing an important resource for both basic and applied research on this species. We developed a qRT-PCR assay to determine the most reliable reference genes. Transcripts encoding cytochrome b and NADH dehydrogenase subunit 1 were expressed most stably, although other genes also performed well and could prove useful to normalize gene expression studies.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="BMC_08.pdf">https://pub.uni-bielefeld.de/download/1591439/2311105</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Springer Science + Business Media</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>BMC Molecular Biology</title></titleInfo>
+  <identifier type="issn">1471-2199</identifier>
+  <identifier type="MEDLINE">19552808</identifier>
+  <identifier type="ISI">000268669800001</identifier><identifier type="urn">urn:nbn:de:0070-pub-15914399</identifier><identifier type="doi">10.1186/1471-2199-10-62</identifier>
+<part><detail type="volume"><number>10</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">62</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;De Gregoris, Tristano Bacchetti, Borra, Marco, Biffali, Elio, Bekel, Thomas, Burgess, J. Grant, Kirby, Richard R., and Clare, Anthony S. 2009. “Construction of an adult barnacle (Balanus amphitrite) cDNA library and selection of reference genes for quantitative RT-PCR studies”. &lt;em&gt;BMC Molecular Biology&lt;/em&gt; 10 (1).&lt;/div&gt;</chicago>
+<frontiers>De Gregoris, T. B., Borra, M., Biffali, E., Bekel, T., Burgess, J. G., Kirby, R. R., and Clare, A. S. (2009). Construction of an adult barnacle (Balanus amphitrite) cDNA library and selection of reference genes for quantitative RT-PCR studies. &lt;em&gt;BMC Molecular Biology&lt;/em&gt; 10.</frontiers>
+<apa>De Gregoris, T. B., Borra, M., Biffali, E., Bekel, T., Burgess, J. G., Kirby, R. R., &amp;amp; Clare, A. S. (2009). Construction of an adult barnacle (Balanus amphitrite) cDNA library and selection of reference genes for quantitative RT-PCR studies. &lt;em&gt;BMC Molecular Biology&lt;/em&gt;, &lt;em&gt;10&lt;/em&gt;(1).</apa>
+<angewandte-chemie>T. B.  De Gregoris, M.  Borra, E.  Biffali, T.  Bekel, J. G.  Burgess, R. R.  Kirby, and A. S.  Clare, “Construction of an adult barnacle (Balanus amphitrite) cDNA library and selection of reference genes for quantitative RT-PCR studies”, &lt;em&gt;BMC Molecular Biology&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;10&lt;/em&gt;.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;De Gregoris, T. B., Borra, M., Biffali, E., Bekel, T., Burgess, J. G., Kirby, R. R., &amp;amp; Clare, A. S. (2009). Construction of an adult barnacle (Balanus amphitrite) cDNA library and selection of reference genes for quantitative RT-PCR studies. &lt;em&gt;BMC Molecular Biology&lt;/em&gt;, &lt;em&gt;10&lt;/em&gt;(1).&lt;/div&gt;</apa_indent>
+<mla>De Gregoris, Tristano Bacchetti, Borra, Marco, Biffali, Elio, Bekel, Thomas, Burgess, J. Grant, Kirby, Richard R., and Clare, Anthony S. “Construction of an adult barnacle (Balanus amphitrite) cDNA library and selection of reference genes for quantitative RT-PCR studies”. &lt;em&gt;BMC Molecular Biology&lt;/em&gt; 10.1 (2009).</mla>
+<lncs>De Gregoris, T.B., Borra, M., Biffali, E., Bekel, T., Burgess, J.G., Kirby, R.R., Clare, A.S.: Construction of an adult barnacle (Balanus amphitrite) cDNA library and selection of reference genes for quantitative RT-PCR studies. BMC Molecular Biology. 10, (2009).</lncs>
+<ieee>T.B. De Gregoris, et al., “Construction of an adult barnacle (Balanus amphitrite) cDNA library and selection of reference genes for quantitative RT-PCR studies”, &lt;em&gt;BMC Molecular Biology&lt;/em&gt;,  vol. 10, 2009.</ieee>
+<default>De Gregoris TB, Borra M, Biffali E, Bekel T, Burgess JG, Kirby RR, Clare AS (2009) &lt;br /&gt;BMC Molecular Biology 10(1).</default>
+<wels>De Gregoris, T. B.; Borra, M.; Biffali, E.; Bekel, T.; Burgess, J. G.; Kirby, R. R.; Clare, A. S. (2009): Construction of an adult barnacle (Balanus amphitrite) cDNA library and selection of reference genes for quantitative RT-PCR studies &lt;em&gt;BMC Molecular Biology&lt;/em&gt;,10:(1)</wels>
+<aps>T. B.  De Gregoris, et al., Construction of an adult barnacle (Balanus amphitrite) cDNA library and selection of reference genes for quantitative RT-PCR studies, BMC Molecular Biology &lt;strong&gt;10&lt;/strong&gt;, (2009).</aps>
+<bio1>De Gregoris TB, Borra M, Biffali E, Bekel T, Burgess JG, Kirby RR, Clare AS (2009) &lt;br /&gt;Construction of an adult barnacle (Balanus amphitrite) cDNA library and selection of reference genes for quantitative RT-PCR studies.&lt;br /&gt;BMC Molecular Biology 10(1).</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;De Gregoris, T.B., Borra, M., Biffali, E., Bekel, T., Burgess, J.G., Kirby, R.R. &amp;amp; Clare, A.S. (2009). Construction of an adult barnacle (Balanus amphitrite) cDNA library and selection of reference genes for quantitative RT-PCR studies. &lt;em&gt;BMC Molecular Biology&lt;/em&gt;, &lt;em&gt;10&lt;/em&gt;(1). Springer Science + Business Media. doi:10.1186/1471-2199-10-62.&lt;/div&gt;</dgps>
+<harvard1>De Gregoris, T.B., et al., 2009. Construction of an adult barnacle (Balanus amphitrite) cDNA library and selection of reference genes for quantitative RT-PCR studies. &lt;em&gt;BMC Molecular Biology&lt;/em&gt;, 10(1).</harvard1>
+<ama>De Gregoris TB, Borra M, Biffali E, et al. Construction of an adult barnacle (Balanus amphitrite) cDNA library and selection of reference genes for quantitative RT-PCR studies. &lt;em&gt;BMC Molecular Biology&lt;/em&gt;. 2009;10(1).</ama>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1591439</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-26T09:45:51Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2012-03-09T13:17:27Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1591439</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1591439</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

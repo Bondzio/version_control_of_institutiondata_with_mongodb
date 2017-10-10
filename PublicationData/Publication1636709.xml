@@ -1,0 +1,114 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Photoswitching microscopy with standard fluorophores</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Sebastian</namePart>
+  <namePart type="family">van de Linde</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">4886892</identifier></name>
+<name type="personal">
+  <namePart type="given">Robert</namePart>
+  <namePart type="family">Kasper</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">8019781</identifier></name>
+<name type="personal">
+  <namePart type="given">Mike</namePart>
+  <namePart type="family">Heilemann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">4939957</identifier></name>
+<name type="personal">
+  <namePart type="given">Markus</namePart>
+  <namePart type="family">Sauer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">177825</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2161137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We introduce far-field subdiffraction-resolution fluorescence imaging based on photoswitching of individual standard fluorophores in air-saturated solution. Here, photoswitching microscopy relies on the light-induced switching of organic fluorophores (ATTO 655 and ATTO 680) into long-lived metastable dark states and spontaneous repopulation of the fluorescent state. In the presence of low concentrations (2-10 mM) of reducing, thiol-containing compounds such as beta-mercaptoethylamine or glutathione, the density of fluorescent molecules can be adjusted to enable multiple localizations of individual fluorophores with an experimental accuracy of similar to 20 nm. The method requires wide-field illumination with only a single laser beam for read-out and photoswitching and provides superresolution fluorescence images of intracellular structures under live cell compatible conditions.</abstract>
+
+<originInfo><publisher>SPRINGER</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>APPLIED PHYSICS B-LASERS AND OPTICS</title></titleInfo>
+  <identifier type="issn">0946-2171</identifier>
+  <identifier type="eIssn">1432-0649</identifier>
+  <identifier type="ISI">000261026300001</identifier><identifier type="doi">10.1007/s00340-008-3250-9</identifier>
+<part><detail type="volume"><number>93</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">725-731</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>S. van de Linde, et al., “Photoswitching microscopy with standard fluorophores”, &lt;em&gt;APPLIED PHYSICS B-LASERS AND OPTICS&lt;/em&gt;,  vol. 93, 2008,  pp. 725-731.</ieee>
+<lncs>van de Linde, S., Kasper, R., Heilemann, M., Sauer, M.: Photoswitching microscopy with standard fluorophores. APPLIED PHYSICS B-LASERS AND OPTICS. 93, 725-731 (2008).</lncs>
+<mla>van de Linde, Sebastian, Kasper, Robert, Heilemann, Mike, and Sauer, Markus. “Photoswitching microscopy with standard fluorophores”. &lt;em&gt;APPLIED PHYSICS B-LASERS AND OPTICS&lt;/em&gt; 93.4 (2008): 725-731.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;van de Linde, S., Kasper, R., Heilemann, M., &amp;amp; Sauer, M. (2008). Photoswitching microscopy with standard fluorophores. &lt;em&gt;APPLIED PHYSICS B-LASERS AND OPTICS&lt;/em&gt;, &lt;em&gt;93&lt;/em&gt;(4), 725-731.&lt;/div&gt;</apa_indent>
+<apa>van de Linde, S., Kasper, R., Heilemann, M., &amp;amp; Sauer, M. (2008). Photoswitching microscopy with standard fluorophores. &lt;em&gt;APPLIED PHYSICS B-LASERS AND OPTICS&lt;/em&gt;, &lt;em&gt;93&lt;/em&gt;(4), 725-731.</apa>
+<angewandte-chemie>S.  van de Linde, R.  Kasper, M.  Heilemann, and M.  Sauer, “Photoswitching microscopy with standard fluorophores”, &lt;em&gt;APPLIED PHYSICS B-LASERS AND OPTICS&lt;/em&gt;, &lt;strong&gt;2008&lt;/strong&gt;, &lt;em&gt;93&lt;/em&gt;, 725-731.</angewandte-chemie>
+<frontiers>van de Linde, S., Kasper, R., Heilemann, M., and Sauer, M. (2008). Photoswitching microscopy with standard fluorophores. &lt;em&gt;APPLIED PHYSICS B-LASERS AND OPTICS&lt;/em&gt; 93, 725-731.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;van de Linde, Sebastian, Kasper, Robert, Heilemann, Mike, and Sauer, Markus. 2008. “Photoswitching microscopy with standard fluorophores”. &lt;em&gt;APPLIED PHYSICS B-LASERS AND OPTICS&lt;/em&gt; 93 (4): 725-731.&lt;/div&gt;</chicago>
+<harvard1>van de Linde, S., et al., 2008. Photoswitching microscopy with standard fluorophores. &lt;em&gt;APPLIED PHYSICS B-LASERS AND OPTICS&lt;/em&gt;, 93(4), p 725-731.</harvard1>
+<ama>van de Linde S, Kasper R, Heilemann M, Sauer M. Photoswitching microscopy with standard fluorophores. &lt;em&gt;APPLIED PHYSICS B-LASERS AND OPTICS&lt;/em&gt;. 2008;93(4):725-731.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;van de Linde, S., Kasper, R., Heilemann, M. &amp;amp; Sauer, M. (2008). Photoswitching microscopy with standard fluorophores. &lt;em&gt;APPLIED PHYSICS B-LASERS AND OPTICS&lt;/em&gt;, &lt;em&gt;93&lt;/em&gt;(4), 725-731. SPRINGER. doi:10.1007/s00340-008-3250-9.&lt;/div&gt;</dgps>
+<bio1>van de Linde S, Kasper R, Heilemann M, Sauer M (2008) &lt;br /&gt;Photoswitching microscopy with standard fluorophores.&lt;br /&gt;APPLIED PHYSICS B-LASERS AND OPTICS 93(4): 725-731.</bio1>
+<aps>S.  van de Linde, et al., Photoswitching microscopy with standard fluorophores, APPLIED PHYSICS B-LASERS AND OPTICS &lt;strong&gt;93&lt;/strong&gt;, 725-731 (2008).</aps>
+<wels>van de Linde, S.; Kasper, R.; Heilemann, M.; Sauer, M. (2008): Photoswitching microscopy with standard fluorophores &lt;em&gt;APPLIED PHYSICS B-LASERS AND OPTICS&lt;/em&gt;,93:(4): 725-731.</wels>
+<default>van de Linde S, Kasper R, Heilemann M, Sauer M (2008) &lt;br /&gt;APPLIED PHYSICS B-LASERS AND OPTICS 93(4): 725-731.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1636709</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:08:12Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-02-23T14:47:02Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1636709</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1636709</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

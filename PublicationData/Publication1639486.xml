@@ -1,0 +1,124 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Analysis of RNA sequence structure maps by exhaustive enumeration .2. structures of neutral networks and shape space covering</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Walter</namePart>
+  <namePart type="family">Grüner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Robert</namePart>
+  <namePart type="family">Giegerich</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">147565</identifier></name>
+<name type="personal">
+  <namePart type="given">Dirk</namePart>
+  <namePart type="family">Strothmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">Reidys</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jacqueline</namePart>
+  <namePart type="family">Weber</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ivo L.</namePart>
+  <namePart type="family">Hofacker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Peter</namePart>
+  <namePart type="family">Stadler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">22595</identifier></name>
+<name type="personal">
+  <namePart type="given">Peter</namePart>
+  <namePart type="family">Schuster</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Praktische Informatik</namePart>
+  <identifier type="unibi">10039</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The relations between RNA sequences and secondary structures are investigated by exhaustive folding of all GC and AU sequences with chain lengths up to 30. The technique of tries is used for economic data storage and fast retrieval of information. The computed structural data are evaluated through exhaustive enumeration and used as an exact reference for testing analytical results derived from mathematical models and sampling based on statistical methods. Several new concepts of RNA sequence to secondary structure mappings are investigated, among them the structure of neutral networks (being sets of RNA sequences folding into the same structure), percolation of sequence space by neutral networks, and the principle of shape space covering. The data of exhaustive enumeration are compared to the analytical results of a random graph model that reveals the generic properties of sequence to structure mappings based on some base pairing logic. The differences between the numerical and the analytical results are interpreted in terms of specific biophysical properties of RNA molecules.</abstract>
+
+<originInfo><publisher>Springer</publisher><dateIssued encoding="w3cdtf">1996</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>secondary structures</topic><topic>RNA</topic><topic>shape space covering</topic><topic>neutral networks</topic><topic>percolation of sequence space</topic><topic>RNA folding</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Monatshefte für Chemie</title></titleInfo>
+  <identifier type="issn">0026-9247</identifier>
+  <identifier type="eIssn">1434-4475</identifier>
+  <identifier type="ISI">A1996UG71900004</identifier><identifier type="doi">10.1007/BF00810882</identifier>
+<part><detail type="volume"><number>127</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">375-389</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Grüner, W.; Giegerich, R.; Strothmann, D.; Reidys, C.; Weber, J.; Hofacker, I. L.; Stadler, P.; Schuster, P. (1996): Analysis of RNA sequence structure maps by exhaustive enumeration .2. structures of neutral networks and shape space covering &lt;em&gt;Monatshefte für Chemie&lt;/em&gt;,127:(4): 375-389.</wels>
+<default>Grüner W, Giegerich R, Strothmann D, Reidys C, Weber J, Hofacker IL, Stadler P, Schuster P (1996) &lt;br /&gt;Monatshefte für Chemie 127(4): 375-389.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Grüner, W., Giegerich, R., Strothmann, D., Reidys, C., Weber, J., Hofacker, I.L., Stadler, P. &amp;amp; Schuster, P. (1996). Analysis of RNA sequence structure maps by exhaustive enumeration .2. structures of neutral networks and shape space covering. &lt;em&gt;Monatshefte für Chemie&lt;/em&gt;, &lt;em&gt;127&lt;/em&gt;(4), 375-389. Springer. doi:10.1007/BF00810882.&lt;/div&gt;</dgps>
+<harvard1>Grüner, W., et al., 1996. Analysis of RNA sequence structure maps by exhaustive enumeration .2. structures of neutral networks and shape space covering. &lt;em&gt;Monatshefte für Chemie&lt;/em&gt;, 127(4), p 375-389.</harvard1>
+<ama>Grüner W, Giegerich R, Strothmann D, et al. Analysis of RNA sequence structure maps by exhaustive enumeration .2. structures of neutral networks and shape space covering. &lt;em&gt;Monatshefte für Chemie&lt;/em&gt;. 1996;127(4):375-389.</ama>
+<aps>W.  Grüner, et al., Analysis of RNA sequence structure maps by exhaustive enumeration .2. structures of neutral networks and shape space covering, Monatshefte für Chemie &lt;strong&gt;127&lt;/strong&gt;, 375-389 (1996).</aps>
+<bio1>Grüner W, Giegerich R, Strothmann D, Reidys C, Weber J, Hofacker IL, Stadler P, Schuster P (1996) &lt;br /&gt;Analysis of RNA sequence structure maps by exhaustive enumeration .2. structures of neutral networks and shape space covering.&lt;br /&gt;Monatshefte für Chemie 127(4): 375-389.</bio1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Grüner, Walter, Giegerich, Robert, Strothmann, Dirk, Reidys, Christian, Weber, Jacqueline, Hofacker, Ivo L., Stadler, Peter, and Schuster, Peter. 1996. “Analysis of RNA sequence structure maps by exhaustive enumeration .2. structures of neutral networks and shape space covering”. &lt;em&gt;Monatshefte für Chemie&lt;/em&gt; 127 (4): 375-389.&lt;/div&gt;</chicago>
+<angewandte-chemie>W.  Grüner, R.  Giegerich, D.  Strothmann, C.  Reidys, J.  Weber, I. L.  Hofacker, P.  Stadler, and P.  Schuster, “Analysis of RNA sequence structure maps by exhaustive enumeration .2. structures of neutral networks and shape space covering”, &lt;em&gt;Monatshefte für Chemie&lt;/em&gt;, &lt;strong&gt;1996&lt;/strong&gt;, &lt;em&gt;127&lt;/em&gt;, 375-389.</angewandte-chemie>
+<apa>Grüner, W., Giegerich, R., Strothmann, D., Reidys, C., Weber, J., Hofacker, I. L., Stadler, P., et al. (1996). Analysis of RNA sequence structure maps by exhaustive enumeration .2. structures of neutral networks and shape space covering. &lt;em&gt;Monatshefte für Chemie&lt;/em&gt;, &lt;em&gt;127&lt;/em&gt;(4), 375-389.</apa>
+<frontiers>Grüner, W., Giegerich, R., Strothmann, D., Reidys, C., Weber, J., Hofacker, I. L., Stadler, P., and Schuster, P. (1996). Analysis of RNA sequence structure maps by exhaustive enumeration .2. structures of neutral networks and shape space covering. &lt;em&gt;Monatshefte für Chemie&lt;/em&gt; 127, 375-389.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Grüner, W., Giegerich, R., Strothmann, D., Reidys, C., Weber, J., Hofacker, I. L., Stadler, P., et al. (1996). Analysis of RNA sequence structure maps by exhaustive enumeration .2. structures of neutral networks and shape space covering. &lt;em&gt;Monatshefte für Chemie&lt;/em&gt;, &lt;em&gt;127&lt;/em&gt;(4), 375-389.&lt;/div&gt;</apa_indent>
+<ieee>W. Grüner, et al., “Analysis of RNA sequence structure maps by exhaustive enumeration .2. structures of neutral networks and shape space covering”, &lt;em&gt;Monatshefte für Chemie&lt;/em&gt;,  vol. 127, 1996,  pp. 375-389.</ieee>
+<lncs>Grüner, W., Giegerich, R., Strothmann, D., Reidys, C., Weber, J., Hofacker, I.L., Stadler, P., Schuster, P.: Analysis of RNA sequence structure maps by exhaustive enumeration .2. structures of neutral networks and shape space covering. Monatshefte für Chemie. 127, 375-389 (1996).</lncs>
+<mla>Grüner, Walter, Giegerich, Robert, Strothmann, Dirk, Reidys, Christian, Weber, Jacqueline, Hofacker, Ivo L., Stadler, Peter, and Schuster, Peter. “Analysis of RNA sequence structure maps by exhaustive enumeration .2. structures of neutral networks and shape space covering”. &lt;em&gt;Monatshefte für Chemie&lt;/em&gt; 127.4 (1996): 375-389.</mla>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1639486</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:15:15Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-11-22T12:28:40Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1639486</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1639486</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

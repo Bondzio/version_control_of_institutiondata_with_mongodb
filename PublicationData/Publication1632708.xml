@@ -1,0 +1,174 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Analysis of DNA polymorphisms in sugar beet (Beta vulgaris L.) and development of an SNP-based map of expressed genes</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Katharina</namePart>
+  <namePart type="family">Schneider</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Dagmar</namePart>
+  <namePart type="family">Kulosa</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Thomas</namePart>
+  <namePart type="family">Rosleff Sörensen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">152156</identifier></name>
+<name type="personal">
+  <namePart type="given">Silke</namePart>
+  <namePart type="family">Moehring</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Martin</namePart>
+  <namePart type="family">Heine</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Gregor</namePart>
+  <namePart type="family">Durstewitz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Polley</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Eberhard</namePart>
+  <namePart type="family">Weber</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">*</namePart>
+  <namePart type="family">Jamsari</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jens</namePart>
+  <namePart type="family">Lein</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Uwe</namePart>
+  <namePart type="family">Hohmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Emma</namePart>
+  <namePart type="family">Tahiro</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Bernd</namePart>
+  <namePart type="family">Weisshaar</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">86212</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-7635-3473</description></name>
+<name type="personal">
+  <namePart type="given">Britta</namePart>
+  <namePart type="family">Schulz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Georg</namePart>
+  <namePart type="family">Koch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">Jung</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Martin</namePart>
+  <namePart type="family">Ganal</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2684836</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070678</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>SPRINGER</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Theoretical and Applied Genetics</title></titleInfo>
+  <identifier type="issn">0040-5752</identifier>
+  <identifier type="eIssn">1432-2242</identifier>
+  <identifier type="MEDLINE">17622508</identifier>
+  <identifier type="ISI">000249019700002</identifier><identifier type="doi">10.1007/s00122-007-0591-4</identifier>
+<part><detail type="volume"><number>115</number></detail><detail type="issue"><number>5</number></detail><extent unit="pages">601-615</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<angewandte-chemie>K.  Schneider, D.  Kulosa, T.  Rosleff Sörensen, S.  Moehring, M.  Heine, G.  Durstewitz, A.  Polley, E.  Weber, * Jamsari, J.  Lein, et al., “Analysis of DNA polymorphisms in sugar beet (Beta vulgaris L.) and development of an SNP-based map of expressed genes”, &lt;em&gt;Theoretical and Applied Genetics&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;115&lt;/em&gt;, 601-615.</angewandte-chemie>
+<apa>Schneider, K., Kulosa, D., Rosleff Sörensen, T., Moehring, S., Heine, M., Durstewitz, G., Polley, A., et al. (2007). Analysis of DNA polymorphisms in sugar beet (Beta vulgaris L.) and development of an SNP-based map of expressed genes. &lt;em&gt;Theoretical and Applied Genetics&lt;/em&gt;, &lt;em&gt;115&lt;/em&gt;(5), 601-615.</apa>
+<frontiers>Schneider, K., Kulosa, D., Rosleff Sörensen, T., Moehring, S., Heine, M., Durstewitz, G., Polley, A., Weber, E., Jamsari, *, Lein, J., et al. (2007). Analysis of DNA polymorphisms in sugar beet (Beta vulgaris L.) and development of an SNP-based map of expressed genes. &lt;em&gt;Theoretical and Applied Genetics&lt;/em&gt; 115, 601-615.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schneider, Katharina, Kulosa, Dagmar, Rosleff Sörensen, Thomas, Moehring, Silke, Heine, Martin, Durstewitz, Gregor, Polley, Andreas, et al. 2007. “Analysis of DNA polymorphisms in sugar beet (Beta vulgaris L.) and development of an SNP-based map of expressed genes”. &lt;em&gt;Theoretical and Applied Genetics&lt;/em&gt; 115 (5): 601-615.&lt;/div&gt;</chicago>
+<ieee>K. Schneider, et al., “Analysis of DNA polymorphisms in sugar beet (Beta vulgaris L.) and development of an SNP-based map of expressed genes”, &lt;em&gt;Theoretical and Applied Genetics&lt;/em&gt;,  vol. 115, 2007,  pp. 601-615.</ieee>
+<mla>Schneider, Katharina, Kulosa, Dagmar, Rosleff Sörensen, Thomas, Moehring, Silke, Heine, Martin, Durstewitz, Gregor, Polley, Andreas, Weber, Eberhard, Jamsari, *, Lein, Jens, Hohmann, Uwe, Tahiro, Emma, Weisshaar, Bernd, Schulz, Britta, Koch, Georg, Jung, Christian, and Ganal, Martin. “Analysis of DNA polymorphisms in sugar beet (Beta vulgaris L.) and development of an SNP-based map of expressed genes”. &lt;em&gt;Theoretical and Applied Genetics&lt;/em&gt; 115.5 (2007): 601-615.</mla>
+<lncs>Schneider, K., Kulosa, D., Rosleff Sörensen, T., Moehring, S., Heine, M., Durstewitz, G., Polley, A., Weber, E., Jamsari, *, Lein, J., Hohmann, U., Tahiro, E., Weisshaar, B., Schulz, B., Koch, G., Jung, C., Ganal, M.: Analysis of DNA polymorphisms in sugar beet (Beta vulgaris L.) and development of an SNP-based map of expressed genes. Theoretical and Applied Genetics. 115, 601-615 (2007).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schneider, K., Kulosa, D., Rosleff Sörensen, T., Moehring, S., Heine, M., Durstewitz, G., Polley, A., et al. (2007). Analysis of DNA polymorphisms in sugar beet (Beta vulgaris L.) and development of an SNP-based map of expressed genes. &lt;em&gt;Theoretical and Applied Genetics&lt;/em&gt;, &lt;em&gt;115&lt;/em&gt;(5), 601-615.&lt;/div&gt;</apa_indent>
+<wels>Schneider, K.; Kulosa, D.; Rosleff Sörensen, T.; Moehring, S.; Heine, M.; Durstewitz, G.; Polley, A.; Weber, E.; Jamsari, *; Lein, J.; Hohmann, U.; Tahiro, E.; Weisshaar, B.; Schulz, B.; Koch, G.; Jung, C.; Ganal, M. (2007): Analysis of DNA polymorphisms in sugar beet (Beta vulgaris L.) and development of an SNP-based map of expressed genes &lt;em&gt;Theoretical and Applied Genetics&lt;/em&gt;,115:(5): 601-615.</wels>
+<default>Schneider K, Kulosa D, Rosleff Sörensen T, Moehring S, Heine M, Durstewitz G, Polley A, Weber E, Jamsari *, Lein J, Hohmann U, et al. (2007) &lt;br /&gt;Theoretical and Applied Genetics 115(5): 601-615.</default>
+<ama>Schneider K, Kulosa D, Rosleff Sörensen T, et al. Analysis of DNA polymorphisms in sugar beet (Beta vulgaris L.) and development of an SNP-based map of expressed genes. &lt;em&gt;Theoretical and Applied Genetics&lt;/em&gt;. 2007;115(5):601-615.</ama>
+<harvard1>Schneider, K., et al., 2007. Analysis of DNA polymorphisms in sugar beet (Beta vulgaris L.) and development of an SNP-based map of expressed genes. &lt;em&gt;Theoretical and Applied Genetics&lt;/em&gt;, 115(5), p 601-615.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schneider, K., Kulosa, D., Rosleff Sörensen, T., Moehring, S., Heine, M., Durstewitz, G., Polley, A., Weber, E., Jamsari, *, Lein, J., Hohmann, U., Tahiro, E., Weisshaar, B., Schulz, B., Koch, G., Jung, C. &amp;amp; Ganal, M. (2007). Analysis of DNA polymorphisms in sugar beet (Beta vulgaris L.) and development of an SNP-based map of expressed genes. &lt;em&gt;Theoretical and Applied Genetics&lt;/em&gt;, &lt;em&gt;115&lt;/em&gt;(5), 601-615. SPRINGER. doi:10.1007/s00122-007-0591-4.&lt;/div&gt;</dgps>
+<bio1>Schneider K, Kulosa D, Rosleff Sörensen T, Moehring S, Heine M, Durstewitz G, Polley A, Weber E, Jamsari *, Lein J, Hohmann U, Tahiro E, Weisshaar B, Schulz B, Koch G, Jung C, Ganal M (2007) &lt;br /&gt;Analysis of DNA polymorphisms in sugar beet (Beta vulgaris L.) and development of an SNP-based map of expressed genes.&lt;br /&gt;Theoretical and Applied Genetics 115(5): 601-615.</bio1>
+<aps>K.  Schneider, et al., Analysis of DNA polymorphisms in sugar beet (Beta vulgaris L.) and development of an SNP-based map of expressed genes, Theoretical and Applied Genetics &lt;strong&gt;115&lt;/strong&gt;, 601-615 (2007).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1632708</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:06:18Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-01-07T12:47:42Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1632708</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1632708</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

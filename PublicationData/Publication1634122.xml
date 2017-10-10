@@ -1,0 +1,129 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Bio-inspired motion detection in an FPGA-based smart camera module</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Tim</namePart>
+  <namePart type="family">Köhler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">103222</identifier></name>
+<name type="personal">
+  <namePart type="given">F.</namePart>
+  <namePart type="family">Roechter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jens Peter</namePart>
+  <namePart type="family">Lindemann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">128150</identifier></name>
+<name type="personal">
+  <namePart type="given">Ralf</namePart>
+  <namePart type="family">Möller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">94532</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">8014655</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10040</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2684834</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Flying insects, despite their relatively coarse vision and tiny nervous system, are capable of carrying out elegant and fast aerial manoeuvres. Studies of the fly visual system have shown that this is accomplished by the integration of signals from a large number of elementary motion detectors (EMDs) in just a few global flow detector cells. We developed an FPGA-based smart camera module with more than 10000 single EMDs, which is closely modelled after insect motion-detection circuits with respect to overall architecture, resolution and inter-receptor spacing. Input to the EMD array is provided by a CMOS camera with a high frame rate. Designed as an adaptable solution for different engineering applications and as a testbed for biological models, the EMD detector type and parameters such as the EMD time constants, the motion-detection directions and the angle between correlated receptors are reconfigurable online. This allows a flexible and simultaneous detection of complex motion fields such as translation, rotation and looming, such that various tasks, e. g., obstacle avoidance, height/distance control or speed regulation can be performed by the same compact device.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Köhler_etal_Bioinsp.&amp;Biom._2009.pdf">https://pub.uni-bielefeld.de/download/1634122/2906620</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>IOP Publishing</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Bioinspiration &amp; Biomimetics</title></titleInfo>
+  <identifier type="issn">1748-3182</identifier>
+  <identifier type="eIssn">1748-3190</identifier>
+  <identifier type="MEDLINE">19258686</identifier>
+  <identifier type="ISI">000265596700009</identifier><identifier type="urn">urn:nbn:de:0070-pub-16341223</identifier>
+<part><detail type="volume"><number>4</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">015008</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Köhler, T., Roechter, F., Lindemann, J. P., &amp;amp; Möller, R. (2009). Bio-inspired motion detection in an FPGA-based smart camera module. &lt;em&gt;Bioinspiration &amp;amp; Biomimetics&lt;/em&gt;, &lt;em&gt;4&lt;/em&gt;(1).&lt;/div&gt;</apa_indent>
+<lncs> Köhler, T., Roechter, F., Lindemann, J.P., Möller, R.: Bio-inspired motion detection in an FPGA-based smart camera module. Bioinspiration &amp;amp; Biomimetics. 4, (2009).</lncs>
+<mla>Köhler, Tim, Roechter, F., Lindemann, Jens Peter, and Möller, Ralf. “Bio-inspired motion detection in an FPGA-based smart camera module”. &lt;em&gt;Bioinspiration &amp;amp; Biomimetics&lt;/em&gt; 4.1 (2009).</mla>
+<ieee> T. Köhler, et al., “Bio-inspired motion detection in an FPGA-based smart camera module”, &lt;em&gt;Bioinspiration &amp;amp; Biomimetics&lt;/em&gt;,  vol. 4, 2009.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Köhler, Tim, Roechter, F., Lindemann, Jens Peter, and Möller, Ralf. 2009. “Bio-inspired motion detection in an FPGA-based smart camera module”. &lt;em&gt;Bioinspiration &amp;amp; Biomimetics&lt;/em&gt; 4 (1).&lt;/div&gt;</chicago>
+<frontiers>Köhler, T., Roechter, F., Lindemann, J. P., and Möller, R. (2009). Bio-inspired motion detection in an FPGA-based smart camera module. &lt;em&gt;Bioinspiration &amp;amp; Biomimetics&lt;/em&gt; 4.</frontiers>
+<angewandte-chemie>T.  Köhler, F.  Roechter, J. P.  Lindemann, and R.  Möller, “Bio-inspired motion detection in an FPGA-based smart camera module”, &lt;em&gt;Bioinspiration &amp;amp; Biomimetics&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;4&lt;/em&gt;.</angewandte-chemie>
+<apa>Köhler, T., Roechter, F., Lindemann, J. P., &amp;amp; Möller, R. (2009). Bio-inspired motion detection in an FPGA-based smart camera module. &lt;em&gt;Bioinspiration &amp;amp; Biomimetics&lt;/em&gt;, &lt;em&gt;4&lt;/em&gt;(1).</apa>
+<bio1>Köhler T, Roechter F, Lindemann JP, Möller R (2009) &lt;br /&gt;Bio-inspired motion detection in an FPGA-based smart camera module.&lt;br /&gt;Bioinspiration &amp;amp; Biomimetics 4(1).</bio1>
+<aps> T.  Köhler, et al., Bio-inspired motion detection in an FPGA-based smart camera module, Bioinspiration &amp;amp; Biomimetics &lt;strong&gt;4&lt;/strong&gt;, (2009).</aps>
+<ama>Köhler T, Roechter F, Lindemann JP, Möller R. Bio-inspired motion detection in an FPGA-based smart camera module. &lt;em&gt;Bioinspiration &amp;amp; Biomimetics&lt;/em&gt;. 2009;4(1).</ama>
+<harvard1>Köhler, T., et al., 2009. Bio-inspired motion detection in an FPGA-based smart camera module. &lt;em&gt;Bioinspiration &amp;amp; Biomimetics&lt;/em&gt;, 4(1).</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Köhler, T., Roechter, F., Lindemann, J.P. &amp;amp; Möller, R. (2009). Bio-inspired motion detection in an FPGA-based smart camera module. &lt;em&gt;Bioinspiration &amp;amp; Biomimetics&lt;/em&gt;, &lt;em&gt;4&lt;/em&gt;(1). IOP Publishing.&lt;/div&gt;</dgps>
+<default>Köhler T, Roechter F, Lindemann JP, Möller R (2009) &lt;br /&gt;Bioinspiration &amp;amp; Biomimetics 4(1).</default>
+<wels>Köhler, T.; Roechter, F.; Lindemann, J. P.; Möller, R. (2009): Bio-inspired motion detection in an FPGA-based smart camera module &lt;em&gt;Bioinspiration &amp;amp; Biomimetics&lt;/em&gt;,4:(1)</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1634122</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:09Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-11-07T10:03:09Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1634122</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1634122</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,157 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Probing DNA-peptide interaction forces at the single-molecule level</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Norbert</namePart>
+  <namePart type="family">Sewald</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20281</identifier></name>
+<name type="personal">
+  <namePart type="given">Sven D.</namePart>
+  <namePart type="family">Wilking</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Rainer</namePart>
+  <namePart type="family">Eckel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Silvia</namePart>
+  <namePart type="family">Albu</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Katrin</namePart>
+  <namePart type="family">Wollschläger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Katharina</namePart>
+  <namePart type="family">Gaus</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Anke</namePart>
+  <namePart type="family">Becker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Frank W.</namePart>
+  <namePart type="family">Bartels</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Robert</namePart>
+  <namePart type="family">Ros</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Dario</namePart>
+  <namePart type="family">Anselmetti</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40180</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-8720-4369</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">16941123</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">17977</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33079524</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">29125395</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The versatility of chemical peptide synthesis combined with the high sensitivity of AFM single-molecule force spectroscopy allows us to investigate, quantify, and control molecular recognition processes (molecular nanotechnology), offering a tremendous potential in chemical biology. Single-molecule force spectroscopy experiments are able to detect fast intermediate transition states, details of the energy landscape, and structural changes, while avoiding multiple binding events that can occur under ensemble conditions. Dynamic force spectroscopy (DFS) is even able to provide data on the complex lifetime. This minireview outlines the biophysical methodology, discusses different experimental set-ups, and presents representative results in the form of two case studies, both dealing with DNA-binding peptides. They may serve as model systems, e.g., for transcription factors or gene transfection agents. Copyright (c) 2006 European Peptide Society and John Wiley &amp; Sons, Ltd.</abstract>
+
+<originInfo><publisher>JOHN WILEY &amp; SONS LTD</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>DNA</topic><topic>peptide</topic><topic>transcription factor</topic><topic>molecular recognition</topic><topic>single-molecule force spectroscopy</topic><topic>optical</topic><topic>tweezers</topic><topic>atomic force microscopy</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF PEPTIDE SCIENCE</title></titleInfo>
+  <identifier type="issn">1075-2617</identifier>
+  <identifier type="eIssn">1099-1387</identifier>
+  <identifier type="MEDLINE">17131299</identifier>
+  <identifier type="ISI">000243035300014</identifier><identifier type="doi">10.1002/psc.820</identifier>
+<part><detail type="volume"><number>12</number></detail><detail type="issue"><number>12</number></detail><extent unit="pages">836-842</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Sewald N, Wilking SD, Eckel R, Albu S, Wollschläger K, Gaus K, Becker A, Bartels FW, Ros R, Anselmetti D (2006) &lt;br /&gt;JOURNAL OF PEPTIDE SCIENCE 12(12): 836-842.</default>
+<wels>Sewald, N.; Wilking, S. D.; Eckel, R.; Albu, S.; Wollschläger, K.; Gaus, K.; Becker, A.; Bartels, F. W.; Ros, R.; Anselmetti, D. (2006): Probing DNA-peptide interaction forces at the single-molecule level &lt;em&gt;JOURNAL OF PEPTIDE SCIENCE&lt;/em&gt;,12:(12): 836-842.</wels>
+<bio1>Sewald N, Wilking SD, Eckel R, Albu S, Wollschläger K, Gaus K, Becker A, Bartels FW, Ros R, Anselmetti D (2006) &lt;br /&gt;Probing DNA-peptide interaction forces at the single-molecule level.&lt;br /&gt;JOURNAL OF PEPTIDE SCIENCE 12(12): 836-842.</bio1>
+<aps> N.  Sewald, et al., Probing DNA-peptide interaction forces at the single-molecule level, JOURNAL OF PEPTIDE SCIENCE &lt;strong&gt;12&lt;/strong&gt;, 836-842 (2006).</aps>
+<harvard1>Sewald, N., et al., 2006. Probing DNA-peptide interaction forces at the single-molecule level. &lt;em&gt;JOURNAL OF PEPTIDE SCIENCE&lt;/em&gt;, 12(12), p 836-842.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sewald, N., Wilking, S.D., Eckel, R., Albu, S., Wollschläger, K., Gaus, K., Becker, A., Bartels, F.W., Ros, R. &amp;amp; Anselmetti, D. (2006). Probing DNA-peptide interaction forces at the single-molecule level. &lt;em&gt;JOURNAL OF PEPTIDE SCIENCE&lt;/em&gt;, &lt;em&gt;12&lt;/em&gt;(12), 836-842. JOHN WILEY &amp;amp; SONS LTD. doi:10.1002/psc.820.&lt;/div&gt;</dgps>
+<ama>Sewald N, Wilking SD, Eckel R, et al. Probing DNA-peptide interaction forces at the single-molecule level. &lt;em&gt;JOURNAL OF PEPTIDE SCIENCE&lt;/em&gt;. 2006;12(12):836-842.</ama>
+<frontiers>Sewald, N., Wilking, S. D., Eckel, R., Albu, S., Wollschläger, K., Gaus, K., Becker, A., Bartels, F. W., Ros, R., and Anselmetti, D. (2006). Probing DNA-peptide interaction forces at the single-molecule level. &lt;em&gt;JOURNAL OF PEPTIDE SCIENCE&lt;/em&gt; 12, 836-842.</frontiers>
+<angewandte-chemie>N.  Sewald, S. D.  Wilking, R.  Eckel, S.  Albu, K.  Wollschläger, K.  Gaus, A.  Becker, F. W.  Bartels, R.  Ros, and D.  Anselmetti, “Probing DNA-peptide interaction forces at the single-molecule level”, &lt;em&gt;JOURNAL OF PEPTIDE SCIENCE&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;12&lt;/em&gt;, 836-842.</angewandte-chemie>
+<apa>Sewald, N., Wilking, S. D., Eckel, R., Albu, S., Wollschläger, K., Gaus, K., Becker, A., et al. (2006). Probing DNA-peptide interaction forces at the single-molecule level. &lt;em&gt;JOURNAL OF PEPTIDE SCIENCE&lt;/em&gt;, &lt;em&gt;12&lt;/em&gt;(12), 836-842.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sewald, Norbert, Wilking, Sven D., Eckel, Rainer, Albu, Silvia, Wollschläger, Katrin, Gaus, Katharina, Becker, Anke, Bartels, Frank W., Ros, Robert, and Anselmetti, Dario. 2006. “Probing DNA-peptide interaction forces at the single-molecule level”. &lt;em&gt;JOURNAL OF PEPTIDE SCIENCE&lt;/em&gt; 12 (12): 836-842.&lt;/div&gt;</chicago>
+<lncs> Sewald, N., Wilking, S.D., Eckel, R., Albu, S., Wollschläger, K., Gaus, K., Becker, A., Bartels, F.W., Ros, R., Anselmetti, D.: Probing DNA-peptide interaction forces at the single-molecule level. JOURNAL OF PEPTIDE SCIENCE. 12, 836-842 (2006).</lncs>
+<mla>Sewald, Norbert, Wilking, Sven D., Eckel, Rainer, Albu, Silvia, Wollschläger, Katrin, Gaus, Katharina, Becker, Anke, Bartels, Frank W., Ros, Robert, and Anselmetti, Dario. “Probing DNA-peptide interaction forces at the single-molecule level”. &lt;em&gt;JOURNAL OF PEPTIDE SCIENCE&lt;/em&gt; 12.12 (2006): 836-842.</mla>
+<ieee> N. Sewald, et al., “Probing DNA-peptide interaction forces at the single-molecule level”, &lt;em&gt;JOURNAL OF PEPTIDE SCIENCE&lt;/em&gt;,  vol. 12, 2006,  pp. 836-842.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sewald, N., Wilking, S. D., Eckel, R., Albu, S., Wollschläger, K., Gaus, K., Becker, A., et al. (2006). Probing DNA-peptide interaction forces at the single-molecule level. &lt;em&gt;JOURNAL OF PEPTIDE SCIENCE&lt;/em&gt;, &lt;em&gt;12&lt;/em&gt;(12), 836-842.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1596471</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:17:08Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-12T09:57:43Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1596471</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1596471</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

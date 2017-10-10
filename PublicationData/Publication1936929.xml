@@ -1,0 +1,105 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Action Selection and Mental Transformation Based on a Chain of Forward Models</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Heiko</namePart>
+  <namePart type="family">Hoffmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ralf</namePart>
+  <namePart type="family">Möller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">94532</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Stefan</namePart><namePart type="family">Schaal</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Auke</namePart><namePart type="family">Ijspeert</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Aude</namePart><namePart type="family">Billard</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Sethu</namePart><namePart type="family">Vijayakumar</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">John</namePart><namePart type="family">Hallam</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Jean-Arcady</namePart><namePart type="family">Meyer</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>AG Technische Informatik</namePart>
+  <identifier type="unibi">10040</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>MIT Press</publisher><dateIssued encoding="w3cdtf">2004</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>From Animals to Animats 8 (Proc. 8th Intl. Conf. on the Simulation of Adaptive Behavior)</title></titleInfo>
+<part><extent unit="pages">213-222</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Hoffmann, H., and Möller, R. (2004). “Action Selection and Mental Transformation Based on a Chain of Forward Models” in &lt;em&gt;From Animals to Animats 8 (Proc. 8th Intl. Conf. on the Simulation of Adaptive Behavior)&lt;/em&gt;, ed. S.  Schaal, A.  Ijspeert, A.  Billard, S.  Vijayakumar, J.  Hallam, and J. - A.  Meyer (MIT Press), 213-222.</frontiers>
+<angewandte-chemie>H.  Hoffmann, and R.  Möller, in &lt;em&gt;From Animals to Animats 8 (Proc. 8th Intl. Conf. on the Simulation of Adaptive Behavior)&lt;/em&gt; (Eds.: S. Schaal, A. Ijspeert, A. Billard, S. Vijayakumar, J. Hallam, J.-A. Meyer), Mit Press, &lt;strong&gt;2004&lt;/strong&gt;, p. 213-222.</angewandte-chemie>
+<apa>Hoffmann, H., &amp;amp; Möller, R. (2004). Action Selection and Mental Transformation Based on a Chain of Forward Models. In S.  Schaal, A.  Ijspeert, A.  Billard, S.  Vijayakumar, J.  Hallam, &amp;amp; J. - A.  Meyer (Eds.), &lt;em&gt;From Animals to Animats 8 (Proc. 8th Intl. Conf. on the Simulation of Adaptive Behavior)&lt;/em&gt; (pp. 213-222). MIT Press.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hoffmann, Heiko, and Möller, Ralf. 2004. “Action Selection and Mental Transformation Based on a Chain of Forward Models”. In &lt;em&gt;From Animals to Animats 8 (Proc. 8th Intl. Conf. on the Simulation of Adaptive Behavior)&lt;/em&gt;, ed. Stefan Schaal, Auke Ijspeert, Aude Billard, Sethu Vijayakumar, John Hallam, and Jean-Arcady Meyer, 213-222. MIT Press.&lt;/div&gt;</chicago>
+<lncs>Hoffmann, H., Möller, R.: Action Selection and Mental Transformation Based on a Chain of Forward Models. In: Schaal, S., Ijspeert, A., Billard, A., Vijayakumar, S., Hallam, J., and Meyer, J.-A. (eds.) From Animals to Animats 8 (Proc. 8th Intl. Conf. on the Simulation of Adaptive Behavior). p. 213-222. MIT Press (2004).</lncs>
+<mla>Hoffmann, Heiko, and Möller, Ralf. “Action Selection and Mental Transformation Based on a Chain of Forward Models”. &lt;em&gt;From Animals to Animats 8 (Proc. 8th Intl. Conf. on the Simulation of Adaptive Behavior)&lt;/em&gt;. Ed. Stefan Schaal, Auke Ijspeert, Aude Billard, Sethu Vijayakumar, John Hallam, and Jean-Arcady Meyer. MIT Press, 2004. 213-222.</mla>
+<ieee>H. Hoffmann and R. Möller, “Action Selection and Mental Transformation Based on a Chain of Forward Models”, &lt;em&gt;From Animals to Animats 8 (Proc. 8th Intl. Conf. on the Simulation of Adaptive Behavior)&lt;/em&gt;, S. Schaal, et al., eds., MIT Press, 2004,  pp.213-222.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hoffmann, H., &amp;amp; Möller, R. (2004). Action Selection and Mental Transformation Based on a Chain of Forward Models. In S.  Schaal, A.  Ijspeert, A.  Billard, S.  Vijayakumar, J.  Hallam, &amp;amp; J. - A.  Meyer (Eds.), &lt;em&gt;From Animals to Animats 8 (Proc. 8th Intl. Conf. on the Simulation of Adaptive Behavior)&lt;/em&gt; (pp. 213-222). MIT Press.&lt;/div&gt;</apa_indent>
+<default>Hoffmann H, Möller R (2004)  &lt;br /&gt;In:  From Animals to Animats 8 (Proc. 8th Intl. Conf. on the Simulation of Adaptive Behavior). Schaal S, Ijspeert A, Billard A, Vijayakumar S, Hallam J, Meyer J-A (Eds);MIT Press:  213-222.</default>
+<wels>Hoffmann, H.; Möller, R. (2004): Action Selection and Mental Transformation Based on a Chain of Forward Models. In: Stefan Schaal; Auke Ijspeert; Aude Billard; Sethu Vijayakumar; John Hallam; Jean-Arcady Meyer (Hrsg.):  From Animals to Animats 8 (Proc. 8th Intl. Conf. on the Simulation of Adaptive Behavior). MIT Press.  S. 213-222.</wels>
+<bio1>Hoffmann H, Möller R (2004) &lt;br /&gt;Action Selection and Mental Transformation Based on a Chain of Forward Models. &lt;br /&gt;In:  From Animals to Animats 8 (Proc. 8th Intl. Conf. on the Simulation of Adaptive Behavior). Schaal S, Ijspeert A, Billard A, Vijayakumar S, Hallam J, Meyer J-A (Eds); MIT Press:  213-222.</bio1>
+<aps>H.  Hoffmann and R.  Möller, Action Selection and Mental Transformation Based on a Chain of Forward Models, in &lt;em&gt;From Animals to Animats 8 (Proc. 8th Intl. Conf. on the Simulation of Adaptive Behavior)&lt;/em&gt;, edited by S.  Schaal, et al. (MIT Press, 2004), p. 213-222.</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hoffmann, H. &amp;amp; Möller, R. (2004). Action Selection and Mental Transformation Based on a Chain of Forward Models. &lt;em&gt;From Animals to Animats 8 (Proc. 8th Intl. Conf. on the Simulation of Adaptive Behavior)&lt;/em&gt; (S. 213-222). MIT Press.&lt;/div&gt;</dgps>
+<harvard1>Hoffmann, H., &amp;amp; Möller, R., 2004. Action Selection and Mental Transformation Based on a Chain of Forward Models. In S.  Schaal, et al., eds. &lt;em&gt;From Animals to Animats 8 (Proc. 8th Intl. Conf. on the Simulation of Adaptive Behavior)&lt;/em&gt;.  MIT Press, pp. 213-222.</harvard1>
+<ama>Hoffmann H, Möller R. Action Selection and Mental Transformation Based on a Chain of Forward Models. In: Schaal S, Ijspeert A, Billard A, Vijayakumar S, Hallam J, Meyer J-A, eds. &lt;em&gt;From Animals to Animats 8 (Proc. 8th Intl. Conf. on the Simulation of Adaptive Behavior)&lt;/em&gt;. MIT Press;  2004: 213-222.</ama>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1936929</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-12-08T15:36:16Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-09T08:24:37Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1936929</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1936929</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

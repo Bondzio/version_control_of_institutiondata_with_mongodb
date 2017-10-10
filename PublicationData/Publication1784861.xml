@@ -1,0 +1,108 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Oxidation of activated phenols by dioxygen catalysed by the H5PV2Mo10O40 heteropolyanion</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Manfred</namePart>
+  <namePart type="family">Lissel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">173188</identifier></name>
+<name type="personal">
+  <namePart type="given">Helmut</namePart>
+  <namePart type="family">Jansen in de Wal</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ronny</namePart>
+  <namePart type="family">Neumann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Chemie</namePart>
+  <identifier type="unibi">10018</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The H5PV2Mo10O40 heteropolyanion has been found to catalyse the highly selective aerobic oxidation of dialkylphenols to diphenoquinones and the oxidation of 2, 3, 5-trimethylphenol to the 2, 3, 5-trimethyl-1, 4-benzoquinone.  The rate is highly dependent on the oxidation potential of the substrate and is proceeds by electron transfer from the phenol substrate to the heteropolyanion catalyst.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Lissel_01.pdf">https://pub.uni-bielefeld.de/download/1784861/2314562</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1992</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>DIOXYGEN</topic><topic>PHENOL OXIDATION</topic><topic>HETEROPOLYANIONS</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Tetrahedron Letters</title></titleInfo>
+  <identifier type="issn">0040-4039</identifier>
+  <identifier type="ISI">A1992HL42500033</identifier><identifier type="urn">urn:nbn:de:0070-pub-17848617</identifier><identifier type="doi">10.1016/S0040-4039(00)91735-0</identifier>
+<part><detail type="volume"><number>33</number></detail><detail type="issue"><number>13</number></detail><extent unit="pages">1795-1798</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Lissel M, Jansen in de Wal H, Neumann R. Oxidation of activated phenols by dioxygen catalysed by the H5PV2Mo10O40 heteropolyanion. &lt;em&gt;Tetrahedron Letters&lt;/em&gt;. 1992;33(13):1795-1798.</ama>
+<harvard1>Lissel, M., Jansen in de Wal, H., &amp;amp; Neumann, R., 1992. Oxidation of activated phenols by dioxygen catalysed by the H5PV2Mo10O40 heteropolyanion. &lt;em&gt;Tetrahedron Letters&lt;/em&gt;, 33(13), p 1795-1798.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lissel, M., Jansen in de Wal, H. &amp;amp; Neumann, R. (1992). Oxidation of activated phenols by dioxygen catalysed by the H5PV2Mo10O40 heteropolyanion. &lt;em&gt;Tetrahedron Letters&lt;/em&gt;, &lt;em&gt;33&lt;/em&gt;(13), 1795-1798. doi:10.1016/S0040-4039(00)91735-0.&lt;/div&gt;</dgps>
+<bio1>Lissel M, Jansen in de Wal H, Neumann R (1992) &lt;br /&gt;Oxidation of activated phenols by dioxygen catalysed by the H5PV2Mo10O40 heteropolyanion.&lt;br /&gt;Tetrahedron Letters 33(13): 1795-1798.</bio1>
+<aps>M.  Lissel, H.  Jansen in de Wal, and R.  Neumann, Oxidation of activated phenols by dioxygen catalysed by the H5PV2Mo10O40 heteropolyanion, Tetrahedron Letters &lt;strong&gt;33&lt;/strong&gt;, 1795-1798 (1992).</aps>
+<wels>Lissel, M.; Jansen in de Wal, H.; Neumann, R. (1992): Oxidation of activated phenols by dioxygen catalysed by the H5PV2Mo10O40 heteropolyanion &lt;em&gt;Tetrahedron Letters&lt;/em&gt;,33:(13): 1795-1798.</wels>
+<default>Lissel M, Jansen in de Wal H, Neumann R (1992) &lt;br /&gt;Tetrahedron Letters 33(13): 1795-1798.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lissel, M., Jansen in de Wal, H., &amp;amp; Neumann, R. (1992). Oxidation of activated phenols by dioxygen catalysed by the H5PV2Mo10O40 heteropolyanion. &lt;em&gt;Tetrahedron Letters&lt;/em&gt;, &lt;em&gt;33&lt;/em&gt;(13), 1795-1798.&lt;/div&gt;</apa_indent>
+<ieee>M. Lissel, H. Jansen in de Wal, and R. Neumann, “Oxidation of activated phenols by dioxygen catalysed by the H5PV2Mo10O40 heteropolyanion”, &lt;em&gt;Tetrahedron Letters&lt;/em&gt;,  vol. 33, 1992,  pp. 1795-1798.</ieee>
+<mla>Lissel, Manfred, Jansen in de Wal, Helmut, and Neumann, Ronny. “Oxidation of activated phenols by dioxygen catalysed by the H5PV2Mo10O40 heteropolyanion”. &lt;em&gt;Tetrahedron Letters&lt;/em&gt; 33.13 (1992): 1795-1798.</mla>
+<lncs>Lissel, M., Jansen in de Wal, H., Neumann, R.: Oxidation of activated phenols by dioxygen catalysed by the H5PV2Mo10O40 heteropolyanion. Tetrahedron Letters. 33, 1795-1798 (1992).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lissel, Manfred, Jansen in de Wal, Helmut, and Neumann, Ronny. 1992. “Oxidation of activated phenols by dioxygen catalysed by the H5PV2Mo10O40 heteropolyanion”. &lt;em&gt;Tetrahedron Letters&lt;/em&gt; 33 (13): 1795-1798.&lt;/div&gt;</chicago>
+<angewandte-chemie>M.  Lissel, H.  Jansen in de Wal, and R.  Neumann, “Oxidation of activated phenols by dioxygen catalysed by the H5PV2Mo10O40 heteropolyanion”, &lt;em&gt;Tetrahedron Letters&lt;/em&gt;, &lt;strong&gt;1992&lt;/strong&gt;, &lt;em&gt;33&lt;/em&gt;, 1795-1798.</angewandte-chemie>
+<apa>Lissel, M., Jansen in de Wal, H., &amp;amp; Neumann, R. (1992). Oxidation of activated phenols by dioxygen catalysed by the H5PV2Mo10O40 heteropolyanion. &lt;em&gt;Tetrahedron Letters&lt;/em&gt;, &lt;em&gt;33&lt;/em&gt;(13), 1795-1798.</apa>
+<frontiers>Lissel, M., Jansen in de Wal, H., and Neumann, R. (1992). Oxidation of activated phenols by dioxygen catalysed by the H5PV2Mo10O40 heteropolyanion. &lt;em&gt;Tetrahedron Letters&lt;/em&gt; 33, 1795-1798.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1784861</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1784861</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1784861</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

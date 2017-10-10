@@ -1,0 +1,174 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Effector-stimulated single molecule protein-DNA interactions of a quorum-sensing system in Sinorhizobium meliloti</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Frank Wilco</namePart>
+  <namePart type="family">Bartels</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Matthew</namePart>
+  <namePart type="family">McIntosh</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alexander</namePart>
+  <namePart type="family">Fuhrmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Christoph</namePart>
+  <namePart type="family">Metzendorf</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Patrik</namePart>
+  <namePart type="family">Plattner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Norbert</namePart>
+  <namePart type="family">Sewald</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20281</identifier></name>
+<name type="personal">
+  <namePart type="given">Dario</namePart>
+  <namePart type="family">Anselmetti</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40180</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-8720-4369</description></name>
+<name type="personal">
+  <namePart type="given">Robert</namePart>
+  <namePart type="family">Ros</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Anke</namePart>
+  <namePart type="family">Becker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">29125395</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33086655</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33079524</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">17977</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">4838684</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2161137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Intercellular communication by means of small signal molecules coordinates gene expression among bacteria. This population density-dependent regulation is known as quorum sensing. The symbiotic nitrogen-fixing bacterium Sinorhizobium meliloti Rm1021 possesses the Sin quorum sensing system based on N-acyl homoserine lactones (AHL) as signal molecules. Here, we demonstrate that the LuxR-type regulator ExpR binds specifically to a target sequence in the sinRI locus in the presence of different AHLs with acyl side chains from 8 to 20 carbons. Dynamic force spectroscopy based on the atomic force microscope provided detailed information about the molecular mechanism of binding upon activation by six different AHLs. These single molecule experiments revealed that the mean lifetime of the bound protein-DNA complex varies depending on the specific effector molecule. The small differences between individual AHLs also had a pronounced influence on the structure of protein-DNA interaction: The reaction length of dissociation varied from 2.6 to 5.8 angstrom. In addition, dynamic force spectroscopy experiments indicate that N-heptanoyl-DL-homoserine lactone binds to ExpR but is not able to stimulate protein-DNA interaction.</abstract>
+
+<originInfo><publisher>BIOPHYSICAL SOCIETY</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>BIOPHYSICAL JOURNAL</title></titleInfo>
+  <identifier type="issn">0006-3495</identifier>
+  <identifier type="MEDLINE">17384071</identifier>
+  <identifier type="ISI">000246811700030</identifier><identifier type="doi">10.1529/biophysj.106.082016</identifier>
+<part><detail type="volume"><number>92</number></detail><detail type="issue"><number>12</number></detail><extent unit="pages">4391-4400</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bartels, F. W., McIntosh, M., Fuhrmann, A., Metzendorf, C., Plattner, P., Sewald, N., Anselmetti, D., et al. (2007). Effector-stimulated single molecule protein-DNA interactions of a quorum-sensing system in Sinorhizobium meliloti. &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt;, &lt;em&gt;92&lt;/em&gt;(12), 4391-4400.&lt;/div&gt;</apa_indent>
+<lncs> Bartels, F.W., McIntosh, M., Fuhrmann, A., Metzendorf, C., Plattner, P., Sewald, N., Anselmetti, D., Ros, R., Becker, A.: Effector-stimulated single molecule protein-DNA interactions of a quorum-sensing system in Sinorhizobium meliloti. BIOPHYSICAL JOURNAL. 92, 4391-4400 (2007).</lncs>
+<mla>Bartels, Frank Wilco, McIntosh, Matthew, Fuhrmann, Alexander, Metzendorf, Christoph, Plattner, Patrik, Sewald, Norbert, Anselmetti, Dario, Ros, Robert, and Becker, Anke. “Effector-stimulated single molecule protein-DNA interactions of a quorum-sensing system in Sinorhizobium meliloti”. &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt; 92.12 (2007): 4391-4400.</mla>
+<ieee> F.W. Bartels, et al., “Effector-stimulated single molecule protein-DNA interactions of a quorum-sensing system in Sinorhizobium meliloti”, &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt;,  vol. 92, 2007,  pp. 4391-4400.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bartels, Frank Wilco, McIntosh, Matthew, Fuhrmann, Alexander, Metzendorf, Christoph, Plattner, Patrik, Sewald, Norbert, Anselmetti, Dario, Ros, Robert, and Becker, Anke. 2007. “Effector-stimulated single molecule protein-DNA interactions of a quorum-sensing system in Sinorhizobium meliloti”. &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt; 92 (12): 4391-4400.&lt;/div&gt;</chicago>
+<frontiers>Bartels, F. W., McIntosh, M., Fuhrmann, A., Metzendorf, C., Plattner, P., Sewald, N., Anselmetti, D., Ros, R., and Becker, A. (2007). Effector-stimulated single molecule protein-DNA interactions of a quorum-sensing system in Sinorhizobium meliloti. &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt; 92, 4391-4400.</frontiers>
+<apa>Bartels, F. W., McIntosh, M., Fuhrmann, A., Metzendorf, C., Plattner, P., Sewald, N., Anselmetti, D., et al. (2007). Effector-stimulated single molecule protein-DNA interactions of a quorum-sensing system in Sinorhizobium meliloti. &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt;, &lt;em&gt;92&lt;/em&gt;(12), 4391-4400.</apa>
+<angewandte-chemie>F. W.  Bartels, M.  McIntosh, A.  Fuhrmann, C.  Metzendorf, P.  Plattner, N.  Sewald, D.  Anselmetti, R.  Ros, and A.  Becker, “Effector-stimulated single molecule protein-DNA interactions of a quorum-sensing system in Sinorhizobium meliloti”, &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;92&lt;/em&gt;, 4391-4400.</angewandte-chemie>
+<aps> F. W.  Bartels, et al., Effector-stimulated single molecule protein-DNA interactions of a quorum-sensing system in Sinorhizobium meliloti, BIOPHYSICAL JOURNAL &lt;strong&gt;92&lt;/strong&gt;, 4391-4400 (2007).</aps>
+<bio1>Bartels FW, McIntosh M, Fuhrmann A, Metzendorf C, Plattner P, Sewald N, Anselmetti D, Ros R, Becker A (2007) &lt;br /&gt;Effector-stimulated single molecule protein-DNA interactions of a quorum-sensing system in Sinorhizobium meliloti.&lt;br /&gt;BIOPHYSICAL JOURNAL 92(12): 4391-4400.</bio1>
+<harvard1>Bartels, F.W., et al., 2007. Effector-stimulated single molecule protein-DNA interactions of a quorum-sensing system in Sinorhizobium meliloti. &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt;, 92(12), p 4391-4400.</harvard1>
+<ama>Bartels FW, McIntosh M, Fuhrmann A, et al. Effector-stimulated single molecule protein-DNA interactions of a quorum-sensing system in Sinorhizobium meliloti. &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt;. 2007;92(12):4391-4400.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bartels, F.W., McIntosh, M., Fuhrmann, A., Metzendorf, C., Plattner, P., Sewald, N., Anselmetti, D., Ros, R. &amp;amp; Becker, A. (2007). Effector-stimulated single molecule protein-DNA interactions of a quorum-sensing system in Sinorhizobium meliloti. &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt;, &lt;em&gt;92&lt;/em&gt;(12), 4391-4400. BIOPHYSICAL SOCIETY. doi:10.1529/biophysj.106.082016.&lt;/div&gt;</dgps>
+<default>Bartels FW, McIntosh M, Fuhrmann A, Metzendorf C, Plattner P, Sewald N, Anselmetti D, Ros R, Becker A (2007) &lt;br /&gt;BIOPHYSICAL JOURNAL 92(12): 4391-4400.</default>
+<wels>Bartels, F. W.; McIntosh, M.; Fuhrmann, A.; Metzendorf, C.; Plattner, P.; Sewald, N.; Anselmetti, D.; Ros, R.; Becker, A. (2007): Effector-stimulated single molecule protein-DNA interactions of a quorum-sensing system in Sinorhizobium meliloti &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt;,92:(12): 4391-4400.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1593782</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:02Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-19T08:00:11Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1593782</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1593782</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

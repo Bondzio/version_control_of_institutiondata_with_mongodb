@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>A distributed robotic control system based on a temporal self-organizing neural network</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">G. A.</namePart>
+  <namePart type="family">Barreto</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A. F. R.</namePart>
+  <namePart type="family">Araujo</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Christof</namePart>
+  <namePart type="family">Dücker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Helge</namePart>
+  <namePart type="family">Ritter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">91130</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Neuroinformatik</namePart>
+  <identifier type="unibi">10038</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC</publisher><dateIssued encoding="w3cdtf">2002</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>distributed control</topic><topic>neural networks</topic><topic>robotics</topic><topic>temporal sequences</topic><topic>stability analysis</topic><topic>self-organization</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>IEEE Transactions on Systems, Man, and Cybernetics. Part C, Applications and Reviews</title></titleInfo>
+  <identifier type="issn">1094-6977</identifier>
+  <identifier type="ISI">000180855700007</identifier><identifier type="doi">10.1109/TSMCC.2002.806067</identifier>
+<part><detail type="volume"><number>32</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">347-357</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Barreto, G. A., Araujo, A. F. R., Dücker, C., &amp;amp; Ritter, H. (2002). A distributed robotic control system based on a temporal self-organizing neural network. &lt;em&gt;IEEE Transactions on Systems, Man, and Cybernetics. Part C, Applications and Reviews&lt;/em&gt;, &lt;em&gt;32&lt;/em&gt;(4), 347-357.&lt;/div&gt;</apa_indent>
+<lncs>Barreto, G.A., Araujo, A.F.R., Dücker, C., Ritter, H.: A distributed robotic control system based on a temporal self-organizing neural network. IEEE Transactions on Systems, Man, and Cybernetics. Part C, Applications and Reviews. 32, 347-357 (2002).</lncs>
+<mla>Barreto, G. A., Araujo, A. F. R., Dücker, Christof, and Ritter, Helge. “A distributed robotic control system based on a temporal self-organizing neural network”. &lt;em&gt;IEEE Transactions on Systems, Man, and Cybernetics. Part C, Applications and Reviews&lt;/em&gt; 32.4 (2002): 347-357.</mla>
+<ieee>G.A. Barreto, et al., “A distributed robotic control system based on a temporal self-organizing neural network”, &lt;em&gt;IEEE Transactions on Systems, Man, and Cybernetics. Part C, Applications and Reviews&lt;/em&gt;,  vol. 32, 2002,  pp. 347-357.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Barreto, G. A., Araujo, A. F. R., Dücker, Christof, and Ritter, Helge. 2002. “A distributed robotic control system based on a temporal self-organizing neural network”. &lt;em&gt;IEEE Transactions on Systems, Man, and Cybernetics. Part C, Applications and Reviews&lt;/em&gt; 32 (4): 347-357.&lt;/div&gt;</chicago>
+<frontiers>Barreto, G. A., Araujo, A. F. R., Dücker, C., and Ritter, H. (2002). A distributed robotic control system based on a temporal self-organizing neural network. &lt;em&gt;IEEE Transactions on Systems, Man, and Cybernetics. Part C, Applications and Reviews&lt;/em&gt; 32, 347-357.</frontiers>
+<angewandte-chemie>G. A.  Barreto, A. F. R.  Araujo, C.  Dücker, and H.  Ritter, “A distributed robotic control system based on a temporal self-organizing neural network”, &lt;em&gt;IEEE Transactions on Systems, Man, and Cybernetics. Part C, Applications and Reviews&lt;/em&gt;, &lt;strong&gt;2002&lt;/strong&gt;, &lt;em&gt;32&lt;/em&gt;, 347-357.</angewandte-chemie>
+<apa>Barreto, G. A., Araujo, A. F. R., Dücker, C., &amp;amp; Ritter, H. (2002). A distributed robotic control system based on a temporal self-organizing neural network. &lt;em&gt;IEEE Transactions on Systems, Man, and Cybernetics. Part C, Applications and Reviews&lt;/em&gt;, &lt;em&gt;32&lt;/em&gt;(4), 347-357.</apa>
+<aps>G. A.  Barreto, et al., A distributed robotic control system based on a temporal self-organizing neural network, IEEE Transactions on Systems, Man, and Cybernetics. Part C, Applications and Reviews &lt;strong&gt;32&lt;/strong&gt;, 347-357 (2002).</aps>
+<bio1>Barreto GA, Araujo AFR, Dücker C, Ritter H (2002) &lt;br /&gt;A distributed robotic control system based on a temporal self-organizing neural network.&lt;br /&gt;IEEE Transactions on Systems, Man, and Cybernetics. Part C, Applications and Reviews 32(4): 347-357.</bio1>
+<ama>Barreto GA, Araujo AFR, Dücker C, Ritter H. A distributed robotic control system based on a temporal self-organizing neural network. &lt;em&gt;IEEE Transactions on Systems, Man, and Cybernetics. Part C, Applications and Reviews&lt;/em&gt;. 2002;32(4):347-357.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Barreto, G.A., Araujo, A.F.R., Dücker, C. &amp;amp; Ritter, H. (2002). A distributed robotic control system based on a temporal self-organizing neural network. &lt;em&gt;IEEE Transactions on Systems, Man, and Cybernetics. Part C, Applications and Reviews&lt;/em&gt;, &lt;em&gt;32&lt;/em&gt;(4), 347-357. IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC. doi:10.1109/TSMCC.2002.806067.&lt;/div&gt;</dgps>
+<harvard1>Barreto, G.A., et al., 2002. A distributed robotic control system based on a temporal self-organizing neural network. &lt;em&gt;IEEE Transactions on Systems, Man, and Cybernetics. Part C, Applications and Reviews&lt;/em&gt;, 32(4), p 347-357.</harvard1>
+<default>Barreto GA, Araujo AFR, Dücker C, Ritter H (2002) &lt;br /&gt;IEEE Transactions on Systems, Man, and Cybernetics. Part C, Applications and Reviews 32(4): 347-357.</default>
+<wels>Barreto, G. A.; Araujo, A. F. R.; Dücker, C.; Ritter, H. (2002): A distributed robotic control system based on a temporal self-organizing neural network &lt;em&gt;IEEE Transactions on Systems, Man, and Cybernetics. Part C, Applications and Reviews&lt;/em&gt;,32:(4): 347-357.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1612582</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:00:13Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2015-02-23T11:14:16Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1612582</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1612582</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

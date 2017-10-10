@@ -1,0 +1,110 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>On the large-angle anomalies of the microwave sky</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">CJ</namePart>
+  <namePart type="family">Copi</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">D</namePart>
+  <namePart type="family">Huterer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Dominik</namePart>
+  <namePart type="family">Schwarz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">129988</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0003-2413-0881</description></name>
+<name type="personal">
+  <namePart type="given">GD</namePart>
+  <namePart type="family">Starkman</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">23381619</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We apply the multipole vector framework to full-sky maps derived from the first-year Wilkinson Microwave Anisotropy Probe (WMAP) data. We significantly extend our earlier work showing that the two lowest cosmologically interesting multipoles, l= 2 and 3, are not statistically isotropic. These results are compared to the findings obtained using related methods. In particular, we show that the planes of the quadrupole and the octopole are unexpectedly aligned. Moreover, the combined quadrupole plus octopole is surprisingly aligned with the geometry and direction of motion of the Solar system: the plane they define is perpendicular to the ecliptic plane and to the plane defined by the dipole direction, and the ecliptic plane carefully separates stronger from weaker extrema, running within a couple of degrees of the null-contour between a maximum and a minimum over more than 120 degrees of the sky. Even given the alignment of the quadrupole and octopole with each other, we find that their alignment with the ecliptic is unlikely at &gt; 98 per cent confidence level (CL), and argue that it is in fact unlikely at &gt; 99.9 per cent CL. Most of the l = 2 and 3 multipole vectors of the known Galactic foregrounds are located far from those of the observed sky, strongly suggesting that residual contamination by such foregrounds is unlikely to be the cause of the observed correlations. Multipole vectors, like individual alpha(lm), are very sensitive to sky cuts, and we demonstrate that analyses using cut skies induce relatively large errors, thus weakening the observed correlations but preserving their consistency with the full-sky results. Similarly, the analysis of COBE cut-sky maps shows increased errors but is consistent with WMAP full-sky results. We briefly extend these explorations to higher multipoles, noting again anomalous deviations from statistical isotropy and comparing with ecliptic asymmetry manifested in the WMAP team&apos;s own analysis. If the correlations we observe are indeed a signal of non-cosmic origin, then the lack of low-l power will very likely be exacerbated, with important consequences for our understanding of cosmology on large scales.</abstract>
+
+<originInfo><publisher>BLACKWELL PUBLISHING</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>cosmic microwave background</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>MONTHLY NOTICES OF THE ROYAL ASTRONOMICAL SOCIETY</title></titleInfo>
+  <identifier type="issn">0035-8711</identifier>
+  <identifier type="eIssn">1365-2966</identifier>
+  <identifier type="arXiv">astro-ph/0508047</identifier>
+  <identifier type="INSPIRE">688812</identifier>
+  <identifier type="ISI">000235939700023</identifier><identifier type="doi">10.1111/j.1365-2966.2005.09980.x</identifier>
+<part><detail type="volume"><number>367</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">79-102</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Copi, C. J.; Huterer, D.; Schwarz, D.; Starkman, G. D. (2006): On the large-angle anomalies of the microwave sky &lt;em&gt;MONTHLY NOTICES OF THE ROYAL ASTRONOMICAL SOCIETY&lt;/em&gt;,367:(1): 79-102.</wels>
+<default>Copi CJ, Huterer D, Schwarz D, Starkman GD (2006) &lt;br /&gt;MONTHLY NOTICES OF THE ROYAL ASTRONOMICAL SOCIETY 367(1): 79-102.</default>
+<ama>Copi CJ, Huterer D, Schwarz D, Starkman GD. On the large-angle anomalies of the microwave sky. &lt;em&gt;MONTHLY NOTICES OF THE ROYAL ASTRONOMICAL SOCIETY&lt;/em&gt;. 2006;367(1):79-102.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Copi, C.J., Huterer, D., Schwarz, D. &amp;amp; Starkman, G.D. (2006). On the large-angle anomalies of the microwave sky. &lt;em&gt;MONTHLY NOTICES OF THE ROYAL ASTRONOMICAL SOCIETY&lt;/em&gt;, &lt;em&gt;367&lt;/em&gt;(1), 79-102. BLACKWELL PUBLISHING. doi:10.1111/j.1365-2966.2005.09980.x.&lt;/div&gt;</dgps>
+<harvard1>Copi, C.J., et al., 2006. On the large-angle anomalies of the microwave sky. &lt;em&gt;MONTHLY NOTICES OF THE ROYAL ASTRONOMICAL SOCIETY&lt;/em&gt;, 367(1), p 79-102.</harvard1>
+<bio1>Copi CJ, Huterer D, Schwarz D, Starkman GD (2006) &lt;br /&gt;On the large-angle anomalies of the microwave sky.&lt;br /&gt;MONTHLY NOTICES OF THE ROYAL ASTRONOMICAL SOCIETY 367(1): 79-102.</bio1>
+<aps> C. J.  Copi, et al., On the large-angle anomalies of the microwave sky, MONTHLY NOTICES OF THE ROYAL ASTRONOMICAL SOCIETY &lt;strong&gt;367&lt;/strong&gt;, 79-102 (2006).</aps>
+<angewandte-chemie>C. J.  Copi, D.  Huterer, D.  Schwarz, and G. D.  Starkman, “On the large-angle anomalies of the microwave sky”, &lt;em&gt;MONTHLY NOTICES OF THE ROYAL ASTRONOMICAL SOCIETY&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;367&lt;/em&gt;, 79-102.</angewandte-chemie>
+<apa>Copi, C. J., Huterer, D., Schwarz, D., &amp;amp; Starkman, G. D. (2006). On the large-angle anomalies of the microwave sky. &lt;em&gt;MONTHLY NOTICES OF THE ROYAL ASTRONOMICAL SOCIETY&lt;/em&gt;, &lt;em&gt;367&lt;/em&gt;(1), 79-102.</apa>
+<frontiers>Copi, C. J., Huterer, D., Schwarz, D., and Starkman, G. D. (2006). On the large-angle anomalies of the microwave sky. &lt;em&gt;MONTHLY NOTICES OF THE ROYAL ASTRONOMICAL SOCIETY&lt;/em&gt; 367, 79-102.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Copi, CJ, Huterer, D, Schwarz, Dominik, and Starkman, GD. 2006. “On the large-angle anomalies of the microwave sky”. &lt;em&gt;MONTHLY NOTICES OF THE ROYAL ASTRONOMICAL SOCIETY&lt;/em&gt; 367 (1): 79-102.&lt;/div&gt;</chicago>
+<ieee> C.J. Copi, et al., “On the large-angle anomalies of the microwave sky”, &lt;em&gt;MONTHLY NOTICES OF THE ROYAL ASTRONOMICAL SOCIETY&lt;/em&gt;,  vol. 367, 2006,  pp. 79-102.</ieee>
+<lncs> Copi, C.J., Huterer, D., Schwarz, D., Starkman, G.D.: On the large-angle anomalies of the microwave sky. MONTHLY NOTICES OF THE ROYAL ASTRONOMICAL SOCIETY. 367, 79-102 (2006).</lncs>
+<mla>Copi, CJ, Huterer, D, Schwarz, Dominik, and Starkman, GD. “On the large-angle anomalies of the microwave sky”. &lt;em&gt;MONTHLY NOTICES OF THE ROYAL ASTRONOMICAL SOCIETY&lt;/em&gt; 367.1 (2006): 79-102.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Copi, C. J., Huterer, D., Schwarz, D., &amp;amp; Starkman, G. D. (2006). On the large-angle anomalies of the microwave sky. &lt;em&gt;MONTHLY NOTICES OF THE ROYAL ASTRONOMICAL SOCIETY&lt;/em&gt;, &lt;em&gt;367&lt;/em&gt;(1), 79-102.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1600090</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:31:04Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-17T11:57:44Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1600090</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1600090</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

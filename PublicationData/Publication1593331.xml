@@ -1,0 +1,105 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>A partial likelihood approach to smooth estimation of dynamic covariate effects using penalised splines</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Denise</namePart>
+  <namePart type="family">Brown</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Göran</namePart>
+  <namePart type="family">Kauermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">91009</identifier></name>
+<name type="personal">
+  <namePart type="given">Ian</namePart>
+  <namePart type="family">Ford</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Wirtschaftswissenschaften</namePart>
+  <identifier type="unibi">10031</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Survival data are often modelled by the Cox proportional hazards model, which assumes that covariate effects are constant over time. In recent years however, several new approaches have been suggested which allow covariate effects to vary with time. Non-proportional hazard functions, with covariate effects changing dynamically, can be fitted using penalised spline (P-spline) smoothing. By utilising the link between P-spline smoothing and generalised linear mixed models, the smoothing parameters steering the amount of smoothing can be selected. A hybrid routine, combining the mixed model approach with a classical Akaike criterion, is suggested. This approach is evaluated with simulations and applied to data from the West of Scotland Coronary Prevention Study.</abstract>
+
+<originInfo><publisher>WILEY-V C H VERLAG GMBH</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>West of Scotland Coronary Prevention Study</topic><topic>non-proportional hazards</topic><topic>P-splines</topic><topic>generalised linear mixed models</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>BIOMETRICAL JOURNAL</title></titleInfo>
+  <identifier type="issn">0323-3847</identifier>
+  <identifier type="eIssn">1521-4036</identifier>
+  <identifier type="MEDLINE">17623348</identifier>
+  <identifier type="ISI">000247715800010</identifier><identifier type="doi">10.1002/bimj.200510325</identifier>
+<part><detail type="volume"><number>49</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">441-452</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Brown D, Kauermann G, Ford I. A partial likelihood approach to smooth estimation of dynamic covariate effects using penalised splines. &lt;em&gt;BIOMETRICAL JOURNAL&lt;/em&gt;. 2007;49(3):441-452.</ama>
+<harvard1>Brown, D., Kauermann, G., &amp;amp; Ford, I., 2007. A partial likelihood approach to smooth estimation of dynamic covariate effects using penalised splines. &lt;em&gt;BIOMETRICAL JOURNAL&lt;/em&gt;, 49(3), p 441-452.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Brown, D., Kauermann, G. &amp;amp; Ford, I. (2007). A partial likelihood approach to smooth estimation of dynamic covariate effects using penalised splines. &lt;em&gt;BIOMETRICAL JOURNAL&lt;/em&gt;, &lt;em&gt;49&lt;/em&gt;(3), 441-452. WILEY-V C H VERLAG GMBH. doi:10.1002/bimj.200510325.&lt;/div&gt;</dgps>
+<bio1>Brown D, Kauermann G, Ford I (2007) &lt;br /&gt;A partial likelihood approach to smooth estimation of dynamic covariate effects using penalised splines.&lt;br /&gt;BIOMETRICAL JOURNAL 49(3): 441-452.</bio1>
+<aps>D.  Brown, G.  Kauermann, and I.  Ford, A partial likelihood approach to smooth estimation of dynamic covariate effects using penalised splines, BIOMETRICAL JOURNAL &lt;strong&gt;49&lt;/strong&gt;, 441-452 (2007).</aps>
+<wels>Brown, D.; Kauermann, G.; Ford, I. (2007): A partial likelihood approach to smooth estimation of dynamic covariate effects using penalised splines &lt;em&gt;BIOMETRICAL JOURNAL&lt;/em&gt;,49:(3): 441-452.</wels>
+<default>Brown D, Kauermann G, Ford I (2007) &lt;br /&gt;BIOMETRICAL JOURNAL 49(3): 441-452.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Brown, D., Kauermann, G., &amp;amp; Ford, I. (2007). A partial likelihood approach to smooth estimation of dynamic covariate effects using penalised splines. &lt;em&gt;BIOMETRICAL JOURNAL&lt;/em&gt;, &lt;em&gt;49&lt;/em&gt;(3), 441-452.&lt;/div&gt;</apa_indent>
+<ieee>D. Brown, G. Kauermann, and I. Ford, “A partial likelihood approach to smooth estimation of dynamic covariate effects using penalised splines”, &lt;em&gt;BIOMETRICAL JOURNAL&lt;/em&gt;,  vol. 49, 2007,  pp. 441-452.</ieee>
+<lncs>Brown, D., Kauermann, G., Ford, I.: A partial likelihood approach to smooth estimation of dynamic covariate effects using penalised splines. BIOMETRICAL JOURNAL. 49, 441-452 (2007).</lncs>
+<mla>Brown, Denise, Kauermann, Göran, and Ford, Ian. “A partial likelihood approach to smooth estimation of dynamic covariate effects using penalised splines”. &lt;em&gt;BIOMETRICAL JOURNAL&lt;/em&gt; 49.3 (2007): 441-452.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Brown, Denise, Kauermann, Göran, and Ford, Ian. 2007. “A partial likelihood approach to smooth estimation of dynamic covariate effects using penalised splines”. &lt;em&gt;BIOMETRICAL JOURNAL&lt;/em&gt; 49 (3): 441-452.&lt;/div&gt;</chicago>
+<angewandte-chemie>D.  Brown, G.  Kauermann, and I.  Ford, “A partial likelihood approach to smooth estimation of dynamic covariate effects using penalised splines”, &lt;em&gt;BIOMETRICAL JOURNAL&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;49&lt;/em&gt;, 441-452.</angewandte-chemie>
+<apa>Brown, D., Kauermann, G., &amp;amp; Ford, I. (2007). A partial likelihood approach to smooth estimation of dynamic covariate effects using penalised splines. &lt;em&gt;BIOMETRICAL JOURNAL&lt;/em&gt;, &lt;em&gt;49&lt;/em&gt;(3), 441-452.</apa>
+<frontiers>Brown, D., Kauermann, G., and Ford, I. (2007). A partial likelihood approach to smooth estimation of dynamic covariate effects using penalised splines. &lt;em&gt;BIOMETRICAL JOURNAL&lt;/em&gt; 49, 441-452.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1593331</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:15:47Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-05T11:13:20Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1593331</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1593331</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

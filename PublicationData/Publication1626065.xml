@@ -1,0 +1,119 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Staggered fermion actions with improved rotational invariance</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Peikert</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">B</namePart>
+  <namePart type="family">Beinlich</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Bicker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Frithjof</namePart>
+  <namePart type="family">Karsch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40326</identifier></name>
+<name type="personal">
+  <namePart type="given">Edwin</namePart>
+  <namePart type="family">Laermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40621</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We introduce a class of improved actions for staggered fermions which to O(p(4)) and O(p(6)), respectively, lead to rotationally invariant propagators. We discuss the resulting reduction of flavour symmetry breaking in the meson spectrum and comment on the improvement in the calculation of thermodynamic observables.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">1998</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS</title></titleInfo>
+  <identifier type="issn">0920-5632</identifier>
+  <identifier type="arXiv">hep-lat/9709157</identifier>
+  <identifier type="INSPIRE">449101</identifier>
+  <identifier type="ISI">000072980200244</identifier><identifier type="doi">10.1016/S0920-5632(97)00933-X</identifier>
+<part><detail type="volume"><number>63</number></detail><extent unit="pages">895-897</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Peikert A, Beinlich B, Bicker A, Karsch F, Laermann E. Staggered fermion actions with improved rotational invariance. In:  &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt;. Vol 63. ELSEVIER SCIENCE BV;  1998: 895-897.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Peikert, A., Beinlich, B., Bicker, A., Karsch, F. &amp;amp; Laermann, E. (1998). Staggered fermion actions with improved rotational invariance. &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt; (S. 895-897). ELSEVIER SCIENCE BV. doi:10.1016/S0920-5632(97)00933-X.&lt;/div&gt;</dgps>
+<harvard1>Peikert, A., et al., 1998. Staggered fermion actions with improved rotational invariance. In &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt;. no.63  ELSEVIER SCIENCE BV, pp. 895-897.</harvard1>
+<aps>A.  Peikert, et al., Staggered fermion actions with improved rotational invariance, in &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt;, &lt;strong&gt;63&lt;/strong&gt; (ELSEVIER SCIENCE BV, 1998), p. 895-897.</aps>
+<bio1>Peikert A, Beinlich B, Bicker A, Karsch F, Laermann E (1998) &lt;br /&gt;Staggered fermion actions with improved rotational invariance. &lt;br /&gt;In:  NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS. 63. ELSEVIER SCIENCE BV:  895-897.</bio1>
+<wels>Peikert, A.; Beinlich, B.; Bicker, A.; Karsch, F.; Laermann, E. (1998): Staggered fermion actions with improved rotational invariance. In: NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS. ELSEVIER SCIENCE BV. (63).  S. 895-897.</wels>
+<default>Peikert A, Beinlich B, Bicker A, Karsch F, Laermann E (1998)  &lt;br /&gt;In:  NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS. 63. ELSEVIER SCIENCE BV:  895-897.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Peikert, A., Beinlich, B., Bicker, A., Karsch, F., &amp;amp; Laermann, E. (1998). Staggered fermion actions with improved rotational invariance. &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt;, &lt;em&gt;63&lt;/em&gt;, 895-897.&lt;/div&gt;</apa_indent>
+<ieee>A. Peikert, et al., “Staggered fermion actions with improved rotational invariance”, &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt;, vol. 63, ELSEVIER SCIENCE BV, 1998,  pp.895-897.</ieee>
+<lncs>Peikert, A., Beinlich, B., Bicker, A., Karsch, F., Laermann, E.: Staggered fermion actions with improved rotational invariance. NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS. 63, p. 895-897. ELSEVIER SCIENCE BV (1998).</lncs>
+<mla>Peikert, A, Beinlich, B, Bicker, A, Karsch, Frithjof, and Laermann, Edwin. “Staggered fermion actions with improved rotational invariance”. &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt;. ELSEVIER SCIENCE BV, 1998.Vol. 63. 895-897.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Peikert, A, Beinlich, B, Bicker, A, Karsch, Frithjof, and Laermann, Edwin. 1998. “Staggered fermion actions with improved rotational invariance”. In &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt;, 63:895-897. ELSEVIER SCIENCE BV.&lt;/div&gt;</chicago>
+<angewandte-chemie>A.  Peikert, B.  Beinlich, A.  Bicker, F.  Karsch, and E.  Laermann, in &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt;, Elsevier Science Bv, &lt;strong&gt;1998&lt;/strong&gt;, p. 895-897.</angewandte-chemie>
+<apa>Peikert, A., Beinlich, B., Bicker, A., Karsch, F., &amp;amp; Laermann, E. (1998). Staggered fermion actions with improved rotational invariance. &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt;, &lt;em&gt;63&lt;/em&gt;, 895-897.</apa>
+<frontiers>Peikert, A., Beinlich, B., Bicker, A., Karsch, F., and Laermann, E. (1998). “Staggered fermion actions with improved rotational invariance” in &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt;, vol. 63, (ELSEVIER SCIENCE BV), 895-897.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1626065</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:20:55Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-13T11:06:06Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1626065</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1626065</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

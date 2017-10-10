@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Theorie im Unterricht</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Dietrich</namePart>
+  <namePart type="family">Kurz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">120538</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Hartmut</namePart><namePart type="family">Gabler</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Psychologie und Sportwissenschaft</namePart>
+  <identifier type="unibi">10025</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Arbeitsbereich IV - Sport und Erziehung</namePart>
+  <identifier type="unibi">28978161</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Kurz_043.pdf">https://pub.uni-bielefeld.de/download/1779237/2312610</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Hofmann</publisher><dateIssued encoding="w3cdtf">1976</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Schulsportmodelle in Theorie und Praxis</title></titleInfo>
+  <identifier type="isbn">3-7780-6541-6</identifier><identifier type="urn">urn:nbn:de:0070-bipr-17856</identifier>
+<part><extent unit="pages">270-287</extent>
+</part>
+</relatedItem>
+
+<note type="nonBielefeld">yes</note>
+<extension>
+<bibliographicCitation>
+<mla>Kurz, Dietrich. “Theorie im Unterricht”. &lt;em&gt;Schulsportmodelle in Theorie und Praxis&lt;/em&gt;. Ed. Hartmut Gabler. Schorndorf: Hofmann, 1976. Reihe Sportwissenschaft ; 5. 270-287.</mla>
+<lncs>Kurz, D.: Theorie im Unterricht. In: Gabler, H. (ed.) Schulsportmodelle in Theorie und Praxis. Reihe Sportwissenschaft ; 5. p. 270-287. Hofmann, Schorndorf (1976).</lncs>
+<ieee>D. Kurz, “Theorie im Unterricht”, &lt;em&gt;Schulsportmodelle in Theorie und Praxis&lt;/em&gt;, H. Gabler, ed., Reihe Sportwissenschaft ; 5,  Schorndorf: Hofmann, 1976,  pp.270-287.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kurz, D. (1976). Theorie im Unterricht. In H.  Gabler (Ed.), &lt;em&gt;Reihe Sportwissenschaft ; 5&lt;/em&gt;&lt;em&gt;. Schulsportmodelle in Theorie und Praxis&lt;/em&gt; (pp. 270-287). Schorndorf: Hofmann.&lt;/div&gt;</apa_indent>
+<frontiers>Kurz, D. (1976). “Theorie im Unterricht” in &lt;em&gt;Schulsportmodelle in Theorie und Praxis&lt;/em&gt;, ed. H.  Gabler Reihe Sportwissenschaft ; 5 (Schorndorf: Hofmann), 270-287.</frontiers>
+<angewandte-chemie>D.  Kurz, in &lt;em&gt;Schulsportmodelle in Theorie und Praxis&lt;/em&gt; (Ed.: H. Gabler), Hofmann, Schorndorf, &lt;strong&gt;1976&lt;/strong&gt;, p. 270-287.</angewandte-chemie>
+<apa>Kurz, D. (1976). Theorie im Unterricht. In H.  Gabler (Ed.), &lt;em&gt;Reihe Sportwissenschaft ; 5&lt;/em&gt;&lt;em&gt;. Schulsportmodelle in Theorie und Praxis&lt;/em&gt; (pp. 270-287). Schorndorf: Hofmann.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kurz, Dietrich. 1976. “Theorie im Unterricht”. In &lt;em&gt;Schulsportmodelle in Theorie und Praxis&lt;/em&gt;, ed. Hartmut Gabler, 270-287. Reihe Sportwissenschaft ; 5. Schorndorf: Hofmann.&lt;/div&gt;</chicago>
+<aps>D.  Kurz, Theorie im Unterricht, in &lt;em&gt;Schulsportmodelle in Theorie und Praxis&lt;/em&gt;, edited by H.  Gabler, Reihe Sportwissenschaft ; 5 (Hofmann, Schorndorf, 1976), p. 270-287.</aps>
+<bio1>Kurz D (1976) &lt;br /&gt;Theorie im Unterricht. &lt;br /&gt;In:  Schulsportmodelle in Theorie und Praxis. Gabler H (Ed); Reihe Sportwissenschaft ; 5,  Schorndorf: Hofmann:  270-287.</bio1>
+<harvard1>Kurz, D., 1976. Theorie im Unterricht. In H.  Gabler, ed. &lt;em&gt;Schulsportmodelle in Theorie und Praxis&lt;/em&gt;. Reihe Sportwissenschaft ; 5.  Schorndorf: Hofmann, pp. 270-287.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kurz, D. (1976). Theorie im Unterricht (Reihe Sportwissenschaft ; 5). &lt;em&gt;Schulsportmodelle in Theorie und Praxis&lt;/em&gt; (S. 270-287). Schorndorf: Hofmann.&lt;/div&gt;</dgps>
+<ama>Kurz D. Theorie im Unterricht. In: Gabler H, ed. &lt;em&gt;Schulsportmodelle in Theorie und Praxis&lt;/em&gt;. Reihe Sportwissenschaft ; 5. Schorndorf: Hofmann;  1976: 270-287.</ama>
+<default>Kurz D (1976)  &lt;br /&gt;In:  Schulsportmodelle in Theorie und Praxis. Gabler H (Ed); Reihe Sportwissenschaft ; 5, . Schorndorf: Hofmann:  270-287.</default>
+<wels>Kurz, D. (1976): Theorie im Unterricht. In: Hartmut Gabler (Hrsg.):  Schulsportmodelle in Theorie und Praxis. Schorndorf: Hofmann. (Reihe Sportwissenschaft ; 5, ).  S. 270-287.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1779237</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-06-15T13:52:46Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1779237</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1779237</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

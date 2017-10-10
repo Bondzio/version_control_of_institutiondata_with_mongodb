@@ -1,0 +1,95 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Revision of Boltzmann statistics for a finite number of particles</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Sergej</namePart>
+  <namePart type="family">Kakorin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20316</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Physikalische Chemie III</namePart>
+  <identifier type="unibi">17981</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The Stirling approximation, ln(N!)approximate to N ln(N)-N, is used in the literature to derive the exponential Boltzmann distribution. We generalize the latter for a finite number of particles by applying the more exact Stirling formula and the exact function ln(N!). A more accurate and analytical formulation of Boltzmann statistics is found in terms of the Lambert W-function. The Lambert-Boltzmann distribution is shown to be a very good approximation to the exact result calculated by numerical inversion of the Digamma-function. For a finite number of particles N the exact distribution yields results that differ from the usual exponential Boltzmann distribution. As an example, the exact Digamma-Boltzmann distribution predicts that the constant-volume heat capacity of an Einstein solid decreases with decreasing N. The exact Digamma-Boltzmann distribution imposes a constraint on the maximum energy of the highest populated state, consistent with the finite total energy of the microcanonical ensemble.</abstract>
+
+<originInfo><publisher>American Association of Physics Teachers (AAPT)</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Boltzmann equation</topic><topic>specific heat</topic><topic>statistical</topic><topic>distributions</topic><topic>variational techniques</topic><topic>physics education</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>AMERICAN JOURNAL OF PHYSICS</title></titleInfo>
+  <identifier type="issn">0002-9505</identifier>
+  <identifier type="ISI">000263969900018</identifier><identifier type="doi">10.1119/1.2967703</identifier>
+<part><detail type="volume"><number>77</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">48-53</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<mla>Kakorin, Sergej. “Revision of Boltzmann statistics for a finite number of particles”. &lt;em&gt;AMERICAN JOURNAL OF PHYSICS&lt;/em&gt; 77.1 (2009): 48-53.</mla>
+<lncs>Kakorin, S.: Revision of Boltzmann statistics for a finite number of particles. AMERICAN JOURNAL OF PHYSICS. 77, 48-53 (2009).</lncs>
+<ieee>S. Kakorin, “Revision of Boltzmann statistics for a finite number of particles”, &lt;em&gt;AMERICAN JOURNAL OF PHYSICS&lt;/em&gt;,  vol. 77, 2009,  pp. 48-53.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kakorin, S. (2009). Revision of Boltzmann statistics for a finite number of particles. &lt;em&gt;AMERICAN JOURNAL OF PHYSICS&lt;/em&gt;, &lt;em&gt;77&lt;/em&gt;(1), 48-53.&lt;/div&gt;</apa_indent>
+<frontiers>Kakorin, S. (2009). Revision of Boltzmann statistics for a finite number of particles. &lt;em&gt;AMERICAN JOURNAL OF PHYSICS&lt;/em&gt; 77, 48-53.</frontiers>
+<angewandte-chemie>S.  Kakorin, “Revision of Boltzmann statistics for a finite number of particles”, &lt;em&gt;AMERICAN JOURNAL OF PHYSICS&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;77&lt;/em&gt;, 48-53.</angewandte-chemie>
+<apa>Kakorin, S. (2009). Revision of Boltzmann statistics for a finite number of particles. &lt;em&gt;AMERICAN JOURNAL OF PHYSICS&lt;/em&gt;, &lt;em&gt;77&lt;/em&gt;(1), 48-53.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kakorin, Sergej. 2009. “Revision of Boltzmann statistics for a finite number of particles”. &lt;em&gt;AMERICAN JOURNAL OF PHYSICS&lt;/em&gt; 77 (1): 48-53.&lt;/div&gt;</chicago>
+<aps>S.  Kakorin, Revision of Boltzmann statistics for a finite number of particles, AMERICAN JOURNAL OF PHYSICS &lt;strong&gt;77&lt;/strong&gt;, 48-53 (2009).</aps>
+<bio1>Kakorin S (2009) &lt;br /&gt;Revision of Boltzmann statistics for a finite number of particles.&lt;br /&gt;AMERICAN JOURNAL OF PHYSICS 77(1): 48-53.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kakorin, S. (2009). Revision of Boltzmann statistics for a finite number of particles. &lt;em&gt;AMERICAN JOURNAL OF PHYSICS&lt;/em&gt;, &lt;em&gt;77&lt;/em&gt;(1), 48-53. American Association of Physics Teachers (AAPT). doi:10.1119/1.2967703.&lt;/div&gt;</dgps>
+<ama>Kakorin S. Revision of Boltzmann statistics for a finite number of particles. &lt;em&gt;AMERICAN JOURNAL OF PHYSICS&lt;/em&gt;. 2009;77(1):48-53.</ama>
+<harvard1>Kakorin, S., 2009. Revision of Boltzmann statistics for a finite number of particles. &lt;em&gt;AMERICAN JOURNAL OF PHYSICS&lt;/em&gt;, 77(1), p 48-53.</harvard1>
+<default>Kakorin S (2009) &lt;br /&gt;AMERICAN JOURNAL OF PHYSICS 77(1): 48-53.</default>
+<wels>Kakorin, S. (2009): Revision of Boltzmann statistics for a finite number of particles &lt;em&gt;AMERICAN JOURNAL OF PHYSICS&lt;/em&gt;,77:(1): 48-53.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1635353</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:37Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-14T13:52:42Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1635353</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1635353</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

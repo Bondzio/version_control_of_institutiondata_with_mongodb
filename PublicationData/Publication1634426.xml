@@ -1,0 +1,116 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Editorial for Issue 47/1</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Peter</namePart>
+  <namePart type="family">Weingart</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">76942</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Soziologie</namePart>
+  <identifier type="unibi">10030</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Wissenschafts- und Technikforschung</namePart>
+  <identifier type="unibi">10061</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Weltgesellschaft</namePart>
+  <identifier type="unibi">89044</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Arbeitsbereich 7 - Wissenschaft, Technik, Medien</namePart>
+  <identifier type="unibi">5656064</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Springer Science + Business Media</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Minerva</title></titleInfo>
+  <identifier type="issn">0026-4695</identifier>
+  <identifier type="eIssn">1573-1871</identifier>
+  <identifier type="ISI">000265082900001</identifier><identifier type="doi">10.1007/s11024-009-9115-5</identifier>
+<part><detail type="volume"><number>47</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">1-5</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Weingart, P. (2009). Editorial for Issue 47/1. &lt;em&gt;Minerva&lt;/em&gt;, &lt;em&gt;47&lt;/em&gt;(1), 1-5. Springer Science + Business Media. doi:10.1007/s11024-009-9115-5.&lt;/div&gt;</dgps>
+<harvard1>Weingart, P., 2009. Editorial for Issue 47/1. &lt;em&gt;Minerva&lt;/em&gt;, 47(1), p 1-5.</harvard1>
+<ama>Weingart P. Editorial for Issue 47/1. &lt;em&gt;Minerva&lt;/em&gt;. 2009;47(1):1-5.</ama>
+<bio1>Weingart P (2009) &lt;br /&gt;Editorial for Issue 47/1.&lt;br /&gt;Minerva 47(1): 1-5.</bio1>
+<aps>P.  Weingart, Editorial for Issue 47/1, Minerva &lt;strong&gt;47&lt;/strong&gt;, 1-5 (2009).</aps>
+<wels>Weingart, P. (2009): Editorial for Issue 47/1 &lt;em&gt;Minerva&lt;/em&gt;,47:(1): 1-5.</wels>
+<default>Weingart P (2009) &lt;br /&gt;Minerva 47(1): 1-5.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Weingart, P. (2009). Editorial for Issue 47/1. &lt;em&gt;Minerva&lt;/em&gt;, &lt;em&gt;47&lt;/em&gt;(1), 1-5.&lt;/div&gt;</apa_indent>
+<ieee>P. Weingart, “Editorial for Issue 47/1”, &lt;em&gt;Minerva&lt;/em&gt;,  vol. 47, 2009,  pp. 1-5.</ieee>
+<mla>Weingart, Peter. “Editorial for Issue 47/1”. &lt;em&gt;Minerva&lt;/em&gt; 47.1 (2009): 1-5.</mla>
+<lncs>Weingart, P.: Editorial for Issue 47/1. Minerva. 47, 1-5 (2009).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Weingart, Peter. 2009. “Editorial for Issue 47/1”. &lt;em&gt;Minerva&lt;/em&gt; 47 (1): 1-5.&lt;/div&gt;</chicago>
+<angewandte-chemie>P.  Weingart, “Editorial for Issue 47/1”, &lt;em&gt;Minerva&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;47&lt;/em&gt;, 1-5.</angewandte-chemie>
+<apa>Weingart, P. (2009). Editorial for Issue 47/1. &lt;em&gt;Minerva&lt;/em&gt;, &lt;em&gt;47&lt;/em&gt;(1), 1-5.</apa>
+<frontiers>Weingart, P. (2009). Editorial for Issue 47/1. &lt;em&gt;Minerva&lt;/em&gt; 47, 1-5.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1634426</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:18Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-08-26T09:02:31Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1634426</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1634426</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

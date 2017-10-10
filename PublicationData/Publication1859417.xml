@@ -1,0 +1,108 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Diversity in Arbeits- und Bildungsorganisationen. Aspekte von Globalisierung, Geschlecht und Organisationsreform</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Katrin</namePart>
+  <namePart type="family">Hansen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ursula</namePart>
+  <namePart type="family">Müller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">13182</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Eszter</namePart><namePart type="family">Belinszki</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Katrin</namePart><namePart type="family">Hansen</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Ursula</namePart><namePart type="family">Müller</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Soziologie</namePart>
+  <identifier type="unibi">10030</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Interdisziplinäres Zentrum für Frauen- und Geschlechterforschung</namePart>
+  <identifier type="unibi">10068</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>LIT</publisher><dateIssued encoding="w3cdtf">2003</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Diversity Management. Best Practices im internationalen Feld</title></titleInfo>
+  <identifier type="isbn">3-8258-6097-3</identifier>
+<part><detail type="volume"><number>2</number></detail><extent unit="pages">9-60</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Hansen, K.; Müller, U. (2003): Diversity in Arbeits- und Bildungsorganisationen. Aspekte von Globalisierung, Geschlecht und Organisationsreform. In: Eszter Belinszki; Katrin Hansen; Ursula Müller (Hrsg.):  Diversity Management. Best Practices im internationalen Feld. Münster: LIT. (Managing diversity, 2).  S. 9-60.</wels>
+<default>Hansen K, Müller U (2003)  &lt;br /&gt;In:  Diversity Management. Best Practices im internationalen Feld. Belinszki E, Hansen K, Müller U (Eds); Managing diversity, 2. Münster: LIT:  9-60.</default>
+<ama>Hansen K, Müller U. Diversity in Arbeits- und Bildungsorganisationen. Aspekte von Globalisierung, Geschlecht und Organisationsreform. In: Belinszki E, Hansen K, Müller U, eds. &lt;em&gt;Diversity Management. Best Practices im internationalen Feld&lt;/em&gt;. Managing diversity. Vol 2. Münster: LIT;  2003: 9-60.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hansen, K. &amp;amp; Müller, U. (2003). Diversity in Arbeits- und Bildungsorganisationen. Aspekte von Globalisierung, Geschlecht und Organisationsreform (Managing diversity). &lt;em&gt;Diversity Management. Best Practices im internationalen Feld&lt;/em&gt; (S. 9-60). Münster: LIT.&lt;/div&gt;</dgps>
+<harvard1>Hansen, K., &amp;amp; Müller, U., 2003. Diversity in Arbeits- und Bildungsorganisationen. Aspekte von Globalisierung, Geschlecht und Organisationsreform. In E.  Belinszki, K.  Hansen, &amp;amp; U.  Müller, eds. &lt;em&gt;Diversity Management. Best Practices im internationalen Feld&lt;/em&gt;. Managing diversity. no.2  Münster: LIT, pp. 9-60.</harvard1>
+<bio1>Hansen K, Müller U (2003) &lt;br /&gt;Diversity in Arbeits- und Bildungsorganisationen. Aspekte von Globalisierung, Geschlecht und Organisationsreform. &lt;br /&gt;In:  Diversity Management. Best Practices im internationalen Feld. Belinszki E, Hansen K, Müller U (Eds); Managing diversity, 2. Münster: LIT:  9-60.</bio1>
+<aps>K.  Hansen and U.  Müller, Diversity in Arbeits- und Bildungsorganisationen. Aspekte von Globalisierung, Geschlecht und Organisationsreform, in &lt;em&gt;Diversity Management. Best Practices im internationalen Feld&lt;/em&gt;, edited by E.  Belinszki, et al., Managing diversity, &lt;strong&gt;2&lt;/strong&gt; (LIT, Münster, 2003), p. 9-60.</aps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hansen, Katrin, and Müller, Ursula. 2003. “Diversity in Arbeits- und Bildungsorganisationen. Aspekte von Globalisierung, Geschlecht und Organisationsreform”. In &lt;em&gt;Diversity Management. Best Practices im internationalen Feld&lt;/em&gt;, ed. Eszter Belinszki, Katrin Hansen, and Ursula Müller, 2:9-60. Managing diversity. Münster: LIT.&lt;/div&gt;</chicago>
+<apa>Hansen, K., &amp;amp; Müller, U. (2003). Diversity in Arbeits- und Bildungsorganisationen. Aspekte von Globalisierung, Geschlecht und Organisationsreform. In E.  Belinszki, K.  Hansen, &amp;amp; U.  Müller (Eds.), &lt;em&gt;Managing diversity: Vol. 2&lt;/em&gt;&lt;em&gt;. Diversity Management. Best Practices im internationalen Feld&lt;/em&gt; (pp. 9-60). Münster: LIT.</apa>
+<angewandte-chemie>K.  Hansen, and U.  Müller, in &lt;em&gt;Diversity Management. Best Practices im internationalen Feld&lt;/em&gt; (Eds.: E. Belinszki, K. Hansen, U. Müller), Lit, Münster, &lt;strong&gt;2003&lt;/strong&gt;, p. 9-60.</angewandte-chemie>
+<frontiers>Hansen, K., and Müller, U. (2003). “Diversity in Arbeits- und Bildungsorganisationen. Aspekte von Globalisierung, Geschlecht und Organisationsreform” in &lt;em&gt;Diversity Management. Best Practices im internationalen Feld&lt;/em&gt;, ed. E.  Belinszki, K.  Hansen, and U.  Müller Managing diversity, vol. 2, (Münster: LIT), 9-60.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hansen, K., &amp;amp; Müller, U. (2003). Diversity in Arbeits- und Bildungsorganisationen. Aspekte von Globalisierung, Geschlecht und Organisationsreform. In E.  Belinszki, K.  Hansen, &amp;amp; U.  Müller (Eds.), &lt;em&gt;Managing diversity: Vol. 2&lt;/em&gt;&lt;em&gt;. Diversity Management. Best Practices im internationalen Feld&lt;/em&gt; (pp. 9-60). Münster: LIT.&lt;/div&gt;</apa_indent>
+<ieee>K. Hansen and U. Müller, “Diversity in Arbeits- und Bildungsorganisationen. Aspekte von Globalisierung, Geschlecht und Organisationsreform”, &lt;em&gt;Diversity Management. Best Practices im internationalen Feld&lt;/em&gt;, E. Belinszki, K. Hansen, and U. Müller, eds., Managing diversity, vol. 2,  Münster: LIT, 2003,  pp.9-60.</ieee>
+<lncs>Hansen, K., Müller, U.: Diversity in Arbeits- und Bildungsorganisationen. Aspekte von Globalisierung, Geschlecht und Organisationsreform. In: Belinszki, E., Hansen, K., and Müller, U. (eds.) Diversity Management. Best Practices im internationalen Feld. Managing diversity. 2, p. 9-60. LIT, Münster (2003).</lncs>
+<mla>Hansen, Katrin, and Müller, Ursula. “Diversity in Arbeits- und Bildungsorganisationen. Aspekte von Globalisierung, Geschlecht und Organisationsreform”. &lt;em&gt;Diversity Management. Best Practices im internationalen Feld&lt;/em&gt;. Ed. Eszter Belinszki, Katrin Hansen, and Ursula Müller. Münster: LIT, 2003.Vol. 2. Managing diversity. 9-60.</mla>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1859417</recordIdentifier><recordChangeDate encoding="w3cdtf">2015-04-09T12:02:20Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1859417</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1859417</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

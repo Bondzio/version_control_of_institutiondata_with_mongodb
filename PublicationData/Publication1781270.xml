@@ -1,0 +1,101 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Das Experiment: Revierverhalten bei Vögeln</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Hans-Wolfgang</namePart>
+  <namePart type="family">Helb</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Holk</namePart>
+  <namePart type="family">Cruse</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21923</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Biologie</namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Cruse_06.pdf">https://pub.uni-bielefeld.de/download/1781270/2313251</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1974</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Biologie in unserer Zeit</title></titleInfo>
+  <identifier type="issn">0045-205X</identifier>
+  <identifier type="eIssn">1521-415X</identifier><identifier type="urn">urn:nbn:de:0070-pub-17812707</identifier><identifier type="doi">10.1002/biuz.19740040605</identifier>
+<part><detail type="volume"><number>4</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">189-190</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Helb H-W, Cruse H (1974) &lt;br /&gt;Biologie in unserer Zeit 4(6): 189-190.</default>
+<wels>Helb, H. - W.; Cruse, H. (1974): Das Experiment: Revierverhalten bei Vögeln &lt;em&gt;Biologie in unserer Zeit&lt;/em&gt;,4:(6): 189-190.</wels>
+<aps>H. - W.  Helb and H.  Cruse, Das Experiment: Revierverhalten bei Vögeln, Biologie in unserer Zeit &lt;strong&gt;4&lt;/strong&gt;, 189-190 (1974).</aps>
+<bio1>Helb H-W, Cruse H (1974) &lt;br /&gt;Das Experiment: Revierverhalten bei Vögeln.&lt;br /&gt;Biologie in unserer Zeit 4(6): 189-190.</bio1>
+<harvard1>Helb, H.-W., &amp;amp; Cruse, H., 1974. Das Experiment: Revierverhalten bei Vögeln. &lt;em&gt;Biologie in unserer Zeit&lt;/em&gt;, 4(6), p 189-190.</harvard1>
+<ama>Helb H-W, Cruse H. Das Experiment: Revierverhalten bei Vögeln. &lt;em&gt;Biologie in unserer Zeit&lt;/em&gt;. 1974;4(6):189-190.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Helb, H.-W. &amp;amp; Cruse, H. (1974). Das Experiment: Revierverhalten bei Vögeln. &lt;em&gt;Biologie in unserer Zeit&lt;/em&gt;, &lt;em&gt;4&lt;/em&gt;(6), 189-190. doi:10.1002/biuz.19740040605.&lt;/div&gt;</dgps>
+<frontiers>Helb, H. - W., and Cruse, H. (1974). Das Experiment: Revierverhalten bei Vögeln. &lt;em&gt;Biologie in unserer Zeit&lt;/em&gt; 4, 189-190.</frontiers>
+<apa>Helb, H. - W., &amp;amp; Cruse, H. (1974). Das Experiment: Revierverhalten bei Vögeln. &lt;em&gt;Biologie in unserer Zeit&lt;/em&gt;, &lt;em&gt;4&lt;/em&gt;(6), 189-190.</apa>
+<angewandte-chemie>H. - W.  Helb, and H.  Cruse, “Das Experiment: Revierverhalten bei Vögeln”, &lt;em&gt;Biologie in unserer Zeit&lt;/em&gt;, &lt;strong&gt;1974&lt;/strong&gt;, &lt;em&gt;4&lt;/em&gt;, 189-190.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Helb, Hans-Wolfgang, and Cruse, Holk. 1974. “Das Experiment: Revierverhalten bei Vögeln”. &lt;em&gt;Biologie in unserer Zeit&lt;/em&gt; 4 (6): 189-190.&lt;/div&gt;</chicago>
+<lncs>Helb, H.-W., Cruse, H.: Das Experiment: Revierverhalten bei Vögeln. Biologie in unserer Zeit. 4, 189-190 (1974).</lncs>
+<mla>Helb, Hans-Wolfgang, and Cruse, Holk. “Das Experiment: Revierverhalten bei Vögeln”. &lt;em&gt;Biologie in unserer Zeit&lt;/em&gt; 4.6 (1974): 189-190.</mla>
+<ieee>H.-W. Helb and H. Cruse, “Das Experiment: Revierverhalten bei Vögeln”, &lt;em&gt;Biologie in unserer Zeit&lt;/em&gt;,  vol. 4, 1974,  pp. 189-190.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Helb, H. - W., &amp;amp; Cruse, H. (1974). Das Experiment: Revierverhalten bei Vögeln. &lt;em&gt;Biologie in unserer Zeit&lt;/em&gt;, &lt;em&gt;4&lt;/em&gt;(6), 189-190.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781270</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781270</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781270</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

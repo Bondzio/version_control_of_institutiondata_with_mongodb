@@ -1,0 +1,113 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Z(3) criticality in three dimensions: study of extended Potts models</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">R. V.</namePart>
+  <namePart type="family">Gavai</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Frithjof</namePart>
+  <namePart type="family">Karsch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40326</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We investigate numerically the three-dimensional three-state Potts models with nearest-neighbor (NN) ferromagnetic coupling and next-nearest-neighbor (NNN) antiferromagnetic coupling of relative strength-gamma on L3 lattices with L = 12, 16, 20, 32, and 40. For all the gamma-values that we studied, 0.0 less-than-or-equal-to gamma less-than-or-equal-to 0.8, we find indications of a first-order phase transition between the ordered and disordered phases. In the neighborhood of gamma = 0.25, the latent heat becomes rather small, making it necessary to use still larger lattices to rule out a higher-order phase transition at gamma = 0.25. We also studied the boundary regimes of the three different ordered phases and find no criticality along them, thus suggesting a lack of criticality in these extended Potts models.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="ka_22.pdf">https://pub.uni-bielefeld.de/download/1784582/2314493</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1992</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Physical Review, B</title></titleInfo>
+  <identifier type="issn">0163-1829</identifier>
+  <identifier type="eIssn">1095-3795</identifier>
+  <identifier type="INSPIRE">318158</identifier>
+  <identifier type="MEDLINE">10003281</identifier>
+  <identifier type="ISI">A1992JC92200039</identifier><identifier type="urn">urn:nbn:de:0070-pub-17845829</identifier><identifier type="doi">10.1103/PhysRevB.46.944</identifier>
+<part><detail type="volume"><number>46</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">944-954</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Gavai, R. V.; Karsch, F. (1992): Z(3) criticality in three dimensions: study of extended Potts models &lt;em&gt;Physical Review, B&lt;/em&gt;,46:(2): 944-954.</wels>
+<default>Gavai RV, Karsch F (1992) &lt;br /&gt;Physical Review, B 46(2): 944-954.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gavai, R.V. &amp;amp; Karsch, F. (1992). Z(3) criticality in three dimensions: study of extended Potts models. &lt;em&gt;Physical Review, B&lt;/em&gt;, &lt;em&gt;46&lt;/em&gt;(2), 944-954. doi:10.1103/PhysRevB.46.944.&lt;/div&gt;</dgps>
+<ama>Gavai RV, Karsch F. Z(3) criticality in three dimensions: study of extended Potts models. &lt;em&gt;Physical Review, B&lt;/em&gt;. 1992;46(2):944-954.</ama>
+<harvard1>Gavai, R.V., &amp;amp; Karsch, F., 1992. Z(3) criticality in three dimensions: study of extended Potts models. &lt;em&gt;Physical Review, B&lt;/em&gt;, 46(2), p 944-954.</harvard1>
+<aps>R. V.  Gavai and F.  Karsch, Z(3) criticality in three dimensions: study of extended Potts models, Physical Review, B &lt;strong&gt;46&lt;/strong&gt;, 944-954 (1992).</aps>
+<bio1>Gavai RV, Karsch F (1992) &lt;br /&gt;Z(3) criticality in three dimensions: study of extended Potts models.&lt;br /&gt;Physical Review, B 46(2): 944-954.</bio1>
+<angewandte-chemie>R. V.  Gavai, and F.  Karsch, “Z(3) criticality in three dimensions: study of extended Potts models”, &lt;em&gt;Physical Review, B&lt;/em&gt;, &lt;strong&gt;1992&lt;/strong&gt;, &lt;em&gt;46&lt;/em&gt;, 944-954.</angewandte-chemie>
+<apa>Gavai, R. V., &amp;amp; Karsch, F. (1992). Z(3) criticality in three dimensions: study of extended Potts models. &lt;em&gt;Physical Review, B&lt;/em&gt;, &lt;em&gt;46&lt;/em&gt;(2), 944-954.</apa>
+<frontiers>Gavai, R. V., and Karsch, F. (1992). Z(3) criticality in three dimensions: study of extended Potts models. &lt;em&gt;Physical Review, B&lt;/em&gt; 46, 944-954.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gavai, R. V., and Karsch, Frithjof. 1992. “Z(3) criticality in three dimensions: study of extended Potts models”. &lt;em&gt;Physical Review, B&lt;/em&gt; 46 (2): 944-954.&lt;/div&gt;</chicago>
+<ieee>R.V. Gavai and F. Karsch, “Z(3) criticality in three dimensions: study of extended Potts models”, &lt;em&gt;Physical Review, B&lt;/em&gt;,  vol. 46, 1992,  pp. 944-954.</ieee>
+<mla>Gavai, R. V., and Karsch, Frithjof. “Z(3) criticality in three dimensions: study of extended Potts models”. &lt;em&gt;Physical Review, B&lt;/em&gt; 46.2 (1992): 944-954.</mla>
+<lncs>Gavai, R.V., Karsch, F.: Z(3) criticality in three dimensions: study of extended Potts models. Physical Review, B. 46, 944-954 (1992).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gavai, R. V., &amp;amp; Karsch, F. (1992). Z(3) criticality in three dimensions: study of extended Potts models. &lt;em&gt;Physical Review, B&lt;/em&gt;, &lt;em&gt;46&lt;/em&gt;(2), 944-954.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1784582</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1784582</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1784582</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

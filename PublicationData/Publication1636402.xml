@@ -1,0 +1,137 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Metabolomic and genetic analyses of flavonol synthesis in Arabidopsis thaliana support the in vivo involvement of leucoanthocyanidin dioxygenase</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Ralf</namePart>
+  <namePart type="family">Stracke</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">101395</identifier></name>
+<name type="personal">
+  <namePart type="given">Ric C. H.</namePart>
+  <namePart type="family">De Vos</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Lutz</namePart>
+  <namePart type="family">Bartelniewoehner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Hirofumi</namePart>
+  <namePart type="family">Ishihara</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Martin</namePart>
+  <namePart type="family">Sagasser</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">108361</identifier></name>
+<name type="personal">
+  <namePart type="given">Stefan</namePart>
+  <namePart type="family">Martens</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Bernd</namePart>
+  <namePart type="family">Weisshaar</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">86212</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-7635-3473</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Genomforschung und Systembiologie</namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  B. Weisshaar</namePart>
+  <identifier type="unibi">33070678</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Genomforschung</namePart>
+  <identifier type="unibi">2684836</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Flavonol synthase (FLS) (EC-number 1.14.11.23), the enzyme that catalyses the conversion of flavonols into dihydroflavonols, is part of the flavonoid biosynthesis pathway. In Arabidopsis thaliana, this activity is thought to be encoded by several loci. In addition to the FLAVONOL SYNTHASE1 (FLS1) locus that has been confirmed by enzyme activity assays, loci displaying similarity of the deduced amino acid sequences to FLS1 have been identified. We studied the putative A. thaliana FLS gene family using a combination of genetic and metabolite analysis approaches. Although several of the FLS gene family members are expressed, only FLS1 appeared to influence flavonoid biosynthesis. Seedlings of an A. thaliana fls1 null mutant (fls1-2) show enhanced anthocyanin levels, drastic reduction in flavonol glycoside content and concomitant accumulation of glycosylated forms of dihydroflavonols, the substrate of the FLS reaction. By using a leucoanthocyanidin dioxygenase (ldox) fls1-2 double mutant, we present evidence that the remaining flavonol glycosides found in the fls1-2 mutant are synthesized in planta by the FLS-like side activity of the LDOX enzyme.</abstract>
+
+<originInfo><publisher>Springer Science + Business Media</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Flavonol</topic><topic>Arabidopsis</topic><topic>Dihydroflavonol</topic><topic>Flavonoid biosynthesis</topic><topic>synthase</topic><topic>Leucoanthocyanidin dioxygenase</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Planta</title></titleInfo>
+  <identifier type="issn">0032-0935</identifier>
+  <identifier type="eIssn">1432-2048</identifier>
+  <identifier type="MEDLINE">18998159</identifier>
+  <identifier type="ISI">000261692700018</identifier><identifier type="doi">10.1007/s00425-008-0841-y</identifier>
+<part><detail type="volume"><number>229</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">427-445</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Stracke R, De Vos RCH, Bartelniewoehner L, Ishihara H, Sagasser M, Martens S, Weisshaar B (2009) &lt;br /&gt;Planta 229(2): 427-445.</default>
+<wels>Stracke, R.; De Vos, R. C. H.; Bartelniewoehner, L.; Ishihara, H.; Sagasser, M.; Martens, S.; Weisshaar, B. (2009): Metabolomic and genetic analyses of flavonol synthesis in Arabidopsis thaliana support the in vivo involvement of leucoanthocyanidin dioxygenase &lt;em&gt;Planta&lt;/em&gt;,229:(2): 427-445.</wels>
+<bio1>Stracke R, De Vos RCH, Bartelniewoehner L, Ishihara H, Sagasser M, Martens S, Weisshaar B (2009) &lt;br /&gt;Metabolomic and genetic analyses of flavonol synthesis in Arabidopsis thaliana support the in vivo involvement of leucoanthocyanidin dioxygenase.&lt;br /&gt;Planta 229(2): 427-445.</bio1>
+<aps>R.  Stracke, et al., Metabolomic and genetic analyses of flavonol synthesis in Arabidopsis thaliana support the in vivo involvement of leucoanthocyanidin dioxygenase, Planta &lt;strong&gt;229&lt;/strong&gt;, 427-445 (2009).</aps>
+<harvard1>Stracke, R., et al., 2009. Metabolomic and genetic analyses of flavonol synthesis in Arabidopsis thaliana support the in vivo involvement of leucoanthocyanidin dioxygenase. &lt;em&gt;Planta&lt;/em&gt;, 229(2), p 427-445.</harvard1>
+<ama>Stracke R, De Vos RCH, Bartelniewoehner L, et al. Metabolomic and genetic analyses of flavonol synthesis in Arabidopsis thaliana support the in vivo involvement of leucoanthocyanidin dioxygenase. &lt;em&gt;Planta&lt;/em&gt;. 2009;229(2):427-445.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Stracke, R., De Vos, R.C.H., Bartelniewoehner, L., Ishihara, H., Sagasser, M., Martens, S. &amp;amp; Weisshaar, B. (2009). Metabolomic and genetic analyses of flavonol synthesis in Arabidopsis thaliana support the in vivo involvement of leucoanthocyanidin dioxygenase. &lt;em&gt;Planta&lt;/em&gt;, &lt;em&gt;229&lt;/em&gt;(2), 427-445. Springer Science + Business Media. doi:10.1007/s00425-008-0841-y.&lt;/div&gt;</dgps>
+<frontiers>Stracke, R., De Vos, R. C. H., Bartelniewoehner, L., Ishihara, H., Sagasser, M., Martens, S., and Weisshaar, B. (2009). Metabolomic and genetic analyses of flavonol synthesis in Arabidopsis thaliana support the in vivo involvement of leucoanthocyanidin dioxygenase. &lt;em&gt;Planta&lt;/em&gt; 229, 427-445.</frontiers>
+<angewandte-chemie>R.  Stracke, R. C. H.  De Vos, L.  Bartelniewoehner, H.  Ishihara, M.  Sagasser, S.  Martens, and B.  Weisshaar, “Metabolomic and genetic analyses of flavonol synthesis in Arabidopsis thaliana support the in vivo involvement of leucoanthocyanidin dioxygenase”, &lt;em&gt;Planta&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;229&lt;/em&gt;, 427-445.</angewandte-chemie>
+<apa>Stracke, R., De Vos, R. C. H., Bartelniewoehner, L., Ishihara, H., Sagasser, M., Martens, S., &amp;amp; Weisshaar, B. (2009). Metabolomic and genetic analyses of flavonol synthesis in Arabidopsis thaliana support the in vivo involvement of leucoanthocyanidin dioxygenase. &lt;em&gt;Planta&lt;/em&gt;, &lt;em&gt;229&lt;/em&gt;(2), 427-445.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Stracke, Ralf, De Vos, Ric C. H., Bartelniewoehner, Lutz, Ishihara, Hirofumi, Sagasser, Martin, Martens, Stefan, and Weisshaar, Bernd. 2009. “Metabolomic and genetic analyses of flavonol synthesis in Arabidopsis thaliana support the in vivo involvement of leucoanthocyanidin dioxygenase”. &lt;em&gt;Planta&lt;/em&gt; 229 (2): 427-445.&lt;/div&gt;</chicago>
+<mla>Stracke, Ralf, De Vos, Ric C. H., Bartelniewoehner, Lutz, Ishihara, Hirofumi, Sagasser, Martin, Martens, Stefan, and Weisshaar, Bernd. “Metabolomic and genetic analyses of flavonol synthesis in Arabidopsis thaliana support the in vivo involvement of leucoanthocyanidin dioxygenase”. &lt;em&gt;Planta&lt;/em&gt; 229.2 (2009): 427-445.</mla>
+<lncs>Stracke, R., De Vos, R.C.H., Bartelniewoehner, L., Ishihara, H., Sagasser, M., Martens, S., Weisshaar, B.: Metabolomic and genetic analyses of flavonol synthesis in Arabidopsis thaliana support the in vivo involvement of leucoanthocyanidin dioxygenase. Planta. 229, 427-445 (2009).</lncs>
+<ieee>R. Stracke, et al., “Metabolomic and genetic analyses of flavonol synthesis in Arabidopsis thaliana support the in vivo involvement of leucoanthocyanidin dioxygenase”, &lt;em&gt;Planta&lt;/em&gt;,  vol. 229, 2009,  pp. 427-445.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Stracke, R., De Vos, R. C. H., Bartelniewoehner, L., Ishihara, H., Sagasser, M., Martens, S., &amp;amp; Weisshaar, B. (2009). Metabolomic and genetic analyses of flavonol synthesis in Arabidopsis thaliana support the in vivo involvement of leucoanthocyanidin dioxygenase. &lt;em&gt;Planta&lt;/em&gt;, &lt;em&gt;229&lt;/em&gt;(2), 427-445.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1636402</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:08:04Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2015-12-16T10:29:06Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1636402</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1636402</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

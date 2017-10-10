@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Temperature dependence of the rate constants of the reaction O + NO + M -&gt; NO2 + M(M = He, NO, N2, CH4)</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">M.</namePart>
+  <namePart type="family">Schieferstein</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Katharina</namePart>
+  <namePart type="family">Kohse-Höinghaus</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20770</identifier></name>
+<name type="personal">
+  <namePart type="given">F.</namePart>
+  <namePart type="family">Stuhl</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Physikalische Chemie I</namePart>
+  <identifier type="unibi">17978</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Kohse_Hoeinghausen_05.pdf">https://pub.uni-bielefeld.de/download/1777953/2312375</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1983</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Berichte der Bunsen-Gesellschaft</title></titleInfo><identifier type="urn">urn:nbn:de:0070-bipr-14933</identifier>
+<part><detail type="volume"><number>87</number></detail><extent unit="pages">361-366</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schieferstein, M., Kohse-Höinghaus, K., &amp;amp; Stuhl, F. (1983). Temperature dependence of the rate constants of the reaction O + NO + M -&amp;gt; NO2 + M(M = He, NO, N2, CH4). &lt;em&gt;Berichte der Bunsen-Gesellschaft&lt;/em&gt;, &lt;em&gt;87&lt;/em&gt;, 361-366.&lt;/div&gt;</apa_indent>
+<mla>Schieferstein, M., Kohse-Höinghaus, Katharina, and Stuhl, F. “Temperature dependence of the rate constants of the reaction O + NO + M -&amp;gt; NO2 + M(M = He, NO, N2, CH4)”. &lt;em&gt;Berichte der Bunsen-Gesellschaft&lt;/em&gt; 87 (1983): 361-366.</mla>
+<lncs>Schieferstein, M., Kohse-Höinghaus, K., Stuhl, F.: Temperature dependence of the rate constants of the reaction O + NO + M -&amp;gt; NO2 + M(M = He, NO, N2, CH4). Berichte der Bunsen-Gesellschaft. 87, 361-366 (1983).</lncs>
+<ieee>M. Schieferstein, K. Kohse-Höinghaus, and F. Stuhl, “Temperature dependence of the rate constants of the reaction O + NO + M -&amp;gt; NO2 + M(M = He, NO, N2, CH4)”, &lt;em&gt;Berichte der Bunsen-Gesellschaft&lt;/em&gt;,  vol. 87, 1983,  pp. 361-366.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schieferstein, M., Kohse-Höinghaus, Katharina, and Stuhl, F. 1983. “Temperature dependence of the rate constants of the reaction O + NO + M -&amp;gt; NO2 + M(M = He, NO, N2, CH4)”. &lt;em&gt;Berichte der Bunsen-Gesellschaft&lt;/em&gt; 87: 361-366.&lt;/div&gt;</chicago>
+<frontiers>Schieferstein, M., Kohse-Höinghaus, K., and Stuhl, F. (1983). Temperature dependence of the rate constants of the reaction O + NO + M -&amp;gt; NO2 + M(M = He, NO, N2, CH4). &lt;em&gt;Berichte der Bunsen-Gesellschaft&lt;/em&gt; 87, 361-366.</frontiers>
+<apa>Schieferstein, M., Kohse-Höinghaus, K., &amp;amp; Stuhl, F. (1983). Temperature dependence of the rate constants of the reaction O + NO + M -&amp;gt; NO2 + M(M = He, NO, N2, CH4). &lt;em&gt;Berichte der Bunsen-Gesellschaft&lt;/em&gt;, &lt;em&gt;87&lt;/em&gt;, 361-366.</apa>
+<angewandte-chemie>M.  Schieferstein, K.  Kohse-Höinghaus, and F.  Stuhl, “Temperature dependence of the rate constants of the reaction O + NO + M -&amp;gt; NO2 + M(M = He, NO, N2, CH4)”, &lt;em&gt;Berichte der Bunsen-Gesellschaft&lt;/em&gt;, &lt;strong&gt;1983&lt;/strong&gt;, &lt;em&gt;87&lt;/em&gt;, 361-366.</angewandte-chemie>
+<bio1>Schieferstein M, Kohse-Höinghaus K, Stuhl F (1983) &lt;br /&gt;Temperature dependence of the rate constants of the reaction O + NO + M -&amp;gt; NO2 + M(M = He, NO, N2, CH4).&lt;br /&gt;Berichte der Bunsen-Gesellschaft 87: 361-366.</bio1>
+<aps>M.  Schieferstein, K.  Kohse-Höinghaus, and F.  Stuhl, Temperature dependence of the rate constants of the reaction O + NO + M -&amp;gt; NO2 + M(M = He, NO, N2, CH4), Berichte der Bunsen-Gesellschaft &lt;strong&gt;87&lt;/strong&gt;, 361-366 (1983).</aps>
+<ama>Schieferstein M, Kohse-Höinghaus K, Stuhl F. Temperature dependence of the rate constants of the reaction O + NO + M -&amp;gt; NO2 + M(M = He, NO, N2, CH4). &lt;em&gt;Berichte der Bunsen-Gesellschaft&lt;/em&gt;. 1983;87:361-366.</ama>
+<harvard1>Schieferstein, M., Kohse-Höinghaus, K., &amp;amp; Stuhl, F., 1983. Temperature dependence of the rate constants of the reaction O + NO + M -&amp;gt; NO2 + M(M = He, NO, N2, CH4). &lt;em&gt;Berichte der Bunsen-Gesellschaft&lt;/em&gt;, 87, p 361-366.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schieferstein, M., Kohse-Höinghaus, K. &amp;amp; Stuhl, F. (1983). Temperature dependence of the rate constants of the reaction O + NO + M -&amp;gt; NO2 + M(M = He, NO, N2, CH4). &lt;em&gt;Berichte der Bunsen-Gesellschaft&lt;/em&gt;, &lt;em&gt;87&lt;/em&gt;, 361-366.&lt;/div&gt;</dgps>
+<default>Schieferstein M, Kohse-Höinghaus K, Stuhl F (1983) &lt;br /&gt;Berichte der Bunsen-Gesellschaft 87: 361-366.</default>
+<wels>Schieferstein, M.; Kohse-Höinghaus, K.; Stuhl, F. (1983): Temperature dependence of the rate constants of the reaction O + NO + M -&amp;gt; NO2 + M(M = He, NO, N2, CH4) &lt;em&gt;Berichte der Bunsen-Gesellschaft&lt;/em&gt;,87: 361-366.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1777953</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1777953</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1777953</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

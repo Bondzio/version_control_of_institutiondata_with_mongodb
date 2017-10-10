@@ -1,0 +1,96 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference abstract</genre>
+
+<titleInfo><title>Patterns of socio-economic differences in health risk behaviour among German adolescents</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Richter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Klaus</namePart>
+  <namePart type="family">Hurrelmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21484</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10046</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>OXFORD UNIV PRESS</publisher><dateIssued encoding="w3cdtf">2005</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host">
+  <identifier type="issn">1101-1262</identifier>
+  <identifier type="ISI">000234567800438</identifier>
+<part><detail type="volume"><number>15</number></detail><detail type="issue"><number>Suppl. 1</number></detail><extent unit="pages">165</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Richter M, Hurrelmann K. Patterns of socio-economic differences in health risk behaviour among German adolescents.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Richter, M. &amp;amp; Hurrelmann, K. (2005). Patterns of socio-economic differences in health risk behaviour among German adolescents (EUROPEAN JOURNAL OF PUBLIC HEALTH). OXFORD UNIV PRESS.&lt;/div&gt;</dgps>
+<harvard1>Richter, M., &amp;amp; Hurrelmann, K., 2005. Patterns of socio-economic differences in health risk behaviour among German adolescents.</harvard1>
+<bio1>Richter M, Hurrelmann K (2005) &lt;br /&gt;Patterns of socio-economic differences in health risk behaviour among German adolescents.</bio1>
+<aps> M.  Richter and K.  Hurrelmann, Patterns of socio-economic differences in health risk behaviour among German adolescents, EUROPEAN JOURNAL OF PUBLIC HEALTH, &lt;strong&gt;15&lt;/strong&gt; (OXFORD UNIV PRESS, 2005).</aps>
+<wels>Richter, M.; Hurrelmann, K. (2005): Patterns of socio-economic differences in health risk behaviour among German adolescents. OXFORD UNIV PRESS. (EUROPEAN JOURNAL OF PUBLIC HEALTH, 15).</wels>
+<default>Richter M, Hurrelmann K (2005) .</default>
+<ieee> M. Richter and K. Hurrelmann, “Patterns of socio-economic differences in health risk behaviour among German adolescents”, OXFORD UNIV PRESS, 2005.</ieee>
+<lncs> Richter, M., Hurrelmann, K.: Patterns of socio-economic differences in health risk behaviour among German adolescents. (2005).</lncs>
+<mla>Richter, M, and Hurrelmann, Klaus. “Patterns of socio-economic differences in health risk behaviour among German adolescents”., OXFORD UNIV PRESS, 2005.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Richter, M., &amp;amp; Hurrelmann, K. (2005). &lt;em&gt;Patterns of socio-economic differences in health risk behaviour among German adolescents&lt;/em&gt;. Presented at the .&lt;/div&gt;</apa_indent>
+<angewandte-chemie>M.  Richter, and K.  Hurrelmann, Oxford Univ Press, &lt;strong&gt;2005&lt;/strong&gt;.</angewandte-chemie>
+<apa>Richter, M., &amp;amp; Hurrelmann, K. (2005). &lt;em&gt;Patterns of socio-economic differences in health risk behaviour among German adolescents&lt;/em&gt;. Presented at the .</apa>
+<frontiers>Richter, M., and Hurrelmann, K. (2005).“Patterns of socio-economic differences in health risk behaviour among German adolescents”.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Richter, M, and Hurrelmann, Klaus. 2005. “Patterns of socio-economic differences in health risk behaviour among German adolescents”. Presented at the . Vol. 15. EUROPEAN JOURNAL OF PUBLIC HEALTH. OXFORD UNIV PRESS.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1600777</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:31:24Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-14T12:02:55Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1600777</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1600777</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

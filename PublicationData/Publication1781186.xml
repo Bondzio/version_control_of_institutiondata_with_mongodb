@@ -1,0 +1,104 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Demokratische Repräsentation</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Christoph</namePart>
+  <namePart type="family">Gusy</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21583</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Weltgesellschaft</namePart>
+  <identifier type="unibi">89044</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Fakultät für Rechtswissenschaft</namePart>
+  <identifier type="unibi">10029</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT2402.pdf">https://pub.uni-bielefeld.de/download/1781186/2313209</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1989</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Zeitschrift für Politik</title></titleInfo>
+  <identifier type="issn">0044-3360</identifier><identifier type="urn">urn:nbn:de:0070-bipr-24024</identifier>
+<part><extent unit="pages">264-287</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Gusy C (1989) &lt;br /&gt;Zeitschrift für Politik: 264-287.</default>
+<wels>Gusy, C. (1989): Demokratische Repräsentation &lt;em&gt;Zeitschrift für Politik&lt;/em&gt;, 264-287.</wels>
+<bio1>Gusy C (1989) &lt;br /&gt;Demokratische Repräsentation.&lt;br /&gt;Zeitschrift für Politik: 264-287.</bio1>
+<aps>C.  Gusy, Demokratische Repräsentation, Zeitschrift für Politik 264-287 (1989).</aps>
+<harvard1>Gusy, C., 1989. Demokratische Repräsentation. &lt;em&gt;Zeitschrift für Politik&lt;/em&gt;, , p 264-287.</harvard1>
+<ama>Gusy C. Demokratische Repräsentation. &lt;em&gt;Zeitschrift für Politik&lt;/em&gt;. 1989:264-287.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gusy, C. (1989). Demokratische Repräsentation. &lt;em&gt;Zeitschrift für Politik&lt;/em&gt;, 264-287.&lt;/div&gt;</dgps>
+<frontiers>Gusy, C. (1989). Demokratische Repräsentation. &lt;em&gt;Zeitschrift für Politik&lt;/em&gt;, 264-287.</frontiers>
+<apa>Gusy, C. (1989). Demokratische Repräsentation. &lt;em&gt;Zeitschrift für Politik&lt;/em&gt;, 264-287.</apa>
+<angewandte-chemie>C.  Gusy, “Demokratische Repräsentation”, &lt;em&gt;Zeitschrift für Politik&lt;/em&gt;, &lt;strong&gt;1989&lt;/strong&gt;, 264-287.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gusy, Christoph. 1989. “Demokratische Repräsentation”. &lt;em&gt;Zeitschrift für Politik&lt;/em&gt;, 264-287.&lt;/div&gt;</chicago>
+<lncs>Gusy, C.: Demokratische Repräsentation. Zeitschrift für Politik. 264-287 (1989).</lncs>
+<mla>Gusy, Christoph. “Demokratische Repräsentation”. &lt;em&gt;Zeitschrift für Politik&lt;/em&gt; (1989): 264-287.</mla>
+<ieee>C. Gusy, “Demokratische Repräsentation”, &lt;em&gt;Zeitschrift für Politik&lt;/em&gt;, 1989,  pp. 264-287.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gusy, C. (1989). Demokratische Repräsentation. &lt;em&gt;Zeitschrift für Politik&lt;/em&gt;, 264-287.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781186</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781186</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781186</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

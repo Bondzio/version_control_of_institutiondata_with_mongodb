@@ -1,0 +1,97 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>report</genre>
+
+<titleInfo><title>SIGMA: Women‘s and Gender Studies in Germany</title></titleInfo>
+
+
+
+
+
+<name type="personal">
+  <namePart type="given">Ursula</namePart>
+  <namePart type="family">Müller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">13182</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10030</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10068</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Bericht für den EU-expert-workshop des SIGMA-Projekts an der Universität Coimbra (Portugal) (mittlerweile als „Dokument“ veröffentlicht, siehe 2004) (auch: französische Version)</abstract>
+
+<originInfo><dateIssued encoding="w3cdtf">1996</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host">
+<part>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, U. (1996).  &lt;em&gt;SIGMA: Women‘s and Gender Studies in Germany&lt;/em&gt;.&lt;/div&gt;</apa_indent>
+<ieee> U. Müller, &lt;em&gt;SIGMA: Women‘s and Gender Studies in Germany&lt;/em&gt;, 1996.</ieee>
+<mla>Müller, Ursula. &lt;em&gt;SIGMA: Women‘s and Gender Studies in Germany&lt;/em&gt;. 1996.</mla>
+<lncs> Müller, U.: SIGMA: Women‘s and Gender Studies in Germany. (1996).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, Ursula. 1996. &lt;em&gt;SIGMA: Women‘s and Gender Studies in Germany&lt;/em&gt;.&lt;/div&gt;</chicago>
+<angewandte-chemie>U.  Müller, &lt;em&gt;SIGMA: Women‘s and Gender Studies in Germany&lt;/em&gt;, &lt;strong&gt;1996&lt;/strong&gt;.</angewandte-chemie>
+<apa>Müller, U. (1996).  &lt;em&gt;SIGMA: Women‘s and Gender Studies in Germany&lt;/em&gt;.</apa>
+<frontiers>Müller, U. (1996). SIGMA: Women‘s and Gender Studies in Germany.</frontiers>
+<harvard1>Müller, U., 1996. &lt;em&gt;SIGMA: Women‘s and Gender Studies in Germany&lt;/em&gt;,</harvard1>
+<ama>Müller U. &lt;em&gt;SIGMA: Women‘s and Gender Studies in Germany&lt;/em&gt;.; 1996.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, U. (1996). &lt;em&gt;SIGMA: Women‘s and Gender Studies in Germany&lt;/em&gt;.&lt;/div&gt;</dgps>
+<aps> U.  Müller, SIGMA: Women‘s and Gender Studies in Germany, (1996).</aps>
+<bio1>Müller U (1996) &lt;br /&gt;&lt;em&gt;SIGMA: Women‘s and Gender Studies in Germany&lt;/em&gt;.</bio1>
+<wels>Müller, U. (1996): SIGMA: Women‘s and Gender Studies in Germany.</wels>
+<default>Müller U (1996) .</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1859215</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-11-28T13:09:03Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-11-28T13:09:03Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1859215</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1859215</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

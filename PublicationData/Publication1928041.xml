@@ -1,0 +1,125 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>OOP: Object-Oriented-Priority for Motion Saliency Maps</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Anna</namePart>
+  <namePart type="family">Belardinelli</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11715377</identifier></name>
+<name type="personal">
+  <namePart type="given">Werner X.</namePart>
+  <namePart type="family">Schneider</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">8139667</identifier></name>
+<name type="personal">
+  <namePart type="given">Jochen J.</namePart>
+  <namePart type="family">Steil</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11608</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Research Institute for Cognition and Robotics</namePart>
+  <identifier type="unibi">5408013</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Technische Fakultät</namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Center of Excellence - Cognitive Interaction Technology CITEC</namePart>
+  <identifier type="unibi">8014655</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+<name type="conference">
+  <namePart>BICS 2010 Conference on Brain-Inspired Cognitive Systems</namePart>
+</name>
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="bics2010.pdf">https://pub.uni-bielefeld.de/download/1928041/2247718</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">2010</dateIssued><place><placeTerm type="text">Madrid</placeTerm></place>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Workshop on Brain Inspired Cognitive Systems</title></titleInfo>
+  <identifier type="isbn">978-84-614-1869-5</identifier><identifier type="urn">urn:nbn:de:0070-pub-19280417</identifier>
+<part><extent unit="pages">370-381</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<harvard1>Belardinelli, A., Schneider, W.X., &amp;amp; Steil, J.J., 2010. OOP: Object-Oriented-Priority for Motion Saliency Maps. In &lt;em&gt;Workshop on Brain Inspired Cognitive Systems&lt;/em&gt;. pp. 370-381.</harvard1>
+<ama>Belardinelli A, Schneider WX, Steil JJ. OOP: Object-Oriented-Priority for Motion Saliency Maps. In:  &lt;em&gt;Workshop on Brain Inspired Cognitive Systems&lt;/em&gt;. 2010: 370-381.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Belardinelli, A., Schneider, W.X. &amp;amp; Steil, J.J. (2010). OOP: Object-Oriented-Priority for Motion Saliency Maps. &lt;em&gt;Workshop on Brain Inspired Cognitive Systems&lt;/em&gt; (S. 370-381). Gehalten auf der BICS 2010 Conference on Brain-Inspired Cognitive Systems.&lt;/div&gt;</dgps>
+<bio1>Belardinelli A, Schneider WX, Steil JJ (2010) &lt;br /&gt;OOP: Object-Oriented-Priority for Motion Saliency Maps. &lt;br /&gt;In:  Workshop on Brain Inspired Cognitive Systems.  370-381.</bio1>
+<aps>A.  Belardinelli, W. X.  Schneider, and J. J.  Steil, OOP: Object-Oriented-Priority for Motion Saliency Maps, in &lt;em&gt;Workshop on Brain Inspired Cognitive Systems&lt;/em&gt; (2010), p. 370-381.</aps>
+<wels>Belardinelli, A.; Schneider, W. X.; Steil, J. J. (2010): OOP: Object-Oriented-Priority for Motion Saliency Maps. In: Workshop on Brain Inspired Cognitive Systems.  S. 370-381.</wels>
+<default>Belardinelli A, Schneider WX, Steil JJ (2010)  &lt;br /&gt;In:  Workshop on Brain Inspired Cognitive Systems.  370-381.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Belardinelli, A., Schneider, W. X., &amp;amp; Steil, J. J. (2010). OOP: Object-Oriented-Priority for Motion Saliency Maps. &lt;em&gt;Workshop on Brain Inspired Cognitive Systems&lt;/em&gt;, 370-381.&lt;/div&gt;</apa_indent>
+<ieee>A. Belardinelli, W.X. Schneider, and J.J. Steil, “OOP: Object-Oriented-Priority for Motion Saliency Maps”, &lt;em&gt;Workshop on Brain Inspired Cognitive Systems&lt;/em&gt;, 2010,  pp.370-381.</ieee>
+<mla>Belardinelli, Anna, Schneider, Werner X., and Steil, Jochen J. “OOP: Object-Oriented-Priority for Motion Saliency Maps”. &lt;em&gt;Workshop on Brain Inspired Cognitive Systems&lt;/em&gt;. 2010. 370-381.</mla>
+<lncs>Belardinelli, A., Schneider, W.X., Steil, J.J.: OOP: Object-Oriented-Priority for Motion Saliency Maps. Workshop on Brain Inspired Cognitive Systems. p. 370-381. (2010).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Belardinelli, Anna, Schneider, Werner X., and Steil, Jochen J. 2010. “OOP: Object-Oriented-Priority for Motion Saliency Maps”. In &lt;em&gt;Workshop on Brain Inspired Cognitive Systems&lt;/em&gt;, 370-381.&lt;/div&gt;</chicago>
+<angewandte-chemie>A.  Belardinelli, W. X.  Schneider, and J. J.  Steil, in &lt;em&gt;Workshop on Brain Inspired Cognitive Systems&lt;/em&gt;, &lt;strong&gt;2010&lt;/strong&gt;, p. 370-381.</angewandte-chemie>
+<apa>Belardinelli, A., Schneider, W. X., &amp;amp; Steil, J. J. (2010). OOP: Object-Oriented-Priority for Motion Saliency Maps. &lt;em&gt;Workshop on Brain Inspired Cognitive Systems&lt;/em&gt;, 370-381.</apa>
+<frontiers>Belardinelli, A., Schneider, W. X., and Steil, J. J. (2010). “OOP: Object-Oriented-Priority for Motion Saliency Maps” in &lt;em&gt;Workshop on Brain Inspired Cognitive Systems&lt;/em&gt; 370-381.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1928041</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-12-06T16:48:22Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2013-12-13T09:48:28Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1928041</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1928041</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

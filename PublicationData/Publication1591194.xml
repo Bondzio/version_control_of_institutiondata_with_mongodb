@@ -1,0 +1,102 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>A &quot;Master&quot; perturbation series for the transition amplitude in a light field</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Farhard</namePart>
+  <namePart type="family">Faisal</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40255</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Theoretische Atom-, Molekül- und Laserphysik</namePart>
+  <identifier type="unibi">23470672</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We derive a &quot;master&quot; perturbation series for the quantum amplitude for a given transition process induced by laser-matter interaction. The result is derived using a complete set of basis functions depending on a real parameter lambda. It provides a one-parameter (lambda) family of infinitely many equivalent series representations of one and the same transition amplitude defined in the minimal coupling (MC) &quot;velocity gauge&quot;. As a first application of the master series we put lambda = 0 and 1 in the formula and immediately obtain the two well-known perturbation series, traditionally derived in the &quot;velocity&quot; and &quot;length&quot; gauges. The master formula can be used to obtain any number of equivalent perturbation series by simply choosing a real number for lambda; e.g., a &quot;hybrid perturbation&quot; series follows from putting lambda = 1/2 in the formula.</abstract>
+
+<originInfo><publisher>Pleiades Publishing Ltd</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>LASER PHYSICS</title></titleInfo>
+  <identifier type="issn">1054-660X</identifier>
+  <identifier type="eIssn">1555-6611</identifier>
+  <identifier type="ISI">000269012800022</identifier><identifier type="doi">10.1134/S1054660X09150146</identifier>
+<part><detail type="volume"><number>19</number></detail><detail type="issue"><number>8</number></detail><extent unit="pages">1616-1620</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Faisal, F. (2009). A &quot;Master&quot; perturbation series for the transition amplitude in a light field. &lt;em&gt;LASER PHYSICS&lt;/em&gt;, &lt;em&gt;19&lt;/em&gt;(8), 1616-1620.&lt;/div&gt;</apa_indent>
+<lncs>Faisal, F.: A &quot;Master&quot; perturbation series for the transition amplitude in a light field. LASER PHYSICS. 19, 1616-1620 (2009).</lncs>
+<mla>Faisal, Farhard. “A &quot;Master&quot; perturbation series for the transition amplitude in a light field”. &lt;em&gt;LASER PHYSICS&lt;/em&gt; 19.8 (2009): 1616-1620.</mla>
+<ieee>F. Faisal, “A &quot;Master&quot; perturbation series for the transition amplitude in a light field”, &lt;em&gt;LASER PHYSICS&lt;/em&gt;,  vol. 19, 2009,  pp. 1616-1620.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Faisal, Farhard. 2009. “A &quot;Master&quot; perturbation series for the transition amplitude in a light field”. &lt;em&gt;LASER PHYSICS&lt;/em&gt; 19 (8): 1616-1620.&lt;/div&gt;</chicago>
+<frontiers>Faisal, F. (2009). A &quot;Master&quot; perturbation series for the transition amplitude in a light field. &lt;em&gt;LASER PHYSICS&lt;/em&gt; 19, 1616-1620.</frontiers>
+<angewandte-chemie>F.  Faisal, “A &quot;Master&quot; perturbation series for the transition amplitude in a light field”, &lt;em&gt;LASER PHYSICS&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;19&lt;/em&gt;, 1616-1620.</angewandte-chemie>
+<apa>Faisal, F. (2009). A &quot;Master&quot; perturbation series for the transition amplitude in a light field. &lt;em&gt;LASER PHYSICS&lt;/em&gt;, &lt;em&gt;19&lt;/em&gt;(8), 1616-1620.</apa>
+<aps>F.  Faisal, A &quot;Master&quot; perturbation series for the transition amplitude in a light field, LASER PHYSICS &lt;strong&gt;19&lt;/strong&gt;, 1616-1620 (2009).</aps>
+<bio1>Faisal F (2009) &lt;br /&gt;A &quot;Master&quot; perturbation series for the transition amplitude in a light field.&lt;br /&gt;LASER PHYSICS 19(8): 1616-1620.</bio1>
+<ama>Faisal F. A &quot;Master&quot; perturbation series for the transition amplitude in a light field. &lt;em&gt;LASER PHYSICS&lt;/em&gt;. 2009;19(8):1616-1620.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Faisal, F. (2009). A &quot;Master&quot; perturbation series for the transition amplitude in a light field. &lt;em&gt;LASER PHYSICS&lt;/em&gt;, &lt;em&gt;19&lt;/em&gt;(8), 1616-1620. Pleiades Publishing Ltd. doi:10.1134/S1054660X09150146.&lt;/div&gt;</dgps>
+<harvard1>Faisal, F., 2009. A &quot;Master&quot; perturbation series for the transition amplitude in a light field. &lt;em&gt;LASER PHYSICS&lt;/em&gt;, 19(8), p 1616-1620.</harvard1>
+<default>Faisal F (2009) &lt;br /&gt;LASER PHYSICS 19(8): 1616-1620.</default>
+<wels>Faisal, F. (2009): A &quot;Master&quot; perturbation series for the transition amplitude in a light field &lt;em&gt;LASER PHYSICS&lt;/em&gt;,19:(8): 1616-1620.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1591194</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-26T09:45:42Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-11-04T10:02:32Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1591194</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1591194</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

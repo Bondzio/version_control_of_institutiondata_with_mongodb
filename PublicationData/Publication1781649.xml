@@ -1,0 +1,96 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Das Studium ausländischer Studierender bei uns: Herausforderungen an Hochschule und Studienkollegs</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ludwig</namePart>
+  <namePart type="family">Huber</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">172028</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Wissenschafts- und Technikforschung</namePart>
+  <identifier type="unibi">10061</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT2627.pdf">https://pub.uni-bielefeld.de/download/1781649/2313393</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1989</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Hochschulausbildung</title></titleInfo>
+  <identifier type="issn">0724-5874</identifier><identifier type="urn">urn:nbn:de:0070-bipr-26271</identifier>
+<part><detail type="volume"><number>7</number></detail><extent unit="pages">65-90</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<harvard1>Huber, L., 1989. Das Studium ausländischer Studierender bei uns: Herausforderungen an Hochschule und Studienkollegs. &lt;em&gt;Hochschulausbildung&lt;/em&gt;, 7, p 65-90.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Huber, L. (1989). Das Studium ausländischer Studierender bei uns: Herausforderungen an Hochschule und Studienkollegs. &lt;em&gt;Hochschulausbildung&lt;/em&gt;, &lt;em&gt;7&lt;/em&gt;, 65-90.&lt;/div&gt;</dgps>
+<ama>Huber L. Das Studium ausländischer Studierender bei uns: Herausforderungen an Hochschule und Studienkollegs. &lt;em&gt;Hochschulausbildung&lt;/em&gt;. 1989;7:65-90.</ama>
+<aps>L.  Huber, Das Studium ausländischer Studierender bei uns: Herausforderungen an Hochschule und Studienkollegs, Hochschulausbildung &lt;strong&gt;7&lt;/strong&gt;, 65-90 (1989).</aps>
+<bio1>Huber L (1989) &lt;br /&gt;Das Studium ausländischer Studierender bei uns: Herausforderungen an Hochschule und Studienkollegs.&lt;br /&gt;Hochschulausbildung 7: 65-90.</bio1>
+<wels>Huber, L. (1989): Das Studium ausländischer Studierender bei uns: Herausforderungen an Hochschule und Studienkollegs &lt;em&gt;Hochschulausbildung&lt;/em&gt;,7: 65-90.</wels>
+<default>Huber L (1989) &lt;br /&gt;Hochschulausbildung 7: 65-90.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Huber, L. (1989). Das Studium ausländischer Studierender bei uns: Herausforderungen an Hochschule und Studienkollegs. &lt;em&gt;Hochschulausbildung&lt;/em&gt;, &lt;em&gt;7&lt;/em&gt;, 65-90.&lt;/div&gt;</apa_indent>
+<ieee>L. Huber, “Das Studium ausländischer Studierender bei uns: Herausforderungen an Hochschule und Studienkollegs”, &lt;em&gt;Hochschulausbildung&lt;/em&gt;,  vol. 7, 1989,  pp. 65-90.</ieee>
+<mla>Huber, Ludwig. “Das Studium ausländischer Studierender bei uns: Herausforderungen an Hochschule und Studienkollegs”. &lt;em&gt;Hochschulausbildung&lt;/em&gt; 7 (1989): 65-90.</mla>
+<lncs>Huber, L.: Das Studium ausländischer Studierender bei uns: Herausforderungen an Hochschule und Studienkollegs. Hochschulausbildung. 7, 65-90 (1989).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Huber, Ludwig. 1989. “Das Studium ausländischer Studierender bei uns: Herausforderungen an Hochschule und Studienkollegs”. &lt;em&gt;Hochschulausbildung&lt;/em&gt; 7: 65-90.&lt;/div&gt;</chicago>
+<angewandte-chemie>L.  Huber, “Das Studium ausländischer Studierender bei uns: Herausforderungen an Hochschule und Studienkollegs”, &lt;em&gt;Hochschulausbildung&lt;/em&gt;, &lt;strong&gt;1989&lt;/strong&gt;, &lt;em&gt;7&lt;/em&gt;, 65-90.</angewandte-chemie>
+<apa>Huber, L. (1989). Das Studium ausländischer Studierender bei uns: Herausforderungen an Hochschule und Studienkollegs. &lt;em&gt;Hochschulausbildung&lt;/em&gt;, &lt;em&gt;7&lt;/em&gt;, 65-90.</apa>
+<frontiers>Huber, L. (1989). Das Studium ausländischer Studierender bei uns: Herausforderungen an Hochschule und Studienkollegs. &lt;em&gt;Hochschulausbildung&lt;/em&gt; 7, 65-90.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781649</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781649</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781649</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,94 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Numerical self-consistent field method for polyatomic molecules</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Dirk</namePart>
+  <namePart type="family">Andrae</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20327</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Theoretische Chemie</namePart>
+  <identifier type="unibi">17982</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">A method for non-relativistic self-consistent field (SCF) electronic structure calculations for polyatomic molecules is described, which retains the linear combination of atomic orbitals ansatz for molecular orbitals (MO-LCAO), but replaces the usual algebraic expansion of atom-centred radial parts in terms of basis functions (usually some kind of Gauss-type functions) by a numerical representation on a set of radial grid points around each centre. The radial parts are optimized, according to the variation principle, until self-consistency is achieved. Even though Fourier integral transform techniques are used the method works completely in ordinary space. Intermediate quantities defined in momentum space are evaluated in closed form.</abstract>
+
+<originInfo><publisher>TAYLOR &amp; FRANCIS LTD</publisher><dateIssued encoding="w3cdtf">2001</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>MOLECULAR PHYSICS</title></titleInfo>
+  <identifier type="issn">0026-8976</identifier>
+  <identifier type="eIssn">1362-3028</identifier>
+  <identifier type="ISI">000166816700009</identifier><identifier type="doi">10.1080/00268970010012608</identifier>
+<part><detail type="volume"><number>99</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">327-334</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>D.  Andrae, Numerical self-consistent field method for polyatomic molecules, MOLECULAR PHYSICS &lt;strong&gt;99&lt;/strong&gt;, 327-334 (2001).</aps>
+<bio1>Andrae D (2001) &lt;br /&gt;Numerical self-consistent field method for polyatomic molecules.&lt;br /&gt;MOLECULAR PHYSICS 99(4): 327-334.</bio1>
+<ama>Andrae D. Numerical self-consistent field method for polyatomic molecules. &lt;em&gt;MOLECULAR PHYSICS&lt;/em&gt;. 2001;99(4):327-334.</ama>
+<harvard1>Andrae, D., 2001. Numerical self-consistent field method for polyatomic molecules. &lt;em&gt;MOLECULAR PHYSICS&lt;/em&gt;, 99(4), p 327-334.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Andrae, D. (2001). Numerical self-consistent field method for polyatomic molecules. &lt;em&gt;MOLECULAR PHYSICS&lt;/em&gt;, &lt;em&gt;99&lt;/em&gt;(4), 327-334. TAYLOR &amp;amp; FRANCIS LTD. doi:10.1080/00268970010012608.&lt;/div&gt;</dgps>
+<default>Andrae D (2001) &lt;br /&gt;MOLECULAR PHYSICS 99(4): 327-334.</default>
+<wels>Andrae, D. (2001): Numerical self-consistent field method for polyatomic molecules &lt;em&gt;MOLECULAR PHYSICS&lt;/em&gt;,99:(4): 327-334.</wels>
+<lncs>Andrae, D.: Numerical self-consistent field method for polyatomic molecules. MOLECULAR PHYSICS. 99, 327-334 (2001).</lncs>
+<mla>Andrae, Dirk. “Numerical self-consistent field method for polyatomic molecules”. &lt;em&gt;MOLECULAR PHYSICS&lt;/em&gt; 99.4 (2001): 327-334.</mla>
+<ieee>D. Andrae, “Numerical self-consistent field method for polyatomic molecules”, &lt;em&gt;MOLECULAR PHYSICS&lt;/em&gt;,  vol. 99, 2001,  pp. 327-334.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Andrae, D. (2001). Numerical self-consistent field method for polyatomic molecules. &lt;em&gt;MOLECULAR PHYSICS&lt;/em&gt;, &lt;em&gt;99&lt;/em&gt;(4), 327-334.&lt;/div&gt;</apa_indent>
+<frontiers>Andrae, D. (2001). Numerical self-consistent field method for polyatomic molecules. &lt;em&gt;MOLECULAR PHYSICS&lt;/em&gt; 99, 327-334.</frontiers>
+<angewandte-chemie>D.  Andrae, “Numerical self-consistent field method for polyatomic molecules”, &lt;em&gt;MOLECULAR PHYSICS&lt;/em&gt;, &lt;strong&gt;2001&lt;/strong&gt;, &lt;em&gt;99&lt;/em&gt;, 327-334.</angewandte-chemie>
+<apa>Andrae, D. (2001). Numerical self-consistent field method for polyatomic molecules. &lt;em&gt;MOLECULAR PHYSICS&lt;/em&gt;, &lt;em&gt;99&lt;/em&gt;(4), 327-334.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Andrae, Dirk. 2001. “Numerical self-consistent field method for polyatomic molecules”. &lt;em&gt;MOLECULAR PHYSICS&lt;/em&gt; 99 (4): 327-334.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1617967</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:03:28Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-07T16:48:27Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1617967</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1617967</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

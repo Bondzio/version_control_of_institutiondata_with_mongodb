@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Non-linear prediction with self-organizing maps</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Jörg</namePart>
+  <namePart type="family">Walter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Helge</namePart>
+  <namePart type="family">Ritter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">91130</identifier></name>
+<name type="personal">
+  <namePart type="given">Klaus</namePart>
+  <namePart type="family">Schulten</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Neuroinformatik</namePart>
+  <identifier type="unibi">10038</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT3411.pdf">https://pub.uni-bielefeld.de/download/1782961/2314073</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>IEEE Neural Networks Council</publisher><dateIssued encoding="w3cdtf">1990</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>IJCNN, International Joint Conference on Neural Networks</title></titleInfo><identifier type="urn">urn:nbn:de:0070-bipr-34110</identifier>
+<part><detail type="volume"><number>vol. 1</number></detail><extent unit="pages">587-592</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Walter J, Ritter H, Schulten K (1990)  &lt;br /&gt;In:  IJCNN, International Joint Conference on Neural Networks. vol. 1. Ann Arbor, Mich.: IEEE Neural Networks Council:  587-592.</default>
+<wels>Walter, J.; Ritter, H.; Schulten, K. (1990): Non-linear prediction with self-organizing maps. In: IJCNN, International Joint Conference on Neural Networks. Ann Arbor, Mich.: IEEE Neural Networks Council. (vol. 1).  S. 587-592.</wels>
+<bio1>Walter J, Ritter H, Schulten K (1990) &lt;br /&gt;Non-linear prediction with self-organizing maps. &lt;br /&gt;In:  IJCNN, International Joint Conference on Neural Networks. vol. 1. Ann Arbor, Mich.: IEEE Neural Networks Council:  587-592.</bio1>
+<aps>J.  Walter, H.  Ritter, and K.  Schulten, Non-linear prediction with self-organizing maps, in &lt;em&gt;IJCNN, International Joint Conference on Neural Networks&lt;/em&gt;, &lt;strong&gt;vol. 1&lt;/strong&gt; (IEEE Neural Networks Council, Ann Arbor, Mich., 1990), p. 587-592.</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Walter, J., Ritter, H. &amp;amp; Schulten, K. (1990). Non-linear prediction with self-organizing maps. &lt;em&gt;IJCNN, International Joint Conference on Neural Networks&lt;/em&gt; (S. 587-592). Ann Arbor, Mich.: IEEE Neural Networks Council.&lt;/div&gt;</dgps>
+<ama>Walter J, Ritter H, Schulten K. Non-linear prediction with self-organizing maps. In:  &lt;em&gt;IJCNN, International Joint Conference on Neural Networks&lt;/em&gt;. Vol vol. 1. Ann Arbor, Mich.: IEEE Neural Networks Council;  1990: 587-592.</ama>
+<harvard1>Walter, J., Ritter, H., &amp;amp; Schulten, K., 1990. Non-linear prediction with self-organizing maps. In &lt;em&gt;IJCNN, International Joint Conference on Neural Networks&lt;/em&gt;. no.vol. 1  Ann Arbor, Mich.: IEEE Neural Networks Council, pp. 587-592.</harvard1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Walter, Jörg, Ritter, Helge, and Schulten, Klaus. 1990. “Non-linear prediction with self-organizing maps”. In &lt;em&gt;IJCNN, International Joint Conference on Neural Networks&lt;/em&gt;, vol. 1:587-592. Ann Arbor, Mich.: IEEE Neural Networks Council.&lt;/div&gt;</chicago>
+<frontiers>Walter, J., Ritter, H., and Schulten, K. (1990). “Non-linear prediction with self-organizing maps” in &lt;em&gt;IJCNN, International Joint Conference on Neural Networks&lt;/em&gt;, vol. vol. 1, (Ann Arbor, Mich.: IEEE Neural Networks Council), 587-592.</frontiers>
+<angewandte-chemie>J.  Walter, H.  Ritter, and K.  Schulten, in &lt;em&gt;IJCNN, International Joint Conference on Neural Networks&lt;/em&gt;, Ieee Neural Networks Council, Ann Arbor, Mich., &lt;strong&gt;1990&lt;/strong&gt;, p. 587-592.</angewandte-chemie>
+<apa>Walter, J., Ritter, H., &amp;amp; Schulten, K. (1990). Non-linear prediction with self-organizing maps. &lt;em&gt;IJCNN, International Joint Conference on Neural Networks&lt;/em&gt;, &lt;em&gt;vol. 1&lt;/em&gt;, 587-592.</apa>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Walter, J., Ritter, H., &amp;amp; Schulten, K. (1990). Non-linear prediction with self-organizing maps. &lt;em&gt;IJCNN, International Joint Conference on Neural Networks&lt;/em&gt;, &lt;em&gt;vol. 1&lt;/em&gt;, 587-592.&lt;/div&gt;</apa_indent>
+<lncs>Walter, J., Ritter, H., Schulten, K.: Non-linear prediction with self-organizing maps. IJCNN, International Joint Conference on Neural Networks. vol. 1, p. 587-592. IEEE Neural Networks Council, Ann Arbor, Mich. (1990).</lncs>
+<mla>Walter, Jörg, Ritter, Helge, and Schulten, Klaus. “Non-linear prediction with self-organizing maps”. &lt;em&gt;IJCNN, International Joint Conference on Neural Networks&lt;/em&gt;. Ann Arbor, Mich.: IEEE Neural Networks Council, 1990.Vol. vol. 1. 587-592.</mla>
+<ieee>J. Walter, H. Ritter, and K. Schulten, “Non-linear prediction with self-organizing maps”, &lt;em&gt;IJCNN, International Joint Conference on Neural Networks&lt;/em&gt;, vol. vol. 1,  Ann Arbor, Mich.: IEEE Neural Networks Council, 1990,  pp.587-592.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1782961</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1782961</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1782961</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

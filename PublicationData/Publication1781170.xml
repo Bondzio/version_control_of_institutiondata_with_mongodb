@@ -1,0 +1,112 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>&quot;Gute Sitten&quot; als Grenze der Gewerbefreiheit</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Christoph</namePart>
+  <namePart type="family">Gusy</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21583</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Rechtswissenschaft</namePart>
+  <identifier type="unibi">10029</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>SFB 584 Das Politische als Kommunikationsraum in der Geschichte</namePart>
+  <identifier type="unibi">78418</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Weltgesellschaft</namePart>
+  <identifier type="unibi">89044</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT2386.pdf">https://pub.uni-bielefeld.de/download/1781170/2313193</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1984</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Gewerbearchiv</title></titleInfo>
+  <identifier type="issn">0016-9404</identifier><identifier type="urn">urn:nbn:de:0070-bipr-23866</identifier>
+<part><detail type="volume"><number>30</number></detail><detail type="issue"><number>5</number></detail><extent unit="pages">151-157</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<mla>Gusy, Christoph. “&quot;Gute Sitten&quot; als Grenze der Gewerbefreiheit”. &lt;em&gt;Gewerbearchiv&lt;/em&gt; 30.5 (1984): 151-157.</mla>
+<lncs>Gusy, C.: &quot;Gute Sitten&quot; als Grenze der Gewerbefreiheit. Gewerbearchiv. 30, 151-157 (1984).</lncs>
+<ieee>C. Gusy, “&quot;Gute Sitten&quot; als Grenze der Gewerbefreiheit”, &lt;em&gt;Gewerbearchiv&lt;/em&gt;,  vol. 30, 1984,  pp. 151-157.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gusy, C. (1984). &quot;Gute Sitten&quot; als Grenze der Gewerbefreiheit. &lt;em&gt;Gewerbearchiv&lt;/em&gt;, &lt;em&gt;30&lt;/em&gt;(5), 151-157.&lt;/div&gt;</apa_indent>
+<frontiers>Gusy, C. (1984). &quot;Gute Sitten&quot; als Grenze der Gewerbefreiheit. &lt;em&gt;Gewerbearchiv&lt;/em&gt; 30, 151-157.</frontiers>
+<apa>Gusy, C. (1984). &quot;Gute Sitten&quot; als Grenze der Gewerbefreiheit. &lt;em&gt;Gewerbearchiv&lt;/em&gt;, &lt;em&gt;30&lt;/em&gt;(5), 151-157.</apa>
+<angewandte-chemie>C.  Gusy, “&quot;Gute Sitten&quot; als Grenze der Gewerbefreiheit”, &lt;em&gt;Gewerbearchiv&lt;/em&gt;, &lt;strong&gt;1984&lt;/strong&gt;, &lt;em&gt;30&lt;/em&gt;, 151-157.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gusy, Christoph. 1984. “&quot;Gute Sitten&quot; als Grenze der Gewerbefreiheit”. &lt;em&gt;Gewerbearchiv&lt;/em&gt; 30 (5): 151-157.&lt;/div&gt;</chicago>
+<bio1>Gusy C (1984) &lt;br /&gt;&quot;Gute Sitten&quot; als Grenze der Gewerbefreiheit.&lt;br /&gt;Gewerbearchiv 30(5): 151-157.</bio1>
+<aps>C.  Gusy, &quot;Gute Sitten&quot; als Grenze der Gewerbefreiheit, Gewerbearchiv &lt;strong&gt;30&lt;/strong&gt;, 151-157 (1984).</aps>
+<ama>Gusy C. &quot;Gute Sitten&quot; als Grenze der Gewerbefreiheit. &lt;em&gt;Gewerbearchiv&lt;/em&gt;. 1984;30(5):151-157.</ama>
+<harvard1>Gusy, C., 1984. &quot;Gute Sitten&quot; als Grenze der Gewerbefreiheit. &lt;em&gt;Gewerbearchiv&lt;/em&gt;, 30(5), p 151-157.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gusy, C. (1984). &quot;Gute Sitten&quot; als Grenze der Gewerbefreiheit. &lt;em&gt;Gewerbearchiv&lt;/em&gt;, &lt;em&gt;30&lt;/em&gt;(5), 151-157.&lt;/div&gt;</dgps>
+<default>Gusy C (1984) &lt;br /&gt;Gewerbearchiv 30(5): 151-157.</default>
+<wels>Gusy, C. (1984): &quot;Gute Sitten&quot; als Grenze der Gewerbefreiheit &lt;em&gt;Gewerbearchiv&lt;/em&gt;,30:(5): 151-157.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781170</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781170</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781170</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

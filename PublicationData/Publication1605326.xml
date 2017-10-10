@@ -1,0 +1,97 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Katona&apos;s intersection theorem: Four proofs</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Rudolf</namePart>
+  <namePart type="family">Ahlswede</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10479</identifier></name>
+<name type="personal">
+  <namePart type="given">LH</namePart>
+  <namePart type="family">Khachatrian</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">It is known from a previous paper [3] that Katona&apos;s Intersection Theorem follows from the Complete Intersection Theorem by Ahlswede and Khachatrian via a Comparison Lemma. It also has been proved directly in [3] by the pushing-pulling method of that paper. Here we add a third proof via a new (k, k+1)-shifting technique, whose impact will be exploared elsewhere. The fourth and last of our proofs is a gift from heaven for Gyula&apos;s birthday.</abstract>
+
+<originInfo><publisher>SPRINGER</publisher><dateIssued encoding="w3cdtf">2005</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>COMBINATORICA</title></titleInfo>
+  <identifier type="issn">0209-9683</identifier>
+  <identifier type="ISI">000226236300008</identifier>
+<part><detail type="volume"><number>25</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">105-110</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Ahlswede R, Khachatrian LH (2005) &lt;br /&gt;COMBINATORICA 25(1): 105-110.</default>
+<wels>Ahlswede, R.; Khachatrian, L. H. (2005): Katona&apos;s intersection theorem: Four proofs &lt;em&gt;COMBINATORICA&lt;/em&gt;,25:(1): 105-110.</wels>
+<aps>R.  Ahlswede and L. H.  Khachatrian, Katona&apos;s intersection theorem: Four proofs, COMBINATORICA &lt;strong&gt;25&lt;/strong&gt;, 105-110 (2005).</aps>
+<bio1>Ahlswede R, Khachatrian LH (2005) &lt;br /&gt;Katona&apos;s intersection theorem: Four proofs.&lt;br /&gt;COMBINATORICA 25(1): 105-110.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R. &amp;amp; Khachatrian, L.H. (2005). Katona&apos;s intersection theorem: Four proofs. &lt;em&gt;COMBINATORICA&lt;/em&gt;, &lt;em&gt;25&lt;/em&gt;(1), 105-110. SPRINGER.&lt;/div&gt;</dgps>
+<harvard1>Ahlswede, R., &amp;amp; Khachatrian, L.H., 2005. Katona&apos;s intersection theorem: Four proofs. &lt;em&gt;COMBINATORICA&lt;/em&gt;, 25(1), p 105-110.</harvard1>
+<ama>Ahlswede R, Khachatrian LH. Katona&apos;s intersection theorem: Four proofs. &lt;em&gt;COMBINATORICA&lt;/em&gt;. 2005;25(1):105-110.</ama>
+<frontiers>Ahlswede, R., and Khachatrian, L. H. (2005). Katona&apos;s intersection theorem: Four proofs. &lt;em&gt;COMBINATORICA&lt;/em&gt; 25, 105-110.</frontiers>
+<apa>Ahlswede, R., &amp;amp; Khachatrian, L. H. (2005). Katona&apos;s intersection theorem: Four proofs. &lt;em&gt;COMBINATORICA&lt;/em&gt;, &lt;em&gt;25&lt;/em&gt;(1), 105-110.</apa>
+<angewandte-chemie>R.  Ahlswede, and L. H.  Khachatrian, “Katona&apos;s intersection theorem: Four proofs”, &lt;em&gt;COMBINATORICA&lt;/em&gt;, &lt;strong&gt;2005&lt;/strong&gt;, &lt;em&gt;25&lt;/em&gt;, 105-110.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, Rudolf, and Khachatrian, LH. 2005. “Katona&apos;s intersection theorem: Four proofs”. &lt;em&gt;COMBINATORICA&lt;/em&gt; 25 (1): 105-110.&lt;/div&gt;</chicago>
+<mla>Ahlswede, Rudolf, and Khachatrian, LH. “Katona&apos;s intersection theorem: Four proofs”. &lt;em&gt;COMBINATORICA&lt;/em&gt; 25.1 (2005): 105-110.</mla>
+<lncs>Ahlswede, R., Khachatrian, L.H.: Katona&apos;s intersection theorem: Four proofs. COMBINATORICA. 25, 105-110 (2005).</lncs>
+<ieee>R. Ahlswede and L.H. Khachatrian, “Katona&apos;s intersection theorem: Four proofs”, &lt;em&gt;COMBINATORICA&lt;/em&gt;,  vol. 25, 2005,  pp. 105-110.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R., &amp;amp; Khachatrian, L. H. (2005). Katona&apos;s intersection theorem: Four proofs. &lt;em&gt;COMBINATORICA&lt;/em&gt;, &lt;em&gt;25&lt;/em&gt;(1), 105-110.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1605326</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:40:43Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-11-11T12:05:50Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1605326</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1605326</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,92 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference abstract</genre>
+
+<titleInfo><title>Feasibility and primary validity of a german EQ-5D children&apos;s version</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Wolfgang</namePart>
+  <namePart type="family">Greiner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">152704</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10046</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>BLACKWELL PUBLISHING</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host">
+  <identifier type="issn">1098-3015</identifier>
+  <identifier type="ISI">000240922000022</identifier><identifier type="doi">10.1016/S1098-3015(10)63169-5</identifier>
+<part><detail type="volume"><number>9</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">A191-A191</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps> W.  Greiner, Feasibility and primary validity of a german EQ-5D children&apos;s version, VALUE IN HEALTH, &lt;strong&gt;9&lt;/strong&gt; (BLACKWELL PUBLISHING, 2006), p. A191-A191.</aps>
+<bio1>Greiner W (2006) &lt;br /&gt;Feasibility and primary validity of a german EQ-5D children&apos;s version.</bio1>
+<harvard1>Greiner, W., 2006. Feasibility and primary validity of a german EQ-5D children&apos;s version.</harvard1>
+<ama>Greiner W. Feasibility and primary validity of a german EQ-5D children&apos;s version.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Greiner, W. (2006). Feasibility and primary validity of a german EQ-5D children&apos;s version (VALUE IN HEALTH) (S. A191-A191). BLACKWELL PUBLISHING. doi:10.1016/S1098-3015(10)63169-5.&lt;/div&gt;</dgps>
+<default>Greiner W (2006) .</default>
+<wels>Greiner, W. (2006): Feasibility and primary validity of a german EQ-5D children&apos;s version. BLACKWELL PUBLISHING. (VALUE IN HEALTH, 9).  S. A191-A191.</wels>
+<mla>Greiner, Wolfgang. “Feasibility and primary validity of a german EQ-5D children&apos;s version”., BLACKWELL PUBLISHING, 2006.</mla>
+<lncs> Greiner, W.: Feasibility and primary validity of a german EQ-5D children&apos;s version. (2006).</lncs>
+<ieee> W. Greiner, “Feasibility and primary validity of a german EQ-5D children&apos;s version”, BLACKWELL PUBLISHING, 2006.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Greiner, W. (2006). &lt;em&gt;Feasibility and primary validity of a german EQ-5D children&apos;s version&lt;/em&gt;. Presented at the .&lt;/div&gt;</apa_indent>
+<frontiers>Greiner, W. (2006).“Feasibility and primary validity of a german EQ-5D children&apos;s version”.</frontiers>
+<apa>Greiner, W. (2006). &lt;em&gt;Feasibility and primary validity of a german EQ-5D children&apos;s version&lt;/em&gt;. Presented at the .</apa>
+<angewandte-chemie>W.  Greiner, Blackwell Publishing, &lt;strong&gt;2006&lt;/strong&gt;, p. A191-A191.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Greiner, Wolfgang. 2006. “Feasibility and primary validity of a german EQ-5D children&apos;s version”. Presented at the , 9:A191-A191. VALUE IN HEALTH. BLACKWELL PUBLISHING.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1597294</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:18:47Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-10T11:31:14Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1597294</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1597294</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

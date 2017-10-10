@@ -1,0 +1,203 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>A portal for rhizobial genomes: RhizoGATE integrates a Sinorhizobium meliloti genome annotation update with postgenome data</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Anke</namePart>
+  <namePart type="family">Becker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Melanie J.</namePart>
+  <namePart type="family">Barnett</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Delphine</namePart>
+  <namePart type="family">Capela</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Michael</namePart>
+  <namePart type="family">Dondrup</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Paul-Bertram</namePart>
+  <namePart type="family">Kamp</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">16080323</identifier></name>
+<name type="personal">
+  <namePart type="given">Elizaveta</namePart>
+  <namePart type="family">Krol</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Burkhard</namePart>
+  <namePart type="family">Linke</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">148566</identifier></name>
+<name type="personal">
+  <namePart type="given">Silvia</namePart>
+  <namePart type="family">Rüberg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Kai</namePart>
+  <namePart type="family">Runte</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Brenda K.</namePart>
+  <namePart type="family">Schroeder</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Stefan</namePart>
+  <namePart type="family">Weidner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">83076</identifier></name>
+<name type="personal">
+  <namePart type="given">Svetlana N.</namePart>
+  <namePart type="family">Yurgel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jacques</namePart>
+  <namePart type="family">Batut</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Sharon R.</namePart>
+  <namePart type="family">Long</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alfred</namePart>
+  <namePart type="family">Pühler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21937</identifier></name>
+<name type="personal">
+  <namePart type="given">Alexander</namePart>
+  <namePart type="family">Goesmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">152495</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-7086-2568</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Computational Genomics</namePart>
+  <identifier type="unibi">29609402</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group A. Goesmann</namePart>
+  <identifier type="unibi">33067438</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  A. Pühler</namePart>
+  <identifier type="unibi">33070639</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Genomforschung und Systembiologie</namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Fakultät für Biologie</namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Bioinformatics Resource Facility</namePart>
+  <identifier type="unibi">441927</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Elsevier BV</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Medicago</topic><topic>alpha-Proteobacteria</topic><topic>Symbiosis</topic><topic>Symbiotic nitrogen fixation</topic><topic>Rhizobiales</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF BIOTECHNOLOGY</title></titleInfo>
+  <identifier type="issn">0168-1656</identifier>
+  <identifier type="MEDLINE">19103235</identifier>
+  <identifier type="ISI">000265007100007</identifier><identifier type="doi">10.1016/j.jbiotec.2008.11.006</identifier>
+<part><detail type="volume"><number>140</number></detail><detail type="issue"><number>1-2</number></detail><extent unit="pages">45-50</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<angewandte-chemie>A.  Becker, M. J.  Barnett, D.  Capela, M.  Dondrup, P. - B.  Kamp, E.  Krol, B.  Linke, S.  Rüberg, K.  Runte, B. K.  Schroeder, et al., “A portal for rhizobial genomes: RhizoGATE integrates a Sinorhizobium meliloti genome annotation update with postgenome data”, &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;140&lt;/em&gt;, 45-50.</angewandte-chemie>
+<apa>Becker, A., Barnett, M. J., Capela, D., Dondrup, M., Kamp, P. - B., Krol, E., Linke, B., et al. (2009). A portal for rhizobial genomes: RhizoGATE integrates a Sinorhizobium meliloti genome annotation update with postgenome data. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;140&lt;/em&gt;(1-2), 45-50.</apa>
+<frontiers>Becker, A., Barnett, M. J., Capela, D., Dondrup, M., Kamp, P. - B., Krol, E., Linke, B., Rüberg, S., Runte, K., Schroeder, B. K., et al. (2009). A portal for rhizobial genomes: RhizoGATE integrates a Sinorhizobium meliloti genome annotation update with postgenome data. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt; 140, 45-50.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Becker, Anke, Barnett, Melanie J., Capela, Delphine, Dondrup, Michael, Kamp, Paul-Bertram, Krol, Elizaveta, Linke, Burkhard, et al. 2009. “A portal for rhizobial genomes: RhizoGATE integrates a Sinorhizobium meliloti genome annotation update with postgenome data”. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt; 140 (1-2): 45-50.&lt;/div&gt;</chicago>
+<ieee>A. Becker, et al., “A portal for rhizobial genomes: RhizoGATE integrates a Sinorhizobium meliloti genome annotation update with postgenome data”, &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;,  vol. 140, 2009,  pp. 45-50.</ieee>
+<mla>Becker, Anke, Barnett, Melanie J., Capela, Delphine, Dondrup, Michael, Kamp, Paul-Bertram, Krol, Elizaveta, Linke, Burkhard, Rüberg, Silvia, Runte, Kai, Schroeder, Brenda K., Weidner, Stefan, Yurgel, Svetlana N., Batut, Jacques, Long, Sharon R., Pühler, Alfred, and Goesmann, Alexander. “A portal for rhizobial genomes: RhizoGATE integrates a Sinorhizobium meliloti genome annotation update with postgenome data”. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt; 140.1-2 (2009): 45-50.</mla>
+<lncs>Becker, A., Barnett, M.J., Capela, D., Dondrup, M., Kamp, P.-B., Krol, E., Linke, B., Rüberg, S., Runte, K., Schroeder, B.K., Weidner, S., Yurgel, S.N., Batut, J., Long, S.R., Pühler, A., Goesmann, A.: A portal for rhizobial genomes: RhizoGATE integrates a Sinorhizobium meliloti genome annotation update with postgenome data. JOURNAL OF BIOTECHNOLOGY. 140, 45-50 (2009).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Becker, A., Barnett, M. J., Capela, D., Dondrup, M., Kamp, P. - B., Krol, E., Linke, B., et al. (2009). A portal for rhizobial genomes: RhizoGATE integrates a Sinorhizobium meliloti genome annotation update with postgenome data. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;140&lt;/em&gt;(1-2), 45-50.&lt;/div&gt;</apa_indent>
+<wels>Becker, A.; Barnett, M. J.; Capela, D.; Dondrup, M.; Kamp, P. - B.; Krol, E.; Linke, B.; Rüberg, S.; Runte, K.; Schroeder, B. K.; Weidner, S.; Yurgel, S. N.; Batut, J.; Long, S. R.; Pühler, A.; Goesmann, A. (2009): A portal for rhizobial genomes: RhizoGATE integrates a Sinorhizobium meliloti genome annotation update with postgenome data &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;,140:(1-2): 45-50.</wels>
+<default>Becker A, Barnett MJ, Capela D, Dondrup M, Kamp P-B, Krol E, Linke B, Rüberg S, Runte K, Schroeder BK, Weidner S, et al. (2009) &lt;br /&gt;JOURNAL OF BIOTECHNOLOGY 140(1-2): 45-50.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Becker, A., Barnett, M.J., Capela, D., Dondrup, M., Kamp, P.-B., Krol, E., Linke, B., Rüberg, S., Runte, K., Schroeder, B.K., Weidner, S., Yurgel, S.N., Batut, J., Long, S.R., Pühler, A. &amp;amp; Goesmann, A. (2009). A portal for rhizobial genomes: RhizoGATE integrates a Sinorhizobium meliloti genome annotation update with postgenome data. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;140&lt;/em&gt;(1-2), 45-50. Elsevier BV. doi:10.1016/j.jbiotec.2008.11.006.&lt;/div&gt;</dgps>
+<ama>Becker A, Barnett MJ, Capela D, et al. A portal for rhizobial genomes: RhizoGATE integrates a Sinorhizobium meliloti genome annotation update with postgenome data. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;. 2009;140(1-2):45-50.</ama>
+<harvard1>Becker, A., et al., 2009. A portal for rhizobial genomes: RhizoGATE integrates a Sinorhizobium meliloti genome annotation update with postgenome data. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, 140(1-2), p 45-50.</harvard1>
+<bio1>Becker A, Barnett MJ, Capela D, Dondrup M, Kamp P-B, Krol E, Linke B, Rüberg S, Runte K, Schroeder BK, Weidner S, Yurgel SN, Batut J, Long SR, Pühler A, Goesmann A (2009) &lt;br /&gt;A portal for rhizobial genomes: RhizoGATE integrates a Sinorhizobium meliloti genome annotation update with postgenome data.&lt;br /&gt;JOURNAL OF BIOTECHNOLOGY 140(1-2): 45-50.</bio1>
+<aps>A.  Becker, et al., A portal for rhizobial genomes: RhizoGATE integrates a Sinorhizobium meliloti genome annotation update with postgenome data, JOURNAL OF BIOTECHNOLOGY &lt;strong&gt;140&lt;/strong&gt;, 45-50 (2009).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1634467</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:19Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2012-02-03T10:25:42Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1634467</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1634467</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

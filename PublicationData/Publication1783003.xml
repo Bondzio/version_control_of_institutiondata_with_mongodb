@@ -1,0 +1,104 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Dynamik des Weltbevölkerungswachstums: Ursachen, Folgen, Handlungsbedarf</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Herwig</namePart>
+  <namePart type="family">Birg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">13197</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Emeriti und pensionierte WissenschaftlerInnen</namePart>
+  <identifier type="unibi">4009911</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bevölkerungs- und Gesundheitsforschung</namePart>
+  <identifier type="unibi">10056</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT3430.pdf">https://pub.uni-bielefeld.de/download/1783003/2314090</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>VDI-Verl.</publisher><dateIssued encoding="w3cdtf">1992</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Klimabeeinflussung durch den Menschen III: Sachstand, energietechnische Konzepte, Umsetzung</title></titleInfo>
+  <identifier type="isbn">3-18-091016-X</identifier><identifier type="urn">urn:nbn:de:0070-bipr-34300</identifier>
+<part><extent unit="pages">3-19</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Birg, H. (1992). Dynamik des Weltbevölkerungswachstums: Ursachen, Folgen, Handlungsbedarf (VDI-Berichte ; 1016). &lt;em&gt;Klimabeeinflussung durch den Menschen III: Sachstand, energietechnische Konzepte, Umsetzung&lt;/em&gt; (S. 3-19). Düsseldorf: VDI-Verl.&lt;/div&gt;</dgps>
+<harvard1>Birg, H., 1992. Dynamik des Weltbevölkerungswachstums: Ursachen, Folgen, Handlungsbedarf. In &lt;em&gt;Klimabeeinflussung durch den Menschen III: Sachstand, energietechnische Konzepte, Umsetzung&lt;/em&gt;. VDI-Berichte ; 1016.  Düsseldorf: VDI-Verl., pp. 3-19.</harvard1>
+<ama>Birg H. Dynamik des Weltbevölkerungswachstums: Ursachen, Folgen, Handlungsbedarf. In:  &lt;em&gt;Klimabeeinflussung durch den Menschen III: Sachstand, energietechnische Konzepte, Umsetzung&lt;/em&gt;. VDI-Berichte ; 1016. Düsseldorf: VDI-Verl.;  1992: 3-19.</ama>
+<bio1>Birg H (1992) &lt;br /&gt;Dynamik des Weltbevölkerungswachstums: Ursachen, Folgen, Handlungsbedarf. &lt;br /&gt;In:  Klimabeeinflussung durch den Menschen III: Sachstand, energietechnische Konzepte, Umsetzung.  VDI-Berichte ; 1016,  Düsseldorf: VDI-Verl.:  3-19.</bio1>
+<aps>H.  Birg, Dynamik des Weltbevölkerungswachstums: Ursachen, Folgen, Handlungsbedarf, in &lt;em&gt;Klimabeeinflussung durch den Menschen III: Sachstand, energietechnische Konzepte, Umsetzung&lt;/em&gt;, VDI-Berichte ; 1016 (VDI-Verl., Düsseldorf, 1992), p. 3-19.</aps>
+<wels>Birg, H. (1992): Dynamik des Weltbevölkerungswachstums: Ursachen, Folgen, Handlungsbedarf. In: Klimabeeinflussung durch den Menschen III: Sachstand, energietechnische Konzepte, Umsetzung. Düsseldorf: VDI-Verl. (VDI-Berichte ; 1016, ).  S. 3-19.</wels>
+<default>Birg H (1992)  &lt;br /&gt;In:  Klimabeeinflussung durch den Menschen III: Sachstand, energietechnische Konzepte, Umsetzung.  VDI-Berichte ; 1016, . Düsseldorf: VDI-Verl.:  3-19.</default>
+<ieee>H. Birg, “Dynamik des Weltbevölkerungswachstums: Ursachen, Folgen, Handlungsbedarf”, &lt;em&gt;Klimabeeinflussung durch den Menschen III: Sachstand, energietechnische Konzepte, Umsetzung&lt;/em&gt;, VDI-Berichte ; 1016,  Düsseldorf: VDI-Verl., 1992,  pp.3-19.</ieee>
+<lncs>Birg, H.: Dynamik des Weltbevölkerungswachstums: Ursachen, Folgen, Handlungsbedarf. Klimabeeinflussung durch den Menschen III: Sachstand, energietechnische Konzepte, Umsetzung. VDI-Berichte ; 1016. p. 3-19. VDI-Verl., Düsseldorf (1992).</lncs>
+<mla>Birg, Herwig. “Dynamik des Weltbevölkerungswachstums: Ursachen, Folgen, Handlungsbedarf”. &lt;em&gt;Klimabeeinflussung durch den Menschen III: Sachstand, energietechnische Konzepte, Umsetzung&lt;/em&gt;. Düsseldorf: VDI-Verl., 1992. VDI-Berichte ; 1016. 3-19.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Birg, H. (1992). Dynamik des Weltbevölkerungswachstums: Ursachen, Folgen, Handlungsbedarf. &lt;em&gt;Klimabeeinflussung durch den Menschen III: Sachstand, energietechnische Konzepte, Umsetzung&lt;/em&gt;, 3-19.&lt;/div&gt;</apa_indent>
+<apa>Birg, H. (1992). Dynamik des Weltbevölkerungswachstums: Ursachen, Folgen, Handlungsbedarf. &lt;em&gt;Klimabeeinflussung durch den Menschen III: Sachstand, energietechnische Konzepte, Umsetzung&lt;/em&gt;, 3-19.</apa>
+<angewandte-chemie>H.  Birg, in &lt;em&gt;Klimabeeinflussung durch den Menschen III: Sachstand, energietechnische Konzepte, Umsetzung&lt;/em&gt;, Vdi-Verl., Düsseldorf, &lt;strong&gt;1992&lt;/strong&gt;, p. 3-19.</angewandte-chemie>
+<frontiers>Birg, H. (1992). “Dynamik des Weltbevölkerungswachstums: Ursachen, Folgen, Handlungsbedarf” in &lt;em&gt;Klimabeeinflussung durch den Menschen III: Sachstand, energietechnische Konzepte, Umsetzung&lt;/em&gt; VDI-Berichte ; 1016 (Düsseldorf: VDI-Verl.), 3-19.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Birg, Herwig. 1992. “Dynamik des Weltbevölkerungswachstums: Ursachen, Folgen, Handlungsbedarf”. In &lt;em&gt;Klimabeeinflussung durch den Menschen III: Sachstand, energietechnische Konzepte, Umsetzung&lt;/em&gt;, 3-19. VDI-Berichte ; 1016. Düsseldorf: VDI-Verl.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1783003</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1783003</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1783003</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

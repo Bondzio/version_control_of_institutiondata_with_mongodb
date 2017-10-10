@@ -1,0 +1,101 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Représentations des graphes valués</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Vlastimil</namePart>
+  <namePart type="family">Dlab</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Claus Michael</namePart>
+  <namePart type="family">Ringel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10583</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>SFB 701 Spectral Structures and Topological Methods in Mathematics</namePart>
+  <identifier type="unibi">435978</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Dans un article récent, I.N.Bernstein, I.M.Gelfand et V.A Ponomarev (1) ont montré que la bijection entre les représentations indécomposables des graphes ayant une forme quadratique positive non dégénerée et les racines positives correspondantes [cf. (3)] et (5)peut se prouver directement. Ils y ont introduit la notion de foncteur de Coxeter et s&apos;en servis pour construire toutes les représentations indécomposables de tels graphes a partir de représentations simples. Dans cette Note, nous utilison cette méthode pour décrire les représentations de graphes ayant une forme quadratique positive dégénérée et nous étendons la méthode aux graphes valués et aux espèces correspondantes [cf. (2) (3), (4), (6) et (7) pour des résultats partiels].</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Ringel_024.pdf">https://pub.uni-bielefeld.de/download/1781782/2313507</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1974</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Comptes rendus hebdomadaires des séances de l&apos;Académie des Sciences</title></titleInfo>
+  <identifier type="issn">0001-4036</identifier><identifier type="urn">urn:nbn:de:0070-bipr-27659</identifier>
+<part><detail type="volume"><number>278</number></detail><extent unit="pages">537-540</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>V. Dlab and C.M. Ringel, “Représentations des graphes valués”, &lt;em&gt;Comptes rendus hebdomadaires des séances de l&apos;Académie des Sciences&lt;/em&gt;,  vol. 278, 1974,  pp. 537-540.</ieee>
+<lncs>Dlab, V., Ringel, C.M.: Représentations des graphes valués. Comptes rendus hebdomadaires des séances de l&apos;Académie des Sciences. 278, 537-540 (1974).</lncs>
+<mla>Dlab, Vlastimil, and Ringel, Claus Michael. “Représentations des graphes valués”. &lt;em&gt;Comptes rendus hebdomadaires des séances de l&apos;Académie des Sciences&lt;/em&gt; 278 (1974): 537-540.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Dlab, V., &amp;amp; Ringel, C. M. (1974). Représentations des graphes valués. &lt;em&gt;Comptes rendus hebdomadaires des séances de l&apos;Académie des Sciences&lt;/em&gt;, &lt;em&gt;278&lt;/em&gt;, 537-540.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>V.  Dlab, and C. M.  Ringel, “Représentations des graphes valués”, &lt;em&gt;Comptes rendus hebdomadaires des séances de l&apos;Académie des Sciences&lt;/em&gt;, &lt;strong&gt;1974&lt;/strong&gt;, &lt;em&gt;278&lt;/em&gt;, 537-540.</angewandte-chemie>
+<apa>Dlab, V., &amp;amp; Ringel, C. M. (1974). Représentations des graphes valués. &lt;em&gt;Comptes rendus hebdomadaires des séances de l&apos;Académie des Sciences&lt;/em&gt;, &lt;em&gt;278&lt;/em&gt;, 537-540.</apa>
+<frontiers>Dlab, V., and Ringel, C. M. (1974). Représentations des graphes valués. &lt;em&gt;Comptes rendus hebdomadaires des séances de l&apos;Académie des Sciences&lt;/em&gt; 278, 537-540.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Dlab, Vlastimil, and Ringel, Claus Michael. 1974. “Représentations des graphes valués”. &lt;em&gt;Comptes rendus hebdomadaires des séances de l&apos;Académie des Sciences&lt;/em&gt; 278: 537-540.&lt;/div&gt;</chicago>
+<harvard1>Dlab, V., &amp;amp; Ringel, C.M., 1974. Représentations des graphes valués. &lt;em&gt;Comptes rendus hebdomadaires des séances de l&apos;Académie des Sciences&lt;/em&gt;, 278, p 537-540.</harvard1>
+<ama>Dlab V, Ringel CM. Représentations des graphes valués. &lt;em&gt;Comptes rendus hebdomadaires des séances de l&apos;Académie des Sciences&lt;/em&gt;. 1974;278:537-540.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Dlab, V. &amp;amp; Ringel, C.M. (1974). Représentations des graphes valués. &lt;em&gt;Comptes rendus hebdomadaires des séances de l&apos;Académie des Sciences&lt;/em&gt;, &lt;em&gt;278&lt;/em&gt;, 537-540.&lt;/div&gt;</dgps>
+<aps>V.  Dlab and C. M.  Ringel, Représentations des graphes valués, Comptes rendus hebdomadaires des séances de l&apos;Académie des Sciences &lt;strong&gt;278&lt;/strong&gt;, 537-540 (1974).</aps>
+<bio1>Dlab V, Ringel CM (1974) &lt;br /&gt;Représentations des graphes valués.&lt;br /&gt;Comptes rendus hebdomadaires des séances de l&apos;Académie des Sciences 278: 537-540.</bio1>
+<wels>Dlab, V.; Ringel, C. M. (1974): Représentations des graphes valués &lt;em&gt;Comptes rendus hebdomadaires des séances de l&apos;Académie des Sciences&lt;/em&gt;,278: 537-540.</wels>
+<default>Dlab V, Ringel CM (1974) &lt;br /&gt;Comptes rendus hebdomadaires des séances de l&apos;Académie des Sciences 278: 537-540.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781782</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781782</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781782</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

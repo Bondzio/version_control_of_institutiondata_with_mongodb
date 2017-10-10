@@ -1,0 +1,115 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Magnetoresistance and transport properties of CoFeB/MgO granular systems</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Khalid</namePart>
+  <namePart type="family">Bhutta</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">180821</identifier></name>
+<name type="personal">
+  <namePart type="given">Günter</namePart>
+  <namePart type="family">Reiss</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40207</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-0918-5940</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Biophysik und Nanowissenschaften</namePart>
+  <identifier type="unibi">2161137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Dünne Schichten &amp; Physik der Nanostrukturen</namePart>
+  <identifier type="unibi">28536538</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  G. Reiss</namePart>
+  <identifier type="unibi">33079602</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Magnetoresistance and transport properties of ultrathin multilayers of CoFeB/MgO prepared by rf and dc magnetron sputtering were studied in the temperature range between 15 and 330 K. Due to the magnetic softness of CoFeB, this system offers a potentially high magnetoresistance at comparably low magnetic fields. At fixed MgO thickness of 0.7 nm, it undergoes a crossover from a granular to a multilayered structure with increasing thickness of CoFeB and metallic conduction is reached at around 0.8 nm. In the granular state, a ferromagnetic to superparamagnetic phase transition was observed at 130 K. Different charge transport phenomena were identified at different temperatures. A sharp increase in the magnetoresistance at low temperature can be attributed to higher order tunneling processes. By proper annealing procedures, an enhanced magnetoresistance of around 6% at room temperature and 14% at low temperature as well as an increase in the resistivity have been achieved. (C) 2010 American Institute of Physics. [doi: 10.1063/1.3437278]</abstract>
+
+<originInfo><publisher>AIP Publishing</publisher><dateIssued encoding="w3cdtf">2010</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>annealing</topic><topic>cobalt compounds</topic><topic>enhanced magnetoresistance</topic><topic>ferromagnetic-paramagnetic transitions</topic><topic>granular materials</topic><topic>compounds</topic><topic>iron</topic><topic>magnesium compounds</topic><topic>magnetic multilayers</topic><topic>deposition</topic><topic>sputter</topic><topic>superparamagnetism</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF APPLIED PHYSICS</title></titleInfo>
+  <identifier type="issn">0021-8979</identifier>
+  <identifier type="ISI">000278907100081</identifier><identifier type="doi">10.1063/1.3437278</identifier>
+<part><detail type="volume"><number>107</number></detail><detail type="issue"><number>11</number></detail><extent unit="pages">113718</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>K.  Bhutta and G.  Reiss, Magnetoresistance and transport properties of CoFeB/MgO granular systems, JOURNAL OF APPLIED PHYSICS &lt;strong&gt;107&lt;/strong&gt;, (2010).</aps>
+<bio1>Bhutta K, Reiss G (2010) &lt;br /&gt;Magnetoresistance and transport properties of CoFeB/MgO granular systems.&lt;br /&gt;JOURNAL OF APPLIED PHYSICS 107(11).</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bhutta, K. &amp;amp; Reiss, G. (2010). Magnetoresistance and transport properties of CoFeB/MgO granular systems. &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;, &lt;em&gt;107&lt;/em&gt;(11). AIP Publishing. doi:10.1063/1.3437278.&lt;/div&gt;</dgps>
+<harvard1>Bhutta, K., &amp;amp; Reiss, G., 2010. Magnetoresistance and transport properties of CoFeB/MgO granular systems. &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;, 107(11).</harvard1>
+<ama>Bhutta K, Reiss G. Magnetoresistance and transport properties of CoFeB/MgO granular systems. &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;. 2010;107(11).</ama>
+<default>Bhutta K, Reiss G (2010) &lt;br /&gt;JOURNAL OF APPLIED PHYSICS 107(11).</default>
+<wels>Bhutta, K.; Reiss, G. (2010): Magnetoresistance and transport properties of CoFeB/MgO granular systems &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;,107:(11)</wels>
+<lncs>Bhutta, K., Reiss, G.: Magnetoresistance and transport properties of CoFeB/MgO granular systems. JOURNAL OF APPLIED PHYSICS. 107, (2010).</lncs>
+<mla>Bhutta, Khalid, and Reiss, Günter. “Magnetoresistance and transport properties of CoFeB/MgO granular systems”. &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt; 107.11 (2010).</mla>
+<ieee>K. Bhutta and G. Reiss, “Magnetoresistance and transport properties of CoFeB/MgO granular systems”, &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;,  vol. 107, 2010.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bhutta, K., &amp;amp; Reiss, G. (2010). Magnetoresistance and transport properties of CoFeB/MgO granular systems. &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;, &lt;em&gt;107&lt;/em&gt;(11).&lt;/div&gt;</apa_indent>
+<frontiers>Bhutta, K., and Reiss, G. (2010). Magnetoresistance and transport properties of CoFeB/MgO granular systems. &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt; 107.</frontiers>
+<angewandte-chemie>K.  Bhutta, and G.  Reiss, “Magnetoresistance and transport properties of CoFeB/MgO granular systems”, &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;, &lt;strong&gt;2010&lt;/strong&gt;, &lt;em&gt;107&lt;/em&gt;.</angewandte-chemie>
+<apa>Bhutta, K., &amp;amp; Reiss, G. (2010). Magnetoresistance and transport properties of CoFeB/MgO granular systems. &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt;, &lt;em&gt;107&lt;/em&gt;(11).</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bhutta, Khalid, and Reiss, Günter. 2010. “Magnetoresistance and transport properties of CoFeB/MgO granular systems”. &lt;em&gt;JOURNAL OF APPLIED PHYSICS&lt;/em&gt; 107 (11).&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1795318</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-10-14T09:03:26Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-16T08:20:32Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1795318</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1795318</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

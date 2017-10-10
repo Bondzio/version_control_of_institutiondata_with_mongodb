@@ -1,0 +1,104 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Dissipative hydrodynamics and heavy-ion collisions</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Rudolf</namePart>
+  <namePart type="family">Baier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40336</identifier></name>
+<name type="personal">
+  <namePart type="given">Paul</namePart>
+  <namePart type="family">Romatschke</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Urs Achim</namePart>
+  <namePart type="family">Wiedemann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">23470601</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Recent discussions of RHIC data emphasized the exciting possibility that the matter produced in nucleus-nucleus collisions shows properties of a near-perfect fluid. Here, we aim at delineating the applicability of fluid dynamics, which is needed to quantify the size of corresponding dissipative effects. We start from the equations for dissipative fluid dynamics, which we derive from kinetic theory up to second order (Israel-Stewart theory) in a systematic gradient expansion. In model studies, we then establish that for too early initialization of the hydrodynamic evolution (tau(0)less than or similar to 1 fm/c) or for too high transverse momentum (p(T)less than or similar to 1 GeV) in the final state, the expected dissipative corrections are too large for a fluid description to be reliable. Moreover, viscosity-induced modifications of hadronic transverse momentum spectra can be accommodated to a significant degree in an ideal fluid description by modifications of the decoupling stage. We argue that these conclusions, drawn from model studies, can also be expected to arise in significantly more complex, realistic fluid dynamics simulations of heavy ion collisions.</abstract>
+
+<originInfo><publisher>AMERICAN PHYSICAL SOC</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Phys.Rev. C</title></titleInfo>
+  <identifier type="issn">0556-2813</identifier>
+  <identifier type="eIssn">1089-490X</identifier>
+  <identifier type="arXiv">hep-ph/0602249</identifier>
+  <identifier type="INSPIRE">711393</identifier>
+  <identifier type="ISI">000238697500031</identifier><identifier type="doi">10.1103/PhysRevC.73.064903</identifier>
+<part><detail type="volume"><number>73</number></detail><detail type="issue"><number>6</number></detail>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Baier R, Romatschke P, Wiedemann UA (2006) &lt;br /&gt;Phys.Rev. C 73(6): 064903.</default>
+<wels>Baier, R.; Romatschke, P.; Wiedemann, U. A. (2006): Dissipative hydrodynamics and heavy-ion collisions &lt;em&gt;Phys.Rev. C&lt;/em&gt;,73:(6):064903</wels>
+<aps> R.  Baier, P.  Romatschke, and U. A.  Wiedemann, Dissipative hydrodynamics and heavy-ion collisions, Phys.Rev. C &lt;strong&gt;73&lt;/strong&gt;, (2006).</aps>
+<bio1>Baier R, Romatschke P, Wiedemann UA (2006) &lt;br /&gt;Dissipative hydrodynamics and heavy-ion collisions.&lt;br /&gt;Phys.Rev. C 73(6): 064903.</bio1>
+<ama>Baier R, Romatschke P, Wiedemann UA. Dissipative hydrodynamics and heavy-ion collisions. &lt;em&gt;Phys.Rev. C&lt;/em&gt;. 2006;73(6): 064903.</ama>
+<harvard1>Baier, R., Romatschke, P., &amp;amp; Wiedemann, U.A., 2006. Dissipative hydrodynamics and heavy-ion collisions. &lt;em&gt;Phys.Rev. C&lt;/em&gt;, 73(6): 064903.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baier, R., Romatschke, P. &amp;amp; Wiedemann, U.A. (2006). Dissipative hydrodynamics and heavy-ion collisions. &lt;em&gt;Phys.Rev. C&lt;/em&gt;, &lt;em&gt;73&lt;/em&gt;(6): 064903. AMERICAN PHYSICAL SOC. doi:10.1103/PhysRevC.73.064903.&lt;/div&gt;</dgps>
+<frontiers>Baier, R., Romatschke, P., and Wiedemann, U. A. (2006). Dissipative hydrodynamics and heavy-ion collisions. &lt;em&gt;Phys.Rev. C&lt;/em&gt; 73:064903.</frontiers>
+<angewandte-chemie>R.  Baier, P.  Romatschke, and U. A.  Wiedemann, “Dissipative hydrodynamics and heavy-ion collisions”, &lt;em&gt;Phys.Rev. C&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;73&lt;/em&gt;, : 064903.</angewandte-chemie>
+<apa>Baier, R., Romatschke, P., &amp;amp; Wiedemann, U. A. (2006). Dissipative hydrodynamics and heavy-ion collisions. &lt;em&gt;Phys.Rev. C&lt;/em&gt;, &lt;em&gt;73&lt;/em&gt;(6): 064903.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baier, Rudolf, Romatschke, Paul, and Wiedemann, Urs Achim. 2006. “Dissipative hydrodynamics and heavy-ion collisions”. &lt;em&gt;Phys.Rev. C&lt;/em&gt; 73 (6): 064903.&lt;/div&gt;</chicago>
+<lncs> Baier, R., Romatschke, P., Wiedemann, U.A.: Dissipative hydrodynamics and heavy-ion collisions. Phys.Rev. C. 73, : 064903 (2006).</lncs>
+<mla>Baier, Rudolf, Romatschke, Paul, and Wiedemann, Urs Achim. “Dissipative hydrodynamics and heavy-ion collisions”. &lt;em&gt;Phys.Rev. C&lt;/em&gt; 73.6 (2006): 064903.</mla>
+<ieee> R. Baier, P. Romatschke, and U.A. Wiedemann, “Dissipative hydrodynamics and heavy-ion collisions”, &lt;em&gt;Phys.Rev. C&lt;/em&gt;,  vol. 73, 2006, : 064903.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baier, R., Romatschke, P., &amp;amp; Wiedemann, U. A. (2006). Dissipative hydrodynamics and heavy-ion collisions. &lt;em&gt;Phys.Rev. C&lt;/em&gt;, &lt;em&gt;73&lt;/em&gt;(6): 064903.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1598658</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:19:30Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-17T11:52:35Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1598658</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1598658</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

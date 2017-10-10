@@ -1,0 +1,135 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Massive parallel bisulfite sequencing of CG-rich DNA fragments reveals that methylation of many X-chromosomal CpG islands in female blood DNA is incomplete</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Michael</namePart>
+  <namePart type="family">Zeschnigk</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Marcel</namePart>
+  <namePart type="family">Martin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">164354</identifier></name>
+<name type="personal">
+  <namePart type="given">Gisela</namePart>
+  <namePart type="family">Betzl</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Kalbe</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Caroline</namePart>
+  <namePart type="family">Sirsch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Karin</namePart>
+  <namePart type="family">Buiting</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Stephanie</namePart>
+  <namePart type="family">Gross</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Epameinondas</namePart>
+  <namePart type="family">Fritzilas</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Bruno</namePart>
+  <namePart type="family">Frey</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Sven</namePart>
+  <namePart type="family">Rahmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Bernhard</namePart>
+  <namePart type="family">Horsthemke</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Genominformatik</namePart>
+  <identifier type="unibi">66100</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Methylation of CpG islands (CGIs) plays an important role in gene silencing. For genome-wide methylation analysis of CGIs in female white blood cells and in sperm, we used four restriction enzymes and a size selection step to prepare DNA libraries enriched with CGIs. The DNA libraries were treated with sodium bisulfite and subjected to a modified 454/Roche Genome Sequencer protocol. We obtained 163 034 and 129 620 reads from blood and sperm, respectively, with an average read length of 133 bp. Bioinformatic analysis revealed that 12 358 (7.6%) blood library reads and 10 216 (7.9%) sperm library reads map to 6167 and 5796 different CGIs, respectively. In blood and sperm DNA, we identified 824 (13.7%) and 482 (8.5%) fully methylated autosomal CGIs, respectively. Differential methylation, which is characterized by the presence of methylated and unmethylated reads of the same CGI, was observed in 53 and 52 autosomal CGIs in blood and sperm DNA, respectively. Remarkably, methylation of X-chromosomal CGIs in female blood cells was most often incomplete (25-75%). Such incomplete methylation was mainly found on the X-chromosome, suggesting that it is linked to X-chromosome inactivation.</abstract>
+
+<originInfo><publisher>Oxford University Press (OUP)</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>HUMAN MOLECULAR GENETICS</title></titleInfo>
+  <identifier type="issn">0964-6906</identifier>
+  <identifier type="eIssn">1460-2083</identifier>
+  <identifier type="MEDLINE">19223391</identifier>
+  <identifier type="ISI">000264889800007</identifier><identifier type="doi">10.1093/hmg/ddp054</identifier>
+<part><detail type="volume"><number>18</number></detail><detail type="issue"><number>8</number></detail><extent unit="pages">1439-1448</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>Zeschnigk M, Martin M, Betzl G, Kalbe A, Sirsch C, Buiting K, Gross S, Fritzilas E, Frey B, Rahmann S, Horsthemke B (2009) &lt;br /&gt;Massive parallel bisulfite sequencing of CG-rich DNA fragments reveals that methylation of many X-chromosomal CpG islands in female blood DNA is incomplete.&lt;br /&gt;HUMAN MOLECULAR GENETICS 18(8): 1439-1448.</bio1>
+<aps>M.  Zeschnigk, et al., Massive parallel bisulfite sequencing of CG-rich DNA fragments reveals that methylation of many X-chromosomal CpG islands in female blood DNA is incomplete, HUMAN MOLECULAR GENETICS &lt;strong&gt;18&lt;/strong&gt;, 1439-1448 (2009).</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Zeschnigk, M., Martin, M., Betzl, G., Kalbe, A., Sirsch, C., Buiting, K., Gross, S., Fritzilas, E., Frey, B., Rahmann, S. &amp;amp; Horsthemke, B. (2009). Massive parallel bisulfite sequencing of CG-rich DNA fragments reveals that methylation of many X-chromosomal CpG islands in female blood DNA is incomplete. &lt;em&gt;HUMAN MOLECULAR GENETICS&lt;/em&gt;, &lt;em&gt;18&lt;/em&gt;(8), 1439-1448. Oxford University Press (OUP). doi:10.1093/hmg/ddp054.&lt;/div&gt;</dgps>
+<ama>Zeschnigk M, Martin M, Betzl G, et al. Massive parallel bisulfite sequencing of CG-rich DNA fragments reveals that methylation of many X-chromosomal CpG islands in female blood DNA is incomplete. &lt;em&gt;HUMAN MOLECULAR GENETICS&lt;/em&gt;. 2009;18(8):1439-1448.</ama>
+<harvard1>Zeschnigk, M., et al., 2009. Massive parallel bisulfite sequencing of CG-rich DNA fragments reveals that methylation of many X-chromosomal CpG islands in female blood DNA is incomplete. &lt;em&gt;HUMAN MOLECULAR GENETICS&lt;/em&gt;, 18(8), p 1439-1448.</harvard1>
+<default>Zeschnigk M, Martin M, Betzl G, Kalbe A, Sirsch C, Buiting K, Gross S, Fritzilas E, Frey B, Rahmann S, Horsthemke B (2009) &lt;br /&gt;HUMAN MOLECULAR GENETICS 18(8): 1439-1448.</default>
+<wels>Zeschnigk, M.; Martin, M.; Betzl, G.; Kalbe, A.; Sirsch, C.; Buiting, K.; Gross, S.; Fritzilas, E.; Frey, B.; Rahmann, S.; Horsthemke, B. (2009): Massive parallel bisulfite sequencing of CG-rich DNA fragments reveals that methylation of many X-chromosomal CpG islands in female blood DNA is incomplete &lt;em&gt;HUMAN MOLECULAR GENETICS&lt;/em&gt;,18:(8): 1439-1448.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Zeschnigk, M., Martin, M., Betzl, G., Kalbe, A., Sirsch, C., Buiting, K., Gross, S., et al. (2009). Massive parallel bisulfite sequencing of CG-rich DNA fragments reveals that methylation of many X-chromosomal CpG islands in female blood DNA is incomplete. &lt;em&gt;HUMAN MOLECULAR GENETICS&lt;/em&gt;, &lt;em&gt;18&lt;/em&gt;(8), 1439-1448.&lt;/div&gt;</apa_indent>
+<lncs>Zeschnigk, M., Martin, M., Betzl, G., Kalbe, A., Sirsch, C., Buiting, K., Gross, S., Fritzilas, E., Frey, B., Rahmann, S., Horsthemke, B.: Massive parallel bisulfite sequencing of CG-rich DNA fragments reveals that methylation of many X-chromosomal CpG islands in female blood DNA is incomplete. HUMAN MOLECULAR GENETICS. 18, 1439-1448 (2009).</lncs>
+<mla>Zeschnigk, Michael, Martin, Marcel, Betzl, Gisela, Kalbe, Andreas, Sirsch, Caroline, Buiting, Karin, Gross, Stephanie, Fritzilas, Epameinondas, Frey, Bruno, Rahmann, Sven, and Horsthemke, Bernhard. “Massive parallel bisulfite sequencing of CG-rich DNA fragments reveals that methylation of many X-chromosomal CpG islands in female blood DNA is incomplete”. &lt;em&gt;HUMAN MOLECULAR GENETICS&lt;/em&gt; 18.8 (2009): 1439-1448.</mla>
+<ieee>M. Zeschnigk, et al., “Massive parallel bisulfite sequencing of CG-rich DNA fragments reveals that methylation of many X-chromosomal CpG islands in female blood DNA is incomplete”, &lt;em&gt;HUMAN MOLECULAR GENETICS&lt;/em&gt;,  vol. 18, 2009,  pp. 1439-1448.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Zeschnigk, Michael, Martin, Marcel, Betzl, Gisela, Kalbe, Andreas, Sirsch, Caroline, Buiting, Karin, Gross, Stephanie, et al. 2009. “Massive parallel bisulfite sequencing of CG-rich DNA fragments reveals that methylation of many X-chromosomal CpG islands in female blood DNA is incomplete”. &lt;em&gt;HUMAN MOLECULAR GENETICS&lt;/em&gt; 18 (8): 1439-1448.&lt;/div&gt;</chicago>
+<frontiers>Zeschnigk, M., Martin, M., Betzl, G., Kalbe, A., Sirsch, C., Buiting, K., Gross, S., Fritzilas, E., Frey, B., Rahmann, S., et al. (2009). Massive parallel bisulfite sequencing of CG-rich DNA fragments reveals that methylation of many X-chromosomal CpG islands in female blood DNA is incomplete. &lt;em&gt;HUMAN MOLECULAR GENETICS&lt;/em&gt; 18, 1439-1448.</frontiers>
+<apa>Zeschnigk, M., Martin, M., Betzl, G., Kalbe, A., Sirsch, C., Buiting, K., Gross, S., et al. (2009). Massive parallel bisulfite sequencing of CG-rich DNA fragments reveals that methylation of many X-chromosomal CpG islands in female blood DNA is incomplete. &lt;em&gt;HUMAN MOLECULAR GENETICS&lt;/em&gt;, &lt;em&gt;18&lt;/em&gt;(8), 1439-1448.</apa>
+<angewandte-chemie>M.  Zeschnigk, M.  Martin, G.  Betzl, A.  Kalbe, C.  Sirsch, K.  Buiting, S.  Gross, E.  Fritzilas, B.  Frey, S.  Rahmann, et al., “Massive parallel bisulfite sequencing of CG-rich DNA fragments reveals that methylation of many X-chromosomal CpG islands in female blood DNA is incomplete”, &lt;em&gt;HUMAN MOLECULAR GENETICS&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;18&lt;/em&gt;, 1439-1448.</angewandte-chemie>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1634615</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:23Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2012-05-29T08:44:27Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1634615</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1634615</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

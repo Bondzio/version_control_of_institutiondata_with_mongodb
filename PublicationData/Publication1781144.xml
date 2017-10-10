@@ -1,0 +1,104 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Die Bedeutung des verfassungsrechtlichen Bestimmtheitsgebotes im Ausländerrecht</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Christoph</namePart>
+  <namePart type="family">Gusy</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21583</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Weltgesellschaft</namePart>
+  <identifier type="unibi">89044</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Fakultät für Rechtswissenschaft</namePart>
+  <identifier type="unibi">10029</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT2376.pdf">https://pub.uni-bielefeld.de/download/1781144/2313183</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1979</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Deutsches Verwaltungsblatt</title></titleInfo>
+  <identifier type="issn">0012-1363</identifier><identifier type="urn">urn:nbn:de:0070-bipr-23761</identifier>
+<part><detail type="volume"><number>1979</number></detail><extent unit="pages">575-579</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Gusy C. Die Bedeutung des verfassungsrechtlichen Bestimmtheitsgebotes im Ausländerrecht. &lt;em&gt;Deutsches Verwaltungsblatt&lt;/em&gt;. 1979;1979:575-579.</ama>
+<harvard1>Gusy, C., 1979. Die Bedeutung des verfassungsrechtlichen Bestimmtheitsgebotes im Ausländerrecht. &lt;em&gt;Deutsches Verwaltungsblatt&lt;/em&gt;, 1979, p 575-579.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gusy, C. (1979). Die Bedeutung des verfassungsrechtlichen Bestimmtheitsgebotes im Ausländerrecht. &lt;em&gt;Deutsches Verwaltungsblatt&lt;/em&gt;, &lt;em&gt;1979&lt;/em&gt;, 575-579.&lt;/div&gt;</dgps>
+<aps>C.  Gusy, Die Bedeutung des verfassungsrechtlichen Bestimmtheitsgebotes im Ausländerrecht, Deutsches Verwaltungsblatt &lt;strong&gt;1979&lt;/strong&gt;, 575-579 (1979).</aps>
+<bio1>Gusy C (1979) &lt;br /&gt;Die Bedeutung des verfassungsrechtlichen Bestimmtheitsgebotes im Ausländerrecht.&lt;br /&gt;Deutsches Verwaltungsblatt 1979: 575-579.</bio1>
+<wels>Gusy, C. (1979): Die Bedeutung des verfassungsrechtlichen Bestimmtheitsgebotes im Ausländerrecht &lt;em&gt;Deutsches Verwaltungsblatt&lt;/em&gt;,1979: 575-579.</wels>
+<default>Gusy C (1979) &lt;br /&gt;Deutsches Verwaltungsblatt 1979: 575-579.</default>
+<ieee>C. Gusy, “Die Bedeutung des verfassungsrechtlichen Bestimmtheitsgebotes im Ausländerrecht”, &lt;em&gt;Deutsches Verwaltungsblatt&lt;/em&gt;,  vol. 1979, 1979,  pp. 575-579.</ieee>
+<mla>Gusy, Christoph. “Die Bedeutung des verfassungsrechtlichen Bestimmtheitsgebotes im Ausländerrecht”. &lt;em&gt;Deutsches Verwaltungsblatt&lt;/em&gt; 1979 (1979): 575-579.</mla>
+<lncs>Gusy, C.: Die Bedeutung des verfassungsrechtlichen Bestimmtheitsgebotes im Ausländerrecht. Deutsches Verwaltungsblatt. 1979, 575-579 (1979).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gusy, C. (1979). Die Bedeutung des verfassungsrechtlichen Bestimmtheitsgebotes im Ausländerrecht. &lt;em&gt;Deutsches Verwaltungsblatt&lt;/em&gt;, &lt;em&gt;1979&lt;/em&gt;, 575-579.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>C.  Gusy, “Die Bedeutung des verfassungsrechtlichen Bestimmtheitsgebotes im Ausländerrecht”, &lt;em&gt;Deutsches Verwaltungsblatt&lt;/em&gt;, &lt;strong&gt;1979&lt;/strong&gt;, &lt;em&gt;1979&lt;/em&gt;, 575-579.</angewandte-chemie>
+<apa>Gusy, C. (1979). Die Bedeutung des verfassungsrechtlichen Bestimmtheitsgebotes im Ausländerrecht. &lt;em&gt;Deutsches Verwaltungsblatt&lt;/em&gt;, &lt;em&gt;1979&lt;/em&gt;, 575-579.</apa>
+<frontiers>Gusy, C. (1979). Die Bedeutung des verfassungsrechtlichen Bestimmtheitsgebotes im Ausländerrecht. &lt;em&gt;Deutsches Verwaltungsblatt&lt;/em&gt; 1979, 575-579.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gusy, Christoph. 1979. “Die Bedeutung des verfassungsrechtlichen Bestimmtheitsgebotes im Ausländerrecht”. &lt;em&gt;Deutsches Verwaltungsblatt&lt;/em&gt; 1979: 575-579.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781144</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781144</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781144</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,133 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Coordinating interactive vision behaviors for cognitive assistance</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Sven</namePart>
+  <namePart type="family">Wachsmuth</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10378</identifier></name>
+<name type="personal">
+  <namePart type="given">Sebastian</namePart>
+  <namePart type="family">Wrede</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">76091</identifier></name>
+<name type="personal">
+  <namePart type="given">Marc</namePart>
+  <namePart type="family">Hanheide</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">45581</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Technische Fakultät</namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Angewandte Informatik</namePart>
+  <identifier type="unibi">18304588</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Institute for Cognition and Robotics</namePart>
+  <identifier type="unibi">5408013</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>C5 - Alignment in AR-based cooperation</namePart>
+  <identifier type="unibi">27015530</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Most of the research conducted in human-computer interaction (HCI) focuses oil a seamless interface between a user and an application that is separated from the user in terms of working space and/or control, like navigation in image databases, instruction of robots, or information retrieval systems. The interaction paradigm of cognitive assistance goes one step further in that the application consists of assisting the user performing everyday tasks in his or her own environment and in that the user and the system share the control of such tasks. This kind of tight bidirectional interaction in realistic environments demands cognitive system skills like context awareness, attention, learning, and reasoning about the external environment. Therefore, the system needs to integrate a wide variety of visual functions, like localization, object tracking and recognition, action recognition, interactive object learning, etc. In this paper we show how different kinds of system behaviors are realized using the Active Memory Infrastructure that provides the technical basis for distributed computation and a data- and event-driven integration approach. A running augmented reality system for cognitive assistance is presented that supports users in mixing beverages. The flexibility and generality of the system framework provides an ideal testbed for studying visual cues in human-computer interaction. We report about results from first user studies. (C) 2007 Elsevier Inc. All rights reserved.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Wachsmuth2006-CIV.pdf">https://pub.uni-bielefeld.de/download/1631792/2487196</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription>
+</relatedItem>
+<originInfo><publisher>ACADEMIC PRESS INC ELSEVIER SCIENCE</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>cognitive systems</topic><topic>computer vision</topic><topic>HCI</topic><topic>system integration</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Computer Vision and Image Understanding</title></titleInfo>
+  <identifier type="issn">1077-3142</identifier>
+  <identifier type="ISI">000250033600011</identifier><identifier type="doi">10.1016/j.cviu.2006.10.018</identifier>
+<part><detail type="volume"><number>108</number></detail><detail type="issue"><number>1-2</number></detail><extent unit="pages">135-149</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Wachsmuth S, Wrede S, Hanheide M (2007) &lt;br /&gt;Computer Vision and Image Understanding 108(1-2): 135-149.</default>
+<wels>Wachsmuth, S.; Wrede, S.; Hanheide, M. (2007): Coordinating interactive vision behaviors for cognitive assistance &lt;em&gt;Computer Vision and Image Understanding&lt;/em&gt;,108:(1-2): 135-149.</wels>
+<bio1>Wachsmuth S, Wrede S, Hanheide M (2007) &lt;br /&gt;Coordinating interactive vision behaviors for cognitive assistance.&lt;br /&gt;Computer Vision and Image Understanding 108(1-2): 135-149.</bio1>
+<aps>S.  Wachsmuth, S.  Wrede, and M.  Hanheide, Coordinating interactive vision behaviors for cognitive assistance, Computer Vision and Image Understanding &lt;strong&gt;108&lt;/strong&gt;, 135-149 (2007).</aps>
+<harvard1>Wachsmuth, S., Wrede, S., &amp;amp; Hanheide, M., 2007. Coordinating interactive vision behaviors for cognitive assistance. &lt;em&gt;Computer Vision and Image Understanding&lt;/em&gt;, 108(1-2), p 135-149.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wachsmuth, S., Wrede, S. &amp;amp; Hanheide, M. (2007). Coordinating interactive vision behaviors for cognitive assistance. &lt;em&gt;Computer Vision and Image Understanding&lt;/em&gt;, &lt;em&gt;108&lt;/em&gt;(1-2), 135-149. ACADEMIC PRESS INC ELSEVIER SCIENCE. doi:10.1016/j.cviu.2006.10.018.&lt;/div&gt;</dgps>
+<ama>Wachsmuth S, Wrede S, Hanheide M. Coordinating interactive vision behaviors for cognitive assistance. &lt;em&gt;Computer Vision and Image Understanding&lt;/em&gt;. 2007;108(1-2):135-149.</ama>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wachsmuth, Sven, Wrede, Sebastian, and Hanheide, Marc. 2007. “Coordinating interactive vision behaviors for cognitive assistance”. &lt;em&gt;Computer Vision and Image Understanding&lt;/em&gt; 108 (1-2): 135-149.&lt;/div&gt;</chicago>
+<frontiers>Wachsmuth, S., Wrede, S., and Hanheide, M. (2007). Coordinating interactive vision behaviors for cognitive assistance. &lt;em&gt;Computer Vision and Image Understanding&lt;/em&gt; 108, 135-149.</frontiers>
+<apa>Wachsmuth, S., Wrede, S., &amp;amp; Hanheide, M. (2007). Coordinating interactive vision behaviors for cognitive assistance. &lt;em&gt;Computer Vision and Image Understanding&lt;/em&gt;, &lt;em&gt;108&lt;/em&gt;(1-2), 135-149.</apa>
+<angewandte-chemie>S.  Wachsmuth, S.  Wrede, and M.  Hanheide, “Coordinating interactive vision behaviors for cognitive assistance”, &lt;em&gt;Computer Vision and Image Understanding&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;108&lt;/em&gt;, 135-149.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Wachsmuth, S., Wrede, S., &amp;amp; Hanheide, M. (2007). Coordinating interactive vision behaviors for cognitive assistance. &lt;em&gt;Computer Vision and Image Understanding&lt;/em&gt;, &lt;em&gt;108&lt;/em&gt;(1-2), 135-149.&lt;/div&gt;</apa_indent>
+<lncs>Wachsmuth, S., Wrede, S., Hanheide, M.: Coordinating interactive vision behaviors for cognitive assistance. Computer Vision and Image Understanding. 108, 135-149 (2007).</lncs>
+<mla>Wachsmuth, Sven, Wrede, Sebastian, and Hanheide, Marc. “Coordinating interactive vision behaviors for cognitive assistance”. &lt;em&gt;Computer Vision and Image Understanding&lt;/em&gt; 108.1-2 (2007): 135-149.</mla>
+<ieee>S. Wachsmuth, S. Wrede, and M. Hanheide, “Coordinating interactive vision behaviors for cognitive assistance”, &lt;em&gt;Computer Vision and Image Understanding&lt;/em&gt;,  vol. 108, 2007,  pp. 135-149.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1631792</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:05:57Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2012-03-29T13:11:14Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1631792</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1631792</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

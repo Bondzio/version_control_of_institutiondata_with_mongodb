@@ -1,0 +1,118 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Indikatoren zur Forschung auf dem Gebiet der Hochtemperatur-Supraleitung im Jahr 1987 auf der Basis der Cozitationsanalyse: Fallstudie zur Validierung bibliometrischer Daten durch Expertenbefragung am Beispiel einer aktuellen Forschungsfront</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Matthias</namePart>
+  <namePart type="family">Winterhager</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">76938</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0003-0331-2539</description></name>
+
+
+
+<name type="personal"><namePart type="given">Peter</namePart><namePart type="family">Weingart</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Roswitha</namePart><namePart type="family">Sehringer</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Matthias</namePart><namePart type="family">Winterhager</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Wissenschafts- und Technikforschung</namePart>
+  <identifier type="unibi">10061</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Bibliometriegruppe</namePart>
+  <identifier type="unibi">16315353</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Arbeitsbereich 7 - Wissenschaft, Technik, Medien</namePart>
+  <identifier type="unibi">5656064</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Winterhager_013.pdf">https://pub.uni-bielefeld.de/download/1781207/2313221</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Campus</publisher><dateIssued encoding="w3cdtf">1991</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Indikatoren der Wissenschaft und Technik: Theorie, Methoden, Anwendungen</title></titleInfo>
+  <identifier type="isbn">3-593-34566-8</identifier><identifier type="urn">urn:nbn:de:0070-bipr-24147</identifier>
+<part><detail type="volume"><number>674</number></detail><extent unit="pages">180-208</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Winterhager M (1991)  &lt;br /&gt;In:  Indikatoren der Wissenschaft und Technik: Theorie, Methoden, Anwendungen. Weingart P, Sehringer R, Winterhager M (Eds); Campus: Forschung, 674. Frankfurt [u.a.]: Campus:  180-208.</default>
+<wels>Winterhager, M. (1991): Indikatoren zur Forschung auf dem Gebiet der Hochtemperatur-Supraleitung im Jahr 1987 auf der Basis der Cozitationsanalyse: Fallstudie zur Validierung bibliometrischer Daten durch Expertenbefragung am Beispiel einer aktuellen Forschungsfront. In: Peter Weingart; Roswitha Sehringer; Matthias Winterhager (Hrsg.):  Indikatoren der Wissenschaft und Technik: Theorie, Methoden, Anwendungen. Frankfurt [u.a.]: Campus. (Campus: Forschung, 674).  S. 180-208.</wels>
+<bio1>Winterhager M (1991) &lt;br /&gt;Indikatoren zur Forschung auf dem Gebiet der Hochtemperatur-Supraleitung im Jahr 1987 auf der Basis der Cozitationsanalyse: Fallstudie zur Validierung bibliometrischer Daten durch Expertenbefragung am Beispiel einer aktuellen Forschungsfront. &lt;br /&gt;In:  Indikatoren der Wissenschaft und Technik: Theorie, Methoden, Anwendungen. Weingart P, Sehringer R, Winterhager M (Eds); Campus: Forschung, 674. Frankfurt [u.a.]: Campus:  180-208.</bio1>
+<aps>M.  Winterhager, Indikatoren zur Forschung auf dem Gebiet der Hochtemperatur-Supraleitung im Jahr 1987 auf der Basis der Cozitationsanalyse: Fallstudie zur Validierung bibliometrischer Daten durch Expertenbefragung am Beispiel einer aktuellen Forschungsfront, in &lt;em&gt;Indikatoren der Wissenschaft und Technik: Theorie, Methoden, Anwendungen&lt;/em&gt;, edited by P.  Weingart, et al., Campus: Forschung, &lt;strong&gt;674&lt;/strong&gt; (Campus, Frankfurt [U.a.], 1991), p. 180-208.</aps>
+<ama>Winterhager M. Indikatoren zur Forschung auf dem Gebiet der Hochtemperatur-Supraleitung im Jahr 1987 auf der Basis der Cozitationsanalyse: Fallstudie zur Validierung bibliometrischer Daten durch Expertenbefragung am Beispiel einer aktuellen Forschungsfront. In: Weingart P, Sehringer R, Winterhager M, eds. &lt;em&gt;Indikatoren der Wissenschaft und Technik: Theorie, Methoden, Anwendungen&lt;/em&gt;. Campus: Forschung. Vol 674. Frankfurt [u.a.]: Campus;  1991: 180-208.</ama>
+<harvard1>Winterhager, M., 1991. Indikatoren zur Forschung auf dem Gebiet der Hochtemperatur-Supraleitung im Jahr 1987 auf der Basis der Cozitationsanalyse: Fallstudie zur Validierung bibliometrischer Daten durch Expertenbefragung am Beispiel einer aktuellen Forschungsfront. In P.  Weingart, R.  Sehringer, &amp;amp; M.  Winterhager, eds. &lt;em&gt;Indikatoren der Wissenschaft und Technik: Theorie, Methoden, Anwendungen&lt;/em&gt;. Campus: Forschung. no.674  Frankfurt [u.a.]: Campus, pp. 180-208.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Winterhager, M. (1991). Indikatoren zur Forschung auf dem Gebiet der Hochtemperatur-Supraleitung im Jahr 1987 auf der Basis der Cozitationsanalyse: Fallstudie zur Validierung bibliometrischer Daten durch Expertenbefragung am Beispiel einer aktuellen Forschungsfront (Campus: Forschung). &lt;em&gt;Indikatoren der Wissenschaft und Technik: Theorie, Methoden, Anwendungen&lt;/em&gt; (S. 180-208). Frankfurt [u.a.]: Campus.&lt;/div&gt;</dgps>
+<frontiers>Winterhager, M. (1991). “Indikatoren zur Forschung auf dem Gebiet der Hochtemperatur-Supraleitung im Jahr 1987 auf der Basis der Cozitationsanalyse: Fallstudie zur Validierung bibliometrischer Daten durch Expertenbefragung am Beispiel einer aktuellen Forschungsfront” in &lt;em&gt;Indikatoren der Wissenschaft und Technik: Theorie, Methoden, Anwendungen&lt;/em&gt;, ed. P.  Weingart, R.  Sehringer, and M.  Winterhager Campus: Forschung, vol. 674, (Frankfurt [u.a.]: Campus), 180-208.</frontiers>
+<apa>Winterhager, M. (1991). Indikatoren zur Forschung auf dem Gebiet der Hochtemperatur-Supraleitung im Jahr 1987 auf der Basis der Cozitationsanalyse: Fallstudie zur Validierung bibliometrischer Daten durch Expertenbefragung am Beispiel einer aktuellen Forschungsfront. In P.  Weingart, R.  Sehringer, &amp;amp; M.  Winterhager (Eds.), &lt;em&gt;Campus: Forschung: Vol. 674&lt;/em&gt;&lt;em&gt;. Indikatoren der Wissenschaft und Technik: Theorie, Methoden, Anwendungen&lt;/em&gt; (pp. 180-208). Frankfurt [u.a.]: Campus.</apa>
+<angewandte-chemie>M.  Winterhager, in &lt;em&gt;Indikatoren der Wissenschaft und Technik: Theorie, Methoden, Anwendungen&lt;/em&gt; (Eds.: P. Weingart, R. Sehringer, M. Winterhager), Campus, Frankfurt [u.a.], &lt;strong&gt;1991&lt;/strong&gt;, p. 180-208.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Winterhager, Matthias. 1991. “Indikatoren zur Forschung auf dem Gebiet der Hochtemperatur-Supraleitung im Jahr 1987 auf der Basis der Cozitationsanalyse: Fallstudie zur Validierung bibliometrischer Daten durch Expertenbefragung am Beispiel einer aktuellen Forschungsfront”. In &lt;em&gt;Indikatoren der Wissenschaft und Technik: Theorie, Methoden, Anwendungen&lt;/em&gt;, ed. Peter Weingart, Roswitha Sehringer, and Matthias Winterhager, 674:180-208. Campus: Forschung. Frankfurt [u.a.]: Campus.&lt;/div&gt;</chicago>
+<mla>Winterhager, Matthias. “Indikatoren zur Forschung auf dem Gebiet der Hochtemperatur-Supraleitung im Jahr 1987 auf der Basis der Cozitationsanalyse: Fallstudie zur Validierung bibliometrischer Daten durch Expertenbefragung am Beispiel einer aktuellen Forschungsfront”. &lt;em&gt;Indikatoren der Wissenschaft und Technik: Theorie, Methoden, Anwendungen&lt;/em&gt;. Ed. Peter Weingart, Roswitha Sehringer, and Matthias Winterhager. Frankfurt [u.a.]: Campus, 1991.Vol. 674. Campus: Forschung. 180-208.</mla>
+<lncs>Winterhager, M.: Indikatoren zur Forschung auf dem Gebiet der Hochtemperatur-Supraleitung im Jahr 1987 auf der Basis der Cozitationsanalyse: Fallstudie zur Validierung bibliometrischer Daten durch Expertenbefragung am Beispiel einer aktuellen Forschungsfront. In: Weingart, P., Sehringer, R., and Winterhager, M. (eds.) Indikatoren der Wissenschaft und Technik: Theorie, Methoden, Anwendungen. Campus: Forschung. 674, p. 180-208. Campus, Frankfurt [u.a.] (1991).</lncs>
+<ieee>M. Winterhager, “Indikatoren zur Forschung auf dem Gebiet der Hochtemperatur-Supraleitung im Jahr 1987 auf der Basis der Cozitationsanalyse: Fallstudie zur Validierung bibliometrischer Daten durch Expertenbefragung am Beispiel einer aktuellen Forschungsfront”, &lt;em&gt;Indikatoren der Wissenschaft und Technik: Theorie, Methoden, Anwendungen&lt;/em&gt;, P. Weingart, R. Sehringer, and M. Winterhager, eds., Campus: Forschung, vol. 674,  Frankfurt [u.a.]: Campus, 1991,  pp.180-208.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Winterhager, M. (1991). Indikatoren zur Forschung auf dem Gebiet der Hochtemperatur-Supraleitung im Jahr 1987 auf der Basis der Cozitationsanalyse: Fallstudie zur Validierung bibliometrischer Daten durch Expertenbefragung am Beispiel einer aktuellen Forschungsfront. In P.  Weingart, R.  Sehringer, &amp;amp; M.  Winterhager (Eds.), &lt;em&gt;Campus: Forschung: Vol. 674&lt;/em&gt;&lt;em&gt;. Indikatoren der Wissenschaft und Technik: Theorie, Methoden, Anwendungen&lt;/em&gt; (pp. 180-208). Frankfurt [u.a.]: Campus.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781207</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781207</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781207</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

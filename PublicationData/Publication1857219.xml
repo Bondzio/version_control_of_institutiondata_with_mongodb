@@ -1,0 +1,92 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>encyclopaedia entry</genre>
+
+<titleInfo><title>Ethnizität</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Marion</namePart>
+  <namePart type="family">Müller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">121301</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Rainer</namePart><namePart type="family">Schützeichel</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">5656018</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>UVK</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Handbuch Wissenssoziologie und Wissesforschung</title></titleInfo>
+  <identifier type="isbn">978-3-89669-551-2</identifier>
+<part><detail type="volume"><number>15</number></detail><extent unit="pages">512-520</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Müller M. Ethnizität. In: Schützeichel R, ed. &lt;em&gt;Handbuch Wissenssoziologie und Wissesforschung&lt;/em&gt;. Erfahrung - Wissen - Imagination. Vol 15. Konstanz: UVK;  2007: 512-520.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, M. (2007). Ethnizität (Erfahrung - Wissen - Imagination). &lt;em&gt;Handbuch Wissenssoziologie und Wissesforschung&lt;/em&gt; (S. 512-520). Konstanz: UVK.&lt;/div&gt;</dgps>
+<harvard1>Müller, M., 2007. Ethnizität. In R.  Schützeichel, ed. &lt;em&gt;Handbuch Wissenssoziologie und Wissesforschung&lt;/em&gt;. Erfahrung - Wissen - Imagination. no.15  Konstanz: UVK, pp. 512-520.</harvard1>
+<aps> M.  Müller, Ethnizität, in &lt;em&gt;Handbuch Wissenssoziologie und Wissesforschung&lt;/em&gt;, edited by R.  Schützeichel, Erfahrung - Wissen - Imagination, &lt;strong&gt;15&lt;/strong&gt; (UVK, Konstanz, 2007), p. 512-520.</aps>
+<bio1>Müller M (2007) &lt;br /&gt;Ethnizität. &lt;br /&gt;In:  Handbuch Wissenssoziologie und Wissesforschung. Schützeichel R (Ed); Erfahrung - Wissen - Imagination, 15. Konstanz: UVK:  512-520.</bio1>
+<wels>Müller, M. (2007): Ethnizität. In: Rainer Schützeichel (Hrsg.):  Handbuch Wissenssoziologie und Wissesforschung. Konstanz: UVK. (Erfahrung - Wissen - Imagination, 15).  S. 512-520.</wels>
+<default>Müller M (2007)  &lt;br /&gt;In:  Handbuch Wissenssoziologie und Wissesforschung. Schützeichel R (Ed); Erfahrung - Wissen - Imagination, 15. Konstanz: UVK:  512-520.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, M. (2007). Ethnizität. In R.  Schützeichel (Ed.), &lt;em&gt;Erfahrung - Wissen - Imagination: Vol. 15&lt;/em&gt;&lt;em&gt;. Handbuch Wissenssoziologie und Wissesforschung&lt;/em&gt; (pp. 512-520). Konstanz: UVK.&lt;/div&gt;</apa_indent>
+<ieee> M. Müller, “Ethnizität”, &lt;em&gt;Handbuch Wissenssoziologie und Wissesforschung&lt;/em&gt;, R. Schützeichel, ed., Erfahrung - Wissen - Imagination, vol. 15,  Konstanz: UVK, 2007,  pp.512-520.</ieee>
+<mla>Müller, Marion. “Ethnizität”. &lt;em&gt;Handbuch Wissenssoziologie und Wissesforschung&lt;/em&gt;. Ed. Rainer Schützeichel. Konstanz: UVK, 2007.Vol. 15. Erfahrung - Wissen - Imagination. 512-520.</mla>
+<lncs> Müller, M.: Ethnizität. In: Schützeichel, R. (ed.) Handbuch Wissenssoziologie und Wissesforschung. Erfahrung - Wissen - Imagination. 15, p. 512-520. UVK, Konstanz (2007).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, Marion. 2007. “Ethnizität”. In &lt;em&gt;Handbuch Wissenssoziologie und Wissesforschung&lt;/em&gt;, ed. Rainer Schützeichel, 15:512-520. Erfahrung - Wissen - Imagination. Konstanz: UVK.&lt;/div&gt;</chicago>
+<angewandte-chemie>M.  Müller, in &lt;em&gt;Handbuch Wissenssoziologie und Wissesforschung&lt;/em&gt; (Ed.: R. Schützeichel), Uvk, Konstanz, &lt;strong&gt;2007&lt;/strong&gt;, p. 512-520.</angewandte-chemie>
+<apa>Müller, M. (2007). Ethnizität. In R.  Schützeichel (Ed.), &lt;em&gt;Erfahrung - Wissen - Imagination: Vol. 15&lt;/em&gt;&lt;em&gt;. Handbuch Wissenssoziologie und Wissesforschung&lt;/em&gt; (pp. 512-520). Konstanz: UVK.</apa>
+<frontiers>Müller, M. (2007). “Ethnizität” in &lt;em&gt;Handbuch Wissenssoziologie und Wissesforschung&lt;/em&gt;, Schützeichel, R. ed. Erfahrung - Wissen - Imagination, vol. 15, (Konstanz: UVK), 512-520.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1857219</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-11-18T11:02:02Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-11-18T11:02:35Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1857219</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1857219</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

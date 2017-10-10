@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Adverse Selektion</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Walter</namePart>
+  <namePart type="family">Trockel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">62508</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0001-9827-6424</description></name>
+
+
+
+<name type="personal"><namePart type="given">Friedrich</namePart><namePart type="family">Geigant</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für mathematische Wirtschaftsforschung</namePart>
+  <identifier type="unibi">10053</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT1375.pdf">https://pub.uni-bielefeld.de/download/1777011/2312302</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Verl. Moderne Industrie</publisher><dateIssued encoding="w3cdtf">1994</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Lexikon der volkswirtschaft</title></titleInfo>
+  <identifier type="isbn">3-478-37056-6</identifier><identifier type="urn">urn:nbn:de:0070-bipr-13752</identifier>
+<part><extent unit="pages">22-23</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>W. Trockel, “Adverse Selektion”, &lt;em&gt;Lexikon der volkswirtschaft&lt;/em&gt;, F. Geigant, ed., 6., neubearb. u. erw. Aufl.,  Landsberg am Lech: Verl. Moderne Industrie, 1994,  pp.22-23.</ieee>
+<lncs>Trockel, W.: Adverse Selektion. In: Geigant, F. (ed.) Lexikon der volkswirtschaft. 6., neubearb. u. erw. Aufl. p. 22-23. Verl. Moderne Industrie, Landsberg am Lech (1994).</lncs>
+<mla>Trockel, Walter. “Adverse Selektion”. &lt;em&gt;Lexikon der volkswirtschaft&lt;/em&gt;. Ed. Friedrich Geigant. 6., neubearb. u. erw. Aufl. Landsberg am Lech: Verl. Moderne Industrie, 1994. 22-23.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Trockel, W. (1994). Adverse Selektion. In F.  Geigant (Ed.), &lt;em&gt;Lexikon der volkswirtschaft&lt;/em&gt; (6., neubearb. u. erw. Aufl., pp. 22-23). Landsberg am Lech: Verl. Moderne Industrie.&lt;/div&gt;</apa_indent>
+<apa>Trockel, W. (1994). Adverse Selektion. In F.  Geigant (Ed.), &lt;em&gt;Lexikon der volkswirtschaft&lt;/em&gt; (6., neubearb. u. erw. Aufl., pp. 22-23). Landsberg am Lech: Verl. Moderne Industrie.</apa>
+<angewandte-chemie>W.  Trockel, in &lt;em&gt;Lexikon der volkswirtschaft&lt;/em&gt; (Ed.: F. Geigant), Verl. Moderne Industrie, Landsberg am Lech, &lt;strong&gt;1994&lt;/strong&gt;, p. 22-23.</angewandte-chemie>
+<frontiers>Trockel, W. (1994). “Adverse Selektion” in &lt;em&gt;Lexikon der volkswirtschaft&lt;/em&gt;, ed. F.  Geigant 6., neubearb. u. erw. Aufl. (Landsberg am Lech: Verl. Moderne Industrie), 22-23.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Trockel, Walter. 1994. “Adverse Selektion”. In &lt;em&gt;Lexikon der volkswirtschaft&lt;/em&gt;, ed. Friedrich Geigant, 6., neubearb. u. erw. Aufl., 22-23. Landsberg am Lech: Verl. Moderne Industrie.&lt;/div&gt;</chicago>
+<harvard1>Trockel, W., 1994. Adverse Selektion. In F.  Geigant, ed. &lt;em&gt;Lexikon der volkswirtschaft&lt;/em&gt;. 6., neubearb. u. erw. Aufl.  Landsberg am Lech: Verl. Moderne Industrie, pp. 22-23.</harvard1>
+<ama>Trockel W. Adverse Selektion. In: Geigant F, ed. &lt;em&gt;Lexikon der volkswirtschaft&lt;/em&gt;. 6., neubearb. u. erw. Aufl. Landsberg am Lech: Verl. Moderne Industrie;  1994: 22-23.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Trockel, W. (1994). Adverse Selektion. &lt;em&gt;Lexikon der volkswirtschaft&lt;/em&gt; (6., neubearb. u. erw. Aufl., S. 22-23). Landsberg am Lech: Verl. Moderne Industrie.&lt;/div&gt;</dgps>
+<aps>W.  Trockel, Adverse Selektion, in &lt;em&gt;Lexikon der volkswirtschaft&lt;/em&gt;, edited by F.  Geigant, 6., neubearb. u. erw. Aufl. (Verl. Moderne Industrie, Landsberg Am Lech, 1994), p. 22-23.</aps>
+<bio1>Trockel W (1994) &lt;br /&gt;Adverse Selektion. &lt;br /&gt;In:  Lexikon der volkswirtschaft. Geigant F (Ed); 6., neubearb. u. erw. Aufl. Landsberg am Lech: Verl. Moderne Industrie:  22-23.</bio1>
+<wels>Trockel, W. (1994): Adverse Selektion. In: Friedrich Geigant (Hrsg.):  Lexikon der volkswirtschaft. 6., neubearb. u. erw. Aufl. Landsberg am Lech: Verl. Moderne Industrie.  S. 22-23.</wels>
+<default>Trockel W (1994)  &lt;br /&gt;In:  Lexikon der volkswirtschaft. Geigant F (Ed); 6., neubearb. u. erw. Aufl. Landsberg am Lech: Verl. Moderne Industrie:  22-23.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1777011</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1777011</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1777011</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

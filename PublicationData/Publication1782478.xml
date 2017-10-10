@@ -1,0 +1,102 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Gibt es aggressionsauslösende Reize?</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Hans Dieter</namePart>
+  <namePart type="family">Schmidt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Amélie</namePart>
+  <namePart type="family">Schmidt-Mummendey</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Amélie</namePart><namePart type="family">Schmidt-Mummendey</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Soziologie</namePart>
+  <identifier type="unibi">10030</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT3159.pdf">https://pub.uni-bielefeld.de/download/1782478/2313848</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Juventa-Verl.</publisher><dateIssued encoding="w3cdtf">1976</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Aggressives Verhalten: neue Ergebnisse der psychologischen Forschung</title></titleInfo>
+  <identifier type="isbn">3-7799-0529-9</identifier><identifier type="urn">urn:nbn:de:0070-bipr-31591</identifier>
+<part><extent unit="pages">149-161</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>H.D. Schmidt and A. Schmidt-Mummendey, “Gibt es aggressionsauslösende Reize?”, &lt;em&gt;Aggressives Verhalten: neue Ergebnisse der psychologischen Forschung&lt;/em&gt;, A. Schmidt-Mummendey, ed., Juventa-Paperback, 4. Aufl.,  München: Juventa-Verl., 1976,  pp.149-161.</ieee>
+<lncs>Schmidt, H.D., Schmidt-Mummendey, A.: Gibt es aggressionsauslösende Reize? In: Schmidt-Mummendey, A. (ed.) Aggressives Verhalten: neue Ergebnisse der psychologischen Forschung. Juventa-Paperback. 4. Aufl. p. 149-161. Juventa-Verl., München (1976).</lncs>
+<mla>Schmidt, Hans Dieter, and Schmidt-Mummendey, Amélie. “Gibt es aggressionsauslösende Reize?”. &lt;em&gt;Aggressives Verhalten: neue Ergebnisse der psychologischen Forschung&lt;/em&gt;. Ed. Amélie Schmidt-Mummendey. 4. Aufl. München: Juventa-Verl., 1976. Juventa-Paperback. 149-161.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schmidt, H. D., &amp;amp; Schmidt-Mummendey, A. (1976). Gibt es aggressionsauslösende Reize? In A.  Schmidt-Mummendey (Ed.), &lt;em&gt;Juventa-Paperback&lt;/em&gt;&lt;em&gt;. Aggressives Verhalten: neue Ergebnisse der psychologischen Forschung&lt;/em&gt; (4. Aufl., pp. 149-161). München: Juventa-Verl.&lt;/div&gt;</apa_indent>
+<apa>Schmidt, H. D., &amp;amp; Schmidt-Mummendey, A. (1976). Gibt es aggressionsauslösende Reize? In A.  Schmidt-Mummendey (Ed.), &lt;em&gt;Juventa-Paperback&lt;/em&gt;&lt;em&gt;. Aggressives Verhalten: neue Ergebnisse der psychologischen Forschung&lt;/em&gt; (4. Aufl., pp. 149-161). München: Juventa-Verl.</apa>
+<angewandte-chemie>H. D.  Schmidt, and A.  Schmidt-Mummendey, in &lt;em&gt;Aggressives Verhalten: neue Ergebnisse der psychologischen Forschung&lt;/em&gt; (Ed.: A. Schmidt-Mummendey), Juventa-Verl., München, &lt;strong&gt;1976&lt;/strong&gt;, p. 149-161.</angewandte-chemie>
+<frontiers>Schmidt, H. D., and Schmidt-Mummendey, A. (1976). “Gibt es aggressionsauslösende Reize?” in &lt;em&gt;Aggressives Verhalten: neue Ergebnisse der psychologischen Forschung&lt;/em&gt;, ed. A.  Schmidt-Mummendey Juventa-Paperback 4. Aufl. (München: Juventa-Verl.), 149-161.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schmidt, Hans Dieter, and Schmidt-Mummendey, Amélie. 1976. “Gibt es aggressionsauslösende Reize?”. In &lt;em&gt;Aggressives Verhalten: neue Ergebnisse der psychologischen Forschung&lt;/em&gt;, ed. Amélie Schmidt-Mummendey, 4. Aufl., 149-161. Juventa-Paperback. München: Juventa-Verl.&lt;/div&gt;</chicago>
+<harvard1>Schmidt, H.D., &amp;amp; Schmidt-Mummendey, A., 1976. Gibt es aggressionsauslösende Reize? In A.  Schmidt-Mummendey, ed. &lt;em&gt;Aggressives Verhalten: neue Ergebnisse der psychologischen Forschung&lt;/em&gt;. Juventa-Paperback. 4. Aufl.  München: Juventa-Verl., pp. 149-161.</harvard1>
+<ama>Schmidt HD, Schmidt-Mummendey A. Gibt es aggressionsauslösende Reize? In: Schmidt-Mummendey A, ed. &lt;em&gt;Aggressives Verhalten: neue Ergebnisse der psychologischen Forschung&lt;/em&gt;. Juventa-Paperback. 4. Aufl. München: Juventa-Verl.;  1976: 149-161.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schmidt, H.D. &amp;amp; Schmidt-Mummendey, A. (1976). Gibt es aggressionsauslösende Reize? (Juventa-Paperback). &lt;em&gt;Aggressives Verhalten: neue Ergebnisse der psychologischen Forschung&lt;/em&gt; (4. Aufl., S. 149-161). München: Juventa-Verl.&lt;/div&gt;</dgps>
+<bio1>Schmidt HD, Schmidt-Mummendey A (1976) &lt;br /&gt;Gibt es aggressionsauslösende Reize? &lt;br /&gt;In:  Aggressives Verhalten: neue Ergebnisse der psychologischen Forschung. Schmidt-Mummendey A (Ed); Juventa-Paperback,  4. Aufl. München: Juventa-Verl.:  149-161.</bio1>
+<aps>H. D.  Schmidt and A.  Schmidt-Mummendey, Gibt es aggressionsauslösende Reize?, in &lt;em&gt;Aggressives Verhalten: neue Ergebnisse der psychologischen Forschung&lt;/em&gt;, edited by A.  Schmidt-Mummendey, Juventa-Paperback, 4. Aufl. (Juventa-Verl., München, 1976), p. 149-161.</aps>
+<wels>Schmidt, H. D.; Schmidt-Mummendey, A. (1976): Gibt es aggressionsauslösende Reize? In: Amélie Schmidt-Mummendey (Hrsg.):  Aggressives Verhalten: neue Ergebnisse der psychologischen Forschung. 4. Aufl. München: Juventa-Verl. (Juventa-Paperback, ).  S. 149-161.</wels>
+<default>Schmidt HD, Schmidt-Mummendey A (1976)  &lt;br /&gt;In:  Aggressives Verhalten: neue Ergebnisse der psychologischen Forschung. Schmidt-Mummendey A (Ed); Juventa-Paperback,  4. Aufl. München: Juventa-Verl.:  149-161.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1782478</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1782478</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1782478</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

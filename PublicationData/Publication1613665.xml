@@ -1,0 +1,142 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Heisenberg spin triangles in {V-6}-type magnetic molecules: Experiment and theory</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Luban</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">F</namePart>
+  <namePart type="family">Borsa</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">S</namePart>
+  <namePart type="family">Bud&apos;ko</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">PC</namePart>
+  <namePart type="family">Canfield</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">S</namePart>
+  <namePart type="family">Jun</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">JK</namePart>
+  <namePart type="family">Jung</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Paul</namePart>
+  <namePart type="family">Kögerler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">D</namePart>
+  <namePart type="family">Mentrup</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Achim</namePart>
+  <namePart type="family">Müller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20118</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0003-0117-4021</description></name>
+<name type="personal">
+  <namePart type="given">R</namePart>
+  <namePart type="family">Modler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">D</namePart>
+  <namePart type="family">Procissi</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">BJ</namePart>
+  <namePart type="family">Suh</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Torikachvili</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Anorganische Chemie I</namePart>
+  <identifier type="unibi">17964</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We report the results of systematic experimental and theoretical studies of two closely related species of magnetic molecules of the type {V-6}, where each molecule includes a pair of triangles of exchange-coupled vanadyl (VO2+, spin s=1/2) ions. The experimental studies include the temperature dependence of the low-field susceptibility from room temperature down to 2 K, the dependence of the magnetization on magnetic field up to 60 T for several low temperatures, the temperature dependence of the magnetic contribution to the specific heat, and the H-1 and Na-23 nuclear magnetic resonance spin-lattice relaxation rates 1/T-1. This body of experimental data is accurately reproduced for both compounds by a Heisenberg model for two identical uncoupled triangles of spins; in each triangle, the spins interact via isotropic antiferromagnetic exchange, where two of the three V-V interactions have exchange constants that are equal and an order of magnitude larger than the third; the ground-state eigenfunction has total spin quantum number S=1/2 for magnetic fields below a predicted critical field H(c)approximate to74 T and S=3/2 for fields above H-c.</abstract>
+
+<originInfo><publisher>AMERICAN PHYSICAL SOC</publisher><dateIssued encoding="w3cdtf">2002</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>PHYSICAL REVIEW B</title></titleInfo>
+  <identifier type="issn">0163-1829</identifier>
+  <identifier type="eIssn">1095-3795</identifier>
+  <identifier type="ISI">000177873000072</identifier><identifier type="doi">10.1103/PhysRevB.66.054407</identifier>
+<part><detail type="volume"><number>66</number></detail><detail type="issue"><number>5</number></detail>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Luban, M, Borsa, F, Bud&apos;ko, S, Canfield, PC, Jun, S, Jung, JK, Kögerler, Paul, et al. 2002. “Heisenberg spin triangles in {V-6}-type magnetic molecules: Experiment and theory”. &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt; 66 (5).&lt;/div&gt;</chicago>
+<angewandte-chemie>M.  Luban, F.  Borsa, S.  Bud&apos;ko, P. C.  Canfield, S.  Jun, J. K.  Jung, P.  Kögerler, D.  Mentrup, A.  Müller, R.  Modler, et al., “Heisenberg spin triangles in {V-6}-type magnetic molecules: Experiment and theory”, &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt;, &lt;strong&gt;2002&lt;/strong&gt;, &lt;em&gt;66&lt;/em&gt;.</angewandte-chemie>
+<apa>Luban, M., Borsa, F., Bud&apos;ko, S., Canfield, P. C., Jun, S., Jung, J. K., Kögerler, P., et al. (2002). Heisenberg spin triangles in {V-6}-type magnetic molecules: Experiment and theory. &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt;, &lt;em&gt;66&lt;/em&gt;(5).</apa>
+<frontiers>Luban, M., Borsa, F., Bud&apos;ko, S., Canfield, P. C., Jun, S., Jung, J. K., Kögerler, P., Mentrup, D., Müller, A., Modler, R., et al. (2002). Heisenberg spin triangles in {V-6}-type magnetic molecules: Experiment and theory. &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt; 66.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Luban, M., Borsa, F., Bud&apos;ko, S., Canfield, P. C., Jun, S., Jung, J. K., Kögerler, P., et al. (2002). Heisenberg spin triangles in {V-6}-type magnetic molecules: Experiment and theory. &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt;, &lt;em&gt;66&lt;/em&gt;(5).&lt;/div&gt;</apa_indent>
+<ieee>M. Luban, et al., “Heisenberg spin triangles in {V-6}-type magnetic molecules: Experiment and theory”, &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt;,  vol. 66, 2002.</ieee>
+<lncs>Luban, M., Borsa, F., Bud&apos;ko, S., Canfield, P.C., Jun, S., Jung, J.K., Kögerler, P., Mentrup, D., Müller, A., Modler, R., Procissi, D., Suh, B.J., Torikachvili, M.: Heisenberg spin triangles in {V-6}-type magnetic molecules: Experiment and theory. PHYSICAL REVIEW B. 66, (2002).</lncs>
+<mla>Luban, M, Borsa, F, Bud&apos;ko, S, Canfield, PC, Jun, S, Jung, JK, Kögerler, Paul, Mentrup, D, Müller, Achim, Modler, R, Procissi, D, Suh, BJ, and Torikachvili, M. “Heisenberg spin triangles in {V-6}-type magnetic molecules: Experiment and theory”. &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt; 66.5 (2002).</mla>
+<wels>Luban, M.; Borsa, F.; Bud&apos;ko, S.; Canfield, P. C.; Jun, S.; Jung, J. K.; Kögerler, P.; Mentrup, D.; Müller, A.; Modler, R.; Procissi, D.; Suh, B. J.; Torikachvili, M. (2002): Heisenberg spin triangles in {V-6}-type magnetic molecules: Experiment and theory &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt;,66:(5)</wels>
+<default>Luban M, Borsa F, Bud&apos;ko S, Canfield PC, Jun S, Jung JK, Kögerler P, Mentrup D, Müller A, Modler R, Procissi D, et al. (2002) &lt;br /&gt;PHYSICAL REVIEW B 66(5).</default>
+<harvard1>Luban, M., et al., 2002. Heisenberg spin triangles in {V-6}-type magnetic molecules: Experiment and theory. &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt;, 66(5).</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Luban, M., Borsa, F., Bud&apos;ko, S., Canfield, P.C., Jun, S., Jung, J.K., Kögerler, P., Mentrup, D., Müller, A., Modler, R., Procissi, D., Suh, B.J. &amp;amp; Torikachvili, M. (2002). Heisenberg spin triangles in {V-6}-type magnetic molecules: Experiment and theory. &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt;, &lt;em&gt;66&lt;/em&gt;(5). AMERICAN PHYSICAL SOC. doi:10.1103/PhysRevB.66.054407.&lt;/div&gt;</dgps>
+<ama>Luban M, Borsa F, Bud&apos;ko S, et al. Heisenberg spin triangles in {V-6}-type magnetic molecules: Experiment and theory. &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt;. 2002;66(5).</ama>
+<aps>M.  Luban, et al., Heisenberg spin triangles in {V-6}-type magnetic molecules: Experiment and theory, PHYSICAL REVIEW B &lt;strong&gt;66&lt;/strong&gt;, (2002).</aps>
+<bio1>Luban M, Borsa F, Bud&apos;ko S, Canfield PC, Jun S, Jung JK, Kögerler P, Mentrup D, Müller A, Modler R, Procissi D, Suh BJ, Torikachvili M (2002) &lt;br /&gt;Heisenberg spin triangles in {V-6}-type magnetic molecules: Experiment and theory.&lt;br /&gt;PHYSICAL REVIEW B 66(5).</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1613665</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:00:45Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-18T15:18:41Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1613665</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1613665</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

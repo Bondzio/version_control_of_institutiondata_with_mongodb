@@ -1,0 +1,110 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Synapse distribution on VCH, an inhibitory, motion-sensitive interneuron in the fly visual system</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">V</namePart>
+  <namePart type="family">Gauck</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Martin</namePart>
+  <namePart type="family">Egelhaaf</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">156194</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-9336-4270</description></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Borst</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Neurobiologie</namePart>
+  <identifier type="unibi">2684834</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Gauck_etal_1997.pdf">https://pub.uni-bielefeld.de/download/1637283/2311151</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>WILEY-LISS</publisher><dateIssued encoding="w3cdtf">1997</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Calliphora erythrocephala</topic><topic>lobula plate</topic><topic>electron microscopy</topic><topic>electrophysiology</topic><topic>figure-ground discrimination</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF COMPARATIVE NEUROLOGY</title></titleInfo>
+  <identifier type="issn">0021-9967</identifier>
+  <identifier type="eIssn">1096-9861</identifier>
+  <identifier type="MEDLINE">9136805</identifier>
+  <identifier type="ISI">A1997WW93100008</identifier><identifier type="urn">urn:nbn:de:0070-pub-16372831</identifier><identifier type="doi">10.1002/(SICI)1096-9861(19970519)381:4&lt;489::AID-CNE8&gt;3.0.CO;2-Z</identifier>
+<part><detail type="volume"><number>381</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">489-499</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<lncs>Gauck, V., Egelhaaf, M., Borst, A.: Synapse distribution on VCH, an inhibitory, motion-sensitive interneuron in the fly visual system. JOURNAL OF COMPARATIVE NEUROLOGY. 381, 489-499 (1997).</lncs>
+<mla>Gauck, V, Egelhaaf, Martin, and Borst, A. “Synapse distribution on VCH, an inhibitory, motion-sensitive interneuron in the fly visual system”. &lt;em&gt;JOURNAL OF COMPARATIVE NEUROLOGY&lt;/em&gt; 381.4 (1997): 489-499.</mla>
+<ieee>V. Gauck, M. Egelhaaf, and A. Borst, “Synapse distribution on VCH, an inhibitory, motion-sensitive interneuron in the fly visual system”, &lt;em&gt;JOURNAL OF COMPARATIVE NEUROLOGY&lt;/em&gt;,  vol. 381, 1997,  pp. 489-499.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gauck, V., Egelhaaf, M., &amp;amp; Borst, A. (1997). Synapse distribution on VCH, an inhibitory, motion-sensitive interneuron in the fly visual system. &lt;em&gt;JOURNAL OF COMPARATIVE NEUROLOGY&lt;/em&gt;, &lt;em&gt;381&lt;/em&gt;(4), 489-499.&lt;/div&gt;</apa_indent>
+<frontiers>Gauck, V., Egelhaaf, M., and Borst, A. (1997). Synapse distribution on VCH, an inhibitory, motion-sensitive interneuron in the fly visual system. &lt;em&gt;JOURNAL OF COMPARATIVE NEUROLOGY&lt;/em&gt; 381, 489-499.</frontiers>
+<angewandte-chemie>V.  Gauck, M.  Egelhaaf, and A.  Borst, “Synapse distribution on VCH, an inhibitory, motion-sensitive interneuron in the fly visual system”, &lt;em&gt;JOURNAL OF COMPARATIVE NEUROLOGY&lt;/em&gt;, &lt;strong&gt;1997&lt;/strong&gt;, &lt;em&gt;381&lt;/em&gt;, 489-499.</angewandte-chemie>
+<apa>Gauck, V., Egelhaaf, M., &amp;amp; Borst, A. (1997). Synapse distribution on VCH, an inhibitory, motion-sensitive interneuron in the fly visual system. &lt;em&gt;JOURNAL OF COMPARATIVE NEUROLOGY&lt;/em&gt;, &lt;em&gt;381&lt;/em&gt;(4), 489-499.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gauck, V, Egelhaaf, Martin, and Borst, A. 1997. “Synapse distribution on VCH, an inhibitory, motion-sensitive interneuron in the fly visual system”. &lt;em&gt;JOURNAL OF COMPARATIVE NEUROLOGY&lt;/em&gt; 381 (4): 489-499.&lt;/div&gt;</chicago>
+<bio1>Gauck V, Egelhaaf M, Borst A (1997) &lt;br /&gt;Synapse distribution on VCH, an inhibitory, motion-sensitive interneuron in the fly visual system.&lt;br /&gt;JOURNAL OF COMPARATIVE NEUROLOGY 381(4): 489-499.</bio1>
+<aps>V.  Gauck, M.  Egelhaaf, and A.  Borst, Synapse distribution on VCH, an inhibitory, motion-sensitive interneuron in the fly visual system, JOURNAL OF COMPARATIVE NEUROLOGY &lt;strong&gt;381&lt;/strong&gt;, 489-499 (1997).</aps>
+<harvard1>Gauck, V., Egelhaaf, M., &amp;amp; Borst, A., 1997. Synapse distribution on VCH, an inhibitory, motion-sensitive interneuron in the fly visual system. &lt;em&gt;JOURNAL OF COMPARATIVE NEUROLOGY&lt;/em&gt;, 381(4), p 489-499.</harvard1>
+<ama>Gauck V, Egelhaaf M, Borst A. Synapse distribution on VCH, an inhibitory, motion-sensitive interneuron in the fly visual system. &lt;em&gt;JOURNAL OF COMPARATIVE NEUROLOGY&lt;/em&gt;. 1997;381(4):489-499.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gauck, V., Egelhaaf, M. &amp;amp; Borst, A. (1997). Synapse distribution on VCH, an inhibitory, motion-sensitive interneuron in the fly visual system. &lt;em&gt;JOURNAL OF COMPARATIVE NEUROLOGY&lt;/em&gt;, &lt;em&gt;381&lt;/em&gt;(4), 489-499. WILEY-LISS. doi:10.1002/(SICI)1096-9861(19970519)381:4&amp;lt;489::AID-CNE8&amp;gt;3.0.CO;2-Z.&lt;/div&gt;</dgps>
+<default>Gauck V, Egelhaaf M, Borst A (1997) &lt;br /&gt;JOURNAL OF COMPARATIVE NEUROLOGY 381(4): 489-499.</default>
+<wels>Gauck, V.; Egelhaaf, M.; Borst, A. (1997): Synapse distribution on VCH, an inhibitory, motion-sensitive interneuron in the fly visual system &lt;em&gt;JOURNAL OF COMPARATIVE NEUROLOGY&lt;/em&gt;,381:(4): 489-499.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1637283</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:14:11Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2012-02-15T07:27:07Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1637283</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1637283</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

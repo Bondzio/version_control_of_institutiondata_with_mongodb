@@ -1,0 +1,88 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Die Mythen des Coaching-Marktes. Berater unter der Lupe.</title></titleInfo>
+
+
+
+
+
+<name type="personal">
+  <namePart type="given">Stefan</namePart>
+  <namePart type="family">Kühl</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">4312658</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Arbeitsbereich 3 - Organisationen</namePart>
+  <identifier type="unibi">5656030</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>ManagerSeminare, H. 2</title></titleInfo>
+<part><extent unit="pages">44-49</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kühl, Stefan. 2006. “Die Mythen des Coaching-Marktes. Berater unter der Lupe.”. &lt;em&gt;ManagerSeminare, H. 2&lt;/em&gt;, 44-49.&lt;/div&gt;</chicago>
+<apa>Kühl, S. (2006). Die Mythen des Coaching-Marktes. Berater unter der Lupe. &lt;em&gt;ManagerSeminare, H. 2&lt;/em&gt;, 44-49.</apa>
+<angewandte-chemie>S.  Kühl, “Die Mythen des Coaching-Marktes. Berater unter der Lupe.”, &lt;em&gt;ManagerSeminare, H. 2&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, 44-49.</angewandte-chemie>
+<frontiers>Kühl, S. (2006). Die Mythen des Coaching-Marktes. Berater unter der Lupe. &lt;em&gt;ManagerSeminare, H. 2&lt;/em&gt;, 44-49.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kühl, S. (2006). Die Mythen des Coaching-Marktes. Berater unter der Lupe. &lt;em&gt;ManagerSeminare, H. 2&lt;/em&gt;, 44-49.&lt;/div&gt;</apa_indent>
+<ieee>S. Kühl, “Die Mythen des Coaching-Marktes. Berater unter der Lupe.”, &lt;em&gt;ManagerSeminare, H. 2&lt;/em&gt;, 2006,  pp. 44-49.</ieee>
+<mla>Kühl, Stefan. “Die Mythen des Coaching-Marktes. Berater unter der Lupe.”. &lt;em&gt;ManagerSeminare, H. 2&lt;/em&gt; (2006): 44-49.</mla>
+<lncs>Kühl, S.: Die Mythen des Coaching-Marktes. Berater unter der Lupe. ManagerSeminare, H. 2. 44-49 (2006).</lncs>
+<wels>Kühl, S. (2006): Die Mythen des Coaching-Marktes. Berater unter der Lupe. &lt;em&gt;ManagerSeminare, H. 2&lt;/em&gt;, 44-49.</wels>
+<default>Kühl S (2006) &lt;br /&gt;ManagerSeminare, H. 2: 44-49.</default>
+<harvard1>Kühl, S., 2006. Die Mythen des Coaching-Marktes. Berater unter der Lupe. &lt;em&gt;ManagerSeminare, H. 2&lt;/em&gt;, , p 44-49.</harvard1>
+<ama>Kühl S. Die Mythen des Coaching-Marktes. Berater unter der Lupe. &lt;em&gt;ManagerSeminare, H. 2&lt;/em&gt;. 2006:44-49.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kühl, S. (2006). Die Mythen des Coaching-Marktes. Berater unter der Lupe. &lt;em&gt;ManagerSeminare, H. 2&lt;/em&gt;, 44-49.&lt;/div&gt;</dgps>
+<bio1>Kühl S (2006) &lt;br /&gt;Die Mythen des Coaching-Marktes. Berater unter der Lupe.&lt;br /&gt;ManagerSeminare, H. 2: 44-49.</bio1>
+<aps>S.  Kühl, Die Mythen des Coaching-Marktes. Berater unter der Lupe., ManagerSeminare, H. 2 44-49 (2006).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1860945</recordIdentifier><recordChangeDate encoding="w3cdtf">2010-12-22T10:53:21Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1860945</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1860945</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

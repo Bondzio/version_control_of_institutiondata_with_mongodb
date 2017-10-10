@@ -1,0 +1,140 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Inelastic electron tunneling spectra of MgO-based magnetic tunnel junctions with different electrode designs</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Volker</namePart>
+  <namePart type="family">Drewello</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">171308</identifier></name>
+<name type="personal">
+  <namePart type="given">Markus</namePart>
+  <namePart type="family">Schäfers</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">172582</identifier></name>
+<name type="personal">
+  <namePart type="given">Oliver</namePart>
+  <namePart type="family">Schebaum</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">182235</identifier></name>
+<name type="personal">
+  <namePart type="given">Ayaz Arif</namePart>
+  <namePart type="family">Khan</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jana</namePart>
+  <namePart type="family">Münchenberger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">7495873</identifier></name>
+<name type="personal">
+  <namePart type="given">Jan-Michael</namePart>
+  <namePart type="family">Schmalhorst</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40191</identifier></name>
+<name type="personal">
+  <namePart type="given">Günter</namePart>
+  <namePart type="family">Reiss</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40207</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-0918-5940</description></name>
+<name type="personal">
+  <namePart type="given">Andy</namePart>
+  <namePart type="family">Thomas</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40188</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0001-8594-9060</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Biophysik und Nanowissenschaften</namePart>
+  <identifier type="unibi">2161137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Dünne Schichten &amp; Physik der Nanostrukturen</namePart>
+  <identifier type="unibi">28536538</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  G. Reiss</namePart>
+  <identifier type="unibi">33079602</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">MgO-based magnetic tunnel junctions with up to 230% tunnel magnetoresistance ratio at room temperature and up to 345% at 13 K are prepared. The lower electrode is either exchange-biased or free, while the top electrode is free or an exchanged-biased artificial ferrimagnet, respectively. Additionally, a pseudo-spin-valve (hard-soft switching) design with two unpinned electrodes is used. Inelastic electron-tunneling spectra for each of these systems show a strong variation in the zero-bias anomaly with a reduced peak for some of the junctions. At voltages around 200 mV additional structures are found, which are not known from junctions with lower magneto resistance, such as alumina-based junctions. We discuss the spectra for the different electrode types and compare our findings with respect to barrier material and magnetoresistance ratio.</abstract>
+
+<originInfo><publisher>American Physical Society (APS)</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>structure</topic><topic>magnesium compounds</topic><topic>ferrimagnetic materials</topic><topic>tunnelling magnetoresistance</topic><topic>magnetic</topic><topic>tunnelling spectra</topic><topic>electrodes</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>PHYSICAL REVIEW B</title></titleInfo>
+  <identifier type="issn">1098-0121</identifier>
+  <identifier type="eIssn">1550-235X</identifier>
+  <identifier type="ISI">000266501100070</identifier><identifier type="doi">10.1103/PhysRevB.79.174417</identifier>
+<part><detail type="volume"><number>79</number></detail><detail type="issue"><number>17</number></detail>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Drewello, V., Schäfers, M., Schebaum, O., Khan, A. A., Münchenberger, J., Schmalhorst, J. - M., Reiss, G., and Thomas, A. (2009). Inelastic electron tunneling spectra of MgO-based magnetic tunnel junctions with different electrode designs. &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt; 79.</frontiers>
+<angewandte-chemie>V.  Drewello, M.  Schäfers, O.  Schebaum, A. A.  Khan, J.  Münchenberger, J. - M.  Schmalhorst, G.  Reiss, and A.  Thomas, “Inelastic electron tunneling spectra of MgO-based magnetic tunnel junctions with different electrode designs”, &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;79&lt;/em&gt;.</angewandte-chemie>
+<apa>Drewello, V., Schäfers, M., Schebaum, O., Khan, A. A., Münchenberger, J., Schmalhorst, J. - M., Reiss, G., et al. (2009). Inelastic electron tunneling spectra of MgO-based magnetic tunnel junctions with different electrode designs. &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt;, &lt;em&gt;79&lt;/em&gt;(17).</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Drewello, Volker, Schäfers, Markus, Schebaum, Oliver, Khan, Ayaz Arif, Münchenberger, Jana, Schmalhorst, Jan-Michael, Reiss, Günter, and Thomas, Andy. 2009. “Inelastic electron tunneling spectra of MgO-based magnetic tunnel junctions with different electrode designs”. &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt; 79 (17).&lt;/div&gt;</chicago>
+<mla>Drewello, Volker, Schäfers, Markus, Schebaum, Oliver, Khan, Ayaz Arif, Münchenberger, Jana, Schmalhorst, Jan-Michael, Reiss, Günter, and Thomas, Andy. “Inelastic electron tunneling spectra of MgO-based magnetic tunnel junctions with different electrode designs”. &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt; 79.17 (2009).</mla>
+<lncs>Drewello, V., Schäfers, M., Schebaum, O., Khan, A.A., Münchenberger, J., Schmalhorst, J.-M., Reiss, G., Thomas, A.: Inelastic electron tunneling spectra of MgO-based magnetic tunnel junctions with different electrode designs. PHYSICAL REVIEW B. 79, (2009).</lncs>
+<ieee>V. Drewello, et al., “Inelastic electron tunneling spectra of MgO-based magnetic tunnel junctions with different electrode designs”, &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt;,  vol. 79, 2009.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Drewello, V., Schäfers, M., Schebaum, O., Khan, A. A., Münchenberger, J., Schmalhorst, J. - M., Reiss, G., et al. (2009). Inelastic electron tunneling spectra of MgO-based magnetic tunnel junctions with different electrode designs. &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt;, &lt;em&gt;79&lt;/em&gt;(17).&lt;/div&gt;</apa_indent>
+<default>Drewello V, Schäfers M, Schebaum O, Khan AA, Münchenberger J, Schmalhorst J-M, Reiss G, Thomas A (2009) &lt;br /&gt;PHYSICAL REVIEW B 79(17).</default>
+<wels>Drewello, V.; Schäfers, M.; Schebaum, O.; Khan, A. A.; Münchenberger, J.; Schmalhorst, J. - M.; Reiss, G.; Thomas, A. (2009): Inelastic electron tunneling spectra of MgO-based magnetic tunnel junctions with different electrode designs &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt;,79:(17)</wels>
+<bio1>Drewello V, Schäfers M, Schebaum O, Khan AA, Münchenberger J, Schmalhorst J-M, Reiss G, Thomas A (2009) &lt;br /&gt;Inelastic electron tunneling spectra of MgO-based magnetic tunnel junctions with different electrode designs.&lt;br /&gt;PHYSICAL REVIEW B 79(17).</bio1>
+<aps>V.  Drewello, et al., Inelastic electron tunneling spectra of MgO-based magnetic tunnel junctions with different electrode designs, PHYSICAL REVIEW B &lt;strong&gt;79&lt;/strong&gt;, (2009).</aps>
+<harvard1>Drewello, V., et al., 2009. Inelastic electron tunneling spectra of MgO-based magnetic tunnel junctions with different electrode designs. &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt;, 79(17).</harvard1>
+<ama>Drewello V, Schäfers M, Schebaum O, et al. Inelastic electron tunneling spectra of MgO-based magnetic tunnel junctions with different electrode designs. &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt;. 2009;79(17).</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Drewello, V., Schäfers, M., Schebaum, O., Khan, A.A., Münchenberger, J., Schmalhorst, J.-M., Reiss, G. &amp;amp; Thomas, A. (2009). Inelastic electron tunneling spectra of MgO-based magnetic tunnel junctions with different electrode designs. &lt;em&gt;PHYSICAL REVIEW B&lt;/em&gt;, &lt;em&gt;79&lt;/em&gt;(17). American Physical Society (APS). doi:10.1103/PhysRevB.79.174417.&lt;/div&gt;</dgps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1633643</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:06:56Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-17T10:32:25Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1633643</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1633643</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

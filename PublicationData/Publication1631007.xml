@@ -1,0 +1,116 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Optimisation of measures on a hyperfinite adapted probability space</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Sergio</namePart>
+  <namePart type="family">Albeverio</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">45992</identifier></name>
+<name type="personal">
+  <namePart type="given">Frederik</namePart>
+  <namePart type="family">Herzberg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">5894121</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0001-6185-223X</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Fakultät für Wirtschaftswissenschaften</namePart>
+  <identifier type="unibi">10031</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für mathematische Wirtschaftsforschung</namePart>
+  <identifier type="unibi">10053</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The minimisation problem for a functional P bar right arrow u(Gamma,P,(g) over tilde) is considered, where (g) over tilde is an R-n-valued stochastic process, defined on some filtered probability space Gamma = (Gamma(G(t))(t is an element of[0,1]), P), and P is an admissible probability measure in the sense that it obeys (1) some uniform equivalence condition with respect to the given measure P on Gamma, and (2) a finite number (possibly zero) of arbitrarily given other conditions that require the expectation (with respect to P) of some continuous bounded function phi of ((g) over tilde (t1),..., (g) over tilde (tk)), for t(1),..., t(k) is an element of [0,1], to lie within some closed set. We assume that u can be formulated through finite compositions of conditional expectations and bounded continuous functions. Under the assumption of vertical bar phi vertical bar being uniformly bounded from below and some condition on the dimension of phi ((g) over tilde (t1),..., (g) over tilde (tk)) the existence of a solution on hyperfinite adapted probability spaces, as well as its minimality among admissible measures on any other adapted probability space, is proven. Also, a coarseness result for the Loeb operation is established. The main result of this paper, however, is a &quot;standard result&quot;: It does not include any reference to nonstandard analysis and can be perfectly understood without any familiarity with nonstandard analysis.</abstract>
+
+<originInfo><publisher>SPRINGER</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>optimisation in measure spaces</topic><topic>nonstandard analysis</topic><topic>Loeb measures</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>ACTA APPLICANDAE MATHEMATICAE</title></titleInfo>
+  <identifier type="issn">0167-8019</identifier>
+  <identifier type="eIssn">1572-9036</identifier>
+  <identifier type="ISI">000251840900001</identifier><identifier type="doi">10.1007/s10440-007-9174-2</identifier>
+<part><detail type="volume"><number>100</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">1-14</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Albeverio, Sergio, and Herzberg, Frederik. 2008. “Optimisation of measures on a hyperfinite adapted probability space”. &lt;em&gt;ACTA APPLICANDAE MATHEMATICAE&lt;/em&gt; 100 (1): 1-14.&lt;/div&gt;</chicago>
+<angewandte-chemie>S.  Albeverio, and F.  Herzberg, “Optimisation of measures on a hyperfinite adapted probability space”, &lt;em&gt;ACTA APPLICANDAE MATHEMATICAE&lt;/em&gt;, &lt;strong&gt;2008&lt;/strong&gt;, &lt;em&gt;100&lt;/em&gt;, 1-14.</angewandte-chemie>
+<apa>Albeverio, S., &amp;amp; Herzberg, F. (2008). Optimisation of measures on a hyperfinite adapted probability space. &lt;em&gt;ACTA APPLICANDAE MATHEMATICAE&lt;/em&gt;, &lt;em&gt;100&lt;/em&gt;(1), 1-14.</apa>
+<frontiers>Albeverio, S., and Herzberg, F. (2008). Optimisation of measures on a hyperfinite adapted probability space. &lt;em&gt;ACTA APPLICANDAE MATHEMATICAE&lt;/em&gt; 100, 1-14.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Albeverio, S., &amp;amp; Herzberg, F. (2008). Optimisation of measures on a hyperfinite adapted probability space. &lt;em&gt;ACTA APPLICANDAE MATHEMATICAE&lt;/em&gt;, &lt;em&gt;100&lt;/em&gt;(1), 1-14.&lt;/div&gt;</apa_indent>
+<ieee>S. Albeverio and F. Herzberg, “Optimisation of measures on a hyperfinite adapted probability space”, &lt;em&gt;ACTA APPLICANDAE MATHEMATICAE&lt;/em&gt;,  vol. 100, 2008,  pp. 1-14.</ieee>
+<mla>Albeverio, Sergio, and Herzberg, Frederik. “Optimisation of measures on a hyperfinite adapted probability space”. &lt;em&gt;ACTA APPLICANDAE MATHEMATICAE&lt;/em&gt; 100.1 (2008): 1-14.</mla>
+<lncs>Albeverio, S., Herzberg, F.: Optimisation of measures on a hyperfinite adapted probability space. ACTA APPLICANDAE MATHEMATICAE. 100, 1-14 (2008).</lncs>
+<wels>Albeverio, S.; Herzberg, F. (2008): Optimisation of measures on a hyperfinite adapted probability space &lt;em&gt;ACTA APPLICANDAE MATHEMATICAE&lt;/em&gt;,100:(1): 1-14.</wels>
+<default>Albeverio S, Herzberg F (2008) &lt;br /&gt;ACTA APPLICANDAE MATHEMATICAE 100(1): 1-14.</default>
+<harvard1>Albeverio, S., &amp;amp; Herzberg, F., 2008. Optimisation of measures on a hyperfinite adapted probability space. &lt;em&gt;ACTA APPLICANDAE MATHEMATICAE&lt;/em&gt;, 100(1), p 1-14.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Albeverio, S. &amp;amp; Herzberg, F. (2008). Optimisation of measures on a hyperfinite adapted probability space. &lt;em&gt;ACTA APPLICANDAE MATHEMATICAE&lt;/em&gt;, &lt;em&gt;100&lt;/em&gt;(1), 1-14. SPRINGER. doi:10.1007/s10440-007-9174-2.&lt;/div&gt;</dgps>
+<ama>Albeverio S, Herzberg F. Optimisation of measures on a hyperfinite adapted probability space. &lt;em&gt;ACTA APPLICANDAE MATHEMATICAE&lt;/em&gt;. 2008;100(1):1-14.</ama>
+<aps>S.  Albeverio and F.  Herzberg, Optimisation of measures on a hyperfinite adapted probability space, ACTA APPLICANDAE MATHEMATICAE &lt;strong&gt;100&lt;/strong&gt;, 1-14 (2008).</aps>
+<bio1>Albeverio S, Herzberg F (2008) &lt;br /&gt;Optimisation of measures on a hyperfinite adapted probability space.&lt;br /&gt;ACTA APPLICANDAE MATHEMATICAE 100(1): 1-14.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1631007</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:05:25Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-11-03T21:08:40Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1631007</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1631007</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

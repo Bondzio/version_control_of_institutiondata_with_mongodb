@@ -1,0 +1,96 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Erklären und Verstehen bei Michel Foucault</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Vasilache</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">9367332</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Rainer</namePart><namePart type="family">Greshoff</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Georg</namePart><namePart type="family">Kneer</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Wolfgang Ludwig</namePart><namePart type="family">Schneider</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">5656050</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Wilhelm Fink</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Verstehen und Erklären. Sozial- und kulturwissenschaftliche Perspektiven</title></titleInfo>
+  <identifier type="isbn">978-3-7705-4630-5</identifier>
+<part><extent unit="pages">285-310</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<angewandte-chemie>A.  Vasilache, in &lt;em&gt;Verstehen und Erklären. Sozial- und kulturwissenschaftliche Perspektiven&lt;/em&gt; (Eds.: R. Greshoff, G. Kneer, W.L. Schneider), Wilhelm Fink, Paderborn, &lt;strong&gt;2008&lt;/strong&gt;, p. 285-310.</angewandte-chemie>
+<apa>Vasilache, A. (2008). Erklären und Verstehen bei Michel Foucault. In R.  Greshoff, G.  Kneer, &amp;amp; W. L.  Schneider (Eds.), &lt;em&gt;Verstehen und Erklären. Sozial- und kulturwissenschaftliche Perspektiven&lt;/em&gt; (pp. 285-310). Paderborn: Wilhelm Fink.</apa>
+<frontiers>Vasilache, A. (2008). “Erklären und Verstehen bei Michel Foucault” in &lt;em&gt;Verstehen und Erklären. Sozial- und kulturwissenschaftliche Perspektiven&lt;/em&gt;, Greshoff, R., Kneer, G., and Schneider, W. L. eds. (Paderborn: Wilhelm Fink), 285-310.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Vasilache, Andreas. 2008. “Erklären und Verstehen bei Michel Foucault”. In &lt;em&gt;Verstehen und Erklären. Sozial- und kulturwissenschaftliche Perspektiven&lt;/em&gt;, ed. Rainer Greshoff, Georg Kneer, and Wolfgang Ludwig Schneider, 285-310. Paderborn: Wilhelm Fink.&lt;/div&gt;</chicago>
+<ieee> A. Vasilache, “Erklären und Verstehen bei Michel Foucault”, &lt;em&gt;Verstehen und Erklären. Sozial- und kulturwissenschaftliche Perspektiven&lt;/em&gt;, R. Greshoff, G. Kneer, and W.L. Schneider, eds.,  Paderborn: Wilhelm Fink, 2008,  pp.285-310.</ieee>
+<mla>Vasilache, Andreas. “Erklären und Verstehen bei Michel Foucault”. &lt;em&gt;Verstehen und Erklären. Sozial- und kulturwissenschaftliche Perspektiven&lt;/em&gt;. Ed. Rainer Greshoff, Georg Kneer, and Wolfgang Ludwig Schneider. Paderborn: Wilhelm Fink, 2008. 285-310.</mla>
+<lncs> Vasilache, A.: Erklären und Verstehen bei Michel Foucault. In: Greshoff, R., Kneer, G., and Schneider, W.L. (eds.) Verstehen und Erklären. Sozial- und kulturwissenschaftliche Perspektiven. p. 285-310. Wilhelm Fink, Paderborn (2008).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Vasilache, A. (2008). Erklären und Verstehen bei Michel Foucault. In R.  Greshoff, G.  Kneer, &amp;amp; W. L.  Schneider (Eds.), &lt;em&gt;Verstehen und Erklären. Sozial- und kulturwissenschaftliche Perspektiven&lt;/em&gt; (pp. 285-310). Paderborn: Wilhelm Fink.&lt;/div&gt;</apa_indent>
+<wels>Vasilache, A. (2008): Erklären und Verstehen bei Michel Foucault. In: Rainer Greshoff; Georg Kneer; Wolfgang Ludwig Schneider (Hrsg.):  Verstehen und Erklären. Sozial- und kulturwissenschaftliche Perspektiven. Paderborn: Wilhelm Fink.  S. 285-310.</wels>
+<default>Vasilache A (2008)  &lt;br /&gt;In:  Verstehen und Erklären. Sozial- und kulturwissenschaftliche Perspektiven. Greshoff R, Kneer G, Schneider WL (Eds);Paderborn: Wilhelm Fink:  285-310.</default>
+<ama>Vasilache A. Erklären und Verstehen bei Michel Foucault. In: Greshoff R, Kneer G, Schneider WL, eds. &lt;em&gt;Verstehen und Erklären. Sozial- und kulturwissenschaftliche Perspektiven&lt;/em&gt;. Paderborn: Wilhelm Fink;  2008: 285-310.</ama>
+<harvard1>Vasilache, A., 2008. Erklären und Verstehen bei Michel Foucault. In R.  Greshoff, G.  Kneer, &amp;amp; W. L.  Schneider, eds. &lt;em&gt;Verstehen und Erklären. Sozial- und kulturwissenschaftliche Perspektiven&lt;/em&gt;.  Paderborn: Wilhelm Fink, pp. 285-310.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Vasilache, A. (2008). Erklären und Verstehen bei Michel Foucault. &lt;em&gt;Verstehen und Erklären. Sozial- und kulturwissenschaftliche Perspektiven&lt;/em&gt; (S. 285-310). Paderborn: Wilhelm Fink.&lt;/div&gt;</dgps>
+<bio1>Vasilache A (2008) &lt;br /&gt;Erklären und Verstehen bei Michel Foucault. &lt;br /&gt;In:  Verstehen und Erklären. Sozial- und kulturwissenschaftliche Perspektiven. Greshoff R, Kneer G, Schneider WL (Eds); Paderborn: Wilhelm Fink:  285-310.</bio1>
+<aps> A.  Vasilache, Erklären und Verstehen bei Michel Foucault, in &lt;em&gt;Verstehen und Erklären. Sozial- und kulturwissenschaftliche Perspektiven&lt;/em&gt;, edited by R.  Greshoff, et al. (Wilhelm Fink, Paderborn, 2008), p. 285-310.</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1860971</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-08-08T09:00:51Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-08-08T09:00:51Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1860971</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1860971</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

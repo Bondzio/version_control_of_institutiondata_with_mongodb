@@ -1,0 +1,141 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Genomic and phenotypic characterization of a nonpigmented variant of Pantoea vagans biocontrol strain C9-1 lacking the 530-kb megaplasmid pPag3</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Theo H. M.</namePart>
+  <namePart type="family">Smits</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Fabio</namePart>
+  <namePart type="family">Rezzonico</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Cosima</namePart>
+  <namePart type="family">Pelludat</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alexander</namePart>
+  <namePart type="family">Goesmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">152495</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-7086-2568</description></name>
+<name type="personal">
+  <namePart type="given">Juerg E.</namePart>
+  <namePart type="family">Frey</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Brion</namePart>
+  <namePart type="family">Duffy</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Bioinformatics Resource Facility</namePart>
+  <identifier type="unibi">441927</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group A. Goesmann</namePart>
+  <identifier type="unibi">33067438</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Computational Genomics</namePart>
+  <identifier type="unibi">29609402</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">A 530-kb megaplasmid pPag3 contributing 10.8% of the total genome of Pantoea vagans biocontrol strain C9-1 was sequenced. A rare nonpigmented variant C9-1W was obtained and shown to have lost pPag3, but retained all other plasmids (pPag1, pPag2). Phenotypic characterization of the variant confirmed the function of several annotated genes that may influence ecological fitness and efficacy. Metabolic profiling revealed important plasmid-based carbon utilization phenotypes. Plasmid loss resulted in thiamine auxotrophy, absence of carotenoid pigmentation, desferrioxamine diffusible siderophore biosynthesis, inherent ampicillin resistance and expression of AI-1 quorum-sensing signaling. This confirmed the functional expression of the corresponding genes located on pPag3 in P. vagans.</abstract>
+
+<originInfo><publisher>Oxford University Press (OUP)</publisher><dateIssued encoding="w3cdtf">2010</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>autoinduction</topic><topic>biological control</topic><topic>carotenoids</topic><topic>desferrioxamine</topic><topic>ampicillin</topic><topic>Pantoea vagans</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>FEMS MICROBIOLOGY LETTERS</title></titleInfo>
+  <identifier type="issn">0378-1097</identifier>
+  <identifier type="eIssn">1574-6968</identifier>
+  <identifier type="MEDLINE">20487014</identifier>
+  <identifier type="ISI">000278308000008</identifier><identifier type="doi">10.1111/j.1574-6968.2010.01994.x</identifier>
+<part><detail type="volume"><number>308</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">48-54</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa>Smits, T. H. M., Rezzonico, F., Pelludat, C., Goesmann, A., Frey, J. E., &amp;amp; Duffy, B. (2010). Genomic and phenotypic characterization of a nonpigmented variant of Pantoea vagans biocontrol strain C9-1 lacking the 530-kb megaplasmid pPag3. &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt;, &lt;em&gt;308&lt;/em&gt;(1), 48-54.</apa>
+<angewandte-chemie>T. H. M.  Smits, F.  Rezzonico, C.  Pelludat, A.  Goesmann, J. E.  Frey, and B.  Duffy, “Genomic and phenotypic characterization of a nonpigmented variant of Pantoea vagans biocontrol strain C9-1 lacking the 530-kb megaplasmid pPag3”, &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt;, &lt;strong&gt;2010&lt;/strong&gt;, &lt;em&gt;308&lt;/em&gt;, 48-54.</angewandte-chemie>
+<frontiers>Smits, T. H. M., Rezzonico, F., Pelludat, C., Goesmann, A., Frey, J. E., and Duffy, B. (2010). Genomic and phenotypic characterization of a nonpigmented variant of Pantoea vagans biocontrol strain C9-1 lacking the 530-kb megaplasmid pPag3. &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt; 308, 48-54.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Smits, Theo H. M., Rezzonico, Fabio, Pelludat, Cosima, Goesmann, Alexander, Frey, Juerg E., and Duffy, Brion. 2010. “Genomic and phenotypic characterization of a nonpigmented variant of Pantoea vagans biocontrol strain C9-1 lacking the 530-kb megaplasmid pPag3”. &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt; 308 (1): 48-54.&lt;/div&gt;</chicago>
+<ieee>T.H.M. Smits, et al., “Genomic and phenotypic characterization of a nonpigmented variant of Pantoea vagans biocontrol strain C9-1 lacking the 530-kb megaplasmid pPag3”, &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt;,  vol. 308, 2010,  pp. 48-54.</ieee>
+<mla>Smits, Theo H. M., Rezzonico, Fabio, Pelludat, Cosima, Goesmann, Alexander, Frey, Juerg E., and Duffy, Brion. “Genomic and phenotypic characterization of a nonpigmented variant of Pantoea vagans biocontrol strain C9-1 lacking the 530-kb megaplasmid pPag3”. &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt; 308.1 (2010): 48-54.</mla>
+<lncs>Smits, T.H.M., Rezzonico, F., Pelludat, C., Goesmann, A., Frey, J.E., Duffy, B.: Genomic and phenotypic characterization of a nonpigmented variant of Pantoea vagans biocontrol strain C9-1 lacking the 530-kb megaplasmid pPag3. FEMS MICROBIOLOGY LETTERS. 308, 48-54 (2010).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Smits, T. H. M., Rezzonico, F., Pelludat, C., Goesmann, A., Frey, J. E., &amp;amp; Duffy, B. (2010). Genomic and phenotypic characterization of a nonpigmented variant of Pantoea vagans biocontrol strain C9-1 lacking the 530-kb megaplasmid pPag3. &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt;, &lt;em&gt;308&lt;/em&gt;(1), 48-54.&lt;/div&gt;</apa_indent>
+<wels>Smits, T. H. M.; Rezzonico, F.; Pelludat, C.; Goesmann, A.; Frey, J. E.; Duffy, B. (2010): Genomic and phenotypic characterization of a nonpigmented variant of Pantoea vagans biocontrol strain C9-1 lacking the 530-kb megaplasmid pPag3 &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt;,308:(1): 48-54.</wels>
+<default>Smits THM, Rezzonico F, Pelludat C, Goesmann A, Frey JE, Duffy B (2010) &lt;br /&gt;FEMS MICROBIOLOGY LETTERS 308(1): 48-54.</default>
+<ama>Smits THM, Rezzonico F, Pelludat C, Goesmann A, Frey JE, Duffy B. Genomic and phenotypic characterization of a nonpigmented variant of Pantoea vagans biocontrol strain C9-1 lacking the 530-kb megaplasmid pPag3. &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt;. 2010;308(1):48-54.</ama>
+<harvard1>Smits, T.H.M., et al., 2010. Genomic and phenotypic characterization of a nonpigmented variant of Pantoea vagans biocontrol strain C9-1 lacking the 530-kb megaplasmid pPag3. &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt;, 308(1), p 48-54.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Smits, T.H.M., Rezzonico, F., Pelludat, C., Goesmann, A., Frey, J.E. &amp;amp; Duffy, B. (2010). Genomic and phenotypic characterization of a nonpigmented variant of Pantoea vagans biocontrol strain C9-1 lacking the 530-kb megaplasmid pPag3. &lt;em&gt;FEMS MICROBIOLOGY LETTERS&lt;/em&gt;, &lt;em&gt;308&lt;/em&gt;(1), 48-54. Oxford University Press (OUP). doi:10.1111/j.1574-6968.2010.01994.x.&lt;/div&gt;</dgps>
+<aps>T. H. M.  Smits, et al., Genomic and phenotypic characterization of a nonpigmented variant of Pantoea vagans biocontrol strain C9-1 lacking the 530-kb megaplasmid pPag3, FEMS MICROBIOLOGY LETTERS &lt;strong&gt;308&lt;/strong&gt;, 48-54 (2010).</aps>
+<bio1>Smits THM, Rezzonico F, Pelludat C, Goesmann A, Frey JE, Duffy B (2010) &lt;br /&gt;Genomic and phenotypic characterization of a nonpigmented variant of Pantoea vagans biocontrol strain C9-1 lacking the 530-kb megaplasmid pPag3.&lt;br /&gt;FEMS MICROBIOLOGY LETTERS 308(1): 48-54.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1795628</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-10-14T09:03:38Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2015-09-02T09:51:49Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1795628</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1795628</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

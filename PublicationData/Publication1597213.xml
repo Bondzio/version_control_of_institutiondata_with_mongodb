@@ -1,0 +1,116 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Comparing tandem repeats with duplications and excisions of variable degree</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Michael</namePart>
+  <namePart type="family">Sammeth</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jens</namePart>
+  <namePart type="family">Stoye</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">65864</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-4656-7155</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Genominformatik</namePart>
+  <identifier type="unibi">66100</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group J. Stoye</namePart>
+  <identifier type="unibi">33067262</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Traditional sequence comparison by alignment employs a mutation model comprised of two events, substitutions and indels (insertions or deletions) of single positions. However, modern genetic analysis knows a variety of more complex mutation events (e. g., duplications, excisions, and rearrangements), especially regarding DNA. With ever more DNA sequence data becoming available, the need to accurately compare sequences which have clearly undergone more complicated types of mutational processes is becoming critical. Herein we introduce a new method for pairwise alignment and comparison of sequences with respect to the special evolution of tandem repeats: substitutions and indels of single positions and, additionally, duplications and excisions of variable degree (i.e., of one or more repeat copies simultaneously) are taken into account. To evaluate our method, we apply it to the spa VNTR (variable number of tandem repeats) cluster of Staphylococcus aureus, a bacterium of high medical importance.</abstract>
+
+<originInfo><publisher>IEEE COMPUTER SOC</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>dynamic programming</topic><topic>sequence comparison</topic><topic>pairwise alignment</topic><topic>tandem repeats</topic><topic>repeat duplication history</topic><topic>variable number of tandem repeats</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>IEEE/ACM Transactions on Computational Biology and Bioinformatics</title></titleInfo>
+  <identifier type="issn">1545-5963</identifier>
+  <identifier type="MEDLINE">17085848</identifier>
+  <identifier type="ISI">000241720700008</identifier><identifier type="doi">10.1109/TCBB.2006.46</identifier>
+<part><detail type="volume"><number>3</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">395-407</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>M. Sammeth and J. Stoye, “Comparing tandem repeats with duplications and excisions of variable degree”, &lt;em&gt;IEEE/ACM Transactions on Computational Biology and Bioinformatics&lt;/em&gt;,  vol. 3, 2006,  pp. 395-407.</ieee>
+<mla>Sammeth, Michael, and Stoye, Jens. “Comparing tandem repeats with duplications and excisions of variable degree”. &lt;em&gt;IEEE/ACM Transactions on Computational Biology and Bioinformatics&lt;/em&gt; 3.4 (2006): 395-407.</mla>
+<lncs>Sammeth, M., Stoye, J.: Comparing tandem repeats with duplications and excisions of variable degree. IEEE/ACM Transactions on Computational Biology and Bioinformatics. 3, 395-407 (2006).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sammeth, M., &amp;amp; Stoye, J. (2006). Comparing tandem repeats with duplications and excisions of variable degree. &lt;em&gt;IEEE/ACM Transactions on Computational Biology and Bioinformatics&lt;/em&gt;, &lt;em&gt;3&lt;/em&gt;(4), 395-407.&lt;/div&gt;</apa_indent>
+<apa>Sammeth, M., &amp;amp; Stoye, J. (2006). Comparing tandem repeats with duplications and excisions of variable degree. &lt;em&gt;IEEE/ACM Transactions on Computational Biology and Bioinformatics&lt;/em&gt;, &lt;em&gt;3&lt;/em&gt;(4), 395-407.</apa>
+<angewandte-chemie>M.  Sammeth, and J.  Stoye, “Comparing tandem repeats with duplications and excisions of variable degree”, &lt;em&gt;IEEE/ACM Transactions on Computational Biology and Bioinformatics&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;3&lt;/em&gt;, 395-407.</angewandte-chemie>
+<frontiers>Sammeth, M., and Stoye, J. (2006). Comparing tandem repeats with duplications and excisions of variable degree. &lt;em&gt;IEEE/ACM Transactions on Computational Biology and Bioinformatics&lt;/em&gt; 3, 395-407.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sammeth, Michael, and Stoye, Jens. 2006. “Comparing tandem repeats with duplications and excisions of variable degree”. &lt;em&gt;IEEE/ACM Transactions on Computational Biology and Bioinformatics&lt;/em&gt; 3 (4): 395-407.&lt;/div&gt;</chicago>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sammeth, M. &amp;amp; Stoye, J. (2006). Comparing tandem repeats with duplications and excisions of variable degree. &lt;em&gt;IEEE/ACM Transactions on Computational Biology and Bioinformatics&lt;/em&gt;, &lt;em&gt;3&lt;/em&gt;(4), 395-407. IEEE COMPUTER SOC. doi:10.1109/TCBB.2006.46.&lt;/div&gt;</dgps>
+<ama>Sammeth M, Stoye J. Comparing tandem repeats with duplications and excisions of variable degree. &lt;em&gt;IEEE/ACM Transactions on Computational Biology and Bioinformatics&lt;/em&gt;. 2006;3(4):395-407.</ama>
+<harvard1>Sammeth, M., &amp;amp; Stoye, J., 2006. Comparing tandem repeats with duplications and excisions of variable degree. &lt;em&gt;IEEE/ACM Transactions on Computational Biology and Bioinformatics&lt;/em&gt;, 3(4), p 395-407.</harvard1>
+<bio1>Sammeth M, Stoye J (2006) &lt;br /&gt;Comparing tandem repeats with duplications and excisions of variable degree.&lt;br /&gt;IEEE/ACM Transactions on Computational Biology and Bioinformatics 3(4): 395-407.</bio1>
+<aps>M.  Sammeth and J.  Stoye, Comparing tandem repeats with duplications and excisions of variable degree, IEEE/ACM Transactions on Computational Biology and Bioinformatics &lt;strong&gt;3&lt;/strong&gt;, 395-407 (2006).</aps>
+<wels>Sammeth, M.; Stoye, J. (2006): Comparing tandem repeats with duplications and excisions of variable degree &lt;em&gt;IEEE/ACM Transactions on Computational Biology and Bioinformatics&lt;/em&gt;,3:(4): 395-407.</wels>
+<default>Sammeth M, Stoye J (2006) &lt;br /&gt;IEEE/ACM Transactions on Computational Biology and Bioinformatics 3(4): 395-407.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1597213</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:18:44Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-01-18T09:11:15Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1597213</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1597213</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,137 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Identification of mycorrhiza-regulated genes with arbuscule development-related expression profile</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">U.</namePart>
+  <namePart type="family">Grunwald</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">O.</namePart>
+  <namePart type="family">Nyamsuren</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M.</namePart>
+  <namePart type="family">Tarnasloukht</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">L.</namePart>
+  <namePart type="family">Lapopin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Anke</namePart>
+  <namePart type="family">Becker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">P.</namePart>
+  <namePart type="family">Mann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">V.</namePart>
+  <namePart type="family">Gianinazzi-Pearson</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">F.</namePart>
+  <namePart type="family">Krajinski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">P.</namePart>
+  <namePart type="family">Franken</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Biologie</namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Genomforschung und Systembiologie</namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Suppressive subtractive hybridisation was applied to the analysis of late stage arbuscular mycorrhizal development in pea. 96 cDNA clones were amplified and 8 1, which carried fragments more than 200 nt in size, were sequence analysed. Among 67 unique fragments, 10 showed no homology and 10 were similar to sequences with unknown function. RNA accumulation of the corresponding 67 genes was analysed by hybridisation of macro-arrays. The cDNAs used as probes were derived from roots of wild type and late mutant pea genotypes, inoculated or not with the AM fungus Glomus mosseae. After calibration, a more than 2.5-fold mycorrhiza-induced RNA accumulation was detected in two independent experiments in the wild type for 25 genes, 22 of which seemed to be induced specifically during late stage AM development. Differential expression for 7 genes was confirmed by RT-PCR using RNA from mycorrhiza and from controls of a different pea cultivar. In order to confirm arbuscule-related expression, the Medicago truncatula EST data base was screened for homologous sequences with putative mycorrhiza-related expression and among a number of sequences with significant similarities, a family of trypsin inhibitor genes could be identified. Mycorrhiza-induced RNA accumulation was verified for five members by real-time PCR and arbuscule-related activation of the promoter could be shown in transgenic roots for one of the genes, MtTi1.</abstract>
+
+<originInfo><publisher>KLUWER ACADEMIC PUBL</publisher><dateIssued encoding="w3cdtf">2004</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Medicago truncatula</topic><topic>arbuscular mycorrhiza</topic><topic>suppressive</topic><topic>Pisum sativum</topic><topic>subtractive hybridisation</topic><topic>trypsin inhibitor</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>PLANT MOLECULAR BIOLOGY</title></titleInfo>
+  <identifier type="issn">0167-4412</identifier>
+  <identifier type="eIssn">1573-5028</identifier>
+  <identifier type="MEDLINE">15604700</identifier>
+  <identifier type="ISI">000225690300008</identifier><identifier type="doi">10.1007/s11103-004-1303-y</identifier>
+<part><detail type="volume"><number>55</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">553-566</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>U.  Grunwald, et al., Identification of mycorrhiza-regulated genes with arbuscule development-related expression profile, PLANT MOLECULAR BIOLOGY &lt;strong&gt;55&lt;/strong&gt;, 553-566 (2004).</aps>
+<bio1>Grunwald U, Nyamsuren O, Tarnasloukht M, Lapopin L, Becker A, Mann P, Gianinazzi-Pearson V, Krajinski F, Franken P (2004) &lt;br /&gt;Identification of mycorrhiza-regulated genes with arbuscule development-related expression profile.&lt;br /&gt;PLANT MOLECULAR BIOLOGY 55(4): 553-566.</bio1>
+<ama>Grunwald U, Nyamsuren O, Tarnasloukht M, et al. Identification of mycorrhiza-regulated genes with arbuscule development-related expression profile. &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt;. 2004;55(4):553-566.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Grunwald, U., Nyamsuren, O., Tarnasloukht, M., Lapopin, L., Becker, A., Mann, P., Gianinazzi-Pearson, V., Krajinski, F. &amp;amp; Franken, P. (2004). Identification of mycorrhiza-regulated genes with arbuscule development-related expression profile. &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt;, &lt;em&gt;55&lt;/em&gt;(4), 553-566. KLUWER ACADEMIC PUBL. doi:10.1007/s11103-004-1303-y.&lt;/div&gt;</dgps>
+<harvard1>Grunwald, U., et al., 2004. Identification of mycorrhiza-regulated genes with arbuscule development-related expression profile. &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt;, 55(4), p 553-566.</harvard1>
+<default>Grunwald U, Nyamsuren O, Tarnasloukht M, Lapopin L, Becker A, Mann P, Gianinazzi-Pearson V, Krajinski F, Franken P (2004) &lt;br /&gt;PLANT MOLECULAR BIOLOGY 55(4): 553-566.</default>
+<wels>Grunwald, U.; Nyamsuren, O.; Tarnasloukht, M.; Lapopin, L.; Becker, A.; Mann, P.; Gianinazzi-Pearson, V.; Krajinski, F.; Franken, P. (2004): Identification of mycorrhiza-regulated genes with arbuscule development-related expression profile &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt;,55:(4): 553-566.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Grunwald, U., Nyamsuren, O., Tarnasloukht, M., Lapopin, L., Becker, A., Mann, P., Gianinazzi-Pearson, V., et al. (2004). Identification of mycorrhiza-regulated genes with arbuscule development-related expression profile. &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt;, &lt;em&gt;55&lt;/em&gt;(4), 553-566.&lt;/div&gt;</apa_indent>
+<mla>Grunwald, U., Nyamsuren, O., Tarnasloukht, M., Lapopin, L., Becker, Anke, Mann, P., Gianinazzi-Pearson, V., Krajinski, F., and Franken, P. “Identification of mycorrhiza-regulated genes with arbuscule development-related expression profile”. &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt; 55.4 (2004): 553-566.</mla>
+<lncs>Grunwald, U., Nyamsuren, O., Tarnasloukht, M., Lapopin, L., Becker, A., Mann, P., Gianinazzi-Pearson, V., Krajinski, F., Franken, P.: Identification of mycorrhiza-regulated genes with arbuscule development-related expression profile. PLANT MOLECULAR BIOLOGY. 55, 553-566 (2004).</lncs>
+<ieee>U. Grunwald, et al., “Identification of mycorrhiza-regulated genes with arbuscule development-related expression profile”, &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt;,  vol. 55, 2004,  pp. 553-566.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Grunwald, U., Nyamsuren, O., Tarnasloukht, M., Lapopin, L., Becker, Anke, Mann, P., Gianinazzi-Pearson, V., Krajinski, F., and Franken, P. 2004. “Identification of mycorrhiza-regulated genes with arbuscule development-related expression profile”. &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt; 55 (4): 553-566.&lt;/div&gt;</chicago>
+<frontiers>Grunwald, U., Nyamsuren, O., Tarnasloukht, M., Lapopin, L., Becker, A., Mann, P., Gianinazzi-Pearson, V., Krajinski, F., and Franken, P. (2004). Identification of mycorrhiza-regulated genes with arbuscule development-related expression profile. &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt; 55, 553-566.</frontiers>
+<apa>Grunwald, U., Nyamsuren, O., Tarnasloukht, M., Lapopin, L., Becker, A., Mann, P., Gianinazzi-Pearson, V., et al. (2004). Identification of mycorrhiza-regulated genes with arbuscule development-related expression profile. &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt;, &lt;em&gt;55&lt;/em&gt;(4), 553-566.</apa>
+<angewandte-chemie>U.  Grunwald, O.  Nyamsuren, M.  Tarnasloukht, L.  Lapopin, A.  Becker, P.  Mann, V.  Gianinazzi-Pearson, F.  Krajinski, and P.  Franken, “Identification of mycorrhiza-regulated genes with arbuscule development-related expression profile”, &lt;em&gt;PLANT MOLECULAR BIOLOGY&lt;/em&gt;, &lt;strong&gt;2004&lt;/strong&gt;, &lt;em&gt;55&lt;/em&gt;, 553-566.</angewandte-chemie>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1605491</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:40:48Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-28T15:01:33Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1605491</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1605491</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

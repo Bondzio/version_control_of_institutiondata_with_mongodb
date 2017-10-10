@@ -1,0 +1,119 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>ISOLLE: LLE with geodesic distance</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Claudio</namePart>
+  <namePart type="family">Varini</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Degenhard</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Tim Wilhelm</namePart>
+  <namePart type="family">Nattkemper</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11602</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33067409</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We propose an extension of the algorithm for nonlinear dimensional reduction locally linear embedding (LLE) based on the usage of the geodesic distance (ISOLLE). In LLE, each data point is reconstructed from a linear combination of its n nearest neighbors, which are typically found using the Euclidean distance. We show that the search for the neighbors performed with respect to the geodesic distance can lead to a more accurate preservation of the data structure. This is confirmed by experiments on both real-world and synthetic data. (c) 2006 Elsevier B.V. All rights reserved.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>LLE</topic><topic>geodesic distance</topic><topic>nonlinear dimensional data reduction</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>NEUROCOMPUTING</title></titleInfo>
+  <identifier type="issn">0925-2312</identifier>
+  <identifier type="ISI">000239015000047</identifier><identifier type="doi">10.1016/j.neucom.2005.12.120</identifier>
+<part><detail type="volume"><number>69</number></detail><detail type="issue"><number>13-15</number></detail><extent unit="pages">1768-1771</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Varini C, Degenhard A, Nattkemper TW. ISOLLE: LLE with geodesic distance. &lt;em&gt;NEUROCOMPUTING&lt;/em&gt;. 2006;69(13-15):1768-1771.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Varini, C., Degenhard, A. &amp;amp; Nattkemper, T.W. (2006). ISOLLE: LLE with geodesic distance. &lt;em&gt;NEUROCOMPUTING&lt;/em&gt;, &lt;em&gt;69&lt;/em&gt;(13-15), 1768-1771. ELSEVIER SCIENCE BV. doi:10.1016/j.neucom.2005.12.120.&lt;/div&gt;</dgps>
+<harvard1>Varini, C., Degenhard, A., &amp;amp; Nattkemper, T.W., 2006. ISOLLE: LLE with geodesic distance. &lt;em&gt;NEUROCOMPUTING&lt;/em&gt;, 69(13-15), p 1768-1771.</harvard1>
+<bio1>Varini C, Degenhard A, Nattkemper TW (2006) &lt;br /&gt;ISOLLE: LLE with geodesic distance.&lt;br /&gt;NEUROCOMPUTING 69(13-15): 1768-1771.</bio1>
+<aps> C.  Varini, A.  Degenhard, and T. W.  Nattkemper, ISOLLE: LLE with geodesic distance, NEUROCOMPUTING &lt;strong&gt;69&lt;/strong&gt;, 1768-1771 (2006).</aps>
+<wels>Varini, C.; Degenhard, A.; Nattkemper, T. W. (2006): ISOLLE: LLE with geodesic distance &lt;em&gt;NEUROCOMPUTING&lt;/em&gt;,69:(13-15): 1768-1771.</wels>
+<default>Varini C, Degenhard A, Nattkemper TW (2006) &lt;br /&gt;NEUROCOMPUTING 69(13-15): 1768-1771.</default>
+<ieee> C. Varini, A. Degenhard, and T.W. Nattkemper, “ISOLLE: LLE with geodesic distance”, &lt;em&gt;NEUROCOMPUTING&lt;/em&gt;,  vol. 69, 2006,  pp. 1768-1771.</ieee>
+<lncs> Varini, C., Degenhard, A., Nattkemper, T.W.: ISOLLE: LLE with geodesic distance. NEUROCOMPUTING. 69, 1768-1771 (2006).</lncs>
+<mla>Varini, Claudio, Degenhard, Andreas, and Nattkemper, Tim Wilhelm. “ISOLLE: LLE with geodesic distance”. &lt;em&gt;NEUROCOMPUTING&lt;/em&gt; 69.13-15 (2006): 1768-1771.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Varini, C., Degenhard, A., &amp;amp; Nattkemper, T. W. (2006). ISOLLE: LLE with geodesic distance. &lt;em&gt;NEUROCOMPUTING&lt;/em&gt;, &lt;em&gt;69&lt;/em&gt;(13-15), 1768-1771.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>C.  Varini, A.  Degenhard, and T. W.  Nattkemper, “ISOLLE: LLE with geodesic distance”, &lt;em&gt;NEUROCOMPUTING&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;69&lt;/em&gt;, 1768-1771.</angewandte-chemie>
+<apa>Varini, C., Degenhard, A., &amp;amp; Nattkemper, T. W. (2006). ISOLLE: LLE with geodesic distance. &lt;em&gt;NEUROCOMPUTING&lt;/em&gt;, &lt;em&gt;69&lt;/em&gt;(13-15), 1768-1771.</apa>
+<frontiers>Varini, C., Degenhard, A., and Nattkemper, T. W. (2006). ISOLLE: LLE with geodesic distance. &lt;em&gt;NEUROCOMPUTING&lt;/em&gt; 69, 1768-1771.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Varini, Claudio, Degenhard, Andreas, and Nattkemper, Tim Wilhelm. 2006. “ISOLLE: LLE with geodesic distance”. &lt;em&gt;NEUROCOMPUTING&lt;/em&gt; 69 (13-15): 1768-1771.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1598535</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:19:27Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-12T12:46:37Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1598535</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1598535</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,127 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Tip-enhanced single molecule fluorescence near-field microscopy in aqueous environment</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Heinrich</namePart>
+  <namePart type="family">Frey</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">19505089</identifier></name>
+<name type="personal">
+  <namePart type="given">Jan</namePart>
+  <namePart type="family">Paskarbeit</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">9601444</identifier></name>
+<name type="personal">
+  <namePart type="given">Dario</namePart>
+  <namePart type="family">Anselmetti</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40180</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-8720-4369</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2161137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33079524</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">29125395</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">For nanobiophysical applications, scanning near-field optical microscopy must combine high optical resolution and single fluorescent molecule sensitivity with the ability to operate in aqueous solution. These requirements can be achieved using the electric field enhancement at the tip of illuminated silicon probes for atomic force miscroscopy (AFM), whereby single ATTO-740 dye molecules could be imaged at an optical resolution down to 20 nm under ambient conditions as well as in aqueous solution. Two illumination modes have been tested: (a) bottom illumination in a total internal reflection microscopy setup and (b) direct top illumination, both with dedicated phase-sensitive single photon counting technology in dynamic AFM mode of operation.</abstract>
+
+<originInfo><publisher>AIP Publishing</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>dyes</topic><topic>fluorescence</topic><topic>image resolution</topic><topic>nanobiotechnology</topic><topic>near-field scanning</topic><topic>atomic force microscopy</topic><topic>optical microscopy</topic><topic>biological techniques</topic><topic>bio-optics</topic><topic>silicon</topic><topic>photon counting</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>APPLIED PHYSICS LETTERS</title></titleInfo>
+  <identifier type="issn">0003-6951</identifier>
+  <identifier type="ISI">000267166600016</identifier><identifier type="doi">10.1063/1.3155190</identifier>
+<part><detail type="volume"><number>94</number></detail><detail type="issue"><number>24</number></detail>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Frey, H., Paskarbeit, J., &amp;amp; Anselmetti, D. (2009). Tip-enhanced single molecule fluorescence near-field microscopy in aqueous environment. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, &lt;em&gt;94&lt;/em&gt;(24): 241116.&lt;/div&gt;</apa_indent>
+<lncs>Frey, H., Paskarbeit, J., Anselmetti, D.: Tip-enhanced single molecule fluorescence near-field microscopy in aqueous environment. APPLIED PHYSICS LETTERS. 94, : 241116 (2009).</lncs>
+<mla>Frey, Heinrich, Paskarbeit, Jan, and Anselmetti, Dario. “Tip-enhanced single molecule fluorescence near-field microscopy in aqueous environment”. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt; 94.24 (2009): 241116.</mla>
+<ieee>H. Frey, J. Paskarbeit, and D. Anselmetti, “Tip-enhanced single molecule fluorescence near-field microscopy in aqueous environment”, &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;,  vol. 94, 2009, : 241116.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Frey, Heinrich, Paskarbeit, Jan, and Anselmetti, Dario. 2009. “Tip-enhanced single molecule fluorescence near-field microscopy in aqueous environment”. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt; 94 (24): 241116.&lt;/div&gt;</chicago>
+<frontiers>Frey, H., Paskarbeit, J., and Anselmetti, D. (2009). Tip-enhanced single molecule fluorescence near-field microscopy in aqueous environment. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt; 94:241116.</frontiers>
+<apa>Frey, H., Paskarbeit, J., &amp;amp; Anselmetti, D. (2009). Tip-enhanced single molecule fluorescence near-field microscopy in aqueous environment. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, &lt;em&gt;94&lt;/em&gt;(24): 241116.</apa>
+<angewandte-chemie>H.  Frey, J.  Paskarbeit, and D.  Anselmetti, “Tip-enhanced single molecule fluorescence near-field microscopy in aqueous environment”, &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;94&lt;/em&gt;, : 241116.</angewandte-chemie>
+<aps>H.  Frey, J.  Paskarbeit, and D.  Anselmetti, Tip-enhanced single molecule fluorescence near-field microscopy in aqueous environment, APPLIED PHYSICS LETTERS &lt;strong&gt;94&lt;/strong&gt;, (2009).</aps>
+<bio1>Frey H, Paskarbeit J, Anselmetti D (2009) &lt;br /&gt;Tip-enhanced single molecule fluorescence near-field microscopy in aqueous environment.&lt;br /&gt;APPLIED PHYSICS LETTERS 94(24): 241116.</bio1>
+<ama>Frey H, Paskarbeit J, Anselmetti D. Tip-enhanced single molecule fluorescence near-field microscopy in aqueous environment. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;. 2009;94(24): 241116.</ama>
+<harvard1>Frey, H., Paskarbeit, J., &amp;amp; Anselmetti, D., 2009. Tip-enhanced single molecule fluorescence near-field microscopy in aqueous environment. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, 94(24): 241116.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Frey, H., Paskarbeit, J. &amp;amp; Anselmetti, D. (2009). Tip-enhanced single molecule fluorescence near-field microscopy in aqueous environment. &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;, &lt;em&gt;94&lt;/em&gt;(24): 241116. AIP Publishing. doi:10.1063/1.3155190.&lt;/div&gt;</dgps>
+<default>Frey H, Paskarbeit J, Anselmetti D (2009) &lt;br /&gt;APPLIED PHYSICS LETTERS 94(24): 241116.</default>
+<wels>Frey, H.; Paskarbeit, J.; Anselmetti, D. (2009): Tip-enhanced single molecule fluorescence near-field microscopy in aqueous environment &lt;em&gt;APPLIED PHYSICS LETTERS&lt;/em&gt;,94:(24):241116</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1633324</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:06:52Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-02-10T10:55:54Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1633324</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1633324</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

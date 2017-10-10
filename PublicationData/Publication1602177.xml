@@ -1,0 +1,120 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>An adaptive tissue characterization network for model-free visualization of dynamic contrast-enhanced magnetic resonance image data</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Thorsten</namePart>
+  <namePart type="family">Twellmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">177120</identifier></name>
+<name type="personal">
+  <namePart type="given">O</namePart>
+  <namePart type="family">Lichte</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Tim Wilhelm</namePart>
+  <namePart type="family">Nattkemper</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11602</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group T. Nattkemper</namePart>
+  <identifier type="unibi">33067409</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Technische Fakultät</namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Dynamic contrast-enhanced magnetic resonance imaging (DCE-MRI) has become an important source of information to aid cancer diagnosis. Nevertheless, due to the multi-temporal nature of the three-dimensional volume data obtained from DCE-MRI, evaluation of the image data is a challenging task and tools are required to support the human expert. We investigate an approach for automatic localization and characterization of suspicious lesions in DCE-MRI data. It applies an artificial neural network (ANN) architecture which combines unsupervised and supervised techniques for voxel-by-voxel classification of temporal kinetic signals. The algorithm is easy to implement, allows for fast training and application even for huge data sets and can be directly used to augment the display of DCE-MRI data. To demonstrate that the system provides a reasonable assessment of kinetic signals, the outcome is compared with the results obtained from the model-based three-time-points (3TP) technique which represents a clinical standard protocol for analysing breast cancer lesions. The evaluation based on the DCE-MRI data of 12 cases indicates that, although the ANN is trained with imprecisely labeled data, the approach leads to an outcome conforming with 3TP without presupposing an explicit model of the underlying physiological process.</abstract>
+
+<originInfo><publisher>IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC</publisher><dateIssued encoding="w3cdtf">2005</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>dynamic contrast-enhanced magnetic resonance</topic><topic>visualization</topic><topic>imaging</topic><topic>artificial neural network</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>IEEE TRANSACTIONS ON MEDICAL IMAGING</title></titleInfo>
+  <identifier type="issn">0278-0062</identifier>
+  <identifier type="MEDLINE">16229413</identifier>
+  <identifier type="ISI">000232236800003</identifier><identifier type="doi">10.1109/TMI.2005.854517</identifier>
+<part><detail type="volume"><number>24</number></detail><detail type="issue"><number>10</number></detail><extent unit="pages">1256-1266</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Twellmann, Thorsten, Lichte, O, and Nattkemper, Tim Wilhelm. 2005. “An adaptive tissue characterization network for model-free visualization of dynamic contrast-enhanced magnetic resonance image data”. &lt;em&gt;IEEE TRANSACTIONS ON MEDICAL IMAGING&lt;/em&gt; 24 (10): 1256-1266.&lt;/div&gt;</chicago>
+<apa>Twellmann, T., Lichte, O., &amp;amp; Nattkemper, T. W. (2005). An adaptive tissue characterization network for model-free visualization of dynamic contrast-enhanced magnetic resonance image data. &lt;em&gt;IEEE TRANSACTIONS ON MEDICAL IMAGING&lt;/em&gt;, &lt;em&gt;24&lt;/em&gt;(10), 1256-1266.</apa>
+<angewandte-chemie>T.  Twellmann, O.  Lichte, and T. W.  Nattkemper, “An adaptive tissue characterization network for model-free visualization of dynamic contrast-enhanced magnetic resonance image data”, &lt;em&gt;IEEE TRANSACTIONS ON MEDICAL IMAGING&lt;/em&gt;, &lt;strong&gt;2005&lt;/strong&gt;, &lt;em&gt;24&lt;/em&gt;, 1256-1266.</angewandte-chemie>
+<frontiers>Twellmann, T., Lichte, O., and Nattkemper, T. W. (2005). An adaptive tissue characterization network for model-free visualization of dynamic contrast-enhanced magnetic resonance image data. &lt;em&gt;IEEE TRANSACTIONS ON MEDICAL IMAGING&lt;/em&gt; 24, 1256-1266.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Twellmann, T., Lichte, O., &amp;amp; Nattkemper, T. W. (2005). An adaptive tissue characterization network for model-free visualization of dynamic contrast-enhanced magnetic resonance image data. &lt;em&gt;IEEE TRANSACTIONS ON MEDICAL IMAGING&lt;/em&gt;, &lt;em&gt;24&lt;/em&gt;(10), 1256-1266.&lt;/div&gt;</apa_indent>
+<ieee>T. Twellmann, O. Lichte, and T.W. Nattkemper, “An adaptive tissue characterization network for model-free visualization of dynamic contrast-enhanced magnetic resonance image data”, &lt;em&gt;IEEE TRANSACTIONS ON MEDICAL IMAGING&lt;/em&gt;,  vol. 24, 2005,  pp. 1256-1266.</ieee>
+<mla>Twellmann, Thorsten, Lichte, O, and Nattkemper, Tim Wilhelm. “An adaptive tissue characterization network for model-free visualization of dynamic contrast-enhanced magnetic resonance image data”. &lt;em&gt;IEEE TRANSACTIONS ON MEDICAL IMAGING&lt;/em&gt; 24.10 (2005): 1256-1266.</mla>
+<lncs>Twellmann, T., Lichte, O., Nattkemper, T.W.: An adaptive tissue characterization network for model-free visualization of dynamic contrast-enhanced magnetic resonance image data. IEEE TRANSACTIONS ON MEDICAL IMAGING. 24, 1256-1266 (2005).</lncs>
+<wels>Twellmann, T.; Lichte, O.; Nattkemper, T. W. (2005): An adaptive tissue characterization network for model-free visualization of dynamic contrast-enhanced magnetic resonance image data &lt;em&gt;IEEE TRANSACTIONS ON MEDICAL IMAGING&lt;/em&gt;,24:(10): 1256-1266.</wels>
+<default>Twellmann T, Lichte O, Nattkemper TW (2005) &lt;br /&gt;IEEE TRANSACTIONS ON MEDICAL IMAGING 24(10): 1256-1266.</default>
+<harvard1>Twellmann, T., Lichte, O., &amp;amp; Nattkemper, T.W., 2005. An adaptive tissue characterization network for model-free visualization of dynamic contrast-enhanced magnetic resonance image data. &lt;em&gt;IEEE TRANSACTIONS ON MEDICAL IMAGING&lt;/em&gt;, 24(10), p 1256-1266.</harvard1>
+<ama>Twellmann T, Lichte O, Nattkemper TW. An adaptive tissue characterization network for model-free visualization of dynamic contrast-enhanced magnetic resonance image data. &lt;em&gt;IEEE TRANSACTIONS ON MEDICAL IMAGING&lt;/em&gt;. 2005;24(10):1256-1266.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Twellmann, T., Lichte, O. &amp;amp; Nattkemper, T.W. (2005). An adaptive tissue characterization network for model-free visualization of dynamic contrast-enhanced magnetic resonance image data. &lt;em&gt;IEEE TRANSACTIONS ON MEDICAL IMAGING&lt;/em&gt;, &lt;em&gt;24&lt;/em&gt;(10), 1256-1266. IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC. doi:10.1109/TMI.2005.854517.&lt;/div&gt;</dgps>
+<bio1>Twellmann T, Lichte O, Nattkemper TW (2005) &lt;br /&gt;An adaptive tissue characterization network for model-free visualization of dynamic contrast-enhanced magnetic resonance image data.&lt;br /&gt;IEEE TRANSACTIONS ON MEDICAL IMAGING 24(10): 1256-1266.</bio1>
+<aps>T.  Twellmann, O.  Lichte, and T. W.  Nattkemper, An adaptive tissue characterization network for model-free visualization of dynamic contrast-enhanced magnetic resonance image data, IEEE TRANSACTIONS ON MEDICAL IMAGING &lt;strong&gt;24&lt;/strong&gt;, 1256-1266 (2005).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1602177</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:32:08Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-26T12:47:55Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1602177</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1602177</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,96 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>report</genre>
+
+<titleInfo><title>Evaluation der Attac Sommerakademie 2002</title></titleInfo>
+
+
+
+
+
+<name type="personal">
+  <namePart type="given">Jan</namePart>
+  <namePart type="family">Maurer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Dirk</namePart>
+  <namePart type="family">Ebinger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Kai</namePart>
+  <namePart type="family">Unzicker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">170715</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für interdisziplinäre Konflikt- und Gewaltforschung</namePart>
+  <identifier type="unibi">10058</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><dateIssued encoding="w3cdtf">2002</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host">
+<part>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa>Maurer, J., Ebinger, D., &amp;amp; Unzicker, K. (2002).  &lt;em&gt;Evaluation der Attac Sommerakademie 2002&lt;/em&gt;. Marburg.</apa>
+<angewandte-chemie>J.  Maurer, D.  Ebinger, and K.  Unzicker, &lt;em&gt;Evaluation der Attac Sommerakademie 2002&lt;/em&gt;, Marburg, &lt;strong&gt;2002&lt;/strong&gt;.</angewandte-chemie>
+<frontiers>Maurer, J., Ebinger, D., and Unzicker, K. (2002). Evaluation der Attac Sommerakademie 2002. Marburg.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Maurer, Jan, Ebinger, Dirk, and Unzicker, Kai. 2002. &lt;em&gt;Evaluation der Attac Sommerakademie 2002&lt;/em&gt;. Marburg.&lt;/div&gt;</chicago>
+<ieee>J. Maurer, D. Ebinger, and K. Unzicker, &lt;em&gt;Evaluation der Attac Sommerakademie 2002&lt;/em&gt;,  Marburg: 2002.</ieee>
+<mla>Maurer, Jan, Ebinger, Dirk, and Unzicker, Kai. &lt;em&gt;Evaluation der Attac Sommerakademie 2002&lt;/em&gt;. Marburg, 2002.</mla>
+<lncs>Maurer, J., Ebinger, D., Unzicker, K.: Evaluation der Attac Sommerakademie 2002. Marburg (2002).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Maurer, J., Ebinger, D., &amp;amp; Unzicker, K. (2002).  &lt;em&gt;Evaluation der Attac Sommerakademie 2002&lt;/em&gt;. Marburg.&lt;/div&gt;</apa_indent>
+<wels>Maurer, J.; Ebinger, D.; Unzicker, K. (2002): Evaluation der Attac Sommerakademie 2002. Marburg.</wels>
+<default>Maurer J, Ebinger D, Unzicker K (2002) &lt;br /&gt;Marburg.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Maurer, J., Ebinger, D. &amp;amp; Unzicker, K. (2002). &lt;em&gt;Evaluation der Attac Sommerakademie 2002&lt;/em&gt;. Marburg.&lt;/div&gt;</dgps>
+<harvard1>Maurer, J., Ebinger, D., &amp;amp; Unzicker, K., 2002. &lt;em&gt;Evaluation der Attac Sommerakademie 2002&lt;/em&gt;, Marburg.</harvard1>
+<ama>Maurer J, Ebinger D, Unzicker K. &lt;em&gt;Evaluation der Attac Sommerakademie 2002&lt;/em&gt;. Marburg; 2002.</ama>
+<aps>J.  Maurer, D.  Ebinger, and K.  Unzicker, Evaluation der Attac Sommerakademie 2002, (Marburg, 2002).</aps>
+<bio1>Maurer J, Ebinger D, Unzicker K (2002) &lt;br /&gt;&lt;em&gt;Evaluation der Attac Sommerakademie 2002&lt;/em&gt;.&lt;br /&gt;Marburg.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1861171</recordIdentifier><recordChangeDate encoding="w3cdtf">2011-03-24T09:44:12Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1861171</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1861171</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

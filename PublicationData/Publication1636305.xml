@@ -1,0 +1,175 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Spin polarization in half-metals probed by femtosecond spin excitation</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Georg M.</namePart>
+  <namePart type="family">Müller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jakob</namePart>
+  <namePart type="family">Walowski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Marija</namePart>
+  <namePart type="family">Djordjevic</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Gou-Xing</namePart>
+  <namePart type="family">Miao</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Arunava</namePart>
+  <namePart type="family">Gupta</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ana V.</namePart>
+  <namePart type="family">Ramos</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Kai</namePart>
+  <namePart type="family">Gehrke</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Vasily</namePart>
+  <namePart type="family">Moshnyaga</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Konrad</namePart>
+  <namePart type="family">Samwer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jan-Michael</namePart>
+  <namePart type="family">Schmalhorst</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40191</identifier></name>
+<name type="personal">
+  <namePart type="given">Andy</namePart>
+  <namePart type="family">Thomas</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40188</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0001-8594-9060</description></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Hütten</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40194</identifier></name>
+<name type="personal">
+  <namePart type="given">Günter</namePart>
+  <namePart type="family">Reiss</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40207</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-0918-5940</description></name>
+<name type="personal">
+  <namePart type="given">Jagadeesh S.</namePart>
+  <namePart type="family">Moodera</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Markus</namePart>
+  <namePart type="family">Münzenberg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">28536538</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33079602</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33079566</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2161137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Knowledge of the spin polarization is of fundamental importance for the use of a material in spintronics applications. Here, we used femtosecond optical excitation of half-metals to distinguish between half-metallic and metallic properties. Because the direct energy transfer by Elliot-Yafet scattering is blocked in a half-metal, the demagnetization time is a measure for the degree of half-metallicity. We propose that this characteristic enables us vice versa to establish a novel and fast characterization tool for this highly important material class used in spin-electronic devices. The technique has been applied to a variety of materials where the spin polarization at the Fermi level ranges from 45 to 98%: Ni, Co2MnSi, Fe3O4, La0.66Sr0.33MnO3 and CrO2.</abstract>
+
+<originInfo><publisher>NATURE PUBLISHING GROUP</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>NATURE MATERIALS</title></titleInfo>
+  <identifier type="issn">1476-1122</identifier>
+  <identifier type="eIssn">1476-4660</identifier>
+  <identifier type="MEDLINE">19079243</identifier>
+  <identifier type="ISI">000261866700020</identifier><identifier type="doi">10.1038/NMAT2341</identifier>
+<part><detail type="volume"><number>8</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">56-61</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>G.M. Müller, et al., “Spin polarization in half-metals probed by femtosecond spin excitation”, &lt;em&gt;NATURE MATERIALS&lt;/em&gt;,  vol. 8, 2009,  pp. 56-61.</ieee>
+<mla>Müller, Georg M., Walowski, Jakob, Djordjevic, Marija, Miao, Gou-Xing, Gupta, Arunava, Ramos, Ana V., Gehrke, Kai, Moshnyaga, Vasily, Samwer, Konrad, Schmalhorst, Jan-Michael, Thomas, Andy, Hütten, Andreas, Reiss, Günter, Moodera, Jagadeesh S., and Münzenberg, Markus. “Spin polarization in half-metals probed by femtosecond spin excitation”. &lt;em&gt;NATURE MATERIALS&lt;/em&gt; 8.1 (2009): 56-61.</mla>
+<lncs>Müller, G.M., Walowski, J., Djordjevic, M., Miao, G.-X., Gupta, A., Ramos, A.V., Gehrke, K., Moshnyaga, V., Samwer, K., Schmalhorst, J.-M., Thomas, A., Hütten, A., Reiss, G., Moodera, J.S., Münzenberg, M.: Spin polarization in half-metals probed by femtosecond spin excitation. NATURE MATERIALS. 8, 56-61 (2009).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, G. M., Walowski, J., Djordjevic, M., Miao, G. - X., Gupta, A., Ramos, A. V., Gehrke, K., et al. (2009). Spin polarization in half-metals probed by femtosecond spin excitation. &lt;em&gt;NATURE MATERIALS&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;(1), 56-61.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>G. M.  Müller, J.  Walowski, M.  Djordjevic, G. - X.  Miao, A.  Gupta, A. V.  Ramos, K.  Gehrke, V.  Moshnyaga, K.  Samwer, J. - M.  Schmalhorst, et al., “Spin polarization in half-metals probed by femtosecond spin excitation”, &lt;em&gt;NATURE MATERIALS&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;8&lt;/em&gt;, 56-61.</angewandte-chemie>
+<apa>Müller, G. M., Walowski, J., Djordjevic, M., Miao, G. - X., Gupta, A., Ramos, A. V., Gehrke, K., et al. (2009). Spin polarization in half-metals probed by femtosecond spin excitation. &lt;em&gt;NATURE MATERIALS&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;(1), 56-61.</apa>
+<frontiers>Müller, G. M., Walowski, J., Djordjevic, M., Miao, G. - X., Gupta, A., Ramos, A. V., Gehrke, K., Moshnyaga, V., Samwer, K., Schmalhorst, J. - M., et al. (2009). Spin polarization in half-metals probed by femtosecond spin excitation. &lt;em&gt;NATURE MATERIALS&lt;/em&gt; 8, 56-61.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, Georg M., Walowski, Jakob, Djordjevic, Marija, Miao, Gou-Xing, Gupta, Arunava, Ramos, Ana V., Gehrke, Kai, et al. 2009. “Spin polarization in half-metals probed by femtosecond spin excitation”. &lt;em&gt;NATURE MATERIALS&lt;/em&gt; 8 (1): 56-61.&lt;/div&gt;</chicago>
+<harvard1>Müller, G.M., et al., 2009. Spin polarization in half-metals probed by femtosecond spin excitation. &lt;em&gt;NATURE MATERIALS&lt;/em&gt;, 8(1), p 56-61.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Müller, G.M., Walowski, J., Djordjevic, M., Miao, G.-X., Gupta, A., Ramos, A.V., Gehrke, K., Moshnyaga, V., Samwer, K., Schmalhorst, J.-M., Thomas, A., Hütten, A., Reiss, G., Moodera, J.S. &amp;amp; Münzenberg, M. (2009). Spin polarization in half-metals probed by femtosecond spin excitation. &lt;em&gt;NATURE MATERIALS&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;(1), 56-61. NATURE PUBLISHING GROUP. doi:10.1038/NMAT2341.&lt;/div&gt;</dgps>
+<ama>Müller GM, Walowski J, Djordjevic M, et al. Spin polarization in half-metals probed by femtosecond spin excitation. &lt;em&gt;NATURE MATERIALS&lt;/em&gt;. 2009;8(1):56-61.</ama>
+<bio1>Müller GM, Walowski J, Djordjevic M, Miao G-X, Gupta A, Ramos AV, Gehrke K, Moshnyaga V, Samwer K, Schmalhorst J-M, Thomas A, Hütten A, Reiss G, Moodera JS, Münzenberg M (2009) &lt;br /&gt;Spin polarization in half-metals probed by femtosecond spin excitation.&lt;br /&gt;NATURE MATERIALS 8(1): 56-61.</bio1>
+<aps>G. M.  Müller, et al., Spin polarization in half-metals probed by femtosecond spin excitation, NATURE MATERIALS &lt;strong&gt;8&lt;/strong&gt;, 56-61 (2009).</aps>
+<wels>Müller, G. M.; Walowski, J.; Djordjevic, M.; Miao, G. - X.; Gupta, A.; Ramos, A. V.; Gehrke, K.; Moshnyaga, V.; Samwer, K.; Schmalhorst, J. - M.; Thomas, A.; Hütten, A.; Reiss, G.; Moodera, J. S.; Münzenberg, M. (2009): Spin polarization in half-metals probed by femtosecond spin excitation &lt;em&gt;NATURE MATERIALS&lt;/em&gt;,8:(1): 56-61.</wels>
+<default>Müller GM, Walowski J, Djordjevic M, Miao G-X, Gupta A, Ramos AV, Gehrke K, Moshnyaga V, Samwer K, Schmalhorst J-M, Thomas A, et al. (2009) &lt;br /&gt;NATURE MATERIALS 8(1): 56-61.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1636305</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:08:02Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-02-04T13:58:00Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1636305</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1636305</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

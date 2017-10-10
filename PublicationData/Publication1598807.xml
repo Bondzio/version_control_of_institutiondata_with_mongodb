@@ -1,0 +1,136 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Beyond Mfold: recent advances in RNA bioinformatics</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Jens</namePart>
+  <namePart type="family">Reeder</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Matthias</namePart>
+  <namePart type="family">Höchsmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Marc</namePart>
+  <namePart type="family">Rehmsmeier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11601931</identifier></name>
+<name type="personal">
+  <namePart type="given">Björn</namePart>
+  <namePart type="family">Voss</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Robert</namePart>
+  <namePart type="family">Giegerich</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">147565</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Graduate Center</namePart>
+  <identifier type="unibi">16941123</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group R. Giegerich</namePart>
+  <identifier type="unibi">33067120</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Praktische Informatik</namePart>
+  <identifier type="unibi">10039</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Computational analysis of RNA secondary structure is a classical field of biosequence analysis, which has recently gained momentum due to the manyfold regulatory functions of RNA that have become apparent. We present five recent computational approaches that address the problems of synoptic folding space analysis, pseudoknot prediction, structure alignment, comparative structure prediction, and miRNA target prediction. All these programs are in current use and are available via the Bielefeld Bioinformatics Server at http://bibiserv.techfak.uni-bielefeld.de. (c) 2006 Elsevier B.V. All rights reserved.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>consensus structure prediction</topic><topic>RNA interference</topic><topic>structure comparison</topic><topic>RNA</topic><topic>miRNA target prediction</topic><topic>RNA pseudoknots</topic><topic>RNA secondary structure</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF BIOTECHNOLOGY</title></titleInfo>
+  <identifier type="issn">0168-1656</identifier>
+  <identifier type="MEDLINE">16530285</identifier>
+  <identifier type="ISI">000238620900005</identifier><identifier type="doi">10.1016/j.jbiotec.2006.01.034</identifier>
+<part><detail type="volume"><number>124</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">41-55</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>J. Reeder, et al., “Beyond Mfold: recent advances in RNA bioinformatics”, &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, vol. 124, ELSEVIER SCIENCE BV, 2006,  pp.41-55.</ieee>
+<mla>Reeder, Jens, Höchsmann, Matthias, Rehmsmeier, Marc, Voss, Björn, and Giegerich, Robert. “Beyond Mfold: recent advances in RNA bioinformatics”. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;. ELSEVIER SCIENCE BV, 2006.Vol. 124. 41-55.</mla>
+<lncs>Reeder, J., Höchsmann, M., Rehmsmeier, M., Voss, B., Giegerich, R.: Beyond Mfold: recent advances in RNA bioinformatics. JOURNAL OF BIOTECHNOLOGY. 124, p. 41-55. ELSEVIER SCIENCE BV (2006).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Reeder, J., Höchsmann, M., Rehmsmeier, M., Voss, B., &amp;amp; Giegerich, R. (2006). Beyond Mfold: recent advances in RNA bioinformatics. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;124&lt;/em&gt;(1), 41-55.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>J.  Reeder, M.  Höchsmann, M.  Rehmsmeier, B.  Voss, and R.  Giegerich, in &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, Elsevier Science Bv, &lt;strong&gt;2006&lt;/strong&gt;, p. 41-55.</angewandte-chemie>
+<apa>Reeder, J., Höchsmann, M., Rehmsmeier, M., Voss, B., &amp;amp; Giegerich, R. (2006). Beyond Mfold: recent advances in RNA bioinformatics. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;124&lt;/em&gt;(1), 41-55.</apa>
+<frontiers>Reeder, J., Höchsmann, M., Rehmsmeier, M., Voss, B., and Giegerich, R. (2006). “Beyond Mfold: recent advances in RNA bioinformatics” in &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, vol. 124, (ELSEVIER SCIENCE BV), 41-55.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Reeder, Jens, Höchsmann, Matthias, Rehmsmeier, Marc, Voss, Björn, and Giegerich, Robert. 2006. “Beyond Mfold: recent advances in RNA bioinformatics”. In &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, 124:41-55. ELSEVIER SCIENCE BV.&lt;/div&gt;</chicago>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Reeder, J., Höchsmann, M., Rehmsmeier, M., Voss, B. &amp;amp; Giegerich, R. (2006). Beyond Mfold: recent advances in RNA bioinformatics. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt; (S. 41-55). ELSEVIER SCIENCE BV. doi:10.1016/j.jbiotec.2006.01.034.&lt;/div&gt;</dgps>
+<ama>Reeder J, Höchsmann M, Rehmsmeier M, Voss B, Giegerich R. Beyond Mfold: recent advances in RNA bioinformatics. In:  &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;. Vol 124. ELSEVIER SCIENCE BV;  2006: 41-55.</ama>
+<harvard1>Reeder, J., et al., 2006. Beyond Mfold: recent advances in RNA bioinformatics. In &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;. no.124  ELSEVIER SCIENCE BV, pp. 41-55.</harvard1>
+<bio1>Reeder J, Höchsmann M, Rehmsmeier M, Voss B, Giegerich R (2006) &lt;br /&gt;Beyond Mfold: recent advances in RNA bioinformatics. &lt;br /&gt;In:  JOURNAL OF BIOTECHNOLOGY. 124. ELSEVIER SCIENCE BV:  41-55.</bio1>
+<aps>J.  Reeder, et al., Beyond Mfold: recent advances in RNA bioinformatics, in &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;strong&gt;124&lt;/strong&gt; (ELSEVIER SCIENCE BV, 2006), p. 41-55.</aps>
+<wels>Reeder, J.; Höchsmann, M.; Rehmsmeier, M.; Voss, B.; Giegerich, R. (2006): Beyond Mfold: recent advances in RNA bioinformatics. In: JOURNAL OF BIOTECHNOLOGY. ELSEVIER SCIENCE BV. (124).  S. 41-55.</wels>
+<default>Reeder J, Höchsmann M, Rehmsmeier M, Voss B, Giegerich R (2006)  &lt;br /&gt;In:  JOURNAL OF BIOTECHNOLOGY. 124. ELSEVIER SCIENCE BV:  41-55.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1598807</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:19:35Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-10-06T14:13:51Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1598807</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1598807</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

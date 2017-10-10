@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Finite temperature QCD</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Jürgen</namePart>
+  <namePart type="family">Engels</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40338</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">K.</namePart><namePart type="family">Bleuler</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">A review of finite temperature lattice calculations for quantum chromodynamics is given. We show how the thermodynamic quantities can be evaluated by Monte Carlo methods, once finite temperature field theory has been formulated on a lattice. The existing results for chemical potential zero and in quenched approximation are discussed. They exhibit a clear first order transition for SU(3) lattice QCD and probably a second order transition for SU(2) lattice QCD. The chiral and deconfinement transitions are coinciding in the quenched approximation.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="engels_022.pdf">https://pub.uni-bielefeld.de/download/1776304/2312138</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Springer</publisher><dateIssued encoding="w3cdtf">1984</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Quarks and Nuclear Structure: Proceedings of the 3rd Klaus Erkelenz Symposium held at Bad Honnef, June 13–16,1983</title></titleInfo>
+  <identifier type="isbn">978-3-540-12922-6</identifier>
+  <identifier type="ISI">A1984SV64800003</identifier><identifier type="urn">urn:nbn:de:0070-pub-17763047</identifier><identifier type="doi">10.1007/3-540-12922-7_179</identifier>
+<part><extent unit="pages">39-56</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, Jürgen. 1984. “Finite temperature QCD”. In &lt;em&gt;Quarks and Nuclear Structure: Proceedings of the 3rd Klaus Erkelenz Symposium held at Bad Honnef, June 13–16,1983&lt;/em&gt;, ed. K. Bleuler, 39-56. Lecture Notes in Physics, 197. Berlin [u.a.]: Springer.&lt;/div&gt;</chicago>
+<frontiers>Engels, J. (1984). “Finite temperature QCD” in &lt;em&gt;Quarks and Nuclear Structure: Proceedings of the 3rd Klaus Erkelenz Symposium held at Bad Honnef, June 13–16,1983&lt;/em&gt;, ed. K.  Bleuler Lecture Notes in Physics, 197 (Berlin [u.a.]: Springer), 39-56.</frontiers>
+<apa>Engels, J. (1984). Finite temperature QCD. In K.  Bleuler (Ed.), &lt;em&gt;Lecture Notes in Physics, 197&lt;/em&gt;&lt;em&gt;. Quarks and Nuclear Structure: Proceedings of the 3rd Klaus Erkelenz Symposium held at Bad Honnef, June 13–16,1983&lt;/em&gt; (pp. 39-56). Berlin [u.a.]: Springer.</apa>
+<angewandte-chemie>J.  Engels, in &lt;em&gt;Quarks and Nuclear Structure: Proceedings of the 3rd Klaus Erkelenz Symposium held at Bad Honnef, June 13–16,1983&lt;/em&gt; (Ed.: K. Bleuler), Springer, Berlin [u.a.], &lt;strong&gt;1984&lt;/strong&gt;, p. 39-56.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, J. (1984). Finite temperature QCD. In K.  Bleuler (Ed.), &lt;em&gt;Lecture Notes in Physics, 197&lt;/em&gt;&lt;em&gt;. Quarks and Nuclear Structure: Proceedings of the 3rd Klaus Erkelenz Symposium held at Bad Honnef, June 13–16,1983&lt;/em&gt; (pp. 39-56). Berlin [u.a.]: Springer.&lt;/div&gt;</apa_indent>
+<mla>Engels, Jürgen. “Finite temperature QCD”. &lt;em&gt;Quarks and Nuclear Structure: Proceedings of the 3rd Klaus Erkelenz Symposium held at Bad Honnef, June 13–16,1983&lt;/em&gt;. Ed. K. Bleuler. Berlin [u.a.]: Springer, 1984. Lecture Notes in Physics, 197. 39-56.</mla>
+<lncs>Engels, J.: Finite temperature QCD. In: Bleuler, K. (ed.) Quarks and Nuclear Structure: Proceedings of the 3rd Klaus Erkelenz Symposium held at Bad Honnef, June 13–16,1983. Lecture Notes in Physics, 197. p. 39-56. Springer, Berlin [u.a.] (1984).</lncs>
+<ieee>J. Engels, “Finite temperature QCD”, &lt;em&gt;Quarks and Nuclear Structure: Proceedings of the 3rd Klaus Erkelenz Symposium held at Bad Honnef, June 13–16,1983&lt;/em&gt;, K. Bleuler, ed., Lecture Notes in Physics, 197,  Berlin [u.a.]: Springer, 1984,  pp.39-56.</ieee>
+<default>Engels J (1984)  &lt;br /&gt;In:  Quarks and Nuclear Structure: Proceedings of the 3rd Klaus Erkelenz Symposium held at Bad Honnef, June 13–16,1983. Bleuler K (Ed); Lecture Notes in Physics, 197, . Berlin [u.a.]: Springer:  39-56.</default>
+<wels>Engels, J. (1984): Finite temperature QCD. In: K. Bleuler (Hrsg.):  Quarks and Nuclear Structure: Proceedings of the 3rd Klaus Erkelenz Symposium held at Bad Honnef, June 13–16,1983. Berlin [u.a.]: Springer. (Lecture Notes in Physics, 197, ).  S. 39-56.</wels>
+<aps>J.  Engels, Finite temperature QCD, in &lt;em&gt;Quarks and Nuclear Structure: Proceedings of the 3rd Klaus Erkelenz Symposium held at Bad Honnef, June 13–16,1983&lt;/em&gt;, edited by K.  Bleuler, Lecture Notes in Physics, 197 (Springer, Berlin [U.a.], 1984), p. 39-56.</aps>
+<bio1>Engels J (1984) &lt;br /&gt;Finite temperature QCD. &lt;br /&gt;In:  Quarks and Nuclear Structure: Proceedings of the 3rd Klaus Erkelenz Symposium held at Bad Honnef, June 13–16,1983. Bleuler K (Ed); Lecture Notes in Physics, 197,  Berlin [u.a.]: Springer:  39-56.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, J. (1984). Finite temperature QCD (Lecture Notes in Physics, 197). &lt;em&gt;Quarks and Nuclear Structure: Proceedings of the 3rd Klaus Erkelenz Symposium held at Bad Honnef, June 13–16,1983&lt;/em&gt; (S. 39-56). Berlin [u.a.]: Springer. doi:10.1007/3-540-12922-7_179.&lt;/div&gt;</dgps>
+<harvard1>Engels, J., 1984. Finite temperature QCD. In K.  Bleuler, ed. &lt;em&gt;Quarks and Nuclear Structure: Proceedings of the 3rd Klaus Erkelenz Symposium held at Bad Honnef, June 13–16,1983&lt;/em&gt;. Lecture Notes in Physics, 197.  Berlin [u.a.]: Springer, pp. 39-56.</harvard1>
+<ama>Engels J. Finite temperature QCD. In: Bleuler K, ed. &lt;em&gt;Quarks and Nuclear Structure: Proceedings of the 3rd Klaus Erkelenz Symposium held at Bad Honnef, June 13–16,1983&lt;/em&gt;. Lecture Notes in Physics, 197. Berlin [u.a.]: Springer;  1984: 39-56.</ama>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776304</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776304</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776304</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

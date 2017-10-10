@@ -1,0 +1,88 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>thesis</genre>
+
+<titleInfo><title>Die Sozialstruktur eines Bürobetriebes</title></titleInfo>
+
+
+
+
+
+<name type="personal">
+  <namePart type="given">Hansjürgen</namePart>
+  <namePart type="family">Daheim</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">13185</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Emeriti und pensionierte WissenschaftlerInnen</namePart>
+  <identifier type="unibi">4009911</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><dateIssued encoding="w3cdtf">1957</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host">
+<part><extent unit="pages">300</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Daheim, H. (1957): Die Sozialstruktur eines Bürobetriebes. Köln.</wels>
+<default>Daheim H (1957) &lt;br /&gt;Köln.</default>
+<harvard1>Daheim, H., 1957. &lt;em&gt;Die Sozialstruktur eines Bürobetriebes&lt;/em&gt;, Köln.</harvard1>
+<ama>Daheim H. &lt;em&gt;Die Sozialstruktur eines Bürobetriebes&lt;/em&gt;. Köln; 1957.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Daheim, H. (1957). &lt;em&gt;Die Sozialstruktur eines Bürobetriebes&lt;/em&gt;. Köln.&lt;/div&gt;</dgps>
+<bio1>Daheim H (1957) &lt;br /&gt;&lt;em&gt;Die Sozialstruktur eines Bürobetriebes&lt;/em&gt;.&lt;br /&gt;Köln.</bio1>
+<aps>H.  Daheim, Die Sozialstruktur eines Bürobetriebes, (Köln, 1957).</aps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Daheim, Hansjürgen. 1957. &lt;em&gt;Die Sozialstruktur eines Bürobetriebes&lt;/em&gt;. Köln.&lt;/div&gt;</chicago>
+<apa>Daheim, H. (1957).  &lt;em&gt;Die Sozialstruktur eines Bürobetriebes&lt;/em&gt;. Köln.</apa>
+<angewandte-chemie>H.  Daheim, &lt;em&gt;Die Sozialstruktur eines Bürobetriebes&lt;/em&gt;, Köln, &lt;strong&gt;1957&lt;/strong&gt;.</angewandte-chemie>
+<frontiers>Daheim, H. (1957). Die Sozialstruktur eines Bürobetriebes. Köln.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Daheim, H. (1957).  &lt;em&gt;Die Sozialstruktur eines Bürobetriebes&lt;/em&gt;. Köln.&lt;/div&gt;</apa_indent>
+<ieee>H. Daheim, &lt;em&gt;Die Sozialstruktur eines Bürobetriebes&lt;/em&gt;,  Köln: 1957.</ieee>
+<mla>Daheim, Hansjürgen. &lt;em&gt;Die Sozialstruktur eines Bürobetriebes&lt;/em&gt;. Köln, 1957.</mla>
+<lncs>Daheim, H.: Die Sozialstruktur eines Bürobetriebes. Köln (1957).</lncs>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1915101</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-11-15T14:26:37Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-11-17T15:56:02Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1915101</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1915101</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,105 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Mechanism of laser-induced double ionization of helium</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Becker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Farhard</namePart>
+  <namePart type="family">Faisal</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40255</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Theoretische Atom-, Molekül- und Laserphysik</namePart>
+  <identifier type="unibi">23470672</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">In a series of recent experiments anomalously large probabilities of laser-induced double ionization of the He atom have been observed. In this letter we analyse the clearest observation of this phenomenon, over a signal range of many orders of magnitude, by Walker et al. The analysis is carried out using a newly developed intense-field many-body S-matrix theory. For the first time good agreement between the experimental data and a theory is found. It is shown that the dominant mechanism behind the observed large probability of laser-induced double escape is a quantum mechanical process of absorption of photon energy by one of the electrons which is shared cooperatively with the other electron through the Coulomb correlation; quantitatively it turns out to be one of the largest effects of electron-electron correlation known in atomic physics.</abstract>
+
+<originInfo><publisher>IOP PUBLISHING LTD</publisher><dateIssued encoding="w3cdtf">1996</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS</title></titleInfo>
+  <identifier type="issn">0953-4075</identifier>
+  <identifier type="eIssn">1361-6455</identifier>
+  <identifier type="ISI">A1996UD88000005</identifier><identifier type="doi">10.1088/0953-4075/29/6/005</identifier>
+<part><detail type="volume"><number>29</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">L197-L202</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<mla>Becker, A, and Faisal, Farhard. “Mechanism of laser-induced double ionization of helium”. &lt;em&gt;JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS&lt;/em&gt; 29.6 (1996): L197-L202.</mla>
+<lncs>Becker, A., Faisal, F.: Mechanism of laser-induced double ionization of helium. JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS. 29, L197-L202 (1996).</lncs>
+<ieee>A. Becker and F. Faisal, “Mechanism of laser-induced double ionization of helium”, &lt;em&gt;JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS&lt;/em&gt;,  vol. 29, 1996,  pp. L197-L202.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Becker, A., &amp;amp; Faisal, F. (1996). Mechanism of laser-induced double ionization of helium. &lt;em&gt;JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS&lt;/em&gt;, &lt;em&gt;29&lt;/em&gt;(6), L197-L202.&lt;/div&gt;</apa_indent>
+<frontiers>Becker, A., and Faisal, F. (1996). Mechanism of laser-induced double ionization of helium. &lt;em&gt;JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS&lt;/em&gt; 29, L197-L202.</frontiers>
+<apa>Becker, A., &amp;amp; Faisal, F. (1996). Mechanism of laser-induced double ionization of helium. &lt;em&gt;JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS&lt;/em&gt;, &lt;em&gt;29&lt;/em&gt;(6), L197-L202.</apa>
+<angewandte-chemie>A.  Becker, and F.  Faisal, “Mechanism of laser-induced double ionization of helium”, &lt;em&gt;JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS&lt;/em&gt;, &lt;strong&gt;1996&lt;/strong&gt;, &lt;em&gt;29&lt;/em&gt;, L197-L202.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Becker, A, and Faisal, Farhard. 1996. “Mechanism of laser-induced double ionization of helium”. &lt;em&gt;JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS&lt;/em&gt; 29 (6): L197-L202.&lt;/div&gt;</chicago>
+<bio1>Becker A, Faisal F (1996) &lt;br /&gt;Mechanism of laser-induced double ionization of helium.&lt;br /&gt;JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS 29(6): L197-L202.</bio1>
+<aps>A.  Becker and F.  Faisal, Mechanism of laser-induced double ionization of helium, JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS &lt;strong&gt;29&lt;/strong&gt;, L197-L202 (1996).</aps>
+<harvard1>Becker, A., &amp;amp; Faisal, F., 1996. Mechanism of laser-induced double ionization of helium. &lt;em&gt;JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS&lt;/em&gt;, 29(6), p L197-L202.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Becker, A. &amp;amp; Faisal, F. (1996). Mechanism of laser-induced double ionization of helium. &lt;em&gt;JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS&lt;/em&gt;, &lt;em&gt;29&lt;/em&gt;(6), L197-L202. IOP PUBLISHING LTD. doi:10.1088/0953-4075/29/6/005.&lt;/div&gt;</dgps>
+<ama>Becker A, Faisal F. Mechanism of laser-induced double ionization of helium. &lt;em&gt;JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS&lt;/em&gt;. 1996;29(6):L197-L202.</ama>
+<default>Becker A, Faisal F (1996) &lt;br /&gt;JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS 29(6): L197-L202.</default>
+<wels>Becker, A.; Faisal, F. (1996): Mechanism of laser-induced double ionization of helium &lt;em&gt;JOURNAL OF PHYSICS B-ATOMIC MOLECULAR AND OPTICAL PHYSICS&lt;/em&gt;,29:(6): L197-L202.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1639583</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:15:18Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-11-04T10:04:09Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1639583</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1639583</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

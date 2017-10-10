@@ -1,0 +1,107 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>SU(3) gauge theory with adjoint fermions</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Frithjof</namePart>
+  <namePart type="family">Karsch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40326</identifier></name>
+<name type="personal">
+  <namePart type="given">H</namePart>
+  <namePart type="family">Lutgemeier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We analyze the finite temperature phase diagram of QCD with fermions in the adjoint representation. The simulations performed with four dynamical Majorana fermions, which is equivalent to two Dirac fermions, show that the deconfinement and chiral phase transitions occur at two distinct temperature, T-chiral similar or equal to 6.65T(deconf) While the deconfinement transition is first order we find evidence for a continuous chiral transition. We also present potentials for T &lt; T-deconf and T-deconf &lt; T &lt; T-chiral both for fundamental and adjoint fermion-antifermion pairs.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">1999</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS</title></titleInfo>
+  <identifier type="issn">0920-5632</identifier>
+  <identifier type="arXiv">hep-lat/9809056</identifier>
+  <identifier type="INSPIRE">476094</identifier>
+  <identifier type="ISI">000080821000098</identifier><identifier type="doi">10.1016/S0920-5632(99)85099-3</identifier>
+<part><detail type="volume"><number>73</number></detail><extent unit="pages">444-446</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>Karsch F, Lutgemeier H (1999) &lt;br /&gt;SU(3) gauge theory with adjoint fermions. &lt;br /&gt;In:  NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS. 73. ELSEVIER SCIENCE BV:  444-446.</bio1>
+<aps>F.  Karsch and H.  Lutgemeier, SU(3) gauge theory with adjoint fermions, in &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt;, &lt;strong&gt;73&lt;/strong&gt; (ELSEVIER SCIENCE BV, 1999), p. 444-446.</aps>
+<harvard1>Karsch, F., &amp;amp; Lutgemeier, H., 1999. SU(3) gauge theory with adjoint fermions. In &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt;. no.73  ELSEVIER SCIENCE BV, pp. 444-446.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Karsch, F. &amp;amp; Lutgemeier, H. (1999). SU(3) gauge theory with adjoint fermions. &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt; (S. 444-446). ELSEVIER SCIENCE BV. doi:10.1016/S0920-5632(99)85099-3.&lt;/div&gt;</dgps>
+<ama>Karsch F, Lutgemeier H. SU(3) gauge theory with adjoint fermions. In:  &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt;. Vol 73. ELSEVIER SCIENCE BV;  1999: 444-446.</ama>
+<default>Karsch F, Lutgemeier H (1999)  &lt;br /&gt;In:  NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS. 73. ELSEVIER SCIENCE BV:  444-446.</default>
+<wels>Karsch, F.; Lutgemeier, H. (1999): SU(3) gauge theory with adjoint fermions. In: NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS. ELSEVIER SCIENCE BV. (73).  S. 444-446.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Karsch, F., &amp;amp; Lutgemeier, H. (1999). SU(3) gauge theory with adjoint fermions. &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt;, &lt;em&gt;73&lt;/em&gt;, 444-446.&lt;/div&gt;</apa_indent>
+<lncs>Karsch, F., Lutgemeier, H.: SU(3) gauge theory with adjoint fermions. NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS. 73, p. 444-446. ELSEVIER SCIENCE BV (1999).</lncs>
+<mla>Karsch, Frithjof, and Lutgemeier, H. “SU(3) gauge theory with adjoint fermions”. &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt;. ELSEVIER SCIENCE BV, 1999.Vol. 73. 444-446.</mla>
+<ieee>F. Karsch and H. Lutgemeier, “SU(3) gauge theory with adjoint fermions”, &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt;, vol. 73, ELSEVIER SCIENCE BV, 1999,  pp.444-446.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Karsch, Frithjof, and Lutgemeier, H. 1999. “SU(3) gauge theory with adjoint fermions”. In &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt;, 73:444-446. ELSEVIER SCIENCE BV.&lt;/div&gt;</chicago>
+<frontiers>Karsch, F., and Lutgemeier, H. (1999). “SU(3) gauge theory with adjoint fermions” in &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt;, vol. 73, (ELSEVIER SCIENCE BV), 444-446.</frontiers>
+<angewandte-chemie>F.  Karsch, and H.  Lutgemeier, in &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt;, Elsevier Science Bv, &lt;strong&gt;1999&lt;/strong&gt;, p. 444-446.</angewandte-chemie>
+<apa>Karsch, F., &amp;amp; Lutgemeier, H. (1999). SU(3) gauge theory with adjoint fermions. &lt;em&gt;NUCLEAR PHYSICS B-PROCEEDINGS SUPPLEMENTS&lt;/em&gt;, &lt;em&gt;73&lt;/em&gt;, 444-446.</apa>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1622790</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:05:50Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-14T13:02:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1622790</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1622790</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

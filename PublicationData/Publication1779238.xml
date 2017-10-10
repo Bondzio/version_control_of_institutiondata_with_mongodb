@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Fachspezifische und fächerübergreifende Curricula und Curriculumprojekte: Sport</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Klaus</namePart>
+  <namePart type="family">Bergner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Dietrich</namePart>
+  <namePart type="family">Kurz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">120538</identifier></name>
+<name type="personal">
+  <namePart type="given">Bero</namePart>
+  <namePart type="family">Rigauer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Karl</namePart><namePart type="family">Frey</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Arbeitsbereich IV - Sport und Erziehung</namePart>
+  <identifier type="unibi">28978161</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Kurz_044.pdf">https://pub.uni-bielefeld.de/download/1779238/2312611</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Piper</publisher><dateIssued encoding="w3cdtf">1975</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Curriculum-Handbuch</title></titleInfo>
+  <identifier type="isbn">3-492-02163-8</identifier><identifier type="urn">urn:nbn:de:0070-bipr-17864</identifier>
+<part><detail type="volume"><number>vol. 3</number></detail><extent unit="pages">520-529</extent>
+</part>
+</relatedItem>
+
+<note type="nonBielefeld">yes</note>
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bergner, K., Kurz, D., &amp;amp; Rigauer, B. (1975). Fachspezifische und fächerübergreifende Curricula und Curriculumprojekte: Sport. In K.  Frey (Ed.), &lt;em&gt;Curriculum-Handbuch&lt;/em&gt; (Vol. vol. 3, pp. 520-529). München [u.a.]: Piper.&lt;/div&gt;</apa_indent>
+<ieee>K. Bergner, D. Kurz, and B. Rigauer, “Fachspezifische und fächerübergreifende Curricula und Curriculumprojekte: Sport”, &lt;em&gt;Curriculum-Handbuch&lt;/em&gt;, K. Frey, ed., vol. vol. 3,  München [u.a.]: Piper, 1975,  pp.520-529.</ieee>
+<lncs>Bergner, K., Kurz, D., Rigauer, B.: Fachspezifische und fächerübergreifende Curricula und Curriculumprojekte: Sport. In: Frey, K. (ed.) Curriculum-Handbuch. vol. 3, p. 520-529. Piper, München [u.a.] (1975).</lncs>
+<mla>Bergner, Klaus, Kurz, Dietrich, and Rigauer, Bero. “Fachspezifische und fächerübergreifende Curricula und Curriculumprojekte: Sport”. &lt;em&gt;Curriculum-Handbuch&lt;/em&gt;. Ed. Karl Frey. München [u.a.]: Piper, 1975.Vol. vol. 3. 520-529.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bergner, Klaus, Kurz, Dietrich, and Rigauer, Bero. 1975. “Fachspezifische und fächerübergreifende Curricula und Curriculumprojekte: Sport”. In &lt;em&gt;Curriculum-Handbuch&lt;/em&gt;, ed. Karl Frey, vol. 3:520-529. München [u.a.]: Piper.&lt;/div&gt;</chicago>
+<apa>Bergner, K., Kurz, D., &amp;amp; Rigauer, B. (1975). Fachspezifische und fächerübergreifende Curricula und Curriculumprojekte: Sport. In K.  Frey (Ed.), &lt;em&gt;Curriculum-Handbuch&lt;/em&gt; (Vol. vol. 3, pp. 520-529). München [u.a.]: Piper.</apa>
+<angewandte-chemie>K.  Bergner, D.  Kurz, and B.  Rigauer, in &lt;em&gt;Curriculum-Handbuch&lt;/em&gt; (Ed.: K. Frey), Piper, München [u.a.], &lt;strong&gt;1975&lt;/strong&gt;, p. 520-529.</angewandte-chemie>
+<frontiers>Bergner, K., Kurz, D., and Rigauer, B. (1975). “Fachspezifische und fächerübergreifende Curricula und Curriculumprojekte: Sport” in &lt;em&gt;Curriculum-Handbuch&lt;/em&gt;, ed. K.  Frey, vol. vol. 3, (München [u.a.]: Piper), 520-529.</frontiers>
+<ama>Bergner K, Kurz D, Rigauer B. Fachspezifische und fächerübergreifende Curricula und Curriculumprojekte: Sport. In: Frey K, ed. &lt;em&gt;Curriculum-Handbuch&lt;/em&gt;. Vol vol. 3. München [u.a.]: Piper;  1975: 520-529.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bergner, K., Kurz, D. &amp;amp; Rigauer, B. (1975). Fachspezifische und fächerübergreifende Curricula und Curriculumprojekte: Sport. &lt;em&gt;Curriculum-Handbuch&lt;/em&gt; (S. 520-529). München [u.a.]: Piper.&lt;/div&gt;</dgps>
+<harvard1>Bergner, K., Kurz, D., &amp;amp; Rigauer, B., 1975. Fachspezifische und fächerübergreifende Curricula und Curriculumprojekte: Sport. In K.  Frey, ed. &lt;em&gt;Curriculum-Handbuch&lt;/em&gt;. no.vol. 3  München [u.a.]: Piper, pp. 520-529.</harvard1>
+<bio1>Bergner K, Kurz D, Rigauer B (1975) &lt;br /&gt;Fachspezifische und fächerübergreifende Curricula und Curriculumprojekte: Sport. &lt;br /&gt;In:  Curriculum-Handbuch. Frey K (Ed);vol. 3. München [u.a.]: Piper:  520-529.</bio1>
+<aps>K.  Bergner, D.  Kurz, and B.  Rigauer, Fachspezifische und fächerübergreifende Curricula und Curriculumprojekte: Sport, in &lt;em&gt;Curriculum-Handbuch&lt;/em&gt;, edited by K.  Frey, &lt;strong&gt;vol. 3&lt;/strong&gt; (Piper, München [U.a.], 1975), p. 520-529.</aps>
+<wels>Bergner, K.; Kurz, D.; Rigauer, B. (1975): Fachspezifische und fächerübergreifende Curricula und Curriculumprojekte: Sport. In: Karl Frey (Hrsg.):  Curriculum-Handbuch. München [u.a.]: Piper. (vol. 3).  S. 520-529.</wels>
+<default>Bergner K, Kurz D, Rigauer B (1975)  &lt;br /&gt;In:  Curriculum-Handbuch. Frey K (Ed);vol. 3. München [u.a.]: Piper:  520-529.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1779238</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-06-15T13:53:39Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1779238</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1779238</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

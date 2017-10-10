@@ -1,0 +1,134 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Stable transformation of the gram-positive phytopathogenic bacterium Clavibacter michiganensis subsp sepedonicus with several cloning vectors</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">MJ</namePart>
+  <namePart type="family">Laine</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">H</namePart>
+  <namePart type="family">Nakhei</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jens</namePart>
+  <namePart type="family">Dreier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">16280916</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-1337-7750</description></name>
+<name type="personal">
+  <namePart type="given">K</namePart>
+  <namePart type="family">Lehtila</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">D</namePart>
+  <namePart type="family">Meletzus</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Rudolf</namePart>
+  <namePart type="family">Eichenlaub</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21927</identifier></name>
+<name type="personal">
+  <namePart type="given">MC</namePart>
+  <namePart type="family">Metzler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2685250</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10018</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">In this paper we describe transformation of Clavibacter michiganensis subsp, sepedonicus, the potato ring rat bacterium, with plasmid vectors, Three of the plasmids used, pDM100, pDM302, and pDM306, contain the origin of replication from pCM1, a native plasmid of C. michiganensis subsp, michiganensis, We constructed two new cloning vectors, pHN205 and pHN216, by using the origin of replication of pCM2, another native plasmid of C. michiganensis subsp, michiganensis. Plasmids pDM302, pHN205, and pHN216 were stably maintained without antibiotic selection in various strains of C. michiganensis subsp, sepedonicus. We observed that for a single plasmid, different strains of C, michiganensis subsp, sepedonicus showed significantly different transformation efficiencies, We also found unexplained strain-to-strain differences in stability,vith various plasmid constructions containing different arrangements of antibiotic resistance genes and origins of replication, We examined the effect of a number of factors on transformation efficiency. The best transformation efficiencies were obtained when C, michiganensis subsp, sepedonicus cells were grown on DM agar plates, harvested during the early exponential growth phase, and used fresh (without freezing) for electroporation. The maximal transformation efficiency obtained was 4.5 x 10(4) CFU/mu g of pHN216 plasmid DNA. To demonstrate the utility of this transformation system, we cloned a beta-1,4-endoglucanase-encoding gene from C. michiganensis subsp. sepedonicus into pHN216. When this construction, pHN216:C8, was electroporated into competent cells of a cellulase-deficient mutant, it restored cellulase production to almost wild-type levels.</abstract>
+
+<originInfo><publisher>AMER SOC MICROBIOLOGY</publisher><dateIssued encoding="w3cdtf">1996</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>APPLIED AND ENVIRONMENTAL MICROBIOLOGY</title></titleInfo>
+  <identifier type="issn">0099-2240</identifier>
+  <identifier type="MEDLINE">8633849</identifier>
+  <identifier type="ISI">A1996UJ22800002</identifier>
+<part><detail type="volume"><number>62</number></detail><detail type="issue"><number>5</number></detail><extent unit="pages">1500-1506</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Laine, M. J., Nakhei, H., Dreier, J., Lehtila, K., Meletzus, D., Eichenlaub, R., &amp;amp; Metzler, M. C. (1996). Stable transformation of the gram-positive phytopathogenic bacterium Clavibacter michiganensis subsp sepedonicus with several cloning vectors. &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt;, &lt;em&gt;62&lt;/em&gt;(5), 1500-1506.&lt;/div&gt;</apa_indent>
+<mla>Laine, MJ, Nakhei, H, Dreier, Jens, Lehtila, K, Meletzus, D, Eichenlaub, Rudolf, and Metzler, MC. “Stable transformation of the gram-positive phytopathogenic bacterium Clavibacter michiganensis subsp sepedonicus with several cloning vectors”. &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt; 62.5 (1996): 1500-1506.</mla>
+<lncs> Laine, M.J., Nakhei, H., Dreier, J., Lehtila, K., Meletzus, D., Eichenlaub, R., Metzler, M.C.: Stable transformation of the gram-positive phytopathogenic bacterium Clavibacter michiganensis subsp sepedonicus with several cloning vectors. APPLIED AND ENVIRONMENTAL MICROBIOLOGY. 62, 1500-1506 (1996).</lncs>
+<ieee> M.J. Laine, et al., “Stable transformation of the gram-positive phytopathogenic bacterium Clavibacter michiganensis subsp sepedonicus with several cloning vectors”, &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt;,  vol. 62, 1996,  pp. 1500-1506.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Laine, MJ, Nakhei, H, Dreier, Jens, Lehtila, K, Meletzus, D, Eichenlaub, Rudolf, and Metzler, MC. 1996. “Stable transformation of the gram-positive phytopathogenic bacterium Clavibacter michiganensis subsp sepedonicus with several cloning vectors”. &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt; 62 (5): 1500-1506.&lt;/div&gt;</chicago>
+<frontiers>Laine, M. J., Nakhei, H., Dreier, J., Lehtila, K., Meletzus, D., Eichenlaub, R., and Metzler, M. C. (1996). Stable transformation of the gram-positive phytopathogenic bacterium Clavibacter michiganensis subsp sepedonicus with several cloning vectors. &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt; 62, 1500-1506.</frontiers>
+<angewandte-chemie>M. J.  Laine, H.  Nakhei, J.  Dreier, K.  Lehtila, D.  Meletzus, R.  Eichenlaub, and M. C.  Metzler, “Stable transformation of the gram-positive phytopathogenic bacterium Clavibacter michiganensis subsp sepedonicus with several cloning vectors”, &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt;, &lt;strong&gt;1996&lt;/strong&gt;, &lt;em&gt;62&lt;/em&gt;, 1500-1506.</angewandte-chemie>
+<apa>Laine, M. J., Nakhei, H., Dreier, J., Lehtila, K., Meletzus, D., Eichenlaub, R., &amp;amp; Metzler, M. C. (1996). Stable transformation of the gram-positive phytopathogenic bacterium Clavibacter michiganensis subsp sepedonicus with several cloning vectors. &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt;, &lt;em&gt;62&lt;/em&gt;(5), 1500-1506.</apa>
+<aps> M. J.  Laine, et al., Stable transformation of the gram-positive phytopathogenic bacterium Clavibacter michiganensis subsp sepedonicus with several cloning vectors, APPLIED AND ENVIRONMENTAL MICROBIOLOGY &lt;strong&gt;62&lt;/strong&gt;, 1500-1506 (1996).</aps>
+<bio1>Laine MJ, Nakhei H, Dreier J, Lehtila K, Meletzus D, Eichenlaub R, Metzler MC (1996) &lt;br /&gt;Stable transformation of the gram-positive phytopathogenic bacterium Clavibacter michiganensis subsp sepedonicus with several cloning vectors.&lt;br /&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY 62(5): 1500-1506.</bio1>
+<ama>Laine MJ, Nakhei H, Dreier J, et al. Stable transformation of the gram-positive phytopathogenic bacterium Clavibacter michiganensis subsp sepedonicus with several cloning vectors. &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt;. 1996;62(5):1500-1506.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Laine, M.J., Nakhei, H., Dreier, J., Lehtila, K., Meletzus, D., Eichenlaub, R. &amp;amp; Metzler, M.C. (1996). Stable transformation of the gram-positive phytopathogenic bacterium Clavibacter michiganensis subsp sepedonicus with several cloning vectors. &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt;, &lt;em&gt;62&lt;/em&gt;(5), 1500-1506. AMER SOC MICROBIOLOGY.&lt;/div&gt;</dgps>
+<harvard1>Laine, M.J., et al., 1996. Stable transformation of the gram-positive phytopathogenic bacterium Clavibacter michiganensis subsp sepedonicus with several cloning vectors. &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt;, 62(5), p 1500-1506.</harvard1>
+<default>Laine MJ, Nakhei H, Dreier J, Lehtila K, Meletzus D, Eichenlaub R, Metzler MC (1996) &lt;br /&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY 62(5): 1500-1506.</default>
+<wels>Laine, M. J.; Nakhei, H.; Dreier, J.; Lehtila, K.; Meletzus, D.; Eichenlaub, R.; Metzler, M. C. (1996): Stable transformation of the gram-positive phytopathogenic bacterium Clavibacter michiganensis subsp sepedonicus with several cloning vectors &lt;em&gt;APPLIED AND ENVIRONMENTAL MICROBIOLOGY&lt;/em&gt;,62:(5): 1500-1506.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1639452</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:15:14Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-09-14T08:35:31Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1639452</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1639452</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

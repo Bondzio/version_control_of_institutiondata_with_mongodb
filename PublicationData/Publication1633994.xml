@@ -1,0 +1,95 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The Smallest &quot;Aurophilic Species&quot;</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Raphael</namePart>
+  <namePart type="family">Berger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">6344204</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-4314-6558</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Anorganische Chemie und Strukturchemie</namePart>
+  <identifier type="unibi">17966</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The existence of the C-2v symmetric closed-shell di[gold(1)]hydronium cation [Au2H](+) (1), is predicted. It is shown that I is the smallest possible molecular species containing aurophilic contacts. Equilibrium structural parameters, vibrational frequencies and formation energies of I from Au+ and AuH, have been calculated, employing a series of highly correlated but available standard relativistic ab initio methods up to CCSD(T) level of theory and all-electron basis sets of quadruple-zeta quality with double polarizations. Relativistic effects have been taken into account by employing pseudorelativistic electron core potentials (ECP) or a scalar relativistic treatment using a Douglas-Kroll-Hess Hamiltonian of 2nd, 3rd and 4th order (DKH2, DKH3, DKH4).</abstract>
+
+<originInfo><publisher>VERLAG Z NATURFORSCH</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Au(I)-Au(I) Interaction</topic><topic>Gold Hydride</topic><topic>Quantum Chemical Calculation</topic><topic>Metallophilic Interaction</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>ZEITSCHRIFT FUR NATURFORSCHUNG SECTION B-A JOURNAL OF CHEMICAL SCIENCES</title></titleInfo>
+  <identifier type="issn">0932-0776</identifier>
+  <identifier type="ISI">000265634500005</identifier>
+<part><detail type="volume"><number>64</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">388-394</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Berger, R. (2009). The Smallest &quot;Aurophilic Species&quot;. &lt;em&gt;ZEITSCHRIFT FUR NATURFORSCHUNG SECTION B-A JOURNAL OF CHEMICAL SCIENCES&lt;/em&gt;, &lt;em&gt;64&lt;/em&gt;(4), 388-394.&lt;/div&gt;</apa_indent>
+<mla>Berger, Raphael. “The Smallest &quot;Aurophilic Species&quot;”. &lt;em&gt;ZEITSCHRIFT FUR NATURFORSCHUNG SECTION B-A JOURNAL OF CHEMICAL SCIENCES&lt;/em&gt; 64.4 (2009): 388-394.</mla>
+<lncs>Berger, R.: The Smallest &quot;Aurophilic Species&quot;. ZEITSCHRIFT FUR NATURFORSCHUNG SECTION B-A JOURNAL OF CHEMICAL SCIENCES. 64, 388-394 (2009).</lncs>
+<ieee>R. Berger, “The Smallest &quot;Aurophilic Species&quot;”, &lt;em&gt;ZEITSCHRIFT FUR NATURFORSCHUNG SECTION B-A JOURNAL OF CHEMICAL SCIENCES&lt;/em&gt;,  vol. 64, 2009,  pp. 388-394.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Berger, Raphael. 2009. “The Smallest &quot;Aurophilic Species&quot;”. &lt;em&gt;ZEITSCHRIFT FUR NATURFORSCHUNG SECTION B-A JOURNAL OF CHEMICAL SCIENCES&lt;/em&gt; 64 (4): 388-394.&lt;/div&gt;</chicago>
+<frontiers>Berger, R. (2009). The Smallest &quot;Aurophilic Species&quot;. &lt;em&gt;ZEITSCHRIFT FUR NATURFORSCHUNG SECTION B-A JOURNAL OF CHEMICAL SCIENCES&lt;/em&gt; 64, 388-394.</frontiers>
+<angewandte-chemie>R.  Berger, “The Smallest &quot;Aurophilic Species&quot;”, &lt;em&gt;ZEITSCHRIFT FUR NATURFORSCHUNG SECTION B-A JOURNAL OF CHEMICAL SCIENCES&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;64&lt;/em&gt;, 388-394.</angewandte-chemie>
+<apa>Berger, R. (2009). The Smallest &quot;Aurophilic Species&quot;. &lt;em&gt;ZEITSCHRIFT FUR NATURFORSCHUNG SECTION B-A JOURNAL OF CHEMICAL SCIENCES&lt;/em&gt;, &lt;em&gt;64&lt;/em&gt;(4), 388-394.</apa>
+<aps>R.  Berger, The Smallest &quot;Aurophilic Species&quot;, ZEITSCHRIFT FUR NATURFORSCHUNG SECTION B-A JOURNAL OF CHEMICAL SCIENCES &lt;strong&gt;64&lt;/strong&gt;, 388-394 (2009).</aps>
+<bio1>Berger R (2009) &lt;br /&gt;The Smallest &quot;Aurophilic Species&quot;.&lt;br /&gt;ZEITSCHRIFT FUR NATURFORSCHUNG SECTION B-A JOURNAL OF CHEMICAL SCIENCES 64(4): 388-394.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Berger, R. (2009). The Smallest &quot;Aurophilic Species&quot;. &lt;em&gt;ZEITSCHRIFT FUR NATURFORSCHUNG SECTION B-A JOURNAL OF CHEMICAL SCIENCES&lt;/em&gt;, &lt;em&gt;64&lt;/em&gt;(4), 388-394. VERLAG Z NATURFORSCH.&lt;/div&gt;</dgps>
+<harvard1>Berger, R., 2009. The Smallest &quot;Aurophilic Species&quot;. &lt;em&gt;ZEITSCHRIFT FUR NATURFORSCHUNG SECTION B-A JOURNAL OF CHEMICAL SCIENCES&lt;/em&gt;, 64(4), p 388-394.</harvard1>
+<ama>Berger R. The Smallest &quot;Aurophilic Species&quot;. &lt;em&gt;ZEITSCHRIFT FUR NATURFORSCHUNG SECTION B-A JOURNAL OF CHEMICAL SCIENCES&lt;/em&gt;. 2009;64(4):388-394.</ama>
+<default>Berger R (2009) &lt;br /&gt;ZEITSCHRIFT FUR NATURFORSCHUNG SECTION B-A JOURNAL OF CHEMICAL SCIENCES 64(4): 388-394.</default>
+<wels>Berger, R. (2009): The Smallest &quot;Aurophilic Species&quot; &lt;em&gt;ZEITSCHRIFT FUR NATURFORSCHUNG SECTION B-A JOURNAL OF CHEMICAL SCIENCES&lt;/em&gt;,64:(4): 388-394.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1633994</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:04Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-12-08T15:29:48Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1633994</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1633994</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

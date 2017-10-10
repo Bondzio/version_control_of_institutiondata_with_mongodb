@@ -1,0 +1,105 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>On the convergence of asynchronous paracontractions with application to tomographic reconstruction from incomplete data</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ludwig</namePart>
+  <namePart type="family">Elsner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10509</identifier></name>
+<name type="personal">
+  <namePart type="given">Israel</namePart>
+  <namePart type="family">Koltracht</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Michael</namePart>
+  <namePart type="family">Neumann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Elsner_051.pdf">https://pub.uni-bielefeld.de/download/1780824/2313043</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1990</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Linear algebra and its applications</title></titleInfo>
+  <identifier type="issn">0024-3795</identifier>
+  <identifier type="ISI">A1990DJ36000005</identifier><identifier type="urn">urn:nbn:de:0070-pub-17808245</identifier><identifier type="doi">10.1016/0024-3795(90)90206-R</identifier>
+<part><detail type="volume"><number>130</number></detail><extent unit="pages">65-82</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<angewandte-chemie>L.  Elsner, I.  Koltracht, and M.  Neumann, “On the convergence of asynchronous paracontractions with application to tomographic reconstruction from incomplete data”, &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, &lt;strong&gt;1990&lt;/strong&gt;, &lt;em&gt;130&lt;/em&gt;, 65-82.</angewandte-chemie>
+<apa>Elsner, L., Koltracht, I., &amp;amp; Neumann, M. (1990). On the convergence of asynchronous paracontractions with application to tomographic reconstruction from incomplete data. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, &lt;em&gt;130&lt;/em&gt;, 65-82.</apa>
+<frontiers>Elsner, L., Koltracht, I., and Neumann, M. (1990). On the convergence of asynchronous paracontractions with application to tomographic reconstruction from incomplete data. &lt;em&gt;Linear algebra and its applications&lt;/em&gt; 130, 65-82.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Elsner, Ludwig, Koltracht, Israel, and Neumann, Michael. 1990. “On the convergence of asynchronous paracontractions with application to tomographic reconstruction from incomplete data”. &lt;em&gt;Linear algebra and its applications&lt;/em&gt; 130: 65-82.&lt;/div&gt;</chicago>
+<ieee>L. Elsner, I. Koltracht, and M. Neumann, “On the convergence of asynchronous paracontractions with application to tomographic reconstruction from incomplete data”, &lt;em&gt;Linear algebra and its applications&lt;/em&gt;,  vol. 130, 1990,  pp. 65-82.</ieee>
+<mla>Elsner, Ludwig, Koltracht, Israel, and Neumann, Michael. “On the convergence of asynchronous paracontractions with application to tomographic reconstruction from incomplete data”. &lt;em&gt;Linear algebra and its applications&lt;/em&gt; 130 (1990): 65-82.</mla>
+<lncs>Elsner, L., Koltracht, I., Neumann, M.: On the convergence of asynchronous paracontractions with application to tomographic reconstruction from incomplete data. Linear algebra and its applications. 130, 65-82 (1990).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Elsner, L., Koltracht, I., &amp;amp; Neumann, M. (1990). On the convergence of asynchronous paracontractions with application to tomographic reconstruction from incomplete data. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, &lt;em&gt;130&lt;/em&gt;, 65-82.&lt;/div&gt;</apa_indent>
+<wels>Elsner, L.; Koltracht, I.; Neumann, M. (1990): On the convergence of asynchronous paracontractions with application to tomographic reconstruction from incomplete data &lt;em&gt;Linear algebra and its applications&lt;/em&gt;,130: 65-82.</wels>
+<default>Elsner L, Koltracht I, Neumann M (1990) &lt;br /&gt;Linear algebra and its applications 130: 65-82.</default>
+<ama>Elsner L, Koltracht I, Neumann M. On the convergence of asynchronous paracontractions with application to tomographic reconstruction from incomplete data. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;. 1990;130:65-82.</ama>
+<harvard1>Elsner, L., Koltracht, I., &amp;amp; Neumann, M., 1990. On the convergence of asynchronous paracontractions with application to tomographic reconstruction from incomplete data. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, 130, p 65-82.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Elsner, L., Koltracht, I. &amp;amp; Neumann, M. (1990). On the convergence of asynchronous paracontractions with application to tomographic reconstruction from incomplete data. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, &lt;em&gt;130&lt;/em&gt;, 65-82. doi:10.1016/0024-3795(90)90206-R.&lt;/div&gt;</dgps>
+<bio1>Elsner L, Koltracht I, Neumann M (1990) &lt;br /&gt;On the convergence of asynchronous paracontractions with application to tomographic reconstruction from incomplete data.&lt;br /&gt;Linear algebra and its applications 130: 65-82.</bio1>
+<aps>L.  Elsner, I.  Koltracht, and M.  Neumann, On the convergence of asynchronous paracontractions with application to tomographic reconstruction from incomplete data, Linear algebra and its applications &lt;strong&gt;130&lt;/strong&gt;, 65-82 (1990).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780824</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780824</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780824</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

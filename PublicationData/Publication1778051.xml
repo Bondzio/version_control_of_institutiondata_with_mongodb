@@ -1,0 +1,107 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Measurements of rotational energy transfer and quenching in OH A 2[Sigma]+, v&apos;=0 at elevated temperature</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">M. P.</namePart>
+  <namePart type="family">Lee</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">R.</namePart>
+  <namePart type="family">Kienle</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Katharina</namePart>
+  <namePart type="family">Kohse-Höinghaus</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20770</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Physikalische Chemie I</namePart>
+  <identifier type="unibi">17978</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Total rotational energy transfer rates have been measured at 1330 K for specific rotational levels in the OH A 2[Sigma]+, v&apos;=0 state in collisions with H 20. Rotational levels ranging from N&apos;=0 to 15 were studied. Measurements were performed in the post-flame region of a stoichiometric H2/O2/He flame operating at 25 mbar. Quenching rates following excitation of individual upper rotational states were also measured. The RET and quenching rates both exhibit monotonic decreases with increasing rotational quantum number.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Kohse_Hoeinghaus_33.pdf">https://pub.uni-bielefeld.de/download/1778051/2312402</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1994</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Applied Physics B</title></titleInfo>
+  <identifier type="issn">0946-2171</identifier>
+  <identifier type="eIssn">1432-0649</identifier>
+  <identifier type="ISI">A1994NR63900003</identifier><identifier type="urn">urn:nbn:de:0070-pub-17780512</identifier><identifier type="doi">10.1007/BF01081075</identifier>
+<part><detail type="volume"><number>58</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">447-457</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lee, M. P., Kienle, R., &amp;amp; Kohse-Höinghaus, K. (1994). Measurements of rotational energy transfer and quenching in OH A 2[Sigma]+, v&apos;=0 at elevated temperature. &lt;em&gt;Applied Physics B&lt;/em&gt;, &lt;em&gt;58&lt;/em&gt;(6), 447-457.&lt;/div&gt;</apa_indent>
+<ieee>M.P. Lee, R. Kienle, and K. Kohse-Höinghaus, “Measurements of rotational energy transfer and quenching in OH A 2[Sigma]+, v&apos;=0 at elevated temperature”, &lt;em&gt;Applied Physics B&lt;/em&gt;,  vol. 58, 1994,  pp. 447-457.</ieee>
+<mla>Lee, M. P., Kienle, R., and Kohse-Höinghaus, Katharina. “Measurements of rotational energy transfer and quenching in OH A 2[Sigma]+, v&apos;=0 at elevated temperature”. &lt;em&gt;Applied Physics B&lt;/em&gt; 58.6 (1994): 447-457.</mla>
+<lncs>Lee, M.P., Kienle, R., Kohse-Höinghaus, K.: Measurements of rotational energy transfer and quenching in OH A 2[Sigma]+, v&apos;=0 at elevated temperature. Applied Physics B. 58, 447-457 (1994).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lee, M. P., Kienle, R., and Kohse-Höinghaus, Katharina. 1994. “Measurements of rotational energy transfer and quenching in OH A 2[Sigma]+, v&apos;=0 at elevated temperature”. &lt;em&gt;Applied Physics B&lt;/em&gt; 58 (6): 447-457.&lt;/div&gt;</chicago>
+<apa>Lee, M. P., Kienle, R., &amp;amp; Kohse-Höinghaus, K. (1994). Measurements of rotational energy transfer and quenching in OH A 2[Sigma]+, v&apos;=0 at elevated temperature. &lt;em&gt;Applied Physics B&lt;/em&gt;, &lt;em&gt;58&lt;/em&gt;(6), 447-457.</apa>
+<angewandte-chemie>M. P.  Lee, R.  Kienle, and K.  Kohse-Höinghaus, “Measurements of rotational energy transfer and quenching in OH A 2[Sigma]+, v&apos;=0 at elevated temperature”, &lt;em&gt;Applied Physics B&lt;/em&gt;, &lt;strong&gt;1994&lt;/strong&gt;, &lt;em&gt;58&lt;/em&gt;, 447-457.</angewandte-chemie>
+<frontiers>Lee, M. P., Kienle, R., and Kohse-Höinghaus, K. (1994). Measurements of rotational energy transfer and quenching in OH A 2[Sigma]+, v&apos;=0 at elevated temperature. &lt;em&gt;Applied Physics B&lt;/em&gt; 58, 447-457.</frontiers>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Lee, M.P., Kienle, R. &amp;amp; Kohse-Höinghaus, K. (1994). Measurements of rotational energy transfer and quenching in OH A 2[Sigma]+, v&apos;=0 at elevated temperature. &lt;em&gt;Applied Physics B&lt;/em&gt;, &lt;em&gt;58&lt;/em&gt;(6), 447-457. doi:10.1007/BF01081075.&lt;/div&gt;</dgps>
+<ama>Lee MP, Kienle R, Kohse-Höinghaus K. Measurements of rotational energy transfer and quenching in OH A 2[Sigma]+, v&apos;=0 at elevated temperature. &lt;em&gt;Applied Physics B&lt;/em&gt;. 1994;58(6):447-457.</ama>
+<harvard1>Lee, M.P., Kienle, R., &amp;amp; Kohse-Höinghaus, K., 1994. Measurements of rotational energy transfer and quenching in OH A 2[Sigma]+, v&apos;=0 at elevated temperature. &lt;em&gt;Applied Physics B&lt;/em&gt;, 58(6), p 447-457.</harvard1>
+<bio1>Lee MP, Kienle R, Kohse-Höinghaus K (1994) &lt;br /&gt;Measurements of rotational energy transfer and quenching in OH A 2[Sigma]+, v&apos;=0 at elevated temperature.&lt;br /&gt;Applied Physics B 58(6): 447-457.</bio1>
+<aps>M. P.  Lee, R.  Kienle, and K.  Kohse-Höinghaus, Measurements of rotational energy transfer and quenching in OH A 2[Sigma]+, v&apos;=0 at elevated temperature, Applied Physics B &lt;strong&gt;58&lt;/strong&gt;, 447-457 (1994).</aps>
+<wels>Lee, M. P.; Kienle, R.; Kohse-Höinghaus, K. (1994): Measurements of rotational energy transfer and quenching in OH A 2[Sigma]+, v&apos;=0 at elevated temperature &lt;em&gt;Applied Physics B&lt;/em&gt;,58:(6): 447-457.</wels>
+<default>Lee MP, Kienle R, Kohse-Höinghaus K (1994) &lt;br /&gt;Applied Physics B 58(6): 447-457.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1778051</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1778051</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1778051</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

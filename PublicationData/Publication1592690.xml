@@ -1,0 +1,101 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Stacked Laplace-EM algorithm for duration models with time-varying and random effects</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Göran</namePart>
+  <namePart type="family">Kauermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">91009</identifier></name>
+<name type="personal">
+  <namePart type="given">Ronghui</namePart>
+  <namePart type="family">Xu</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Florin</namePart>
+  <namePart type="family">Vaida</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Wirtschaftswissenschaften</namePart>
+  <identifier type="unibi">10031</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">An extension of the Cox proportional hazards model for clustered survival data is proposed. This allows both general random effects (frailties) and time-varying regression coefficients, the latter being smooth functions of time. The model is fitted using a mixed-model representation of penalized spline smoothing which offers a unified framework for estimation of the baseline hazard, the smooth effects and the random effects. The estimator is computed using a stacked laplace-EM (SLaEM) algorithm. More specifically, the smoothing parameters are integrated out in the log likelihood via a Laplace approximation. The approximation itself involves an integrated log-likelihood over the random cluster effects, for which the EM algorithm is used. A marginal Akaike information criterion is developed for selection among possible candidate models. The time-varying and mixed effects model is applied to unemployment data taken from the German Socio-Economic Panel. The duration of unemployment is modeled in a flexible way including smooth covariate effects and individual random effects. (c) 2007 Elsevier B.V. All rights reserved.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>COMPUTATIONAL STATISTICS &amp; DATA ANALYSIS</title></titleInfo>
+  <identifier type="issn">0167-9473</identifier>
+  <identifier type="ISI">000253178600017</identifier><identifier type="doi">10.1016/j.csda.2007.08.010</identifier>
+<part><detail type="volume"><number>52</number></detail><detail type="issue"><number>5</number></detail><extent unit="pages">2514-2528</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Kauermann G, Xu R, Vaida F. Stacked Laplace-EM algorithm for duration models with time-varying and random effects. &lt;em&gt;COMPUTATIONAL STATISTICS &amp;amp; DATA ANALYSIS&lt;/em&gt;. 2008;52(5):2514-2528.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kauermann, G., Xu, R. &amp;amp; Vaida, F. (2008). Stacked Laplace-EM algorithm for duration models with time-varying and random effects. &lt;em&gt;COMPUTATIONAL STATISTICS &amp;amp; DATA ANALYSIS&lt;/em&gt;, &lt;em&gt;52&lt;/em&gt;(5), 2514-2528. ELSEVIER SCIENCE BV. doi:10.1016/j.csda.2007.08.010.&lt;/div&gt;</dgps>
+<harvard1>Kauermann, G., Xu, R., &amp;amp; Vaida, F., 2008. Stacked Laplace-EM algorithm for duration models with time-varying and random effects. &lt;em&gt;COMPUTATIONAL STATISTICS &amp;amp; DATA ANALYSIS&lt;/em&gt;, 52(5), p 2514-2528.</harvard1>
+<aps>G.  Kauermann, R.  Xu, and F.  Vaida, Stacked Laplace-EM algorithm for duration models with time-varying and random effects, COMPUTATIONAL STATISTICS &amp;amp; DATA ANALYSIS &lt;strong&gt;52&lt;/strong&gt;, 2514-2528 (2008).</aps>
+<bio1>Kauermann G, Xu R, Vaida F (2008) &lt;br /&gt;Stacked Laplace-EM algorithm for duration models with time-varying and random effects.&lt;br /&gt;COMPUTATIONAL STATISTICS &amp;amp; DATA ANALYSIS 52(5): 2514-2528.</bio1>
+<wels>Kauermann, G.; Xu, R.; Vaida, F. (2008): Stacked Laplace-EM algorithm for duration models with time-varying and random effects &lt;em&gt;COMPUTATIONAL STATISTICS &amp;amp; DATA ANALYSIS&lt;/em&gt;,52:(5): 2514-2528.</wels>
+<default>Kauermann G, Xu R, Vaida F (2008) &lt;br /&gt;COMPUTATIONAL STATISTICS &amp;amp; DATA ANALYSIS 52(5): 2514-2528.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kauermann, G., Xu, R., &amp;amp; Vaida, F. (2008). Stacked Laplace-EM algorithm for duration models with time-varying and random effects. &lt;em&gt;COMPUTATIONAL STATISTICS &amp;amp; DATA ANALYSIS&lt;/em&gt;, &lt;em&gt;52&lt;/em&gt;(5), 2514-2528.&lt;/div&gt;</apa_indent>
+<ieee>G. Kauermann, R. Xu, and F. Vaida, “Stacked Laplace-EM algorithm for duration models with time-varying and random effects”, &lt;em&gt;COMPUTATIONAL STATISTICS &amp;amp; DATA ANALYSIS&lt;/em&gt;,  vol. 52, 2008,  pp. 2514-2528.</ieee>
+<mla>Kauermann, Göran, Xu, Ronghui, and Vaida, Florin. “Stacked Laplace-EM algorithm for duration models with time-varying and random effects”. &lt;em&gt;COMPUTATIONAL STATISTICS &amp;amp; DATA ANALYSIS&lt;/em&gt; 52.5 (2008): 2514-2528.</mla>
+<lncs>Kauermann, G., Xu, R., Vaida, F.: Stacked Laplace-EM algorithm for duration models with time-varying and random effects. COMPUTATIONAL STATISTICS &amp;amp; DATA ANALYSIS. 52, 2514-2528 (2008).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kauermann, Göran, Xu, Ronghui, and Vaida, Florin. 2008. “Stacked Laplace-EM algorithm for duration models with time-varying and random effects”. &lt;em&gt;COMPUTATIONAL STATISTICS &amp;amp; DATA ANALYSIS&lt;/em&gt; 52 (5): 2514-2528.&lt;/div&gt;</chicago>
+<apa>Kauermann, G., Xu, R., &amp;amp; Vaida, F. (2008). Stacked Laplace-EM algorithm for duration models with time-varying and random effects. &lt;em&gt;COMPUTATIONAL STATISTICS &amp;amp; DATA ANALYSIS&lt;/em&gt;, &lt;em&gt;52&lt;/em&gt;(5), 2514-2528.</apa>
+<angewandte-chemie>G.  Kauermann, R.  Xu, and F.  Vaida, “Stacked Laplace-EM algorithm for duration models with time-varying and random effects”, &lt;em&gt;COMPUTATIONAL STATISTICS &amp;amp; DATA ANALYSIS&lt;/em&gt;, &lt;strong&gt;2008&lt;/strong&gt;, &lt;em&gt;52&lt;/em&gt;, 2514-2528.</angewandte-chemie>
+<frontiers>Kauermann, G., Xu, R., and Vaida, F. (2008). Stacked Laplace-EM algorithm for duration models with time-varying and random effects. &lt;em&gt;COMPUTATIONAL STATISTICS &amp;amp; DATA ANALYSIS&lt;/em&gt; 52, 2514-2528.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1592690</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T11:50:47Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-05T11:13:20Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1592690</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1592690</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

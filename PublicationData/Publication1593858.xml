@@ -1,0 +1,114 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Logic based on magnetic tunnel junctions</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Günter</namePart>
+  <namePart type="family">Reiss</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40207</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-0918-5940</description></name>
+<name type="personal">
+  <namePart type="given">D.</namePart>
+  <namePart type="family">Meyners</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Biophysik und Nanowissenschaften</namePart>
+  <identifier type="unibi">2161137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Dünne Schichten &amp; Physik der Nanostrukturen</namePart>
+  <identifier type="unibi">28536538</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  G. Reiss</namePart>
+  <identifier type="unibi">33079602</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Logic gate arrays are electronic devices delivering an output voltage which is a function of one, two or more input voltages. Usually, such circuits are made from CMOS subdevices ( transistors) which provide an output function defined by the layout of the device. Thus such logic gate arrays are not programmable after the production and, moreover, they are volatile because inputs and output lose the information after power shutdown. Here, we describe the use of magnetic tunnel junctions for the preparation of alternative logic gate arrays. These devices are nonvolatile, i.e. keep the inputs and output after power shutdown, and they are field programmable, i.e. the output function can be defined even &apos;on the fly&apos; during the operation. Potential drawbacks such as scalability and reproducibility will be addressed and possible solutions for these problems will be discussed.</abstract>
+
+<originInfo><publisher>IOP PUBLISHING LTD</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF PHYSICS-CONDENSED MATTER</title></titleInfo>
+  <identifier type="issn">0953-8984</identifier>
+  <identifier type="eIssn">1361-648X</identifier>
+  <identifier type="ISI">000246552000021</identifier><identifier type="doi">10.1088/0953-8984/19/16/165220</identifier>
+<part><detail type="volume"><number>19</number></detail><detail type="issue"><number>16</number></detail><extent unit="pages">165220</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa>Reiss, G., &amp;amp; Meyners, D. (2007). Logic based on magnetic tunnel junctions. &lt;em&gt;JOURNAL OF PHYSICS-CONDENSED MATTER&lt;/em&gt;, &lt;em&gt;19&lt;/em&gt;(16).</apa>
+<angewandte-chemie>G.  Reiss, and D.  Meyners, “Logic based on magnetic tunnel junctions”, &lt;em&gt;JOURNAL OF PHYSICS-CONDENSED MATTER&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;19&lt;/em&gt;.</angewandte-chemie>
+<frontiers>Reiss, G., and Meyners, D. (2007). Logic based on magnetic tunnel junctions. &lt;em&gt;JOURNAL OF PHYSICS-CONDENSED MATTER&lt;/em&gt; 19.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Reiss, Günter, and Meyners, D. 2007. “Logic based on magnetic tunnel junctions”. &lt;em&gt;JOURNAL OF PHYSICS-CONDENSED MATTER&lt;/em&gt; 19 (16).&lt;/div&gt;</chicago>
+<ieee>G. Reiss and D. Meyners, “Logic based on magnetic tunnel junctions”, &lt;em&gt;JOURNAL OF PHYSICS-CONDENSED MATTER&lt;/em&gt;,  vol. 19, 2007.</ieee>
+<mla>Reiss, Günter, and Meyners, D. “Logic based on magnetic tunnel junctions”. &lt;em&gt;JOURNAL OF PHYSICS-CONDENSED MATTER&lt;/em&gt; 19.16 (2007).</mla>
+<lncs>Reiss, G., Meyners, D.: Logic based on magnetic tunnel junctions. JOURNAL OF PHYSICS-CONDENSED MATTER. 19, (2007).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Reiss, G., &amp;amp; Meyners, D. (2007). Logic based on magnetic tunnel junctions. &lt;em&gt;JOURNAL OF PHYSICS-CONDENSED MATTER&lt;/em&gt;, &lt;em&gt;19&lt;/em&gt;(16).&lt;/div&gt;</apa_indent>
+<wels>Reiss, G.; Meyners, D. (2007): Logic based on magnetic tunnel junctions &lt;em&gt;JOURNAL OF PHYSICS-CONDENSED MATTER&lt;/em&gt;,19:(16)</wels>
+<default>Reiss G, Meyners D (2007) &lt;br /&gt;JOURNAL OF PHYSICS-CONDENSED MATTER 19(16).</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Reiss, G. &amp;amp; Meyners, D. (2007). Logic based on magnetic tunnel junctions. &lt;em&gt;JOURNAL OF PHYSICS-CONDENSED MATTER&lt;/em&gt;, &lt;em&gt;19&lt;/em&gt;(16). IOP PUBLISHING LTD. doi:10.1088/0953-8984/19/16/165220.&lt;/div&gt;</dgps>
+<ama>Reiss G, Meyners D. Logic based on magnetic tunnel junctions. &lt;em&gt;JOURNAL OF PHYSICS-CONDENSED MATTER&lt;/em&gt;. 2007;19(16).</ama>
+<harvard1>Reiss, G., &amp;amp; Meyners, D., 2007. Logic based on magnetic tunnel junctions. &lt;em&gt;JOURNAL OF PHYSICS-CONDENSED MATTER&lt;/em&gt;, 19(16).</harvard1>
+<aps>G.  Reiss and D.  Meyners, Logic based on magnetic tunnel junctions, JOURNAL OF PHYSICS-CONDENSED MATTER &lt;strong&gt;19&lt;/strong&gt;, (2007).</aps>
+<bio1>Reiss G, Meyners D (2007) &lt;br /&gt;Logic based on magnetic tunnel junctions.&lt;br /&gt;JOURNAL OF PHYSICS-CONDENSED MATTER 19(16).</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1593858</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:03Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-16T09:52:01Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1593858</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1593858</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

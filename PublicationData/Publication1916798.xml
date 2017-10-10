@@ -1,0 +1,128 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>D64: A corpus of richly recorded conversational interaction</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Catharine</namePart>
+  <namePart type="family">Oertel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Fred</namePart>
+  <namePart type="family">Cummins</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Nick</namePart>
+  <namePart type="family">Campbell</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jens</namePart>
+  <namePart type="family">Edlund</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Petra</namePart>
+  <namePart type="family">Wagner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">9723026</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Center of Excellence - Cognitive Interaction Technology CITEC</namePart>
+  <identifier type="unibi">8014655</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Arbeitsgruppe Phonetik und Phonologie</namePart>
+  <identifier type="unibi">18015556</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+<name type="conference">
+  <namePart>LREC 2010</namePart>
+</name>
+
+
+
+
+
+
+<abstract lang="eng">Rich non-intrusive recording of a naturalistic conversation was conducted in a domestic setting. Four (sometimes ﬁve) participants engaged in lively conversation over two 4-hour sessions on two successive days. Conversation was not directed, and ranged widely over
+topics both trivial and technical. The entire conversation, on both days, was richly recorded using 7 video cameras, 10 audio microphones, and the registration of 3-D head, torso and arm motion using an Optitrack system. To add liveliness to the conversation, several bottles of wine were consumed during the ﬁnal two hours of recording. The resulting corpus will be of immediate interest to all researchers
+interested in studying naturalistic, ethologically situated, conversational interaction.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="lrec10_oertel_etal.pdf">https://pub.uni-bielefeld.de/download/1916798/2348626</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">2010</dateIssued><place><placeTerm type="text">Malta</placeTerm></place>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Proceedings of LREC 2010, Workshop on Multimodal Corpora: Advances in Capturing, Coding and Analyzing Multimodality</title></titleInfo>
+  <identifier type="ISI">000316062300003</identifier><identifier type="urn">urn:nbn:de:0070-pub-19167982</identifier><identifier type="doi">10.1007/s12193-012-0108-6</identifier>
+<part>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Oertel C, Cummins F, Campbell N, Edlund J, Wagner P. D64: A corpus of richly recorded conversational interaction. In:  &lt;em&gt;Proceedings of LREC 2010, Workshop on Multimodal Corpora: Advances in Capturing, Coding and Analyzing Multimodality&lt;/em&gt;. Valetta, Malta;  2010.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Oertel, C., Cummins, F., Campbell, N., Edlund, J. &amp;amp; Wagner, P. (2010). D64: A corpus of richly recorded conversational interaction. &lt;em&gt;Proceedings of LREC 2010, Workshop on Multimodal Corpora: Advances in Capturing, Coding and Analyzing Multimodality&lt;/em&gt;. Gehalten auf der LREC 2010, Valetta, Malta. doi:10.1007/s12193-012-0108-6.&lt;/div&gt;</dgps>
+<harvard1>Oertel, C., et al., 2010. D64: A corpus of richly recorded conversational interaction. In &lt;em&gt;Proceedings of LREC 2010, Workshop on Multimodal Corpora: Advances in Capturing, Coding and Analyzing Multimodality&lt;/em&gt;.  Valetta, Malta.</harvard1>
+<bio1>Oertel C, Cummins F, Campbell N, Edlund J, Wagner P (2010) &lt;br /&gt;D64: A corpus of richly recorded conversational interaction. &lt;br /&gt;In:  Proceedings of LREC 2010, Workshop on Multimodal Corpora: Advances in Capturing, Coding and Analyzing Multimodality.  Valetta, Malta.</bio1>
+<aps>C.  Oertel, et al., D64: A corpus of richly recorded conversational interaction, in &lt;em&gt;Proceedings of LREC 2010, Workshop on Multimodal Corpora: Advances in Capturing, Coding and Analyzing Multimodality&lt;/em&gt; (Valetta, Malta, 2010).</aps>
+<wels>Oertel, C.; Cummins, F.; Campbell, N.; Edlund, J.; Wagner, P. (2010): D64: A corpus of richly recorded conversational interaction. In: Proceedings of LREC 2010, Workshop on Multimodal Corpora: Advances in Capturing, Coding and Analyzing Multimodality. Valetta, Malta.</wels>
+<default>Oertel C, Cummins F, Campbell N, Edlund J, Wagner P (2010)  &lt;br /&gt;In:  Proceedings of LREC 2010, Workshop on Multimodal Corpora: Advances in Capturing, Coding and Analyzing Multimodality. Valetta, Malta.</default>
+<ieee>C. Oertel, et al., “D64: A corpus of richly recorded conversational interaction”, &lt;em&gt;Proceedings of LREC 2010, Workshop on Multimodal Corpora: Advances in Capturing, Coding and Analyzing Multimodality&lt;/em&gt;,  Valetta, Malta: 2010.</ieee>
+<lncs>Oertel, C., Cummins, F., Campbell, N., Edlund, J., Wagner, P.: D64: A corpus of richly recorded conversational interaction. Proceedings of LREC 2010, Workshop on Multimodal Corpora: Advances in Capturing, Coding and Analyzing Multimodality.  Valetta, Malta (2010).</lncs>
+<mla>Oertel, Catharine, Cummins, Fred, Campbell, Nick, Edlund, Jens, and Wagner, Petra. “D64: A corpus of richly recorded conversational interaction”. &lt;em&gt;Proceedings of LREC 2010, Workshop on Multimodal Corpora: Advances in Capturing, Coding and Analyzing Multimodality&lt;/em&gt;. Valetta, Malta, 2010.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Oertel, C., Cummins, F., Campbell, N., Edlund, J., &amp;amp; Wagner, P. (2010). D64: A corpus of richly recorded conversational interaction. &lt;em&gt;Proceedings of LREC 2010, Workshop on Multimodal Corpora: Advances in Capturing, Coding and Analyzing Multimodality&lt;/em&gt;.&lt;/div&gt;</apa_indent>
+<apa>Oertel, C., Cummins, F., Campbell, N., Edlund, J., &amp;amp; Wagner, P. (2010). D64: A corpus of richly recorded conversational interaction. &lt;em&gt;Proceedings of LREC 2010, Workshop on Multimodal Corpora: Advances in Capturing, Coding and Analyzing Multimodality&lt;/em&gt;.</apa>
+<angewandte-chemie>C.  Oertel, F.  Cummins, N.  Campbell, J.  Edlund, and P.  Wagner, in &lt;em&gt;Proceedings of LREC 2010, Workshop on Multimodal Corpora: Advances in Capturing, Coding and Analyzing Multimodality&lt;/em&gt;, Valetta, Malta, &lt;strong&gt;2010&lt;/strong&gt;.</angewandte-chemie>
+<frontiers>Oertel, C., Cummins, F., Campbell, N., Edlund, J., and Wagner, P. (2010). “D64: A corpus of richly recorded conversational interaction” in &lt;em&gt;Proceedings of LREC 2010, Workshop on Multimodal Corpora: Advances in Capturing, Coding and Analyzing Multimodality&lt;/em&gt; (Valetta, Malta).</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Oertel, Catharine, Cummins, Fred, Campbell, Nick, Edlund, Jens, and Wagner, Petra. 2010. “D64: A corpus of richly recorded conversational interaction”. In &lt;em&gt;Proceedings of LREC 2010, Workshop on Multimodal Corpora: Advances in Capturing, Coding and Analyzing Multimodality&lt;/em&gt;. Valetta, Malta.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1916798</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-11-16T10:41:06Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2013-11-20T12:18:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1916798</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1916798</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>The Formation and Reactions of Distonic Amine Ion Isomers</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Thomas</namePart>
+  <namePart type="family">Bjoernholm</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Steen</namePart>
+  <namePart type="family">Hammerum</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Dietmar</namePart>
+  <namePart type="family">Kuck</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20254</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">J. F. J.</namePart><namePart type="family">Todd</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Organische Chemie I</namePart>
+  <identifier type="unibi">17975</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Kuck_18.pdf">https://pub.uni-bielefeld.de/download/1776808/2312249</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Elsevier</publisher><dateIssued encoding="w3cdtf">1986</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Proceedings of the 10th International Mass Spectrometry Conference: Swansea, 9-13 Sept., 1985</title></titleInfo>
+  <identifier type="isbn">0-471-90925-4</identifier><identifier type="urn">urn:nbn:de:0070-bipr-13160</identifier>
+<part><extent unit="pages">787-788</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bjoernholm, Thomas, Hammerum, Steen, and Kuck, Dietmar. 1986. “The Formation and Reactions of Distonic Amine Ion Isomers”. In &lt;em&gt;Proceedings of the 10th International Mass Spectrometry Conference: Swansea, 9-13 Sept., 1985&lt;/em&gt;, ed. J. F. J. Todd, 787-788. Advances in mass spectrometry ; 10,B. Amsterdam: Elsevier.&lt;/div&gt;</chicago>
+<frontiers>Bjoernholm, T., Hammerum, S., and Kuck, D. (1986). “The Formation and Reactions of Distonic Amine Ion Isomers” in &lt;em&gt;Proceedings of the 10th International Mass Spectrometry Conference: Swansea, 9-13 Sept., 1985&lt;/em&gt;, ed. J. F. J.  Todd Advances in mass spectrometry ; 10,B (Amsterdam: Elsevier), 787-788.</frontiers>
+<angewandte-chemie>T.  Bjoernholm, S.  Hammerum, and D.  Kuck, in &lt;em&gt;Proceedings of the 10th International Mass Spectrometry Conference: Swansea, 9-13 Sept., 1985&lt;/em&gt; (Ed.: J.F.J. Todd), Elsevier, Amsterdam, &lt;strong&gt;1986&lt;/strong&gt;, p. 787-788.</angewandte-chemie>
+<apa>Bjoernholm, T., Hammerum, S., &amp;amp; Kuck, D. (1986). The Formation and Reactions of Distonic Amine Ion Isomers. In J. F. J.  Todd (Ed.), &lt;em&gt;Advances in mass spectrometry ; 10,B&lt;/em&gt;&lt;em&gt;. Proceedings of the 10th International Mass Spectrometry Conference: Swansea, 9-13 Sept., 1985&lt;/em&gt; (pp. 787-788). Amsterdam: Elsevier.</apa>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bjoernholm, T., Hammerum, S., &amp;amp; Kuck, D. (1986). The Formation and Reactions of Distonic Amine Ion Isomers. In J. F. J.  Todd (Ed.), &lt;em&gt;Advances in mass spectrometry ; 10,B&lt;/em&gt;&lt;em&gt;. Proceedings of the 10th International Mass Spectrometry Conference: Swansea, 9-13 Sept., 1985&lt;/em&gt; (pp. 787-788). Amsterdam: Elsevier.&lt;/div&gt;</apa_indent>
+<lncs>Bjoernholm, T., Hammerum, S., Kuck, D.: The Formation and Reactions of Distonic Amine Ion Isomers. In: Todd, J.F.J. (ed.) Proceedings of the 10th International Mass Spectrometry Conference: Swansea, 9-13 Sept., 1985. Advances in mass spectrometry ; 10,B. p. 787-788. Elsevier, Amsterdam (1986).</lncs>
+<mla>Bjoernholm, Thomas, Hammerum, Steen, and Kuck, Dietmar. “The Formation and Reactions of Distonic Amine Ion Isomers”. &lt;em&gt;Proceedings of the 10th International Mass Spectrometry Conference: Swansea, 9-13 Sept., 1985&lt;/em&gt;. Ed. J. F. J. Todd. Amsterdam: Elsevier, 1986. Advances in mass spectrometry ; 10,B. 787-788.</mla>
+<ieee>T. Bjoernholm, S. Hammerum, and D. Kuck, “The Formation and Reactions of Distonic Amine Ion Isomers”, &lt;em&gt;Proceedings of the 10th International Mass Spectrometry Conference: Swansea, 9-13 Sept., 1985&lt;/em&gt;, J.F.J. Todd, ed., Advances in mass spectrometry ; 10,B,  Amsterdam: Elsevier, 1986,  pp.787-788.</ieee>
+<default>Bjoernholm T, Hammerum S, Kuck D (1986)  &lt;br /&gt;In:  Proceedings of the 10th International Mass Spectrometry Conference: Swansea, 9-13 Sept., 1985. Todd JFJ (Ed); Advances in mass spectrometry ; 10,B, . Amsterdam: Elsevier:  787-788.</default>
+<wels>Bjoernholm, T.; Hammerum, S.; Kuck, D. (1986): The Formation and Reactions of Distonic Amine Ion Isomers. In: J. F. J. Todd (Hrsg.):  Proceedings of the 10th International Mass Spectrometry Conference: Swansea, 9-13 Sept., 1985. Amsterdam: Elsevier. (Advances in mass spectrometry ; 10,B, ).  S. 787-788.</wels>
+<bio1>Bjoernholm T, Hammerum S, Kuck D (1986) &lt;br /&gt;The Formation and Reactions of Distonic Amine Ion Isomers. &lt;br /&gt;In:  Proceedings of the 10th International Mass Spectrometry Conference: Swansea, 9-13 Sept., 1985. Todd JFJ (Ed); Advances in mass spectrometry ; 10,B,  Amsterdam: Elsevier:  787-788.</bio1>
+<aps>T.  Bjoernholm, S.  Hammerum, and D.  Kuck, The Formation and Reactions of Distonic Amine Ion Isomers, in &lt;em&gt;Proceedings of the 10th International Mass Spectrometry Conference: Swansea, 9-13 Sept., 1985&lt;/em&gt;, edited by J. F. J.  Todd, Advances in mass spectrometry ; 10,B (Elsevier, Amsterdam, 1986), p. 787-788.</aps>
+<harvard1>Bjoernholm, T., Hammerum, S., &amp;amp; Kuck, D., 1986. The Formation and Reactions of Distonic Amine Ion Isomers. In J. F. J.  Todd, ed. &lt;em&gt;Proceedings of the 10th International Mass Spectrometry Conference: Swansea, 9-13 Sept., 1985&lt;/em&gt;. Advances in mass spectrometry ; 10,B.  Amsterdam: Elsevier, pp. 787-788.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bjoernholm, T., Hammerum, S. &amp;amp; Kuck, D. (1986). The Formation and Reactions of Distonic Amine Ion Isomers (Advances in mass spectrometry ; 10,B). &lt;em&gt;Proceedings of the 10th International Mass Spectrometry Conference: Swansea, 9-13 Sept., 1985&lt;/em&gt; (S. 787-788). Amsterdam: Elsevier.&lt;/div&gt;</dgps>
+<ama>Bjoernholm T, Hammerum S, Kuck D. The Formation and Reactions of Distonic Amine Ion Isomers. In: Todd JFJ, ed. &lt;em&gt;Proceedings of the 10th International Mass Spectrometry Conference: Swansea, 9-13 Sept., 1985&lt;/em&gt;. Advances in mass spectrometry ; 10,B. Amsterdam: Elsevier;  1986: 787-788.</ama>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776808</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776808</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776808</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,108 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>On a generalized matching problem arising in estimating the eigenvalue variation of two matrices</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ludwig</namePart>
+  <namePart type="family">Elsner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10509</identifier></name>
+<name type="personal">
+  <namePart type="given">Charles R.</namePart>
+  <namePart type="family">Johnson</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J. A.</namePart>
+  <namePart type="family">Ross</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J.</namePart>
+  <namePart type="family">Schönheim</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Elsner_031.pdf">https://pub.uni-bielefeld.de/download/1776208/2312107</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1983</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>European Journal of Combinatorics</title></titleInfo>
+  <identifier type="issn">0195-6698</identifier><identifier type="urn">urn:nbn:de:0070-bipr-11504</identifier>
+<part><detail type="volume"><number>4</number></detail><extent unit="pages">133-136</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Elsner L, Johnson CR, Ross JA, Schönheim J (1983) &lt;br /&gt;European Journal of Combinatorics 4: 133-136.</default>
+<wels>Elsner, L.; Johnson, C. R.; Ross, J. A.; Schönheim, J. (1983): On a generalized matching problem arising in estimating the eigenvalue variation of two matrices &lt;em&gt;European Journal of Combinatorics&lt;/em&gt;,4: 133-136.</wels>
+<bio1>Elsner L, Johnson CR, Ross JA, Schönheim J (1983) &lt;br /&gt;On a generalized matching problem arising in estimating the eigenvalue variation of two matrices.&lt;br /&gt;European Journal of Combinatorics 4: 133-136.</bio1>
+<aps>L.  Elsner, et al., On a generalized matching problem arising in estimating the eigenvalue variation of two matrices, European Journal of Combinatorics &lt;strong&gt;4&lt;/strong&gt;, 133-136 (1983).</aps>
+<harvard1>Elsner, L., et al., 1983. On a generalized matching problem arising in estimating the eigenvalue variation of two matrices. &lt;em&gt;European Journal of Combinatorics&lt;/em&gt;, 4, p 133-136.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Elsner, L., Johnson, C.R., Ross, J.A. &amp;amp; Schönheim, J. (1983). On a generalized matching problem arising in estimating the eigenvalue variation of two matrices. &lt;em&gt;European Journal of Combinatorics&lt;/em&gt;, &lt;em&gt;4&lt;/em&gt;, 133-136.&lt;/div&gt;</dgps>
+<ama>Elsner L, Johnson CR, Ross JA, Schönheim J. On a generalized matching problem arising in estimating the eigenvalue variation of two matrices. &lt;em&gt;European Journal of Combinatorics&lt;/em&gt;. 1983;4:133-136.</ama>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Elsner, Ludwig, Johnson, Charles R., Ross, J. A., and Schönheim, J. 1983. “On a generalized matching problem arising in estimating the eigenvalue variation of two matrices”. &lt;em&gt;European Journal of Combinatorics&lt;/em&gt; 4: 133-136.&lt;/div&gt;</chicago>
+<frontiers>Elsner, L., Johnson, C. R., Ross, J. A., and Schönheim, J. (1983). On a generalized matching problem arising in estimating the eigenvalue variation of two matrices. &lt;em&gt;European Journal of Combinatorics&lt;/em&gt; 4, 133-136.</frontiers>
+<apa>Elsner, L., Johnson, C. R., Ross, J. A., &amp;amp; Schönheim, J. (1983). On a generalized matching problem arising in estimating the eigenvalue variation of two matrices. &lt;em&gt;European Journal of Combinatorics&lt;/em&gt;, &lt;em&gt;4&lt;/em&gt;, 133-136.</apa>
+<angewandte-chemie>L.  Elsner, C. R.  Johnson, J. A.  Ross, and J.  Schönheim, “On a generalized matching problem arising in estimating the eigenvalue variation of two matrices”, &lt;em&gt;European Journal of Combinatorics&lt;/em&gt;, &lt;strong&gt;1983&lt;/strong&gt;, &lt;em&gt;4&lt;/em&gt;, 133-136.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Elsner, L., Johnson, C. R., Ross, J. A., &amp;amp; Schönheim, J. (1983). On a generalized matching problem arising in estimating the eigenvalue variation of two matrices. &lt;em&gt;European Journal of Combinatorics&lt;/em&gt;, &lt;em&gt;4&lt;/em&gt;, 133-136.&lt;/div&gt;</apa_indent>
+<lncs>Elsner, L., Johnson, C.R., Ross, J.A., Schönheim, J.: On a generalized matching problem arising in estimating the eigenvalue variation of two matrices. European Journal of Combinatorics. 4, 133-136 (1983).</lncs>
+<mla>Elsner, Ludwig, Johnson, Charles R., Ross, J. A., and Schönheim, J. “On a generalized matching problem arising in estimating the eigenvalue variation of two matrices”. &lt;em&gt;European Journal of Combinatorics&lt;/em&gt; 4 (1983): 133-136.</mla>
+<ieee>L. Elsner, et al., “On a generalized matching problem arising in estimating the eigenvalue variation of two matrices”, &lt;em&gt;European Journal of Combinatorics&lt;/em&gt;,  vol. 4, 1983,  pp. 133-136.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776208</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776208</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776208</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

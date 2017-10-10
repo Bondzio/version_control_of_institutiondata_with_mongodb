@@ -1,0 +1,101 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Reactor performance in the presence of catalyst deactivation</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Erwin</namePart>
+  <namePart type="family">Flaschel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11014</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Technische Fakultät</namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Centrum für Biotechnologie</namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The main variable of enzymatic processes is often found to be the operating temperature. An increase in temperature leads to higher rates for the catalytic transformation. However, beyond a certain temperature catalyst deactivation is winning the game. Therefore, processes should be optimized in order to determine the temperature which leads to a minimal demand of enzyme preparation. For the prediction of such optimal reactor operation, modeling of the temperature dependence of the process has to be performed. Examples of such modeling are given for the hydrolysis of lactose in UHT milk by means of three different beta-galactosidases - those from Aspergillus orvzae, Kluvveromyces lactis, and Escherichia coli. The reaction kinetics for a constant initial lactose concentration can be described by a model of two parameters, of which only one depends on temperature. For the lactase of E coli the reaction can be described as a simple reaction with first order kinetics. The deactivation mechanism includes a reversible as well as an irreversible path of denaturation. The temperature dependent parameters follow Arrheilius&apos; and van&apos;t Hoff&apos;s law, respectively. On the basis of their particular reaction models all three enzymes can be compared with respect to their Optimum use. The models have been verified under laboratory conditions and have shown their usefulness for the prediction of optimum operating variables. Quite remarkable features have been found for the lactase of E. coli.</abstract>
+
+<originInfo><publisher>WILEY-V C H VERLAG GMBH</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>ENGINEERING IN LIFE SCIENCES</title></titleInfo>
+  <identifier type="issn">1618-0240</identifier>
+  <identifier type="ISI">000236845700004</identifier><identifier type="doi">10.1002/elsc.200620900</identifier>
+<part><detail type="volume"><number>6</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">131-138</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Flaschel, E. (2006). Reactor performance in the presence of catalyst deactivation. &lt;em&gt;ENGINEERING IN LIFE SCIENCES&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;(2), 131-138.&lt;/div&gt;</apa_indent>
+<ieee>E. Flaschel, “Reactor performance in the presence of catalyst deactivation”, &lt;em&gt;ENGINEERING IN LIFE SCIENCES&lt;/em&gt;, vol. 6, WILEY-V C H VERLAG GMBH, 2006,  pp.131-138.</ieee>
+<mla>Flaschel, Erwin. “Reactor performance in the presence of catalyst deactivation”. &lt;em&gt;ENGINEERING IN LIFE SCIENCES&lt;/em&gt;. WILEY-V C H VERLAG GMBH, 2006.Vol. 6. 131-138.</mla>
+<lncs>Flaschel, E.: Reactor performance in the presence of catalyst deactivation. ENGINEERING IN LIFE SCIENCES. 6, p. 131-138. WILEY-V C H VERLAG GMBH (2006).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Flaschel, Erwin. 2006. “Reactor performance in the presence of catalyst deactivation”. In &lt;em&gt;ENGINEERING IN LIFE SCIENCES&lt;/em&gt;, 6:131-138. WILEY-V C H VERLAG GMBH.&lt;/div&gt;</chicago>
+<apa>Flaschel, E. (2006). Reactor performance in the presence of catalyst deactivation. &lt;em&gt;ENGINEERING IN LIFE SCIENCES&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;(2), 131-138.</apa>
+<angewandte-chemie>E.  Flaschel, in &lt;em&gt;ENGINEERING IN LIFE SCIENCES&lt;/em&gt;, Wiley-V C H Verlag Gmbh, &lt;strong&gt;2006&lt;/strong&gt;, p. 131-138.</angewandte-chemie>
+<frontiers>Flaschel, E. (2006). “Reactor performance in the presence of catalyst deactivation” in &lt;em&gt;ENGINEERING IN LIFE SCIENCES&lt;/em&gt;, vol. 6, (WILEY-V C H VERLAG GMBH), 131-138.</frontiers>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Flaschel, E. (2006). Reactor performance in the presence of catalyst deactivation. &lt;em&gt;ENGINEERING IN LIFE SCIENCES&lt;/em&gt; (S. 131-138). WILEY-V C H VERLAG GMBH. doi:10.1002/elsc.200620900.&lt;/div&gt;</dgps>
+<harvard1>Flaschel, E., 2006. Reactor performance in the presence of catalyst deactivation. In &lt;em&gt;ENGINEERING IN LIFE SCIENCES&lt;/em&gt;. no.6  WILEY-V C H VERLAG GMBH, pp. 131-138.</harvard1>
+<ama>Flaschel E. Reactor performance in the presence of catalyst deactivation. In:  &lt;em&gt;ENGINEERING IN LIFE SCIENCES&lt;/em&gt;. Vol 6. WILEY-V C H VERLAG GMBH;  2006: 131-138.</ama>
+<bio1>Flaschel E (2006) &lt;br /&gt;Reactor performance in the presence of catalyst deactivation. &lt;br /&gt;In:  ENGINEERING IN LIFE SCIENCES. 6. WILEY-V C H VERLAG GMBH:  131-138.</bio1>
+<aps>E.  Flaschel, Reactor performance in the presence of catalyst deactivation, in &lt;em&gt;ENGINEERING IN LIFE SCIENCES&lt;/em&gt;, &lt;strong&gt;6&lt;/strong&gt; (WILEY-V C H VERLAG GMBH, 2006), p. 131-138.</aps>
+<wels>Flaschel, E. (2006): Reactor performance in the presence of catalyst deactivation. In: ENGINEERING IN LIFE SCIENCES. WILEY-V C H VERLAG GMBH. (6).  S. 131-138.</wels>
+<default>Flaschel E (2006)  &lt;br /&gt;In:  ENGINEERING IN LIFE SCIENCES. 6. WILEY-V C H VERLAG GMBH:  131-138.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1599661</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:30:51Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-15T13:23:12Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1599661</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1599661</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

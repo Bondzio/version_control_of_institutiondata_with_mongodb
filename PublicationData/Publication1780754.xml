@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Lebensformen in der Anstalt oder &quot;der verwaltete Wahnsinn&quot;</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Hans</namePart>
+  <namePart type="family">Hermsen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">P. A.</namePart><namePart type="family">Fiedler</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Wissenschaftliche Einrichtung Oberstufenkolleg</namePart>
+  <identifier type="unibi">11292831</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Hermsen_23.pdf">https://pub.uni-bielefeld.de/download/1780754/2313011</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Dt. Ges. für Verhaltenstherapie</publisher><dateIssued encoding="w3cdtf">1982</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+<subject><topic>Klinische Psychologie</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Herausforderung und Grenzen der klinischen Psychologie</title></titleInfo>
+  <identifier type="isbn">3-922686-56-7</identifier><identifier type="urn">urn:nbn:de:0070-bipr-22010</identifier>
+<part><extent unit="pages">60-65</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Hermsen, H. (1982): Lebensformen in der Anstalt oder &quot;der verwaltete Wahnsinn&quot;. In: P. A. Fiedler (Hrsg.):  Herausforderung und Grenzen der klinischen Psychologie. Tübingen: Dt. Ges. für Verhaltenstherapie. (Klinische Psychologie und Psychotherapie, ).  S. 60-65.</wels>
+<default>Hermsen H (1982)  &lt;br /&gt;In:  Herausforderung und Grenzen der klinischen Psychologie. Fiedler PA (Ed); Klinische Psychologie und Psychotherapie, . Tübingen: Dt. Ges. für Verhaltenstherapie:  60-65.</default>
+<ama>Hermsen H. Lebensformen in der Anstalt oder &quot;der verwaltete Wahnsinn&quot;. In: Fiedler PA, ed. &lt;em&gt;Herausforderung und Grenzen der klinischen Psychologie&lt;/em&gt;. Klinische Psychologie und Psychotherapie. Tübingen: Dt. Ges. für Verhaltenstherapie;  1982: 60-65.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hermsen, H. (1982). Lebensformen in der Anstalt oder &quot;der verwaltete Wahnsinn&quot; (Klinische Psychologie und Psychotherapie). &lt;em&gt;Herausforderung und Grenzen der klinischen Psychologie&lt;/em&gt; (S. 60-65). Tübingen: Dt. Ges. für Verhaltenstherapie.&lt;/div&gt;</dgps>
+<harvard1>Hermsen, H., 1982. Lebensformen in der Anstalt oder &quot;der verwaltete Wahnsinn&quot;. In P. A.  Fiedler, ed. &lt;em&gt;Herausforderung und Grenzen der klinischen Psychologie&lt;/em&gt;. Klinische Psychologie und Psychotherapie.  Tübingen: Dt. Ges. für Verhaltenstherapie, pp. 60-65.</harvard1>
+<bio1>Hermsen H (1982) &lt;br /&gt;Lebensformen in der Anstalt oder &quot;der verwaltete Wahnsinn&quot;. &lt;br /&gt;In:  Herausforderung und Grenzen der klinischen Psychologie. Fiedler PA (Ed); Klinische Psychologie und Psychotherapie,  Tübingen: Dt. Ges. für Verhaltenstherapie:  60-65.</bio1>
+<aps>H.  Hermsen, Lebensformen in der Anstalt oder &quot;der verwaltete Wahnsinn&quot;, in &lt;em&gt;Herausforderung und Grenzen der klinischen Psychologie&lt;/em&gt;, edited by P. A.  Fiedler, Klinische Psychologie und Psychotherapie (Dt. Ges. für Verhaltenstherapie, Tübingen, 1982), p. 60-65.</aps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hermsen, Hans. 1982. “Lebensformen in der Anstalt oder &quot;der verwaltete Wahnsinn&quot;”. In &lt;em&gt;Herausforderung und Grenzen der klinischen Psychologie&lt;/em&gt;, ed. P. A. Fiedler, 60-65. Klinische Psychologie und Psychotherapie. Tübingen: Dt. Ges. für Verhaltenstherapie.&lt;/div&gt;</chicago>
+<apa>Hermsen, H. (1982). Lebensformen in der Anstalt oder &quot;der verwaltete Wahnsinn&quot;. In P. A.  Fiedler (Ed.), &lt;em&gt;Klinische Psychologie und Psychotherapie&lt;/em&gt;&lt;em&gt;. Herausforderung und Grenzen der klinischen Psychologie&lt;/em&gt; (pp. 60-65). Tübingen: Dt. Ges. für Verhaltenstherapie.</apa>
+<angewandte-chemie>H.  Hermsen, in &lt;em&gt;Herausforderung und Grenzen der klinischen Psychologie&lt;/em&gt; (Ed.: P.A. Fiedler), Dt. Ges. Für Verhaltenstherapie, Tübingen, &lt;strong&gt;1982&lt;/strong&gt;, p. 60-65.</angewandte-chemie>
+<frontiers>Hermsen, H. (1982). “Lebensformen in der Anstalt oder &quot;der verwaltete Wahnsinn&quot;” in &lt;em&gt;Herausforderung und Grenzen der klinischen Psychologie&lt;/em&gt;, ed. P. A.  Fiedler Klinische Psychologie und Psychotherapie (Tübingen: Dt. Ges. für Verhaltenstherapie), 60-65.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hermsen, H. (1982). Lebensformen in der Anstalt oder &quot;der verwaltete Wahnsinn&quot;. In P. A.  Fiedler (Ed.), &lt;em&gt;Klinische Psychologie und Psychotherapie&lt;/em&gt;&lt;em&gt;. Herausforderung und Grenzen der klinischen Psychologie&lt;/em&gt; (pp. 60-65). Tübingen: Dt. Ges. für Verhaltenstherapie.&lt;/div&gt;</apa_indent>
+<ieee>H. Hermsen, “Lebensformen in der Anstalt oder &quot;der verwaltete Wahnsinn&quot;”, &lt;em&gt;Herausforderung und Grenzen der klinischen Psychologie&lt;/em&gt;, P.A. Fiedler, ed., Klinische Psychologie und Psychotherapie,  Tübingen: Dt. Ges. für Verhaltenstherapie, 1982,  pp.60-65.</ieee>
+<mla>Hermsen, Hans. “Lebensformen in der Anstalt oder &quot;der verwaltete Wahnsinn&quot;”. &lt;em&gt;Herausforderung und Grenzen der klinischen Psychologie&lt;/em&gt;. Ed. P. A. Fiedler. Tübingen: Dt. Ges. für Verhaltenstherapie, 1982. Klinische Psychologie und Psychotherapie. 60-65.</mla>
+<lncs>Hermsen, H.: Lebensformen in der Anstalt oder &quot;der verwaltete Wahnsinn&quot;. In: Fiedler, P.A. (ed.) Herausforderung und Grenzen der klinischen Psychologie. Klinische Psychologie und Psychotherapie. p. 60-65. Dt. Ges. für Verhaltenstherapie, Tübingen (1982).</lncs>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780754</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780754</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780754</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

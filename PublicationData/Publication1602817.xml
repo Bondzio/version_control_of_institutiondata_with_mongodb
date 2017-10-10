@@ -1,0 +1,136 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Brownian motion - Absolute negative particle mobility</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Ros</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">R</namePart>
+  <namePart type="family">Eichhorn</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jan</namePart>
+  <namePart type="family">Regtmeier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">148272</identifier></name>
+<name type="personal">
+  <namePart type="given">TT</namePart>
+  <namePart type="family">Duong</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Peter</namePart>
+  <namePart type="family">Reimann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">70631</identifier></name>
+<name type="personal">
+  <namePart type="given">Dario</namePart>
+  <namePart type="family">Anselmetti</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40180</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-8720-4369</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">29105470</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">29125395</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33079524</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="ros_et_al_nature_2005.pdf">https://pub.uni-bielefeld.de/download/1602817/2311121</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>NATURE PUBLISHING GROUP</publisher><dateIssued encoding="w3cdtf">2005</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Nature</title></titleInfo>
+  <identifier type="issn">0028-0836</identifier>
+  <identifier type="eIssn">1476-4679</identifier>
+  <identifier type="MEDLINE">16107829</identifier>
+  <identifier type="ISI">000231263900031</identifier><identifier type="urn">urn:nbn:de:0070-pub-16028171</identifier><identifier type="doi">10.1038/436928a</identifier>
+<part><detail type="volume"><number>436</number></detail><detail type="issue"><number>7053</number></detail><extent unit="pages">928</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Ros A, Eichhorn R, Regtmeier J, Duong TT, Reimann P, Anselmetti D (2005) &lt;br /&gt;Nature 436(7053).</default>
+<wels>Ros, A.; Eichhorn, R.; Regtmeier, J.; Duong, T. T.; Reimann, P.; Anselmetti, D. (2005): Brownian motion - Absolute negative particle mobility &lt;em&gt;Nature&lt;/em&gt;,436:(7053)</wels>
+<bio1>Ros A, Eichhorn R, Regtmeier J, Duong TT, Reimann P, Anselmetti D (2005) &lt;br /&gt;Brownian motion - Absolute negative particle mobility.&lt;br /&gt;Nature 436(7053).</bio1>
+<aps> A.  Ros, et al., Brownian motion - Absolute negative particle mobility, Nature &lt;strong&gt;436&lt;/strong&gt;, (2005).</aps>
+<ama>Ros A, Eichhorn R, Regtmeier J, Duong TT, Reimann P, Anselmetti D. Brownian motion - Absolute negative particle mobility. &lt;em&gt;Nature&lt;/em&gt;. 2005;436(7053).</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ros, A., Eichhorn, R., Regtmeier, J., Duong, T.T., Reimann, P. &amp;amp; Anselmetti, D. (2005). Brownian motion - Absolute negative particle mobility. &lt;em&gt;Nature&lt;/em&gt;, &lt;em&gt;436&lt;/em&gt;(7053). NATURE PUBLISHING GROUP. doi:10.1038/436928a.&lt;/div&gt;</dgps>
+<harvard1>Ros, A., et al., 2005. Brownian motion - Absolute negative particle mobility. &lt;em&gt;Nature&lt;/em&gt;, 436(7053).</harvard1>
+<frontiers>Ros, A., Eichhorn, R., Regtmeier, J., Duong, T. T., Reimann, P., and Anselmetti, D. (2005). Brownian motion - Absolute negative particle mobility. &lt;em&gt;Nature&lt;/em&gt; 436.</frontiers>
+<angewandte-chemie>A.  Ros, R.  Eichhorn, J.  Regtmeier, T. T.  Duong, P.  Reimann, and D.  Anselmetti, “Brownian motion - Absolute negative particle mobility”, &lt;em&gt;Nature&lt;/em&gt;, &lt;strong&gt;2005&lt;/strong&gt;, &lt;em&gt;436&lt;/em&gt;.</angewandte-chemie>
+<apa>Ros, A., Eichhorn, R., Regtmeier, J., Duong, T. T., Reimann, P., &amp;amp; Anselmetti, D. (2005). Brownian motion - Absolute negative particle mobility. &lt;em&gt;Nature&lt;/em&gt;, &lt;em&gt;436&lt;/em&gt;(7053).</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ros, A, Eichhorn, R, Regtmeier, Jan, Duong, TT, Reimann, Peter, and Anselmetti, Dario. 2005. “Brownian motion - Absolute negative particle mobility”. &lt;em&gt;Nature&lt;/em&gt; 436 (7053).&lt;/div&gt;</chicago>
+<mla>Ros, A, Eichhorn, R, Regtmeier, Jan, Duong, TT, Reimann, Peter, and Anselmetti, Dario. “Brownian motion - Absolute negative particle mobility”. &lt;em&gt;Nature&lt;/em&gt; 436.7053 (2005).</mla>
+<lncs> Ros, A., Eichhorn, R., Regtmeier, J., Duong, T.T., Reimann, P., Anselmetti, D.: Brownian motion - Absolute negative particle mobility. Nature. 436, (2005).</lncs>
+<ieee> A. Ros, et al., “Brownian motion - Absolute negative particle mobility”, &lt;em&gt;Nature&lt;/em&gt;,  vol. 436, 2005.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ros, A., Eichhorn, R., Regtmeier, J., Duong, T. T., Reimann, P., &amp;amp; Anselmetti, D. (2005). Brownian motion - Absolute negative particle mobility. &lt;em&gt;Nature&lt;/em&gt;, &lt;em&gt;436&lt;/em&gt;(7053).&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1602817</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:32:23Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-09-28T07:24:09Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1602817</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1602817</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

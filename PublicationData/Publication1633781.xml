@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Membrane-Protein Interactions in a Generic Coarse-Grained Model for Lipid Bilayers</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Beate</namePart>
+  <namePart type="family">West</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">110282</identifier></name>
+<name type="personal">
+  <namePart type="given">Frank L. H.</namePart>
+  <namePart type="family">Brown</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Friederike</namePart>
+  <namePart type="family">Schmid</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We study membrane-protein interactions and membrane-mediated protein-protein interactions by Monte Carlo simulations of a generic coarse-grained model for lipid bilayers with cylindrical hydrophobic inclusions. The strength of the hydrophobic force and the hydrophobic thickness of the proteins are systematically varied. The results are compared with analytical predictions of two popular analytical theories: The Landau-de Gennes theory and the elastic theory. The elastic theory provides an excellent description of the fluctuation spectra of pure membranes and successfully reproduces the deformation profiles of membranes around single proteins. However, its prediction for the potential of mean force between proteins is not compatible with the simulation data for large distances. The simulations show that the lipid-mediated interactions are governed by five competing factors: direct interactions; lipid-induced depletion interactions; lipid bridging; lipid packing; and a smooth long-range contribution. The mechanisms leading to hydrophobic mismatch interactions are critically analyzed.</abstract>
+
+<originInfo><publisher>Elsevier BV</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>BIOPHYSICAL JOURNAL</title></titleInfo>
+  <identifier type="issn">0006-3495</identifier>
+  <identifier type="arXiv">0809.1797</identifier>
+  <identifier type="MEDLINE">18835907</identifier>
+  <identifier type="ISI">000266376200012</identifier><identifier type="doi">10.1529/biophysj.108.138677</identifier>
+<part><detail type="volume"><number>96</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">101-115</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>West, B.; Brown, F. L. H.; Schmid, F. (2009): Membrane-Protein Interactions in a Generic Coarse-Grained Model for Lipid Bilayers &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt;,96:(1): 101-115.</wels>
+<default>West B, Brown FLH, Schmid F (2009) &lt;br /&gt;BIOPHYSICAL JOURNAL 96(1): 101-115.</default>
+<harvard1>West, B., Brown, F.L.H., &amp;amp; Schmid, F., 2009. Membrane-Protein Interactions in a Generic Coarse-Grained Model for Lipid Bilayers. &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt;, 96(1), p 101-115.</harvard1>
+<ama>West B, Brown FLH, Schmid F. Membrane-Protein Interactions in a Generic Coarse-Grained Model for Lipid Bilayers. &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt;. 2009;96(1):101-115.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;West, B., Brown, F.L.H. &amp;amp; Schmid, F. (2009). Membrane-Protein Interactions in a Generic Coarse-Grained Model for Lipid Bilayers. &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt;, &lt;em&gt;96&lt;/em&gt;(1), 101-115. Elsevier BV. doi:10.1529/biophysj.108.138677.&lt;/div&gt;</dgps>
+<bio1>West B, Brown FLH, Schmid F (2009) &lt;br /&gt;Membrane-Protein Interactions in a Generic Coarse-Grained Model for Lipid Bilayers.&lt;br /&gt;BIOPHYSICAL JOURNAL 96(1): 101-115.</bio1>
+<aps>B.  West, F. L. H.  Brown, and F.  Schmid, Membrane-Protein Interactions in a Generic Coarse-Grained Model for Lipid Bilayers, BIOPHYSICAL JOURNAL &lt;strong&gt;96&lt;/strong&gt;, 101-115 (2009).</aps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;West, Beate, Brown, Frank L. H., and Schmid, Friederike. 2009. “Membrane-Protein Interactions in a Generic Coarse-Grained Model for Lipid Bilayers”. &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt; 96 (1): 101-115.&lt;/div&gt;</chicago>
+<apa>West, B., Brown, F. L. H., &amp;amp; Schmid, F. (2009). Membrane-Protein Interactions in a Generic Coarse-Grained Model for Lipid Bilayers. &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt;, &lt;em&gt;96&lt;/em&gt;(1), 101-115.</apa>
+<angewandte-chemie>B.  West, F. L. H.  Brown, and F.  Schmid, “Membrane-Protein Interactions in a Generic Coarse-Grained Model for Lipid Bilayers”, &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;96&lt;/em&gt;, 101-115.</angewandte-chemie>
+<frontiers>West, B., Brown, F. L. H., and Schmid, F. (2009). Membrane-Protein Interactions in a Generic Coarse-Grained Model for Lipid Bilayers. &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt; 96, 101-115.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;West, B., Brown, F. L. H., &amp;amp; Schmid, F. (2009). Membrane-Protein Interactions in a Generic Coarse-Grained Model for Lipid Bilayers. &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt;, &lt;em&gt;96&lt;/em&gt;(1), 101-115.&lt;/div&gt;</apa_indent>
+<ieee>B. West, F.L.H. Brown, and F. Schmid, “Membrane-Protein Interactions in a Generic Coarse-Grained Model for Lipid Bilayers”, &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt;,  vol. 96, 2009,  pp. 101-115.</ieee>
+<lncs>West, B., Brown, F.L.H., Schmid, F.: Membrane-Protein Interactions in a Generic Coarse-Grained Model for Lipid Bilayers. BIOPHYSICAL JOURNAL. 96, 101-115 (2009).</lncs>
+<mla>West, Beate, Brown, Frank L. H., and Schmid, Friederike. “Membrane-Protein Interactions in a Generic Coarse-Grained Model for Lipid Bilayers”. &lt;em&gt;BIOPHYSICAL JOURNAL&lt;/em&gt; 96.1 (2009): 101-115.</mla>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1633781</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:06:59Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-06T12:07:45Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1633781</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1633781</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

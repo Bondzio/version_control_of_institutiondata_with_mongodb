@@ -1,0 +1,102 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Familie und Modernität</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Franz-Xaver</namePart>
+  <namePart type="family">Kaufmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">13183</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Kurt</namePart><namePart type="family">Lüscher</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">F.</namePart><namePart type="family">Schultheis</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">M.</namePart><namePart type="family">Wehrspaun</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Soziologie</namePart>
+  <identifier type="unibi">10030</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Kaufmann_B_119.pdf">https://pub.uni-bielefeld.de/download/1776822/2312255</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Univ.-Verl. Konstanz</publisher><dateIssued encoding="w3cdtf">1988</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Die &quot;postmoderne&quot; Familie: familiale Strategien und Familienpolitik in einer Übergangszeit</title></titleInfo>
+  <identifier type="isbn">3-87940-313-9</identifier><identifier type="urn">urn:nbn:de:0070-bipr-13225</identifier>
+<part><extent unit="pages">391-415</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Kaufmann F-X (1988)  &lt;br /&gt;In:  Die &quot;postmoderne&quot; Familie: familiale Strategien und Familienpolitik in einer Übergangszeit. Lüscher K, Schultheis F, Wehrspaun M (Eds); Konstanzer Beiträge zur sozialwissenschaftlichen Forschung ; 3, . Konstanz: Univ.-Verl. Konstanz:  391-415.</default>
+<wels>Kaufmann, F. - X. (1988): Familie und Modernität. In: Kurt Lüscher; F. Schultheis; M. Wehrspaun (Hrsg.):  Die &quot;postmoderne&quot; Familie: familiale Strategien und Familienpolitik in einer Übergangszeit. Konstanz: Univ.-Verl. Konstanz. (Konstanzer Beiträge zur sozialwissenschaftlichen Forschung ; 3, ).  S. 391-415.</wels>
+<bio1>Kaufmann F-X (1988) &lt;br /&gt;Familie und Modernität. &lt;br /&gt;In:  Die &quot;postmoderne&quot; Familie: familiale Strategien und Familienpolitik in einer Übergangszeit. Lüscher K, Schultheis F, Wehrspaun M (Eds); Konstanzer Beiträge zur sozialwissenschaftlichen Forschung ; 3,  Konstanz: Univ.-Verl. Konstanz:  391-415.</bio1>
+<aps>F. - X.  Kaufmann, Familie und Modernität, in &lt;em&gt;Die &quot;postmoderne&quot; Familie: familiale Strategien und Familienpolitik in einer Übergangszeit&lt;/em&gt;, edited by K.  Lüscher, et al., Konstanzer Beiträge zur sozialwissenschaftlichen Forschung ; 3 (Univ.-Verl. Konstanz, Konstanz, 1988), p. 391-415.</aps>
+<ama>Kaufmann F-X. Familie und Modernität. In: Lüscher K, Schultheis F, Wehrspaun M, eds. &lt;em&gt;Die &quot;postmoderne&quot; Familie: familiale Strategien und Familienpolitik in einer Übergangszeit&lt;/em&gt;. Konstanzer Beiträge zur sozialwissenschaftlichen Forschung ; 3. Konstanz: Univ.-Verl. Konstanz;  1988: 391-415.</ama>
+<harvard1>Kaufmann, F.-X., 1988. Familie und Modernität. In K.  Lüscher, F.  Schultheis, &amp;amp; M.  Wehrspaun, eds. &lt;em&gt;Die &quot;postmoderne&quot; Familie: familiale Strategien und Familienpolitik in einer Übergangszeit&lt;/em&gt;. Konstanzer Beiträge zur sozialwissenschaftlichen Forschung ; 3.  Konstanz: Univ.-Verl. Konstanz, pp. 391-415.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kaufmann, F.-X. (1988). Familie und Modernität (Konstanzer Beiträge zur sozialwissenschaftlichen Forschung ; 3). &lt;em&gt;Die &quot;postmoderne&quot; Familie: familiale Strategien und Familienpolitik in einer Übergangszeit&lt;/em&gt; (S. 391-415). Konstanz: Univ.-Verl. Konstanz.&lt;/div&gt;</dgps>
+<frontiers>Kaufmann, F. - X. (1988). “Familie und Modernität” in &lt;em&gt;Die &quot;postmoderne&quot; Familie: familiale Strategien und Familienpolitik in einer Übergangszeit&lt;/em&gt;, ed. K.  Lüscher, F.  Schultheis, and M.  Wehrspaun Konstanzer Beiträge zur sozialwissenschaftlichen Forschung ; 3 (Konstanz: Univ.-Verl. Konstanz), 391-415.</frontiers>
+<apa>Kaufmann, F. - X. (1988). Familie und Modernität. In K.  Lüscher, F.  Schultheis, &amp;amp; M.  Wehrspaun (Eds.), &lt;em&gt;Konstanzer Beiträge zur sozialwissenschaftlichen Forschung ; 3&lt;/em&gt;&lt;em&gt;. Die &quot;postmoderne&quot; Familie: familiale Strategien und Familienpolitik in einer Übergangszeit&lt;/em&gt; (pp. 391-415). Konstanz: Univ.-Verl. Konstanz.</apa>
+<angewandte-chemie>F. - X.  Kaufmann, in &lt;em&gt;Die &quot;postmoderne&quot; Familie: familiale Strategien und Familienpolitik in einer Übergangszeit&lt;/em&gt; (Eds.: K. Lüscher, F. Schultheis, M. Wehrspaun), Univ.-Verl. Konstanz, Konstanz, &lt;strong&gt;1988&lt;/strong&gt;, p. 391-415.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kaufmann, Franz-Xaver. 1988. “Familie und Modernität”. In &lt;em&gt;Die &quot;postmoderne&quot; Familie: familiale Strategien und Familienpolitik in einer Übergangszeit&lt;/em&gt;, ed. Kurt Lüscher, F. Schultheis, and M. Wehrspaun, 391-415. Konstanzer Beiträge zur sozialwissenschaftlichen Forschung ; 3. Konstanz: Univ.-Verl. Konstanz.&lt;/div&gt;</chicago>
+<lncs>Kaufmann, F.-X.: Familie und Modernität. In: Lüscher, K., Schultheis, F., and Wehrspaun, M. (eds.) Die &quot;postmoderne&quot; Familie: familiale Strategien und Familienpolitik in einer Übergangszeit. Konstanzer Beiträge zur sozialwissenschaftlichen Forschung ; 3. p. 391-415. Univ.-Verl. Konstanz, Konstanz (1988).</lncs>
+<mla>Kaufmann, Franz-Xaver. “Familie und Modernität”. &lt;em&gt;Die &quot;postmoderne&quot; Familie: familiale Strategien und Familienpolitik in einer Übergangszeit&lt;/em&gt;. Ed. Kurt Lüscher, F. Schultheis, and M. Wehrspaun. Konstanz: Univ.-Verl. Konstanz, 1988. Konstanzer Beiträge zur sozialwissenschaftlichen Forschung ; 3. 391-415.</mla>
+<ieee>F.-X. Kaufmann, “Familie und Modernität”, &lt;em&gt;Die &quot;postmoderne&quot; Familie: familiale Strategien und Familienpolitik in einer Übergangszeit&lt;/em&gt;, K. Lüscher, F. Schultheis, and M. Wehrspaun, eds., Konstanzer Beiträge zur sozialwissenschaftlichen Forschung ; 3,  Konstanz: Univ.-Verl. Konstanz, 1988,  pp.391-415.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kaufmann, F. - X. (1988). Familie und Modernität. In K.  Lüscher, F.  Schultheis, &amp;amp; M.  Wehrspaun (Eds.), &lt;em&gt;Konstanzer Beiträge zur sozialwissenschaftlichen Forschung ; 3&lt;/em&gt;&lt;em&gt;. Die &quot;postmoderne&quot; Familie: familiale Strategien und Familienpolitik in einer Übergangszeit&lt;/em&gt; (pp. 391-415). Konstanz: Univ.-Verl. Konstanz.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776822</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-03-20T14:38:37Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776822</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776822</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

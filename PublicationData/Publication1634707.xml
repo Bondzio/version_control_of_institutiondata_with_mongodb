@@ -1,0 +1,105 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Ratchet effect of a dimer with broken friction symmetry in a symmetric potential</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Sebastian</namePart>
+  <namePart type="family">von Gehlen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Mykhaylo</namePart>
+  <namePart type="family">Evstigneev</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">118403</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-7056-2573</description></name>
+<name type="personal">
+  <namePart type="given">Peter</namePart>
+  <namePart type="family">Reimann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">70631</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Theorie der Kondensierten Materie</namePart>
+  <identifier type="unibi">29105470</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The one-dimensional overdamped Brownian motion of a dimer consisting of two harmonically interacting components is considered. Both components are coupled to the same heat bath and feel the same spatially periodic symmetric potential, whose amplitude is modulated periodically in time. The friction coefficients may differ between dimer components, thus breaking the dynamical symmetry of the system. In the absence of any external bias, a ratchet effect (directed transport) arises generically. Two accurate approximations for the dimer&apos;s velocity and diffusion coefficient are obtained for weak and strong couplings. The velocity of the system can be maximized for each direction by adding an optimal amount of noise and by tuning the driving frequency to an optimal value. Furthermore, there exist two optimal coupling strengths at which the velocity is the largest.</abstract>
+
+<originInfo><publisher>American Physical Society (APS)</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Brownian motion</topic><topic>diffusion</topic><topic>friction</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>PHYSICAL REVIEW E</title></titleInfo>
+  <identifier type="issn">1539-3755</identifier>
+  <identifier type="eIssn">1550-2376</identifier>
+  <identifier type="MEDLINE">19391909</identifier>
+  <identifier type="ISI">000264767300033</identifier><identifier type="doi">10.1103/PhysRevE.79.031114</identifier>
+<part><detail type="volume"><number>79</number></detail><detail type="issue"><number>3</number></detail>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>von Gehlen, S.; Evstigneev, M.; Reimann, P. (2009): Ratchet effect of a dimer with broken friction symmetry in a symmetric potential &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt;,79:(3)</wels>
+<default>von Gehlen S, Evstigneev M, Reimann P (2009) &lt;br /&gt;PHYSICAL REVIEW E 79(3).</default>
+<ama>von Gehlen S, Evstigneev M, Reimann P. Ratchet effect of a dimer with broken friction symmetry in a symmetric potential. &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt;. 2009;79(3).</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;von Gehlen, S., Evstigneev, M. &amp;amp; Reimann, P. (2009). Ratchet effect of a dimer with broken friction symmetry in a symmetric potential. &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt;, &lt;em&gt;79&lt;/em&gt;(3). American Physical Society (APS). doi:10.1103/PhysRevE.79.031114.&lt;/div&gt;</dgps>
+<harvard1>von Gehlen, S., Evstigneev, M., &amp;amp; Reimann, P., 2009. Ratchet effect of a dimer with broken friction symmetry in a symmetric potential. &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt;, 79(3).</harvard1>
+<bio1>von Gehlen S, Evstigneev M, Reimann P (2009) &lt;br /&gt;Ratchet effect of a dimer with broken friction symmetry in a symmetric potential.&lt;br /&gt;PHYSICAL REVIEW E 79(3).</bio1>
+<aps>S.  von Gehlen, M.  Evstigneev, and P.  Reimann, Ratchet effect of a dimer with broken friction symmetry in a symmetric potential, PHYSICAL REVIEW E &lt;strong&gt;79&lt;/strong&gt;, (2009).</aps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;von Gehlen, Sebastian, Evstigneev, Mykhaylo, and Reimann, Peter. 2009. “Ratchet effect of a dimer with broken friction symmetry in a symmetric potential”. &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt; 79 (3).&lt;/div&gt;</chicago>
+<apa>von Gehlen, S., Evstigneev, M., &amp;amp; Reimann, P. (2009). Ratchet effect of a dimer with broken friction symmetry in a symmetric potential. &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt;, &lt;em&gt;79&lt;/em&gt;(3).</apa>
+<angewandte-chemie>S.  von Gehlen, M.  Evstigneev, and P.  Reimann, “Ratchet effect of a dimer with broken friction symmetry in a symmetric potential”, &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;79&lt;/em&gt;.</angewandte-chemie>
+<frontiers>von Gehlen, S., Evstigneev, M., and Reimann, P. (2009). Ratchet effect of a dimer with broken friction symmetry in a symmetric potential. &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt; 79.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;von Gehlen, S., Evstigneev, M., &amp;amp; Reimann, P. (2009). Ratchet effect of a dimer with broken friction symmetry in a symmetric potential. &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt;, &lt;em&gt;79&lt;/em&gt;(3).&lt;/div&gt;</apa_indent>
+<ieee>S. von Gehlen, M. Evstigneev, and P. Reimann, “Ratchet effect of a dimer with broken friction symmetry in a symmetric potential”, &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt;,  vol. 79, 2009.</ieee>
+<lncs>von Gehlen, S., Evstigneev, M., Reimann, P.: Ratchet effect of a dimer with broken friction symmetry in a symmetric potential. PHYSICAL REVIEW E. 79, (2009).</lncs>
+<mla>von Gehlen, Sebastian, Evstigneev, Mykhaylo, and Reimann, Peter. “Ratchet effect of a dimer with broken friction symmetry in a symmetric potential”. &lt;em&gt;PHYSICAL REVIEW E&lt;/em&gt; 79.3 (2009).</mla>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1634707</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:24Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-17T14:18:42Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1634707</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1634707</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

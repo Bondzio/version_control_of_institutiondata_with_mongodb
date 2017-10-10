@@ -1,0 +1,110 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>(An) isotropy of the Hubble diagram: comparing hemispheres</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Dominik</namePart>
+  <namePart type="family">Schwarz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">129988</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0003-2413-0881</description></name>
+<name type="personal">
+  <namePart type="given">B.</namePart>
+  <namePart type="family">Weinhorst</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Astroteilchen und Kosmologie</namePart>
+  <identifier type="unibi">23381619</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Aims. We test the isotropy of the Hubble diagram. At small redshifts, this is possible without assumptions on the cosmic inventory and provides a fundamental test of the cosmological principle. At higher redshift we check for the self-consistency of the ACDM model. Methods. At small redshifts, we use public supernovae (SNe) Ia data to determine the deceleration parameter q(0) and the SN calibration on opposite hemispheres. For the complete data sets we fit Omega(M) and the SN calibration on opposite hemispheres. Results. A statistically significant anisotropy of the Hubble diagram at redshifts z &lt; 0.2 is discovered (&gt; 95% C. L.). While data from the North Galactic hemisphere favour the accelerated expansion of the Universe, data from the South Galactic hemisphere are not conclusive. The hemispheric asymmetry is maximal toward a direction close to the equatorial poles. The discrepancy between the equatorial North and South hemispheres shows up in the SN calibration. For the ACDM model fitted to all available SNe, we find the same asymmetry. Conclusions. The alignment of discrepancies between hemispheric Hubble diagrams with the equatorial frame seems to point toward a systematic error in the SN search, observation, analysis or data reduction. We also find that our model independent test cannot exclude the case of the deceleration of the expansion at a statistically significant level.</abstract>
+
+<originInfo><publisher>EDP SCIENCES S A</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>large-scale structure of Universe</topic><topic>cosmology : observations</topic><topic>supernovae</topic><topic>: general</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>ASTRONOMY &amp; ASTROPHYSICS</title></titleInfo>
+  <identifier type="issn">0004-6361</identifier>
+  <identifier type="eIssn">1432-0746</identifier>
+  <identifier type="arXiv">0706.0165</identifier>
+  <identifier type="INSPIRE">752113</identifier>
+  <identifier type="ISI">000250443900008</identifier><identifier type="doi">10.1051/0004-6361:20077998</identifier>
+<part><detail type="volume"><number>474</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">717-729</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>Schwarz D, Weinhorst B (2007) &lt;br /&gt;(An) isotropy of the Hubble diagram: comparing hemispheres.&lt;br /&gt;ASTRONOMY &amp;amp; ASTROPHYSICS 474(3): 717-729.</bio1>
+<aps>D.  Schwarz and B.  Weinhorst, (An) isotropy of the Hubble diagram: comparing hemispheres, ASTRONOMY &amp;amp; ASTROPHYSICS &lt;strong&gt;474&lt;/strong&gt;, 717-729 (2007).</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schwarz, D. &amp;amp; Weinhorst, B. (2007). (An) isotropy of the Hubble diagram: comparing hemispheres. &lt;em&gt;ASTRONOMY &amp;amp; ASTROPHYSICS&lt;/em&gt;, &lt;em&gt;474&lt;/em&gt;(3), 717-729. EDP SCIENCES S A. doi:10.1051/0004-6361:20077998.&lt;/div&gt;</dgps>
+<ama>Schwarz D, Weinhorst B. (An) isotropy of the Hubble diagram: comparing hemispheres. &lt;em&gt;ASTRONOMY &amp;amp; ASTROPHYSICS&lt;/em&gt;. 2007;474(3):717-729.</ama>
+<harvard1>Schwarz, D., &amp;amp; Weinhorst, B., 2007. (An) isotropy of the Hubble diagram: comparing hemispheres. &lt;em&gt;ASTRONOMY &amp;amp; ASTROPHYSICS&lt;/em&gt;, 474(3), p 717-729.</harvard1>
+<default>Schwarz D, Weinhorst B (2007) &lt;br /&gt;ASTRONOMY &amp;amp; ASTROPHYSICS 474(3): 717-729.</default>
+<wels>Schwarz, D.; Weinhorst, B. (2007): (An) isotropy of the Hubble diagram: comparing hemispheres &lt;em&gt;ASTRONOMY &amp;amp; ASTROPHYSICS&lt;/em&gt;,474:(3): 717-729.</wels>
+<lncs>Schwarz, D., Weinhorst, B.: (An) isotropy of the Hubble diagram: comparing hemispheres. ASTRONOMY &amp;amp; ASTROPHYSICS. 474, 717-729 (2007).</lncs>
+<mla>Schwarz, Dominik, and Weinhorst, B. “(An) isotropy of the Hubble diagram: comparing hemispheres”. &lt;em&gt;ASTRONOMY &amp;amp; ASTROPHYSICS&lt;/em&gt; 474.3 (2007): 717-729.</mla>
+<ieee>D. Schwarz and B. Weinhorst, “(An) isotropy of the Hubble diagram: comparing hemispheres”, &lt;em&gt;ASTRONOMY &amp;amp; ASTROPHYSICS&lt;/em&gt;,  vol. 474, 2007,  pp. 717-729.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schwarz, D., &amp;amp; Weinhorst, B. (2007). (An) isotropy of the Hubble diagram: comparing hemispheres. &lt;em&gt;ASTRONOMY &amp;amp; ASTROPHYSICS&lt;/em&gt;, &lt;em&gt;474&lt;/em&gt;(3), 717-729.&lt;/div&gt;</apa_indent>
+<frontiers>Schwarz, D., and Weinhorst, B. (2007). (An) isotropy of the Hubble diagram: comparing hemispheres. &lt;em&gt;ASTRONOMY &amp;amp; ASTROPHYSICS&lt;/em&gt; 474, 717-729.</frontiers>
+<apa>Schwarz, D., &amp;amp; Weinhorst, B. (2007). (An) isotropy of the Hubble diagram: comparing hemispheres. &lt;em&gt;ASTRONOMY &amp;amp; ASTROPHYSICS&lt;/em&gt;, &lt;em&gt;474&lt;/em&gt;(3), 717-729.</apa>
+<angewandte-chemie>D.  Schwarz, and B.  Weinhorst, “(An) isotropy of the Hubble diagram: comparing hemispheres”, &lt;em&gt;ASTRONOMY &amp;amp; ASTROPHYSICS&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;474&lt;/em&gt;, 717-729.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schwarz, Dominik, and Weinhorst, B. 2007. “(An) isotropy of the Hubble diagram: comparing hemispheres”. &lt;em&gt;ASTRONOMY &amp;amp; ASTROPHYSICS&lt;/em&gt; 474 (3): 717-729.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1631611</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:05:49Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-08T13:39:30Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1631611</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1631611</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

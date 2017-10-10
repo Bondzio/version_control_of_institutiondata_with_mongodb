@@ -1,0 +1,127 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The Zur regulon of Corynebacterium glutamicum ATCC 13032</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Jasmin</namePart>
+  <namePart type="family">Schröder</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">12832252</identifier></name>
+<name type="personal">
+  <namePart type="given">Nina</namePart>
+  <namePart type="family">Jochmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">4854060</identifier></name>
+<name type="personal">
+  <namePart type="given">Dmitry A.</namePart>
+  <namePart type="family">Rodionov</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Tauch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">22082</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Centrum für Biotechnologie</namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Genomforschung und Systembiologie</namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  A. Tauch</namePart>
+  <identifier type="unibi">33070741</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Background Zinc is considered as an essential element for all living organisms, but it can be toxic at large concentrations. Bacteria therefore tightly regulate zinc metabolism. The Cg2502 protein of Corynebacterium glutamicum was a candidate to control zinc metabolism in this species, since it was classified as metalloregulator of the zinc uptake regulator (Zur) subgroup of the ferric uptake regulator (Fur) family of DNA-binding transcription regulators.  Results The cg2502 (zur) gene was deleted in the chromosome of C. glutamicum ATCC 13032 by an allelic exchange procedure to generate the zur-deficient mutant C. glutamicum JS2502. Whole-genome DNA microarray hybridizations and real-time RT-PCR assays comparing the gene expression in C. glutamicum JS2502 with that of the wild-type strain detected 18 genes with enhanced expression in the zur mutant. The expression data were combined with results from cross-genome comparisons of shared regulatory sites, revealing the presence of candidate Zur-binding sites in the mapped promoter regions of five transcription units encoding components of potential zinc ABC-type transporters (cg0041-cg0042/cg0043; cg2911-cg2912-cg2913), a putative secreted protein (cg0040), a putative oxidoreductase (cg0795), and a putative P-loop GTPase of the COG0523 protein family (cg0794). Enhanced transcript levels of the respective genes in C. glutamicum JS2502 were verified by real-time RT-PCR, and complementation of the mutant with a wild-type zur gene reversed the effect of differential gene expression. The zinc-dependent expression of the putative cg0042 and cg2911 operons was detected in vivo with a gfp reporter system. Moreover, the zinc-dependent binding of purified Zur protein to double-stranded 40-mer oligonucleotides containing candidate Zur-binding sites was demonstrated in vitro by DNA band shift assays.  Conclusion Whole-genome expression profiling and DNA band shift assays demonstrated that Zur directly represses in a zinc-dependent manner the expression of nine genes organized in five transcription units. Accordingly, the Zur (Cg2502) protein is the key transcription regulator for genes involved in zinc homeostasis in C. glutamicum.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="schroeder.pdf">https://pub.uni-bielefeld.de/download/1785251/2314809</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Springer Science + Business Media</publisher><dateIssued encoding="w3cdtf">2010</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>BMC Genomics</title></titleInfo>
+  <identifier type="issn">1471-2164</identifier>
+  <identifier type="MEDLINE">20055984</identifier>
+  <identifier type="ISI">000274642400002</identifier><identifier type="urn">urn:nbn:de:0070-pub-17852513</identifier><identifier type="doi">10.1186/1471-2164-11-12</identifier>
+<part><detail type="volume"><number>11</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">12</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schröder, J., Jochmann, N., Rodionov, D. A., &amp;amp; Tauch, A. (2010). The Zur regulon of Corynebacterium glutamicum ATCC 13032. &lt;em&gt;BMC Genomics&lt;/em&gt;, &lt;em&gt;11&lt;/em&gt;(1).&lt;/div&gt;</apa_indent>
+<lncs>Schröder, J., Jochmann, N., Rodionov, D.A., Tauch, A.: The Zur regulon of Corynebacterium glutamicum ATCC 13032. BMC Genomics. 11, (2010).</lncs>
+<mla>Schröder, Jasmin, Jochmann, Nina, Rodionov, Dmitry A., and Tauch, Andreas. “The Zur regulon of Corynebacterium glutamicum ATCC 13032”. &lt;em&gt;BMC Genomics&lt;/em&gt; 11.1 (2010).</mla>
+<ieee>J. Schröder, et al., “The Zur regulon of Corynebacterium glutamicum ATCC 13032”, &lt;em&gt;BMC Genomics&lt;/em&gt;,  vol. 11, 2010.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schröder, Jasmin, Jochmann, Nina, Rodionov, Dmitry A., and Tauch, Andreas. 2010. “The Zur regulon of Corynebacterium glutamicum ATCC 13032”. &lt;em&gt;BMC Genomics&lt;/em&gt; 11 (1).&lt;/div&gt;</chicago>
+<frontiers>Schröder, J., Jochmann, N., Rodionov, D. A., and Tauch, A. (2010). The Zur regulon of Corynebacterium glutamicum ATCC 13032. &lt;em&gt;BMC Genomics&lt;/em&gt; 11.</frontiers>
+<apa>Schröder, J., Jochmann, N., Rodionov, D. A., &amp;amp; Tauch, A. (2010). The Zur regulon of Corynebacterium glutamicum ATCC 13032. &lt;em&gt;BMC Genomics&lt;/em&gt;, &lt;em&gt;11&lt;/em&gt;(1).</apa>
+<angewandte-chemie>J.  Schröder, N.  Jochmann, D. A.  Rodionov, and A.  Tauch, “The Zur regulon of Corynebacterium glutamicum ATCC 13032”, &lt;em&gt;BMC Genomics&lt;/em&gt;, &lt;strong&gt;2010&lt;/strong&gt;, &lt;em&gt;11&lt;/em&gt;.</angewandte-chemie>
+<aps>J.  Schröder, et al., The Zur regulon of Corynebacterium glutamicum ATCC 13032, BMC Genomics &lt;strong&gt;11&lt;/strong&gt;, (2010).</aps>
+<bio1>Schröder J, Jochmann N, Rodionov DA, Tauch A (2010) &lt;br /&gt;The Zur regulon of Corynebacterium glutamicum ATCC 13032.&lt;br /&gt;BMC Genomics 11(1).</bio1>
+<harvard1>Schröder, J., et al., 2010. The Zur regulon of Corynebacterium glutamicum ATCC 13032. &lt;em&gt;BMC Genomics&lt;/em&gt;, 11(1).</harvard1>
+<ama>Schröder J, Jochmann N, Rodionov DA, Tauch A. The Zur regulon of Corynebacterium glutamicum ATCC 13032. &lt;em&gt;BMC Genomics&lt;/em&gt;. 2010;11(1).</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schröder, J., Jochmann, N., Rodionov, D.A. &amp;amp; Tauch, A. (2010). The Zur regulon of Corynebacterium glutamicum ATCC 13032. &lt;em&gt;BMC Genomics&lt;/em&gt;, &lt;em&gt;11&lt;/em&gt;(1). Springer Science + Business Media. doi:10.1186/1471-2164-11-12.&lt;/div&gt;</dgps>
+<default>Schröder J, Jochmann N, Rodionov DA, Tauch A (2010) &lt;br /&gt;BMC Genomics 11(1).</default>
+<wels>Schröder, J.; Jochmann, N.; Rodionov, D. A.; Tauch, A. (2010): The Zur regulon of Corynebacterium glutamicum ATCC 13032 &lt;em&gt;BMC Genomics&lt;/em&gt;,11:(1)</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1785251</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-03-09T13:05:06Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1785251</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1785251</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

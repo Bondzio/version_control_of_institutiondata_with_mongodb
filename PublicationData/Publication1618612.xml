@@ -1,0 +1,99 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Effects of internal hydrogen bonds between amide groups: Gas-phase basicity and proton affinity of linear aliphatic dicarboxamides</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Matthias</namePart>
+  <namePart type="family">Witt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Hans-Friedrich</namePart>
+  <namePart type="family">Grützmacher</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">41603</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Chemie</namePart>
+  <identifier type="unibi">10018</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The apparent gas-phase basicity GB(app) and the proton affinity PA of aliphatic dicarboxamides has been determined by tandem mass spectrometry using the kinetic method. The diamides analyzed are primary maleic acid diamide (la), fumaric acid diamide (2a) and trans,trans-muconic acid diamide (3a) and the tertiary N,N,N:N&apos;-tetramethyl derivatives 2b and 3b, which have an almost fixed relative orientation of the terminal amide groups because of the C-C double bond(s) in the carbon skeleton, and the 1,n-dicarboxamides of succinic acid (4a) and (4b), of glutaric acid (5a) and (5b), of adipinic acid (6a) and (6b) and of sebacinic acid (7a) and (7b) containing a flexible -(CH2)(a) chain with n = 2, 3, 4 and 8. Very large differences are observed for GB(app) derived from the dissociation of proton-bound heterodimers either as metastable ions or by CID for all diamides which are expected to form an internal proton bridge between the carbonyl-O atoms of the terminal amide groups in the protonated species. These effects indicate considerable conformational changes of the diamides by protonation and entropic effects accompanying the dissociation of their proton-bound heterodimers, To study the effect of collisional activation, which is believed to alter the effective temperature, T-eff, of the proton-bound dimer ions, on their dissociation, separate experiments have been performed with thermalized proton bound heterodimers of 5a using Fourier transform ion cyclotron resonance (FT-ICR) spectrometry to control the collision energy. The evaluation of T-eff from these experiments and the use of T-eff in Van&apos;t Hoff plots to determine the PA of 5a shows a surprisingly good agreement with the results from tandem mass spectrometry, which supports the view that the kinetic method using different T-eff can be used to determine the PA and the difference of the &quot;apparent entropy&quot; of protonation, Delta(DeltaS(H+))(app), of the compound under study and the reference base of the proton bound heterodimer from GB(app) even in the case of large entropy effects. The PA of maleic acid diamide la and its trans isomer 2a, not building an internal proton bridge by protonation, differ by 80 kJ mol(-1). A value of -19 J mol(-1) K is obtained for (DeltaS(H+))(app) (la) while entropic effects are essentially absent in the case of 2a, The PA of linear dicarboxamides 4a-7a increases with the length of the -(CH2)(n) chain and exceeds that of monoamides of a comparable size by 60-100 kJ mol(-1). This is attributed to the formation of an internal proton bridge and a release of constraints for the internal proton bridge for the longer chains. Delta(DeltaS(H+))(app) is practically constant for 5a-7a at a value of -41 +/- 2 J mol(-1) K, but only -19 J mol(-1) K for 4a, This can be understood if the entropy loss during protonation of the diamides is mostly due to loss of internal rotations of the amide groups. In contrast to the primary amides, the tertiary dicarboxamides 4b-7b display identical PA independent of the length of the -(CH2)(n) chain, and the effect of formation of the internal proton bridge on the PA is distinctly less than for primary dicarboxamides, In addition, a constant value of only -16 +/- 3 J mol(-1) K is obtained for Delta(DeltaS(H+))(app) of 4b-7b. These results are interpreted by different types of the proton bridges of primary and tertiary diamides. Primary linear dicarboxamides generate a true proton bridge between the carbonyl-O atoms of the terminal amide groups as corroborated by ab initio calculations of their structures. In contrast, protonated tertiary dicarboxamides display properties of (internal) ion/dipole complexes in which the protonated amide group is &quot;solvated&quot; by the second one.</abstract>
+
+<originInfo><publisher>IM PUBLICATIONS</publisher><dateIssued encoding="w3cdtf">2000</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>proton affinity</topic><topic>kinetic method</topic><topic>bonds</topic><topic>internal hydrogen</topic><topic>dicarboxamides</topic><topic>entropic effects</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>EUROPEAN JOURNAL OF MASS SPECTROMETRY</title></titleInfo>
+  <identifier type="issn">1356-1049</identifier>
+  <identifier type="ISI">000165308800002</identifier><identifier type="doi">10.1255/ejms.317</identifier>
+<part><detail type="volume"><number>6</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">97-107</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Witt, M., &amp;amp; Grützmacher, H. - F. (2000). Effects of internal hydrogen bonds between amide groups: Gas-phase basicity and proton affinity of linear aliphatic dicarboxamides. &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;(1), 97-107.&lt;/div&gt;</apa_indent>
+<ieee>M. Witt and H.-F. Grützmacher, “Effects of internal hydrogen bonds between amide groups: Gas-phase basicity and proton affinity of linear aliphatic dicarboxamides”, &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;,  vol. 6, 2000,  pp. 97-107.</ieee>
+<lncs>Witt, M., Grützmacher, H.-F.: Effects of internal hydrogen bonds between amide groups: Gas-phase basicity and proton affinity of linear aliphatic dicarboxamides. EUROPEAN JOURNAL OF MASS SPECTROMETRY. 6, 97-107 (2000).</lncs>
+<mla>Witt, Matthias, and Grützmacher, Hans-Friedrich. “Effects of internal hydrogen bonds between amide groups: Gas-phase basicity and proton affinity of linear aliphatic dicarboxamides”. &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt; 6.1 (2000): 97-107.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Witt, Matthias, and Grützmacher, Hans-Friedrich. 2000. “Effects of internal hydrogen bonds between amide groups: Gas-phase basicity and proton affinity of linear aliphatic dicarboxamides”. &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt; 6 (1): 97-107.&lt;/div&gt;</chicago>
+<apa>Witt, M., &amp;amp; Grützmacher, H. - F. (2000). Effects of internal hydrogen bonds between amide groups: Gas-phase basicity and proton affinity of linear aliphatic dicarboxamides. &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;(1), 97-107.</apa>
+<angewandte-chemie>M.  Witt, and H. - F.  Grützmacher, “Effects of internal hydrogen bonds between amide groups: Gas-phase basicity and proton affinity of linear aliphatic dicarboxamides”, &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;, &lt;strong&gt;2000&lt;/strong&gt;, &lt;em&gt;6&lt;/em&gt;, 97-107.</angewandte-chemie>
+<frontiers>Witt, M., and Grützmacher, H. - F. (2000). Effects of internal hydrogen bonds between amide groups: Gas-phase basicity and proton affinity of linear aliphatic dicarboxamides. &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt; 6, 97-107.</frontiers>
+<harvard1>Witt, M., &amp;amp; Grützmacher, H.-F., 2000. Effects of internal hydrogen bonds between amide groups: Gas-phase basicity and proton affinity of linear aliphatic dicarboxamides. &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;, 6(1), p 97-107.</harvard1>
+<ama>Witt M, Grützmacher H-F. Effects of internal hydrogen bonds between amide groups: Gas-phase basicity and proton affinity of linear aliphatic dicarboxamides. &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;. 2000;6(1):97-107.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Witt, M. &amp;amp; Grützmacher, H.-F. (2000). Effects of internal hydrogen bonds between amide groups: Gas-phase basicity and proton affinity of linear aliphatic dicarboxamides. &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;(1), 97-107. IM PUBLICATIONS. doi:10.1255/ejms.317.&lt;/div&gt;</dgps>
+<bio1>Witt M, Grützmacher H-F (2000) &lt;br /&gt;Effects of internal hydrogen bonds between amide groups: Gas-phase basicity and proton affinity of linear aliphatic dicarboxamides.&lt;br /&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY 6(1): 97-107.</bio1>
+<aps>M.  Witt and H. - F.  Grützmacher, Effects of internal hydrogen bonds between amide groups: Gas-phase basicity and proton affinity of linear aliphatic dicarboxamides, EUROPEAN JOURNAL OF MASS SPECTROMETRY &lt;strong&gt;6&lt;/strong&gt;, 97-107 (2000).</aps>
+<wels>Witt, M.; Grützmacher, H. - F. (2000): Effects of internal hydrogen bonds between amide groups: Gas-phase basicity and proton affinity of linear aliphatic dicarboxamides &lt;em&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY&lt;/em&gt;,6:(1): 97-107.</wels>
+<default>Witt M, Grützmacher H-F (2000) &lt;br /&gt;EUROPEAN JOURNAL OF MASS SPECTROMETRY 6(1): 97-107.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1618612</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:03:47Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-10T15:03:10Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1618612</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1618612</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

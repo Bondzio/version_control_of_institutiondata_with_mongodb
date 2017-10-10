@@ -1,0 +1,151 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Engineering photosynthetic light capture: impacts on improved solar energy to biomass conversion</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Jan H.</namePart>
+  <namePart type="family">Mussgnug</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">3654583</identifier></name>
+<name type="personal">
+  <namePart type="given">Skye</namePart>
+  <namePart type="family">Thomas-Hall</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jens</namePart>
+  <namePart type="family">Rupprecht</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alexander</namePart>
+  <namePart type="family">Foo</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Viktor</namePart>
+  <namePart type="family">Klassen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alasdair</namePart>
+  <namePart type="family">McDowall</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Peer M.</namePart>
+  <namePart type="family">Schenk</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Olaf</namePart>
+  <namePart type="family">Kruse</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">22124</identifier></name>
+<name type="personal">
+  <namePart type="given">Ben</namePart>
+  <namePart type="family">Hankamer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">4838684</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">4833667</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33086312</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The main function of the photosynthetic process is to capture solar energy and to store it in the form of chemical &apos;fuels&apos;. Increasingly, the photosynthetic machinery is being used for the production of biofuels such as bio-ethanol, biodiesel and bio-H-2. Fuel production efficiency is directly dependent on the solar photon capture and conversion efficiency of the system. Green algae (e.g. Chlamydomonas reinhardtii) have evolved genetic strategies to assemble large light-harvesting antenna complexes (LHC) to maximize light capture under low-light conditions, with the downside that under high solar irradiance, most of the absorbed photons are wasted as fluorescence and heat to protect against photodamage. This limits the production process efficiency of mass culture. We applied RNAi technology to down-regulate the entire LHC gene family simultaneously to reduce energy losses by fluorescence and heat. The mutant Stm3LR3 had significantly reduced levels of LHCI and LHCII mRNAs and proteins while chlorophyll and pigment synthesis was functional. The grana were markedly less tightly stacked, consistent with the role of LHCII. Stm3LR3 also exhibited reduced levels of fluorescence, a higher photosynthetic quantum yield and a reduced sensitivity to photoinhibition, resulting in an increased efficiency of cell cultivation under elevated light conditions. Collectively, these properties offer three advantages in terms of algal bioreactor efficiency under natural high-light levels: (i) reduced fluorescence and LHC-dependent heat losses and thus increased photosynthetic efficiencies under high-light conditions; (ii) improved light penetration properties; and (iii) potentially reduced risk of oxidative photodamage of PSII.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Mussgnug et al 2007.pdf">https://pub.uni-bielefeld.de/download/1631729/2904885</url>
+  </location>
+  <physicalDescription><internetMediaType>text/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem><accessCondition type="use and reproduction">'https://creativecommons.org/licenses/by/4.0/'</accessCondition>
+<originInfo><publisher>BLACKWELL PUBLISHING</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>photoinhibition</topic><topic>solar energy conversion</topic><topic>RNAi</topic><topic>biomass</topic><topic>light harvesting</topic><topic>photosynthesis</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>PLANT BIOTECHNOLOGY JOURNAL</title></titleInfo>
+  <identifier type="issn">1467-7644</identifier>
+  <identifier type="eIssn">1467-7652</identifier>
+  <identifier type="MEDLINE">17764518</identifier>
+  <identifier type="ISI">000249994400011</identifier><identifier type="urn">urn:nbn:de:0070-pub-16317292</identifier><identifier type="doi">10.1111/j.1467-7652.2007.00285.x</identifier>
+<part><detail type="volume"><number>5</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">802-814</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps> J. H.  Mussgnug, et al., Engineering photosynthetic light capture: impacts on improved solar energy to biomass conversion, PLANT BIOTECHNOLOGY JOURNAL &lt;strong&gt;5&lt;/strong&gt;, 802-814 (2007).</aps>
+<bio1>Mussgnug JH, Thomas-Hall S, Rupprecht J, Foo A, Klassen V, McDowall A, Schenk PM, Kruse O, Hankamer B (2007) &lt;br /&gt;Engineering photosynthetic light capture: impacts on improved solar energy to biomass conversion.&lt;br /&gt;PLANT BIOTECHNOLOGY JOURNAL 5(6): 802-814.</bio1>
+<ama>Mussgnug JH, Thomas-Hall S, Rupprecht J, et al. Engineering photosynthetic light capture: impacts on improved solar energy to biomass conversion. &lt;em&gt;PLANT BIOTECHNOLOGY JOURNAL&lt;/em&gt;. 2007;5(6):802-814.</ama>
+<harvard1>Mussgnug, J.H., et al., 2007. Engineering photosynthetic light capture: impacts on improved solar energy to biomass conversion. &lt;em&gt;PLANT BIOTECHNOLOGY JOURNAL&lt;/em&gt;, 5(6), p 802-814.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Mussgnug, J.H., Thomas-Hall, S., Rupprecht, J., Foo, A., Klassen, V., McDowall, A., Schenk, P.M., Kruse, O. &amp;amp; Hankamer, B. (2007). Engineering photosynthetic light capture: impacts on improved solar energy to biomass conversion. &lt;em&gt;PLANT BIOTECHNOLOGY JOURNAL&lt;/em&gt;, &lt;em&gt;5&lt;/em&gt;(6), 802-814. BLACKWELL PUBLISHING. doi:10.1111/j.1467-7652.2007.00285.x.&lt;/div&gt;</dgps>
+<default>Mussgnug JH, Thomas-Hall S, Rupprecht J, Foo A, Klassen V, McDowall A, Schenk PM, Kruse O, Hankamer B (2007) &lt;br /&gt;PLANT BIOTECHNOLOGY JOURNAL 5(6): 802-814.</default>
+<wels>Mussgnug, J. H.; Thomas-Hall, S.; Rupprecht, J.; Foo, A.; Klassen, V.; McDowall, A.; Schenk, P. M.; Kruse, O.; Hankamer, B. (2007): Engineering photosynthetic light capture: impacts on improved solar energy to biomass conversion &lt;em&gt;PLANT BIOTECHNOLOGY JOURNAL&lt;/em&gt;,5:(6): 802-814.</wels>
+<lncs> Mussgnug, J.H., Thomas-Hall, S., Rupprecht, J., Foo, A., Klassen, V., McDowall, A., Schenk, P.M., Kruse, O., Hankamer, B.: Engineering photosynthetic light capture: impacts on improved solar energy to biomass conversion. PLANT BIOTECHNOLOGY JOURNAL. 5, 802-814 (2007).</lncs>
+<mla>Mussgnug, Jan H., Thomas-Hall, Skye, Rupprecht, Jens, Foo, Alexander, Klassen, Viktor, McDowall, Alasdair, Schenk, Peer M., Kruse, Olaf, and Hankamer, Ben. “Engineering photosynthetic light capture: impacts on improved solar energy to biomass conversion”. &lt;em&gt;PLANT BIOTECHNOLOGY JOURNAL&lt;/em&gt; 5.6 (2007): 802-814.</mla>
+<ieee> J.H. Mussgnug, et al., “Engineering photosynthetic light capture: impacts on improved solar energy to biomass conversion”, &lt;em&gt;PLANT BIOTECHNOLOGY JOURNAL&lt;/em&gt;,  vol. 5, 2007,  pp. 802-814.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Mussgnug, J. H., Thomas-Hall, S., Rupprecht, J., Foo, A., Klassen, V., McDowall, A., Schenk, P. M., et al. (2007). Engineering photosynthetic light capture: impacts on improved solar energy to biomass conversion. &lt;em&gt;PLANT BIOTECHNOLOGY JOURNAL&lt;/em&gt;, &lt;em&gt;5&lt;/em&gt;(6), 802-814.&lt;/div&gt;</apa_indent>
+<frontiers>Mussgnug, J. H., Thomas-Hall, S., Rupprecht, J., Foo, A., Klassen, V., McDowall, A., Schenk, P. M., Kruse, O., and Hankamer, B. (2007). Engineering photosynthetic light capture: impacts on improved solar energy to biomass conversion. &lt;em&gt;PLANT BIOTECHNOLOGY JOURNAL&lt;/em&gt; 5, 802-814.</frontiers>
+<apa>Mussgnug, J. H., Thomas-Hall, S., Rupprecht, J., Foo, A., Klassen, V., McDowall, A., Schenk, P. M., et al. (2007). Engineering photosynthetic light capture: impacts on improved solar energy to biomass conversion. &lt;em&gt;PLANT BIOTECHNOLOGY JOURNAL&lt;/em&gt;, &lt;em&gt;5&lt;/em&gt;(6), 802-814.</apa>
+<angewandte-chemie>J. H.  Mussgnug, S.  Thomas-Hall, J.  Rupprecht, A.  Foo, V.  Klassen, A.  McDowall, P. M.  Schenk, O.  Kruse, and B.  Hankamer, “Engineering photosynthetic light capture: impacts on improved solar energy to biomass conversion”, &lt;em&gt;PLANT BIOTECHNOLOGY JOURNAL&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;5&lt;/em&gt;, 802-814.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Mussgnug, Jan H., Thomas-Hall, Skye, Rupprecht, Jens, Foo, Alexander, Klassen, Viktor, McDowall, Alasdair, Schenk, Peer M., Kruse, Olaf, and Hankamer, Ben. 2007. “Engineering photosynthetic light capture: impacts on improved solar energy to biomass conversion”. &lt;em&gt;PLANT BIOTECHNOLOGY JOURNAL&lt;/em&gt; 5 (6): 802-814.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1631729</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:05:54Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-08-01T11:03:24Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1631729</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1631729</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,146 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The mitochondrial type II peroxiredoxin from poplar</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Filipe</namePart>
+  <namePart type="family">Gama</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Olivier</namePart>
+  <namePart type="family">Keech</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Francoise</namePart>
+  <namePart type="family">Eymery</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Iris</namePart>
+  <namePart type="family">Finkemeier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Eric</namePart>
+  <namePart type="family">Gelhaye</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Per</namePart>
+  <namePart type="family">Gardestrom</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Karl-Josef</namePart>
+  <namePart type="family">Dietz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21935</identifier></name>
+<name type="personal">
+  <namePart type="given">Pascal</namePart>
+  <namePart type="family">Rey</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jean-Pierre</namePart>
+  <namePart type="family">Jacquot</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Nicolas</namePart>
+  <namePart type="family">Rouhier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070563</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2685177</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Mitochondria are a major site of reactive oxygen species production and controlling the peroxide levels in this compartment is essential. Peroxiredoxins (Prx) are heme-free peroxidases, which use reactive cysteines for their catalysis and reducing systems for their regeneration. One of the two Prxs present in poplar mitochondria, Prx IIF, expressed as a recombinant protein, was found to reduce a broad range of peroxides with electrons provided preferentially by glutaredoxin and to a lesser extent by glutathione, all the thioredoxins tested being inefficient. This protein is constitutively expressed because it is found in all tissues analyzed. Its expression is modified during a biotic interaction between poplar and the rust fungus Melampsora laricii populina. On the other hand, Prx IIF expression does not substantially vary under abiotic stress conditions. Nevertheless, water deficit or chilling and probably induced senescence, but not photooxidative conditions or heavy metal treatment, also led to a small increase in PrxIIF abundance in Arabidopsis thaliana plants.</abstract>
+
+<originInfo><publisher>BLACKWELL PUBLISHING</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>PHYSIOLOGIA PLANTARUM</title></titleInfo>
+  <identifier type="issn">0031-9317</identifier>
+  <identifier type="eIssn">1399-3054</identifier>
+  <identifier type="ISI">000242865700020</identifier><identifier type="doi">10.1111/j.1399-3054.2006.00785.x</identifier>
+<part><detail type="volume"><number>129</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">196-206</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee> F. Gama, et al., “The mitochondrial type II peroxiredoxin from poplar”, &lt;em&gt;PHYSIOLOGIA PLANTARUM&lt;/em&gt;,  vol. 129, 2007,  pp. 196-206.</ieee>
+<lncs> Gama, F., Keech, O., Eymery, F., Finkemeier, I., Gelhaye, E., Gardestrom, P., Dietz, K.-J., Rey, P., Jacquot, J.-P., Rouhier, N.: The mitochondrial type II peroxiredoxin from poplar. PHYSIOLOGIA PLANTARUM. 129, 196-206 (2007).</lncs>
+<mla>Gama, Filipe, Keech, Olivier, Eymery, Francoise, Finkemeier, Iris, Gelhaye, Eric, Gardestrom, Per, Dietz, Karl-Josef, Rey, Pascal, Jacquot, Jean-Pierre, and Rouhier, Nicolas. “The mitochondrial type II peroxiredoxin from poplar”. &lt;em&gt;PHYSIOLOGIA PLANTARUM&lt;/em&gt; 129.1 (2007): 196-206.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gama, F., Keech, O., Eymery, F., Finkemeier, I., Gelhaye, E., Gardestrom, P., Dietz, K. - J., et al. (2007). The mitochondrial type II peroxiredoxin from poplar. &lt;em&gt;PHYSIOLOGIA PLANTARUM&lt;/em&gt;, &lt;em&gt;129&lt;/em&gt;(1), 196-206.&lt;/div&gt;</apa_indent>
+<apa>Gama, F., Keech, O., Eymery, F., Finkemeier, I., Gelhaye, E., Gardestrom, P., Dietz, K. - J., et al. (2007). The mitochondrial type II peroxiredoxin from poplar. &lt;em&gt;PHYSIOLOGIA PLANTARUM&lt;/em&gt;, &lt;em&gt;129&lt;/em&gt;(1), 196-206.</apa>
+<angewandte-chemie>F.  Gama, O.  Keech, F.  Eymery, I.  Finkemeier, E.  Gelhaye, P.  Gardestrom, K. - J.  Dietz, P.  Rey, J. - P.  Jacquot, and N.  Rouhier, “The mitochondrial type II peroxiredoxin from poplar”, &lt;em&gt;PHYSIOLOGIA PLANTARUM&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;129&lt;/em&gt;, 196-206.</angewandte-chemie>
+<frontiers>Gama, F., Keech, O., Eymery, F., Finkemeier, I., Gelhaye, E., Gardestrom, P., Dietz, K. - J., Rey, P., Jacquot, J. - P., and Rouhier, N. (2007). The mitochondrial type II peroxiredoxin from poplar. &lt;em&gt;PHYSIOLOGIA PLANTARUM&lt;/em&gt; 129, 196-206.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gama, Filipe, Keech, Olivier, Eymery, Francoise, Finkemeier, Iris, Gelhaye, Eric, Gardestrom, Per, Dietz, Karl-Josef, Rey, Pascal, Jacquot, Jean-Pierre, and Rouhier, Nicolas. 2007. “The mitochondrial type II peroxiredoxin from poplar”. &lt;em&gt;PHYSIOLOGIA PLANTARUM&lt;/em&gt; 129 (1): 196-206.&lt;/div&gt;</chicago>
+<harvard1>Gama, F., et al., 2007. The mitochondrial type II peroxiredoxin from poplar. &lt;em&gt;PHYSIOLOGIA PLANTARUM&lt;/em&gt;, 129(1), p 196-206.</harvard1>
+<ama>Gama F, Keech O, Eymery F, et al. The mitochondrial type II peroxiredoxin from poplar. &lt;em&gt;PHYSIOLOGIA PLANTARUM&lt;/em&gt;. 2007;129(1):196-206.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gama, F., Keech, O., Eymery, F., Finkemeier, I., Gelhaye, E., Gardestrom, P., Dietz, K.-J., Rey, P., Jacquot, J.-P. &amp;amp; Rouhier, N. (2007). The mitochondrial type II peroxiredoxin from poplar. &lt;em&gt;PHYSIOLOGIA PLANTARUM&lt;/em&gt;, &lt;em&gt;129&lt;/em&gt;(1), 196-206. BLACKWELL PUBLISHING. doi:10.1111/j.1399-3054.2006.00785.x.&lt;/div&gt;</dgps>
+<aps> F.  Gama, et al., The mitochondrial type II peroxiredoxin from poplar, PHYSIOLOGIA PLANTARUM &lt;strong&gt;129&lt;/strong&gt;, 196-206 (2007).</aps>
+<bio1>Gama F, Keech O, Eymery F, Finkemeier I, Gelhaye E, Gardestrom P, Dietz K-J, Rey P, Jacquot J-P, Rouhier N (2007) &lt;br /&gt;The mitochondrial type II peroxiredoxin from poplar.&lt;br /&gt;PHYSIOLOGIA PLANTARUM 129(1): 196-206.</bio1>
+<wels>Gama, F.; Keech, O.; Eymery, F.; Finkemeier, I.; Gelhaye, E.; Gardestrom, P.; Dietz, K. - J.; Rey, P.; Jacquot, J. - P.; Rouhier, N. (2007): The mitochondrial type II peroxiredoxin from poplar &lt;em&gt;PHYSIOLOGIA PLANTARUM&lt;/em&gt;,129:(1): 196-206.</wels>
+<default>Gama F, Keech O, Eymery F, Finkemeier I, Gelhaye E, Gardestrom P, Dietz K-J, Rey P, Jacquot J-P, Rouhier N (2007) &lt;br /&gt;PHYSIOLOGIA PLANTARUM 129(1): 196-206.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1596412</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:17:07Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-24T12:18:27Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1596412</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1596412</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,115 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Critical behaviour of SU(2) lattice gauge theory. A complete analysis with the chi(2)-method</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Jürgen</namePart>
+  <namePart type="family">Engels</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40338</identifier></name>
+<name type="personal">
+  <namePart type="given">S</namePart>
+  <namePart type="family">Mashkevich</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">T</namePart>
+  <namePart type="family">Scheideler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">G</namePart>
+  <namePart type="family">Zinovjev</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We determine the critical point and the ratios beta/nu and gamma/nu of critical exponents of the deconfinement transition in SU(2) gauge theory by applying the chi(2)-method to Monte Carlo data of the modulus and the square of the Polyakov loop. With the same technique we find from the Binder cumulant g(r) its universal value at the critical point in the thermodynamical limit to -1.403(16) and for the next-to-leading exponent omega = 1 +/- 0.1. From the derivatives of the Polyakov loop dependent quantities we estimate then 1/nu. The result from the derivative of gr is 1/nu = 0.63 +/- 0.01, in complete agreement with that of the 3d Ising model.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">1996</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>PHYSICS LETTERS B</title></titleInfo>
+  <identifier type="issn">0370-2693</identifier>
+  <identifier type="arXiv">hep-lat/9509091</identifier>
+  <identifier type="INSPIRE">400055</identifier>
+  <identifier type="ISI">A1996TR78800035</identifier><identifier type="doi">10.1016/0370-2693(95)01280-X</identifier>
+<part><detail type="volume"><number>365</number></detail><detail type="issue"><number>1-4</number></detail><extent unit="pages">219-224</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, J., Mashkevich, S., Scheideler, T. &amp;amp; Zinovjev, G. (1996). Critical behaviour of SU(2) lattice gauge theory. A complete analysis with the chi(2)-method. &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt;, &lt;em&gt;365&lt;/em&gt;(1-4), 219-224. ELSEVIER SCIENCE BV. doi:10.1016/0370-2693(95)01280-X.&lt;/div&gt;</dgps>
+<ama>Engels J, Mashkevich S, Scheideler T, Zinovjev G. Critical behaviour of SU(2) lattice gauge theory. A complete analysis with the chi(2)-method. &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt;. 1996;365(1-4):219-224.</ama>
+<harvard1>Engels, J., et al., 1996. Critical behaviour of SU(2) lattice gauge theory. A complete analysis with the chi(2)-method. &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt;, 365(1-4), p 219-224.</harvard1>
+<aps>J.  Engels, et al., Critical behaviour of SU(2) lattice gauge theory. A complete analysis with the chi(2)-method, PHYSICS LETTERS B &lt;strong&gt;365&lt;/strong&gt;, 219-224 (1996).</aps>
+<bio1>Engels J, Mashkevich S, Scheideler T, Zinovjev G (1996) &lt;br /&gt;Critical behaviour of SU(2) lattice gauge theory. A complete analysis with the chi(2)-method.&lt;br /&gt;PHYSICS LETTERS B 365(1-4): 219-224.</bio1>
+<wels>Engels, J.; Mashkevich, S.; Scheideler, T.; Zinovjev, G. (1996): Critical behaviour of SU(2) lattice gauge theory. A complete analysis with the chi(2)-method &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt;,365:(1-4): 219-224.</wels>
+<default>Engels J, Mashkevich S, Scheideler T, Zinovjev G (1996) &lt;br /&gt;PHYSICS LETTERS B 365(1-4): 219-224.</default>
+<ieee>J. Engels, et al., “Critical behaviour of SU(2) lattice gauge theory. A complete analysis with the chi(2)-method”, &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt;,  vol. 365, 1996,  pp. 219-224.</ieee>
+<mla>Engels, Jürgen, Mashkevich, S, Scheideler, T, and Zinovjev, G. “Critical behaviour of SU(2) lattice gauge theory. A complete analysis with the chi(2)-method”. &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt; 365.1-4 (1996): 219-224.</mla>
+<lncs>Engels, J., Mashkevich, S., Scheideler, T., Zinovjev, G.: Critical behaviour of SU(2) lattice gauge theory. A complete analysis with the chi(2)-method. PHYSICS LETTERS B. 365, 219-224 (1996).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, J., Mashkevich, S., Scheideler, T., &amp;amp; Zinovjev, G. (1996). Critical behaviour of SU(2) lattice gauge theory. A complete analysis with the chi(2)-method. &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt;, &lt;em&gt;365&lt;/em&gt;(1-4), 219-224.&lt;/div&gt;</apa_indent>
+<apa>Engels, J., Mashkevich, S., Scheideler, T., &amp;amp; Zinovjev, G. (1996). Critical behaviour of SU(2) lattice gauge theory. A complete analysis with the chi(2)-method. &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt;, &lt;em&gt;365&lt;/em&gt;(1-4), 219-224.</apa>
+<angewandte-chemie>J.  Engels, S.  Mashkevich, T.  Scheideler, and G.  Zinovjev, “Critical behaviour of SU(2) lattice gauge theory. A complete analysis with the chi(2)-method”, &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt;, &lt;strong&gt;1996&lt;/strong&gt;, &lt;em&gt;365&lt;/em&gt;, 219-224.</angewandte-chemie>
+<frontiers>Engels, J., Mashkevich, S., Scheideler, T., and Zinovjev, G. (1996). Critical behaviour of SU(2) lattice gauge theory. A complete analysis with the chi(2)-method. &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt; 365, 219-224.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, Jürgen, Mashkevich, S, Scheideler, T, and Zinovjev, G. 1996. “Critical behaviour of SU(2) lattice gauge theory. A complete analysis with the chi(2)-method”. &lt;em&gt;PHYSICS LETTERS B&lt;/em&gt; 365 (1-4): 219-224.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1629010</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:26:39Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-13T12:48:00Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1629010</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1629010</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

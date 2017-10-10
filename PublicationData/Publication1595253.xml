@@ -1,0 +1,116 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>An incomplex algorithm for fast suffix array construction</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Klaus-Bernd</namePart>
+  <namePart type="family">Schürmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jens</namePart>
+  <namePart type="family">Stoye</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">65864</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-4656-7155</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group J. Stoye</namePart>
+  <identifier type="unibi">33067262</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Genominformatik</namePart>
+  <identifier type="unibi">66100</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The suffix array of a string is a permutation of all starting positions of the string&apos;s suffixes that are lexicographically sorted. We present a practical algorithm for suffix array construction that consists of two easy-to-implement components. First it sorts the suffixes with respect to a fixed length prefix; then it refines each bucket of suffixes sharing the same prefix using the order of already sorted suffixes. Other suffix array construction algorithms follow more complex strategies. Moreover, we achieve a very fast construction for common strings as well as for worst case strings by enhancing our algorithm with further techniques. Copyright (C) 2006 John Wiley &amp; Sons, Ltd.</abstract>
+
+<originInfo><publisher>JOHN WILEY &amp; SONS LTD</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>strings</topic><topic>permutations</topic><topic>indexing</topic><topic>suffix arrays</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>SOFTWARE-PRACTICE &amp; EXPERIENCE</title></titleInfo>
+  <identifier type="issn">0038-0644</identifier>
+  <identifier type="eIssn">1097-024X</identifier>
+  <identifier type="ISI">000244904900004</identifier><identifier type="doi">10.1002/spe.768</identifier>
+<part><detail type="volume"><number>37</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">309-329</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Schürmann, K. - B., and Stoye, J. (2007). An incomplex algorithm for fast suffix array construction. &lt;em&gt;SOFTWARE-PRACTICE &amp;amp; EXPERIENCE&lt;/em&gt; 37, 309-329.</frontiers>
+<angewandte-chemie>K. - B.  Schürmann, and J.  Stoye, “An incomplex algorithm for fast suffix array construction”, &lt;em&gt;SOFTWARE-PRACTICE &amp;amp; EXPERIENCE&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;37&lt;/em&gt;, 309-329.</angewandte-chemie>
+<apa>Schürmann, K. - B., &amp;amp; Stoye, J. (2007). An incomplex algorithm for fast suffix array construction. &lt;em&gt;SOFTWARE-PRACTICE &amp;amp; EXPERIENCE&lt;/em&gt;, &lt;em&gt;37&lt;/em&gt;(3), 309-329.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schürmann, Klaus-Bernd, and Stoye, Jens. 2007. “An incomplex algorithm for fast suffix array construction”. &lt;em&gt;SOFTWARE-PRACTICE &amp;amp; EXPERIENCE&lt;/em&gt; 37 (3): 309-329.&lt;/div&gt;</chicago>
+<mla>Schürmann, Klaus-Bernd, and Stoye, Jens. “An incomplex algorithm for fast suffix array construction”. &lt;em&gt;SOFTWARE-PRACTICE &amp;amp; EXPERIENCE&lt;/em&gt; 37.3 (2007): 309-329.</mla>
+<lncs>Schürmann, K.-B., Stoye, J.: An incomplex algorithm for fast suffix array construction. SOFTWARE-PRACTICE &amp;amp; EXPERIENCE. 37, 309-329 (2007).</lncs>
+<ieee>K.-B. Schürmann and J. Stoye, “An incomplex algorithm for fast suffix array construction”, &lt;em&gt;SOFTWARE-PRACTICE &amp;amp; EXPERIENCE&lt;/em&gt;,  vol. 37, 2007,  pp. 309-329.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schürmann, K. - B., &amp;amp; Stoye, J. (2007). An incomplex algorithm for fast suffix array construction. &lt;em&gt;SOFTWARE-PRACTICE &amp;amp; EXPERIENCE&lt;/em&gt;, &lt;em&gt;37&lt;/em&gt;(3), 309-329.&lt;/div&gt;</apa_indent>
+<default>Schürmann K-B, Stoye J (2007) &lt;br /&gt;SOFTWARE-PRACTICE &amp;amp; EXPERIENCE 37(3): 309-329.</default>
+<wels>Schürmann, K. - B.; Stoye, J. (2007): An incomplex algorithm for fast suffix array construction &lt;em&gt;SOFTWARE-PRACTICE &amp;amp; EXPERIENCE&lt;/em&gt;,37:(3): 309-329.</wels>
+<aps>K. - B.  Schürmann and J.  Stoye, An incomplex algorithm for fast suffix array construction, SOFTWARE-PRACTICE &amp;amp; EXPERIENCE &lt;strong&gt;37&lt;/strong&gt;, 309-329 (2007).</aps>
+<bio1>Schürmann K-B, Stoye J (2007) &lt;br /&gt;An incomplex algorithm for fast suffix array construction.&lt;br /&gt;SOFTWARE-PRACTICE &amp;amp; EXPERIENCE 37(3): 309-329.</bio1>
+<harvard1>Schürmann, K.-B., &amp;amp; Stoye, J., 2007. An incomplex algorithm for fast suffix array construction. &lt;em&gt;SOFTWARE-PRACTICE &amp;amp; EXPERIENCE&lt;/em&gt;, 37(3), p 309-329.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schürmann, K.-B. &amp;amp; Stoye, J. (2007). An incomplex algorithm for fast suffix array construction. &lt;em&gt;SOFTWARE-PRACTICE &amp;amp; EXPERIENCE&lt;/em&gt;, &lt;em&gt;37&lt;/em&gt;(3), 309-329. JOHN WILEY &amp;amp; SONS LTD. doi:10.1002/spe.768.&lt;/div&gt;</dgps>
+<ama>Schürmann K-B, Stoye J. An incomplex algorithm for fast suffix array construction. &lt;em&gt;SOFTWARE-PRACTICE &amp;amp; EXPERIENCE&lt;/em&gt;. 2007;37(3):309-329.</ama>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1595253</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:37Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-01-18T09:11:11Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1595253</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1595253</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

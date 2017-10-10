@@ -1,0 +1,96 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>A measure theoretical problem in mean demand analysis</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Walter</namePart>
+  <namePart type="family">Trockel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">62508</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0001-9827-6424</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für mathematische Wirtschaftsforschung</namePart>
+  <identifier type="unibi">10053</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT1373.pdf">https://pub.uni-bielefeld.de/download/1777009/2312300</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Hain</publisher><dateIssued encoding="w3cdtf">1980</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Symposium on Operations Research: proceedings organized by Ges. für Mathematik, Ökonomie und Operations-Research</title></titleInfo>
+  <identifier type="isbn">3-445-12084-6</identifier><identifier type="urn">urn:nbn:de:0070-bipr-13733</identifier>
+<part><extent unit="pages">175-187</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Trockel, W. (1980): A measure theoretical problem in mean demand analysis. In: Symposium on Operations Research: proceedings organized by Ges. für Mathematik, Ökonomie und Operations-Research. Königstein/Ts.: Hain. (Methods of operations research ; 38, ).  S. 175-187.</wels>
+<default>Trockel W (1980)  &lt;br /&gt;In:  Symposium on Operations Research: proceedings organized by Ges. für Mathematik, Ökonomie und Operations-Research.  Methods of operations research ; 38, . Königstein/Ts.: Hain:  175-187.</default>
+<ama>Trockel W. A measure theoretical problem in mean demand analysis. In:  &lt;em&gt;Symposium on Operations Research: proceedings organized by Ges. für Mathematik, Ökonomie und Operations-Research&lt;/em&gt;. Methods of operations research ; 38. Königstein/Ts.: Hain;  1980: 175-187.</ama>
+<harvard1>Trockel, W., 1980. A measure theoretical problem in mean demand analysis. In &lt;em&gt;Symposium on Operations Research: proceedings organized by Ges. für Mathematik, Ökonomie und Operations-Research&lt;/em&gt;. Methods of operations research ; 38.  Königstein/Ts.: Hain, pp. 175-187.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Trockel, W. (1980). A measure theoretical problem in mean demand analysis (Methods of operations research ; 38). &lt;em&gt;Symposium on Operations Research: proceedings organized by Ges. für Mathematik, Ökonomie und Operations-Research&lt;/em&gt; (S. 175-187). Königstein/Ts.: Hain.&lt;/div&gt;</dgps>
+<bio1>Trockel W (1980) &lt;br /&gt;A measure theoretical problem in mean demand analysis. &lt;br /&gt;In:  Symposium on Operations Research: proceedings organized by Ges. für Mathematik, Ökonomie und Operations-Research.  Methods of operations research ; 38,  Königstein/Ts.: Hain:  175-187.</bio1>
+<aps>W.  Trockel, A measure theoretical problem in mean demand analysis, in &lt;em&gt;Symposium on Operations Research: proceedings organized by Ges. für Mathematik, Ökonomie und Operations-Research&lt;/em&gt;, Methods of operations research ; 38 (Hain, Königstein/ts., 1980), p. 175-187.</aps>
+<angewandte-chemie>W.  Trockel, in &lt;em&gt;Symposium on Operations Research: proceedings organized by Ges. für Mathematik, Ökonomie und Operations-Research&lt;/em&gt;, Hain, Königstein/Ts., &lt;strong&gt;1980&lt;/strong&gt;, p. 175-187.</angewandte-chemie>
+<apa>Trockel, W. (1980). A measure theoretical problem in mean demand analysis. &lt;em&gt;Symposium on Operations Research: proceedings organized by Ges. für Mathematik, Ökonomie und Operations-Research&lt;/em&gt;, 175-187.</apa>
+<frontiers>Trockel, W. (1980). “A measure theoretical problem in mean demand analysis” in &lt;em&gt;Symposium on Operations Research: proceedings organized by Ges. für Mathematik, Ökonomie und Operations-Research&lt;/em&gt; Methods of operations research ; 38 (Königstein/Ts.: Hain), 175-187.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Trockel, Walter. 1980. “A measure theoretical problem in mean demand analysis”. In &lt;em&gt;Symposium on Operations Research: proceedings organized by Ges. für Mathematik, Ökonomie und Operations-Research&lt;/em&gt;, 175-187. Methods of operations research ; 38. Königstein/Ts.: Hain.&lt;/div&gt;</chicago>
+<ieee>W. Trockel, “A measure theoretical problem in mean demand analysis”, &lt;em&gt;Symposium on Operations Research: proceedings organized by Ges. für Mathematik, Ökonomie und Operations-Research&lt;/em&gt;, Methods of operations research ; 38,  Königstein/Ts.: Hain, 1980,  pp.175-187.</ieee>
+<lncs>Trockel, W.: A measure theoretical problem in mean demand analysis. Symposium on Operations Research: proceedings organized by Ges. für Mathematik, Ökonomie und Operations-Research. Methods of operations research ; 38. p. 175-187. Hain, Königstein/Ts. (1980).</lncs>
+<mla>Trockel, Walter. “A measure theoretical problem in mean demand analysis”. &lt;em&gt;Symposium on Operations Research: proceedings organized by Ges. für Mathematik, Ökonomie und Operations-Research&lt;/em&gt;. Königstein/Ts.: Hain, 1980. Methods of operations research ; 38. 175-187.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Trockel, W. (1980). A measure theoretical problem in mean demand analysis. &lt;em&gt;Symposium on Operations Research: proceedings organized by Ges. für Mathematik, Ökonomie und Operations-Research&lt;/em&gt;, 175-187.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1777009</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1777009</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1777009</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

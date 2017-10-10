@@ -1,0 +1,121 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>On sorting by translocations</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Anne</namePart>
+  <namePart type="family">Bergeron</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Julia</namePart>
+  <namePart type="family">Mixtacki</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jens</namePart>
+  <namePart type="family">Stoye</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">65864</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-4656-7155</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Research Group J. Stoye</namePart>
+  <identifier type="unibi">33067262</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Genominformatik</namePart>
+  <identifier type="unibi">66100</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The study of genome rearrangements is an important tool in comparative genomics. This paper revisits the problem of sorting a multichromosomal genome by translocations, i.e., exchanges of chromosome ends. We give an elementary proof of the formula for computing the translocation distance in linear time, and we give a new algorithm for sorting by translocations, correcting an error in a previous algorithm by Hannenhalli.</abstract>
+
+<originInfo><publisher>MARY ANN LIEBERT INC</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>comparative genomics</topic><topic>genome rearrangement</topic><topic>sorting by translocations</topic><topic>translocation distance</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF COMPUTATIONAL BIOLOGY</title></titleInfo>
+  <identifier type="issn">1066-5277</identifier>
+  <identifier type="eIssn">1557-8666</identifier>
+  <identifier type="MEDLINE">16597257</identifier>
+  <identifier type="ISI">000236954700028</identifier><identifier type="doi">10.1089/cmb.2006.13.567</identifier>
+<part><detail type="volume"><number>13</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">567-578</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Bergeron A, Mixtacki J, Stoye J (2006) &lt;br /&gt;JOURNAL OF COMPUTATIONAL BIOLOGY 13(2): 567-578.</default>
+<wels>Bergeron, A.; Mixtacki, J.; Stoye, J. (2006): On sorting by translocations &lt;em&gt;JOURNAL OF COMPUTATIONAL BIOLOGY&lt;/em&gt;,13:(2): 567-578.</wels>
+<aps>A.  Bergeron, J.  Mixtacki, and J.  Stoye, On sorting by translocations, JOURNAL OF COMPUTATIONAL BIOLOGY &lt;strong&gt;13&lt;/strong&gt;, 567-578 (2006).</aps>
+<bio1>Bergeron A, Mixtacki J, Stoye J (2006) &lt;br /&gt;On sorting by translocations.&lt;br /&gt;JOURNAL OF COMPUTATIONAL BIOLOGY 13(2): 567-578.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bergeron, A., Mixtacki, J. &amp;amp; Stoye, J. (2006). On sorting by translocations. &lt;em&gt;JOURNAL OF COMPUTATIONAL BIOLOGY&lt;/em&gt;, &lt;em&gt;13&lt;/em&gt;(2), 567-578. MARY ANN LIEBERT INC. doi:10.1089/cmb.2006.13.567.&lt;/div&gt;</dgps>
+<ama>Bergeron A, Mixtacki J, Stoye J. On sorting by translocations. &lt;em&gt;JOURNAL OF COMPUTATIONAL BIOLOGY&lt;/em&gt;. 2006;13(2):567-578.</ama>
+<harvard1>Bergeron, A., Mixtacki, J., &amp;amp; Stoye, J., 2006. On sorting by translocations. &lt;em&gt;JOURNAL OF COMPUTATIONAL BIOLOGY&lt;/em&gt;, 13(2), p 567-578.</harvard1>
+<frontiers>Bergeron, A., Mixtacki, J., and Stoye, J. (2006). On sorting by translocations. &lt;em&gt;JOURNAL OF COMPUTATIONAL BIOLOGY&lt;/em&gt; 13, 567-578.</frontiers>
+<angewandte-chemie>A.  Bergeron, J.  Mixtacki, and J.  Stoye, “On sorting by translocations”, &lt;em&gt;JOURNAL OF COMPUTATIONAL BIOLOGY&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;13&lt;/em&gt;, 567-578.</angewandte-chemie>
+<apa>Bergeron, A., Mixtacki, J., &amp;amp; Stoye, J. (2006). On sorting by translocations. &lt;em&gt;JOURNAL OF COMPUTATIONAL BIOLOGY&lt;/em&gt;, &lt;em&gt;13&lt;/em&gt;(2), 567-578.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bergeron, Anne, Mixtacki, Julia, and Stoye, Jens. 2006. “On sorting by translocations”. &lt;em&gt;JOURNAL OF COMPUTATIONAL BIOLOGY&lt;/em&gt; 13 (2): 567-578.&lt;/div&gt;</chicago>
+<mla>Bergeron, Anne, Mixtacki, Julia, and Stoye, Jens. “On sorting by translocations”. &lt;em&gt;JOURNAL OF COMPUTATIONAL BIOLOGY&lt;/em&gt; 13.2 (2006): 567-578.</mla>
+<lncs>Bergeron, A., Mixtacki, J., Stoye, J.: On sorting by translocations. JOURNAL OF COMPUTATIONAL BIOLOGY. 13, 567-578 (2006).</lncs>
+<ieee>A. Bergeron, J. Mixtacki, and J. Stoye, “On sorting by translocations”, &lt;em&gt;JOURNAL OF COMPUTATIONAL BIOLOGY&lt;/em&gt;,  vol. 13, 2006,  pp. 567-578.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bergeron, A., Mixtacki, J., &amp;amp; Stoye, J. (2006). On sorting by translocations. &lt;em&gt;JOURNAL OF COMPUTATIONAL BIOLOGY&lt;/em&gt;, &lt;em&gt;13&lt;/em&gt;(2), 567-578.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1599574</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:30:49Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-01-18T09:11:15Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1599574</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1599574</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

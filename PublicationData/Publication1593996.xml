@@ -1,0 +1,136 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Molecular systems biology</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Norbert</namePart>
+  <namePart type="family">Sewald</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20281</identifier></name>
+<name type="personal">
+  <namePart type="given">Alfred</namePart>
+  <namePart type="family">Pühler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21937</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Genomforschung und Systembiologie</namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Biochemie und Biotechnik</namePart>
+  <identifier type="unibi">4838684</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Organische Chemie III</namePart>
+  <identifier type="unibi">17977</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  N. Sewald</namePart>
+  <identifier type="unibi">33086655</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  A. Pühler</namePart>
+  <identifier type="unibi">33070639</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Fakultät für Biologie</namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF BIOTECHNOLOGY</title></titleInfo>
+  <identifier type="issn">0168-1656</identifier>
+  <identifier type="MEDLINE">17397957</identifier>
+  <identifier type="ISI">000246097000001</identifier><identifier type="doi">10.1016/j.jbiotec.2007.02.010</identifier>
+<part><detail type="volume"><number>129</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">171-172</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sewald, Norbert, and Pühler, Alfred. 2007. “Molecular systems biology”. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt; 129 (2): 171-172.&lt;/div&gt;</chicago>
+<angewandte-chemie>N.  Sewald, and A.  Pühler, “Molecular systems biology”, &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;129&lt;/em&gt;, 171-172.</angewandte-chemie>
+<apa>Sewald, N., &amp;amp; Pühler, A. (2007). Molecular systems biology. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;129&lt;/em&gt;(2), 171-172.</apa>
+<frontiers>Sewald, N., and Pühler, A. (2007). Molecular systems biology. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt; 129, 171-172.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sewald, N., &amp;amp; Pühler, A. (2007). Molecular systems biology. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;129&lt;/em&gt;(2), 171-172.&lt;/div&gt;</apa_indent>
+<ieee>N. Sewald and A. Pühler, “Molecular systems biology”, &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;,  vol. 129, 2007,  pp. 171-172.</ieee>
+<mla>Sewald, Norbert, and Pühler, Alfred. “Molecular systems biology”. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt; 129.2 (2007): 171-172.</mla>
+<lncs>Sewald, N., Pühler, A.: Molecular systems biology. JOURNAL OF BIOTECHNOLOGY. 129, 171-172 (2007).</lncs>
+<wels>Sewald, N.; Pühler, A. (2007): Molecular systems biology &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;,129:(2): 171-172.</wels>
+<default>Sewald N, Pühler A (2007) &lt;br /&gt;JOURNAL OF BIOTECHNOLOGY 129(2): 171-172.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sewald, N. &amp;amp; Pühler, A. (2007). Molecular systems biology. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;129&lt;/em&gt;(2), 171-172. ELSEVIER SCIENCE BV. doi:10.1016/j.jbiotec.2007.02.010.&lt;/div&gt;</dgps>
+<ama>Sewald N, Pühler A. Molecular systems biology. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;. 2007;129(2):171-172.</ama>
+<harvard1>Sewald, N., &amp;amp; Pühler, A., 2007. Molecular systems biology. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, 129(2), p 171-172.</harvard1>
+<bio1>Sewald N, Pühler A (2007) &lt;br /&gt;Molecular systems biology.&lt;br /&gt;JOURNAL OF BIOTECHNOLOGY 129(2): 171-172.</bio1>
+<aps>N.  Sewald and A.  Pühler, Molecular systems biology, JOURNAL OF BIOTECHNOLOGY &lt;strong&gt;129&lt;/strong&gt;, 171-172 (2007).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1593996</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:08Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-11-08T09:29:42Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1593996</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1593996</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

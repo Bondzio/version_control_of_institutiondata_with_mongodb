@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>The dimer of torpedo acetylcholine receptor: synchronizd double channel</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Eberhard</namePart>
+  <namePart type="family">Neumann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20317</identifier></name>
+<name type="personal">
+  <namePart type="given">Frank</namePart>
+  <namePart type="family">Spillecke</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Hansgeorg</namePart>
+  <namePart type="family">Schindler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Jean-Pierre</namePart><namePart type="family">Changeux</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Chemie</namePart>
+  <identifier type="unibi">10018</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Neumann_B_26.pdf">https://pub.uni-bielefeld.de/download/1777003/2312297</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>de Gruyter</publisher><dateIssued encoding="w3cdtf">1985</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Molecular basis of nerve activity: proceedings of the Internat. Symposium in Memory of David Nachmansohn (1899 - 1983), Berlin (West), Germany, October 11 - 13, 1984</title></titleInfo>
+  <identifier type="isbn">3-11-010345-1</identifier><identifier type="urn">urn:nbn:de:0070-bipr-13706</identifier>
+<part><extent unit="pages">369-385</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Neumann E, Spillecke F, Schindler H (1985)  &lt;br /&gt;In:  Molecular basis of nerve activity: proceedings of the Internat. Symposium in Memory of David Nachmansohn (1899 - 1983), Berlin (West), Germany, October 11 - 13, 1984. Changeux J-P (Ed);Berlin: de Gruyter:  369-385.</default>
+<wels>Neumann, E.; Spillecke, F.; Schindler, H. (1985): The dimer of torpedo acetylcholine receptor: synchronizd double channel. In: Jean-Pierre Changeux (Hrsg.):  Molecular basis of nerve activity: proceedings of the Internat. Symposium in Memory of David Nachmansohn (1899 - 1983), Berlin (West), Germany, October 11 - 13, 1984. Berlin: de Gruyter.  S. 369-385.</wels>
+<aps>E.  Neumann, F.  Spillecke, and H.  Schindler, The dimer of torpedo acetylcholine receptor: synchronizd double channel, in &lt;em&gt;Molecular basis of nerve activity: proceedings of the Internat. Symposium in Memory of David Nachmansohn (1899 - 1983), Berlin (West), Germany, October 11 - 13, 1984&lt;/em&gt;, edited by J. - P.  Changeux (de Gruyter, Berlin, 1985), p. 369-385.</aps>
+<bio1>Neumann E, Spillecke F, Schindler H (1985) &lt;br /&gt;The dimer of torpedo acetylcholine receptor: synchronizd double channel. &lt;br /&gt;In:  Molecular basis of nerve activity: proceedings of the Internat. Symposium in Memory of David Nachmansohn (1899 - 1983), Berlin (West), Germany, October 11 - 13, 1984. Changeux J-P (Ed); Berlin: de Gruyter:  369-385.</bio1>
+<ama>Neumann E, Spillecke F, Schindler H. The dimer of torpedo acetylcholine receptor: synchronizd double channel. In: Changeux J-P, ed. &lt;em&gt;Molecular basis of nerve activity: proceedings of the Internat. Symposium in Memory of David Nachmansohn (1899 - 1983), Berlin (West), Germany, October 11 - 13, 1984&lt;/em&gt;. Berlin: de Gruyter;  1985: 369-385.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neumann, E., Spillecke, F. &amp;amp; Schindler, H. (1985). The dimer of torpedo acetylcholine receptor: synchronizd double channel. &lt;em&gt;Molecular basis of nerve activity: proceedings of the Internat. Symposium in Memory of David Nachmansohn (1899 - 1983), Berlin (West), Germany, October 11 - 13, 1984&lt;/em&gt; (S. 369-385). Berlin: de Gruyter.&lt;/div&gt;</dgps>
+<harvard1>Neumann, E., Spillecke, F., &amp;amp; Schindler, H., 1985. The dimer of torpedo acetylcholine receptor: synchronizd double channel. In J. - P.  Changeux, ed. &lt;em&gt;Molecular basis of nerve activity: proceedings of the Internat. Symposium in Memory of David Nachmansohn (1899 - 1983), Berlin (West), Germany, October 11 - 13, 1984&lt;/em&gt;.  Berlin: de Gruyter, pp. 369-385.</harvard1>
+<frontiers>Neumann, E., Spillecke, F., and Schindler, H. (1985). “The dimer of torpedo acetylcholine receptor: synchronizd double channel” in &lt;em&gt;Molecular basis of nerve activity: proceedings of the Internat. Symposium in Memory of David Nachmansohn (1899 - 1983), Berlin (West), Germany, October 11 - 13, 1984&lt;/em&gt;, ed. J. - P.  Changeux (Berlin: de Gruyter), 369-385.</frontiers>
+<angewandte-chemie>E.  Neumann, F.  Spillecke, and H.  Schindler, in &lt;em&gt;Molecular basis of nerve activity: proceedings of the Internat. Symposium in Memory of David Nachmansohn (1899 - 1983), Berlin (West), Germany, October 11 - 13, 1984&lt;/em&gt; (Ed.: J.-P. Changeux), De Gruyter, Berlin, &lt;strong&gt;1985&lt;/strong&gt;, p. 369-385.</angewandte-chemie>
+<apa>Neumann, E., Spillecke, F., &amp;amp; Schindler, H. (1985). The dimer of torpedo acetylcholine receptor: synchronizd double channel. In J. - P.  Changeux (Ed.), &lt;em&gt;Molecular basis of nerve activity: proceedings of the Internat. Symposium in Memory of David Nachmansohn (1899 - 1983), Berlin (West), Germany, October 11 - 13, 1984&lt;/em&gt; (pp. 369-385). Berlin: de Gruyter.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neumann, Eberhard, Spillecke, Frank, and Schindler, Hansgeorg. 1985. “The dimer of torpedo acetylcholine receptor: synchronizd double channel”. In &lt;em&gt;Molecular basis of nerve activity: proceedings of the Internat. Symposium in Memory of David Nachmansohn (1899 - 1983), Berlin (West), Germany, October 11 - 13, 1984&lt;/em&gt;, ed. Jean-Pierre Changeux, 369-385. Berlin: de Gruyter.&lt;/div&gt;</chicago>
+<mla>Neumann, Eberhard, Spillecke, Frank, and Schindler, Hansgeorg. “The dimer of torpedo acetylcholine receptor: synchronizd double channel”. &lt;em&gt;Molecular basis of nerve activity: proceedings of the Internat. Symposium in Memory of David Nachmansohn (1899 - 1983), Berlin (West), Germany, October 11 - 13, 1984&lt;/em&gt;. Ed. Jean-Pierre Changeux. Berlin: de Gruyter, 1985. 369-385.</mla>
+<lncs>Neumann, E., Spillecke, F., Schindler, H.: The dimer of torpedo acetylcholine receptor: synchronizd double channel. In: Changeux, J.-P. (ed.) Molecular basis of nerve activity: proceedings of the Internat. Symposium in Memory of David Nachmansohn (1899 - 1983), Berlin (West), Germany, October 11 - 13, 1984. p. 369-385. de Gruyter, Berlin (1985).</lncs>
+<ieee>E. Neumann, F. Spillecke, and H. Schindler, “The dimer of torpedo acetylcholine receptor: synchronizd double channel”, &lt;em&gt;Molecular basis of nerve activity: proceedings of the Internat. Symposium in Memory of David Nachmansohn (1899 - 1983), Berlin (West), Germany, October 11 - 13, 1984&lt;/em&gt;, J.-P. Changeux, ed.,  Berlin: de Gruyter, 1985,  pp.369-385.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neumann, E., Spillecke, F., &amp;amp; Schindler, H. (1985). The dimer of torpedo acetylcholine receptor: synchronizd double channel. In J. - P.  Changeux (Ed.), &lt;em&gt;Molecular basis of nerve activity: proceedings of the Internat. Symposium in Memory of David Nachmansohn (1899 - 1983), Berlin (West), Germany, October 11 - 13, 1984&lt;/em&gt; (pp. 369-385). Berlin: de Gruyter.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1777003</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1777003</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1777003</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

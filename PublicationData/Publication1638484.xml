@@ -1,0 +1,96 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference abstract</genre>
+
+<titleInfo><title>Attitudes and the big five factors of personality</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Fritz</namePart>
+  <namePart type="family">Ostendorf</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">34312</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10026</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+<name type="conference">
+  <namePart>XXVI International Congress of Psychology</namePart>
+</name>
+
+
+
+
+
+
+
+<originInfo><publisher>PSYCHOLOGY PRESS</publisher><dateIssued encoding="w3cdtf">1996</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host">
+  <identifier type="issn">0020-7594</identifier>
+  <identifier type="ISI">A1996VE85700657</identifier>
+<part><detail type="volume"><number>31</number></detail><detail type="issue"><number>3-4 (SI: Abstracts of the XXVI International Congress of Psychology)</number></detail><extent unit="pages">1645-1645</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ostendorf, Fritz. 1996. “Attitudes and the big five factors of personality”. Presented at the XXVI International Congress of Psychology , 31:1645-1645. INTERNATIONAL JOURNAL OF PSYCHOLOGY. PSYCHOLOGY PRESS.&lt;/div&gt;</chicago>
+<frontiers>Ostendorf, F. (1996).“Attitudes and the big five factors of personality”. Presented at the XXVI International Congress of Psychology.</frontiers>
+<angewandte-chemie>F.  Ostendorf, Psychology Press, &lt;strong&gt;1996&lt;/strong&gt;, p. 1645-1645.</angewandte-chemie>
+<apa>Ostendorf, F. (1996). &lt;em&gt;Attitudes and the big five factors of personality&lt;/em&gt;. Presented at the XXVI International Congress of Psychology.</apa>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ostendorf, F. (1996). &lt;em&gt;Attitudes and the big five factors of personality&lt;/em&gt;. Presented at the XXVI International Congress of Psychology.&lt;/div&gt;</apa_indent>
+<mla>Ostendorf, Fritz. “Attitudes and the big five factors of personality”. Presented at the XXVI International Congress of Psychology, PSYCHOLOGY PRESS, 1996.</mla>
+<lncs> Ostendorf, F.: Attitudes and the big five factors of personality. Presented at the XXVI International Congress of Psychology (1996).</lncs>
+<ieee> F. Ostendorf, “Attitudes and the big five factors of personality”, Presented at the XXVI International Congress of Psychology, PSYCHOLOGY PRESS, 1996.</ieee>
+<default>Ostendorf F (1996)  &lt;br /&gt;Presented at the XXVI International Congress of Psychology.</default>
+<wels>Ostendorf, F. (1996): Attitudes and the big five factors of personality. PSYCHOLOGY PRESS. (INTERNATIONAL JOURNAL OF PSYCHOLOGY, 31).  S. 1645-1645.</wels>
+<aps> F.  Ostendorf, Attitudes and the big five factors of personality, INTERNATIONAL JOURNAL OF PSYCHOLOGY, &lt;strong&gt;31&lt;/strong&gt; (PSYCHOLOGY PRESS, 1996), p. 1645-1645.</aps>
+<bio1>Ostendorf F (1996) &lt;br /&gt;Attitudes and the big five factors of personality. &lt;br /&gt;Presented at the XXVI International Congress of Psychology.</bio1>
+<ama>Ostendorf F. Attitudes and the big five factors of personality. Presented at the XXVI International Congress of Psychology.</ama>
+<harvard1>Ostendorf, F., 1996. Attitudes and the big five factors of personality. Presented at the XXVI International Congress of Psychology</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ostendorf, F. (1996). Attitudes and the big five factors of personality (INTERNATIONAL JOURNAL OF PSYCHOLOGY) (S. 1645-1645). Gehalten auf der XXVI International Congress of Psychology, PSYCHOLOGY PRESS.&lt;/div&gt;</dgps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1638484</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:14:49Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-06T12:14:59Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1638484</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1638484</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

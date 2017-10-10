@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Über Eigenwerteinschließungen mit Hilfe von Gerschgorin-Kreisen</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ludwig</namePart>
+  <namePart type="family">Elsner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10509</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Let the union of some Gerschgorin-disks of a matrix A be separated from the other disks by a circle of radius r and center Gamma. Medley and Varga have characterized the minimal r, which can be achieved by diagonal transformations of A and fixed Gamma. It is shown that this result can easily be proved with methods used in an earlier paper of the author. In addition, the maximal radius is characterized, easily computable bounds are given and it is shown, that A and the transposed matrix AT have the same optimal radii.</abstract>
+<abstract lang="eng">Die Vereinigung gewisser Gerschgorin-Kreise einer Matrix A sei durch einen Kreis vom Radius r und Mittelpunkt Gamma von den übrigen Gerschgorin-Kreisen getrennt. Medley und Varga haben das minimale r, das bei festem Gamma durch Diagonaltransformationen von A erreicht werden kann, charakterisiert. Es wird gezeigt, daß dieses Ergebnis mit den in einer früheren Arbeit des Autors benutzten Methoden leicht bewiesen werden kann. Außerdem wird der maximale Radius charakterisiert, praktisch verwendbare Abschätzungen angegeben und gezeigt, daß A und die transponierte Matrix AT die gleichen optimalen Radien haben.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Elsner_011.pdf">https://pub.uni-bielefeld.de/download/1776199/2312103</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1970</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Zeitschrift für angewandte Mathematik und Mechanik</title></titleInfo>
+  <identifier type="issn">0044-2267</identifier>
+  <identifier type="eIssn">1521-4001</identifier>
+  <identifier type="ISI">A1970G985800007</identifier><identifier type="urn">urn:nbn:de:0070-pub-17761990</identifier><identifier type="doi">10.1002/zamm.19700500608</identifier>
+<part><detail type="volume"><number>50</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">381-384</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa>Elsner, L. (1970). Über Eigenwerteinschließungen mit Hilfe von Gerschgorin-Kreisen. &lt;em&gt;Zeitschrift für angewandte Mathematik und Mechanik&lt;/em&gt;, &lt;em&gt;50&lt;/em&gt;(6), 381-384.</apa>
+<angewandte-chemie>L.  Elsner, “Über Eigenwerteinschließungen mit Hilfe von Gerschgorin-Kreisen”, &lt;em&gt;Zeitschrift für angewandte Mathematik und Mechanik&lt;/em&gt;, &lt;strong&gt;1970&lt;/strong&gt;, &lt;em&gt;50&lt;/em&gt;, 381-384.</angewandte-chemie>
+<frontiers>Elsner, L. (1970). Über Eigenwerteinschließungen mit Hilfe von Gerschgorin-Kreisen. &lt;em&gt;Zeitschrift für angewandte Mathematik und Mechanik&lt;/em&gt; 50, 381-384.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Elsner, Ludwig. 1970. “Über Eigenwerteinschließungen mit Hilfe von Gerschgorin-Kreisen”. &lt;em&gt;Zeitschrift für angewandte Mathematik und Mechanik&lt;/em&gt; 50 (6): 381-384.&lt;/div&gt;</chicago>
+<ieee>L. Elsner, “Über Eigenwerteinschließungen mit Hilfe von Gerschgorin-Kreisen”, &lt;em&gt;Zeitschrift für angewandte Mathematik und Mechanik&lt;/em&gt;,  vol. 50, 1970,  pp. 381-384.</ieee>
+<lncs>Elsner, L.: Über Eigenwerteinschließungen mit Hilfe von Gerschgorin-Kreisen. Zeitschrift für angewandte Mathematik und Mechanik. 50, 381-384 (1970).</lncs>
+<mla>Elsner, Ludwig. “Über Eigenwerteinschließungen mit Hilfe von Gerschgorin-Kreisen”. &lt;em&gt;Zeitschrift für angewandte Mathematik und Mechanik&lt;/em&gt; 50.6 (1970): 381-384.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Elsner, L. (1970). Über Eigenwerteinschließungen mit Hilfe von Gerschgorin-Kreisen. &lt;em&gt;Zeitschrift für angewandte Mathematik und Mechanik&lt;/em&gt;, &lt;em&gt;50&lt;/em&gt;(6), 381-384.&lt;/div&gt;</apa_indent>
+<wels>Elsner, L. (1970): Über Eigenwerteinschließungen mit Hilfe von Gerschgorin-Kreisen &lt;em&gt;Zeitschrift für angewandte Mathematik und Mechanik&lt;/em&gt;,50:(6): 381-384.</wels>
+<default>Elsner L (1970) &lt;br /&gt;Zeitschrift für angewandte Mathematik und Mechanik 50(6): 381-384.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Elsner, L. (1970). Über Eigenwerteinschließungen mit Hilfe von Gerschgorin-Kreisen. &lt;em&gt;Zeitschrift für angewandte Mathematik und Mechanik&lt;/em&gt;, &lt;em&gt;50&lt;/em&gt;(6), 381-384. doi:10.1002/zamm.19700500608.&lt;/div&gt;</dgps>
+<ama>Elsner L. Über Eigenwerteinschließungen mit Hilfe von Gerschgorin-Kreisen. &lt;em&gt;Zeitschrift für angewandte Mathematik und Mechanik&lt;/em&gt;. 1970;50(6):381-384.</ama>
+<harvard1>Elsner, L., 1970. Über Eigenwerteinschließungen mit Hilfe von Gerschgorin-Kreisen. &lt;em&gt;Zeitschrift für angewandte Mathematik und Mechanik&lt;/em&gt;, 50(6), p 381-384.</harvard1>
+<aps>L.  Elsner, Über Eigenwerteinschließungen mit Hilfe von Gerschgorin-Kreisen, Zeitschrift für angewandte Mathematik und Mechanik &lt;strong&gt;50&lt;/strong&gt;, 381-384 (1970).</aps>
+<bio1>Elsner L (1970) &lt;br /&gt;Über Eigenwerteinschließungen mit Hilfe von Gerschgorin-Kreisen.&lt;br /&gt;Zeitschrift für angewandte Mathematik und Mechanik 50(6): 381-384.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776199</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776199</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776199</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

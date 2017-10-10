@@ -1,0 +1,147 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Auto-regulation of the circadian slave oscillator component AtGRP7 and regulation of its targets is impaired by a single RNA recognition motif point mutation</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Jan C.</namePart>
+  <namePart type="family">Schöning</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Corinna</namePart>
+  <namePart type="family">Streitner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">177013</identifier></name>
+<name type="personal">
+  <namePart type="given">Damian R.</namePart>
+  <namePart type="family">Page</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Sven</namePart>
+  <namePart type="family">Hennig</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Kenko</namePart>
+  <namePart type="family">Uchida</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Eva</namePart>
+  <namePart type="family">Wolf</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Masaki</namePart>
+  <namePart type="family">Furuya</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Dorothee</namePart>
+  <namePart type="family">Staiger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">81014</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Genomforschung und Systembiologie</namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  D. Staiger</namePart>
+  <identifier type="unibi">33070658</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Molekulare Zellphysiologie</namePart>
+  <identifier type="unibi">2685209</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The clock-regulated RNA-binding protein AtGRP7 (Arabidopsis thaliana glycine-rich RNA-binding protein) influences circadian oscillations of its transcript by negative feedback at the post-transcriptional level. Here we show that site-specific mutation of one conserved arginine to glutamine within the RNA recognition motif impairs binding of recombinant AtGRP7 to its pre-mRNA in vitro. This correlates with the loss of the negative auto-regulation in vivo: in transgenic plants constitutively overexpressing AtGRP7 (AtGRP7-ox), a shift occurs to an alternatively spliced AtGRP7 transcript that decays rapidly, and thus does not accumulate to high levels. In contrast, constitutive ectopic overexpression of the AtGRP7-RQ mutant does not lead to alternative splicing of the endogenous AtGRP7 transcript and concomitant damping of the oscillations. This highlights the importance of AtGRP7 binding to its own transcript for the negative auto-regulatory circuit. Moreover, regulation of AtGRP7 downstream targets also depends on its RNA-binding activity, as AtGRP8 and other targets identified by transcript profiling of wild-type and AtGRP7-ox plants using fluorescent differential display are negatively affected by AtGRP7 but not by AtGRP7-RQ. In mutants impaired in the nonsense-mediated decay (NMD) components UPF1 or UPF3, levels of the alternatively spliced AtGRP7 and AtGRP8 transcripts that contain premature termination codons are strongly elevated, implicating UPF1 and UPF3 in the decay of these clock-regulated transcripts.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Autoregulation-of-the-circadian-slave.pdf">https://pub.uni-bielefeld.de/download/1631076/2441543</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>UPF3</topic><topic>circadian clock</topic><topic>Arabidopsis</topic><topic>post-transcriptional regulation</topic><topic>RNA recognition motif</topic><topic>UPF1</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>The Plant Journal</title></titleInfo>
+  <identifier type="issn">0960-7412</identifier>
+  <identifier type="eIssn">1365-313X</identifier>
+  <identifier type="MEDLINE">17924945</identifier>
+  <identifier type="ISI">000251435800011</identifier><identifier type="urn">urn:nbn:de:0070-pub-16310761</identifier><identifier type="doi">10.1111/j.1365-313X.2007.03302.x</identifier>
+<part><detail type="volume"><number>52</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">1119-1130</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa>Schöning, J. C., Streitner, C., Page, D. R., Hennig, S., Uchida, K., Wolf, E., Furuya, M., et al. (2007). Auto-regulation of the circadian slave oscillator component AtGRP7 and regulation of its targets is impaired by a single RNA recognition motif point mutation. &lt;em&gt;The Plant Journal&lt;/em&gt;, &lt;em&gt;52&lt;/em&gt;(6), 1119-1130.</apa>
+<angewandte-chemie>J. C.  Schöning, C.  Streitner, D. R.  Page, S.  Hennig, K.  Uchida, E.  Wolf, M.  Furuya, and D.  Staiger, “Auto-regulation of the circadian slave oscillator component AtGRP7 and regulation of its targets is impaired by a single RNA recognition motif point mutation”, &lt;em&gt;The Plant Journal&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;52&lt;/em&gt;, 1119-1130.</angewandte-chemie>
+<frontiers>Schöning, J. C., Streitner, C., Page, D. R., Hennig, S., Uchida, K., Wolf, E., Furuya, M., and Staiger, D. (2007). Auto-regulation of the circadian slave oscillator component AtGRP7 and regulation of its targets is impaired by a single RNA recognition motif point mutation. &lt;em&gt;The Plant Journal&lt;/em&gt; 52, 1119-1130.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schöning, Jan C., Streitner, Corinna, Page, Damian R., Hennig, Sven, Uchida, Kenko, Wolf, Eva, Furuya, Masaki, and Staiger, Dorothee. 2007. “Auto-regulation of the circadian slave oscillator component AtGRP7 and regulation of its targets is impaired by a single RNA recognition motif point mutation”. &lt;em&gt;The Plant Journal&lt;/em&gt; 52 (6): 1119-1130.&lt;/div&gt;</chicago>
+<ieee>J.C. Schöning, et al., “Auto-regulation of the circadian slave oscillator component AtGRP7 and regulation of its targets is impaired by a single RNA recognition motif point mutation”, &lt;em&gt;The Plant Journal&lt;/em&gt;,  vol. 52, 2007,  pp. 1119-1130.</ieee>
+<lncs>Schöning, J.C., Streitner, C., Page, D.R., Hennig, S., Uchida, K., Wolf, E., Furuya, M., Staiger, D.: Auto-regulation of the circadian slave oscillator component AtGRP7 and regulation of its targets is impaired by a single RNA recognition motif point mutation. The Plant Journal. 52, 1119-1130 (2007).</lncs>
+<mla>Schöning, Jan C., Streitner, Corinna, Page, Damian R., Hennig, Sven, Uchida, Kenko, Wolf, Eva, Furuya, Masaki, and Staiger, Dorothee. “Auto-regulation of the circadian slave oscillator component AtGRP7 and regulation of its targets is impaired by a single RNA recognition motif point mutation”. &lt;em&gt;The Plant Journal&lt;/em&gt; 52.6 (2007): 1119-1130.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schöning, J. C., Streitner, C., Page, D. R., Hennig, S., Uchida, K., Wolf, E., Furuya, M., et al. (2007). Auto-regulation of the circadian slave oscillator component AtGRP7 and regulation of its targets is impaired by a single RNA recognition motif point mutation. &lt;em&gt;The Plant Journal&lt;/em&gt;, &lt;em&gt;52&lt;/em&gt;(6), 1119-1130.&lt;/div&gt;</apa_indent>
+<wels>Schöning, J. C.; Streitner, C.; Page, D. R.; Hennig, S.; Uchida, K.; Wolf, E.; Furuya, M.; Staiger, D. (2007): Auto-regulation of the circadian slave oscillator component AtGRP7 and regulation of its targets is impaired by a single RNA recognition motif point mutation &lt;em&gt;The Plant Journal&lt;/em&gt;,52:(6): 1119-1130.</wels>
+<default>Schöning JC, Streitner C, Page DR, Hennig S, Uchida K, Wolf E, Furuya M, Staiger D (2007) &lt;br /&gt;The Plant Journal 52(6): 1119-1130.</default>
+<harvard1>Schöning, J.C., et al., 2007. Auto-regulation of the circadian slave oscillator component AtGRP7 and regulation of its targets is impaired by a single RNA recognition motif point mutation. &lt;em&gt;The Plant Journal&lt;/em&gt;, 52(6), p 1119-1130.</harvard1>
+<ama>Schöning JC, Streitner C, Page DR, et al. Auto-regulation of the circadian slave oscillator component AtGRP7 and regulation of its targets is impaired by a single RNA recognition motif point mutation. &lt;em&gt;The Plant Journal&lt;/em&gt;. 2007;52(6):1119-1130.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schöning, J.C., Streitner, C., Page, D.R., Hennig, S., Uchida, K., Wolf, E., Furuya, M. &amp;amp; Staiger, D. (2007). Auto-regulation of the circadian slave oscillator component AtGRP7 and regulation of its targets is impaired by a single RNA recognition motif point mutation. &lt;em&gt;The Plant Journal&lt;/em&gt;, &lt;em&gt;52&lt;/em&gt;(6), 1119-1130. doi:10.1111/j.1365-313X.2007.03302.x.&lt;/div&gt;</dgps>
+<aps>J. C.  Schöning, et al., Auto-regulation of the circadian slave oscillator component AtGRP7 and regulation of its targets is impaired by a single RNA recognition motif point mutation, The Plant Journal &lt;strong&gt;52&lt;/strong&gt;, 1119-1130 (2007).</aps>
+<bio1>Schöning JC, Streitner C, Page DR, Hennig S, Uchida K, Wolf E, Furuya M, Staiger D (2007) &lt;br /&gt;Auto-regulation of the circadian slave oscillator component AtGRP7 and regulation of its targets is impaired by a single RNA recognition motif point mutation.&lt;br /&gt;The Plant Journal 52(6): 1119-1130.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1631076</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:05:28Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2012-02-20T16:24:08Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1631076</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1631076</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

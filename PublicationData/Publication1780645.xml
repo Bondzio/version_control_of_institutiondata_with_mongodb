@@ -1,0 +1,117 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Knowledge based systems for speech understanding</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Gerhard</namePart>
+  <namePart type="family">Sagerer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10375</identifier></name>
+<name type="personal">
+  <namePart type="given">Franz</namePart>
+  <namePart type="family">Kummert</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10372</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Heinrich</namePart><namePart type="family">Niemann</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">M.</namePart><namePart type="family">Lang</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Gerhard</namePart><namePart type="family">Sagerer</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">5408013</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">18304588</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Based on a detailled discussion of system architectures for knowledge based speech understanding and knowledge representation techniques, criteria for booth a knowledge representation scheme and system architectures are developed. Upon this background a system is introduced which is organized around a homogenuous knowledge base. Both the knowledge representation language and the content of the knowledge base are described. The knowledge representation language do not only cover declarative but also procedural knowledge. Analysis processes are guided by a flexibel bottom-up top-down strategy. Besides the procedural semantics of the language the A-Algorithm is used for this purpose. Search graph nodes are judged by a vector which reflects knowledge dependent and acoustic scores and which is admissable for the A-Algorithm.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Kummert_043.pdf">https://pub.uni-bielefeld.de/download/1780645/2312977</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Springer</publisher><dateIssued encoding="w3cdtf">1988</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Automatische Spracherkennung</topic><topic>Kongress</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Recent advances in speech understanding and dialog systems</title></titleInfo>
+  <identifier type="isbn">3-540-19245-X</identifier><identifier type="urn">urn:nbn:de:0070-bipr-21659</identifier>
+<part><detail type="volume"><number>46</number></detail><extent unit="pages">421-458</extent>
+</part>
+</relatedItem>
+
+<note type="nonBielefeld">yes</note>
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sagerer, G., &amp;amp; Kummert, F. (1988). Knowledge based systems for speech understanding. In H.  Niemann, M.  Lang, &amp;amp; G.  Sagerer (Eds.), &lt;em&gt;NATO ASI series. Series F: Computer and systems sciences: Vol. 46&lt;/em&gt;&lt;em&gt;. Recent advances in speech understanding and dialog systems&lt;/em&gt; (pp. 421-458). Berlin [u.a.]: Springer.&lt;/div&gt;</apa_indent>
+<lncs> Sagerer, G., Kummert, F.: Knowledge based systems for speech understanding. In: Niemann, H., Lang, M., and Sagerer, G. (eds.) Recent advances in speech understanding and dialog systems. NATO ASI series. Series F: Computer and systems sciences. 46, p. 421-458. Springer, Berlin [u.a.] (1988).</lncs>
+<mla>Sagerer, Gerhard, and Kummert, Franz. “Knowledge based systems for speech understanding”. &lt;em&gt;Recent advances in speech understanding and dialog systems&lt;/em&gt;. Ed. Heinrich Niemann, M. Lang, and Gerhard Sagerer. Berlin [u.a.]: Springer, 1988.Vol. 46. NATO ASI series. Series F: Computer and systems sciences. 421-458.</mla>
+<ieee> G. Sagerer and F. Kummert, “Knowledge based systems for speech understanding”, &lt;em&gt;Recent advances in speech understanding and dialog systems&lt;/em&gt;, H. Niemann, M. Lang, and G. Sagerer, eds., NATO ASI series. Series F: Computer and systems sciences, vol. 46,  Berlin [u.a.]: Springer, 1988,  pp.421-458.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sagerer, Gerhard, and Kummert, Franz. 1988. “Knowledge based systems for speech understanding”. In &lt;em&gt;Recent advances in speech understanding and dialog systems&lt;/em&gt;, ed. Heinrich Niemann, M. Lang, and Gerhard Sagerer, 46:421-458. NATO ASI series. Series F: Computer and systems sciences. Berlin [u.a.]: Springer.&lt;/div&gt;</chicago>
+<frontiers>Sagerer, G., and Kummert, F. (1988). “Knowledge based systems for speech understanding” in &lt;em&gt;Recent advances in speech understanding and dialog systems&lt;/em&gt;, Niemann, H., Lang, M., and Sagerer, G. eds. NATO ASI series. Series F: Computer and systems sciences, vol. 46, (Berlin [u.a.]: Springer), 421-458.</frontiers>
+<angewandte-chemie>G.  Sagerer, and F.  Kummert, in &lt;em&gt;Recent advances in speech understanding and dialog systems&lt;/em&gt; (Eds.: H. Niemann, M. Lang, G. Sagerer), Springer, Berlin [u.a.], &lt;strong&gt;1988&lt;/strong&gt;, p. 421-458.</angewandte-chemie>
+<apa>Sagerer, G., &amp;amp; Kummert, F. (1988). Knowledge based systems for speech understanding. In H.  Niemann, M.  Lang, &amp;amp; G.  Sagerer (Eds.), &lt;em&gt;NATO ASI series. Series F: Computer and systems sciences: Vol. 46&lt;/em&gt;&lt;em&gt;. Recent advances in speech understanding and dialog systems&lt;/em&gt; (pp. 421-458). Berlin [u.a.]: Springer.</apa>
+<aps> G.  Sagerer and F.  Kummert, Knowledge based systems for speech understanding, in &lt;em&gt;Recent advances in speech understanding and dialog systems&lt;/em&gt;, edited by H.  Niemann, et al., NATO ASI series. Series F: Computer and systems sciences, &lt;strong&gt;46&lt;/strong&gt; (Springer, Berlin [U.a.], 1988), p. 421-458.</aps>
+<bio1>Sagerer G, Kummert F (1988) &lt;br /&gt;Knowledge based systems for speech understanding. &lt;br /&gt;In:  Recent advances in speech understanding and dialog systems. Niemann H, Lang M, Sagerer G (Eds); NATO ASI series. Series F: Computer and systems sciences, 46. Berlin [u.a.]: Springer:  421-458.</bio1>
+<ama>Sagerer G, Kummert F. Knowledge based systems for speech understanding. In: Niemann H, Lang M, Sagerer G, eds. &lt;em&gt;Recent advances in speech understanding and dialog systems&lt;/em&gt;. NATO ASI series. Series F: Computer and systems sciences. Vol 46. Berlin [u.a.]: Springer;  1988: 421-458.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Sagerer, G. &amp;amp; Kummert, F. (1988). Knowledge based systems for speech understanding (NATO ASI series. Series F: Computer and systems sciences). &lt;em&gt;Recent advances in speech understanding and dialog systems&lt;/em&gt; (S. 421-458). Berlin [u.a.]: Springer.&lt;/div&gt;</dgps>
+<harvard1>Sagerer, G., &amp;amp; Kummert, F., 1988. Knowledge based systems for speech understanding. In H.  Niemann, M.  Lang, &amp;amp; G.  Sagerer, eds. &lt;em&gt;Recent advances in speech understanding and dialog systems&lt;/em&gt;. NATO ASI series. Series F: Computer and systems sciences. no.46  Berlin [u.a.]: Springer, pp. 421-458.</harvard1>
+<default>Sagerer G, Kummert F (1988)  &lt;br /&gt;In:  Recent advances in speech understanding and dialog systems. Niemann H, Lang M, Sagerer G (Eds); NATO ASI series. Series F: Computer and systems sciences, 46. Berlin [u.a.]: Springer:  421-458.</default>
+<wels>Sagerer, G.; Kummert, F. (1988): Knowledge based systems for speech understanding. In: Heinrich Niemann; M. Lang; Gerhard Sagerer (Hrsg.):  Recent advances in speech understanding and dialog systems. Berlin [u.a.]: Springer. (NATO ASI series. Series F: Computer and systems sciences, 46).  S. 421-458.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780645</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-10-19T08:13:03Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-27T15:02:04Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780645</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780645</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

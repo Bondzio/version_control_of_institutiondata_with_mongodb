@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Was suchen die Menschen im Sport?: Erwartungen und Bedürfnisse der Zukunft</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Dietrich</namePart>
+  <namePart type="family">Kurz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">120538</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Karlheinz</namePart><namePart type="family">Gieseler</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Arbeitsbereich IV - Sport und Erziehung</namePart>
+  <identifier type="unibi">28978161</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Kurz_017.pdf">https://pub.uni-bielefeld.de/download/1779213/2312588</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Hofmann</publisher><dateIssued encoding="w3cdtf">1988</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Menschen im Sport 2000: Dokumentation des Kongresses &quot;Menschen im Sport 2000&quot;, Berlin, 5. - 7.11.1987</title></titleInfo>
+  <identifier type="isbn">3-7780-3291-7</identifier><identifier type="urn">urn:nbn:de:0070-bipr-17623</identifier>
+<part><extent unit="pages">126-139</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<harvard1>Kurz, D., 1988. Was suchen die Menschen im Sport?: Erwartungen und Bedürfnisse der Zukunft. In K.  Gieseler, ed. &lt;em&gt;Menschen im Sport 2000: Dokumentation des Kongresses &quot;Menschen im Sport 2000&quot;, Berlin, 5. - 7.11.1987&lt;/em&gt;.  Schorndorf: Hofmann, pp. 126-139.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kurz, D. (1988). Was suchen die Menschen im Sport?: Erwartungen und Bedürfnisse der Zukunft. &lt;em&gt;Menschen im Sport 2000: Dokumentation des Kongresses &quot;Menschen im Sport 2000&quot;, Berlin, 5. - 7.11.1987&lt;/em&gt; (S. 126-139). Schorndorf: Hofmann.&lt;/div&gt;</dgps>
+<ama>Kurz D. Was suchen die Menschen im Sport?: Erwartungen und Bedürfnisse der Zukunft. In: Gieseler K, ed. &lt;em&gt;Menschen im Sport 2000: Dokumentation des Kongresses &quot;Menschen im Sport 2000&quot;, Berlin, 5. - 7.11.1987&lt;/em&gt;. Schorndorf: Hofmann;  1988: 126-139.</ama>
+<bio1>Kurz D (1988) &lt;br /&gt;Was suchen die Menschen im Sport?: Erwartungen und Bedürfnisse der Zukunft. &lt;br /&gt;In:  Menschen im Sport 2000: Dokumentation des Kongresses &quot;Menschen im Sport 2000&quot;, Berlin, 5. - 7.11.1987. Gieseler K (Ed); Schorndorf: Hofmann:  126-139.</bio1>
+<aps>D.  Kurz, Was suchen die Menschen im Sport?: Erwartungen und Bedürfnisse der Zukunft, in &lt;em&gt;Menschen im Sport 2000: Dokumentation des Kongresses &quot;Menschen im Sport 2000&quot;, Berlin, 5. - 7.11.1987&lt;/em&gt;, edited by K.  Gieseler (Hofmann, Schorndorf, 1988), p. 126-139.</aps>
+<wels>Kurz, D. (1988): Was suchen die Menschen im Sport?: Erwartungen und Bedürfnisse der Zukunft. In: Karlheinz Gieseler (Hrsg.):  Menschen im Sport 2000: Dokumentation des Kongresses &quot;Menschen im Sport 2000&quot;, Berlin, 5. - 7.11.1987. Schorndorf: Hofmann.  S. 126-139.</wels>
+<default>Kurz D (1988)  &lt;br /&gt;In:  Menschen im Sport 2000: Dokumentation des Kongresses &quot;Menschen im Sport 2000&quot;, Berlin, 5. - 7.11.1987. Gieseler K (Ed);Schorndorf: Hofmann:  126-139.</default>
+<ieee>D. Kurz, “Was suchen die Menschen im Sport?: Erwartungen und Bedürfnisse der Zukunft”, &lt;em&gt;Menschen im Sport 2000: Dokumentation des Kongresses &quot;Menschen im Sport 2000&quot;, Berlin, 5. - 7.11.1987&lt;/em&gt;, K. Gieseler, ed.,  Schorndorf: Hofmann, 1988,  pp.126-139.</ieee>
+<lncs>Kurz, D.: Was suchen die Menschen im Sport?: Erwartungen und Bedürfnisse der Zukunft. In: Gieseler, K. (ed.) Menschen im Sport 2000: Dokumentation des Kongresses &quot;Menschen im Sport 2000&quot;, Berlin, 5. - 7.11.1987. p. 126-139. Hofmann, Schorndorf (1988).</lncs>
+<mla>Kurz, Dietrich. “Was suchen die Menschen im Sport?: Erwartungen und Bedürfnisse der Zukunft”. &lt;em&gt;Menschen im Sport 2000: Dokumentation des Kongresses &quot;Menschen im Sport 2000&quot;, Berlin, 5. - 7.11.1987&lt;/em&gt;. Ed. Karlheinz Gieseler. Schorndorf: Hofmann, 1988. 126-139.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kurz, D. (1988). Was suchen die Menschen im Sport?: Erwartungen und Bedürfnisse der Zukunft. In K.  Gieseler (Ed.), &lt;em&gt;Menschen im Sport 2000: Dokumentation des Kongresses &quot;Menschen im Sport 2000&quot;, Berlin, 5. - 7.11.1987&lt;/em&gt; (pp. 126-139). Schorndorf: Hofmann.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>D.  Kurz, in &lt;em&gt;Menschen im Sport 2000: Dokumentation des Kongresses &quot;Menschen im Sport 2000&quot;, Berlin, 5. - 7.11.1987&lt;/em&gt; (Ed.: K. Gieseler), Hofmann, Schorndorf, &lt;strong&gt;1988&lt;/strong&gt;, p. 126-139.</angewandte-chemie>
+<apa>Kurz, D. (1988). Was suchen die Menschen im Sport?: Erwartungen und Bedürfnisse der Zukunft. In K.  Gieseler (Ed.), &lt;em&gt;Menschen im Sport 2000: Dokumentation des Kongresses &quot;Menschen im Sport 2000&quot;, Berlin, 5. - 7.11.1987&lt;/em&gt; (pp. 126-139). Schorndorf: Hofmann.</apa>
+<frontiers>Kurz, D. (1988). “Was suchen die Menschen im Sport?: Erwartungen und Bedürfnisse der Zukunft” in &lt;em&gt;Menschen im Sport 2000: Dokumentation des Kongresses &quot;Menschen im Sport 2000&quot;, Berlin, 5. - 7.11.1987&lt;/em&gt;, ed. K.  Gieseler (Schorndorf: Hofmann), 126-139.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kurz, Dietrich. 1988. “Was suchen die Menschen im Sport?: Erwartungen und Bedürfnisse der Zukunft”. In &lt;em&gt;Menschen im Sport 2000: Dokumentation des Kongresses &quot;Menschen im Sport 2000&quot;, Berlin, 5. - 7.11.1987&lt;/em&gt;, ed. Karlheinz Gieseler, 126-139. Schorndorf: Hofmann.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1779213</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1779213</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1779213</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

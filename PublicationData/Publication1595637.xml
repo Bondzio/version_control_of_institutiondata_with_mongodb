@@ -1,0 +1,143 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Adaptive subwavelength control of nano-optical fields</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Martin</namePart>
+  <namePart type="family">Aeschlimann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Michael</namePart>
+  <namePart type="family">Bauer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Daniela</namePart>
+  <namePart type="family">Bayer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Tobias</namePart>
+  <namePart type="family">Brixner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">F. Javier</namePart>
+  <namePart type="family">Garcia de Abajo</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Walter</namePart>
+  <namePart type="family">Pfeiffer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">182166</identifier></name>
+<name type="personal">
+  <namePart type="given">Martin</namePart>
+  <namePart type="family">Rohmer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">Spindler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Felix</namePart>
+  <namePart type="family">Steeb</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Biophysik und Nanowissenschaften</namePart>
+  <identifier type="unibi">2161137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Lehrstuhl für Molekül- und Oberflächenphysik</namePart>
+  <identifier type="unibi">29133467</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  W. Pfeiffer</namePart>
+  <identifier type="unibi">33079586</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Adaptive shaping of the phase and amplitude of femtosecond laser pulses has been developed into an efficient tool for the directed manipulation of interference phenomena, thus providing coherent control over various quantum-mechanical systems(1-10). Temporal resolution in the femtosecond or even attosecond range has been demonstrated, but spatial resolution is limited by diffraction to approximately half the wavelength of the light field (that is, several hundred nanometres). Theory has indicated(11,12) that the spatial limitation to coherent control can be overcome with the illumination of nanostructures: the spatial near-field distribution was shown to depend on the linear chirp of an irradiating laser pulse. An extension of this idea to adaptive control, combining multiparameter pulse shaping with a learning algorithm, demonstrated the generation of user-specified optical near-field distributions in an optimal and flexible fashion(13). Shaping of the polarization of the laser pulse 14,15 provides a particularly efficient and versatile nano-optical manipulation method(16,17). Here we demonstrate the feasibility of this concept experimentally, by tailoring the optical near field in the vicinity of silver nanostructures through adaptive polarization shaping of femtosecond laser pulses 14,15 and then probing the lateral field distribution by two-photon photoemission electron microscopy(18). In this combination of adaptive control(1-10) and nano-optics(19), we achieve subwave-length dynamic localization of electromagnetic intensity on the nanometre scale and thus overcome the spatial restrictions of conventional optics. This experimental realization of theoretical suggestions(11-13,16,17,20) opens a number of perspectives in coherent control, nano-optics, nonlinear spectroscopy, and other research fields in which optical investigations are carried out with spatial or temporal resolution.</abstract>
+
+<originInfo><publisher>NATURE PUBLISHING GROUP</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>NATURE</title></titleInfo>
+  <identifier type="issn">0028-0836</identifier>
+  <identifier type="eIssn">1476-4687</identifier>
+  <identifier type="MEDLINE">17361179</identifier>
+  <identifier type="ISI">000244892900041</identifier><identifier type="doi">10.1038/nature05595</identifier>
+<part><detail type="volume"><number>446</number></detail><detail type="issue"><number>7133</number></detail><extent unit="pages">301-304</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<harvard1>Aeschlimann, M., et al., 2007. Adaptive subwavelength control of nano-optical fields. &lt;em&gt;NATURE&lt;/em&gt;, 446(7133), p 301-304.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Aeschlimann, M., Bauer, M., Bayer, D., Brixner, T., Garcia de Abajo, F.J., Pfeiffer, W., Rohmer, M., Spindler, C. &amp;amp; Steeb, F. (2007). Adaptive subwavelength control of nano-optical fields. &lt;em&gt;NATURE&lt;/em&gt;, &lt;em&gt;446&lt;/em&gt;(7133), 301-304. NATURE PUBLISHING GROUP. doi:10.1038/nature05595.&lt;/div&gt;</dgps>
+<ama>Aeschlimann M, Bauer M, Bayer D, et al. Adaptive subwavelength control of nano-optical fields. &lt;em&gt;NATURE&lt;/em&gt;. 2007;446(7133):301-304.</ama>
+<aps>M.  Aeschlimann, et al., Adaptive subwavelength control of nano-optical fields, NATURE &lt;strong&gt;446&lt;/strong&gt;, 301-304 (2007).</aps>
+<bio1>Aeschlimann M, Bauer M, Bayer D, Brixner T, Garcia de Abajo FJ, Pfeiffer W, Rohmer M, Spindler C, Steeb F (2007) &lt;br /&gt;Adaptive subwavelength control of nano-optical fields.&lt;br /&gt;NATURE 446(7133): 301-304.</bio1>
+<wels>Aeschlimann, M.; Bauer, M.; Bayer, D.; Brixner, T.; Garcia de Abajo, F. J.; Pfeiffer, W.; Rohmer, M.; Spindler, C.; Steeb, F. (2007): Adaptive subwavelength control of nano-optical fields &lt;em&gt;NATURE&lt;/em&gt;,446:(7133): 301-304.</wels>
+<default>Aeschlimann M, Bauer M, Bayer D, Brixner T, Garcia de Abajo FJ, Pfeiffer W, Rohmer M, Spindler C, Steeb F (2007) &lt;br /&gt;NATURE 446(7133): 301-304.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Aeschlimann, M., Bauer, M., Bayer, D., Brixner, T., Garcia de Abajo, F. J., Pfeiffer, W., Rohmer, M., et al. (2007). Adaptive subwavelength control of nano-optical fields. &lt;em&gt;NATURE&lt;/em&gt;, &lt;em&gt;446&lt;/em&gt;(7133), 301-304.&lt;/div&gt;</apa_indent>
+<ieee>M. Aeschlimann, et al., “Adaptive subwavelength control of nano-optical fields”, &lt;em&gt;NATURE&lt;/em&gt;,  vol. 446, 2007,  pp. 301-304.</ieee>
+<mla>Aeschlimann, Martin, Bauer, Michael, Bayer, Daniela, Brixner, Tobias, Garcia de Abajo, F. Javier, Pfeiffer, Walter, Rohmer, Martin, Spindler, Christian, and Steeb, Felix. “Adaptive subwavelength control of nano-optical fields”. &lt;em&gt;NATURE&lt;/em&gt; 446.7133 (2007): 301-304.</mla>
+<lncs>Aeschlimann, M., Bauer, M., Bayer, D., Brixner, T., Garcia de Abajo, F.J., Pfeiffer, W., Rohmer, M., Spindler, C., Steeb, F.: Adaptive subwavelength control of nano-optical fields. NATURE. 446, 301-304 (2007).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Aeschlimann, Martin, Bauer, Michael, Bayer, Daniela, Brixner, Tobias, Garcia de Abajo, F. Javier, Pfeiffer, Walter, Rohmer, Martin, Spindler, Christian, and Steeb, Felix. 2007. “Adaptive subwavelength control of nano-optical fields”. &lt;em&gt;NATURE&lt;/em&gt; 446 (7133): 301-304.&lt;/div&gt;</chicago>
+<angewandte-chemie>M.  Aeschlimann, M.  Bauer, D.  Bayer, T.  Brixner, F. J.  Garcia de Abajo, W.  Pfeiffer, M.  Rohmer, C.  Spindler, and F.  Steeb, “Adaptive subwavelength control of nano-optical fields”, &lt;em&gt;NATURE&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;446&lt;/em&gt;, 301-304.</angewandte-chemie>
+<apa>Aeschlimann, M., Bauer, M., Bayer, D., Brixner, T., Garcia de Abajo, F. J., Pfeiffer, W., Rohmer, M., et al. (2007). Adaptive subwavelength control of nano-optical fields. &lt;em&gt;NATURE&lt;/em&gt;, &lt;em&gt;446&lt;/em&gt;(7133), 301-304.</apa>
+<frontiers>Aeschlimann, M., Bauer, M., Bayer, D., Brixner, T., Garcia de Abajo, F. J., Pfeiffer, W., Rohmer, M., Spindler, C., and Steeb, F. (2007). Adaptive subwavelength control of nano-optical fields. &lt;em&gt;NATURE&lt;/em&gt; 446, 301-304.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1595637</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:44Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-10T12:28:14Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1595637</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1595637</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

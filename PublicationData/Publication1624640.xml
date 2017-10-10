@@ -1,0 +1,112 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Horizontal gene transfer as a biosafety issue: A natural phenomenon of public concern</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Droge</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alfred</namePart>
+  <namePart type="family">Pühler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21937</identifier></name>
+<name type="personal">
+  <namePart type="given">Werner</namePart>
+  <namePart type="family">Selbitschka</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">22010</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Centrum für Biotechnologie</namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Fakultät für Biologie</namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The transfer of genetic information between distantly or even unrelated organisms during evolution had been inferred from nucleotide sequence comparisons. These studies provided circumstantial evidence that in rare cases genes had been laterally transmitted amongst organisms of the domains bacteria, archaea and eukarya. Laboratory-based studies confirmed that the gene pools of the various domains of organisms are linked. Amongst the bacterial gene exchange mechanisms transduction, transformation and conjugation, the latter was identified as the mechanism with potentially the broadest host range of transfer. Previously, the issue of horizontal gene transfer has become important in the context of biosafety. Gene transfer studies carried out under more natural conditions such as in model ecosystems or in the environment established that all gene transfer mechanisms worked under these conditions. Moreover, environmental hot-spots were identified where favourable conditions such as nutrient enrichment increased the probability of genetic exchange among bacteria. In particular, the phytosphere was shown to provide conducive conditions for conjugative gene exchange. Concern has been expressed that transfer of recombinant DNA (e.g. antibiotic resistance genes) from genetically modified organisms (GMOs) such as transgenic plants to phytosphere bacteria may occur and thus contribute to the undesirable spread of antibiotic resistance determinants. Studies which were performed to address this issue clearly showed that such a transfer occurs, if at all, at extremely low frequency. (C) 1998 Elsevier Science B.V. All rights reserved.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">1998</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>hot-spot of gene transfer</topic><topic>interdomain gene transfer</topic><topic>phytosphere</topic><topic>transgenic plants</topic><topic>antibiotic resistance determinants</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF BIOTECHNOLOGY</title></titleInfo>
+  <identifier type="issn">0168-1656</identifier>
+  <identifier type="MEDLINE">9823660</identifier>
+  <identifier type="ISI">000076632100008</identifier><identifier type="doi">10.1016/S0168-1656(98)00105-9</identifier>
+<part><detail type="volume"><number>64</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">75-90</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Droge, M., Pühler, A. &amp;amp; Selbitschka, W. (1998). Horizontal gene transfer as a biosafety issue: A natural phenomenon of public concern. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;64&lt;/em&gt;(1), 75-90. ELSEVIER SCIENCE BV. doi:10.1016/S0168-1656(98)00105-9.&lt;/div&gt;</dgps>
+<harvard1>Droge, M., Pühler, A., &amp;amp; Selbitschka, W., 1998. Horizontal gene transfer as a biosafety issue: A natural phenomenon of public concern. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, 64(1), p 75-90.</harvard1>
+<ama>Droge M, Pühler A, Selbitschka W. Horizontal gene transfer as a biosafety issue: A natural phenomenon of public concern. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;. 1998;64(1):75-90.</ama>
+<aps>M.  Droge, A.  Pühler, and W.  Selbitschka, Horizontal gene transfer as a biosafety issue: A natural phenomenon of public concern, JOURNAL OF BIOTECHNOLOGY &lt;strong&gt;64&lt;/strong&gt;, 75-90 (1998).</aps>
+<bio1>Droge M, Pühler A, Selbitschka W (1998) &lt;br /&gt;Horizontal gene transfer as a biosafety issue: A natural phenomenon of public concern.&lt;br /&gt;JOURNAL OF BIOTECHNOLOGY 64(1): 75-90.</bio1>
+<wels>Droge, M.; Pühler, A.; Selbitschka, W. (1998): Horizontal gene transfer as a biosafety issue: A natural phenomenon of public concern &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;,64:(1): 75-90.</wels>
+<default>Droge M, Pühler A, Selbitschka W (1998) &lt;br /&gt;JOURNAL OF BIOTECHNOLOGY 64(1): 75-90.</default>
+<ieee>M. Droge, A. Pühler, and W. Selbitschka, “Horizontal gene transfer as a biosafety issue: A natural phenomenon of public concern”, &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;,  vol. 64, 1998,  pp. 75-90.</ieee>
+<mla>Droge, M, Pühler, Alfred, and Selbitschka, Werner. “Horizontal gene transfer as a biosafety issue: A natural phenomenon of public concern”. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt; 64.1 (1998): 75-90.</mla>
+<lncs>Droge, M., Pühler, A., Selbitschka, W.: Horizontal gene transfer as a biosafety issue: A natural phenomenon of public concern. JOURNAL OF BIOTECHNOLOGY. 64, 75-90 (1998).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Droge, M., Pühler, A., &amp;amp; Selbitschka, W. (1998). Horizontal gene transfer as a biosafety issue: A natural phenomenon of public concern. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;64&lt;/em&gt;(1), 75-90.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>M.  Droge, A.  Pühler, and W.  Selbitschka, “Horizontal gene transfer as a biosafety issue: A natural phenomenon of public concern”, &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;strong&gt;1998&lt;/strong&gt;, &lt;em&gt;64&lt;/em&gt;, 75-90.</angewandte-chemie>
+<apa>Droge, M., Pühler, A., &amp;amp; Selbitschka, W. (1998). Horizontal gene transfer as a biosafety issue: A natural phenomenon of public concern. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;64&lt;/em&gt;(1), 75-90.</apa>
+<frontiers>Droge, M., Pühler, A., and Selbitschka, W. (1998). Horizontal gene transfer as a biosafety issue: A natural phenomenon of public concern. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt; 64, 75-90.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Droge, M, Pühler, Alfred, and Selbitschka, Werner. 1998. “Horizontal gene transfer as a biosafety issue: A natural phenomenon of public concern”. &lt;em&gt;JOURNAL OF BIOTECHNOLOGY&lt;/em&gt; 64 (1): 75-90.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1624640</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:20:20Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-14T15:02:30Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1624640</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1624640</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

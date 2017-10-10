@@ -1,0 +1,114 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Protonated arenes in the gas phase: xylenium and related C8H11+ ions</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Dietmar</namePart>
+  <namePart type="family">Kuck</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20254</identifier></name>
+<name type="personal">
+  <namePart type="given">Gerald</namePart>
+  <namePart type="family">Prior</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Hans-Friedrich</namePart>
+  <namePart type="family">Grützmacher</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">41603</identifier></name>
+<name type="personal">
+  <namePart type="given">D. R.</namePart>
+  <namePart type="family">Müller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">W. J.</namePart>
+  <namePart type="family">Richer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">P.</namePart><namePart type="family">Longevialle</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Organische Chemie I</namePart>
+  <identifier type="unibi">17975</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Kuck_26.pdf">https://pub.uni-bielefeld.de/download/1776811/2312250</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Elsevier</publisher><dateIssued encoding="w3cdtf">1989</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Proceedings of the 11th International Mass Spectrometry Conference: held at Bordeaux, 29 August - 2 September 1988</title></titleInfo>
+  <identifier type="isbn">0-86344-011-8</identifier><identifier type="urn">urn:nbn:de:0070-bipr-13176</identifier>
+<part><extent unit="pages">750-751</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<bio1>Kuck D, Prior G, Grützmacher H-F, Müller DR, Richer WJ (1989) &lt;br /&gt;Protonated arenes in the gas phase: xylenium and related C8H11+ ions. &lt;br /&gt;In:  Proceedings of the 11th International Mass Spectrometry Conference: held at Bordeaux, 29 August - 2 September 1988. Longevialle P (Ed); Advances in mass spectrometry ; 11,A,  Amsterdam: Elsevier:  750-751.</bio1>
+<aps>D.  Kuck, et al., Protonated arenes in the gas phase: xylenium and related C8H11+ ions, in &lt;em&gt;Proceedings of the 11th International Mass Spectrometry Conference: held at Bordeaux, 29 August - 2 September 1988&lt;/em&gt;, edited by P.  Longevialle, Advances in mass spectrometry ; 11,A (Elsevier, Amsterdam, 1989), p. 750-751.</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kuck, D., Prior, G., Grützmacher, H.-F., Müller, D.R. &amp;amp; Richer, W.J. (1989). Protonated arenes in the gas phase: xylenium and related C8H11+ ions (Advances in mass spectrometry ; 11,A). &lt;em&gt;Proceedings of the 11th International Mass Spectrometry Conference: held at Bordeaux, 29 August - 2 September 1988&lt;/em&gt; (S. 750-751). Amsterdam: Elsevier.&lt;/div&gt;</dgps>
+<ama>Kuck D, Prior G, Grützmacher H-F, Müller DR, Richer WJ. Protonated arenes in the gas phase: xylenium and related C8H11+ ions. In: Longevialle P, ed. &lt;em&gt;Proceedings of the 11th International Mass Spectrometry Conference: held at Bordeaux, 29 August - 2 September 1988&lt;/em&gt;. Advances in mass spectrometry ; 11,A. Amsterdam: Elsevier;  1989: 750-751.</ama>
+<harvard1>Kuck, D., et al., 1989. Protonated arenes in the gas phase: xylenium and related C8H11+ ions. In P.  Longevialle, ed. &lt;em&gt;Proceedings of the 11th International Mass Spectrometry Conference: held at Bordeaux, 29 August - 2 September 1988&lt;/em&gt;. Advances in mass spectrometry ; 11,A.  Amsterdam: Elsevier, pp. 750-751.</harvard1>
+<default>Kuck D, Prior G, Grützmacher H-F, Müller DR, Richer WJ (1989)  &lt;br /&gt;In:  Proceedings of the 11th International Mass Spectrometry Conference: held at Bordeaux, 29 August - 2 September 1988. Longevialle P (Ed); Advances in mass spectrometry ; 11,A, . Amsterdam: Elsevier:  750-751.</default>
+<wels>Kuck, D.; Prior, G.; Grützmacher, H. - F.; Müller, D. R.; Richer, W. J. (1989): Protonated arenes in the gas phase: xylenium and related C8H11+ ions. In: P. Longevialle (Hrsg.):  Proceedings of the 11th International Mass Spectrometry Conference: held at Bordeaux, 29 August - 2 September 1988. Amsterdam: Elsevier. (Advances in mass spectrometry ; 11,A, ).  S. 750-751.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kuck, D., Prior, G., Grützmacher, H. - F., Müller, D. R., &amp;amp; Richer, W. J. (1989). Protonated arenes in the gas phase: xylenium and related C8H11+ ions. In P.  Longevialle (Ed.), &lt;em&gt;Advances in mass spectrometry ; 11,A&lt;/em&gt;&lt;em&gt;. Proceedings of the 11th International Mass Spectrometry Conference: held at Bordeaux, 29 August - 2 September 1988&lt;/em&gt; (pp. 750-751). Amsterdam: Elsevier.&lt;/div&gt;</apa_indent>
+<lncs>Kuck, D., Prior, G., Grützmacher, H.-F., Müller, D.R., Richer, W.J.: Protonated arenes in the gas phase: xylenium and related C8H11+ ions. In: Longevialle, P. (ed.) Proceedings of the 11th International Mass Spectrometry Conference: held at Bordeaux, 29 August - 2 September 1988. Advances in mass spectrometry ; 11,A. p. 750-751. Elsevier, Amsterdam (1989).</lncs>
+<mla>Kuck, Dietmar, Prior, Gerald, Grützmacher, Hans-Friedrich, Müller, D. R., and Richer, W. J. “Protonated arenes in the gas phase: xylenium and related C8H11+ ions”. &lt;em&gt;Proceedings of the 11th International Mass Spectrometry Conference: held at Bordeaux, 29 August - 2 September 1988&lt;/em&gt;. Ed. P. Longevialle. Amsterdam: Elsevier, 1989. Advances in mass spectrometry ; 11,A. 750-751.</mla>
+<ieee>D. Kuck, et al., “Protonated arenes in the gas phase: xylenium and related C8H11+ ions”, &lt;em&gt;Proceedings of the 11th International Mass Spectrometry Conference: held at Bordeaux, 29 August - 2 September 1988&lt;/em&gt;, P. Longevialle, ed., Advances in mass spectrometry ; 11,A,  Amsterdam: Elsevier, 1989,  pp.750-751.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kuck, Dietmar, Prior, Gerald, Grützmacher, Hans-Friedrich, Müller, D. R., and Richer, W. J. 1989. “Protonated arenes in the gas phase: xylenium and related C8H11+ ions”. In &lt;em&gt;Proceedings of the 11th International Mass Spectrometry Conference: held at Bordeaux, 29 August - 2 September 1988&lt;/em&gt;, ed. P. Longevialle, 750-751. Advances in mass spectrometry ; 11,A. Amsterdam: Elsevier.&lt;/div&gt;</chicago>
+<frontiers>Kuck, D., Prior, G., Grützmacher, H. - F., Müller, D. R., and Richer, W. J. (1989). “Protonated arenes in the gas phase: xylenium and related C8H11+ ions” in &lt;em&gt;Proceedings of the 11th International Mass Spectrometry Conference: held at Bordeaux, 29 August - 2 September 1988&lt;/em&gt;, ed. P.  Longevialle Advances in mass spectrometry ; 11,A (Amsterdam: Elsevier), 750-751.</frontiers>
+<apa>Kuck, D., Prior, G., Grützmacher, H. - F., Müller, D. R., &amp;amp; Richer, W. J. (1989). Protonated arenes in the gas phase: xylenium and related C8H11+ ions. In P.  Longevialle (Ed.), &lt;em&gt;Advances in mass spectrometry ; 11,A&lt;/em&gt;&lt;em&gt;. Proceedings of the 11th International Mass Spectrometry Conference: held at Bordeaux, 29 August - 2 September 1988&lt;/em&gt; (pp. 750-751). Amsterdam: Elsevier.</apa>
+<angewandte-chemie>D.  Kuck, G.  Prior, H. - F.  Grützmacher, D. R.  Müller, and W. J.  Richer, in &lt;em&gt;Proceedings of the 11th International Mass Spectrometry Conference: held at Bordeaux, 29 August - 2 September 1988&lt;/em&gt; (Ed.: P. Longevialle), Elsevier, Amsterdam, &lt;strong&gt;1989&lt;/strong&gt;, p. 750-751.</angewandte-chemie>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776811</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776811</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776811</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

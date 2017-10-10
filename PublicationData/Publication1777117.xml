@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Properties and function of proteins in excitable membranes: an integral model of nerve excitability</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">David</namePart>
+  <namePart type="family">Nachmansohn</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Eberhard</namePart>
+  <namePart type="family">Neumann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20317</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Chemie</namePart>
+  <identifier type="unibi">10018</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Neumann_017.pdf">https://pub.uni-bielefeld.de/download/1777117/2312315</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1974</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Annals of the New York Academy of Sciences</title></titleInfo>
+  <identifier type="issn">0077-8923</identifier><identifier type="urn">urn:nbn:de:0070-bipr-13887</identifier>
+<part><detail type="volume"><number>227</number></detail><extent unit="pages">275-284</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<angewandte-chemie>D.  Nachmansohn, and E.  Neumann, “Properties and function of proteins in excitable membranes: an integral model of nerve excitability”, &lt;em&gt;Annals of the New York Academy of Sciences&lt;/em&gt;, &lt;strong&gt;1974&lt;/strong&gt;, &lt;em&gt;227&lt;/em&gt;, 275-284.</angewandte-chemie>
+<apa>Nachmansohn, D., &amp;amp; Neumann, E. (1974). Properties and function of proteins in excitable membranes: an integral model of nerve excitability. &lt;em&gt;Annals of the New York Academy of Sciences&lt;/em&gt;, &lt;em&gt;227&lt;/em&gt;, 275-284.</apa>
+<frontiers>Nachmansohn, D., and Neumann, E. (1974). Properties and function of proteins in excitable membranes: an integral model of nerve excitability. &lt;em&gt;Annals of the New York Academy of Sciences&lt;/em&gt; 227, 275-284.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Nachmansohn, David, and Neumann, Eberhard. 1974. “Properties and function of proteins in excitable membranes: an integral model of nerve excitability”. &lt;em&gt;Annals of the New York Academy of Sciences&lt;/em&gt; 227: 275-284.&lt;/div&gt;</chicago>
+<ieee>D. Nachmansohn and E. Neumann, “Properties and function of proteins in excitable membranes: an integral model of nerve excitability”, &lt;em&gt;Annals of the New York Academy of Sciences&lt;/em&gt;,  vol. 227, 1974,  pp. 275-284.</ieee>
+<mla>Nachmansohn, David, and Neumann, Eberhard. “Properties and function of proteins in excitable membranes: an integral model of nerve excitability”. &lt;em&gt;Annals of the New York Academy of Sciences&lt;/em&gt; 227 (1974): 275-284.</mla>
+<lncs>Nachmansohn, D., Neumann, E.: Properties and function of proteins in excitable membranes: an integral model of nerve excitability. Annals of the New York Academy of Sciences. 227, 275-284 (1974).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Nachmansohn, D., &amp;amp; Neumann, E. (1974). Properties and function of proteins in excitable membranes: an integral model of nerve excitability. &lt;em&gt;Annals of the New York Academy of Sciences&lt;/em&gt;, &lt;em&gt;227&lt;/em&gt;, 275-284.&lt;/div&gt;</apa_indent>
+<wels>Nachmansohn, D.; Neumann, E. (1974): Properties and function of proteins in excitable membranes: an integral model of nerve excitability &lt;em&gt;Annals of the New York Academy of Sciences&lt;/em&gt;,227: 275-284.</wels>
+<default>Nachmansohn D, Neumann E (1974) &lt;br /&gt;Annals of the New York Academy of Sciences 227: 275-284.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Nachmansohn, D. &amp;amp; Neumann, E. (1974). Properties and function of proteins in excitable membranes: an integral model of nerve excitability. &lt;em&gt;Annals of the New York Academy of Sciences&lt;/em&gt;, &lt;em&gt;227&lt;/em&gt;, 275-284.&lt;/div&gt;</dgps>
+<ama>Nachmansohn D, Neumann E. Properties and function of proteins in excitable membranes: an integral model of nerve excitability. &lt;em&gt;Annals of the New York Academy of Sciences&lt;/em&gt;. 1974;227:275-284.</ama>
+<harvard1>Nachmansohn, D., &amp;amp; Neumann, E., 1974. Properties and function of proteins in excitable membranes: an integral model of nerve excitability. &lt;em&gt;Annals of the New York Academy of Sciences&lt;/em&gt;, 227, p 275-284.</harvard1>
+<bio1>Nachmansohn D, Neumann E (1974) &lt;br /&gt;Properties and function of proteins in excitable membranes: an integral model of nerve excitability.&lt;br /&gt;Annals of the New York Academy of Sciences 227: 275-284.</bio1>
+<aps>D.  Nachmansohn and E.  Neumann, Properties and function of proteins in excitable membranes: an integral model of nerve excitability, Annals of the New York Academy of Sciences &lt;strong&gt;227&lt;/strong&gt;, 275-284 (1974).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1777117</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1777117</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1777117</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

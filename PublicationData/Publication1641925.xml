@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>On QCD thermodynamics with improved actions</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Frithjof</namePart>
+  <namePart type="family">Karsch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40326</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We discuss recent advances in the calculation of thermodynamic observables using improved actions. In particular, we discuss the calculation of the equation of state of the SU(3) gauge theory, the critical temperature in units of the string tension, the surface tension and the latent heat at the deconfinement transition. We also present first results from a calculation of the equation of state for four-flavour QCD using an (3(a(2)) improved staggered fermion action and discuss possible further improvements of the staggered fermion action.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">1998</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>NUCLEAR PHYSICS B</title></titleInfo>
+  <identifier type="issn">0550-3213</identifier>
+  <identifier type="arXiv">hep-lat/9706006</identifier>
+  <identifier type="INSPIRE">444045</identifier>
+  <identifier type="ISI">A1998YK63900019</identifier>
+<part><extent unit="pages">169-179</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa>Karsch, F. (1998). On QCD thermodynamics with improved actions. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, 169-179.</apa>
+<angewandte-chemie>F.  Karsch, in &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, Elsevier Science Bv, &lt;strong&gt;1998&lt;/strong&gt;, p. 169-179.</angewandte-chemie>
+<frontiers>Karsch, F. (1998). “On QCD thermodynamics with improved actions” in &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt; (ELSEVIER SCIENCE BV), 169-179.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Karsch, Frithjof. 1998. “On QCD thermodynamics with improved actions”. In &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, 169-179. ELSEVIER SCIENCE BV.&lt;/div&gt;</chicago>
+<ieee>F. Karsch, “On QCD thermodynamics with improved actions”, &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, ELSEVIER SCIENCE BV, 1998,  pp.169-179.</ieee>
+<lncs>Karsch, F.: On QCD thermodynamics with improved actions. NUCLEAR PHYSICS B. p. 169-179. ELSEVIER SCIENCE BV (1998).</lncs>
+<mla>Karsch, Frithjof. “On QCD thermodynamics with improved actions”. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;. ELSEVIER SCIENCE BV, 1998. 169-179.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Karsch, F. (1998). On QCD thermodynamics with improved actions. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, 169-179.&lt;/div&gt;</apa_indent>
+<wels>Karsch, F. (1998): On QCD thermodynamics with improved actions. In: NUCLEAR PHYSICS B. ELSEVIER SCIENCE BV.  S. 169-179.</wels>
+<default>Karsch F (1998)  &lt;br /&gt;In:  NUCLEAR PHYSICS B. ELSEVIER SCIENCE BV:  169-179.</default>
+<harvard1>Karsch, F., 1998. On QCD thermodynamics with improved actions. In &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;.  ELSEVIER SCIENCE BV, pp. 169-179.</harvard1>
+<ama>Karsch F. On QCD thermodynamics with improved actions. In:  &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;. ELSEVIER SCIENCE BV;  1998: 169-179.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Karsch, F. (1998). On QCD thermodynamics with improved actions. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt; (S. 169-179). ELSEVIER SCIENCE BV.&lt;/div&gt;</dgps>
+<bio1>Karsch F (1998) &lt;br /&gt;On QCD thermodynamics with improved actions. &lt;br /&gt;In:  NUCLEAR PHYSICS B.  ELSEVIER SCIENCE BV:  169-179.</bio1>
+<aps>F.  Karsch, On QCD thermodynamics with improved actions, in &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt; (ELSEVIER SCIENCE BV, 1998), p. 169-179.</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1641925</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:27:29Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-13T09:28:35Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1641925</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1641925</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

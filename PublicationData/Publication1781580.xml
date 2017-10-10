@@ -1,0 +1,110 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Studentenforschung und Hochschulsozialisation</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ludwig</namePart>
+  <namePart type="family">Huber</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">172028</identifier></name>
+<name type="personal">
+  <namePart type="given">Ulrike</namePart>
+  <namePart type="family">Vogel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Dietrich</namePart><namePart type="family">Goldschmidt</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10061</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10021</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT2583.pdf">https://pub.uni-bielefeld.de/download/1781580/2313354</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Campus-Verl.</publisher><dateIssued encoding="w3cdtf">1984</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Forschungsgegenstand Hochschule</title></titleInfo>
+  <identifier type="isbn">3-593-33392-9</identifier><identifier type="urn">urn:nbn:de:0070-bipr-25833</identifier>
+<part><extent unit="pages">107-153</extent>
+</part>
+</relatedItem>
+
+<note type="nonBielefeld">yes</note>
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Huber, Ludwig, and Vogel, Ulrike. 1984. “Studentenforschung und Hochschulsozialisation”. In &lt;em&gt;Forschungsgegenstand Hochschule&lt;/em&gt;, ed. Dietrich Goldschmidt, 107-153. Campus : Forschung ; 403 : Schwerpunktreihe Hochschule und Beruf. Frankfurt: Campus-Verl.&lt;/div&gt;</chicago>
+<angewandte-chemie>L.  Huber, and U.  Vogel, in &lt;em&gt;Forschungsgegenstand Hochschule&lt;/em&gt; (Ed.: D. Goldschmidt), Campus-Verl., Frankfurt, &lt;strong&gt;1984&lt;/strong&gt;, p. 107-153.</angewandte-chemie>
+<apa>Huber, L., &amp;amp; Vogel, U. (1984). Studentenforschung und Hochschulsozialisation. In D.  Goldschmidt (Ed.), &lt;em&gt;Campus : Forschung ; 403 : Schwerpunktreihe Hochschule und Beruf&lt;/em&gt;&lt;em&gt;. Forschungsgegenstand Hochschule&lt;/em&gt; (pp. 107-153). Frankfurt: Campus-Verl.</apa>
+<frontiers>Huber, L., and Vogel, U. (1984). “Studentenforschung und Hochschulsozialisation” in &lt;em&gt;Forschungsgegenstand Hochschule&lt;/em&gt;, Goldschmidt, D. ed. Campus : Forschung ; 403 : Schwerpunktreihe Hochschule und Beruf (Frankfurt: Campus-Verl.), 107-153.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Huber, L., &amp;amp; Vogel, U. (1984). Studentenforschung und Hochschulsozialisation. In D.  Goldschmidt (Ed.), &lt;em&gt;Campus : Forschung ; 403 : Schwerpunktreihe Hochschule und Beruf&lt;/em&gt;&lt;em&gt;. Forschungsgegenstand Hochschule&lt;/em&gt; (pp. 107-153). Frankfurt: Campus-Verl.&lt;/div&gt;</apa_indent>
+<ieee> L. Huber and U. Vogel, “Studentenforschung und Hochschulsozialisation”, &lt;em&gt;Forschungsgegenstand Hochschule&lt;/em&gt;, D. Goldschmidt, ed., Campus : Forschung ; 403 : Schwerpunktreihe Hochschule und Beruf,  Frankfurt: Campus-Verl., 1984,  pp.107-153.</ieee>
+<lncs> Huber, L., Vogel, U.: Studentenforschung und Hochschulsozialisation. In: Goldschmidt, D. (ed.) Forschungsgegenstand Hochschule. Campus : Forschung ; 403 : Schwerpunktreihe Hochschule und Beruf. p. 107-153. Campus-Verl., Frankfurt (1984).</lncs>
+<mla>Huber, Ludwig, and Vogel, Ulrike. “Studentenforschung und Hochschulsozialisation”. &lt;em&gt;Forschungsgegenstand Hochschule&lt;/em&gt;. Ed. Dietrich Goldschmidt. Frankfurt: Campus-Verl., 1984. Campus : Forschung ; 403 : Schwerpunktreihe Hochschule und Beruf. 107-153.</mla>
+<wels>Huber, L.; Vogel, U. (1984): Studentenforschung und Hochschulsozialisation. In: Dietrich Goldschmidt (Hrsg.):  Forschungsgegenstand Hochschule. Frankfurt: Campus-Verl. (Campus : Forschung ; 403 : Schwerpunktreihe Hochschule und Beruf, ).  S. 107-153.</wels>
+<default>Huber L, Vogel U (1984)  &lt;br /&gt;In:  Forschungsgegenstand Hochschule. Goldschmidt D (Ed); Campus : Forschung ; 403 : Schwerpunktreihe Hochschule und Beruf, . Frankfurt: Campus-Verl.:  107-153.</default>
+<harvard1>Huber, L., &amp;amp; Vogel, U., 1984. Studentenforschung und Hochschulsozialisation. In D.  Goldschmidt, ed. &lt;em&gt;Forschungsgegenstand Hochschule&lt;/em&gt;. Campus : Forschung ; 403 : Schwerpunktreihe Hochschule und Beruf.  Frankfurt: Campus-Verl., pp. 107-153.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Huber, L. &amp;amp; Vogel, U. (1984). Studentenforschung und Hochschulsozialisation (Campus : Forschung ; 403 : Schwerpunktreihe Hochschule und Beruf). &lt;em&gt;Forschungsgegenstand Hochschule&lt;/em&gt; (S. 107-153). Frankfurt: Campus-Verl.&lt;/div&gt;</dgps>
+<ama>Huber L, Vogel U. Studentenforschung und Hochschulsozialisation. In: Goldschmidt D, ed. &lt;em&gt;Forschungsgegenstand Hochschule&lt;/em&gt;. Campus : Forschung ; 403 : Schwerpunktreihe Hochschule und Beruf. Frankfurt: Campus-Verl.;  1984: 107-153.</ama>
+<aps> L.  Huber and U.  Vogel, Studentenforschung und Hochschulsozialisation, in &lt;em&gt;Forschungsgegenstand Hochschule&lt;/em&gt;, edited by D.  Goldschmidt, Campus : Forschung ; 403 : Schwerpunktreihe Hochschule und Beruf (Campus-Verl., Frankfurt, 1984), p. 107-153.</aps>
+<bio1>Huber L, Vogel U (1984) &lt;br /&gt;Studentenforschung und Hochschulsozialisation. &lt;br /&gt;In:  Forschungsgegenstand Hochschule. Goldschmidt D (Ed); Campus : Forschung ; 403 : Schwerpunktreihe Hochschule und Beruf,  Frankfurt: Campus-Verl.:  107-153.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781580</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-08-11T10:23:21Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-08-11T10:35:12Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781580</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781580</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

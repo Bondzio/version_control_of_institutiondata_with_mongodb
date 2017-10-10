@@ -1,0 +1,105 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>A new calculus for semantic matching</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Bernd</namePart>
+  <namePart type="family">Bütow</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Robert</namePart>
+  <namePart type="family">Giegerich</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">147565</identifier></name>
+<name type="personal">
+  <namePart type="given">Enno</namePart>
+  <namePart type="family">Ohlebusch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Stephan</namePart>
+  <namePart type="family">Thesing</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Praktische Informatik</namePart>
+  <identifier type="unibi">10039</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">In this paper, we present Reverse Restructuring, a new calculus for solving the semantic matching problem. For narrowing, advanced selection rules are commonly seen as an appropriate method to reduce the search space. Our approach to design a special calculus for special goals is another way of reducing the efficiency defects of narrowing. Reverse Restructuring constructs derivations in the reverse direction by guessing terms from which an already known term might be derived. To this end, the rules of the underlying term rewriting system are also applied in the reverse-direction, i.e. from right to left. We show the soundness and completeness of this calculus and demonstrate its efficiency for an important class of problems.</abstract>
+
+<originInfo><publisher>SPRINGER-VERLAG BERLIN</publisher><dateIssued encoding="w3cdtf">1995</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>PROGRAMMING LANGUAGES: IMPLEMENTATIONS, LOGICS AND PROGRAMS</title></titleInfo>
+  <identifier type="issn">0302-9743</identifier>
+  <identifier type="ISI">A1995BF24M00006</identifier>
+<part><detail type="volume"><number>982</number></detail><extent unit="pages">81-96</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa>Bütow, B., Giegerich, R., Ohlebusch, E., &amp;amp; Thesing, S. (1995). A new calculus for semantic matching. &lt;em&gt;PROGRAMMING LANGUAGES: IMPLEMENTATIONS, LOGICS AND PROGRAMS&lt;/em&gt;, &lt;em&gt;982&lt;/em&gt;, 81-96.</apa>
+<angewandte-chemie>B.  Bütow, R.  Giegerich, E.  Ohlebusch, and S.  Thesing, in &lt;em&gt;PROGRAMMING LANGUAGES: IMPLEMENTATIONS, LOGICS AND PROGRAMS&lt;/em&gt;, Springer-Verlag Berlin, &lt;strong&gt;1995&lt;/strong&gt;, p. 81-96.</angewandte-chemie>
+<frontiers>Bütow, B., Giegerich, R., Ohlebusch, E., and Thesing, S. (1995). “A new calculus for semantic matching” in &lt;em&gt;PROGRAMMING LANGUAGES: IMPLEMENTATIONS, LOGICS AND PROGRAMS&lt;/em&gt;, vol. 982, (SPRINGER-VERLAG BERLIN), 81-96.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bütow, Bernd, Giegerich, Robert, Ohlebusch, Enno, and Thesing, Stephan. 1995. “A new calculus for semantic matching”. In &lt;em&gt;PROGRAMMING LANGUAGES: IMPLEMENTATIONS, LOGICS AND PROGRAMS&lt;/em&gt;, 982:81-96. SPRINGER-VERLAG BERLIN.&lt;/div&gt;</chicago>
+<ieee>B. Bütow, et al., “A new calculus for semantic matching”, &lt;em&gt;PROGRAMMING LANGUAGES: IMPLEMENTATIONS, LOGICS AND PROGRAMS&lt;/em&gt;, vol. 982, SPRINGER-VERLAG BERLIN, 1995,  pp.81-96.</ieee>
+<lncs>Bütow, B., Giegerich, R., Ohlebusch, E., Thesing, S.: A new calculus for semantic matching. PROGRAMMING LANGUAGES: IMPLEMENTATIONS, LOGICS AND PROGRAMS. 982, p. 81-96. SPRINGER-VERLAG BERLIN (1995).</lncs>
+<mla>Bütow, Bernd, Giegerich, Robert, Ohlebusch, Enno, and Thesing, Stephan. “A new calculus for semantic matching”. &lt;em&gt;PROGRAMMING LANGUAGES: IMPLEMENTATIONS, LOGICS AND PROGRAMS&lt;/em&gt;. SPRINGER-VERLAG BERLIN, 1995.Vol. 982. 81-96.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bütow, B., Giegerich, R., Ohlebusch, E., &amp;amp; Thesing, S. (1995). A new calculus for semantic matching. &lt;em&gt;PROGRAMMING LANGUAGES: IMPLEMENTATIONS, LOGICS AND PROGRAMS&lt;/em&gt;, &lt;em&gt;982&lt;/em&gt;, 81-96.&lt;/div&gt;</apa_indent>
+<wels>Bütow, B.; Giegerich, R.; Ohlebusch, E.; Thesing, S. (1995): A new calculus for semantic matching. In: PROGRAMMING LANGUAGES: IMPLEMENTATIONS, LOGICS AND PROGRAMS. SPRINGER-VERLAG BERLIN. (982).  S. 81-96.</wels>
+<default>Bütow B, Giegerich R, Ohlebusch E, Thesing S (1995)  &lt;br /&gt;In:  PROGRAMMING LANGUAGES: IMPLEMENTATIONS, LOGICS AND PROGRAMS. 982. SPRINGER-VERLAG BERLIN:  81-96.</default>
+<harvard1>Bütow, B., et al., 1995. A new calculus for semantic matching. In &lt;em&gt;PROGRAMMING LANGUAGES: IMPLEMENTATIONS, LOGICS AND PROGRAMS&lt;/em&gt;. no.982  SPRINGER-VERLAG BERLIN, pp. 81-96.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bütow, B., Giegerich, R., Ohlebusch, E. &amp;amp; Thesing, S. (1995). A new calculus for semantic matching. &lt;em&gt;PROGRAMMING LANGUAGES: IMPLEMENTATIONS, LOGICS AND PROGRAMS&lt;/em&gt; (S. 81-96). SPRINGER-VERLAG BERLIN.&lt;/div&gt;</dgps>
+<ama>Bütow B, Giegerich R, Ohlebusch E, Thesing S. A new calculus for semantic matching. In:  &lt;em&gt;PROGRAMMING LANGUAGES: IMPLEMENTATIONS, LOGICS AND PROGRAMS&lt;/em&gt;. Vol 982. SPRINGER-VERLAG BERLIN;  1995: 81-96.</ama>
+<aps>B.  Bütow, et al., A new calculus for semantic matching, in &lt;em&gt;PROGRAMMING LANGUAGES: IMPLEMENTATIONS, LOGICS AND PROGRAMS&lt;/em&gt;, &lt;strong&gt;982&lt;/strong&gt; (SPRINGER-VERLAG BERLIN, 1995), p. 81-96.</aps>
+<bio1>Bütow B, Giegerich R, Ohlebusch E, Thesing S (1995) &lt;br /&gt;A new calculus for semantic matching. &lt;br /&gt;In:  PROGRAMMING LANGUAGES: IMPLEMENTATIONS, LOGICS AND PROGRAMS. 982. SPRINGER-VERLAG BERLIN:  81-96.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1639513</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:15:15Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-11-22T12:28:56Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1639513</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1639513</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

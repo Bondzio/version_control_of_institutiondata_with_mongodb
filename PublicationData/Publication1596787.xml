@@ -1,0 +1,111 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Believability testing and Bayesian imitation in interactive computer games</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Bernard</namePart>
+  <namePart type="family">Gorman</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">Thurau</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">Bauckhage</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">4361661</identifier></name>
+<name type="personal">
+  <namePart type="given">Mark</namePart>
+  <namePart type="family">Humphrys</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Stefano</namePart><namePart type="family">Nolfi</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>AG Angewandte Informatik</namePart>
+  <identifier type="unibi">18304588</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+<name type="conference">
+  <namePart>SAB 2006</namePart>
+</name>
+
+
+
+
+
+
+<abstract lang="eng">In imitation learning, agents are trained to carry out certain actions by examining a demonstration of the task at hand. Though common in robotics, little work has been done in translating these concepts to computer games. Given that present-day games generally use antiquated AI techniques which can often lead to stilted, mechanical and conspicuously artificial behaviour, it seems likely that approaches based on the imitation of human players may produce agents which convey a more humanlike impression than their traditional counterparts. At the same time, there exists no formal method of quantifying what constitutes a &apos;humanlike&apos; impression; an equivalent of the Turing test is needed, with the requirement that an agent&apos;s appearance and behaviour be capable of deceiving an observer into misidentifying it as human. The aims of this paper are thus threefold; we describe an approach to the imitation of strategic behaviour and motion, propose a formal method of quantifying the degree to which different agents are perceived as &apos;humanlike&apos;, and present the results of a series of experiments using these two systems.</abstract>
+
+<originInfo><publisher>Springer-Verlag</publisher><dateIssued encoding="w3cdtf">2006</dateIssued><place><placeTerm type="text">Rome, Italy</placeTerm></place>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>From animals to animats 9 : proceedings. 9th International Conference on Simulation of Adaptive Behavior</title></titleInfo>
+  <identifier type="isbn">978-3-540-38608-7</identifier>
+  <identifier type="ISI">000242125300054</identifier>
+<part><extent unit="pages">655-666</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Gorman B, Thurau C, Bauckhage C, Humphrys M (2006)  &lt;br /&gt;In:  From animals to animats 9 : proceedings. 9th International Conference on Simulation of Adaptive Behavior. Nolfi S (Ed); Lecture Notes in Artificial Intelligence, 4095, . Berlin: Springer-Verlag:  655-666.</default>
+<wels>Gorman, B.; Thurau, C.; Bauckhage, C.; Humphrys, M. (2006): Believability testing and Bayesian imitation in interactive computer games. In: Stefano Nolfi (Hrsg.):  From animals to animats 9 : proceedings. 9th International Conference on Simulation of Adaptive Behavior. Berlin: Springer-Verlag. (Lecture Notes in Artificial Intelligence, 4095, ).  S. 655-666.</wels>
+<bio1>Gorman B, Thurau C, Bauckhage C, Humphrys M (2006) &lt;br /&gt;Believability testing and Bayesian imitation in interactive computer games. &lt;br /&gt;In:  From animals to animats 9 : proceedings. 9th International Conference on Simulation of Adaptive Behavior. Nolfi S (Ed); Lecture Notes in Artificial Intelligence, 4095,  Berlin: Springer-Verlag:  655-666.</bio1>
+<aps>B.  Gorman, et al., Believability testing and Bayesian imitation in interactive computer games, in &lt;em&gt;From animals to animats 9 : proceedings. 9th International Conference on Simulation of Adaptive Behavior&lt;/em&gt;, edited by S.  Nolfi, Lecture Notes in Artificial Intelligence, 4095 (Springer-Verlag, Berlin, 2006), p. 655-666.</aps>
+<ama>Gorman B, Thurau C, Bauckhage C, Humphrys M. Believability testing and Bayesian imitation in interactive computer games. In: Nolfi S, ed. &lt;em&gt;From animals to animats 9 : proceedings. 9th International Conference on Simulation of Adaptive Behavior&lt;/em&gt;. Lecture Notes in Artificial Intelligence, 4095. Berlin: Springer-Verlag;  2006: 655-666.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gorman, B., Thurau, C., Bauckhage, C. &amp;amp; Humphrys, M. (2006). Believability testing and Bayesian imitation in interactive computer games (Lecture Notes in Artificial Intelligence, 4095). &lt;em&gt;From animals to animats 9 : proceedings. 9th International Conference on Simulation of Adaptive Behavior&lt;/em&gt; (S. 655-666). Gehalten auf der SAB 2006, Berlin: Springer-Verlag.&lt;/div&gt;</dgps>
+<harvard1>Gorman, B., et al., 2006. Believability testing and Bayesian imitation in interactive computer games. In S.  Nolfi, ed. &lt;em&gt;From animals to animats 9 : proceedings. 9th International Conference on Simulation of Adaptive Behavior&lt;/em&gt;. Lecture Notes in Artificial Intelligence, 4095.  Berlin: Springer-Verlag, pp. 655-666.</harvard1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gorman, Bernard, Thurau, Christian, Bauckhage, Christian, and Humphrys, Mark. 2006. “Believability testing and Bayesian imitation in interactive computer games”. In &lt;em&gt;From animals to animats 9 : proceedings. 9th International Conference on Simulation of Adaptive Behavior&lt;/em&gt;, ed. Stefano Nolfi, 655-666. Lecture Notes in Artificial Intelligence, 4095. Berlin: Springer-Verlag.&lt;/div&gt;</chicago>
+<frontiers>Gorman, B., Thurau, C., Bauckhage, C., and Humphrys, M. (2006). “Believability testing and Bayesian imitation in interactive computer games” in &lt;em&gt;From animals to animats 9 : proceedings. 9th International Conference on Simulation of Adaptive Behavior&lt;/em&gt;, ed. S.  Nolfi Lecture Notes in Artificial Intelligence, 4095 (Berlin: Springer-Verlag), 655-666.</frontiers>
+<apa>Gorman, B., Thurau, C., Bauckhage, C., &amp;amp; Humphrys, M. (2006). Believability testing and Bayesian imitation in interactive computer games. In S.  Nolfi (Ed.), &lt;em&gt;Lecture Notes in Artificial Intelligence, 4095&lt;/em&gt;&lt;em&gt;. From animals to animats 9 : proceedings. 9th International Conference on Simulation of Adaptive Behavior&lt;/em&gt; (pp. 655-666). Berlin: Springer-Verlag.</apa>
+<angewandte-chemie>B.  Gorman, C.  Thurau, C.  Bauckhage, and M.  Humphrys, in &lt;em&gt;From animals to animats 9 : proceedings. 9th International Conference on Simulation of Adaptive Behavior&lt;/em&gt; (Ed.: S. Nolfi), Springer-Verlag, Berlin, &lt;strong&gt;2006&lt;/strong&gt;, p. 655-666.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Gorman, B., Thurau, C., Bauckhage, C., &amp;amp; Humphrys, M. (2006). Believability testing and Bayesian imitation in interactive computer games. In S.  Nolfi (Ed.), &lt;em&gt;Lecture Notes in Artificial Intelligence, 4095&lt;/em&gt;&lt;em&gt;. From animals to animats 9 : proceedings. 9th International Conference on Simulation of Adaptive Behavior&lt;/em&gt; (pp. 655-666). Berlin: Springer-Verlag.&lt;/div&gt;</apa_indent>
+<lncs>Gorman, B., Thurau, C., Bauckhage, C., Humphrys, M.: Believability testing and Bayesian imitation in interactive computer games. In: Nolfi, S. (ed.) From animals to animats 9 : proceedings. 9th International Conference on Simulation of Adaptive Behavior. Lecture Notes in Artificial Intelligence, 4095. p. 655-666. Springer-Verlag, Berlin (2006).</lncs>
+<mla>Gorman, Bernard, Thurau, Christian, Bauckhage, Christian, and Humphrys, Mark. “Believability testing and Bayesian imitation in interactive computer games”. &lt;em&gt;From animals to animats 9 : proceedings. 9th International Conference on Simulation of Adaptive Behavior&lt;/em&gt;. Ed. Stefano Nolfi. Berlin: Springer-Verlag, 2006. Lecture Notes in Artificial Intelligence, 4095. 655-666.</mla>
+<ieee>B. Gorman, et al., “Believability testing and Bayesian imitation in interactive computer games”, &lt;em&gt;From animals to animats 9 : proceedings. 9th International Conference on Simulation of Adaptive Behavior&lt;/em&gt;, S. Nolfi, ed., Lecture Notes in Artificial Intelligence, 4095,  Berlin: Springer-Verlag, 2006,  pp.655-666.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1596787</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:18:33Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2013-10-09T14:20:21Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1596787</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1596787</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

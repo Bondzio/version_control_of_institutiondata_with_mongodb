@@ -1,0 +1,116 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Bildungsaspiration und Zukunftserwartungen von deutschen und polnischen Jugendlichen im Vergleich</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Jürgen</namePart>
+  <namePart type="family">Mansel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21744</identifier></name>
+<name type="personal">
+  <namePart type="given">Jan</namePart>
+  <namePart type="family">Wlodarek</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Klaus</namePart>
+  <namePart type="family">Hurrelmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21484</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Wolfgang</namePart><namePart type="family">Melzer</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Wilhelm</namePart><namePart type="family">Heitmeyer</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Ludwig</namePart><namePart type="family">Liegle</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Jürgen</namePart><namePart type="family">Zinnecker</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10058</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">7978137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Juventa</publisher><dateIssued encoding="w3cdtf">1991</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+<subject><topic>minority</topic><topic>education</topic><topic>Soziologie</topic><topic>Minderheit</topic><topic>Bildung</topic><topic>sociology</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Osteuropäische Jugend im Wandel</title></titleInfo>
+  <identifier type="isbn">3-7799-0419-5 </identifier>
+<part><extent unit="pages">72-85</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee> J. Mansel, J. Wlodarek, and K. Hurrelmann, “Bildungsaspiration und Zukunftserwartungen von deutschen und polnischen Jugendlichen im Vergleich”, &lt;em&gt;Osteuropäische Jugend im Wandel&lt;/em&gt;, W. Melzer, et al., eds., Jugendforschung,  Weinheim, München: Juventa, 1991,  pp.72-85.</ieee>
+<mla>Mansel, Jürgen, Wlodarek, Jan, and Hurrelmann, Klaus. “Bildungsaspiration und Zukunftserwartungen von deutschen und polnischen Jugendlichen im Vergleich”. &lt;em&gt;Osteuropäische Jugend im Wandel&lt;/em&gt;. Ed. Wolfgang Melzer, Wilhelm Heitmeyer, Ludwig Liegle, and Jürgen Zinnecker. Weinheim, München: Juventa, 1991. Jugendforschung. 72-85.</mla>
+<lncs> Mansel, J., Wlodarek, J., Hurrelmann, K.: Bildungsaspiration und Zukunftserwartungen von deutschen und polnischen Jugendlichen im Vergleich. In: Melzer, W., Heitmeyer, W., Liegle, L., and Zinnecker, J. (eds.) Osteuropäische Jugend im Wandel. Jugendforschung. p. 72-85. Juventa, Weinheim, München (1991).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Mansel, J., Wlodarek, J., &amp;amp; Hurrelmann, K. (1991). Bildungsaspiration und Zukunftserwartungen von deutschen und polnischen Jugendlichen im Vergleich. In W.  Melzer, W.  Heitmeyer, L.  Liegle, &amp;amp; J.  Zinnecker (Eds.), &lt;em&gt;Jugendforschung&lt;/em&gt;&lt;em&gt;. Osteuropäische Jugend im Wandel&lt;/em&gt; (pp. 72-85). Weinheim, München: Juventa.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>J.  Mansel, J.  Wlodarek, and K.  Hurrelmann, in &lt;em&gt;Osteuropäische Jugend im Wandel&lt;/em&gt; (Eds.: W. Melzer, W. Heitmeyer, L. Liegle, J. Zinnecker), Juventa, Weinheim, München, &lt;strong&gt;1991&lt;/strong&gt;, p. 72-85.</angewandte-chemie>
+<apa>Mansel, J., Wlodarek, J., &amp;amp; Hurrelmann, K. (1991). Bildungsaspiration und Zukunftserwartungen von deutschen und polnischen Jugendlichen im Vergleich. In W.  Melzer, W.  Heitmeyer, L.  Liegle, &amp;amp; J.  Zinnecker (Eds.), &lt;em&gt;Jugendforschung&lt;/em&gt;&lt;em&gt;. Osteuropäische Jugend im Wandel&lt;/em&gt; (pp. 72-85). Weinheim, München: Juventa.</apa>
+<frontiers>Mansel, J., Wlodarek, J., and Hurrelmann, K. (1991). “Bildungsaspiration und Zukunftserwartungen von deutschen und polnischen Jugendlichen im Vergleich” in &lt;em&gt;Osteuropäische Jugend im Wandel&lt;/em&gt;, Melzer, W., Heitmeyer, W., Liegle, L., and Zinnecker, J. eds. Jugendforschung (Weinheim, München: Juventa), 72-85.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Mansel, Jürgen, Wlodarek, Jan, and Hurrelmann, Klaus. 1991. “Bildungsaspiration und Zukunftserwartungen von deutschen und polnischen Jugendlichen im Vergleich”. In &lt;em&gt;Osteuropäische Jugend im Wandel&lt;/em&gt;, ed. Wolfgang Melzer, Wilhelm Heitmeyer, Ludwig Liegle, and Jürgen Zinnecker, 72-85. Jugendforschung. Weinheim, München: Juventa.&lt;/div&gt;</chicago>
+<ama>Mansel J, Wlodarek J, Hurrelmann K. Bildungsaspiration und Zukunftserwartungen von deutschen und polnischen Jugendlichen im Vergleich. In: Melzer W, Heitmeyer W, Liegle L, Zinnecker J, eds. &lt;em&gt;Osteuropäische Jugend im Wandel&lt;/em&gt;. Jugendforschung. Weinheim, München: Juventa;  1991: 72-85.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Mansel, J., Wlodarek, J. &amp;amp; Hurrelmann, K. (1991). Bildungsaspiration und Zukunftserwartungen von deutschen und polnischen Jugendlichen im Vergleich (Jugendforschung). &lt;em&gt;Osteuropäische Jugend im Wandel&lt;/em&gt; (S. 72-85). Weinheim, München: Juventa.&lt;/div&gt;</dgps>
+<harvard1>Mansel, J., Wlodarek, J., &amp;amp; Hurrelmann, K., 1991. Bildungsaspiration und Zukunftserwartungen von deutschen und polnischen Jugendlichen im Vergleich. In W.  Melzer, et al., eds. &lt;em&gt;Osteuropäische Jugend im Wandel&lt;/em&gt;. Jugendforschung.  Weinheim, München: Juventa, pp. 72-85.</harvard1>
+<aps> J.  Mansel, J.  Wlodarek, and K.  Hurrelmann, Bildungsaspiration und Zukunftserwartungen von deutschen und polnischen Jugendlichen im Vergleich, in &lt;em&gt;Osteuropäische Jugend im Wandel&lt;/em&gt;, edited by W.  Melzer, et al., Jugendforschung (Juventa, Weinheim, München, 1991), p. 72-85.</aps>
+<bio1>Mansel J, Wlodarek J, Hurrelmann K (1991) &lt;br /&gt;Bildungsaspiration und Zukunftserwartungen von deutschen und polnischen Jugendlichen im Vergleich. &lt;br /&gt;In:  Osteuropäische Jugend im Wandel. Melzer W, Heitmeyer W, Liegle L, Zinnecker J (Eds); Jugendforschung,  Weinheim, München: Juventa:  72-85.</bio1>
+<wels>Mansel, J.; Wlodarek, J.; Hurrelmann, K. (1991): Bildungsaspiration und Zukunftserwartungen von deutschen und polnischen Jugendlichen im Vergleich. In: Wolfgang Melzer; Wilhelm Heitmeyer; Ludwig Liegle; Jürgen Zinnecker (Hrsg.):  Osteuropäische Jugend im Wandel. Weinheim, München: Juventa. (Jugendforschung, ).  S. 72-85.</wels>
+<default>Mansel J, Wlodarek J, Hurrelmann K (1991)  &lt;br /&gt;In:  Osteuropäische Jugend im Wandel. Melzer W, Heitmeyer W, Liegle L, Zinnecker J (Eds); Jugendforschung, . Weinheim, München: Juventa:  72-85.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1856920</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-08-11T13:05:24Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-08-11T13:05:24Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1856920</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1856920</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

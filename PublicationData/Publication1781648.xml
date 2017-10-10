@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Hochschulforschung in einer Entwicklungsagentur: am Beispiel des interdisziplinären Zentrums für Hochschuldidaktik (IZHD) der Universität Hamburg</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Ludwig</namePart>
+  <namePart type="family">Huber</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">172028</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Christoph</namePart><namePart type="family">Oehler</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10061</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10021</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT2626.pdf">https://pub.uni-bielefeld.de/download/1781648/2313392</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Dt. Studienverlag</publisher><dateIssued encoding="w3cdtf">1988</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Forschungspotentiale sozialwissenschaftlicher Hochschulforschung: Bundesrepublik Deutschland - Österreich - Schweiz</title></titleInfo>
+  <identifier type="isbn">3-89271-110-0</identifier><identifier type="urn">urn:nbn:de:0070-bipr-26268</identifier>
+<part><detail type="volume"><number>84</number></detail><extent unit="pages">81-96</extent>
+</part>
+</relatedItem>
+
+<note type="nonBielefeld">yes</note>
+<extension>
+<bibliographicCitation>
+<frontiers>Huber, L. (1988). “Hochschulforschung in einer Entwicklungsagentur: am Beispiel des interdisziplinären Zentrums für Hochschuldidaktik (IZHD) der Universität Hamburg” in &lt;em&gt;Forschungspotentiale sozialwissenschaftlicher Hochschulforschung: Bundesrepublik Deutschland - Österreich - Schweiz&lt;/em&gt;, Oehler, C. ed. Blickpunkt Hochschuldidaktik, vol. 84, (Weinheim: Dt. Studienverlag), 81-96.</frontiers>
+<apa>Huber, L. (1988). Hochschulforschung in einer Entwicklungsagentur: am Beispiel des interdisziplinären Zentrums für Hochschuldidaktik (IZHD) der Universität Hamburg. In C.  Oehler (Ed.), &lt;em&gt;Blickpunkt Hochschuldidaktik: Vol. 84&lt;/em&gt;&lt;em&gt;. Forschungspotentiale sozialwissenschaftlicher Hochschulforschung: Bundesrepublik Deutschland - Österreich - Schweiz&lt;/em&gt; (pp. 81-96). Weinheim: Dt. Studienverlag.</apa>
+<angewandte-chemie>L.  Huber, in &lt;em&gt;Forschungspotentiale sozialwissenschaftlicher Hochschulforschung: Bundesrepublik Deutschland - Österreich - Schweiz&lt;/em&gt; (Ed.: C. Oehler), Dt. Studienverlag, Weinheim, &lt;strong&gt;1988&lt;/strong&gt;, p. 81-96.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Huber, Ludwig. 1988. “Hochschulforschung in einer Entwicklungsagentur: am Beispiel des interdisziplinären Zentrums für Hochschuldidaktik (IZHD) der Universität Hamburg”. In &lt;em&gt;Forschungspotentiale sozialwissenschaftlicher Hochschulforschung: Bundesrepublik Deutschland - Österreich - Schweiz&lt;/em&gt;, ed. Christoph Oehler, 84:81-96. Blickpunkt Hochschuldidaktik. Weinheim: Dt. Studienverlag.&lt;/div&gt;</chicago>
+<lncs> Huber, L.: Hochschulforschung in einer Entwicklungsagentur: am Beispiel des interdisziplinären Zentrums für Hochschuldidaktik (IZHD) der Universität Hamburg. In: Oehler, C. (ed.) Forschungspotentiale sozialwissenschaftlicher Hochschulforschung: Bundesrepublik Deutschland - Österreich - Schweiz. Blickpunkt Hochschuldidaktik. 84, p. 81-96. Dt. Studienverlag, Weinheim (1988).</lncs>
+<mla>Huber, Ludwig. “Hochschulforschung in einer Entwicklungsagentur: am Beispiel des interdisziplinären Zentrums für Hochschuldidaktik (IZHD) der Universität Hamburg”. &lt;em&gt;Forschungspotentiale sozialwissenschaftlicher Hochschulforschung: Bundesrepublik Deutschland - Österreich - Schweiz&lt;/em&gt;. Ed. Christoph Oehler. Weinheim: Dt. Studienverlag, 1988.Vol. 84. Blickpunkt Hochschuldidaktik. 81-96.</mla>
+<ieee> L. Huber, “Hochschulforschung in einer Entwicklungsagentur: am Beispiel des interdisziplinären Zentrums für Hochschuldidaktik (IZHD) der Universität Hamburg”, &lt;em&gt;Forschungspotentiale sozialwissenschaftlicher Hochschulforschung: Bundesrepublik Deutschland - Österreich - Schweiz&lt;/em&gt;, C. Oehler, ed., Blickpunkt Hochschuldidaktik, vol. 84,  Weinheim: Dt. Studienverlag, 1988,  pp.81-96.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Huber, L. (1988). Hochschulforschung in einer Entwicklungsagentur: am Beispiel des interdisziplinären Zentrums für Hochschuldidaktik (IZHD) der Universität Hamburg. In C.  Oehler (Ed.), &lt;em&gt;Blickpunkt Hochschuldidaktik: Vol. 84&lt;/em&gt;&lt;em&gt;. Forschungspotentiale sozialwissenschaftlicher Hochschulforschung: Bundesrepublik Deutschland - Österreich - Schweiz&lt;/em&gt; (pp. 81-96). Weinheim: Dt. Studienverlag.&lt;/div&gt;</apa_indent>
+<default>Huber L (1988)  &lt;br /&gt;In:  Forschungspotentiale sozialwissenschaftlicher Hochschulforschung: Bundesrepublik Deutschland - Österreich - Schweiz. Oehler C (Ed); Blickpunkt Hochschuldidaktik, 84. Weinheim: Dt. Studienverlag:  81-96.</default>
+<wels>Huber, L. (1988): Hochschulforschung in einer Entwicklungsagentur: am Beispiel des interdisziplinären Zentrums für Hochschuldidaktik (IZHD) der Universität Hamburg. In: Christoph Oehler (Hrsg.):  Forschungspotentiale sozialwissenschaftlicher Hochschulforschung: Bundesrepublik Deutschland - Österreich - Schweiz. Weinheim: Dt. Studienverlag. (Blickpunkt Hochschuldidaktik, 84).  S. 81-96.</wels>
+<bio1>Huber L (1988) &lt;br /&gt;Hochschulforschung in einer Entwicklungsagentur: am Beispiel des interdisziplinären Zentrums für Hochschuldidaktik (IZHD) der Universität Hamburg. &lt;br /&gt;In:  Forschungspotentiale sozialwissenschaftlicher Hochschulforschung: Bundesrepublik Deutschland - Österreich - Schweiz. Oehler C (Ed); Blickpunkt Hochschuldidaktik, 84. Weinheim: Dt. Studienverlag:  81-96.</bio1>
+<aps> L.  Huber, Hochschulforschung in einer Entwicklungsagentur: am Beispiel des interdisziplinären Zentrums für Hochschuldidaktik (IZHD) der Universität Hamburg, in &lt;em&gt;Forschungspotentiale sozialwissenschaftlicher Hochschulforschung: Bundesrepublik Deutschland - Österreich - Schweiz&lt;/em&gt;, edited by C.  Oehler, Blickpunkt Hochschuldidaktik, &lt;strong&gt;84&lt;/strong&gt; (Dt. Studienverlag, Weinheim, 1988), p. 81-96.</aps>
+<harvard1>Huber, L., 1988. Hochschulforschung in einer Entwicklungsagentur: am Beispiel des interdisziplinären Zentrums für Hochschuldidaktik (IZHD) der Universität Hamburg. In C.  Oehler, ed. &lt;em&gt;Forschungspotentiale sozialwissenschaftlicher Hochschulforschung: Bundesrepublik Deutschland - Österreich - Schweiz&lt;/em&gt;. Blickpunkt Hochschuldidaktik. no.84  Weinheim: Dt. Studienverlag, pp. 81-96.</harvard1>
+<ama>Huber L. Hochschulforschung in einer Entwicklungsagentur: am Beispiel des interdisziplinären Zentrums für Hochschuldidaktik (IZHD) der Universität Hamburg. In: Oehler C, ed. &lt;em&gt;Forschungspotentiale sozialwissenschaftlicher Hochschulforschung: Bundesrepublik Deutschland - Österreich - Schweiz&lt;/em&gt;. Blickpunkt Hochschuldidaktik. Vol 84. Weinheim: Dt. Studienverlag;  1988: 81-96.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Huber, L. (1988). Hochschulforschung in einer Entwicklungsagentur: am Beispiel des interdisziplinären Zentrums für Hochschuldidaktik (IZHD) der Universität Hamburg (Blickpunkt Hochschuldidaktik). &lt;em&gt;Forschungspotentiale sozialwissenschaftlicher Hochschulforschung: Bundesrepublik Deutschland - Österreich - Schweiz&lt;/em&gt; (S. 81-96). Weinheim: Dt. Studienverlag.&lt;/div&gt;</dgps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781648</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-08-11T10:41:29Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-08-11T10:41:29Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781648</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781648</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

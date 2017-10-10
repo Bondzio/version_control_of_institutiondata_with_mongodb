@@ -1,0 +1,114 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Counting Suffix Arrays and Strings</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Klaus-Bernd</namePart>
+  <namePart type="family">Schürmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jens</namePart>
+  <namePart type="family">Stoye</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">65864</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-4656-7155</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Research Group J. Stoye</namePart>
+  <identifier type="unibi">33067262</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Genominformatik</namePart>
+  <identifier type="unibi">66100</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+<name type="conference">
+  <namePart>SPIRE 2005</namePart>
+</name>
+
+
+
+
+
+
+
+<originInfo><dateIssued encoding="w3cdtf">2005</dateIssued><place><placeTerm type="text">Buenos Aires, Argentina</placeTerm></place>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Proc. of SPIRE 2005</title></titleInfo><identifier type="doi">10.1007/11575832_8</identifier>
+<part><detail type="volume"><number>3772</number></detail><extent unit="pages">55-66</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Schürmann K-B, Stoye J. Counting Suffix Arrays and Strings. In:  &lt;em&gt;Proc. of SPIRE 2005&lt;/em&gt;. LNCS. Vol 3772. 2005: 55-66.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schürmann, K.-B. &amp;amp; Stoye, J. (2005). Counting Suffix Arrays and Strings (LNCS). &lt;em&gt;Proc. of SPIRE 2005&lt;/em&gt; (S. 55-66). Gehalten auf der SPIRE 2005. doi:10.1007/11575832_8.&lt;/div&gt;</dgps>
+<harvard1>Schürmann, K.-B., &amp;amp; Stoye, J., 2005. Counting Suffix Arrays and Strings. In &lt;em&gt;Proc. of SPIRE 2005&lt;/em&gt;. LNCS. no.3772 pp. 55-66.</harvard1>
+<aps>K. - B.  Schürmann and J.  Stoye, Counting Suffix Arrays and Strings, in &lt;em&gt;Proc. of SPIRE 2005&lt;/em&gt;, LNCS, &lt;strong&gt;3772&lt;/strong&gt; (2005), p. 55-66.</aps>
+<bio1>Schürmann K-B, Stoye J (2005) &lt;br /&gt;Counting Suffix Arrays and Strings. &lt;br /&gt;In:  Proc. of SPIRE 2005.  LNCS, 3772. 55-66.</bio1>
+<wels>Schürmann, K. - B.; Stoye, J. (2005): Counting Suffix Arrays and Strings. In: Proc. of SPIRE 2005. (LNCS, 3772).  S. 55-66.</wels>
+<default>Schürmann K-B, Stoye J (2005)  &lt;br /&gt;In:  Proc. of SPIRE 2005.  LNCS, 3772.  55-66.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schürmann, K. - B., &amp;amp; Stoye, J. (2005). Counting Suffix Arrays and Strings. &lt;em&gt;Proc. of SPIRE 2005&lt;/em&gt;, &lt;em&gt;3772&lt;/em&gt;, 55-66.&lt;/div&gt;</apa_indent>
+<ieee>K.-B. Schürmann and J. Stoye, “Counting Suffix Arrays and Strings”, &lt;em&gt;Proc. of SPIRE 2005&lt;/em&gt;, LNCS, vol. 3772, 2005,  pp.55-66.</ieee>
+<lncs>Schürmann, K.-B., Stoye, J.: Counting Suffix Arrays and Strings. Proc. of SPIRE 2005. LNCS. 3772, p. 55-66. (2005).</lncs>
+<mla>Schürmann, Klaus-Bernd, and Stoye, Jens. “Counting Suffix Arrays and Strings”. &lt;em&gt;Proc. of SPIRE 2005&lt;/em&gt;. 2005.Vol. 3772. LNCS. 55-66.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schürmann, Klaus-Bernd, and Stoye, Jens. 2005. “Counting Suffix Arrays and Strings”. In &lt;em&gt;Proc. of SPIRE 2005&lt;/em&gt;, 3772:55-66. LNCS.&lt;/div&gt;</chicago>
+<apa>Schürmann, K. - B., &amp;amp; Stoye, J. (2005). Counting Suffix Arrays and Strings. &lt;em&gt;Proc. of SPIRE 2005&lt;/em&gt;, &lt;em&gt;3772&lt;/em&gt;, 55-66.</apa>
+<angewandte-chemie>K. - B.  Schürmann, and J.  Stoye, in &lt;em&gt;Proc. of SPIRE 2005&lt;/em&gt;, &lt;strong&gt;2005&lt;/strong&gt;, p. 55-66.</angewandte-chemie>
+<frontiers>Schürmann, K. - B., and Stoye, J. (2005). “Counting Suffix Arrays and Strings” in &lt;em&gt;Proc. of SPIRE 2005&lt;/em&gt; LNCS, vol. 3772, 55-66.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1919026</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-11-23T12:47:42Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-01-18T09:11:14Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1919026</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1919026</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

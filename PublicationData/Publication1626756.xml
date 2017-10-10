@@ -1,0 +1,598 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The spin-dependent structure function g(1)(x) of the proton from polarized deep-inelastic muon scattering</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">B</namePart>
+  <namePart type="family">Adeva</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">E</namePart>
+  <namePart type="family">Arik</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Arvidson</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">B</namePart>
+  <namePart type="family">Badelek</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">G</namePart>
+  <namePart type="family">Bardin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Günter</namePart>
+  <namePart type="family">Baum</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40173</identifier></name>
+<name type="personal">
+  <namePart type="given">P</namePart>
+  <namePart type="family">Berglund</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">L</namePart>
+  <namePart type="family">Betev</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">R</namePart>
+  <namePart type="family">Birsa</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">N</namePart>
+  <namePart type="family">deBotton</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">F</namePart>
+  <namePart type="family">Bradamante</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Bravar</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Bressan</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">S</namePart>
+  <namePart type="family">Bultmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">E</namePart>
+  <namePart type="family">Burtin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">D</namePart>
+  <namePart type="family">Crabb</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J</namePart>
+  <namePart type="family">Cranshaw</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">T</namePart>
+  <namePart type="family">Cuhadar</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">S</namePart>
+  <namePart type="family">DallaTorre</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">R</namePart>
+  <namePart type="family">vanDantzig</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">B</namePart>
+  <namePart type="family">Derro</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Deshpande</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">S</namePart>
+  <namePart type="family">Dhawan</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">C</namePart>
+  <namePart type="family">Dulya</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">S</namePart>
+  <namePart type="family">Eichblatt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">D</namePart>
+  <namePart type="family">Fasching</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">F</namePart>
+  <namePart type="family">Feinstein</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">C</namePart>
+  <namePart type="family">Fernandez</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">S</namePart>
+  <namePart type="family">Forthmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">B</namePart>
+  <namePart type="family">Frois</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Gallas</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">JA</namePart>
+  <namePart type="family">Garzon</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">H</namePart>
+  <namePart type="family">Gilly</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Giorgi</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">S</namePart>
+  <namePart type="family">Goertz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">G</namePart>
+  <namePart type="family">Gracia</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">N</namePart>
+  <namePart type="family">deGroot</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">K</namePart>
+  <namePart type="family">Haft</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">D</namePart>
+  <namePart type="family">vonHarrach</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">T</namePart>
+  <namePart type="family">Hasegawa</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">P</namePart>
+  <namePart type="family">Hautle</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">N</namePart>
+  <namePart type="family">Hayashi</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">CA</namePart>
+  <namePart type="family">Heusch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">N</namePart>
+  <namePart type="family">Horikawa</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">VW</namePart>
+  <namePart type="family">Hughes</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">G</namePart>
+  <namePart type="family">Igo</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">S</namePart>
+  <namePart type="family">Ishimoto</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">T</namePart>
+  <namePart type="family">Iwata</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">EM</namePart>
+  <namePart type="family">Kabuss</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">T</namePart>
+  <namePart type="family">Kageya</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Karev</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">TJ</namePart>
+  <namePart type="family">Ketel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J</namePart>
+  <namePart type="family">Kiryluk</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Y</namePart>
+  <namePart type="family">Kisselev</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">V</namePart>
+  <namePart type="family">Krivokhijine</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">W</namePart>
+  <namePart type="family">Kroger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">V</namePart>
+  <namePart type="family">Kuktin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">K</namePart>
+  <namePart type="family">Kurek</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J</namePart>
+  <namePart type="family">Kyynarainen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Lamanna</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">U</namePart>
+  <namePart type="family">Landgraf</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">JM</namePart>
+  <namePart type="family">LeGoff</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">F</namePart>
+  <namePart type="family">Lehar</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">deLesquen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J</namePart>
+  <namePart type="family">Lichtenstadt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Litmaath</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Magnon</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">GK</namePart>
+  <namePart type="family">Mallot</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">F</namePart>
+  <namePart type="family">Marie</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Martin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J</namePart>
+  <namePart type="family">Martino</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">T</namePart>
+  <namePart type="family">Matsuda</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">B</namePart>
+  <namePart type="family">Mayes</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">JS</namePart>
+  <namePart type="family">McCarthy</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">K</namePart>
+  <namePart type="family">Medved</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">W</namePart>
+  <namePart type="family">Meyer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">G</namePart>
+  <namePart type="family">vanMiddelkoop</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">David</namePart>
+  <namePart type="family">Miller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Y</namePart>
+  <namePart type="family">Miyachi</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">K</namePart>
+  <namePart type="family">Mori</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J</namePart>
+  <namePart type="family">Moromisato</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J</namePart>
+  <namePart type="family">Nassalski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">L</namePart>
+  <namePart type="family">Naumann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">TO</namePart>
+  <namePart type="family">Niinikoski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">JEJ</namePart>
+  <namePart type="family">Oberski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Ogawa</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Perdekamp</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">H</namePart>
+  <namePart type="family">Pereira</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">F</namePart>
+  <namePart type="family">PerrotKunne</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">D</namePart>
+  <namePart type="family">Peshekhonov</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">L</namePart>
+  <namePart type="family">Pinsky</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">S</namePart>
+  <namePart type="family">Platchkov</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Plo</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">D</namePart>
+  <namePart type="family">Pose</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">H</namePart>
+  <namePart type="family">Postma</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J</namePart>
+  <namePart type="family">Pretz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">R</namePart>
+  <namePart type="family">Puntaferro</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">G</namePart>
+  <namePart type="family">Radel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Rijllart</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">G</namePart>
+  <namePart type="family">Reicherz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Rodriguez</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">E</namePart>
+  <namePart type="family">Rondio</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">B</namePart>
+  <namePart type="family">Roscherr</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">I</namePart>
+  <namePart type="family">Sabo</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J</namePart>
+  <namePart type="family">Saborido</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Sandacz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">I</namePart>
+  <namePart type="family">Savin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">P</namePart>
+  <namePart type="family">Schiavon</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Steinmetz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">U</namePart>
+  <namePart type="family">Stiegler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">H</namePart>
+  <namePart type="family">Stuhrmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Szleper</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">F</namePart>
+  <namePart type="family">Tessarotto</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">D</namePart>
+  <namePart type="family">Thers</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">W</namePart>
+  <namePart type="family">Tlaczala</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Tripet</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">G</namePart>
+  <namePart type="family">Unel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Velasco</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J</namePart>
+  <namePart type="family">Vogt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">R</namePart>
+  <namePart type="family">Voss</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">C</namePart>
+  <namePart type="family">Whitten</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">R</namePart>
+  <namePart type="family">Windmolders</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">W</namePart>
+  <namePart type="family">Wislicki</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Witzmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J</namePart>
+  <namePart type="family">Ylostalo</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">AM</namePart>
+  <namePart type="family">Zanetti</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">K</namePart>
+  <namePart type="family">Zaremba</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We present a new measurement of the virtual photon proton asymmetry A(1)(P) from deep inelastic scattering of polarized muons on polarized protons in the kinematic range 0.0008 &lt; x &lt; 0.7 and 0.2 &lt; Q(2) &lt; 100 GeV2. With this, the statistical uncertainty of our measurement has improved by a factor of 2 compared to our previous measurements. The spin-dependent structure function g(1)(P) is determined for the data with Q(2) &gt; 1 GeV2. A perturbative QCD evolution in next-to-leading order is used to determine g(1)(P)(x) as a constant Q(2). At Q(2) = 10 GeV2 we find, in the measured range, integral(0.003)(0.7)g(1)(P)(x)dx = 0.139 +/- 0.006(stat) +/- 0.008(syst)+/- 0.006(evol). The value of the first moment Gamma(1)(P) = integral(0)(1)g(1)(P)(x)dx of g(1)(P) depends on the approach used to describe the behaviour of g(1)(P) at low x. We find that the Ellis-Jaffe sum rule is violated. With our published result for Gamma(1)(d) we confirm the Bjorken sum rule with an accuracy of approximate to 15% at the one standard deviation level. (C) 1997 Elsevier Science B.V.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">1997</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Phys.Lett. B</title></titleInfo>
+  <identifier type="issn">0370-2693</identifier>
+  <identifier type="INSPIRE">448371</identifier>
+  <identifier type="ISI">A1997YG51200024</identifier><identifier type="doi">10.1016/S0370-2693(97)01106-4</identifier>
+<part><detail type="volume"><number>412</number></detail><detail type="issue"><number>3-4</number></detail><extent unit="pages">414-424</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Adeva B, Arik E, Arvidson A, Badelek B, Bardin G, Baum G, Berglund P, Betev L, Birsa R, deBotton N, Bradamante F, et al. (1997) &lt;br /&gt;Phys.Lett. B 412(3-4): 414-424.</default>
+<wels>Adeva, B.; Arik, E.; Arvidson, A.; Badelek, B.; Bardin, G.; Baum, G.; Berglund, P.; Betev, L.; Birsa, R.; deBotton, N.; Bradamante, F.; Bravar, A.; Bressan, A.; Bultmann, S.; Burtin, E.; Crabb, D.; Cranshaw, J.; Cuhadar, T.; DallaTorre, S.; vanDantzig, R.; Derro, B.; Deshpande, A.; Dhawan, S.; Dulya, C.; Eichblatt, S.; Fasching, D.; Feinstein, F.; Fernandez, C.; Forthmann, S.; Frois, B.; Gallas, A.; Garzon, J. A.; Gilly, H.; Giorgi, M.; Goertz, S.; Gracia, G.; deGroot, N.; Haft, K.; vonHarrach, D.; Hasegawa, T.; Hautle, P.; Hayashi, N.; Heusch, C. A.; Horikawa, N.; Hughes, V. W.; Igo, G.; Ishimoto, S.; Iwata, T.; Kabuss, E. M.; Kageya, T.; Karev, A.; Ketel, T. J.; Kiryluk, J.; Kisselev, Y.; Krivokhijine, V.; Kroger, W.; Kuktin, V.; Kurek, K.; Kyynarainen, J.; Lamanna, M.; Landgraf, U.; LeGoff, J. M.; Lehar, F.; deLesquen, A.; Lichtenstadt, J.; Litmaath, M.; Magnon, A.; Mallot, G. K.; Marie, F.; Martin, A.; Martino, J.; Matsuda, T.; Mayes, B.; McCarthy, J. S.; Medved, K.; Meyer, W.; vanMiddelkoop, G.; Miller, D.; Miyachi, Y.; Mori, K.; Moromisato, J.; Nassalski, J.; Naumann, L.; Niinikoski, T. O.; Oberski, J. E. J.; Ogawa, A.; Perdekamp, M.; Pereira, H.; PerrotKunne, F.; Peshekhonov, D.; Pinsky, L.; Platchkov, S.; Plo, M.; Pose, D.; Postma, H.; Pretz, J.; Puntaferro, R.; Radel, G.; Rijllart, A.; Reicherz, G.; Rodriguez, M.; Rondio, E.; Roscherr, B.; Sabo, I.; Saborido, J.; Sandacz, A.; Savin, I.; Schiavon, P.; Steinmetz, A.; Stiegler, U.; Stuhrmann, H.; Szleper, M.; Tessarotto, F.; Thers, D.; Tlaczala, W.; Tripet, A.; Unel, G.; Velasco, M.; Vogt, J.; Voss, R.; Whitten, C.; Windmolders, R.; Wislicki, W.; Witzmann, A.; Ylostalo, J.; Zanetti, A. M.; Zaremba, K. (1997): The spin-dependent structure function g(1)(x) of the proton from polarized deep-inelastic muon scattering &lt;em&gt;Phys.Lett. B&lt;/em&gt;,412:(3-4): 414-424.</wels>
+<aps>B.  Adeva, et al., The spin-dependent structure function g(1)(x) of the proton from polarized deep-inelastic muon scattering, Phys.Lett. B &lt;strong&gt;412&lt;/strong&gt;, 414-424 (1997).</aps>
+<bio1>Adeva B, Arik E, Arvidson A, Badelek B, Bardin G, Baum G, Berglund P, Betev L, Birsa R, deBotton N, Bradamante F, Bravar A, Bressan A, Bultmann S, Burtin E, Crabb D, Cranshaw J, Cuhadar T, DallaTorre S, vanDantzig R, Derro B, Deshpande A, Dhawan S, Dulya C, Eichblatt S, Fasching D, Feinstein F, Fernandez C, Forthmann S, Frois B, Gallas A, Garzon JA, Gilly H, Giorgi M, Goertz S, Gracia G, deGroot N, Haft K, vonHarrach D, Hasegawa T, Hautle P, Hayashi N, Heusch CA, Horikawa N, Hughes VW, Igo G, Ishimoto S, Iwata T, Kabuss EM, Kageya T, Karev A, Ketel TJ, Kiryluk J, Kisselev Y, Krivokhijine V, Kroger W, Kuktin V, Kurek K, Kyynarainen J, Lamanna M, Landgraf U, LeGoff JM, Lehar F, deLesquen A, Lichtenstadt J, Litmaath M, Magnon A, Mallot GK, Marie F, Martin A, Martino J, Matsuda T, Mayes B, McCarthy JS, Medved K, Meyer W, vanMiddelkoop G, Miller D, Miyachi Y, Mori K, Moromisato J, Nassalski J, Naumann L, Niinikoski TO, Oberski JEJ, Ogawa A, Perdekamp M, Pereira H, PerrotKunne F, Peshekhonov D, Pinsky L, Platchkov S, Plo M, Pose D, Postma H, Pretz J, Puntaferro R, Radel G, Rijllart A, Reicherz G, Rodriguez M, Rondio E, Roscherr B, Sabo I, Saborido J, Sandacz A, Savin I, Schiavon P, Steinmetz A, Stiegler U, Stuhrmann H, Szleper M, Tessarotto F, Thers D, Tlaczala W, Tripet A, Unel G, Velasco M, Vogt J, Voss R, Whitten C, Windmolders R, Wislicki W, Witzmann A, Ylostalo J, Zanetti AM, Zaremba K (1997) &lt;br /&gt;The spin-dependent structure function g(1)(x) of the proton from polarized deep-inelastic muon scattering.&lt;br /&gt;Phys.Lett. B 412(3-4): 414-424.</bio1>
+<ama>Adeva B, Arik E, Arvidson A, et al. The spin-dependent structure function g(1)(x) of the proton from polarized deep-inelastic muon scattering. &lt;em&gt;Phys.Lett. B&lt;/em&gt;. 1997;412(3-4):414-424.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Adeva, B., Arik, E., Arvidson, A., Badelek, B., Bardin, G., Baum, G., Berglund, P., Betev, L., Birsa, R., deBotton, N., Bradamante, F., Bravar, A., Bressan, A., Bultmann, S., Burtin, E., Crabb, D., Cranshaw, J., Cuhadar, T., DallaTorre, S., vanDantzig, R., Derro, B., Deshpande, A., Dhawan, S., Dulya, C., Eichblatt, S., Fasching, D., Feinstein, F., Fernandez, C., Forthmann, S., Frois, B., Gallas, A., Garzon, J.A., Gilly, H., Giorgi, M., Goertz, S., Gracia, G., deGroot, N., Haft, K., vonHarrach, D., Hasegawa, T., Hautle, P., Hayashi, N., Heusch, C.A., Horikawa, N., Hughes, V.W., Igo, G., Ishimoto, S., Iwata, T., Kabuss, E.M., Kageya, T., Karev, A., Ketel, T.J., Kiryluk, J., Kisselev, Y., Krivokhijine, V., Kroger, W., Kuktin, V., Kurek, K., Kyynarainen, J., Lamanna, M., Landgraf, U., LeGoff, J.M., Lehar, F., deLesquen, A., Lichtenstadt, J., Litmaath, M., Magnon, A., Mallot, G.K., Marie, F., Martin, A., Martino, J., Matsuda, T., Mayes, B., McCarthy, J.S., Medved, K., Meyer, W., vanMiddelkoop, G., Miller, D., Miyachi, Y., Mori, K., Moromisato, J., Nassalski, J., Naumann, L., Niinikoski, T.O., Oberski, J.E.J., Ogawa, A., Perdekamp, M., Pereira, H., PerrotKunne, F., Peshekhonov, D., Pinsky, L., Platchkov, S., Plo, M., Pose, D., Postma, H., Pretz, J., Puntaferro, R., Radel, G., Rijllart, A., Reicherz, G., Rodriguez, M., Rondio, E., Roscherr, B., Sabo, I., Saborido, J., Sandacz, A., Savin, I., Schiavon, P., Steinmetz, A., Stiegler, U., Stuhrmann, H., Szleper, M., Tessarotto, F., Thers, D., Tlaczala, W., Tripet, A., Unel, G., Velasco, M., Vogt, J., Voss, R., Whitten, C., Windmolders, R., Wislicki, W., Witzmann, A., Ylostalo, J., Zanetti, A.M. &amp;amp; Zaremba, K. (1997). The spin-dependent structure function g(1)(x) of the proton from polarized deep-inelastic muon scattering. &lt;em&gt;Phys.Lett. B&lt;/em&gt;, &lt;em&gt;412&lt;/em&gt;(3-4), 414-424. ELSEVIER SCIENCE BV. doi:10.1016/S0370-2693(97)01106-4.&lt;/div&gt;</dgps>
+<harvard1>Adeva, B., et al., 1997. The spin-dependent structure function g(1)(x) of the proton from polarized deep-inelastic muon scattering. &lt;em&gt;Phys.Lett. B&lt;/em&gt;, 412(3-4), p 414-424.</harvard1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Adeva, B, Arik, E, Arvidson, A, Badelek, B, Bardin, G, Baum, Günter, Berglund, P, et al. 1997. “The spin-dependent structure function g(1)(x) of the proton from polarized deep-inelastic muon scattering”. &lt;em&gt;Phys.Lett. B&lt;/em&gt; 412 (3-4): 414-424.&lt;/div&gt;</chicago>
+<frontiers>Adeva, B., Arik, E., Arvidson, A., Badelek, B., Bardin, G., Baum, G., Berglund, P., Betev, L., Birsa, R., deBotton, N., et al. (1997). The spin-dependent structure function g(1)(x) of the proton from polarized deep-inelastic muon scattering. &lt;em&gt;Phys.Lett. B&lt;/em&gt; 412, 414-424.</frontiers>
+<angewandte-chemie>B.  Adeva, E.  Arik, A.  Arvidson, B.  Badelek, G.  Bardin, G.  Baum, P.  Berglund, L.  Betev, R.  Birsa, N.  deBotton, et al., “The spin-dependent structure function g(1)(x) of the proton from polarized deep-inelastic muon scattering”, &lt;em&gt;Phys.Lett. B&lt;/em&gt;, &lt;strong&gt;1997&lt;/strong&gt;, &lt;em&gt;412&lt;/em&gt;, 414-424.</angewandte-chemie>
+<apa>Adeva, B., Arik, E., Arvidson, A., Badelek, B., Bardin, G., Baum, G., Berglund, P., et al. (1997). The spin-dependent structure function g(1)(x) of the proton from polarized deep-inelastic muon scattering. &lt;em&gt;Phys.Lett. B&lt;/em&gt;, &lt;em&gt;412&lt;/em&gt;(3-4), 414-424.</apa>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Adeva, B., Arik, E., Arvidson, A., Badelek, B., Bardin, G., Baum, G., Berglund, P., et al. (1997). The spin-dependent structure function g(1)(x) of the proton from polarized deep-inelastic muon scattering. &lt;em&gt;Phys.Lett. B&lt;/em&gt;, &lt;em&gt;412&lt;/em&gt;(3-4), 414-424.&lt;/div&gt;</apa_indent>
+<lncs>Adeva, B., Arik, E., Arvidson, A., Badelek, B., Bardin, G., Baum, G., Berglund, P., Betev, L., Birsa, R., deBotton, N., Bradamante, F., Bravar, A., Bressan, A., Bultmann, S., Burtin, E., Crabb, D., Cranshaw, J., Cuhadar, T., DallaTorre, S., vanDantzig, R., Derro, B., Deshpande, A., Dhawan, S., Dulya, C., Eichblatt, S., Fasching, D., Feinstein, F., Fernandez, C., Forthmann, S., Frois, B., Gallas, A., Garzon, J.A., Gilly, H., Giorgi, M., Goertz, S., Gracia, G., deGroot, N., Haft, K., vonHarrach, D., Hasegawa, T., Hautle, P., Hayashi, N., Heusch, C.A., Horikawa, N., Hughes, V.W., Igo, G., Ishimoto, S., Iwata, T., Kabuss, E.M., Kageya, T., Karev, A., Ketel, T.J., Kiryluk, J., Kisselev, Y., Krivokhijine, V., Kroger, W., Kuktin, V., Kurek, K., Kyynarainen, J., Lamanna, M., Landgraf, U., LeGoff, J.M., Lehar, F., deLesquen, A., Lichtenstadt, J., Litmaath, M., Magnon, A., Mallot, G.K., Marie, F., Martin, A., Martino, J., Matsuda, T., Mayes, B., McCarthy, J.S., Medved, K., Meyer, W., vanMiddelkoop, G., Miller, D., Miyachi, Y., Mori, K., Moromisato, J., Nassalski, J., Naumann, L., Niinikoski, T.O., Oberski, J.E.J., Ogawa, A., Perdekamp, M., Pereira, H., PerrotKunne, F., Peshekhonov, D., Pinsky, L., Platchkov, S., Plo, M., Pose, D., Postma, H., Pretz, J., Puntaferro, R., Radel, G., Rijllart, A., Reicherz, G., Rodriguez, M., Rondio, E., Roscherr, B., Sabo, I., Saborido, J., Sandacz, A., Savin, I., Schiavon, P., Steinmetz, A., Stiegler, U., Stuhrmann, H., Szleper, M., Tessarotto, F., Thers, D., Tlaczala, W., Tripet, A., Unel, G., Velasco, M., Vogt, J., Voss, R., Whitten, C., Windmolders, R., Wislicki, W., Witzmann, A., Ylostalo, J., Zanetti, A.M., Zaremba, K.: The spin-dependent structure function g(1)(x) of the proton from polarized deep-inelastic muon scattering. Phys.Lett. B. 412, 414-424 (1997).</lncs>
+<mla>Adeva, B, Arik, E, Arvidson, A, Badelek, B, Bardin, G, Baum, Günter, Berglund, P, Betev, L, Birsa, R, deBotton, N, Bradamante, F, Bravar, A, Bressan, A, Bultmann, S, Burtin, E, Crabb, D, Cranshaw, J, Cuhadar, T, DallaTorre, S, vanDantzig, R, Derro, B, Deshpande, A, Dhawan, S, Dulya, C, Eichblatt, S, Fasching, D, Feinstein, F, Fernandez, C, Forthmann, S, Frois, B, Gallas, A, Garzon, JA, Gilly, H, Giorgi, M, Goertz, S, Gracia, G, deGroot, N, Haft, K, vonHarrach, D, Hasegawa, T, Hautle, P, Hayashi, N, Heusch, CA, Horikawa, N, Hughes, VW, Igo, G, Ishimoto, S, Iwata, T, Kabuss, EM, Kageya, T, Karev, A, Ketel, TJ, Kiryluk, J, Kisselev, Y, Krivokhijine, V, Kroger, W, Kuktin, V, Kurek, K, Kyynarainen, J, Lamanna, M, Landgraf, U, LeGoff, JM, Lehar, F, deLesquen, A, Lichtenstadt, J, Litmaath, M, Magnon, A, Mallot, GK, Marie, F, Martin, A, Martino, J, Matsuda, T, Mayes, B, McCarthy, JS, Medved, K, Meyer, W, vanMiddelkoop, G, Miller, David, Miyachi, Y, Mori, K, Moromisato, J, Nassalski, J, Naumann, L, Niinikoski, TO, Oberski, JEJ, Ogawa, A, Perdekamp, M, Pereira, H, PerrotKunne, F, Peshekhonov, D, Pinsky, L, Platchkov, S, Plo, M, Pose, D, Postma, H, Pretz, J, Puntaferro, R, Radel, G, Rijllart, A, Reicherz, G, Rodriguez, M, Rondio, E, Roscherr, B, Sabo, I, Saborido, J, Sandacz, A, Savin, I, Schiavon, P, Steinmetz, A, Stiegler, U, Stuhrmann, H, Szleper, M, Tessarotto, F, Thers, D, Tlaczala, W, Tripet, A, Unel, G, Velasco, M, Vogt, J, Voss, R, Whitten, C, Windmolders, R, Wislicki, W, Witzmann, A, Ylostalo, J, Zanetti, AM, and Zaremba, K. “The spin-dependent structure function g(1)(x) of the proton from polarized deep-inelastic muon scattering”. &lt;em&gt;Phys.Lett. B&lt;/em&gt; 412.3-4 (1997): 414-424.</mla>
+<ieee>B. Adeva, et al., “The spin-dependent structure function g(1)(x) of the proton from polarized deep-inelastic muon scattering”, &lt;em&gt;Phys.Lett. B&lt;/em&gt;,  vol. 412, 1997,  pp. 414-424.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1626756</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:22:06Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2014-03-30T09:30:57Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1626756</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1626756</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,112 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The Corynebacterium glutamicum cglIM gene encoding a 5-cytosine methyltransferase enzyme confers a specific DNA methylation pattern in an McrBC-deficient Escherichia coli strain</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Schäfer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Tauch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">22082</identifier></name>
+<name type="personal">
+  <namePart type="given">N</namePart>
+  <namePart type="family">Droste</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alfred</namePart>
+  <namePart type="family">Pühler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21937</identifier></name>
+<name type="personal">
+  <namePart type="given">Jörn</namePart>
+  <namePart type="family">Kalinowski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">147567</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The cglIM gene of the coryneform soil bacterium Corynebacterium glutamicum ATCC 13032 has been cloned and characterized. The coding region comprises 1092 nucleotides and specifies a protein of 363 amino acid residues with a deduced M-r of 40 700. The amino acid sequence showed striking similarities to methyltransferase enzymes generating 5-methylcytosine residues, especially to M . NgoVII from Neisseria gonorrhoeae recognizing the sequence GCSGC. The cglIM gene is organized in an unusual operon which contains, in addition, two genes encoding stress-sensitive restriction enzymes. Using PCR techniques the entire gene including the promoter region was amplified from the wild-type chromosome and cloned in Escherichia coli. Expression of the cglIM gene in E. coli under the control of its own promoter conferred the C. glutamicum-specific methylation pattern to co-resident shuttle plasmids and led to a 260-fold increase in the transformation rate of C. glutamicum. In addition, the methylation pattern produced by this methyltransferase enzyme is responsible for the sensitivity of DNA from C. glutamicum to the modified cytosine restriction (Mcr) system of E. coli. (C) 1997 Elsevier Science B.V.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">1997</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>McrBC</topic><topic>electroporation</topic><topic>methylation-restriction</topic><topic>restriction-modification system</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Gene</title></titleInfo>
+  <identifier type="issn">0378-1119</identifier>
+  <identifier type="MEDLINE">9426239</identifier>
+  <identifier type="ISI">000071035900002</identifier><identifier type="doi">10.1016/S0378-1119(97)00519-2</identifier>
+<part><detail type="volume"><number>203</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">95-101</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Schäfer, A.; Tauch, A.; Droste, N.; Pühler, A.; Kalinowski, J. (1997): The Corynebacterium glutamicum cglIM gene encoding a 5-cytosine methyltransferase enzyme confers a specific DNA methylation pattern in an McrBC-deficient Escherichia coli strain &lt;em&gt;Gene&lt;/em&gt;,203:(2): 95-101.</wels>
+<default>Schäfer A, Tauch A, Droste N, Pühler A, Kalinowski J (1997) &lt;br /&gt;Gene 203(2): 95-101.</default>
+<ama>Schäfer A, Tauch A, Droste N, Pühler A, Kalinowski J. The Corynebacterium glutamicum cglIM gene encoding a 5-cytosine methyltransferase enzyme confers a specific DNA methylation pattern in an McrBC-deficient Escherichia coli strain. &lt;em&gt;Gene&lt;/em&gt;. 1997;203(2):95-101.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schäfer, A., Tauch, A., Droste, N., Pühler, A. &amp;amp; Kalinowski, J. (1997). The Corynebacterium glutamicum cglIM gene encoding a 5-cytosine methyltransferase enzyme confers a specific DNA methylation pattern in an McrBC-deficient Escherichia coli strain. &lt;em&gt;Gene&lt;/em&gt;, &lt;em&gt;203&lt;/em&gt;(2), 95-101. ELSEVIER SCIENCE BV. doi:10.1016/S0378-1119(97)00519-2.&lt;/div&gt;</dgps>
+<harvard1>Schäfer, A., et al., 1997. The Corynebacterium glutamicum cglIM gene encoding a 5-cytosine methyltransferase enzyme confers a specific DNA methylation pattern in an McrBC-deficient Escherichia coli strain. &lt;em&gt;Gene&lt;/em&gt;, 203(2), p 95-101.</harvard1>
+<aps> A.  Schäfer, et al., The Corynebacterium glutamicum cglIM gene encoding a 5-cytosine methyltransferase enzyme confers a specific DNA methylation pattern in an McrBC-deficient Escherichia coli strain, Gene &lt;strong&gt;203&lt;/strong&gt;, 95-101 (1997).</aps>
+<bio1>Schäfer A, Tauch A, Droste N, Pühler A, Kalinowski J (1997) &lt;br /&gt;The Corynebacterium glutamicum cglIM gene encoding a 5-cytosine methyltransferase enzyme confers a specific DNA methylation pattern in an McrBC-deficient Escherichia coli strain.&lt;br /&gt;Gene 203(2): 95-101.</bio1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schäfer, A, Tauch, Andreas, Droste, N, Pühler, Alfred, and Kalinowski, Jörn. 1997. “The Corynebacterium glutamicum cglIM gene encoding a 5-cytosine methyltransferase enzyme confers a specific DNA methylation pattern in an McrBC-deficient Escherichia coli strain”. &lt;em&gt;Gene&lt;/em&gt; 203 (2): 95-101.&lt;/div&gt;</chicago>
+<angewandte-chemie>A.  Schäfer, A.  Tauch, N.  Droste, A.  Pühler, and J.  Kalinowski, “The Corynebacterium glutamicum cglIM gene encoding a 5-cytosine methyltransferase enzyme confers a specific DNA methylation pattern in an McrBC-deficient Escherichia coli strain”, &lt;em&gt;Gene&lt;/em&gt;, &lt;strong&gt;1997&lt;/strong&gt;, &lt;em&gt;203&lt;/em&gt;, 95-101.</angewandte-chemie>
+<apa>Schäfer, A., Tauch, A., Droste, N., Pühler, A., &amp;amp; Kalinowski, J. (1997). The Corynebacterium glutamicum cglIM gene encoding a 5-cytosine methyltransferase enzyme confers a specific DNA methylation pattern in an McrBC-deficient Escherichia coli strain. &lt;em&gt;Gene&lt;/em&gt;, &lt;em&gt;203&lt;/em&gt;(2), 95-101.</apa>
+<frontiers>Schäfer, A., Tauch, A., Droste, N., Pühler, A., and Kalinowski, J. (1997). The Corynebacterium glutamicum cglIM gene encoding a 5-cytosine methyltransferase enzyme confers a specific DNA methylation pattern in an McrBC-deficient Escherichia coli strain. &lt;em&gt;Gene&lt;/em&gt; 203, 95-101.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schäfer, A., Tauch, A., Droste, N., Pühler, A., &amp;amp; Kalinowski, J. (1997). The Corynebacterium glutamicum cglIM gene encoding a 5-cytosine methyltransferase enzyme confers a specific DNA methylation pattern in an McrBC-deficient Escherichia coli strain. &lt;em&gt;Gene&lt;/em&gt;, &lt;em&gt;203&lt;/em&gt;(2), 95-101.&lt;/div&gt;</apa_indent>
+<ieee> A. Schäfer, et al., “The Corynebacterium glutamicum cglIM gene encoding a 5-cytosine methyltransferase enzyme confers a specific DNA methylation pattern in an McrBC-deficient Escherichia coli strain”, &lt;em&gt;Gene&lt;/em&gt;,  vol. 203, 1997,  pp. 95-101.</ieee>
+<lncs> Schäfer, A., Tauch, A., Droste, N., Pühler, A., Kalinowski, J.: The Corynebacterium glutamicum cglIM gene encoding a 5-cytosine methyltransferase enzyme confers a specific DNA methylation pattern in an McrBC-deficient Escherichia coli strain. Gene. 203, 95-101 (1997).</lncs>
+<mla>Schäfer, A, Tauch, Andreas, Droste, N, Pühler, Alfred, and Kalinowski, Jörn. “The Corynebacterium glutamicum cglIM gene encoding a 5-cytosine methyltransferase enzyme confers a specific DNA methylation pattern in an McrBC-deficient Escherichia coli strain”. &lt;em&gt;Gene&lt;/em&gt; 203.2 (1997): 95-101.</mla>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1626635</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:22:03Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-09-14T09:11:52Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1626635</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1626635</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

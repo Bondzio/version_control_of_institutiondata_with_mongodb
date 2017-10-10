@@ -1,0 +1,122 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Deconfinement and virtual quark loops</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">T.</namePart>
+  <namePart type="family">Çelik</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jürgen</namePart>
+  <namePart type="family">Engels</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40338</identifier></name>
+<name type="personal">
+  <namePart type="given">Helmut</namePart>
+  <namePart type="family">Satz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40339</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Phänomenologie von Schwerionenkollisionen</namePart>
+  <identifier type="unibi">23470601</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Engels_024.pdf">https://pub.uni-bielefeld.de/download/1776309/2312140</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1983</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Physics Letters, B</title></titleInfo>
+  <identifier type="issn">0370-2693</identifier>
+  <identifier type="INSPIRE">191924</identifier>
+  <identifier type="ISI">A1983RY91500013</identifier><identifier type="urn">urn:nbn:de:0070-pub-17763098</identifier><identifier type="doi">10.1016/0370-2693(83)90821-3</identifier>
+<part><detail type="volume"><number>133</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">427-432</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<angewandte-chemie>T.  Çelik, J.  Engels, and H.  Satz, “Deconfinement and virtual quark loops”, &lt;em&gt;Physics Letters, B&lt;/em&gt;, &lt;strong&gt;1983&lt;/strong&gt;, &lt;em&gt;133&lt;/em&gt;, 427-432.</angewandte-chemie>
+<apa>Çelik, T., Engels, J., &amp;amp; Satz, H. (1983). Deconfinement and virtual quark loops. &lt;em&gt;Physics Letters, B&lt;/em&gt;, &lt;em&gt;133&lt;/em&gt;(6), 427-432.</apa>
+<frontiers>Çelik, T., Engels, J., and Satz, H. (1983). Deconfinement and virtual quark loops. &lt;em&gt;Physics Letters, B&lt;/em&gt; 133, 427-432.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Çelik, T., Engels, Jürgen, and Satz, Helmut. 1983. “Deconfinement and virtual quark loops”. &lt;em&gt;Physics Letters, B&lt;/em&gt; 133 (6): 427-432.&lt;/div&gt;</chicago>
+<ieee>T. Çelik, J. Engels, and H. Satz, “Deconfinement and virtual quark loops”, &lt;em&gt;Physics Letters, B&lt;/em&gt;,  vol. 133, 1983,  pp. 427-432.</ieee>
+<mla>Çelik, T., Engels, Jürgen, and Satz, Helmut. “Deconfinement and virtual quark loops”. &lt;em&gt;Physics Letters, B&lt;/em&gt; 133.6 (1983): 427-432.</mla>
+<lncs>Çelik, T., Engels, J., Satz, H.: Deconfinement and virtual quark loops. Physics Letters, B. 133, 427-432 (1983).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Çelik, T., Engels, J., &amp;amp; Satz, H. (1983). Deconfinement and virtual quark loops. &lt;em&gt;Physics Letters, B&lt;/em&gt;, &lt;em&gt;133&lt;/em&gt;(6), 427-432.&lt;/div&gt;</apa_indent>
+<wels>Çelik, T.; Engels, J.; Satz, H. (1983): Deconfinement and virtual quark loops &lt;em&gt;Physics Letters, B&lt;/em&gt;,133:(6): 427-432.</wels>
+<default>Çelik T, Engels J, Satz H (1983) &lt;br /&gt;Physics Letters, B 133(6): 427-432.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Çelik, T., Engels, J. &amp;amp; Satz, H. (1983). Deconfinement and virtual quark loops. &lt;em&gt;Physics Letters, B&lt;/em&gt;, &lt;em&gt;133&lt;/em&gt;(6), 427-432. doi:10.1016/0370-2693(83)90821-3.&lt;/div&gt;</dgps>
+<ama>Çelik T, Engels J, Satz H. Deconfinement and virtual quark loops. &lt;em&gt;Physics Letters, B&lt;/em&gt;. 1983;133(6):427-432.</ama>
+<harvard1>Çelik, T., Engels, J., &amp;amp; Satz, H., 1983. Deconfinement and virtual quark loops. &lt;em&gt;Physics Letters, B&lt;/em&gt;, 133(6), p 427-432.</harvard1>
+<bio1>Çelik T, Engels J, Satz H (1983) &lt;br /&gt;Deconfinement and virtual quark loops.&lt;br /&gt;Physics Letters, B 133(6): 427-432.</bio1>
+<aps>T.  Çelik, J.  Engels, and H.  Satz, Deconfinement and virtual quark loops, Physics Letters, B &lt;strong&gt;133&lt;/strong&gt;, 427-432 (1983).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776309</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776309</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776309</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

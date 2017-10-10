@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Pathological modules over tame rings</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Sheila</namePart>
+  <namePart type="family">Brenner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Claus Michael</namePart>
+  <namePart type="family">Ringel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10583</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>SFB 701 Spectral Structures and Topological Methods in Mathematics</namePart>
+  <identifier type="unibi">435978</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Ringel_030.pdf">https://pub.uni-bielefeld.de/download/1781888/2313564</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1976</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Journal of the London Mathematical Society</title></titleInfo>
+  <identifier type="issn">1469-7750</identifier><identifier type="urn">urn:nbn:de:0070-bipr-28311</identifier>
+<part><detail type="volume"><number>2</number></detail><detail type="issue"><number>14</number></detail><extent unit="pages">207-215</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<mla>Brenner, Sheila, and Ringel, Claus Michael. “Pathological modules over tame rings”. &lt;em&gt;Journal of the London Mathematical Society&lt;/em&gt; 2.14 (1976): 207-215.</mla>
+<lncs>Brenner, S., Ringel, C.M.: Pathological modules over tame rings. Journal of the London Mathematical Society. 2, 207-215 (1976).</lncs>
+<ieee>S. Brenner and C.M. Ringel, “Pathological modules over tame rings”, &lt;em&gt;Journal of the London Mathematical Society&lt;/em&gt;,  vol. 2, 1976,  pp. 207-215.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Brenner, S., &amp;amp; Ringel, C. M. (1976). Pathological modules over tame rings. &lt;em&gt;Journal of the London Mathematical Society&lt;/em&gt;, &lt;em&gt;2&lt;/em&gt;(14), 207-215.&lt;/div&gt;</apa_indent>
+<frontiers>Brenner, S., and Ringel, C. M. (1976). Pathological modules over tame rings. &lt;em&gt;Journal of the London Mathematical Society&lt;/em&gt; 2, 207-215.</frontiers>
+<apa>Brenner, S., &amp;amp; Ringel, C. M. (1976). Pathological modules over tame rings. &lt;em&gt;Journal of the London Mathematical Society&lt;/em&gt;, &lt;em&gt;2&lt;/em&gt;(14), 207-215.</apa>
+<angewandte-chemie>S.  Brenner, and C. M.  Ringel, “Pathological modules over tame rings”, &lt;em&gt;Journal of the London Mathematical Society&lt;/em&gt;, &lt;strong&gt;1976&lt;/strong&gt;, &lt;em&gt;2&lt;/em&gt;, 207-215.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Brenner, Sheila, and Ringel, Claus Michael. 1976. “Pathological modules over tame rings”. &lt;em&gt;Journal of the London Mathematical Society&lt;/em&gt; 2 (14): 207-215.&lt;/div&gt;</chicago>
+<aps>S.  Brenner and C. M.  Ringel, Pathological modules over tame rings, Journal of the London Mathematical Society &lt;strong&gt;2&lt;/strong&gt;, 207-215 (1976).</aps>
+<bio1>Brenner S, Ringel CM (1976) &lt;br /&gt;Pathological modules over tame rings.&lt;br /&gt;Journal of the London Mathematical Society 2(14): 207-215.</bio1>
+<harvard1>Brenner, S., &amp;amp; Ringel, C.M., 1976. Pathological modules over tame rings. &lt;em&gt;Journal of the London Mathematical Society&lt;/em&gt;, 2(14), p 207-215.</harvard1>
+<ama>Brenner S, Ringel CM. Pathological modules over tame rings. &lt;em&gt;Journal of the London Mathematical Society&lt;/em&gt;. 1976;2(14):207-215.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Brenner, S. &amp;amp; Ringel, C.M. (1976). Pathological modules over tame rings. &lt;em&gt;Journal of the London Mathematical Society&lt;/em&gt;, &lt;em&gt;2&lt;/em&gt;(14), 207-215.&lt;/div&gt;</dgps>
+<default>Brenner S, Ringel CM (1976) &lt;br /&gt;Journal of the London Mathematical Society 2(14): 207-215.</default>
+<wels>Brenner, S.; Ringel, C. M. (1976): Pathological modules over tame rings &lt;em&gt;Journal of the London Mathematical Society&lt;/em&gt;,2:(14): 207-215.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781888</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781888</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781888</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,127 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Identification of C5Hx isomers in fuel-rich flames by photoionization mass spectrometry and electronic structure calculations</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">N.</namePart>
+  <namePart type="family">Hansen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">S. J.</namePart>
+  <namePart type="family">Klippenstein</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J. A.</namePart>
+  <namePart type="family">Miller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">J.</namePart>
+  <namePart type="family">Wang</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">T. A.</namePart>
+  <namePart type="family">Cool</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M. E.</namePart>
+  <namePart type="family">Law</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">P. R.</namePart>
+  <namePart type="family">Westmoreland</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">T.</namePart>
+  <namePart type="family">Kasper</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Katharina</namePart>
+  <namePart type="family">Kohse-Höinghaus</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20770</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Physikalische Chemie I</namePart>
+  <identifier type="unibi">17978</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The isomeric composition of C5Hx (x = 2-6, 8) flame species is analyzed for rich flames fueled by allene, propyne, cyclopentene, or benzene. Different isomers are identified by their known ionization energies and/or by comparison of the observed photoionization efficiencies with theoretical simulations based on calculated ionization energies and Franck-Condon factors. The experiments combine flame-sampling molecular-beam mass spectrometry with photoionization by tunable vacuum-UV synchrotron radiation. The theoretical simulations employ the rovibrational properties obtained with B3LYP/6-311++G(d,p) density functional theory and electronic energies obtained from QCISD(T) electronic structure calculations extrapolated to the complete basis set limit. For C5H3, the comparison reveals the presence of both the H2CCCCCH (i-C5H3) and the HCCCHCCH (n-C5H3) isomer. The simulations also suggest a modest amount of cyclo-CCHCHCCH-, which is consistent with a minor signal for C5H2 that is apparently due to cyclo-CCHCCCH-. For C5H4, contributions from the CH2CCCCH2 (1,2,3,4-pentatetraene), CH2CCHCCH, and CH3CCCCH (1,3-pentadiyne) isomers are evident, as is some contribution from CHCCH2CCH (1,4-pentadiyne) in the cyclopentene and benzene flames. Signal at m/z = 65 originates mainly from the cyclopentadienyl radical. For C5H6, contributions from cyclopentadiene, CH3CCCHCH2, CH3CHCHCCH, and CH2CHCH2CCH are observed. No signal is observed for C5H7 species. Cyclopentene, CH2CHCHCHCH3 (1,3-pentadiene), CH3CCCHCH3 (2-pentyne), and CH2CHCH2CHCH2 (1,4-pentadiene) contribute to the signal at m/z = 68. Newly derived ionization energies for i- and n-C5H3 (8.20 +/- 0.05 and 8.31 +/- 0.05 eV, respectively), CH2CCHCCH (9.22 +/- 0.05 eV), and CH2CHCH2CCH (9.95 +/- 0.05 eV) are within the error bars of the QCISD(T) calculations. The combustion chemistry of the observed C5Hx, intermediates and the impact on flame chemistry models are discussed.</abstract>
+
+<originInfo><publisher>AMER CHEMICAL SOC</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF PHYSICAL CHEMISTRY A</title></titleInfo>
+  <identifier type="issn">1089-5639</identifier>
+  <identifier type="eIssn">1520-5215</identifier>
+  <identifier type="MEDLINE">16571041</identifier>
+  <identifier type="ISI">000236522700013</identifier><identifier type="doi">10.1021/jp0569685</identifier>
+<part><detail type="volume"><number>110</number></detail><detail type="issue"><number>13</number></detail><extent unit="pages">4376-4388</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Hansen, N., Klippenstein, S. J., Miller, J. A., Wang, J., Cool, T. A., Law, M. E., Westmoreland, P. R., Kasper, T., and Kohse-Höinghaus, K. (2006). Identification of C5Hx isomers in fuel-rich flames by photoionization mass spectrometry and electronic structure calculations. &lt;em&gt;JOURNAL OF PHYSICAL CHEMISTRY A&lt;/em&gt; 110, 4376-4388.</frontiers>
+<apa>Hansen, N., Klippenstein, S. J., Miller, J. A., Wang, J., Cool, T. A., Law, M. E., Westmoreland, P. R., et al. (2006). Identification of C5Hx isomers in fuel-rich flames by photoionization mass spectrometry and electronic structure calculations. &lt;em&gt;JOURNAL OF PHYSICAL CHEMISTRY A&lt;/em&gt;, &lt;em&gt;110&lt;/em&gt;(13), 4376-4388.</apa>
+<angewandte-chemie>N.  Hansen, S. J.  Klippenstein, J. A.  Miller, J.  Wang, T. A.  Cool, M. E.  Law, P. R.  Westmoreland, T.  Kasper, and K.  Kohse-Höinghaus, “Identification of C5Hx isomers in fuel-rich flames by photoionization mass spectrometry and electronic structure calculations”, &lt;em&gt;JOURNAL OF PHYSICAL CHEMISTRY A&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;110&lt;/em&gt;, 4376-4388.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hansen, N., Klippenstein, S. J., Miller, J. A., Wang, J., Cool, T. A., Law, M. E., Westmoreland, P. R., Kasper, T., and Kohse-Höinghaus, Katharina. 2006. “Identification of C5Hx isomers in fuel-rich flames by photoionization mass spectrometry and electronic structure calculations”. &lt;em&gt;JOURNAL OF PHYSICAL CHEMISTRY A&lt;/em&gt; 110 (13): 4376-4388.&lt;/div&gt;</chicago>
+<mla>Hansen, N., Klippenstein, S. J., Miller, J. A., Wang, J., Cool, T. A., Law, M. E., Westmoreland, P. R., Kasper, T., and Kohse-Höinghaus, Katharina. “Identification of C5Hx isomers in fuel-rich flames by photoionization mass spectrometry and electronic structure calculations”. &lt;em&gt;JOURNAL OF PHYSICAL CHEMISTRY A&lt;/em&gt; 110.13 (2006): 4376-4388.</mla>
+<lncs>Hansen, N., Klippenstein, S.J., Miller, J.A., Wang, J., Cool, T.A., Law, M.E., Westmoreland, P.R., Kasper, T., Kohse-Höinghaus, K.: Identification of C5Hx isomers in fuel-rich flames by photoionization mass spectrometry and electronic structure calculations. JOURNAL OF PHYSICAL CHEMISTRY A. 110, 4376-4388 (2006).</lncs>
+<ieee>N. Hansen, et al., “Identification of C5Hx isomers in fuel-rich flames by photoionization mass spectrometry and electronic structure calculations”, &lt;em&gt;JOURNAL OF PHYSICAL CHEMISTRY A&lt;/em&gt;,  vol. 110, 2006,  pp. 4376-4388.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hansen, N., Klippenstein, S. J., Miller, J. A., Wang, J., Cool, T. A., Law, M. E., Westmoreland, P. R., et al. (2006). Identification of C5Hx isomers in fuel-rich flames by photoionization mass spectrometry and electronic structure calculations. &lt;em&gt;JOURNAL OF PHYSICAL CHEMISTRY A&lt;/em&gt;, &lt;em&gt;110&lt;/em&gt;(13), 4376-4388.&lt;/div&gt;</apa_indent>
+<default>Hansen N, Klippenstein SJ, Miller JA, Wang J, Cool TA, Law ME, Westmoreland PR, Kasper T, Kohse-Höinghaus K (2006) &lt;br /&gt;JOURNAL OF PHYSICAL CHEMISTRY A 110(13): 4376-4388.</default>
+<wels>Hansen, N.; Klippenstein, S. J.; Miller, J. A.; Wang, J.; Cool, T. A.; Law, M. E.; Westmoreland, P. R.; Kasper, T.; Kohse-Höinghaus, K. (2006): Identification of C5Hx isomers in fuel-rich flames by photoionization mass spectrometry and electronic structure calculations &lt;em&gt;JOURNAL OF PHYSICAL CHEMISTRY A&lt;/em&gt;,110:(13): 4376-4388.</wels>
+<bio1>Hansen N, Klippenstein SJ, Miller JA, Wang J, Cool TA, Law ME, Westmoreland PR, Kasper T, Kohse-Höinghaus K (2006) &lt;br /&gt;Identification of C5Hx isomers in fuel-rich flames by photoionization mass spectrometry and electronic structure calculations.&lt;br /&gt;JOURNAL OF PHYSICAL CHEMISTRY A 110(13): 4376-4388.</bio1>
+<aps>N.  Hansen, et al., Identification of C5Hx isomers in fuel-rich flames by photoionization mass spectrometry and electronic structure calculations, JOURNAL OF PHYSICAL CHEMISTRY A &lt;strong&gt;110&lt;/strong&gt;, 4376-4388 (2006).</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hansen, N., Klippenstein, S.J., Miller, J.A., Wang, J., Cool, T.A., Law, M.E., Westmoreland, P.R., Kasper, T. &amp;amp; Kohse-Höinghaus, K. (2006). Identification of C5Hx isomers in fuel-rich flames by photoionization mass spectrometry and electronic structure calculations. &lt;em&gt;JOURNAL OF PHYSICAL CHEMISTRY A&lt;/em&gt;, &lt;em&gt;110&lt;/em&gt;(13), 4376-4388. AMER CHEMICAL SOC. doi:10.1021/jp0569685.&lt;/div&gt;</dgps>
+<harvard1>Hansen, N., et al., 2006. Identification of C5Hx isomers in fuel-rich flames by photoionization mass spectrometry and electronic structure calculations. &lt;em&gt;JOURNAL OF PHYSICAL CHEMISTRY A&lt;/em&gt;, 110(13), p 4376-4388.</harvard1>
+<ama>Hansen N, Klippenstein SJ, Miller JA, et al. Identification of C5Hx isomers in fuel-rich flames by photoionization mass spectrometry and electronic structure calculations. &lt;em&gt;JOURNAL OF PHYSICAL CHEMISTRY A&lt;/em&gt;. 2006;110(13):4376-4388.</ama>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1599719</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:30:52Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-08T15:03:35Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1599719</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1599719</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

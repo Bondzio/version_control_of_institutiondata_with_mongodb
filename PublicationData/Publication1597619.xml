@@ -1,0 +1,145 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>bZIP10-LSD1 antagonism modulates basal defense and cell death in Arabidopsis following infection</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Hironori</namePart>
+  <namePart type="family">Kaminaka</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">Naeke</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Petra</namePart>
+  <namePart type="family">Epple</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jan</namePart>
+  <namePart type="family">Dittgen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Katia</namePart>
+  <namePart type="family">Schuetze</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Christina</namePart>
+  <namePart type="family">Chaban</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ben F., III</namePart>
+  <namePart type="family">Holt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Thomas</namePart>
+  <namePart type="family">Merkle</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">108333</identifier></name>
+<name type="personal">
+  <namePart type="given">Eberhard</namePart>
+  <namePart type="family">Schaefer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Klaus</namePart>
+  <namePart type="family">Harter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jeffery L.</namePart>
+  <namePart type="family">Dangl</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2684836</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Plants use sophisticated strategies to balance responses to oxidative stress. Programmed cell death, including the hypersensitive response (HR) associated with successful pathogen recognition, is one cellular response regulated by reactive oxygen in various cellular contexts. The Arabidopsis basic leucine zipper (bZIP) transcription factor AtbZIP10 shuttles between the nucleus and the cytoplasm and binds consensus G- and C-box DNA sequences. Surprisingly, AtbZIP10 can be retained outside the nucleus by LSD1, a protein that protects Arabidopsis cells from death in the face of oxidative stress signals. We demonstrate that AtbZIP10 is a positive mediator of the uncontrolled cell death observed in lsd1 mutants. AtbZIP10 and LSD1 act antagonistically in both pathogen-induced HR and basal defense responses. LSD1 likely functions as a cellular hub, where its interaction with AtbZIP10 and additional, as yet unidentified, proteins contributes significantly to plant oxidative stress responses.</abstract>
+
+<originInfo><publisher>NATURE PUBLISHING GROUP</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>basal defense</topic><topic>nuclear shuttling</topic><topic>hypersensitive cell death</topic><topic>reactive oxygen</topic><topic>Hyaloperonospora parasitica</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>The EMBO JOURNAL</title></titleInfo>
+  <identifier type="issn">0261-4189</identifier>
+  <identifier type="eIssn">1460-2075</identifier>
+  <identifier type="MEDLINE">16957775</identifier>
+  <identifier type="ISI">000241077900024</identifier><identifier type="doi">10.1038/sj.emboj.7601312</identifier>
+<part><detail type="volume"><number>25</number></detail><detail type="issue"><number>18</number></detail><extent unit="pages">4400-4411</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Kaminaka H, Naeke C, Epple P, Dittgen J, Schuetze K, Chaban C, Holt BF, III, Merkle T, Schaefer E, Harter K, Dangl JL (2006) &lt;br /&gt;The EMBO JOURNAL 25(18): 4400-4411.</default>
+<wels>Kaminaka, H.; Naeke, C.; Epple, P.; Dittgen, J.; Schuetze, K.; Chaban, C.; Holt, B. F. , I. I. I.; Merkle, T.; Schaefer, E.; Harter, K.; Dangl, J. L. (2006): bZIP10-LSD1 antagonism modulates basal defense and cell death in Arabidopsis following infection &lt;em&gt;The EMBO JOURNAL&lt;/em&gt;,25:(18): 4400-4411.</wels>
+<aps> H.  Kaminaka, et al., bZIP10-LSD1 antagonism modulates basal defense and cell death in Arabidopsis following infection, The EMBO JOURNAL &lt;strong&gt;25&lt;/strong&gt;, 4400-4411 (2006).</aps>
+<bio1>Kaminaka H, Naeke C, Epple P, Dittgen J, Schuetze K, Chaban C, Holt BF, III, Merkle T, Schaefer E, Harter K, Dangl JL (2006) &lt;br /&gt;bZIP10-LSD1 antagonism modulates basal defense and cell death in Arabidopsis following infection.&lt;br /&gt;The EMBO JOURNAL 25(18): 4400-4411.</bio1>
+<ama>Kaminaka H, Naeke C, Epple P, et al. bZIP10-LSD1 antagonism modulates basal defense and cell death in Arabidopsis following infection. &lt;em&gt;The EMBO JOURNAL&lt;/em&gt;. 2006;25(18):4400-4411.</ama>
+<harvard1>Kaminaka, H., et al., 2006. bZIP10-LSD1 antagonism modulates basal defense and cell death in Arabidopsis following infection. &lt;em&gt;The EMBO JOURNAL&lt;/em&gt;, 25(18), p 4400-4411.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kaminaka, H., Naeke, C., Epple, P., Dittgen, J., Schuetze, K., Chaban, C., Holt, B.F., I.I.I., Merkle, T., Schaefer, E., Harter, K. &amp;amp; Dangl, J.L. (2006). bZIP10-LSD1 antagonism modulates basal defense and cell death in Arabidopsis following infection. &lt;em&gt;The EMBO JOURNAL&lt;/em&gt;, &lt;em&gt;25&lt;/em&gt;(18), 4400-4411. NATURE PUBLISHING GROUP. doi:10.1038/sj.emboj.7601312.&lt;/div&gt;</dgps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kaminaka, Hironori, Naeke, Christian, Epple, Petra, Dittgen, Jan, Schuetze, Katia, Chaban, Christina, Holt, Ben F., III, et al. 2006. “bZIP10-LSD1 antagonism modulates basal defense and cell death in Arabidopsis following infection”. &lt;em&gt;The EMBO JOURNAL&lt;/em&gt; 25 (18): 4400-4411.&lt;/div&gt;</chicago>
+<frontiers>Kaminaka, H., Naeke, C., Epple, P., Dittgen, J., Schuetze, K., Chaban, C., Holt, B. F. , I. I. I., Merkle, T., Schaefer, E., Harter, K., et al. (2006). bZIP10-LSD1 antagonism modulates basal defense and cell death in Arabidopsis following infection. &lt;em&gt;The EMBO JOURNAL&lt;/em&gt; 25, 4400-4411.</frontiers>
+<angewandte-chemie>H.  Kaminaka, C.  Naeke, P.  Epple, J.  Dittgen, K.  Schuetze, C.  Chaban, B. F. , I. I. I.  Holt, T.  Merkle, E.  Schaefer, K.  Harter, et al., “bZIP10-LSD1 antagonism modulates basal defense and cell death in Arabidopsis following infection”, &lt;em&gt;The EMBO JOURNAL&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;25&lt;/em&gt;, 4400-4411.</angewandte-chemie>
+<apa>Kaminaka, H., Naeke, C., Epple, P., Dittgen, J., Schuetze, K., Chaban, C., Holt, B. F. , I. I. I., et al. (2006). bZIP10-LSD1 antagonism modulates basal defense and cell death in Arabidopsis following infection. &lt;em&gt;The EMBO JOURNAL&lt;/em&gt;, &lt;em&gt;25&lt;/em&gt;(18), 4400-4411.</apa>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kaminaka, H., Naeke, C., Epple, P., Dittgen, J., Schuetze, K., Chaban, C., Holt, B. F. , I. I. I., et al. (2006). bZIP10-LSD1 antagonism modulates basal defense and cell death in Arabidopsis following infection. &lt;em&gt;The EMBO JOURNAL&lt;/em&gt;, &lt;em&gt;25&lt;/em&gt;(18), 4400-4411.&lt;/div&gt;</apa_indent>
+<mla>Kaminaka, Hironori, Naeke, Christian, Epple, Petra, Dittgen, Jan, Schuetze, Katia, Chaban, Christina, Holt, Ben F., III, Merkle, Thomas, Schaefer, Eberhard, Harter, Klaus, and Dangl, Jeffery L. “bZIP10-LSD1 antagonism modulates basal defense and cell death in Arabidopsis following infection”. &lt;em&gt;The EMBO JOURNAL&lt;/em&gt; 25.18 (2006): 4400-4411.</mla>
+<lncs> Kaminaka, H., Naeke, C., Epple, P., Dittgen, J., Schuetze, K., Chaban, C., Holt, B.F., I.I.I., Merkle, T., Schaefer, E., Harter, K., Dangl, J.L.: bZIP10-LSD1 antagonism modulates basal defense and cell death in Arabidopsis following infection. The EMBO JOURNAL. 25, 4400-4411 (2006).</lncs>
+<ieee> H. Kaminaka, et al., “bZIP10-LSD1 antagonism modulates basal defense and cell death in Arabidopsis following infection”, &lt;em&gt;The EMBO JOURNAL&lt;/em&gt;,  vol. 25, 2006,  pp. 4400-4411.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1597619</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:18:58Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-04T13:29:52Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1597619</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1597619</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

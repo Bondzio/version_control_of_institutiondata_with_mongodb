@@ -1,0 +1,127 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>QCD thermodynamics with improved actions</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Frithjof</namePart>
+  <namePart type="family">Karsch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40326</identifier></name>
+<name type="personal">
+  <namePart type="given">B</namePart>
+  <namePart type="family">Beinlich</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jürgen</namePart>
+  <namePart type="family">Engels</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40338</identifier></name>
+<name type="personal">
+  <namePart type="given">R</namePart>
+  <namePart type="family">Joswig</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Edwin</namePart>
+  <namePart type="family">Laermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40621</identifier></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">Peikert</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Bengt</namePart>
+  <namePart type="family">Petersson</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40337</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The thermodynamics of the SU(3) gauge theory has been analyzed with tree level and tadpole improved Symanzik actions. A comparison with the continuum extrapolated results for the standard Wilson action shows that improved actions lead to a drastic reduction of finite cut-off effects already on lattices with temporal extent N-tau = 4. Results for the pressure, the critical temperature, surface tension and latent heat are presented. First results for the thermodynamics of four-flavour QCD with an improved staggered action are also presented. They indicate similarly large improvement factors for bulk thermodynamics.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">1997</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>NUCLEAR PHYSICS B</title></titleInfo>
+  <identifier type="issn">0550-3213</identifier>
+  <identifier type="arXiv">hep-lat/9608047</identifier>
+  <identifier type="INSPIRE">421859</identifier>
+  <identifier type="ISI">A1997WH96900082</identifier><identifier type="doi">10.1016/S0920-5632(96)00674-3</identifier>
+<part><extent unit="pages">413-416</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Karsch, F., Beinlich, B., Engels, J., Joswig, R., Laermann, E., Peikert, A. &amp;amp; Petersson, B. (1997). QCD thermodynamics with improved actions. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt; (S. 413-416). ELSEVIER SCIENCE BV. doi:10.1016/S0920-5632(96)00674-3.&lt;/div&gt;</dgps>
+<ama>Karsch F, Beinlich B, Engels J, et al. QCD thermodynamics with improved actions. In:  &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;. ELSEVIER SCIENCE BV;  1997: 413-416.</ama>
+<harvard1>Karsch, F., et al., 1997. QCD thermodynamics with improved actions. In &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;.  ELSEVIER SCIENCE BV, pp. 413-416.</harvard1>
+<bio1>Karsch F, Beinlich B, Engels J, Joswig R, Laermann E, Peikert A, Petersson B (1997) &lt;br /&gt;QCD thermodynamics with improved actions. &lt;br /&gt;In:  NUCLEAR PHYSICS B.  ELSEVIER SCIENCE BV:  413-416.</bio1>
+<aps>F.  Karsch, et al., QCD thermodynamics with improved actions, in &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt; (ELSEVIER SCIENCE BV, 1997), p. 413-416.</aps>
+<wels>Karsch, F.; Beinlich, B.; Engels, J.; Joswig, R.; Laermann, E.; Peikert, A.; Petersson, B. (1997): QCD thermodynamics with improved actions. In: NUCLEAR PHYSICS B. ELSEVIER SCIENCE BV.  S. 413-416.</wels>
+<default>Karsch F, Beinlich B, Engels J, Joswig R, Laermann E, Peikert A, Petersson B (1997)  &lt;br /&gt;In:  NUCLEAR PHYSICS B. ELSEVIER SCIENCE BV:  413-416.</default>
+<ieee>F. Karsch, et al., “QCD thermodynamics with improved actions”, &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, ELSEVIER SCIENCE BV, 1997,  pp.413-416.</ieee>
+<mla>Karsch, Frithjof, Beinlich, B, Engels, Jürgen, Joswig, R, Laermann, Edwin, Peikert, A, and Petersson, Bengt. “QCD thermodynamics with improved actions”. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;. ELSEVIER SCIENCE BV, 1997. 413-416.</mla>
+<lncs>Karsch, F., Beinlich, B., Engels, J., Joswig, R., Laermann, E., Peikert, A., Petersson, B.: QCD thermodynamics with improved actions. NUCLEAR PHYSICS B. p. 413-416. ELSEVIER SCIENCE BV (1997).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Karsch, F., Beinlich, B., Engels, J., Joswig, R., Laermann, E., Peikert, A., &amp;amp; Petersson, B. (1997). QCD thermodynamics with improved actions. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, 413-416.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>F.  Karsch, B.  Beinlich, J.  Engels, R.  Joswig, E.  Laermann, A.  Peikert, and B.  Petersson, in &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, Elsevier Science Bv, &lt;strong&gt;1997&lt;/strong&gt;, p. 413-416.</angewandte-chemie>
+<apa>Karsch, F., Beinlich, B., Engels, J., Joswig, R., Laermann, E., Peikert, A., &amp;amp; Petersson, B. (1997). QCD thermodynamics with improved actions. &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, 413-416.</apa>
+<frontiers>Karsch, F., Beinlich, B., Engels, J., Joswig, R., Laermann, E., Peikert, A., and Petersson, B. (1997). “QCD thermodynamics with improved actions” in &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt; (ELSEVIER SCIENCE BV), 413-416.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Karsch, Frithjof, Beinlich, B, Engels, Jürgen, Joswig, R, Laermann, Edwin, Peikert, A, and Petersson, Bengt. 1997. “QCD thermodynamics with improved actions”. In &lt;em&gt;NUCLEAR PHYSICS B&lt;/em&gt;, 413-416. ELSEVIER SCIENCE BV.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1637931</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:14:23Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-13T09:27:21Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1637931</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1637931</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

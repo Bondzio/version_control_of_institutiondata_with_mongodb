@@ -1,0 +1,99 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Common randomness in information theory and cryptography - Part II: CR capacity</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Rudolf</namePart>
+  <namePart type="family">Ahlswede</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10479</identifier></name>
+<name type="personal">
+  <namePart type="given">I</namePart>
+  <namePart type="family">Csiszar</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The common randomness (CR) capacity of a two-teminal model is defined as the maximum rate of common randomness that the terminals can generate using resources specified by the given model. We determine CR capacity for several models, including those whose statistics depend on unknown parameters, The CR capacity is shown to be achievable robustly, by common randomness of nearly uniform distribution no matter what the unknown parameters are, Our CR capacity results are relevant for the problem of identification capacity, and also yield a new result on the regular (transmission) capacity of arbitrarily varying channels with feedback.</abstract>
+
+<originInfo><publisher>IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC</publisher><dateIssued encoding="w3cdtf">1998</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>arbitrarily varying channel</topic><topic>correlated sources</topic><topic>feedback</topic><topic>randomization</topic><topic>common randomness</topic><topic>identification capacity</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>IEEE TRANSACTIONS ON INFORMATION THEORY</title></titleInfo>
+  <identifier type="issn">0018-9448</identifier>
+  <identifier type="ISI">000071193500016</identifier><identifier type="doi">10.1109/18.651026</identifier>
+<part><detail type="volume"><number>44</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">225-240</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<angewandte-chemie>R.  Ahlswede, and I.  Csiszar, in &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, Ieee-Inst Electrical Electronics Engineers Inc, &lt;strong&gt;1998&lt;/strong&gt;, p. 225-240.</angewandte-chemie>
+<apa>Ahlswede, R., &amp;amp; Csiszar, I. (1998). Common randomness in information theory and cryptography - Part II: CR capacity. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, &lt;em&gt;44&lt;/em&gt;(1), 225-240.</apa>
+<frontiers>Ahlswede, R., and Csiszar, I. (1998). “Common randomness in information theory and cryptography - Part II: CR capacity” in &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, vol. 44, (IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC), 225-240.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, Rudolf, and Csiszar, I. 1998. “Common randomness in information theory and cryptography - Part II: CR capacity”. In &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, 44:225-240. IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC.&lt;/div&gt;</chicago>
+<ieee> R. Ahlswede and I. Csiszar, “Common randomness in information theory and cryptography - Part II: CR capacity”, &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, vol. 44, IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 1998,  pp.225-240.</ieee>
+<mla>Ahlswede, Rudolf, and Csiszar, I. “Common randomness in information theory and cryptography - Part II: CR capacity”. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;. IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 1998.Vol. 44. 225-240.</mla>
+<lncs> Ahlswede, R., Csiszar, I.: Common randomness in information theory and cryptography - Part II: CR capacity. IEEE TRANSACTIONS ON INFORMATION THEORY. 44, p. 225-240. IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC (1998).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R., &amp;amp; Csiszar, I. (1998). Common randomness in information theory and cryptography - Part II: CR capacity. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, &lt;em&gt;44&lt;/em&gt;(1), 225-240.&lt;/div&gt;</apa_indent>
+<wels>Ahlswede, R.; Csiszar, I. (1998): Common randomness in information theory and cryptography - Part II: CR capacity. In: IEEE TRANSACTIONS ON INFORMATION THEORY. IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC. (44).  S. 225-240.</wels>
+<default>Ahlswede R, Csiszar I (1998)  &lt;br /&gt;In:  IEEE TRANSACTIONS ON INFORMATION THEORY. 44. IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC:  225-240.</default>
+<harvard1>Ahlswede, R., &amp;amp; Csiszar, I., 1998. Common randomness in information theory and cryptography - Part II: CR capacity. In &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;. no.44  IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, pp. 225-240.</harvard1>
+<ama>Ahlswede R, Csiszar I. Common randomness in information theory and cryptography - Part II: CR capacity. In:  &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;. Vol 44. IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC;  1998: 225-240.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R. &amp;amp; Csiszar, I. (1998). Common randomness in information theory and cryptography - Part II: CR capacity. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt; (S. 225-240). IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC. doi:10.1109/18.651026.&lt;/div&gt;</dgps>
+<bio1>Ahlswede R, Csiszar I (1998) &lt;br /&gt;Common randomness in information theory and cryptography - Part II: CR capacity. &lt;br /&gt;In:  IEEE TRANSACTIONS ON INFORMATION THEORY. 44. IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC:  225-240.</bio1>
+<aps> R.  Ahlswede and I.  Csiszar, Common randomness in information theory and cryptography - Part II: CR capacity, in &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, &lt;strong&gt;44&lt;/strong&gt; (IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 1998), p. 225-240.</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1626601</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:22:02Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-09-15T07:13:17Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1626601</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1626601</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

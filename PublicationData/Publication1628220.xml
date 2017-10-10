@@ -1,0 +1,102 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Non-negative Feynman-Kac kernels in Schrodinger&apos;s interpolation problem</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Philippe</namePart>
+  <namePart type="family">Blanchard</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40322</identifier></name>
+<name type="personal">
+  <namePart type="given">P</namePart>
+  <namePart type="family">Garbaczewski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">R</namePart>
+  <namePart type="family">Olkiewicz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Mathematische Physik</namePart>
+  <identifier type="unibi">29104678</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The local formulations of the Markovian interpolating dynamics, which is constrained by the prescribed input-output statistics data, usually utilize strictly positive Feynman-Kac kernels. This implies that the related Markov diffusion processes admit vanishing probability densities only at the boundaries of the spatial volume confining the process. We discuss an extension of the framework to encompass singular potentials and associated non-negative Feynman-Kac-type kernels. It allows us to deal with a class of continuous interpolations admitted by general non-negative solutions of the Schrodinger boundary data problem. The resulting nonstationary stochastic processes are capable of both developing and destroying nodes (zeros) of probability densities in the course of their evolution, also away from the spatial boundaries. This observation conforms with the general mathematical theory (due to M. Nagasawa and R. Aebi) that is based on the notion of multiplicative functionals, extending in turn the well known Doob&apos;s h-transformation technique. In view of emphasizing the role of the theory of nonnegative solutions of parabolic partial differential equations and the link with &apos;&apos;Wiener exclusion&apos;&apos; techniques used to evaluate certain Wiener functionals, we give an alternative insight into the issue, that opens a transparent route towards applications. (C) 1997 American Institute of Physics.</abstract>
+
+<originInfo><publisher>AMER INST PHYSICS</publisher><dateIssued encoding="w3cdtf">1997</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF MATHEMATICAL PHYSICS</title></titleInfo>
+  <identifier type="issn">0022-2488</identifier>
+  <identifier type="INSPIRE">396962</identifier>
+  <identifier type="ISI">A1997WC06600001</identifier><identifier type="doi">10.1063/1.532004</identifier>
+<part><detail type="volume"><number>38</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">1-15</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Blanchard, P., Garbaczewski, P. &amp;amp; Olkiewicz, R. (1997). Non-negative Feynman-Kac kernels in Schrodinger&apos;s interpolation problem. &lt;em&gt;JOURNAL OF MATHEMATICAL PHYSICS&lt;/em&gt;, &lt;em&gt;38&lt;/em&gt;(1), 1-15. AMER INST PHYSICS. doi:10.1063/1.532004.&lt;/div&gt;</dgps>
+<ama>Blanchard P, Garbaczewski P, Olkiewicz R. Non-negative Feynman-Kac kernels in Schrodinger&apos;s interpolation problem. &lt;em&gt;JOURNAL OF MATHEMATICAL PHYSICS&lt;/em&gt;. 1997;38(1):1-15.</ama>
+<harvard1>Blanchard, P., Garbaczewski, P., &amp;amp; Olkiewicz, R., 1997. Non-negative Feynman-Kac kernels in Schrodinger&apos;s interpolation problem. &lt;em&gt;JOURNAL OF MATHEMATICAL PHYSICS&lt;/em&gt;, 38(1), p 1-15.</harvard1>
+<bio1>Blanchard P, Garbaczewski P, Olkiewicz R (1997) &lt;br /&gt;Non-negative Feynman-Kac kernels in Schrodinger&apos;s interpolation problem.&lt;br /&gt;JOURNAL OF MATHEMATICAL PHYSICS 38(1): 1-15.</bio1>
+<aps>P.  Blanchard, P.  Garbaczewski, and R.  Olkiewicz, Non-negative Feynman-Kac kernels in Schrodinger&apos;s interpolation problem, JOURNAL OF MATHEMATICAL PHYSICS &lt;strong&gt;38&lt;/strong&gt;, 1-15 (1997).</aps>
+<wels>Blanchard, P.; Garbaczewski, P.; Olkiewicz, R. (1997): Non-negative Feynman-Kac kernels in Schrodinger&apos;s interpolation problem &lt;em&gt;JOURNAL OF MATHEMATICAL PHYSICS&lt;/em&gt;,38:(1): 1-15.</wels>
+<default>Blanchard P, Garbaczewski P, Olkiewicz R (1997) &lt;br /&gt;JOURNAL OF MATHEMATICAL PHYSICS 38(1): 1-15.</default>
+<ieee>P. Blanchard, P. Garbaczewski, and R. Olkiewicz, “Non-negative Feynman-Kac kernels in Schrodinger&apos;s interpolation problem”, &lt;em&gt;JOURNAL OF MATHEMATICAL PHYSICS&lt;/em&gt;,  vol. 38, 1997,  pp. 1-15.</ieee>
+<lncs>Blanchard, P., Garbaczewski, P., Olkiewicz, R.: Non-negative Feynman-Kac kernels in Schrodinger&apos;s interpolation problem. JOURNAL OF MATHEMATICAL PHYSICS. 38, 1-15 (1997).</lncs>
+<mla>Blanchard, Philippe, Garbaczewski, P, and Olkiewicz, R. “Non-negative Feynman-Kac kernels in Schrodinger&apos;s interpolation problem”. &lt;em&gt;JOURNAL OF MATHEMATICAL PHYSICS&lt;/em&gt; 38.1 (1997): 1-15.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Blanchard, P., Garbaczewski, P., &amp;amp; Olkiewicz, R. (1997). Non-negative Feynman-Kac kernels in Schrodinger&apos;s interpolation problem. &lt;em&gt;JOURNAL OF MATHEMATICAL PHYSICS&lt;/em&gt;, &lt;em&gt;38&lt;/em&gt;(1), 1-15.&lt;/div&gt;</apa_indent>
+<apa>Blanchard, P., Garbaczewski, P., &amp;amp; Olkiewicz, R. (1997). Non-negative Feynman-Kac kernels in Schrodinger&apos;s interpolation problem. &lt;em&gt;JOURNAL OF MATHEMATICAL PHYSICS&lt;/em&gt;, &lt;em&gt;38&lt;/em&gt;(1), 1-15.</apa>
+<angewandte-chemie>P.  Blanchard, P.  Garbaczewski, and R.  Olkiewicz, “Non-negative Feynman-Kac kernels in Schrodinger&apos;s interpolation problem”, &lt;em&gt;JOURNAL OF MATHEMATICAL PHYSICS&lt;/em&gt;, &lt;strong&gt;1997&lt;/strong&gt;, &lt;em&gt;38&lt;/em&gt;, 1-15.</angewandte-chemie>
+<frontiers>Blanchard, P., Garbaczewski, P., and Olkiewicz, R. (1997). Non-negative Feynman-Kac kernels in Schrodinger&apos;s interpolation problem. &lt;em&gt;JOURNAL OF MATHEMATICAL PHYSICS&lt;/em&gt; 38, 1-15.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Blanchard, Philippe, Garbaczewski, P, and Olkiewicz, R. 1997. “Non-negative Feynman-Kac kernels in Schrodinger&apos;s interpolation problem”. &lt;em&gt;JOURNAL OF MATHEMATICAL PHYSICS&lt;/em&gt; 38 (1): 1-15.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1628220</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:23:22Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-17T14:15:57Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1628220</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1628220</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

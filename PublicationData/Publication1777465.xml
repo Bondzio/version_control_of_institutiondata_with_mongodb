@@ -1,0 +1,105 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Aspekte und Probleme kausaler Beschreibungen in der gegenwärtigen Physik</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Martin</namePart>
+  <namePart type="family">Carrier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">107511</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Rüdiger</namePart><namePart type="family">Bubner</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Wissenschafts- und Technikforschung</namePart>
+  <identifier type="unibi">10061</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Abteilung Philosophie</namePart>
+  <identifier type="unibi">10024</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Carrier_10.pdf">https://pub.uni-bielefeld.de/download/1777465/2312338</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Vandenhoeck &amp; Ruprecht</publisher><dateIssued encoding="w3cdtf">1992</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Kausalität</title></titleInfo><identifier type="urn">urn:nbn:de:0070-bipr-14149</identifier>
+<part><extent unit="pages">82-104</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Carrier, M. (1992): Aspekte und Probleme kausaler Beschreibungen in der gegenwärtigen Physik. In: Rüdiger Bubner (Hrsg.):  Kausalität. Göttingen: Vandenhoeck &amp;amp; Ruprecht. (Neue Hefte für Philosophie ; 32/33, ).  S. 82-104.</wels>
+<default>Carrier M (1992)  &lt;br /&gt;In:  Kausalität. Bubner R (Ed); Neue Hefte für Philosophie ; 32/33, . Göttingen: Vandenhoeck &amp;amp; Ruprecht:  82-104.</default>
+<ama>Carrier M. Aspekte und Probleme kausaler Beschreibungen in der gegenwärtigen Physik. In: Bubner R, ed. &lt;em&gt;Kausalität&lt;/em&gt;. Neue Hefte für Philosophie ; 32/33. Göttingen: Vandenhoeck &amp;amp; Ruprecht;  1992: 82-104.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Carrier, M. (1992). Aspekte und Probleme kausaler Beschreibungen in der gegenwärtigen Physik (Neue Hefte für Philosophie ; 32/33). &lt;em&gt;Kausalität&lt;/em&gt; (S. 82-104). Göttingen: Vandenhoeck &amp;amp; Ruprecht.&lt;/div&gt;</dgps>
+<harvard1>Carrier, M., 1992. Aspekte und Probleme kausaler Beschreibungen in der gegenwärtigen Physik. In R.  Bubner, ed. &lt;em&gt;Kausalität&lt;/em&gt;. Neue Hefte für Philosophie ; 32/33.  Göttingen: Vandenhoeck &amp;amp; Ruprecht, pp. 82-104.</harvard1>
+<bio1>Carrier M (1992) &lt;br /&gt;Aspekte und Probleme kausaler Beschreibungen in der gegenwärtigen Physik. &lt;br /&gt;In:  Kausalität. Bubner R (Ed); Neue Hefte für Philosophie ; 32/33,  Göttingen: Vandenhoeck &amp;amp; Ruprecht:  82-104.</bio1>
+<aps>M.  Carrier, Aspekte und Probleme kausaler Beschreibungen in der gegenwärtigen Physik, in &lt;em&gt;Kausalität&lt;/em&gt;, edited by R.  Bubner, Neue Hefte für Philosophie ; 32/33 (Vandenhoeck &amp;amp; Ruprecht, Göttingen, 1992), p. 82-104.</aps>
+<angewandte-chemie>M.  Carrier, in &lt;em&gt;Kausalität&lt;/em&gt; (Ed.: R. Bubner), Vandenhoeck &amp;amp; Ruprecht, Göttingen, &lt;strong&gt;1992&lt;/strong&gt;, p. 82-104.</angewandte-chemie>
+<apa>Carrier, M. (1992). Aspekte und Probleme kausaler Beschreibungen in der gegenwärtigen Physik. In R.  Bubner (Ed.), &lt;em&gt;Neue Hefte für Philosophie ; 32/33&lt;/em&gt;&lt;em&gt;. Kausalität&lt;/em&gt; (pp. 82-104). Göttingen: Vandenhoeck &amp;amp; Ruprecht.</apa>
+<frontiers>Carrier, M. (1992). “Aspekte und Probleme kausaler Beschreibungen in der gegenwärtigen Physik” in &lt;em&gt;Kausalität&lt;/em&gt;, ed. R.  Bubner Neue Hefte für Philosophie ; 32/33 (Göttingen: Vandenhoeck &amp;amp; Ruprecht), 82-104.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Carrier, Martin. 1992. “Aspekte und Probleme kausaler Beschreibungen in der gegenwärtigen Physik”. In &lt;em&gt;Kausalität&lt;/em&gt;, ed. Rüdiger Bubner, 82-104. Neue Hefte für Philosophie ; 32/33. Göttingen: Vandenhoeck &amp;amp; Ruprecht.&lt;/div&gt;</chicago>
+<ieee>M. Carrier, “Aspekte und Probleme kausaler Beschreibungen in der gegenwärtigen Physik”, &lt;em&gt;Kausalität&lt;/em&gt;, R. Bubner, ed., Neue Hefte für Philosophie ; 32/33,  Göttingen: Vandenhoeck &amp;amp; Ruprecht, 1992,  pp.82-104.</ieee>
+<mla>Carrier, Martin. “Aspekte und Probleme kausaler Beschreibungen in der gegenwärtigen Physik”. &lt;em&gt;Kausalität&lt;/em&gt;. Ed. Rüdiger Bubner. Göttingen: Vandenhoeck &amp;amp; Ruprecht, 1992. Neue Hefte für Philosophie ; 32/33. 82-104.</mla>
+<lncs>Carrier, M.: Aspekte und Probleme kausaler Beschreibungen in der gegenwärtigen Physik. In: Bubner, R. (ed.) Kausalität. Neue Hefte für Philosophie ; 32/33. p. 82-104. Vandenhoeck &amp;amp; Ruprecht, Göttingen (1992).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Carrier, M. (1992). Aspekte und Probleme kausaler Beschreibungen in der gegenwärtigen Physik. In R.  Bubner (Ed.), &lt;em&gt;Neue Hefte für Philosophie ; 32/33&lt;/em&gt;&lt;em&gt;. Kausalität&lt;/em&gt; (pp. 82-104). Göttingen: Vandenhoeck &amp;amp; Ruprecht.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1777465</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1777465</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1777465</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

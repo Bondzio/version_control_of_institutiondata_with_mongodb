@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Die Ökonomisierung des Sozialen. Folgen für &quot;Überflüssige&quot; und &quot;Nutzlose&quot;</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Wilhelm</namePart>
+  <namePart type="family">Heitmeyer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21765</identifier></name>
+<name type="personal">
+  <namePart type="given">Kirsten</namePart>
+  <namePart type="family">Endrikat</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10309428</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Wilhelm</namePart><namePart type="family">Heitmeyer</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10058</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Suhrkamp</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+<subject><topic>democracy</topic><topic>Demokratie</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Deutsche Zustände. Folge 6</title></titleInfo>
+  <identifier type="isbn">978-3-518-12525-0</identifier>
+<part><detail type="volume"><number>2525</number></detail><extent unit="pages">55-72</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heitmeyer, Wilhelm, and Endrikat, Kirsten. 2008. “Die Ökonomisierung des Sozialen. Folgen für &quot;Überflüssige&quot; und &quot;Nutzlose&quot;”. In &lt;em&gt;Deutsche Zustände. Folge 6&lt;/em&gt;, ed. Wilhelm Heitmeyer, 2525:55-72. Edition Suhrkamp. Frankfurt am Main: Suhrkamp.&lt;/div&gt;</chicago>
+<apa>Heitmeyer, W., &amp;amp; Endrikat, K. (2008). Die Ökonomisierung des Sozialen. Folgen für &quot;Überflüssige&quot; und &quot;Nutzlose&quot;. In W.  Heitmeyer (Ed.), &lt;em&gt;Edition Suhrkamp: Vol. 2525&lt;/em&gt;&lt;em&gt;. Deutsche Zustände. Folge 6&lt;/em&gt; (pp. 55-72). Frankfurt am Main: Suhrkamp.</apa>
+<angewandte-chemie>W.  Heitmeyer, and K.  Endrikat, in &lt;em&gt;Deutsche Zustände. Folge 6&lt;/em&gt; (Ed.: W. Heitmeyer), Suhrkamp, Frankfurt am Main, &lt;strong&gt;2008&lt;/strong&gt;, p. 55-72.</angewandte-chemie>
+<frontiers>Heitmeyer, W., and Endrikat, K. (2008). “Die Ökonomisierung des Sozialen. Folgen für &quot;Überflüssige&quot; und &quot;Nutzlose&quot;” in &lt;em&gt;Deutsche Zustände. Folge 6&lt;/em&gt;, ed. W.  Heitmeyer Edition Suhrkamp, vol. 2525, (Frankfurt am Main: Suhrkamp), 55-72.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heitmeyer, W., &amp;amp; Endrikat, K. (2008). Die Ökonomisierung des Sozialen. Folgen für &quot;Überflüssige&quot; und &quot;Nutzlose&quot;. In W.  Heitmeyer (Ed.), &lt;em&gt;Edition Suhrkamp: Vol. 2525&lt;/em&gt;&lt;em&gt;. Deutsche Zustände. Folge 6&lt;/em&gt; (pp. 55-72). Frankfurt am Main: Suhrkamp.&lt;/div&gt;</apa_indent>
+<ieee>W. Heitmeyer and K. Endrikat, “Die Ökonomisierung des Sozialen. Folgen für &quot;Überflüssige&quot; und &quot;Nutzlose&quot;”, &lt;em&gt;Deutsche Zustände. Folge 6&lt;/em&gt;, W. Heitmeyer, ed., Edition Suhrkamp, vol. 2525,  Frankfurt am Main: Suhrkamp, 2008,  pp.55-72.</ieee>
+<lncs>Heitmeyer, W., Endrikat, K.: Die Ökonomisierung des Sozialen. Folgen für &quot;Überflüssige&quot; und &quot;Nutzlose&quot;. In: Heitmeyer, W. (ed.) Deutsche Zustände. Folge 6. Edition Suhrkamp. 2525, p. 55-72. Suhrkamp, Frankfurt am Main (2008).</lncs>
+<mla>Heitmeyer, Wilhelm, and Endrikat, Kirsten. “Die Ökonomisierung des Sozialen. Folgen für &quot;Überflüssige&quot; und &quot;Nutzlose&quot;”. &lt;em&gt;Deutsche Zustände. Folge 6&lt;/em&gt;. Ed. Wilhelm Heitmeyer. Frankfurt am Main: Suhrkamp, 2008.Vol. 2525. Edition Suhrkamp. 55-72.</mla>
+<wels>Heitmeyer, W.; Endrikat, K. (2008): Die Ökonomisierung des Sozialen. Folgen für &quot;Überflüssige&quot; und &quot;Nutzlose&quot;. In: Wilhelm Heitmeyer (Hrsg.):  Deutsche Zustände. Folge 6. Frankfurt am Main: Suhrkamp. (Edition Suhrkamp, 2525).  S. 55-72.</wels>
+<default>Heitmeyer W, Endrikat K (2008)  &lt;br /&gt;In:  Deutsche Zustände. Folge 6. Heitmeyer W (Ed); Edition Suhrkamp, 2525. Frankfurt am Main: Suhrkamp:  55-72.</default>
+<ama>Heitmeyer W, Endrikat K. Die Ökonomisierung des Sozialen. Folgen für &quot;Überflüssige&quot; und &quot;Nutzlose&quot;. In: Heitmeyer W, ed. &lt;em&gt;Deutsche Zustände. Folge 6&lt;/em&gt;. Edition Suhrkamp. Vol 2525. Frankfurt am Main: Suhrkamp;  2008: 55-72.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Heitmeyer, W. &amp;amp; Endrikat, K. (2008). Die Ökonomisierung des Sozialen. Folgen für &quot;Überflüssige&quot; und &quot;Nutzlose&quot; (Edition Suhrkamp). &lt;em&gt;Deutsche Zustände. Folge 6&lt;/em&gt; (S. 55-72). Frankfurt am Main: Suhrkamp.&lt;/div&gt;</dgps>
+<harvard1>Heitmeyer, W., &amp;amp; Endrikat, K., 2008. Die Ökonomisierung des Sozialen. Folgen für &quot;Überflüssige&quot; und &quot;Nutzlose&quot;. In W.  Heitmeyer, ed. &lt;em&gt;Deutsche Zustände. Folge 6&lt;/em&gt;. Edition Suhrkamp. no.2525  Frankfurt am Main: Suhrkamp, pp. 55-72.</harvard1>
+<aps>W.  Heitmeyer and K.  Endrikat, Die Ökonomisierung des Sozialen. Folgen für &quot;Überflüssige&quot; und &quot;Nutzlose&quot;, in &lt;em&gt;Deutsche Zustände. Folge 6&lt;/em&gt;, edited by W.  Heitmeyer, Edition Suhrkamp, &lt;strong&gt;2525&lt;/strong&gt; (Suhrkamp, Frankfurt Am Main, 2008), p. 55-72.</aps>
+<bio1>Heitmeyer W, Endrikat K (2008) &lt;br /&gt;Die Ökonomisierung des Sozialen. Folgen für &quot;Überflüssige&quot; und &quot;Nutzlose&quot;. &lt;br /&gt;In:  Deutsche Zustände. Folge 6. Heitmeyer W (Ed); Edition Suhrkamp, 2525. Frankfurt am Main: Suhrkamp:  55-72.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1856817</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-02-15T12:33:30Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-02-15T12:33:30Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1856817</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1856817</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,119 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>EFFECTIVE SCALAR THEORY OF THE ELECTROWEAK PHASE-TRANSITION</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Frithjof</namePart>
+  <namePart type="family">Karsch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40326</identifier></name>
+<name type="personal">
+  <namePart type="given">Thomas</namePart>
+  <namePart type="family">Neuhaus</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">23561533</identifier></name>
+<name type="personal">
+  <namePart type="given">A</namePart>
+  <namePart type="family">PATKOS</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Elementarteilchen und Quantenfelder</namePart>
+  <identifier type="unibi">23470443</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">This talk summarizes results obtained from simulating a three dimensional pure Order Parameter (OP) model of the Electroweak Phase Transition (EWPT). Its detailed presentation appears in [1].</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">1995</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Nucl. Phys. B, Proc. Suppl.</title></titleInfo>
+  <identifier type="issn">0550-3213</identifier>
+  <identifier type="arXiv">hep-lat/9412052</identifier>
+  <identifier type="INSPIRE">381136</identifier>
+  <identifier type="ISI">A1995QZ61700138</identifier><identifier type="doi">10.1016/0920-5632(95)00317-3</identifier>
+<part><detail type="volume"><number>42</number></detail><extent unit="pages">581-583</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Karsch, F.; Neuhaus, T.; PATKOS, A. (1995): EFFECTIVE SCALAR THEORY OF THE ELECTROWEAK PHASE-TRANSITION. In: Nucl. Phys. B, Proc. Suppl.. ELSEVIER SCIENCE BV. (42).  S. 581-583.</wels>
+<default>Karsch F, Neuhaus T, PATKOS A (1995)  &lt;br /&gt;In:  Nucl. Phys. B, Proc. Suppl. 42. ELSEVIER SCIENCE BV:  581-583.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Karsch, F., Neuhaus, T. &amp;amp; PATKOS, A. (1995). EFFECTIVE SCALAR THEORY OF THE ELECTROWEAK PHASE-TRANSITION. &lt;em&gt;Nucl. Phys. B, Proc. Suppl.&lt;/em&gt; (S. 581-583). ELSEVIER SCIENCE BV. doi:10.1016/0920-5632(95)00317-3.&lt;/div&gt;</dgps>
+<ama>Karsch F, Neuhaus T, PATKOS A. EFFECTIVE SCALAR THEORY OF THE ELECTROWEAK PHASE-TRANSITION. In:  &lt;em&gt;Nucl. Phys. B, Proc. Suppl.&lt;/em&gt; Vol 42. ELSEVIER SCIENCE BV;  1995: 581-583.</ama>
+<harvard1>Karsch, F., Neuhaus, T., &amp;amp; PATKOS, A., 1995. EFFECTIVE SCALAR THEORY OF THE ELECTROWEAK PHASE-TRANSITION. In &lt;em&gt;Nucl. Phys. B, Proc. Suppl.&lt;/em&gt; no.42  ELSEVIER SCIENCE BV, pp. 581-583.</harvard1>
+<bio1>Karsch F, Neuhaus T, PATKOS A (1995) &lt;br /&gt;EFFECTIVE SCALAR THEORY OF THE ELECTROWEAK PHASE-TRANSITION. &lt;br /&gt;In:  Nucl. Phys. B, Proc. Suppl. 42. ELSEVIER SCIENCE BV:  581-583.</bio1>
+<aps>F.  Karsch, T.  Neuhaus, and A.  PATKOS, EFFECTIVE SCALAR THEORY OF THE ELECTROWEAK PHASE-TRANSITION, in &lt;em&gt;Nucl. Phys. B, Proc. Suppl.&lt;/em&gt;, &lt;strong&gt;42&lt;/strong&gt; (ELSEVIER SCIENCE BV, 1995), p. 581-583.</aps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Karsch, Frithjof, Neuhaus, Thomas, and PATKOS, A. 1995. “EFFECTIVE SCALAR THEORY OF THE ELECTROWEAK PHASE-TRANSITION”. In &lt;em&gt;Nucl. Phys. B, Proc. Suppl.&lt;/em&gt;, 42:581-583. ELSEVIER SCIENCE BV.&lt;/div&gt;</chicago>
+<angewandte-chemie>F.  Karsch, T.  Neuhaus, and A.  PATKOS, in &lt;em&gt;Nucl. Phys. B, Proc. Suppl.&lt;/em&gt;, Elsevier Science Bv, &lt;strong&gt;1995&lt;/strong&gt;, p. 581-583.</angewandte-chemie>
+<apa>Karsch, F., Neuhaus, T., &amp;amp; PATKOS, A. (1995). EFFECTIVE SCALAR THEORY OF THE ELECTROWEAK PHASE-TRANSITION. &lt;em&gt;Nucl. Phys. B, Proc. Suppl.&lt;/em&gt;, &lt;em&gt;42&lt;/em&gt;, 581-583.</apa>
+<frontiers>Karsch, F., Neuhaus, T., and PATKOS, A. (1995). “EFFECTIVE SCALAR THEORY OF THE ELECTROWEAK PHASE-TRANSITION” in &lt;em&gt;Nucl. Phys. B, Proc. Suppl.&lt;/em&gt;, vol. 42, (ELSEVIER SCIENCE BV), 581-583.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Karsch, F., Neuhaus, T., &amp;amp; PATKOS, A. (1995). EFFECTIVE SCALAR THEORY OF THE ELECTROWEAK PHASE-TRANSITION. &lt;em&gt;Nucl. Phys. B, Proc. Suppl.&lt;/em&gt;, &lt;em&gt;42&lt;/em&gt;, 581-583.&lt;/div&gt;</apa_indent>
+<ieee>F. Karsch, T. Neuhaus, and A. PATKOS, “EFFECTIVE SCALAR THEORY OF THE ELECTROWEAK PHASE-TRANSITION”, &lt;em&gt;Nucl. Phys. B, Proc. Suppl.&lt;/em&gt;, vol. 42, ELSEVIER SCIENCE BV, 1995,  pp.581-583.</ieee>
+<lncs>Karsch, F., Neuhaus, T., PATKOS, A.: EFFECTIVE SCALAR THEORY OF THE ELECTROWEAK PHASE-TRANSITION. Nucl. Phys. B, Proc. Suppl. 42, p. 581-583. ELSEVIER SCIENCE BV (1995).</lncs>
+<mla>Karsch, Frithjof, Neuhaus, Thomas, and PATKOS, A. “EFFECTIVE SCALAR THEORY OF THE ELECTROWEAK PHASE-TRANSITION”. &lt;em&gt;Nucl. Phys. B, Proc. Suppl.&lt;/em&gt; ELSEVIER SCIENCE BV, 1995.Vol. 42. 581-583.</mla>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1640883</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:16:00Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-10-04T14:06:29Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1640883</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1640883</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,99 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Information and control: Matching channels</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Rudolf</namePart>
+  <namePart type="family">Ahlswede</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10479</identifier></name>
+<name type="personal">
+  <namePart type="given">N</namePart>
+  <namePart type="family">Cai</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The transmission problem for noisy channels is usually studied under the condition that the decoding error probability lambda is small and is sometimes studied under the condition that lambda = 0. Here we just require that lambda &lt; 1 and obtain a problem which is equivalent to a coding problem with small lambda for the &quot;Deterministic Matching channel.&quot; In this new model, a cooperative person knows the codeword to be sent and can choose (match) the state sequence of the channel, There are interesting connections to combinatorial matching theory and extensions to the theory of identification as well as to multi-way channels. In particular, there is a surprising connection to Pinsker&apos;s coding theorem for the deterministic broadcast channel.</abstract>
+
+<originInfo><publisher>IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC</publisher><dateIssued encoding="w3cdtf">1998</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>detection</topic><topic>combinatorial matching</topic><topic>zero-error problems</topic><topic>identification</topic><topic>feedback</topic><topic>channel models</topic><topic>new</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>IEEE TRANSACTIONS ON INFORMATION THEORY</title></titleInfo>
+  <identifier type="issn">0018-9448</identifier>
+  <identifier type="ISI">000072248600010</identifier><identifier type="doi">10.1109/18.661504</identifier>
+<part><detail type="volume"><number>44</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">542-563</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<lncs>Ahlswede, R., Cai, N.: Information and control: Matching channels. IEEE TRANSACTIONS ON INFORMATION THEORY. 44, 542-563 (1998).</lncs>
+<mla>Ahlswede, Rudolf, and Cai, N. “Information and control: Matching channels”. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt; 44.2 (1998): 542-563.</mla>
+<ieee>R. Ahlswede and N. Cai, “Information and control: Matching channels”, &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;,  vol. 44, 1998,  pp. 542-563.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R., &amp;amp; Cai, N. (1998). Information and control: Matching channels. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, &lt;em&gt;44&lt;/em&gt;(2), 542-563.&lt;/div&gt;</apa_indent>
+<frontiers>Ahlswede, R., and Cai, N. (1998). Information and control: Matching channels. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt; 44, 542-563.</frontiers>
+<angewandte-chemie>R.  Ahlswede, and N.  Cai, “Information and control: Matching channels”, &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, &lt;strong&gt;1998&lt;/strong&gt;, &lt;em&gt;44&lt;/em&gt;, 542-563.</angewandte-chemie>
+<apa>Ahlswede, R., &amp;amp; Cai, N. (1998). Information and control: Matching channels. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, &lt;em&gt;44&lt;/em&gt;(2), 542-563.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, Rudolf, and Cai, N. 1998. “Information and control: Matching channels”. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt; 44 (2): 542-563.&lt;/div&gt;</chicago>
+<aps>R.  Ahlswede and N.  Cai, Information and control: Matching channels, IEEE TRANSACTIONS ON INFORMATION THEORY &lt;strong&gt;44&lt;/strong&gt;, 542-563 (1998).</aps>
+<bio1>Ahlswede R, Cai N (1998) &lt;br /&gt;Information and control: Matching channels.&lt;br /&gt;IEEE TRANSACTIONS ON INFORMATION THEORY 44(2): 542-563.</bio1>
+<ama>Ahlswede R, Cai N. Information and control: Matching channels. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;. 1998;44(2):542-563.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R. &amp;amp; Cai, N. (1998). Information and control: Matching channels. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, &lt;em&gt;44&lt;/em&gt;(2), 542-563. IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC. doi:10.1109/18.661504.&lt;/div&gt;</dgps>
+<harvard1>Ahlswede, R., &amp;amp; Cai, N., 1998. Information and control: Matching channels. &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;, 44(2), p 542-563.</harvard1>
+<default>Ahlswede R, Cai N (1998) &lt;br /&gt;IEEE TRANSACTIONS ON INFORMATION THEORY 44(2): 542-563.</default>
+<wels>Ahlswede, R.; Cai, N. (1998): Information and control: Matching channels &lt;em&gt;IEEE TRANSACTIONS ON INFORMATION THEORY&lt;/em&gt;,44:(2): 542-563.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1626351</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:21:01Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-11-11T11:18:07Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1626351</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1626351</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

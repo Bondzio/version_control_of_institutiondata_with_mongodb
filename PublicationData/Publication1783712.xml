@@ -1,0 +1,123 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>SAMPI: protein identification with mass spectra alignments</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Hans-Michael</namePart>
+  <namePart type="family">Kaltenbach</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Wilke</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Sebastian</namePart>
+  <namePart type="family">Böcker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Technische Fakultät</namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Genominformatik</namePart>
+  <identifier type="unibi">66100</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Background: Mass spectrometry based peptide mass fingerprints (PMFs) offer a fast, efficient, and robust method for protein identification. A protein is digested (usually by trypsin) and its mass spectrum is compared to simulated spectra for protein sequences in a database. However, existing tools for analyzing PMFs often suffer from missing or heuristic analysis of the significance of search results and insufficient handling of missing and additional peaks. Results: We present an unified framework for analyzing Peptide Mass Fingerprints that offers a number of advantages over existing methods: First, comparison of mass spectra is based on a scoring function that can be custom-designed for certain applications and explicitly takes missing and additional peaks into account. The method is able to simulate almost every additive scoring scheme. Second, we present an efficient deterministic method for assessing the significance of a protein hit, independent of the underlying scoring function and sequence database. We prove the applicability of our approach using biological mass spectrometry data and compare our results to the standard software Mascot. Conclusion: The proposed framework for analyzing Peptide Mass Fingerprints shows performance comparable to Mascot on small peak lists. Introducing more noise peaks, we are able to keep identification rates at a similar level by using the flexibility introduced by scoring schemes.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="13.pdf">https://pub.uni-bielefeld.de/download/1783712/2314251</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>BMC Bioinformatics</title></titleInfo>
+  <identifier type="issn">1471-2105</identifier>
+  <identifier type="MEDLINE">17386090</identifier>
+  <identifier type="ISI">000245629700001</identifier><identifier type="urn">urn:nbn:de:0070-pub-17837125</identifier><identifier type="doi">10.1186/1471-2105-8-102</identifier>
+<part><detail type="volume"><number>8</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">102</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kaltenbach, Hans-Michael, Wilke, Andreas, and Böcker, Sebastian. 2007. “SAMPI: protein identification with mass spectra alignments”. &lt;em&gt;BMC Bioinformatics&lt;/em&gt; 8 (1).&lt;/div&gt;</chicago>
+<angewandte-chemie>H. - M.  Kaltenbach, A.  Wilke, and S.  Böcker, “SAMPI: protein identification with mass spectra alignments”, &lt;em&gt;BMC Bioinformatics&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;8&lt;/em&gt;.</angewandte-chemie>
+<apa>Kaltenbach, H. - M., Wilke, A., &amp;amp; Böcker, S. (2007). SAMPI: protein identification with mass spectra alignments. &lt;em&gt;BMC Bioinformatics&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;(1).</apa>
+<frontiers>Kaltenbach, H. - M., Wilke, A., and Böcker, S. (2007). SAMPI: protein identification with mass spectra alignments. &lt;em&gt;BMC Bioinformatics&lt;/em&gt; 8.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kaltenbach, H. - M., Wilke, A., &amp;amp; Böcker, S. (2007). SAMPI: protein identification with mass spectra alignments. &lt;em&gt;BMC Bioinformatics&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;(1).&lt;/div&gt;</apa_indent>
+<ieee>H.-M. Kaltenbach, A. Wilke, and S. Böcker, “SAMPI: protein identification with mass spectra alignments”, &lt;em&gt;BMC Bioinformatics&lt;/em&gt;,  vol. 8, 2007.</ieee>
+<lncs>Kaltenbach, H.-M., Wilke, A., Böcker, S.: SAMPI: protein identification with mass spectra alignments. BMC Bioinformatics. 8, (2007).</lncs>
+<mla>Kaltenbach, Hans-Michael, Wilke, Andreas, and Böcker, Sebastian. “SAMPI: protein identification with mass spectra alignments”. &lt;em&gt;BMC Bioinformatics&lt;/em&gt; 8.1 (2007).</mla>
+<wels>Kaltenbach, H. - M.; Wilke, A.; Böcker, S. (2007): SAMPI: protein identification with mass spectra alignments &lt;em&gt;BMC Bioinformatics&lt;/em&gt;,8:(1)</wels>
+<default>Kaltenbach H-M, Wilke A, Böcker S (2007) &lt;br /&gt;BMC Bioinformatics 8(1).</default>
+<ama>Kaltenbach H-M, Wilke A, Böcker S. SAMPI: protein identification with mass spectra alignments. &lt;em&gt;BMC Bioinformatics&lt;/em&gt;. 2007;8(1).</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kaltenbach, H.-M., Wilke, A. &amp;amp; Böcker, S. (2007). SAMPI: protein identification with mass spectra alignments. &lt;em&gt;BMC Bioinformatics&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;(1). doi:10.1186/1471-2105-8-102.&lt;/div&gt;</dgps>
+<harvard1>Kaltenbach, H.-M., Wilke, A., &amp;amp; Böcker, S., 2007. SAMPI: protein identification with mass spectra alignments. &lt;em&gt;BMC Bioinformatics&lt;/em&gt;, 8(1).</harvard1>
+<bio1>Kaltenbach H-M, Wilke A, Böcker S (2007) &lt;br /&gt;SAMPI: protein identification with mass spectra alignments.&lt;br /&gt;BMC Bioinformatics 8(1).</bio1>
+<aps>H. - M.  Kaltenbach, A.  Wilke, and S.  Böcker, SAMPI: protein identification with mass spectra alignments, BMC Bioinformatics &lt;strong&gt;8&lt;/strong&gt;, (2007).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1783712</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-03-23T07:41:15Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1783712</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1783712</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

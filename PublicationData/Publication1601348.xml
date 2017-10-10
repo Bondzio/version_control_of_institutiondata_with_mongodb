@@ -1,0 +1,117 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Protein Annotation by Secondary Structure Based Alignments (PASSTA)</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Constantin</namePart>
+  <namePart type="family">Bannert</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jens</namePart>
+  <namePart type="family">Stoye</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">65864</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-4656-7155</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Genominformatik</namePart>
+  <identifier type="unibi">66100</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group J. Stoye</namePart>
+  <identifier type="unibi">33067262</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+<name type="conference">
+  <namePart>CompLife 2005</namePart>
+</name>
+
+
+
+
+
+
+<abstract lang="eng">Most software tools in homology recognition on proteins answer only a few specific questions, often leaving not much room for the interpretation of the results. We develop a software Passta that helps to decide whether a protein sequence is related to a protein with known structure. Our approach may indicate rearrangements and duplications, and it displays information from different sources in an integrated fashion. Our approach is to first break each sequence of the Protein Data Bank (PDB) into Secondary Structure Elements (SSEs). Given a query sequence, our goal is then to &apos;explain&apos; it by SSE sequences as good as possible. Therefore, we use the Waterman-Eggert algorithm to compute pairwise alignments of SSE sequences with the query. In a graph-based approach, we then select those alignments that reproduce the query in an optimal way. We discuss two examples to illustrate the potential (and possible pitfalls) of the method.</abstract>
+
+<originInfo><publisher>Springer-Verlag</publisher><dateIssued encoding="w3cdtf">2005</dateIssued><place><placeTerm type="text">Konstanz, Germany</placeTerm></place>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Proc. of CompLife 2005</title></titleInfo>
+  <identifier type="issn">0302-9743</identifier>
+  <identifier type="ISI">000233331500008</identifier><identifier type="doi">10.1007/11560500_8</identifier>
+<part><detail type="volume"><number>3695</number></detail><extent unit="pages">79-90</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Bannert C, Stoye J (2005)  &lt;br /&gt;In:  Proc. of CompLife 2005.  LNBI, 3695. Springer-Verlag:  79-90.</default>
+<wels>Bannert, C.; Stoye, J. (2005): Protein Annotation by Secondary Structure Based Alignments (PASSTA). In: Proc. of CompLife 2005. Springer-Verlag. (LNBI, 3695).  S. 79-90.</wels>
+<aps>C.  Bannert and J.  Stoye, Protein Annotation by Secondary Structure Based Alignments (PASSTA), in &lt;em&gt;Proc. of CompLife 2005&lt;/em&gt;, LNBI, &lt;strong&gt;3695&lt;/strong&gt; (Springer-Verlag, 2005), p. 79-90.</aps>
+<bio1>Bannert C, Stoye J (2005) &lt;br /&gt;Protein Annotation by Secondary Structure Based Alignments (PASSTA). &lt;br /&gt;In:  Proc. of CompLife 2005.  LNBI, 3695. Springer-Verlag:  79-90.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bannert, C. &amp;amp; Stoye, J. (2005). Protein Annotation by Secondary Structure Based Alignments (PASSTA) (LNBI). &lt;em&gt;Proc. of CompLife 2005&lt;/em&gt; (S. 79-90). Gehalten auf der CompLife 2005, Springer-Verlag. doi:10.1007/11560500_8.&lt;/div&gt;</dgps>
+<ama>Bannert C, Stoye J. Protein Annotation by Secondary Structure Based Alignments (PASSTA). In:  &lt;em&gt;Proc. of CompLife 2005&lt;/em&gt;. LNBI. Vol 3695. Springer-Verlag;  2005: 79-90.</ama>
+<harvard1>Bannert, C., &amp;amp; Stoye, J., 2005. Protein Annotation by Secondary Structure Based Alignments (PASSTA). In &lt;em&gt;Proc. of CompLife 2005&lt;/em&gt;. LNBI. no.3695  Springer-Verlag, pp. 79-90.</harvard1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bannert, Constantin, and Stoye, Jens. 2005. “Protein Annotation by Secondary Structure Based Alignments (PASSTA)”. In &lt;em&gt;Proc. of CompLife 2005&lt;/em&gt;, 3695:79-90. LNBI. Springer-Verlag.&lt;/div&gt;</chicago>
+<frontiers>Bannert, C., and Stoye, J. (2005). “Protein Annotation by Secondary Structure Based Alignments (PASSTA)” in &lt;em&gt;Proc. of CompLife 2005&lt;/em&gt; LNBI, vol. 3695, (Springer-Verlag), 79-90.</frontiers>
+<angewandte-chemie>C.  Bannert, and J.  Stoye, in &lt;em&gt;Proc. of CompLife 2005&lt;/em&gt;, Springer-Verlag, &lt;strong&gt;2005&lt;/strong&gt;, p. 79-90.</angewandte-chemie>
+<apa>Bannert, C., &amp;amp; Stoye, J. (2005). Protein Annotation by Secondary Structure Based Alignments (PASSTA). &lt;em&gt;Proc. of CompLife 2005&lt;/em&gt;, &lt;em&gt;3695&lt;/em&gt;, 79-90.</apa>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bannert, C., &amp;amp; Stoye, J. (2005). Protein Annotation by Secondary Structure Based Alignments (PASSTA). &lt;em&gt;Proc. of CompLife 2005&lt;/em&gt;, &lt;em&gt;3695&lt;/em&gt;, 79-90.&lt;/div&gt;</apa_indent>
+<lncs>Bannert, C., Stoye, J.: Protein Annotation by Secondary Structure Based Alignments (PASSTA). Proc. of CompLife 2005. LNBI. 3695, p. 79-90. Springer-Verlag (2005).</lncs>
+<mla>Bannert, Constantin, and Stoye, Jens. “Protein Annotation by Secondary Structure Based Alignments (PASSTA)”. &lt;em&gt;Proc. of CompLife 2005&lt;/em&gt;. Springer-Verlag, 2005.Vol. 3695. LNBI. 79-90.</mla>
+<ieee>C. Bannert and J. Stoye, “Protein Annotation by Secondary Structure Based Alignments (PASSTA)”, &lt;em&gt;Proc. of CompLife 2005&lt;/em&gt;, LNBI, vol. 3695, Springer-Verlag, 2005,  pp.79-90.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1601348</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:31:43Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-01-18T09:11:15Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1601348</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1601348</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

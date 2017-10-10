@@ -1,0 +1,101 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>A remark on normal forms of matrices</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Vlastimil</namePart>
+  <namePart type="family">Dlab</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Claus Michael</namePart>
+  <namePart type="family">Ringel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10583</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Ringel_042.pdf">https://pub.uni-bielefeld.de/download/1781901/2313571</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1980</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Linear algebra and its applications</title></titleInfo>
+  <identifier type="issn">0024-3795</identifier>
+  <identifier type="ISI">A1980JS16400010</identifier><identifier type="urn">urn:nbn:de:0070-pub-17819011</identifier><identifier type="doi">10.1016/0024-3795(80)90186-X</identifier>
+<part><detail type="volume"><number>30</number></detail><extent unit="pages">109-114</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Dlab, V.; Ringel, C. M. (1980): A remark on normal forms of matrices &lt;em&gt;Linear algebra and its applications&lt;/em&gt;,30: 109-114.</wels>
+<default>Dlab V, Ringel CM (1980) &lt;br /&gt;Linear algebra and its applications 30: 109-114.</default>
+<ama>Dlab V, Ringel CM. A remark on normal forms of matrices. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;. 1980;30:109-114.</ama>
+<harvard1>Dlab, V., &amp;amp; Ringel, C.M., 1980. A remark on normal forms of matrices. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, 30, p 109-114.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Dlab, V. &amp;amp; Ringel, C.M. (1980). A remark on normal forms of matrices. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, &lt;em&gt;30&lt;/em&gt;, 109-114. doi:10.1016/0024-3795(80)90186-X.&lt;/div&gt;</dgps>
+<aps>V.  Dlab and C. M.  Ringel, A remark on normal forms of matrices, Linear algebra and its applications &lt;strong&gt;30&lt;/strong&gt;, 109-114 (1980).</aps>
+<bio1>Dlab V, Ringel CM (1980) &lt;br /&gt;A remark on normal forms of matrices.&lt;br /&gt;Linear algebra and its applications 30: 109-114.</bio1>
+<angewandte-chemie>V.  Dlab, and C. M.  Ringel, “A remark on normal forms of matrices”, &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, &lt;strong&gt;1980&lt;/strong&gt;, &lt;em&gt;30&lt;/em&gt;, 109-114.</angewandte-chemie>
+<apa>Dlab, V., &amp;amp; Ringel, C. M. (1980). A remark on normal forms of matrices. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, &lt;em&gt;30&lt;/em&gt;, 109-114.</apa>
+<frontiers>Dlab, V., and Ringel, C. M. (1980). A remark on normal forms of matrices. &lt;em&gt;Linear algebra and its applications&lt;/em&gt; 30, 109-114.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Dlab, Vlastimil, and Ringel, Claus Michael. 1980. “A remark on normal forms of matrices”. &lt;em&gt;Linear algebra and its applications&lt;/em&gt; 30: 109-114.&lt;/div&gt;</chicago>
+<ieee>V. Dlab and C.M. Ringel, “A remark on normal forms of matrices”, &lt;em&gt;Linear algebra and its applications&lt;/em&gt;,  vol. 30, 1980,  pp. 109-114.</ieee>
+<lncs>Dlab, V., Ringel, C.M.: A remark on normal forms of matrices. Linear algebra and its applications. 30, 109-114 (1980).</lncs>
+<mla>Dlab, Vlastimil, and Ringel, Claus Michael. “A remark on normal forms of matrices”. &lt;em&gt;Linear algebra and its applications&lt;/em&gt; 30 (1980): 109-114.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Dlab, V., &amp;amp; Ringel, C. M. (1980). A remark on normal forms of matrices. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, &lt;em&gt;30&lt;/em&gt;, 109-114.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781901</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781901</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781901</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

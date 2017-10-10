@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Bounds for the variation of the roots of a polynomial and the eigenvalues of a matrix</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Rajendra</namePart>
+  <namePart type="family">Bhatia</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ludwig</namePart>
+  <namePart type="family">Elsner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10509</identifier></name>
+<name type="personal">
+  <namePart type="given">G.</namePart>
+  <namePart type="family">Krause</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We derive some new bounds for the distance between the roots of two polynomials in terms of their coefficients and for the distance between the eigenvalues of two matrices in terms of the norm of their difference.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Elsner_052.pdf">https://pub.uni-bielefeld.de/download/1780830/2313046</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1990</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Linear algebra and its applications</title></titleInfo>
+  <identifier type="issn">0024-3795</identifier>
+  <identifier type="ISI">A1990EH16700017</identifier><identifier type="urn">urn:nbn:de:0070-pub-17808305</identifier><identifier type="doi">10.1016/0024-3795(90)90267-G</identifier>
+<part><detail type="volume"><number>142</number></detail><extent unit="pages">195-209</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Bhatia R, Elsner L, Krause G. Bounds for the variation of the roots of a polynomial and the eigenvalues of a matrix. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;. 1990;142:195-209.</ama>
+<harvard1>Bhatia, R., Elsner, L., &amp;amp; Krause, G., 1990. Bounds for the variation of the roots of a polynomial and the eigenvalues of a matrix. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, 142, p 195-209.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bhatia, R., Elsner, L. &amp;amp; Krause, G. (1990). Bounds for the variation of the roots of a polynomial and the eigenvalues of a matrix. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, &lt;em&gt;142&lt;/em&gt;, 195-209. doi:10.1016/0024-3795(90)90267-G.&lt;/div&gt;</dgps>
+<bio1>Bhatia R, Elsner L, Krause G (1990) &lt;br /&gt;Bounds for the variation of the roots of a polynomial and the eigenvalues of a matrix.&lt;br /&gt;Linear algebra and its applications 142: 195-209.</bio1>
+<aps>R.  Bhatia, L.  Elsner, and G.  Krause, Bounds for the variation of the roots of a polynomial and the eigenvalues of a matrix, Linear algebra and its applications &lt;strong&gt;142&lt;/strong&gt;, 195-209 (1990).</aps>
+<wels>Bhatia, R.; Elsner, L.; Krause, G. (1990): Bounds for the variation of the roots of a polynomial and the eigenvalues of a matrix &lt;em&gt;Linear algebra and its applications&lt;/em&gt;,142: 195-209.</wels>
+<default>Bhatia R, Elsner L, Krause G (1990) &lt;br /&gt;Linear algebra and its applications 142: 195-209.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bhatia, R., Elsner, L., &amp;amp; Krause, G. (1990). Bounds for the variation of the roots of a polynomial and the eigenvalues of a matrix. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, &lt;em&gt;142&lt;/em&gt;, 195-209.&lt;/div&gt;</apa_indent>
+<ieee>R. Bhatia, L. Elsner, and G. Krause, “Bounds for the variation of the roots of a polynomial and the eigenvalues of a matrix”, &lt;em&gt;Linear algebra and its applications&lt;/em&gt;,  vol. 142, 1990,  pp. 195-209.</ieee>
+<mla>Bhatia, Rajendra, Elsner, Ludwig, and Krause, G. “Bounds for the variation of the roots of a polynomial and the eigenvalues of a matrix”. &lt;em&gt;Linear algebra and its applications&lt;/em&gt; 142 (1990): 195-209.</mla>
+<lncs>Bhatia, R., Elsner, L., Krause, G.: Bounds for the variation of the roots of a polynomial and the eigenvalues of a matrix. Linear algebra and its applications. 142, 195-209 (1990).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bhatia, Rajendra, Elsner, Ludwig, and Krause, G. 1990. “Bounds for the variation of the roots of a polynomial and the eigenvalues of a matrix”. &lt;em&gt;Linear algebra and its applications&lt;/em&gt; 142: 195-209.&lt;/div&gt;</chicago>
+<apa>Bhatia, R., Elsner, L., &amp;amp; Krause, G. (1990). Bounds for the variation of the roots of a polynomial and the eigenvalues of a matrix. &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, &lt;em&gt;142&lt;/em&gt;, 195-209.</apa>
+<angewandte-chemie>R.  Bhatia, L.  Elsner, and G.  Krause, “Bounds for the variation of the roots of a polynomial and the eigenvalues of a matrix”, &lt;em&gt;Linear algebra and its applications&lt;/em&gt;, &lt;strong&gt;1990&lt;/strong&gt;, &lt;em&gt;142&lt;/em&gt;, 195-209.</angewandte-chemie>
+<frontiers>Bhatia, R., Elsner, L., and Krause, G. (1990). Bounds for the variation of the roots of a polynomial and the eigenvalues of a matrix. &lt;em&gt;Linear algebra and its applications&lt;/em&gt; 142, 195-209.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780830</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780830</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780830</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

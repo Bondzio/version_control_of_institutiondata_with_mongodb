@@ -1,0 +1,105 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Nonbinary codes correcting localized errors</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Rudolf</namePart>
+  <namePart type="family">Ahlswede</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10479</identifier></name>
+<name type="personal">
+  <namePart type="given">L. A.</namePart>
+  <namePart type="family">Bassalygo</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M. S.</namePart>
+  <namePart type="family">Pinsker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Ahlswede_78.pdf">https://pub.uni-bielefeld.de/download/1780487/2312928</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1993</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>IEEE transactions on information theory</title></titleInfo>
+  <identifier type="issn">0018-9448</identifier>
+  <identifier type="ISI">A1993MG07500029</identifier><identifier type="urn">urn:nbn:de:0070-pub-17804871</identifier><identifier type="doi">10.1109/18.243459</identifier>
+<part><detail type="volume"><number>39</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">1413-1416</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Ahlswede R, Bassalygo LA, Pinsker MS (1993) &lt;br /&gt;IEEE transactions on information theory 39(4): 1413-1416.</default>
+<wels>Ahlswede, R.; Bassalygo, L. A.; Pinsker, M. S. (1993): Nonbinary codes correcting localized errors &lt;em&gt;IEEE transactions on information theory&lt;/em&gt;,39:(4): 1413-1416.</wels>
+<aps>R.  Ahlswede, L. A.  Bassalygo, and M. S.  Pinsker, Nonbinary codes correcting localized errors, IEEE transactions on information theory &lt;strong&gt;39&lt;/strong&gt;, 1413-1416 (1993).</aps>
+<bio1>Ahlswede R, Bassalygo LA, Pinsker MS (1993) &lt;br /&gt;Nonbinary codes correcting localized errors.&lt;br /&gt;IEEE transactions on information theory 39(4): 1413-1416.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R., Bassalygo, L.A. &amp;amp; Pinsker, M.S. (1993). Nonbinary codes correcting localized errors. &lt;em&gt;IEEE transactions on information theory&lt;/em&gt;, &lt;em&gt;39&lt;/em&gt;(4), 1413-1416. doi:10.1109/18.243459.&lt;/div&gt;</dgps>
+<harvard1>Ahlswede, R., Bassalygo, L.A., &amp;amp; Pinsker, M.S., 1993. Nonbinary codes correcting localized errors. &lt;em&gt;IEEE transactions on information theory&lt;/em&gt;, 39(4), p 1413-1416.</harvard1>
+<ama>Ahlswede R, Bassalygo LA, Pinsker MS. Nonbinary codes correcting localized errors. &lt;em&gt;IEEE transactions on information theory&lt;/em&gt;. 1993;39(4):1413-1416.</ama>
+<frontiers>Ahlswede, R., Bassalygo, L. A., and Pinsker, M. S. (1993). Nonbinary codes correcting localized errors. &lt;em&gt;IEEE transactions on information theory&lt;/em&gt; 39, 1413-1416.</frontiers>
+<apa>Ahlswede, R., Bassalygo, L. A., &amp;amp; Pinsker, M. S. (1993). Nonbinary codes correcting localized errors. &lt;em&gt;IEEE transactions on information theory&lt;/em&gt;, &lt;em&gt;39&lt;/em&gt;(4), 1413-1416.</apa>
+<angewandte-chemie>R.  Ahlswede, L. A.  Bassalygo, and M. S.  Pinsker, “Nonbinary codes correcting localized errors”, &lt;em&gt;IEEE transactions on information theory&lt;/em&gt;, &lt;strong&gt;1993&lt;/strong&gt;, &lt;em&gt;39&lt;/em&gt;, 1413-1416.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, Rudolf, Bassalygo, L. A., and Pinsker, M. S. 1993. “Nonbinary codes correcting localized errors”. &lt;em&gt;IEEE transactions on information theory&lt;/em&gt; 39 (4): 1413-1416.&lt;/div&gt;</chicago>
+<lncs>Ahlswede, R., Bassalygo, L.A., Pinsker, M.S.: Nonbinary codes correcting localized errors. IEEE transactions on information theory. 39, 1413-1416 (1993).</lncs>
+<mla>Ahlswede, Rudolf, Bassalygo, L. A., and Pinsker, M. S. “Nonbinary codes correcting localized errors”. &lt;em&gt;IEEE transactions on information theory&lt;/em&gt; 39.4 (1993): 1413-1416.</mla>
+<ieee>R. Ahlswede, L.A. Bassalygo, and M.S. Pinsker, “Nonbinary codes correcting localized errors”, &lt;em&gt;IEEE transactions on information theory&lt;/em&gt;,  vol. 39, 1993,  pp. 1413-1416.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ahlswede, R., Bassalygo, L. A., &amp;amp; Pinsker, M. S. (1993). Nonbinary codes correcting localized errors. &lt;em&gt;IEEE transactions on information theory&lt;/em&gt;, &lt;em&gt;39&lt;/em&gt;(4), 1413-1416.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1780487</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1780487</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1780487</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

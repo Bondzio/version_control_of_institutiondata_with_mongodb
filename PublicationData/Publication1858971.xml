@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Fortbestehensprognose</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Paul J.</namePart>
+  <namePart type="family">Groß</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Matthias</namePart>
+  <namePart type="family">Amen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">9283058</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Stefanie</namePart><namePart type="family">Auge-Dickhut</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Ulrich</namePart><namePart type="family">Moser</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Bernd</namePart><namePart type="family">Widmann</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Wirtschaftswissenschaften</namePart>
+  <identifier type="unibi">10031</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Olzog Verlag</publisher><dateIssued encoding="w3cdtf">2004</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Praxis der Unternehmensbewertung</title></titleInfo>
+  <identifier type="isbn">3-7892-2021-3</identifier>
+<part><detail type="volume"><number>Loseblatt, 16. Journal, Dezember 2004, Abschnitt 5.9</number></detail><extent unit="pages">1-52</extent>
+</part>
+</relatedItem>
+
+<note type="nonBielefeld">yes</note>
+<extension>
+<bibliographicCitation>
+<bio1>Groß PJ, Amen M (2004) &lt;br /&gt;Fortbestehensprognose. &lt;br /&gt;In:  Praxis der Unternehmensbewertung. Auge-Dickhut S, Moser U, Widmann B (Eds);Loseblatt, 16. Journal, Dezember 2004, Abschnitt 5.9. München: Olzog Verlag:  1-52.</bio1>
+<aps>P. J.  Groß and M.  Amen, Fortbestehensprognose, in &lt;em&gt;Praxis der Unternehmensbewertung&lt;/em&gt;, edited by S.  Auge-Dickhut, et al., &lt;strong&gt;Loseblatt, 16. Journal, Dezember 2004, Abschnitt 5.9&lt;/strong&gt; (Olzog Verlag, München, 2004), p. 1-52.</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Groß, P.J. &amp;amp; Amen, M. (2004). Fortbestehensprognose. &lt;em&gt;Praxis der Unternehmensbewertung&lt;/em&gt; (S. 1-52). München: Olzog Verlag.&lt;/div&gt;</dgps>
+<harvard1>Groß, P.J., &amp;amp; Amen, M., 2004. Fortbestehensprognose. In S.  Auge-Dickhut, U.  Moser, &amp;amp; B.  Widmann, eds. &lt;em&gt;Praxis der Unternehmensbewertung&lt;/em&gt;. no.Loseblatt, 16. Journal, Dezember 2004, Abschnitt 5.9  München: Olzog Verlag, pp. 1-52.</harvard1>
+<ama>Groß PJ, Amen M. Fortbestehensprognose. In: Auge-Dickhut S, Moser U, Widmann B, eds. &lt;em&gt;Praxis der Unternehmensbewertung&lt;/em&gt;. Vol Loseblatt, 16. Journal, Dezember 2004, Abschnitt 5.9. München: Olzog Verlag;  2004: 1-52.</ama>
+<default>Groß PJ, Amen M (2004)  &lt;br /&gt;In:  Praxis der Unternehmensbewertung. Auge-Dickhut S, Moser U, Widmann B (Eds);Loseblatt, 16. Journal, Dezember 2004, Abschnitt 5.9. München: Olzog Verlag:  1-52.</default>
+<wels>Groß, P. J.; Amen, M. (2004): Fortbestehensprognose. In: Stefanie Auge-Dickhut; Ulrich Moser; Bernd Widmann (Hrsg.):  Praxis der Unternehmensbewertung. München: Olzog Verlag. (Loseblatt, 16. Journal, Dezember 2004, Abschnitt 5.9).  S. 1-52.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Groß, P. J., &amp;amp; Amen, M. (2004). Fortbestehensprognose. In S.  Auge-Dickhut, U.  Moser, &amp;amp; B.  Widmann (Eds.), &lt;em&gt;Praxis der Unternehmensbewertung&lt;/em&gt; (Vol. Loseblatt, 16. Journal, Dezember 2004, Abschnitt 5.9, pp. 1-52). München: Olzog Verlag.&lt;/div&gt;</apa_indent>
+<mla>Groß, Paul J., and Amen, Matthias. “Fortbestehensprognose”. &lt;em&gt;Praxis der Unternehmensbewertung&lt;/em&gt;. Ed. Stefanie Auge-Dickhut, Ulrich Moser, and Bernd Widmann. München: Olzog Verlag, 2004.Vol. Loseblatt, 16. Journal, Dezember 2004, Abschnitt 5.9. 1-52.</mla>
+<lncs>Groß, P.J., Amen, M.: Fortbestehensprognose. In: Auge-Dickhut, S., Moser, U., and Widmann, B. (eds.) Praxis der Unternehmensbewertung. Loseblatt, 16. Journal, Dezember 2004, Abschnitt 5.9, p. 1-52. Olzog Verlag, München (2004).</lncs>
+<ieee>P.J. Groß and M. Amen, “Fortbestehensprognose”, &lt;em&gt;Praxis der Unternehmensbewertung&lt;/em&gt;, S. Auge-Dickhut, U. Moser, and B. Widmann, eds., vol. Loseblatt, 16. Journal, Dezember 2004, Abschnitt 5.9,  München: Olzog Verlag, 2004,  pp.1-52.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Groß, Paul J., and Amen, Matthias. 2004. “Fortbestehensprognose”. In &lt;em&gt;Praxis der Unternehmensbewertung&lt;/em&gt;, ed. Stefanie Auge-Dickhut, Ulrich Moser, and Bernd Widmann, Loseblatt, 16. Journal, Dezember 2004, Abschnitt 5.9:1-52. München: Olzog Verlag.&lt;/div&gt;</chicago>
+<frontiers>Groß, P. J., and Amen, M. (2004). “Fortbestehensprognose” in &lt;em&gt;Praxis der Unternehmensbewertung&lt;/em&gt;, ed. S.  Auge-Dickhut, U.  Moser, and B.  Widmann, vol. Loseblatt, 16. Journal, Dezember 2004, Abschnitt 5.9, (München: Olzog Verlag), 1-52.</frontiers>
+<apa>Groß, P. J., &amp;amp; Amen, M. (2004). Fortbestehensprognose. In S.  Auge-Dickhut, U.  Moser, &amp;amp; B.  Widmann (Eds.), &lt;em&gt;Praxis der Unternehmensbewertung&lt;/em&gt; (Vol. Loseblatt, 16. Journal, Dezember 2004, Abschnitt 5.9, pp. 1-52). München: Olzog Verlag.</apa>
+<angewandte-chemie>P. J.  Groß, and M.  Amen, in &lt;em&gt;Praxis der Unternehmensbewertung&lt;/em&gt; (Eds.: S. Auge-Dickhut, U. Moser, B. Widmann), Olzog Verlag, München, &lt;strong&gt;2004&lt;/strong&gt;, p. 1-52.</angewandte-chemie>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1858971</recordIdentifier><recordChangeDate encoding="w3cdtf">2011-03-29T11:41:06Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1858971</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1858971</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

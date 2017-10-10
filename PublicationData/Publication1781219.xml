@@ -1,0 +1,106 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Status of affines among high caste hindu in the Nepalese hill area</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Joanna</namePart>
+  <namePart type="family">Pfaff-Czarnecka</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">15296</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Klaus</namePart><namePart type="family">Seeland</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Arbeitsbereich 6 - Transnationalisierung und Entwicklung</namePart>
+  <identifier type="unibi">5656060</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Weltgesellschaft</namePart>
+  <identifier type="unibi">89044</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT2423.pdf">https://pub.uni-bielefeld.de/download/1781219/2313230</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Weltforum-Verlag</publisher><dateIssued encoding="w3cdtf">1986</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Recent research on Nepal</title></titleInfo>
+  <identifier type="isbn">3-8039-0324-6</identifier><identifier type="urn">urn:nbn:de:0070-bipr-24231</identifier>
+<part><extent unit="pages">25-48</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Pfaff-Czarnecka, J. (1986). Status of affines among high caste hindu in the Nepalese hill area. In K.  Seeland (Ed.), &lt;em&gt;Schriftenreihe Internationales Asienforum ; 3&lt;/em&gt;&lt;em&gt;. Recent research on Nepal&lt;/em&gt; (pp. 25-48). München: Weltforum-Verlag.&lt;/div&gt;</apa_indent>
+<mla>Pfaff-Czarnecka, Joanna. “Status of affines among high caste hindu in the Nepalese hill area”. &lt;em&gt;Recent research on Nepal&lt;/em&gt;. Ed. Klaus Seeland. München: Weltforum-Verlag, 1986. Schriftenreihe Internationales Asienforum ; 3. 25-48.</mla>
+<lncs>Pfaff-Czarnecka, J.: Status of affines among high caste hindu in the Nepalese hill area. In: Seeland, K. (ed.) Recent research on Nepal. Schriftenreihe Internationales Asienforum ; 3. p. 25-48. Weltforum-Verlag, München (1986).</lncs>
+<ieee>J. Pfaff-Czarnecka, “Status of affines among high caste hindu in the Nepalese hill area”, &lt;em&gt;Recent research on Nepal&lt;/em&gt;, K. Seeland, ed., Schriftenreihe Internationales Asienforum ; 3,  München: Weltforum-Verlag, 1986,  pp.25-48.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Pfaff-Czarnecka, Joanna. 1986. “Status of affines among high caste hindu in the Nepalese hill area”. In &lt;em&gt;Recent research on Nepal&lt;/em&gt;, ed. Klaus Seeland, 25-48. Schriftenreihe Internationales Asienforum ; 3. München: Weltforum-Verlag.&lt;/div&gt;</chicago>
+<frontiers>Pfaff-Czarnecka, J. (1986). “Status of affines among high caste hindu in the Nepalese hill area” in &lt;em&gt;Recent research on Nepal&lt;/em&gt;, ed. K.  Seeland Schriftenreihe Internationales Asienforum ; 3 (München: Weltforum-Verlag), 25-48.</frontiers>
+<apa>Pfaff-Czarnecka, J. (1986). Status of affines among high caste hindu in the Nepalese hill area. In K.  Seeland (Ed.), &lt;em&gt;Schriftenreihe Internationales Asienforum ; 3&lt;/em&gt;&lt;em&gt;. Recent research on Nepal&lt;/em&gt; (pp. 25-48). München: Weltforum-Verlag.</apa>
+<angewandte-chemie>J.  Pfaff-Czarnecka, in &lt;em&gt;Recent research on Nepal&lt;/em&gt; (Ed.: K. Seeland), Weltforum-Verlag, München, &lt;strong&gt;1986&lt;/strong&gt;, p. 25-48.</angewandte-chemie>
+<bio1>Pfaff-Czarnecka J (1986) &lt;br /&gt;Status of affines among high caste hindu in the Nepalese hill area. &lt;br /&gt;In:  Recent research on Nepal. Seeland K (Ed); Schriftenreihe Internationales Asienforum ; 3,  München: Weltforum-Verlag:  25-48.</bio1>
+<aps>J.  Pfaff-Czarnecka, Status of affines among high caste hindu in the Nepalese hill area, in &lt;em&gt;Recent research on Nepal&lt;/em&gt;, edited by K.  Seeland, Schriftenreihe Internationales Asienforum ; 3 (Weltforum-Verlag, München, 1986), p. 25-48.</aps>
+<ama>Pfaff-Czarnecka J. Status of affines among high caste hindu in the Nepalese hill area. In: Seeland K, ed. &lt;em&gt;Recent research on Nepal&lt;/em&gt;. Schriftenreihe Internationales Asienforum ; 3. München: Weltforum-Verlag;  1986: 25-48.</ama>
+<harvard1>Pfaff-Czarnecka, J., 1986. Status of affines among high caste hindu in the Nepalese hill area. In K.  Seeland, ed. &lt;em&gt;Recent research on Nepal&lt;/em&gt;. Schriftenreihe Internationales Asienforum ; 3.  München: Weltforum-Verlag, pp. 25-48.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Pfaff-Czarnecka, J. (1986). Status of affines among high caste hindu in the Nepalese hill area (Schriftenreihe Internationales Asienforum ; 3). &lt;em&gt;Recent research on Nepal&lt;/em&gt; (S. 25-48). München: Weltforum-Verlag.&lt;/div&gt;</dgps>
+<default>Pfaff-Czarnecka J (1986)  &lt;br /&gt;In:  Recent research on Nepal. Seeland K (Ed); Schriftenreihe Internationales Asienforum ; 3, . München: Weltforum-Verlag:  25-48.</default>
+<wels>Pfaff-Czarnecka, J. (1986): Status of affines among high caste hindu in the Nepalese hill area. In: Klaus Seeland (Hrsg.):  Recent research on Nepal. München: Weltforum-Verlag. (Schriftenreihe Internationales Asienforum ; 3, ).  S. 25-48.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781219</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781219</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781219</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

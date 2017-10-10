@@ -1,0 +1,97 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>encyclopaedia entry</genre>
+
+<titleInfo><title>Herhaus, Ernst</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Walter</namePart>
+  <namePart type="family">Kummerow</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Torsten</namePart>
+  <namePart type="family">Voß</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">136590</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Wilhelm</namePart><namePart type="family">Kühlmann</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10019</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>de Gruyter</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Killy-Literaturlexikon. Autoren und Werke des deutschsprachigen Kulturraumes</title></titleInfo>
+  <identifier type="isbn">978-3-11-021392-8</identifier>
+  <identifier type="isbn">978-3-11-021391-1</identifier>
+<part><detail type="volume"><number>5</number></detail>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>W. Kummerow and T. Voß, “Herhaus, Ernst”, &lt;em&gt;Killy-Literaturlexikon. Autoren und Werke des deutschsprachigen Kulturraumes&lt;/em&gt;, W. Kühlmann, ed., vol. 5, 2., vollst. überarb. Aufl.,  Berlin, New York: de Gruyter, 2009.</ieee>
+<lncs>Kummerow, W., Voß, T.: Herhaus, Ernst. In: Kühlmann, W. (ed.) Killy-Literaturlexikon. Autoren und Werke des deutschsprachigen Kulturraumes. 5, 2., vollst. überarb. Aufl.  de Gruyter, Berlin, New York (2009).</lncs>
+<mla>Kummerow, Walter, and Voß, Torsten. “Herhaus, Ernst”. &lt;em&gt;Killy-Literaturlexikon. Autoren und Werke des deutschsprachigen Kulturraumes&lt;/em&gt;. Ed. Wilhelm Kühlmann. 2., vollst. überarb. Aufl. Berlin, New York: de Gruyter, 2009.Vol. 5.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kummerow, W., &amp;amp; Voß, T. (2009). Herhaus, Ernst. In W.  Kühlmann (Ed.), &lt;em&gt;Killy-Literaturlexikon. Autoren und Werke des deutschsprachigen Kulturraumes&lt;/em&gt; (2., vollst. überarb. Aufl., Vol. 5). Berlin, New York: de Gruyter.&lt;/div&gt;</apa_indent>
+<apa>Kummerow, W., &amp;amp; Voß, T. (2009). Herhaus, Ernst. In W.  Kühlmann (Ed.), &lt;em&gt;Killy-Literaturlexikon. Autoren und Werke des deutschsprachigen Kulturraumes&lt;/em&gt; (2., vollst. überarb. Aufl., Vol. 5). Berlin, New York: de Gruyter.</apa>
+<angewandte-chemie>W.  Kummerow, and T.  Voß, in &lt;em&gt;Killy-Literaturlexikon. Autoren und Werke des deutschsprachigen Kulturraumes&lt;/em&gt; (Ed.: W. Kühlmann), De Gruyter, Berlin, New York, &lt;strong&gt;2009&lt;/strong&gt;.</angewandte-chemie>
+<frontiers>Kummerow, W., and Voß, T. (2009). “Herhaus, Ernst” in &lt;em&gt;Killy-Literaturlexikon. Autoren und Werke des deutschsprachigen Kulturraumes&lt;/em&gt;, ed. W.  Kühlmann, vol. 5, 2., vollst. überarb. Aufl. (Berlin, New York: de Gruyter).</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kummerow, Walter, and Voß, Torsten. 2009. “Herhaus, Ernst”. In &lt;em&gt;Killy-Literaturlexikon. Autoren und Werke des deutschsprachigen Kulturraumes&lt;/em&gt;, ed. Wilhelm Kühlmann, 2., vollst. überarb. Aufl. Vol. 5. Berlin, New York: de Gruyter.&lt;/div&gt;</chicago>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kummerow, W. &amp;amp; Voß, T. (2009). Herhaus, Ernst. &lt;em&gt;Killy-Literaturlexikon. Autoren und Werke des deutschsprachigen Kulturraumes&lt;/em&gt; (2., vollst. überarb. Aufl.). Berlin, New York: de Gruyter.&lt;/div&gt;</dgps>
+<ama>Kummerow W, Voß T. Herhaus, Ernst. In: Kühlmann W, ed. &lt;em&gt;Killy-Literaturlexikon. Autoren und Werke des deutschsprachigen Kulturraumes&lt;/em&gt;. Vol 5. 2., vollst. überarb. Aufl. Berlin, New York: de Gruyter;  2009.</ama>
+<harvard1>Kummerow, W., &amp;amp; Voß, T., 2009. Herhaus, Ernst. In W.  Kühlmann, ed. &lt;em&gt;Killy-Literaturlexikon. Autoren und Werke des deutschsprachigen Kulturraumes&lt;/em&gt;. no.5 2., vollst. überarb. Aufl.  Berlin, New York: de Gruyter.</harvard1>
+<bio1>Kummerow W, Voß T (2009) &lt;br /&gt;Herhaus, Ernst. &lt;br /&gt;In:  Killy-Literaturlexikon. Autoren und Werke des deutschsprachigen Kulturraumes. Kühlmann W (Ed);5. 2., vollst. überarb. Aufl. Berlin, New York: de Gruyter.</bio1>
+<aps>W.  Kummerow and T.  Voß, Herhaus, Ernst, in &lt;em&gt;Killy-Literaturlexikon. Autoren und Werke des deutschsprachigen Kulturraumes&lt;/em&gt;, edited by W.  Kühlmann, &lt;strong&gt;5&lt;/strong&gt;, 2., vollst. überarb. Aufl. (de Gruyter, Berlin, New York, 2009).</aps>
+<wels>Kummerow, W.; Voß, T. (2009): Herhaus, Ernst. In: Wilhelm Kühlmann (Hrsg.):  Killy-Literaturlexikon. Autoren und Werke des deutschsprachigen Kulturraumes. 2., vollst. überarb. Aufl. Berlin, New York: de Gruyter. (5).</wels>
+<default>Kummerow W, Voß T (2009)  &lt;br /&gt;In:  Killy-Literaturlexikon. Autoren und Werke des deutschsprachigen Kulturraumes. Kühlmann W (Ed);5 2., vollst. überarb. Aufl. Berlin, New York: de Gruyter.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1859753</recordIdentifier><recordCreationDate encoding="w3cdtf">2016-02-04T14:51:30Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-02-04T14:51:30Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1859753</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1859753</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

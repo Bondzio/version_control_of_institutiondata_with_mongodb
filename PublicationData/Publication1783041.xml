@@ -1,0 +1,113 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Electron spin polarization in field emission: calculation of the effects due to external fields</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Wolfgang</namePart>
+  <namePart type="family">Eckstein</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Norbert</namePart>
+  <namePart type="family">Müller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">74650</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Lehrstuhl für Molekül- und Oberflächenphysik</namePart>
+  <identifier type="unibi">29133467</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Centrum für Biotechnologie</namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">In field emission experiments with spin polarized electrons a magnetic field is superposed on the electric emission field to define the preferred spin direction. The motion of the polarization vector in these fields was calculated for rays emanating from individual points of the emitter by integrating the equation of motion and taking into account relativistic terms. There is a slight shift of the polarization vector from its initial direction. If the initial polarization is aligned with the magnetic field and the emission tip is sufficiently well centred in the magnetic field, the tilting of the polarization vector for a beam of electrons starting not too far from the tip apex is less than 10 0</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="mueller_04.pdf">https://pub.uni-bielefeld.de/download/1783041/2314109</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1975</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>Field emission of electrons</topic><topic>electron spin polarization</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Applied Physics,  A: Materials Science and Processing</title></titleInfo>
+  <identifier type="issn">0340-3793</identifier>
+  <identifier type="eIssn">1432-0649</identifier>
+  <identifier type="ISI">A1975V426600010</identifier><identifier type="urn">urn:nbn:de:0070-pub-17830411</identifier><identifier type="doi">10.1007/BF00883552</identifier>
+<part><detail type="volume"><number>6</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">71-77</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Eckstein, Wolfgang, and Müller, Norbert. 1975. “Electron spin polarization in field emission: calculation of the effects due to external fields”. &lt;em&gt;Applied Physics,  A: Materials Science and Processing&lt;/em&gt; 6 (1): 71-77.&lt;/div&gt;</chicago>
+<frontiers>Eckstein, W., and Müller, N. (1975). Electron spin polarization in field emission: calculation of the effects due to external fields. &lt;em&gt;Applied Physics,  A: Materials Science and Processing&lt;/em&gt; 6, 71-77.</frontiers>
+<angewandte-chemie>W.  Eckstein, and N.  Müller, “Electron spin polarization in field emission: calculation of the effects due to external fields”, &lt;em&gt;Applied Physics,  A: Materials Science and Processing&lt;/em&gt;, &lt;strong&gt;1975&lt;/strong&gt;, &lt;em&gt;6&lt;/em&gt;, 71-77.</angewandte-chemie>
+<apa>Eckstein, W., &amp;amp; Müller, N. (1975). Electron spin polarization in field emission: calculation of the effects due to external fields. &lt;em&gt;Applied Physics,  A: Materials Science and Processing&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;(1), 71-77.</apa>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Eckstein, W., &amp;amp; Müller, N. (1975). Electron spin polarization in field emission: calculation of the effects due to external fields. &lt;em&gt;Applied Physics,  A: Materials Science and Processing&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;(1), 71-77.&lt;/div&gt;</apa_indent>
+<lncs>Eckstein, W., Müller, N.: Electron spin polarization in field emission: calculation of the effects due to external fields. Applied Physics,  A: Materials Science and Processing. 6, 71-77 (1975).</lncs>
+<mla>Eckstein, Wolfgang, and Müller, Norbert. “Electron spin polarization in field emission: calculation of the effects due to external fields”. &lt;em&gt;Applied Physics,  A: Materials Science and Processing&lt;/em&gt; 6.1 (1975): 71-77.</mla>
+<ieee>W. Eckstein and N. Müller, “Electron spin polarization in field emission: calculation of the effects due to external fields”, &lt;em&gt;Applied Physics,  A: Materials Science and Processing&lt;/em&gt;,  vol. 6, 1975,  pp. 71-77.</ieee>
+<default>Eckstein W, Müller N (1975) &lt;br /&gt;Applied Physics,  A: Materials Science and Processing 6(1): 71-77.</default>
+<wels>Eckstein, W.; Müller, N. (1975): Electron spin polarization in field emission: calculation of the effects due to external fields &lt;em&gt;Applied Physics,  A: Materials Science and Processing&lt;/em&gt;,6:(1): 71-77.</wels>
+<bio1>Eckstein W, Müller N (1975) &lt;br /&gt;Electron spin polarization in field emission: calculation of the effects due to external fields.&lt;br /&gt;Applied Physics,  A: Materials Science and Processing 6(1): 71-77.</bio1>
+<aps>W.  Eckstein and N.  Müller, Electron spin polarization in field emission: calculation of the effects due to external fields, Applied Physics,  A: Materials Science and Processing &lt;strong&gt;6&lt;/strong&gt;, 71-77 (1975).</aps>
+<ama>Eckstein W, Müller N. Electron spin polarization in field emission: calculation of the effects due to external fields. &lt;em&gt;Applied Physics,  A: Materials Science and Processing&lt;/em&gt;. 1975;6(1):71-77.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Eckstein, W. &amp;amp; Müller, N. (1975). Electron spin polarization in field emission: calculation of the effects due to external fields. &lt;em&gt;Applied Physics,  A: Materials Science and Processing&lt;/em&gt;, &lt;em&gt;6&lt;/em&gt;(1), 71-77. doi:10.1007/BF00883552.&lt;/div&gt;</dgps>
+<harvard1>Eckstein, W., &amp;amp; Müller, N., 1975. Electron spin polarization in field emission: calculation of the effects due to external fields. &lt;em&gt;Applied Physics,  A: Materials Science and Processing&lt;/em&gt;, 6(1), p 71-77.</harvard1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1783041</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1783041</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1783041</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

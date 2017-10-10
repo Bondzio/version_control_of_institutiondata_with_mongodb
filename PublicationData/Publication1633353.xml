@@ -1,0 +1,115 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Quantum Dot Triexciton Imaging with Three-Dimensional Subdiffraction Resolution</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Simon</namePart>
+  <namePart type="family">Hennig</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">6264461</identifier></name>
+<name type="personal">
+  <namePart type="given">Sebastian</namePart>
+  <namePart type="family">van de Linde</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">4886892</identifier></name>
+<name type="personal">
+  <namePart type="given">Mike</namePart>
+  <namePart type="family">Heilemann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">4939957</identifier></name>
+<name type="personal">
+  <namePart type="given">Markus</namePart>
+  <namePart type="family">Sauer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">177825</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2161137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We describe a simple method that improves optical resolution in fluorescence microscopy approximately 1.7-fold in all three dimensions and can be implemented on any basic confocal scanning microscope. This approach is based on three-photon absorption of commercially available quantum dots generating a triple exciton (triexciton) and subsequent blue-shifted fluorescence emission following recombination of the triexciton. As a pure physical approach, the resolution enhancement is independent from the nanoenvironment and demonstrated to work in living cells.</abstract>
+
+<originInfo><publisher>American Chemical Society (ACS)</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Nano Letters</title></titleInfo>
+  <identifier type="issn">1530-6984</identifier>
+  <identifier type="eIssn">1530-6992</identifier>
+  <identifier type="MEDLINE">19453186</identifier>
+  <identifier type="ISI">000266969400049</identifier><identifier type="doi">10.1021/nl9012387</identifier>
+<part><detail type="volume"><number>9</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">2466-2470</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hennig, S., van de Linde, S., Heilemann, M., &amp;amp; Sauer, M. (2009). Quantum Dot Triexciton Imaging with Three-Dimensional Subdiffraction Resolution. &lt;em&gt;Nano Letters&lt;/em&gt;, &lt;em&gt;9&lt;/em&gt;(6), 2466-2470.&lt;/div&gt;</apa_indent>
+<ieee> S. Hennig, et al., “Quantum Dot Triexciton Imaging with Three-Dimensional Subdiffraction Resolution”, &lt;em&gt;Nano Letters&lt;/em&gt;,  vol. 9, 2009,  pp. 2466-2470.</ieee>
+<lncs> Hennig, S., van de Linde, S., Heilemann, M., Sauer, M.: Quantum Dot Triexciton Imaging with Three-Dimensional Subdiffraction Resolution. Nano Letters. 9, 2466-2470 (2009).</lncs>
+<mla>Hennig, Simon, van de Linde, Sebastian, Heilemann, Mike, and Sauer, Markus. “Quantum Dot Triexciton Imaging with Three-Dimensional Subdiffraction Resolution”. &lt;em&gt;Nano Letters&lt;/em&gt; 9.6 (2009): 2466-2470.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hennig, Simon, van de Linde, Sebastian, Heilemann, Mike, and Sauer, Markus. 2009. “Quantum Dot Triexciton Imaging with Three-Dimensional Subdiffraction Resolution”. &lt;em&gt;Nano Letters&lt;/em&gt; 9 (6): 2466-2470.&lt;/div&gt;</chicago>
+<angewandte-chemie>S.  Hennig, S.  van de Linde, M.  Heilemann, and M.  Sauer, “Quantum Dot Triexciton Imaging with Three-Dimensional Subdiffraction Resolution”, &lt;em&gt;Nano Letters&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;9&lt;/em&gt;, 2466-2470.</angewandte-chemie>
+<apa>Hennig, S., van de Linde, S., Heilemann, M., &amp;amp; Sauer, M. (2009). Quantum Dot Triexciton Imaging with Three-Dimensional Subdiffraction Resolution. &lt;em&gt;Nano Letters&lt;/em&gt;, &lt;em&gt;9&lt;/em&gt;(6), 2466-2470.</apa>
+<frontiers>Hennig, S., van de Linde, S., Heilemann, M., and Sauer, M. (2009). Quantum Dot Triexciton Imaging with Three-Dimensional Subdiffraction Resolution. &lt;em&gt;Nano Letters&lt;/em&gt; 9, 2466-2470.</frontiers>
+<ama>Hennig S, van de Linde S, Heilemann M, Sauer M. Quantum Dot Triexciton Imaging with Three-Dimensional Subdiffraction Resolution. &lt;em&gt;Nano Letters&lt;/em&gt;. 2009;9(6):2466-2470.</ama>
+<harvard1>Hennig, S., et al., 2009. Quantum Dot Triexciton Imaging with Three-Dimensional Subdiffraction Resolution. &lt;em&gt;Nano Letters&lt;/em&gt;, 9(6), p 2466-2470.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Hennig, S., van de Linde, S., Heilemann, M. &amp;amp; Sauer, M. (2009). Quantum Dot Triexciton Imaging with Three-Dimensional Subdiffraction Resolution. &lt;em&gt;Nano Letters&lt;/em&gt;, &lt;em&gt;9&lt;/em&gt;(6), 2466-2470. American Chemical Society (ACS). doi:10.1021/nl9012387.&lt;/div&gt;</dgps>
+<bio1>Hennig S, van de Linde S, Heilemann M, Sauer M (2009) &lt;br /&gt;Quantum Dot Triexciton Imaging with Three-Dimensional Subdiffraction Resolution.&lt;br /&gt;Nano Letters 9(6): 2466-2470.</bio1>
+<aps> S.  Hennig, et al., Quantum Dot Triexciton Imaging with Three-Dimensional Subdiffraction Resolution, Nano Letters &lt;strong&gt;9&lt;/strong&gt;, 2466-2470 (2009).</aps>
+<wels>Hennig, S.; van de Linde, S.; Heilemann, M.; Sauer, M. (2009): Quantum Dot Triexciton Imaging with Three-Dimensional Subdiffraction Resolution &lt;em&gt;Nano Letters&lt;/em&gt;,9:(6): 2466-2470.</wels>
+<default>Hennig S, van de Linde S, Heilemann M, Sauer M (2009) &lt;br /&gt;Nano Letters 9(6): 2466-2470.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1633353</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:06:53Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-07T07:56:34Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1633353</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1633353</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

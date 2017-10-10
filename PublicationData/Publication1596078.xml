@@ -1,0 +1,108 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Dynamics of unfolded polypeptide chains in crowded environment studied by fluorescence correlation spectroscopy</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Hannes</namePart>
+  <namePart type="family">Neuweiler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Marc</namePart>
+  <namePart type="family">Löllmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">166616</identifier></name>
+<name type="personal">
+  <namePart type="given">Soren</namePart>
+  <namePart type="family">Doose</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Markus</namePart>
+  <namePart type="family">Sauer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">177825</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Proteins have evolved to fold and function within a cellular environment that is characterized by high macromolecular content. The earliest step of protein folding represents intrachain contact formation of amino acid residues within an unfolded polypeptide chain. It has been proposed that macromolecular crowding can have significant effects on rates and equilibria of biomolecular processes. However, the kinetic consequences on intrachain diffusion of polypeptides, have not been tested experimentally, yet. Here, we demonstrate that selective fluorescence quenching of the oxazine fluorophore MR121 by the amino acid tryptophan (Trp) in combination with fast fluorescence correlation spectroscopy (FCS) can be used to monitor end-to-end contact formation rates of unfolded polypeptide chains. MR121 and Trp were incorporated at the terminal ends of polypeptides. consisting of repetitive units of glycine (G) and serine (S) residues. End-to-end contact formation and dissociation result in &quot;off&quot; and &quot;on&quot; switching of MR121 fluorescence and underlying kinetics can be revealed in FCS experiments with nanosecond time resolution. We revisit previous experimental studies concerning the dependence of end-to-end contact formation rates on polypeptide chain length, showing that kinetics can be described by Gaussian chain theory. We further investigate effects of solvent viscosity and temperature on contact formation rates demonstrating that intrachain diffusion represents a purely diffusive, entropy-controlled process. Finally, we study the influence of macromolecular crowding on polypepticle chain dynamics. The data presented demonstrate that intrachain diffusion is fast in spite of hindered diffusion caused by repulsive interactions with macromolecules. Findings can be explained by effects of excluded volume reducing chain entropy and therefore accelerating the loop search process. Our results suggest that within a cellular environment the early formation of structural elements in k unfolded proteins can still proceed quite efficiently in spite of hindered L diffusion caused by high macromolecular content. (c) 2006 Elsevier Ltd. All rights reserved.</abstract>
+
+<originInfo><publisher>ACADEMIC PRESS LTD ELSEVIER SCIENCE LTD</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>unfolded polypeptides</topic><topic>molecular crowding</topic><topic>fluorescence quenching</topic><topic>fluorescence correlation spectroscopy</topic><topic>intrachain diffusion</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF MOLECULAR BIOLOGY</title></titleInfo>
+  <identifier type="issn">0022-2836</identifier>
+  <identifier type="MEDLINE">17084857</identifier>
+  <identifier type="ISI">000243561500028</identifier><identifier type="doi">10.1016/j.jmb.2006.10.021</identifier>
+<part><detail type="volume"><number>365</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">856-869</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Neuweiler H, Löllmann M, Doose S, Sauer M (2007) &lt;br /&gt;JOURNAL OF MOLECULAR BIOLOGY 365(3): 856-869.</default>
+<wels>Neuweiler, H.; Löllmann, M.; Doose, S.; Sauer, M. (2007): Dynamics of unfolded polypeptide chains in crowded environment studied by fluorescence correlation spectroscopy &lt;em&gt;JOURNAL OF MOLECULAR BIOLOGY&lt;/em&gt;,365:(3): 856-869.</wels>
+<bio1>Neuweiler H, Löllmann M, Doose S, Sauer M (2007) &lt;br /&gt;Dynamics of unfolded polypeptide chains in crowded environment studied by fluorescence correlation spectroscopy.&lt;br /&gt;JOURNAL OF MOLECULAR BIOLOGY 365(3): 856-869.</bio1>
+<aps> H.  Neuweiler, et al., Dynamics of unfolded polypeptide chains in crowded environment studied by fluorescence correlation spectroscopy, JOURNAL OF MOLECULAR BIOLOGY &lt;strong&gt;365&lt;/strong&gt;, 856-869 (2007).</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neuweiler, H., Löllmann, M., Doose, S. &amp;amp; Sauer, M. (2007). Dynamics of unfolded polypeptide chains in crowded environment studied by fluorescence correlation spectroscopy. &lt;em&gt;JOURNAL OF MOLECULAR BIOLOGY&lt;/em&gt;, &lt;em&gt;365&lt;/em&gt;(3), 856-869. ACADEMIC PRESS LTD ELSEVIER SCIENCE LTD. doi:10.1016/j.jmb.2006.10.021.&lt;/div&gt;</dgps>
+<harvard1>Neuweiler, H., et al., 2007. Dynamics of unfolded polypeptide chains in crowded environment studied by fluorescence correlation spectroscopy. &lt;em&gt;JOURNAL OF MOLECULAR BIOLOGY&lt;/em&gt;, 365(3), p 856-869.</harvard1>
+<ama>Neuweiler H, Löllmann M, Doose S, Sauer M. Dynamics of unfolded polypeptide chains in crowded environment studied by fluorescence correlation spectroscopy. &lt;em&gt;JOURNAL OF MOLECULAR BIOLOGY&lt;/em&gt;. 2007;365(3):856-869.</ama>
+<frontiers>Neuweiler, H., Löllmann, M., Doose, S., and Sauer, M. (2007). Dynamics of unfolded polypeptide chains in crowded environment studied by fluorescence correlation spectroscopy. &lt;em&gt;JOURNAL OF MOLECULAR BIOLOGY&lt;/em&gt; 365, 856-869.</frontiers>
+<apa>Neuweiler, H., Löllmann, M., Doose, S., &amp;amp; Sauer, M. (2007). Dynamics of unfolded polypeptide chains in crowded environment studied by fluorescence correlation spectroscopy. &lt;em&gt;JOURNAL OF MOLECULAR BIOLOGY&lt;/em&gt;, &lt;em&gt;365&lt;/em&gt;(3), 856-869.</apa>
+<angewandte-chemie>H.  Neuweiler, M.  Löllmann, S.  Doose, and M.  Sauer, “Dynamics of unfolded polypeptide chains in crowded environment studied by fluorescence correlation spectroscopy”, &lt;em&gt;JOURNAL OF MOLECULAR BIOLOGY&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;365&lt;/em&gt;, 856-869.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neuweiler, Hannes, Löllmann, Marc, Doose, Soren, and Sauer, Markus. 2007. “Dynamics of unfolded polypeptide chains in crowded environment studied by fluorescence correlation spectroscopy”. &lt;em&gt;JOURNAL OF MOLECULAR BIOLOGY&lt;/em&gt; 365 (3): 856-869.&lt;/div&gt;</chicago>
+<lncs> Neuweiler, H., Löllmann, M., Doose, S., Sauer, M.: Dynamics of unfolded polypeptide chains in crowded environment studied by fluorescence correlation spectroscopy. JOURNAL OF MOLECULAR BIOLOGY. 365, 856-869 (2007).</lncs>
+<mla>Neuweiler, Hannes, Löllmann, Marc, Doose, Soren, and Sauer, Markus. “Dynamics of unfolded polypeptide chains in crowded environment studied by fluorescence correlation spectroscopy”. &lt;em&gt;JOURNAL OF MOLECULAR BIOLOGY&lt;/em&gt; 365.3 (2007): 856-869.</mla>
+<ieee> H. Neuweiler, et al., “Dynamics of unfolded polypeptide chains in crowded environment studied by fluorescence correlation spectroscopy”, &lt;em&gt;JOURNAL OF MOLECULAR BIOLOGY&lt;/em&gt;,  vol. 365, 2007,  pp. 856-869.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neuweiler, H., Löllmann, M., Doose, S., &amp;amp; Sauer, M. (2007). Dynamics of unfolded polypeptide chains in crowded environment studied by fluorescence correlation spectroscopy. &lt;em&gt;JOURNAL OF MOLECULAR BIOLOGY&lt;/em&gt;, &lt;em&gt;365&lt;/em&gt;(3), 856-869.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1596078</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:56Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-18T09:26:24Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1596078</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1596078</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

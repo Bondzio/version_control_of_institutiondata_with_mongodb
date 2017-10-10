@@ -1,0 +1,112 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Methods for automatic microarray image segmentation</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Mathias</namePart>
+  <namePart type="family">Katzer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Franz</namePart>
+  <namePart type="family">Kummert</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10372</identifier></name>
+<name type="personal">
+  <namePart type="given">Gerhard</namePart>
+  <namePart type="family">Sagerer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10375</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Research Institute for Cognition and Robotics</namePart>
+  <identifier type="unibi">5408013</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Angewandte Informatik</namePart>
+  <identifier type="unibi">18304588</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">This paper describes image processing methods for automatic spotted microarray image analysis. Automatic gridding is important to achieve constant data quality and is, therefore, especially interesting for large-scale experiments as well as for integration of microarray expression data from different sources. We propose a Markov random field (MRF) based approach to high-level grid segmentation, which is robust to common problems encountered with array images and does not require calibration. We also propose an active contour method for single-spot segmentation. Active contour models describe objects in images by properties of their boundaries. Both MRFs and active contour models have been used in various other computer vision applications. The traditional active contour model must be generalized for successful application to microarray spot segmentation. Our active contour model is employed for spot detection in the MRF score functions as well as for spot signal segmentation in quantitative array image analysis. An evaluation using several image series from different sources shows the robustness of our methods.</abstract>
+
+<originInfo><publisher>IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC</publisher><dateIssued encoding="w3cdtf">2003</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>microarrays</topic><topic>active contour models</topic><topic>Markov random fields</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>IEEE Transactions on Nanobioscience</title></titleInfo>
+  <identifier type="issn">1536-1241</identifier>
+  <identifier type="MEDLINE">15376910</identifier>
+  <identifier type="ISI">000189392900006</identifier><identifier type="doi">10.1109/TNB.2003.817023</identifier>
+<part><detail type="volume"><number>2</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">202-214</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Katzer, Mathias, Kummert, Franz, and Sagerer, Gerhard. 2003. “Methods for automatic microarray image segmentation”. &lt;em&gt;IEEE Transactions on Nanobioscience&lt;/em&gt; 2 (4): 202-214.&lt;/div&gt;</chicago>
+<angewandte-chemie>M.  Katzer, F.  Kummert, and G.  Sagerer, “Methods for automatic microarray image segmentation”, &lt;em&gt;IEEE Transactions on Nanobioscience&lt;/em&gt;, &lt;strong&gt;2003&lt;/strong&gt;, &lt;em&gt;2&lt;/em&gt;, 202-214.</angewandte-chemie>
+<apa>Katzer, M., Kummert, F., &amp;amp; Sagerer, G. (2003). Methods for automatic microarray image segmentation. &lt;em&gt;IEEE Transactions on Nanobioscience&lt;/em&gt;, &lt;em&gt;2&lt;/em&gt;(4), 202-214.</apa>
+<frontiers>Katzer, M., Kummert, F., and Sagerer, G. (2003). Methods for automatic microarray image segmentation. &lt;em&gt;IEEE Transactions on Nanobioscience&lt;/em&gt; 2, 202-214.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Katzer, M., Kummert, F., &amp;amp; Sagerer, G. (2003). Methods for automatic microarray image segmentation. &lt;em&gt;IEEE Transactions on Nanobioscience&lt;/em&gt;, &lt;em&gt;2&lt;/em&gt;(4), 202-214.&lt;/div&gt;</apa_indent>
+<ieee>M. Katzer, F. Kummert, and G. Sagerer, “Methods for automatic microarray image segmentation”, &lt;em&gt;IEEE Transactions on Nanobioscience&lt;/em&gt;,  vol. 2, 2003,  pp. 202-214.</ieee>
+<mla>Katzer, Mathias, Kummert, Franz, and Sagerer, Gerhard. “Methods for automatic microarray image segmentation”. &lt;em&gt;IEEE Transactions on Nanobioscience&lt;/em&gt; 2.4 (2003): 202-214.</mla>
+<lncs>Katzer, M., Kummert, F., Sagerer, G.: Methods for automatic microarray image segmentation. IEEE Transactions on Nanobioscience. 2, 202-214 (2003).</lncs>
+<wels>Katzer, M.; Kummert, F.; Sagerer, G. (2003): Methods for automatic microarray image segmentation &lt;em&gt;IEEE Transactions on Nanobioscience&lt;/em&gt;,2:(4): 202-214.</wels>
+<default>Katzer M, Kummert F, Sagerer G (2003) &lt;br /&gt;IEEE Transactions on Nanobioscience 2(4): 202-214.</default>
+<harvard1>Katzer, M., Kummert, F., &amp;amp; Sagerer, G., 2003. Methods for automatic microarray image segmentation. &lt;em&gt;IEEE Transactions on Nanobioscience&lt;/em&gt;, 2(4), p 202-214.</harvard1>
+<ama>Katzer M, Kummert F, Sagerer G. Methods for automatic microarray image segmentation. &lt;em&gt;IEEE Transactions on Nanobioscience&lt;/em&gt;. 2003;2(4):202-214.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Katzer, M., Kummert, F. &amp;amp; Sagerer, G. (2003). Methods for automatic microarray image segmentation. &lt;em&gt;IEEE Transactions on Nanobioscience&lt;/em&gt;, &lt;em&gt;2&lt;/em&gt;(4), 202-214. IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC. doi:10.1109/TNB.2003.817023.&lt;/div&gt;</dgps>
+<bio1>Katzer M, Kummert F, Sagerer G (2003) &lt;br /&gt;Methods for automatic microarray image segmentation.&lt;br /&gt;IEEE Transactions on Nanobioscience 2(4): 202-214.</bio1>
+<aps>M.  Katzer, F.  Kummert, and G.  Sagerer, Methods for automatic microarray image segmentation, IEEE Transactions on Nanobioscience &lt;strong&gt;2&lt;/strong&gt;, 202-214 (2003).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1608553</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:57:55Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2013-06-27T09:23:47Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1608553</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1608553</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

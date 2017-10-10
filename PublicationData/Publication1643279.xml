@@ -1,0 +1,107 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>AB-INITIO RESULTS OF ADIABATIC STABILITY OF THE HYDROGEN-ATOM</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">L</namePart>
+  <namePart type="family">DIMOU</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Farhard</namePart>
+  <namePart type="family">Faisal</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40255</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Theoretische Atom-, Molekül- und Laserphysik</namePart>
+  <identifier type="unibi">23470672</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The Schrodinger equation of the hydrogen atom in an intense monochromatic radiation field is solved numerically exactly by applying the Floquet close-coupling method. Intensity dependence of the rates of ionization in the region of adiabatic stability is determined. Their dependence on the principal quantum number, on the angular momentum, and on the magnetic quantum number is investigated at lambda = 1064, 620, and 248 nm. The calculated critical parameters show good agreement with the independent calculations of Potvliege and Smith [Phys. Rev. A 48, R46 (1993)]; those for the hydrogenic 5g circular state are consistent with the results of the first observation of stability in the Ne atom by de Boer et al. [Phys. Rev. Lett. 71, 3263 (1993)]. In connection with the ongoing experiments in the H atom, these parameters and the calculated ionization rates in the stability region can provide stringent quantitative tests of the basic Floquet ansatz, which underlies a wide class of ab initio theories of matter-light interaction.</abstract>
+
+<originInfo><publisher>AMERICAN PHYSICAL SOC</publisher><dateIssued encoding="w3cdtf">1994</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>PHYSICAL REVIEW A</title></titleInfo>
+  <identifier type="issn">1050-2947</identifier>
+  <identifier type="eIssn">1094-1622</identifier>
+  <identifier type="MEDLINE">9910773</identifier>
+  <identifier type="ISI">A1994NT90800040</identifier><identifier type="doi">10.1103/PhysRevA.49.4564</identifier>
+<part><detail type="volume"><number>49</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">4564-4569</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>L. DIMOU and F. Faisal, “AB-INITIO RESULTS OF ADIABATIC STABILITY OF THE HYDROGEN-ATOM”, &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt;,  vol. 49, 1994,  pp. 4564-4569.</ieee>
+<mla>DIMOU, L, and Faisal, Farhard. “AB-INITIO RESULTS OF ADIABATIC STABILITY OF THE HYDROGEN-ATOM”. &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt; 49.6 (1994): 4564-4569.</mla>
+<lncs>DIMOU, L., Faisal, F.: AB-INITIO RESULTS OF ADIABATIC STABILITY OF THE HYDROGEN-ATOM. PHYSICAL REVIEW A. 49, 4564-4569 (1994).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;DIMOU, L., &amp;amp; Faisal, F. (1994). AB-INITIO RESULTS OF ADIABATIC STABILITY OF THE HYDROGEN-ATOM. &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt;, &lt;em&gt;49&lt;/em&gt;(6), 4564-4569.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>L.  DIMOU, and F.  Faisal, “AB-INITIO RESULTS OF ADIABATIC STABILITY OF THE HYDROGEN-ATOM”, &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt;, &lt;strong&gt;1994&lt;/strong&gt;, &lt;em&gt;49&lt;/em&gt;, 4564-4569.</angewandte-chemie>
+<apa>DIMOU, L., &amp;amp; Faisal, F. (1994). AB-INITIO RESULTS OF ADIABATIC STABILITY OF THE HYDROGEN-ATOM. &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt;, &lt;em&gt;49&lt;/em&gt;(6), 4564-4569.</apa>
+<frontiers>DIMOU, L., and Faisal, F. (1994). AB-INITIO RESULTS OF ADIABATIC STABILITY OF THE HYDROGEN-ATOM. &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt; 49, 4564-4569.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;DIMOU, L, and Faisal, Farhard. 1994. “AB-INITIO RESULTS OF ADIABATIC STABILITY OF THE HYDROGEN-ATOM”. &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt; 49 (6): 4564-4569.&lt;/div&gt;</chicago>
+<ama>DIMOU L, Faisal F. AB-INITIO RESULTS OF ADIABATIC STABILITY OF THE HYDROGEN-ATOM. &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt;. 1994;49(6):4564-4569.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;DIMOU, L. &amp;amp; Faisal, F. (1994). AB-INITIO RESULTS OF ADIABATIC STABILITY OF THE HYDROGEN-ATOM. &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt;, &lt;em&gt;49&lt;/em&gt;(6), 4564-4569. AMERICAN PHYSICAL SOC. doi:10.1103/PhysRevA.49.4564.&lt;/div&gt;</dgps>
+<harvard1>DIMOU, L., &amp;amp; Faisal, F., 1994. AB-INITIO RESULTS OF ADIABATIC STABILITY OF THE HYDROGEN-ATOM. &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt;, 49(6), p 4564-4569.</harvard1>
+<bio1>DIMOU L, Faisal F (1994) &lt;br /&gt;AB-INITIO RESULTS OF ADIABATIC STABILITY OF THE HYDROGEN-ATOM.&lt;br /&gt;PHYSICAL REVIEW A 49(6): 4564-4569.</bio1>
+<aps>L.  DIMOU and F.  Faisal, AB-INITIO RESULTS OF ADIABATIC STABILITY OF THE HYDROGEN-ATOM, PHYSICAL REVIEW A &lt;strong&gt;49&lt;/strong&gt;, 4564-4569 (1994).</aps>
+<wels>DIMOU, L.; Faisal, F. (1994): AB-INITIO RESULTS OF ADIABATIC STABILITY OF THE HYDROGEN-ATOM &lt;em&gt;PHYSICAL REVIEW A&lt;/em&gt;,49:(6): 4564-4569.</wels>
+<default>DIMOU L, Faisal F (1994) &lt;br /&gt;PHYSICAL REVIEW A 49(6): 4564-4569.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1643279</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:27:59Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-11-04T10:04:09Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1643279</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1643279</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,104 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Fast adaptive penalized splines</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Tatyana</namePart>
+  <namePart type="family">Krivobokova</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ciprian M.</namePart>
+  <namePart type="family">Crainiceanu</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Göran</namePart>
+  <namePart type="family">Kauermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">91009</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Wirtschaftswissenschaften</namePart>
+  <identifier type="unibi">10031</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">This article proposes a numerically simple method for locally adaptive smoothing. The heterogeneous regression function is modeled as a penalized spline with a varying smoothing parameter modeled as another penalized spline. This is formulated as a hierarchical mixed model, with spline coefficients following zero mean normal distribution with a smooth variance structure. The major contribution of this article is to use the Laplace approximation of the marginal likelihood for estimation. This method is numerically simple and fast. The idea is extended to spatial and non-normal response smoothing.</abstract>
+
+<originInfo><publisher>AMER STATISTICAL ASSOC</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>hierarchical mixed model</topic><topic>function of locally varying complexity</topic><topic>Laplace approximation</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS</title></titleInfo>
+  <identifier type="issn">1061-8600</identifier>
+  <identifier type="eIssn">1537-2715</identifier>
+  <identifier type="ISI">000254056700001</identifier><identifier type="doi">10.1198/106186008X287328</identifier>
+<part><detail type="volume"><number>17</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">1-20</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>T.  Krivobokova, C. M.  Crainiceanu, and G.  Kauermann, Fast adaptive penalized splines, JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS &lt;strong&gt;17&lt;/strong&gt;, 1-20 (2008).</aps>
+<bio1>Krivobokova T, Crainiceanu CM, Kauermann G (2008) &lt;br /&gt;Fast adaptive penalized splines.&lt;br /&gt;JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS 17(1): 1-20.</bio1>
+<ama>Krivobokova T, Crainiceanu CM, Kauermann G. Fast adaptive penalized splines. &lt;em&gt;JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS&lt;/em&gt;. 2008;17(1):1-20.</ama>
+<harvard1>Krivobokova, T., Crainiceanu, C.M., &amp;amp; Kauermann, G., 2008. Fast adaptive penalized splines. &lt;em&gt;JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS&lt;/em&gt;, 17(1), p 1-20.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Krivobokova, T., Crainiceanu, C.M. &amp;amp; Kauermann, G. (2008). Fast adaptive penalized splines. &lt;em&gt;JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS&lt;/em&gt;, &lt;em&gt;17&lt;/em&gt;(1), 1-20. AMER STATISTICAL ASSOC. doi:10.1198/106186008X287328.&lt;/div&gt;</dgps>
+<default>Krivobokova T, Crainiceanu CM, Kauermann G (2008) &lt;br /&gt;JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS 17(1): 1-20.</default>
+<wels>Krivobokova, T.; Crainiceanu, C. M.; Kauermann, G. (2008): Fast adaptive penalized splines &lt;em&gt;JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS&lt;/em&gt;,17:(1): 1-20.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Krivobokova, T., Crainiceanu, C. M., &amp;amp; Kauermann, G. (2008). Fast adaptive penalized splines. &lt;em&gt;JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS&lt;/em&gt;, &lt;em&gt;17&lt;/em&gt;(1), 1-20.&lt;/div&gt;</apa_indent>
+<mla>Krivobokova, Tatyana, Crainiceanu, Ciprian M., and Kauermann, Göran. “Fast adaptive penalized splines”. &lt;em&gt;JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS&lt;/em&gt; 17.1 (2008): 1-20.</mla>
+<lncs>Krivobokova, T., Crainiceanu, C.M., Kauermann, G.: Fast adaptive penalized splines. JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS. 17, 1-20 (2008).</lncs>
+<ieee>T. Krivobokova, C.M. Crainiceanu, and G. Kauermann, “Fast adaptive penalized splines”, &lt;em&gt;JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS&lt;/em&gt;,  vol. 17, 2008,  pp. 1-20.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Krivobokova, Tatyana, Crainiceanu, Ciprian M., and Kauermann, Göran. 2008. “Fast adaptive penalized splines”. &lt;em&gt;JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS&lt;/em&gt; 17 (1): 1-20.&lt;/div&gt;</chicago>
+<frontiers>Krivobokova, T., Crainiceanu, C. M., and Kauermann, G. (2008). Fast adaptive penalized splines. &lt;em&gt;JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS&lt;/em&gt; 17, 1-20.</frontiers>
+<angewandte-chemie>T.  Krivobokova, C. M.  Crainiceanu, and G.  Kauermann, “Fast adaptive penalized splines”, &lt;em&gt;JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS&lt;/em&gt;, &lt;strong&gt;2008&lt;/strong&gt;, &lt;em&gt;17&lt;/em&gt;, 1-20.</angewandte-chemie>
+<apa>Krivobokova, T., Crainiceanu, C. M., &amp;amp; Kauermann, G. (2008). Fast adaptive penalized splines. &lt;em&gt;JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS&lt;/em&gt;, &lt;em&gt;17&lt;/em&gt;(1), 1-20.</apa>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1592192</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T11:50:24Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-05T11:13:20Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1592192</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1592192</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

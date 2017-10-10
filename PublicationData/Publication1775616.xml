@@ -1,0 +1,102 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>A source of polarized electrons</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Günter</namePart>
+  <namePart type="family">Baum</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40173</identifier></name>
+<name type="personal">
+  <namePart type="given">U.</namePart>
+  <namePart type="family">Koch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Baum_001.pdf">https://pub.uni-bielefeld.de/download/1775616/2311969</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1969</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Nucl.Instrum.Methods</title></titleInfo>
+  <identifier type="issn">0029-554X</identifier>
+  <identifier type="INSPIRE">58073</identifier>
+  <identifier type="ISI">A1969D630300011</identifier><identifier type="urn">urn:nbn:de:0070-bipr-9461</identifier><identifier type="doi">10.1016/0029-554X(69)90011-1</identifier>
+<part><detail type="volume"><number>71</number></detail><detail type="issue"><number>2</number></detail><extent unit="pages">189-195</extent>
+</part>
+</relatedItem>
+
+<note type="nonBielefeld">yes</note>
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baum, G., &amp;amp; Koch, U. (1969). A source of polarized electrons. &lt;em&gt;Nucl.Instrum.Methods&lt;/em&gt;, &lt;em&gt;71&lt;/em&gt;(2), 189-195.&lt;/div&gt;</apa_indent>
+<ieee>G. Baum and U. Koch, “A source of polarized electrons”, &lt;em&gt;Nucl.Instrum.Methods&lt;/em&gt;,  vol. 71, 1969,  pp. 189-195.</ieee>
+<lncs>Baum, G., Koch, U.: A source of polarized electrons. Nucl.Instrum.Methods. 71, 189-195 (1969).</lncs>
+<mla>Baum, Günter, and Koch, U. “A source of polarized electrons”. &lt;em&gt;Nucl.Instrum.Methods&lt;/em&gt; 71.2 (1969): 189-195.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baum, Günter, and Koch, U. 1969. “A source of polarized electrons”. &lt;em&gt;Nucl.Instrum.Methods&lt;/em&gt; 71 (2): 189-195.&lt;/div&gt;</chicago>
+<apa>Baum, G., &amp;amp; Koch, U. (1969). A source of polarized electrons. &lt;em&gt;Nucl.Instrum.Methods&lt;/em&gt;, &lt;em&gt;71&lt;/em&gt;(2), 189-195.</apa>
+<angewandte-chemie>G.  Baum, and U.  Koch, “A source of polarized electrons”, &lt;em&gt;Nucl.Instrum.Methods&lt;/em&gt;, &lt;strong&gt;1969&lt;/strong&gt;, &lt;em&gt;71&lt;/em&gt;, 189-195.</angewandte-chemie>
+<frontiers>Baum, G., and Koch, U. (1969). A source of polarized electrons. &lt;em&gt;Nucl.Instrum.Methods&lt;/em&gt; 71, 189-195.</frontiers>
+<ama>Baum G, Koch U. A source of polarized electrons. &lt;em&gt;Nucl.Instrum.Methods&lt;/em&gt;. 1969;71(2):189-195.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Baum, G. &amp;amp; Koch, U. (1969). A source of polarized electrons. &lt;em&gt;Nucl.Instrum.Methods&lt;/em&gt;, &lt;em&gt;71&lt;/em&gt;(2), 189-195. doi:10.1016/0029-554X(69)90011-1.&lt;/div&gt;</dgps>
+<harvard1>Baum, G., &amp;amp; Koch, U., 1969. A source of polarized electrons. &lt;em&gt;Nucl.Instrum.Methods&lt;/em&gt;, 71(2), p 189-195.</harvard1>
+<aps>G.  Baum and U.  Koch, A source of polarized electrons, Nucl.Instrum.Methods &lt;strong&gt;71&lt;/strong&gt;, 189-195 (1969).</aps>
+<bio1>Baum G, Koch U (1969) &lt;br /&gt;A source of polarized electrons.&lt;br /&gt;Nucl.Instrum.Methods 71(2): 189-195.</bio1>
+<wels>Baum, G.; Koch, U. (1969): A source of polarized electrons &lt;em&gt;Nucl.Instrum.Methods&lt;/em&gt;,71:(2): 189-195.</wels>
+<default>Baum G, Koch U (1969) &lt;br /&gt;Nucl.Instrum.Methods 71(2): 189-195.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1775616</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-03-16T18:49:57Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1775616</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1775616</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

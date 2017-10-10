@@ -1,0 +1,127 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Dielectric breakdown and inelastic electron tunneling spectroscopy of top and bottom pinned Co-Fe-B/MgO/Co-Fe-B magnetic tunnel junctions</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Ayaz Arif</namePart>
+  <namePart type="family">Khan</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jan-Michael</namePart>
+  <namePart type="family">Schmalhorst</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40191</identifier></name>
+<name type="personal">
+  <namePart type="given">Andy</namePart>
+  <namePart type="family">Thomas</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40188</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0001-8594-9060</description></name>
+<name type="personal">
+  <namePart type="given">Volker</namePart>
+  <namePart type="family">Drewello</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">171308</identifier></name>
+<name type="personal">
+  <namePart type="given">Günter</namePart>
+  <namePart type="family">Reiss</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40207</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0002-0918-5940</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">28536538</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2161137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33079602</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The time dependent dielectric breakdown in Co-Fe-B/MgO/Co-Fe-B magnetic tunnel junctions was investigated by voltage ramp experiments. The measurements were done for two types of junctions: one set of junctions had exchange biased (pinned) bottom electrodes and one set had exchange biased (pinned) top electrodes with an additional artificial ferrimagnet. We found a significant polarity dependence in the dielectric breakdown: top as well as bottom pinned tunnel junctions showed higher breakdown voltage when the top electrode was biased positively compared to negative bias. In contrast to this the differential resistance (dV/dI)-V spectra revealed an asymmetry for the top pinned junctions which was reversed in comparison to the bottom pinned system. This indicates that both asymmetries have different origins. Additionally the bottom pinned junctions showed in general slightly lower breakdown voltages and stronger magnon excitation in the inelastic electron tunneling (d(2)I/dV(2))-V spectra than the top pinned junctions. Possible reasons for these correlations are discussed.</abstract>
+
+<originInfo><publisher>AIP Publishing</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>tunnelling spectroscopy</topic><topic>magnetic</topic><topic>magnesium compounds</topic><topic>cobalt compounds</topic><topic>electric breakdown</topic><topic>tunnelling</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Journal of Applied Physics</title></titleInfo>
+  <identifier type="issn">0021-8979</identifier>
+  <identifier type="ISI">000268064700096</identifier><identifier type="doi">10.1063/1.3116554</identifier>
+<part><detail type="volume"><number>105</number></detail><detail type="issue"><number>8</number></detail><extent unit="pages">083723</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Khan, Ayaz Arif, Schmalhorst, Jan-Michael, Thomas, Andy, Drewello, Volker, and Reiss, Günter. 2009. “Dielectric breakdown and inelastic electron tunneling spectroscopy of top and bottom pinned Co-Fe-B/MgO/Co-Fe-B magnetic tunnel junctions”. &lt;em&gt;Journal of Applied Physics&lt;/em&gt; 105 (8).&lt;/div&gt;</chicago>
+<angewandte-chemie>A. A.  Khan, J. - M.  Schmalhorst, A.  Thomas, V.  Drewello, and G.  Reiss, “Dielectric breakdown and inelastic electron tunneling spectroscopy of top and bottom pinned Co-Fe-B/MgO/Co-Fe-B magnetic tunnel junctions”, &lt;em&gt;Journal of Applied Physics&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;105&lt;/em&gt;.</angewandte-chemie>
+<apa>Khan, A. A., Schmalhorst, J. - M., Thomas, A., Drewello, V., &amp;amp; Reiss, G. (2009). Dielectric breakdown and inelastic electron tunneling spectroscopy of top and bottom pinned Co-Fe-B/MgO/Co-Fe-B magnetic tunnel junctions. &lt;em&gt;Journal of Applied Physics&lt;/em&gt;, &lt;em&gt;105&lt;/em&gt;(8).</apa>
+<frontiers>Khan, A. A., Schmalhorst, J. - M., Thomas, A., Drewello, V., and Reiss, G. (2009). Dielectric breakdown and inelastic electron tunneling spectroscopy of top and bottom pinned Co-Fe-B/MgO/Co-Fe-B magnetic tunnel junctions. &lt;em&gt;Journal of Applied Physics&lt;/em&gt; 105.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Khan, A. A., Schmalhorst, J. - M., Thomas, A., Drewello, V., &amp;amp; Reiss, G. (2009). Dielectric breakdown and inelastic electron tunneling spectroscopy of top and bottom pinned Co-Fe-B/MgO/Co-Fe-B magnetic tunnel junctions. &lt;em&gt;Journal of Applied Physics&lt;/em&gt;, &lt;em&gt;105&lt;/em&gt;(8).&lt;/div&gt;</apa_indent>
+<ieee>A.A. Khan, et al., “Dielectric breakdown and inelastic electron tunneling spectroscopy of top and bottom pinned Co-Fe-B/MgO/Co-Fe-B magnetic tunnel junctions”, &lt;em&gt;Journal of Applied Physics&lt;/em&gt;,  vol. 105, 2009.</ieee>
+<mla>Khan, Ayaz Arif, Schmalhorst, Jan-Michael, Thomas, Andy, Drewello, Volker, and Reiss, Günter. “Dielectric breakdown and inelastic electron tunneling spectroscopy of top and bottom pinned Co-Fe-B/MgO/Co-Fe-B magnetic tunnel junctions”. &lt;em&gt;Journal of Applied Physics&lt;/em&gt; 105.8 (2009).</mla>
+<lncs>Khan, A.A., Schmalhorst, J.-M., Thomas, A., Drewello, V., Reiss, G.: Dielectric breakdown and inelastic electron tunneling spectroscopy of top and bottom pinned Co-Fe-B/MgO/Co-Fe-B magnetic tunnel junctions. Journal of Applied Physics. 105, (2009).</lncs>
+<wels>Khan, A. A.; Schmalhorst, J. - M.; Thomas, A.; Drewello, V.; Reiss, G. (2009): Dielectric breakdown and inelastic electron tunneling spectroscopy of top and bottom pinned Co-Fe-B/MgO/Co-Fe-B magnetic tunnel junctions &lt;em&gt;Journal of Applied Physics&lt;/em&gt;,105:(8)</wels>
+<default>Khan AA, Schmalhorst J-M, Thomas A, Drewello V, Reiss G (2009) &lt;br /&gt;Journal of Applied Physics 105(8).</default>
+<harvard1>Khan, A.A., et al., 2009. Dielectric breakdown and inelastic electron tunneling spectroscopy of top and bottom pinned Co-Fe-B/MgO/Co-Fe-B magnetic tunnel junctions. &lt;em&gt;Journal of Applied Physics&lt;/em&gt;, 105(8).</harvard1>
+<ama>Khan AA, Schmalhorst J-M, Thomas A, Drewello V, Reiss G. Dielectric breakdown and inelastic electron tunneling spectroscopy of top and bottom pinned Co-Fe-B/MgO/Co-Fe-B magnetic tunnel junctions. &lt;em&gt;Journal of Applied Physics&lt;/em&gt;. 2009;105(8).</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Khan, A.A., Schmalhorst, J.-M., Thomas, A., Drewello, V. &amp;amp; Reiss, G. (2009). Dielectric breakdown and inelastic electron tunneling spectroscopy of top and bottom pinned Co-Fe-B/MgO/Co-Fe-B magnetic tunnel junctions. &lt;em&gt;Journal of Applied Physics&lt;/em&gt;, &lt;em&gt;105&lt;/em&gt;(8). AIP Publishing. doi:10.1063/1.3116554.&lt;/div&gt;</dgps>
+<bio1>Khan AA, Schmalhorst J-M, Thomas A, Drewello V, Reiss G (2009) &lt;br /&gt;Dielectric breakdown and inelastic electron tunneling spectroscopy of top and bottom pinned Co-Fe-B/MgO/Co-Fe-B magnetic tunnel junctions.&lt;br /&gt;Journal of Applied Physics 105(8).</bio1>
+<aps>A. A.  Khan, et al., Dielectric breakdown and inelastic electron tunneling spectroscopy of top and bottom pinned Co-Fe-B/MgO/Co-Fe-B magnetic tunnel junctions, Journal of Applied Physics &lt;strong&gt;105&lt;/strong&gt;, (2009).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1591579</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-26T09:45:53Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-04-15T09:24:53Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1591579</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1591579</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

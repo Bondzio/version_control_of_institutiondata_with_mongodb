@@ -1,0 +1,179 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>A functional screen implicates microRNA-138-dependent regulation of the depalmitoylation enzyme APT1 in dendritic spine morphogenesis</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Gabriele</namePart>
+  <namePart type="family">Siegel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Gregor</namePart>
+  <namePart type="family">Obernosterer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Roberto</namePart>
+  <namePart type="family">Fiore</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Martin</namePart>
+  <namePart type="family">Oehmen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Silvia</namePart>
+  <namePart type="family">Bicker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Mette</namePart>
+  <namePart type="family">Christensen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Sharof</namePart>
+  <namePart type="family">Khudayberdiev</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Philipp F.</namePart>
+  <namePart type="family">Leuschner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Clara J. L.</namePart>
+  <namePart type="family">Busch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Christina</namePart>
+  <namePart type="family">Kane</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Katja</namePart>
+  <namePart type="family">Huebel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Frank</namePart>
+  <namePart type="family">Dekker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">Hedberg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Balamurugan</namePart>
+  <namePart type="family">Rengarajan</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Carsten</namePart>
+  <namePart type="family">Drepper</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Herbert</namePart>
+  <namePart type="family">Waldmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Sakari</namePart>
+  <namePart type="family">Kauppinen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Michael E.</namePart>
+  <namePart type="family">Greenberg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Draguhn</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Marc</namePart>
+  <namePart type="family">Rehmsmeier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11601931</identifier></name>
+<name type="personal">
+  <namePart type="given">Javier</namePart>
+  <namePart type="family">Martinez</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Gerhard M.</namePart>
+  <namePart type="family">Schratt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Technische Fakultät</namePart>
+  <identifier type="unibi">10036</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The microRNA pathway has been implicated in the regulation of synaptic protein synthesis and ultimately in dendritic spine morphogenesis, a phenomenon associated with long-lasting forms of memory. However, the particular microRNAs (miRNAs) involved are largely unknown. Here we identify specific miRNAs that function at synapses to control dendritic spine structure by performing a functional screen. One of the identified miRNAs, miR-138, is highly enriched in the brain, localized within dendrites and negatively regulates the size of dendritic spines in rat hippocampal neurons. miR-138 controls the expression of acyl protein thioesterase 1 (APT1), an enzyme regulating the palmitoylation status of proteins that are known to function at the synapse, including the alpha(13) subunits of G proteins (G alpha(13)). RNA-interference-mediated knockdown of APT1 and the expression of membrane-localized G alpha(13) both suppress spine enlargement caused by inhibition of miR-138, suggesting that APT1-regulated depalmitoylation of G alpha(13) might be an important downstream event of miR-138 function. Our results uncover a previously unknown miRNA-dependent mechanism in neurons and demonstrate a previously unrecognized complexity of miRNA-dependent control of dendritic spine morphogenesis.</abstract>
+
+<originInfo><publisher>Nature Publishing Group</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>NATURE CELL BIOLOGY</title></titleInfo>
+  <identifier type="issn">1465-7392</identifier>
+  <identifier type="eIssn">1476-4679</identifier>
+  <identifier type="MEDLINE">19465924</identifier>
+  <identifier type="ISI">000266503700015</identifier><identifier type="doi">10.1038/ncb1876</identifier>
+<part><detail type="volume"><number>11</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">705-716</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Siegel G, Obernosterer G, Fiore R, Oehmen M, Bicker S, Christensen M, Khudayberdiev S, Leuschner PF, Busch CJL, Kane C, Huebel K, et al. (2009) &lt;br /&gt;NATURE CELL BIOLOGY 11(6): 705-716.</default>
+<wels>Siegel, G.; Obernosterer, G.; Fiore, R.; Oehmen, M.; Bicker, S.; Christensen, M.; Khudayberdiev, S.; Leuschner, P. F.; Busch, C. J. L.; Kane, C.; Huebel, K.; Dekker, F.; Hedberg, C.; Rengarajan, B.; Drepper, C.; Waldmann, H.; Kauppinen, S.; Greenberg, M. E.; Draguhn, A.; Rehmsmeier, M.; Martinez, J.; Schratt, G. M. (2009): A functional screen implicates microRNA-138-dependent regulation of the depalmitoylation enzyme APT1 in dendritic spine morphogenesis &lt;em&gt;NATURE CELL BIOLOGY&lt;/em&gt;,11:(6): 705-716.</wels>
+<aps>G.  Siegel, et al., A functional screen implicates microRNA-138-dependent regulation of the depalmitoylation enzyme APT1 in dendritic spine morphogenesis, NATURE CELL BIOLOGY &lt;strong&gt;11&lt;/strong&gt;, 705-716 (2009).</aps>
+<bio1>Siegel G, Obernosterer G, Fiore R, Oehmen M, Bicker S, Christensen M, Khudayberdiev S, Leuschner PF, Busch CJL, Kane C, Huebel K, Dekker F, Hedberg C, Rengarajan B, Drepper C, Waldmann H, Kauppinen S, Greenberg ME, Draguhn A, Rehmsmeier M, Martinez J, Schratt GM (2009) &lt;br /&gt;A functional screen implicates microRNA-138-dependent regulation of the depalmitoylation enzyme APT1 in dendritic spine morphogenesis.&lt;br /&gt;NATURE CELL BIOLOGY 11(6): 705-716.</bio1>
+<ama>Siegel G, Obernosterer G, Fiore R, et al. A functional screen implicates microRNA-138-dependent regulation of the depalmitoylation enzyme APT1 in dendritic spine morphogenesis. &lt;em&gt;NATURE CELL BIOLOGY&lt;/em&gt;. 2009;11(6):705-716.</ama>
+<harvard1>Siegel, G., et al., 2009. A functional screen implicates microRNA-138-dependent regulation of the depalmitoylation enzyme APT1 in dendritic spine morphogenesis. &lt;em&gt;NATURE CELL BIOLOGY&lt;/em&gt;, 11(6), p 705-716.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Siegel, G., Obernosterer, G., Fiore, R., Oehmen, M., Bicker, S., Christensen, M., Khudayberdiev, S., Leuschner, P.F., Busch, C.J.L., Kane, C., Huebel, K., Dekker, F., Hedberg, C., Rengarajan, B., Drepper, C., Waldmann, H., Kauppinen, S., Greenberg, M.E., Draguhn, A., Rehmsmeier, M., Martinez, J. &amp;amp; Schratt, G.M. (2009). A functional screen implicates microRNA-138-dependent regulation of the depalmitoylation enzyme APT1 in dendritic spine morphogenesis. &lt;em&gt;NATURE CELL BIOLOGY&lt;/em&gt;, &lt;em&gt;11&lt;/em&gt;(6), 705-716. Nature Publishing Group. doi:10.1038/ncb1876.&lt;/div&gt;</dgps>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Siegel, Gabriele, Obernosterer, Gregor, Fiore, Roberto, Oehmen, Martin, Bicker, Silvia, Christensen, Mette, Khudayberdiev, Sharof, et al. 2009. “A functional screen implicates microRNA-138-dependent regulation of the depalmitoylation enzyme APT1 in dendritic spine morphogenesis”. &lt;em&gt;NATURE CELL BIOLOGY&lt;/em&gt; 11 (6): 705-716.&lt;/div&gt;</chicago>
+<frontiers>Siegel, G., Obernosterer, G., Fiore, R., Oehmen, M., Bicker, S., Christensen, M., Khudayberdiev, S., Leuschner, P. F., Busch, C. J. L., Kane, C., et al. (2009). A functional screen implicates microRNA-138-dependent regulation of the depalmitoylation enzyme APT1 in dendritic spine morphogenesis. &lt;em&gt;NATURE CELL BIOLOGY&lt;/em&gt; 11, 705-716.</frontiers>
+<apa>Siegel, G., Obernosterer, G., Fiore, R., Oehmen, M., Bicker, S., Christensen, M., Khudayberdiev, S., et al. (2009). A functional screen implicates microRNA-138-dependent regulation of the depalmitoylation enzyme APT1 in dendritic spine morphogenesis. &lt;em&gt;NATURE CELL BIOLOGY&lt;/em&gt;, &lt;em&gt;11&lt;/em&gt;(6), 705-716.</apa>
+<angewandte-chemie>G.  Siegel, G.  Obernosterer, R.  Fiore, M.  Oehmen, S.  Bicker, M.  Christensen, S.  Khudayberdiev, P. F.  Leuschner, C. J. L.  Busch, C.  Kane, et al., “A functional screen implicates microRNA-138-dependent regulation of the depalmitoylation enzyme APT1 in dendritic spine morphogenesis”, &lt;em&gt;NATURE CELL BIOLOGY&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;11&lt;/em&gt;, 705-716.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Siegel, G., Obernosterer, G., Fiore, R., Oehmen, M., Bicker, S., Christensen, M., Khudayberdiev, S., et al. (2009). A functional screen implicates microRNA-138-dependent regulation of the depalmitoylation enzyme APT1 in dendritic spine morphogenesis. &lt;em&gt;NATURE CELL BIOLOGY&lt;/em&gt;, &lt;em&gt;11&lt;/em&gt;(6), 705-716.&lt;/div&gt;</apa_indent>
+<lncs>Siegel, G., Obernosterer, G., Fiore, R., Oehmen, M., Bicker, S., Christensen, M., Khudayberdiev, S., Leuschner, P.F., Busch, C.J.L., Kane, C., Huebel, K., Dekker, F., Hedberg, C., Rengarajan, B., Drepper, C., Waldmann, H., Kauppinen, S., Greenberg, M.E., Draguhn, A., Rehmsmeier, M., Martinez, J., Schratt, G.M.: A functional screen implicates microRNA-138-dependent regulation of the depalmitoylation enzyme APT1 in dendritic spine morphogenesis. NATURE CELL BIOLOGY. 11, 705-716 (2009).</lncs>
+<mla>Siegel, Gabriele, Obernosterer, Gregor, Fiore, Roberto, Oehmen, Martin, Bicker, Silvia, Christensen, Mette, Khudayberdiev, Sharof, Leuschner, Philipp F., Busch, Clara J. L., Kane, Christina, Huebel, Katja, Dekker, Frank, Hedberg, Christian, Rengarajan, Balamurugan, Drepper, Carsten, Waldmann, Herbert, Kauppinen, Sakari, Greenberg, Michael E., Draguhn, Andreas, Rehmsmeier, Marc, Martinez, Javier, and Schratt, Gerhard M. “A functional screen implicates microRNA-138-dependent regulation of the depalmitoylation enzyme APT1 in dendritic spine morphogenesis”. &lt;em&gt;NATURE CELL BIOLOGY&lt;/em&gt; 11.6 (2009): 705-716.</mla>
+<ieee>G. Siegel, et al., “A functional screen implicates microRNA-138-dependent regulation of the depalmitoylation enzyme APT1 in dendritic spine morphogenesis”, &lt;em&gt;NATURE CELL BIOLOGY&lt;/em&gt;,  vol. 11, 2009,  pp. 705-716.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1633720</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:06:58Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-11T12:45:36Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1633720</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1633720</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

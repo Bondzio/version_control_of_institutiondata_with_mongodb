@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Beispiele für Informationsverarbeitung im Zentralnervensystem</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Holk</namePart>
+  <namePart type="family">Cruse</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21923</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">R.</namePart><namePart type="family">Weingarten</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Biologische Kybernetik</namePart>
+  <identifier type="unibi">2685507</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT2532.pdf">https://pub.uni-bielefeld.de/download/1781478/2313310</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Fischer-Taschenbuch-Verl.</publisher><dateIssued encoding="w3cdtf">1990</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Information ohne Kommunikation?: die Loslösung der Sprache vom Sprecher</title></titleInfo>
+  <identifier type="isbn">3-596-24185-5</identifier><identifier type="urn">urn:nbn:de:0070-bipr-25328</identifier>
+<part><extent unit="pages">227-244</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa>Cruse, H. (1990). Beispiele für Informationsverarbeitung im Zentralnervensystem. In R.  Weingarten (Ed.), &lt;em&gt;[Fischer-Taschenbücher] ; 4185 : Fischer-Sachbuch&lt;/em&gt;&lt;em&gt;. Information ohne Kommunikation?: die Loslösung der Sprache vom Sprecher&lt;/em&gt; (pp. 227-244). Frankfurt am Main: Fischer-Taschenbuch-Verl.</apa>
+<angewandte-chemie>H.  Cruse, in &lt;em&gt;Information ohne Kommunikation?: die Loslösung der Sprache vom Sprecher&lt;/em&gt; (Ed.: R. Weingarten), Fischer-Taschenbuch-Verl., Frankfurt am Main, &lt;strong&gt;1990&lt;/strong&gt;, p. 227-244.</angewandte-chemie>
+<frontiers>Cruse, H. (1990). “Beispiele für Informationsverarbeitung im Zentralnervensystem” in &lt;em&gt;Information ohne Kommunikation?: die Loslösung der Sprache vom Sprecher&lt;/em&gt;, ed. R.  Weingarten [Fischer-Taschenbücher] ; 4185 : Fischer-Sachbuch (Frankfurt am Main: Fischer-Taschenbuch-Verl.), 227-244.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cruse, Holk. 1990. “Beispiele für Informationsverarbeitung im Zentralnervensystem”. In &lt;em&gt;Information ohne Kommunikation?: die Loslösung der Sprache vom Sprecher&lt;/em&gt;, ed. R. Weingarten, 227-244. [Fischer-Taschenbücher] ; 4185 : Fischer-Sachbuch. Frankfurt am Main: Fischer-Taschenbuch-Verl.&lt;/div&gt;</chicago>
+<ieee>H. Cruse, “Beispiele für Informationsverarbeitung im Zentralnervensystem”, &lt;em&gt;Information ohne Kommunikation?: die Loslösung der Sprache vom Sprecher&lt;/em&gt;, R. Weingarten, ed., [Fischer-Taschenbücher] ; 4185 : Fischer-Sachbuch,  Frankfurt am Main: Fischer-Taschenbuch-Verl., 1990,  pp.227-244.</ieee>
+<mla>Cruse, Holk. “Beispiele für Informationsverarbeitung im Zentralnervensystem”. &lt;em&gt;Information ohne Kommunikation?: die Loslösung der Sprache vom Sprecher&lt;/em&gt;. Ed. R. Weingarten. Frankfurt am Main: Fischer-Taschenbuch-Verl., 1990. [Fischer-Taschenbücher] ; 4185 : Fischer-Sachbuch. 227-244.</mla>
+<lncs>Cruse, H.: Beispiele für Informationsverarbeitung im Zentralnervensystem. In: Weingarten, R. (ed.) Information ohne Kommunikation?: die Loslösung der Sprache vom Sprecher. [Fischer-Taschenbücher] ; 4185 : Fischer-Sachbuch. p. 227-244. Fischer-Taschenbuch-Verl., Frankfurt am Main (1990).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cruse, H. (1990). Beispiele für Informationsverarbeitung im Zentralnervensystem. In R.  Weingarten (Ed.), &lt;em&gt;[Fischer-Taschenbücher] ; 4185 : Fischer-Sachbuch&lt;/em&gt;&lt;em&gt;. Information ohne Kommunikation?: die Loslösung der Sprache vom Sprecher&lt;/em&gt; (pp. 227-244). Frankfurt am Main: Fischer-Taschenbuch-Verl.&lt;/div&gt;</apa_indent>
+<wels>Cruse, H. (1990): Beispiele für Informationsverarbeitung im Zentralnervensystem. In: R. Weingarten (Hrsg.):  Information ohne Kommunikation?: die Loslösung der Sprache vom Sprecher. Frankfurt am Main: Fischer-Taschenbuch-Verl. ([Fischer-Taschenbücher] ; 4185 : Fischer-Sachbuch, ).  S. 227-244.</wels>
+<default>Cruse H (1990)  &lt;br /&gt;In:  Information ohne Kommunikation?: die Loslösung der Sprache vom Sprecher. Weingarten R (Ed); [Fischer-Taschenbücher] ; 4185 : Fischer-Sachbuch, . Frankfurt am Main: Fischer-Taschenbuch-Verl.:  227-244.</default>
+<harvard1>Cruse, H., 1990. Beispiele für Informationsverarbeitung im Zentralnervensystem. In R.  Weingarten, ed. &lt;em&gt;Information ohne Kommunikation?: die Loslösung der Sprache vom Sprecher&lt;/em&gt;. [Fischer-Taschenbücher] ; 4185 : Fischer-Sachbuch.  Frankfurt am Main: Fischer-Taschenbuch-Verl., pp. 227-244.</harvard1>
+<ama>Cruse H. Beispiele für Informationsverarbeitung im Zentralnervensystem. In: Weingarten R, ed. &lt;em&gt;Information ohne Kommunikation?: die Loslösung der Sprache vom Sprecher&lt;/em&gt;. [Fischer-Taschenbücher] ; 4185 : Fischer-Sachbuch. Frankfurt am Main: Fischer-Taschenbuch-Verl.;  1990: 227-244.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Cruse, H. (1990). Beispiele für Informationsverarbeitung im Zentralnervensystem ([Fischer-Taschenbücher] ; 4185 : Fischer-Sachbuch). &lt;em&gt;Information ohne Kommunikation?: die Loslösung der Sprache vom Sprecher&lt;/em&gt; (S. 227-244). Frankfurt am Main: Fischer-Taschenbuch-Verl.&lt;/div&gt;</dgps>
+<bio1>Cruse H (1990) &lt;br /&gt;Beispiele für Informationsverarbeitung im Zentralnervensystem. &lt;br /&gt;In:  Information ohne Kommunikation?: die Loslösung der Sprache vom Sprecher. Weingarten R (Ed); [Fischer-Taschenbücher] ; 4185 : Fischer-Sachbuch,  Frankfurt am Main: Fischer-Taschenbuch-Verl.:  227-244.</bio1>
+<aps>H.  Cruse, Beispiele für Informationsverarbeitung im Zentralnervensystem, in &lt;em&gt;Information ohne Kommunikation?: die Loslösung der Sprache vom Sprecher&lt;/em&gt;, edited by R.  Weingarten, [Fischer-Taschenbücher] ; 4185 : Fischer-Sachbuch (Fischer-Taschenbuch-Verl., Frankfurt Am Main, 1990), p. 227-244.</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781478</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781478</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781478</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

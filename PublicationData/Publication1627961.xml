@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Donor complexes of silylene, germylene, and stannylene</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Wolfgang</namePart>
+  <namePart type="family">Schoeller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20336</identifier></name>
+<name type="personal">
+  <namePart type="given">R</namePart>
+  <namePart type="family">Schneider</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Theoretische Chemie</namePart>
+  <identifier type="unibi">17982</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The complexes of various donor molecules, AH(3) (A = N, P, As, Sb, Bi) and AH(2) (A = O, S, Se, Te) with silylene, germylene, and stannylene ((1)A(1) ground state) were studied by means of quantum chemical investigations at ab initio level utilizing all valence electron basis sets and relativistic corrected effective core potential methods. Accordingly, the donor molecules are weakly bound, the association energies are in the range of 15-30 kcal per mole. The exothermic energies for adduct formation, i.e., the resulting binding energies for the donor complexes, decrease in the order silylene &gt; germylene &gt; stannylene. The population analysis indicates for NH3 and BiH3 only a weak bonding towards the XH2 fragment (X = Si, Ge, Sn) while the higher homologues (A = P, As, Sb) form ylide structures, 1.2-dipolaric in nature. The addition of two donor molecules has been studied for silylene and is much less favourable than donor mono-addition. For the donor mono-addition a dual parameter relationship between (a) the HOMO energies of the donor (n-orbital of the AH(3) unit, n, p-orbitals for AH(2)) and (b) the covalent bond energies (from the literature) versus the binding energies of the donor-acceptor compounds was examined. This dual parameter equation describes satisfactorily the essential features of the stabilities of the donor-acceptor structures.</abstract>
+
+<originInfo><publisher>VCH PUBLISHERS INC</publisher><dateIssued encoding="w3cdtf">1997</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>donor-acceptor complexes</topic><topic>germylene</topic><topic>stannylene</topic><topic>ab initio</topic><topic>calculations</topic><topic>silylene</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>CHEMISCHE BERICHTE-RECUEIL</title></titleInfo>
+  <identifier type="issn">0009-2940</identifier>
+  <identifier type="eIssn">1099-0682</identifier>
+  <identifier type="ISI">A1997XH25900029</identifier><identifier type="doi">10.1002/cber.19971300731</identifier>
+<part><detail type="volume"><number>130</number></detail><detail type="issue"><number>7</number></detail><extent unit="pages">1013-1020</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schoeller, Wolfgang, and Schneider, R. 1997. “Donor complexes of silylene, germylene, and stannylene”. &lt;em&gt;CHEMISCHE BERICHTE-RECUEIL&lt;/em&gt; 130 (7): 1013-1020.&lt;/div&gt;</chicago>
+<angewandte-chemie>W.  Schoeller, and R.  Schneider, “Donor complexes of silylene, germylene, and stannylene”, &lt;em&gt;CHEMISCHE BERICHTE-RECUEIL&lt;/em&gt;, &lt;strong&gt;1997&lt;/strong&gt;, &lt;em&gt;130&lt;/em&gt;, 1013-1020.</angewandte-chemie>
+<apa>Schoeller, W., &amp;amp; Schneider, R. (1997). Donor complexes of silylene, germylene, and stannylene. &lt;em&gt;CHEMISCHE BERICHTE-RECUEIL&lt;/em&gt;, &lt;em&gt;130&lt;/em&gt;(7), 1013-1020.</apa>
+<frontiers>Schoeller, W., and Schneider, R. (1997). Donor complexes of silylene, germylene, and stannylene. &lt;em&gt;CHEMISCHE BERICHTE-RECUEIL&lt;/em&gt; 130, 1013-1020.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schoeller, W., &amp;amp; Schneider, R. (1997). Donor complexes of silylene, germylene, and stannylene. &lt;em&gt;CHEMISCHE BERICHTE-RECUEIL&lt;/em&gt;, &lt;em&gt;130&lt;/em&gt;(7), 1013-1020.&lt;/div&gt;</apa_indent>
+<ieee>W. Schoeller and R. Schneider, “Donor complexes of silylene, germylene, and stannylene”, &lt;em&gt;CHEMISCHE BERICHTE-RECUEIL&lt;/em&gt;,  vol. 130, 1997,  pp. 1013-1020.</ieee>
+<lncs>Schoeller, W., Schneider, R.: Donor complexes of silylene, germylene, and stannylene. CHEMISCHE BERICHTE-RECUEIL. 130, 1013-1020 (1997).</lncs>
+<mla>Schoeller, Wolfgang, and Schneider, R. “Donor complexes of silylene, germylene, and stannylene”. &lt;em&gt;CHEMISCHE BERICHTE-RECUEIL&lt;/em&gt; 130.7 (1997): 1013-1020.</mla>
+<wels>Schoeller, W.; Schneider, R. (1997): Donor complexes of silylene, germylene, and stannylene &lt;em&gt;CHEMISCHE BERICHTE-RECUEIL&lt;/em&gt;,130:(7): 1013-1020.</wels>
+<default>Schoeller W, Schneider R (1997) &lt;br /&gt;CHEMISCHE BERICHTE-RECUEIL 130(7): 1013-1020.</default>
+<ama>Schoeller W, Schneider R. Donor complexes of silylene, germylene, and stannylene. &lt;em&gt;CHEMISCHE BERICHTE-RECUEIL&lt;/em&gt;. 1997;130(7):1013-1020.</ama>
+<harvard1>Schoeller, W., &amp;amp; Schneider, R., 1997. Donor complexes of silylene, germylene, and stannylene. &lt;em&gt;CHEMISCHE BERICHTE-RECUEIL&lt;/em&gt;, 130(7), p 1013-1020.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Schoeller, W. &amp;amp; Schneider, R. (1997). Donor complexes of silylene, germylene, and stannylene. &lt;em&gt;CHEMISCHE BERICHTE-RECUEIL&lt;/em&gt;, &lt;em&gt;130&lt;/em&gt;(7), 1013-1020. VCH PUBLISHERS INC. doi:10.1002/cber.19971300731.&lt;/div&gt;</dgps>
+<aps>W.  Schoeller and R.  Schneider, Donor complexes of silylene, germylene, and stannylene, CHEMISCHE BERICHTE-RECUEIL &lt;strong&gt;130&lt;/strong&gt;, 1013-1020 (1997).</aps>
+<bio1>Schoeller W, Schneider R (1997) &lt;br /&gt;Donor complexes of silylene, germylene, and stannylene.&lt;br /&gt;CHEMISCHE BERICHTE-RECUEIL 130(7): 1013-1020.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1627961</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:22:32Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-04T11:03:27Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1627961</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1627961</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book</genre>
+
+<titleInfo><title>Ästhetischer Katholizismus: Stefan Georges Rituale der Literatur</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Wolfgang</namePart>
+  <namePart type="family">Braungart</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11652</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10222814</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">4961697</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Niemeyer</publisher><dateIssued encoding="w3cdtf">1997</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host">
+  <identifier type="isbn">3-484-63015-9</identifier>
+<part><detail type="volume"><number>15</number></detail>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>W. Braungart, &lt;em&gt;Ästhetischer Katholizismus: Stefan Georges Rituale der Literatur&lt;/em&gt;, Communicatio, vol. 15,  Tübingen: Niemeyer, 1997.</ieee>
+<lncs>Braungart, W.: Ästhetischer Katholizismus: Stefan Georges Rituale der Literatur. Communicatio, 15. Niemeyer, Tübingen (1997).</lncs>
+<mla>Braungart, Wolfgang. &lt;em&gt;Ästhetischer Katholizismus: Stefan Georges Rituale der Literatur&lt;/em&gt;. Tübingen: Niemeyer, 1997. Communicatio. 15.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Braungart, W. (1997).  &lt;em&gt;Ästhetischer Katholizismus: Stefan Georges Rituale der Literatur&lt;/em&gt; (Communicatio, 15). Tübingen: Niemeyer.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>W.  Braungart, &lt;em&gt;Ästhetischer Katholizismus: Stefan Georges Rituale der Literatur&lt;/em&gt;, Niemeyer, Tübingen, &lt;strong&gt;1997&lt;/strong&gt;.</angewandte-chemie>
+<apa>Braungart, W. (1997).  &lt;em&gt;Ästhetischer Katholizismus: Stefan Georges Rituale der Literatur&lt;/em&gt; (Communicatio, 15). Tübingen: Niemeyer.</apa>
+<frontiers>Braungart, W. (1997). Ästhetischer Katholizismus: Stefan Georges Rituale der Literatur. &lt;em&gt;Communicatio&lt;/em&gt;, 15, Tübingen: Niemeyer.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Braungart, Wolfgang. 1997. &lt;em&gt;Ästhetischer Katholizismus: Stefan Georges Rituale der Literatur&lt;/em&gt;. Vol. 15. Communicatio. Tübingen: Niemeyer.&lt;/div&gt;</chicago>
+<ama>Braungart W. &lt;em&gt;Ästhetischer Katholizismus: Stefan Georges Rituale der Literatur&lt;/em&gt;. Communicatio. Vol 15. Tübingen: Niemeyer; 1997.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Braungart, W. (1997). &lt;em&gt;Ästhetischer Katholizismus: Stefan Georges Rituale der Literatur&lt;/em&gt; (Communicatio). Tübingen: Niemeyer.&lt;/div&gt;</dgps>
+<harvard1>Braungart, W., 1997. &lt;em&gt;Ästhetischer Katholizismus: Stefan Georges Rituale der Literatur&lt;/em&gt;, Communicatio, no.15, Tübingen: Niemeyer.</harvard1>
+<aps>W.  Braungart, Ästhetischer Katholizismus: Stefan Georges Rituale der Literatur, Communicatio (Niemeyer, Tübingen, 1997).</aps>
+<bio1>Braungart W (1997) &lt;br /&gt;&lt;em&gt;Ästhetischer Katholizismus: Stefan Georges Rituale der Literatur&lt;/em&gt;. Communicatio; 15.&lt;br /&gt;Tübingen: Niemeyer.</bio1>
+<wels>Braungart, W. (1997): Ästhetischer Katholizismus: Stefan Georges Rituale der Literatur. Tübingen: Niemeyer.</wels>
+<default>Braungart W (1997)  Communicatio; 15.&lt;br /&gt;Tübingen: Niemeyer.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1918270</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-11-19T11:05:35Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-04-07T09:20:24Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1918270</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1918270</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

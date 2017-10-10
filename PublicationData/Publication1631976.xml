@@ -1,0 +1,559 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>The Chlamydomonas genome reveals the evolution of key animal and plant functions</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Sabeeha S.</namePart>
+  <namePart type="family">Merchant</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Simon E.</namePart>
+  <namePart type="family">Prochnik</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Olivier</namePart>
+  <namePart type="family">Vallon</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Elizabeth H.</namePart>
+  <namePart type="family">Harris</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Steven J.</namePart>
+  <namePart type="family">Karpowicz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">George B.</namePart>
+  <namePart type="family">Witman</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Astrid</namePart>
+  <namePart type="family">Terry</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Asaf</namePart>
+  <namePart type="family">Salamov</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Lillian K.</namePart>
+  <namePart type="family">Fritz-Laylin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Laurence</namePart>
+  <namePart type="family">Marechal-Drouard</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Wallace F.</namePart>
+  <namePart type="family">Marshall</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Liang-Hu</namePart>
+  <namePart type="family">Qu</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">David R.</namePart>
+  <namePart type="family">Nelson</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Anton A.</namePart>
+  <namePart type="family">Sanderfoot</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Martin H.</namePart>
+  <namePart type="family">Spalding</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Vladimir V.</namePart>
+  <namePart type="family">Kapitonov</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Qinghu</namePart>
+  <namePart type="family">Ren</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Patrick</namePart>
+  <namePart type="family">Ferris</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Erika</namePart>
+  <namePart type="family">Lindquist</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Harris</namePart>
+  <namePart type="family">Shapiro</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Susan M.</namePart>
+  <namePart type="family">Lucas</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jane</namePart>
+  <namePart type="family">Grimwood</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jeremy</namePart>
+  <namePart type="family">Schmutz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Pierre</namePart>
+  <namePart type="family">Cardol</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Heriberto</namePart>
+  <namePart type="family">Cerutti</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Guillaume</namePart>
+  <namePart type="family">Chanfreau</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Chun-Long</namePart>
+  <namePart type="family">Chen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Valerie</namePart>
+  <namePart type="family">Cognat</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Martin T.</namePart>
+  <namePart type="family">Croft</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Rachel</namePart>
+  <namePart type="family">Dent</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Susan</namePart>
+  <namePart type="family">Dutcher</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Emilio</namePart>
+  <namePart type="family">Fernandez</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Hideya</namePart>
+  <namePart type="family">Fukuzawa</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">David</namePart>
+  <namePart type="family">Gonzalez-Balle</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Diego</namePart>
+  <namePart type="family">Gonzalez-Halphen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Armin</namePart>
+  <namePart type="family">Hallmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">98455</identifier></name>
+<name type="personal">
+  <namePart type="given">Marc</namePart>
+  <namePart type="family">Hanikenne</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Michael</namePart>
+  <namePart type="family">Hippler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">William</namePart>
+  <namePart type="family">Inwood</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Kamel</namePart>
+  <namePart type="family">Jabbari</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ming</namePart>
+  <namePart type="family">Kalanon</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Richard</namePart>
+  <namePart type="family">Kuras</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Paul A.</namePart>
+  <namePart type="family">Lefebvre</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Stephane D.</namePart>
+  <namePart type="family">Lemaire</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alexey V.</namePart>
+  <namePart type="family">Lobanov</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Martin</namePart>
+  <namePart type="family">Lohr</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andrea</namePart>
+  <namePart type="family">Manuell</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Iris</namePart>
+  <namePart type="family">Meier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Laurens</namePart>
+  <namePart type="family">Mets</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Maria</namePart>
+  <namePart type="family">Mittag</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Telsa</namePart>
+  <namePart type="family">Mittelmeier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">James V.</namePart>
+  <namePart type="family">Moroney</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jeffrey</namePart>
+  <namePart type="family">Moseley</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Carolyn</namePart>
+  <namePart type="family">Napoli</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Aurora M.</namePart>
+  <namePart type="family">Nedelcu</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Krishna</namePart>
+  <namePart type="family">Niyogi</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Sergey V.</namePart>
+  <namePart type="family">Novoselov</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ian T.</namePart>
+  <namePart type="family">Paulsen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Greg</namePart>
+  <namePart type="family">Pazour</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Saul</namePart>
+  <namePart type="family">Purton</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jean-Philippe</namePart>
+  <namePart type="family">Ral</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Diego Mauricio</namePart>
+  <namePart type="family">Riano-Pachon</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Wayne</namePart>
+  <namePart type="family">Riekhof</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Linda</namePart>
+  <namePart type="family">Rymarquis</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Michael</namePart>
+  <namePart type="family">Schroda</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">David</namePart>
+  <namePart type="family">Stern</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">James</namePart>
+  <namePart type="family">Umen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Robert</namePart>
+  <namePart type="family">Willows</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Nedra</namePart>
+  <namePart type="family">Wilson</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Sara Lana</namePart>
+  <namePart type="family">Zimmer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jens</namePart>
+  <namePart type="family">Allmer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Janneke</namePart>
+  <namePart type="family">Balk</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Katerina</namePart>
+  <namePart type="family">Bisova</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Chong-Jian</namePart>
+  <namePart type="family">Chen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Marek</namePart>
+  <namePart type="family">Elias</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Karla</namePart>
+  <namePart type="family">Gendler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Charles</namePart>
+  <namePart type="family">Hauser</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Mary Rose</namePart>
+  <namePart type="family">Lamb</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Heidi</namePart>
+  <namePart type="family">Ledford</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Joanne C.</namePart>
+  <namePart type="family">Long</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jun</namePart>
+  <namePart type="family">Minagawa</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M. Dudley</namePart>
+  <namePart type="family">Page</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Junmin</namePart>
+  <namePart type="family">Pan</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Wirulda</namePart>
+  <namePart type="family">Pootakham</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Sanja</namePart>
+  <namePart type="family">Roje</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Annkatrin</namePart>
+  <namePart type="family">Rose</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Eric</namePart>
+  <namePart type="family">Stahlberg</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Aimee M.</namePart>
+  <namePart type="family">Terauchi</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Pinfen</namePart>
+  <namePart type="family">Yang</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Steven</namePart>
+  <namePart type="family">Ball</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Chris</namePart>
+  <namePart type="family">Bowler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Carol L.</namePart>
+  <namePart type="family">Dieckmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Vadim N.</namePart>
+  <namePart type="family">Gladyshev</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Pamela</namePart>
+  <namePart type="family">Green</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Richard</namePart>
+  <namePart type="family">Jorgensen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Stephen</namePart>
+  <namePart type="family">Mayfield</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Bernd</namePart>
+  <namePart type="family">Mueller-Roeber</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Sathish</namePart>
+  <namePart type="family">Rajamani</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Richard T.</namePart>
+  <namePart type="family">Sayre</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Peter</namePart>
+  <namePart type="family">Brokstein</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Inna</namePart>
+  <namePart type="family">Dubchak</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">David</namePart>
+  <namePart type="family">Goodstein</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Leila</namePart>
+  <namePart type="family">Hornick</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Y. Wayne</namePart>
+  <namePart type="family">Huang</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jinal</namePart>
+  <namePart type="family">Jhaveri</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Yigong</namePart>
+  <namePart type="family">Luo</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Diego</namePart>
+  <namePart type="family">Martinez</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Wing Chi Abby</namePart>
+  <namePart type="family">Ngau</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Bobby</namePart>
+  <namePart type="family">Otillar</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alexander</namePart>
+  <namePart type="family">Poliakov</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Aaron</namePart>
+  <namePart type="family">Porter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Lukasz</namePart>
+  <namePart type="family">Szajkowski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Gregory</namePart>
+  <namePart type="family">Werner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Kemin</namePart>
+  <namePart type="family">Zhou</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Igor V.</namePart>
+  <namePart type="family">Grigoriev</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Daniel S.</namePart>
+  <namePart type="family">Rokhsar</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Arthur R.</namePart>
+  <namePart type="family">Grossman</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2685483</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Chlamydomonas reinhardtii is a unicellular green alga whose lineage diverged from land plants over 1 billion years ago. It is a model system for studying chloroplast-based photosynthesis, as well as the structure, assembly, and function of eukaryotic flagella (cilia), which were inherited from the common ancestor of plants and animals, but lost in land plants. We sequenced the similar to 120-megabase nuclear genome of Chlamydomonas and performed comparative phylogenomic analyses, identifying genes encoding uncharacterized proteins that are likely associated with the function and biogenesis of chloroplasts or eukaryotic flagella. Analyses of the Chlamydomonas genome advance our understanding of the ancestral eukaryotic cell, reveal previously unknown genes associated with photosynthetic and flagellar functions, and establish links between ciliopathy and the composition and function of flagella.</abstract>
+
+<originInfo><publisher>AMER ASSOC ADVANCEMENT SCIENCE</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Science</title></titleInfo>
+  <identifier type="issn">0036-8075</identifier>
+  <identifier type="eIssn">1095-9203</identifier>
+  <identifier type="MEDLINE">17932292</identifier>
+  <identifier type="ISI">000250086100040</identifier><identifier type="doi">10.1126/science.1143609</identifier>
+<part><detail type="volume"><number>318</number></detail><detail type="issue"><number>5848</number></detail><extent unit="pages">245-250</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Merchant SS, Prochnik SE, Vallon O, Harris EH, Karpowicz SJ, Witman GB, Terry A, Salamov A, Fritz-Laylin LK, Marechal-Drouard L, Marshall WF, et al. (2007) &lt;br /&gt;Science 318(5848): 245-250.</default>
+<wels>Merchant, S. S.; Prochnik, S. E.; Vallon, O.; Harris, E. H.; Karpowicz, S. J.; Witman, G. B.; Terry, A.; Salamov, A.; Fritz-Laylin, L. K.; Marechal-Drouard, L.; Marshall, W. F.; Qu, L. - H.; Nelson, D. R.; Sanderfoot, A. A.; Spalding, M. H.; Kapitonov, V. V.; Ren, Q.; Ferris, P.; Lindquist, E.; Shapiro, H.; Lucas, S. M.; Grimwood, J.; Schmutz, J.; Cardol, P.; Cerutti, H.; Chanfreau, G.; Chen, C. - L.; Cognat, V.; Croft, M. T.; Dent, R.; Dutcher, S.; Fernandez, E.; Fukuzawa, H.; Gonzalez-Balle, D.; Gonzalez-Halphen, D.; Hallmann, A.; Hanikenne, M.; Hippler, M.; Inwood, W.; Jabbari, K.; Kalanon, M.; Kuras, R.; Lefebvre, P. A.; Lemaire, S. D.; Lobanov, A. V.; Lohr, M.; Manuell, A.; Meier, I.; Mets, L.; Mittag, M.; Mittelmeier, T.; Moroney, J. V.; Moseley, J.; Napoli, C.; Nedelcu, A. M.; Niyogi, K.; Novoselov, S. V.; Paulsen, I. T.; Pazour, G.; Purton, S.; Ral, J. - P.; Riano-Pachon, D. M.; Riekhof, W.; Rymarquis, L.; Schroda, M.; Stern, D.; Umen, J.; Willows, R.; Wilson, N.; Zimmer, S. L.; Allmer, J.; Balk, J.; Bisova, K.; Chen, C. - J.; Elias, M.; Gendler, K.; Hauser, C.; Lamb, M. R.; Ledford, H.; Long, J. C.; Minagawa, J.; Page, M. D.; Pan, J.; Pootakham, W.; Roje, S.; Rose, A.; Stahlberg, E.; Terauchi, A. M.; Yang, P.; Ball, S.; Bowler, C.; Dieckmann, C. L.; Gladyshev, V. N.; Green, P.; Jorgensen, R.; Mayfield, S.; Mueller-Roeber, B.; Rajamani, S.; Sayre, R. T.; Brokstein, P.; Dubchak, I.; Goodstein, D.; Hornick, L.; Huang, Y. W.; Jhaveri, J.; Luo, Y.; Martinez, D.; Ngau, W. C. A.; Otillar, B.; Poliakov, A.; Porter, A.; Szajkowski, L.; Werner, G.; Zhou, K.; Grigoriev, I. V.; Rokhsar, D. S.; Grossman, A. R. (2007): The Chlamydomonas genome reveals the evolution of key animal and plant functions &lt;em&gt;Science&lt;/em&gt;,318:(5848): 245-250.</wels>
+<aps>S. S.  Merchant, et al., The Chlamydomonas genome reveals the evolution of key animal and plant functions, Science &lt;strong&gt;318&lt;/strong&gt;, 245-250 (2007).</aps>
+<bio1>Merchant SS, Prochnik SE, Vallon O, Harris EH, Karpowicz SJ, Witman GB, Terry A, Salamov A, Fritz-Laylin LK, Marechal-Drouard L, Marshall WF, Qu L-H, Nelson DR, Sanderfoot AA, Spalding MH, Kapitonov VV, Ren Q, Ferris P, Lindquist E, Shapiro H, Lucas SM, Grimwood J, Schmutz J, Cardol P, Cerutti H, Chanfreau G, Chen C-L, Cognat V, Croft MT, Dent R, Dutcher S, Fernandez E, Fukuzawa H, Gonzalez-Balle D, Gonzalez-Halphen D, Hallmann A, Hanikenne M, Hippler M, Inwood W, Jabbari K, Kalanon M, Kuras R, Lefebvre PA, Lemaire SD, Lobanov AV, Lohr M, Manuell A, Meier I, Mets L, Mittag M, Mittelmeier T, Moroney JV, Moseley J, Napoli C, Nedelcu AM, Niyogi K, Novoselov SV, Paulsen IT, Pazour G, Purton S, Ral J-P, Riano-Pachon DM, Riekhof W, Rymarquis L, Schroda M, Stern D, Umen J, Willows R, Wilson N, Zimmer SL, Allmer J, Balk J, Bisova K, Chen C-J, Elias M, Gendler K, Hauser C, Lamb MR, Ledford H, Long JC, Minagawa J, Page MD, Pan J, Pootakham W, Roje S, Rose A, Stahlberg E, Terauchi AM, Yang P, Ball S, Bowler C, Dieckmann CL, Gladyshev VN, Green P, Jorgensen R, Mayfield S, Mueller-Roeber B, Rajamani S, Sayre RT, Brokstein P, Dubchak I, Goodstein D, Hornick L, Huang YW, Jhaveri J, Luo Y, Martinez D, Ngau WCA, Otillar B, Poliakov A, Porter A, Szajkowski L, Werner G, Zhou K, Grigoriev IV, Rokhsar DS, Grossman AR (2007) &lt;br /&gt;The Chlamydomonas genome reveals the evolution of key animal and plant functions.&lt;br /&gt;Science 318(5848): 245-250.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Merchant, S.S., Prochnik, S.E., Vallon, O., Harris, E.H., Karpowicz, S.J., Witman, G.B., Terry, A., Salamov, A., Fritz-Laylin, L.K., Marechal-Drouard, L., Marshall, W.F., Qu, L.-H., Nelson, D.R., Sanderfoot, A.A., Spalding, M.H., Kapitonov, V.V., Ren, Q., Ferris, P., Lindquist, E., Shapiro, H., Lucas, S.M., Grimwood, J., Schmutz, J., Cardol, P., Cerutti, H., Chanfreau, G., Chen, C.-L., Cognat, V., Croft, M.T., Dent, R., Dutcher, S., Fernandez, E., Fukuzawa, H., Gonzalez-Balle, D., Gonzalez-Halphen, D., Hallmann, A., Hanikenne, M., Hippler, M., Inwood, W., Jabbari, K., Kalanon, M., Kuras, R., Lefebvre, P.A., Lemaire, S.D., Lobanov, A.V., Lohr, M., Manuell, A., Meier, I., Mets, L., Mittag, M., Mittelmeier, T., Moroney, J.V., Moseley, J., Napoli, C., Nedelcu, A.M., Niyogi, K., Novoselov, S.V., Paulsen, I.T., Pazour, G., Purton, S., Ral, J.-P., Riano-Pachon, D.M., Riekhof, W., Rymarquis, L., Schroda, M., Stern, D., Umen, J., Willows, R., Wilson, N., Zimmer, S.L., Allmer, J., Balk, J., Bisova, K., Chen, C.-J., Elias, M., Gendler, K., Hauser, C., Lamb, M.R., Ledford, H., Long, J.C., Minagawa, J., Page, M.D., Pan, J., Pootakham, W., Roje, S., Rose, A., Stahlberg, E., Terauchi, A.M., Yang, P., Ball, S., Bowler, C., Dieckmann, C.L., Gladyshev, V.N., Green, P., Jorgensen, R., Mayfield, S., Mueller-Roeber, B., Rajamani, S., Sayre, R.T., Brokstein, P., Dubchak, I., Goodstein, D., Hornick, L., Huang, Y.W., Jhaveri, J., Luo, Y., Martinez, D., Ngau, W.C.A., Otillar, B., Poliakov, A., Porter, A., Szajkowski, L., Werner, G., Zhou, K., Grigoriev, I.V., Rokhsar, D.S. &amp;amp; Grossman, A.R. (2007). The Chlamydomonas genome reveals the evolution of key animal and plant functions. &lt;em&gt;Science&lt;/em&gt;, &lt;em&gt;318&lt;/em&gt;(5848), 245-250. AMER ASSOC ADVANCEMENT SCIENCE. doi:10.1126/science.1143609.&lt;/div&gt;</dgps>
+<ama>Merchant SS, Prochnik SE, Vallon O, et al. The Chlamydomonas genome reveals the evolution of key animal and plant functions. &lt;em&gt;Science&lt;/em&gt;. 2007;318(5848):245-250.</ama>
+<harvard1>Merchant, S.S., et al., 2007. The Chlamydomonas genome reveals the evolution of key animal and plant functions. &lt;em&gt;Science&lt;/em&gt;, 318(5848), p 245-250.</harvard1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Merchant, Sabeeha S., Prochnik, Simon E., Vallon, Olivier, Harris, Elizabeth H., Karpowicz, Steven J., Witman, George B., Terry, Astrid, et al. 2007. “The Chlamydomonas genome reveals the evolution of key animal and plant functions”. &lt;em&gt;Science&lt;/em&gt; 318 (5848): 245-250.&lt;/div&gt;</chicago>
+<frontiers>Merchant, S. S., Prochnik, S. E., Vallon, O., Harris, E. H., Karpowicz, S. J., Witman, G. B., Terry, A., Salamov, A., Fritz-Laylin, L. K., Marechal-Drouard, L., et al. (2007). The Chlamydomonas genome reveals the evolution of key animal and plant functions. &lt;em&gt;Science&lt;/em&gt; 318, 245-250.</frontiers>
+<apa>Merchant, S. S., Prochnik, S. E., Vallon, O., Harris, E. H., Karpowicz, S. J., Witman, G. B., Terry, A., et al. (2007). The Chlamydomonas genome reveals the evolution of key animal and plant functions. &lt;em&gt;Science&lt;/em&gt;, &lt;em&gt;318&lt;/em&gt;(5848), 245-250.</apa>
+<angewandte-chemie>S. S.  Merchant, S. E.  Prochnik, O.  Vallon, E. H.  Harris, S. J.  Karpowicz, G. B.  Witman, A.  Terry, A.  Salamov, L. K.  Fritz-Laylin, L.  Marechal-Drouard, et al., “The Chlamydomonas genome reveals the evolution of key animal and plant functions”, &lt;em&gt;Science&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;318&lt;/em&gt;, 245-250.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Merchant, S. S., Prochnik, S. E., Vallon, O., Harris, E. H., Karpowicz, S. J., Witman, G. B., Terry, A., et al. (2007). The Chlamydomonas genome reveals the evolution of key animal and plant functions. &lt;em&gt;Science&lt;/em&gt;, &lt;em&gt;318&lt;/em&gt;(5848), 245-250.&lt;/div&gt;</apa_indent>
+<lncs>Merchant, S.S., Prochnik, S.E., Vallon, O., Harris, E.H., Karpowicz, S.J., Witman, G.B., Terry, A., Salamov, A., Fritz-Laylin, L.K., Marechal-Drouard, L., Marshall, W.F., Qu, L.-H., Nelson, D.R., Sanderfoot, A.A., Spalding, M.H., Kapitonov, V.V., Ren, Q., Ferris, P., Lindquist, E., Shapiro, H., Lucas, S.M., Grimwood, J., Schmutz, J., Cardol, P., Cerutti, H., Chanfreau, G., Chen, C.-L., Cognat, V., Croft, M.T., Dent, R., Dutcher, S., Fernandez, E., Fukuzawa, H., Gonzalez-Balle, D., Gonzalez-Halphen, D., Hallmann, A., Hanikenne, M., Hippler, M., Inwood, W., Jabbari, K., Kalanon, M., Kuras, R., Lefebvre, P.A., Lemaire, S.D., Lobanov, A.V., Lohr, M., Manuell, A., Meier, I., Mets, L., Mittag, M., Mittelmeier, T., Moroney, J.V., Moseley, J., Napoli, C., Nedelcu, A.M., Niyogi, K., Novoselov, S.V., Paulsen, I.T., Pazour, G., Purton, S., Ral, J.-P., Riano-Pachon, D.M., Riekhof, W., Rymarquis, L., Schroda, M., Stern, D., Umen, J., Willows, R., Wilson, N., Zimmer, S.L., Allmer, J., Balk, J., Bisova, K., Chen, C.-J., Elias, M., Gendler, K., Hauser, C., Lamb, M.R., Ledford, H., Long, J.C., Minagawa, J., Page, M.D., Pan, J., Pootakham, W., Roje, S., Rose, A., Stahlberg, E., Terauchi, A.M., Yang, P., Ball, S., Bowler, C., Dieckmann, C.L., Gladyshev, V.N., Green, P., Jorgensen, R., Mayfield, S., Mueller-Roeber, B., Rajamani, S., Sayre, R.T., Brokstein, P., Dubchak, I., Goodstein, D., Hornick, L., Huang, Y.W., Jhaveri, J., Luo, Y., Martinez, D., Ngau, W.C.A., Otillar, B., Poliakov, A., Porter, A., Szajkowski, L., Werner, G., Zhou, K., Grigoriev, I.V., Rokhsar, D.S., Grossman, A.R.: The Chlamydomonas genome reveals the evolution of key animal and plant functions. Science. 318, 245-250 (2007).</lncs>
+<mla>Merchant, Sabeeha S., Prochnik, Simon E., Vallon, Olivier, Harris, Elizabeth H., Karpowicz, Steven J., Witman, George B., Terry, Astrid, Salamov, Asaf, Fritz-Laylin, Lillian K., Marechal-Drouard, Laurence, Marshall, Wallace F., Qu, Liang-Hu, Nelson, David R., Sanderfoot, Anton A., Spalding, Martin H., Kapitonov, Vladimir V., Ren, Qinghu, Ferris, Patrick, Lindquist, Erika, Shapiro, Harris, Lucas, Susan M., Grimwood, Jane, Schmutz, Jeremy, Cardol, Pierre, Cerutti, Heriberto, Chanfreau, Guillaume, Chen, Chun-Long, Cognat, Valerie, Croft, Martin T., Dent, Rachel, Dutcher, Susan, Fernandez, Emilio, Fukuzawa, Hideya, Gonzalez-Balle, David, Gonzalez-Halphen, Diego, Hallmann, Armin, Hanikenne, Marc, Hippler, Michael, Inwood, William, Jabbari, Kamel, Kalanon, Ming, Kuras, Richard, Lefebvre, Paul A., Lemaire, Stephane D., Lobanov, Alexey V., Lohr, Martin, Manuell, Andrea, Meier, Iris, Mets, Laurens, Mittag, Maria, Mittelmeier, Telsa, Moroney, James V., Moseley, Jeffrey, Napoli, Carolyn, Nedelcu, Aurora M., Niyogi, Krishna, Novoselov, Sergey V., Paulsen, Ian T., Pazour, Greg, Purton, Saul, Ral, Jean-Philippe, Riano-Pachon, Diego Mauricio, Riekhof, Wayne, Rymarquis, Linda, Schroda, Michael, Stern, David, Umen, James, Willows, Robert, Wilson, Nedra, Zimmer, Sara Lana, Allmer, Jens, Balk, Janneke, Bisova, Katerina, Chen, Chong-Jian, Elias, Marek, Gendler, Karla, Hauser, Charles, Lamb, Mary Rose, Ledford, Heidi, Long, Joanne C., Minagawa, Jun, Page, M. Dudley, Pan, Junmin, Pootakham, Wirulda, Roje, Sanja, Rose, Annkatrin, Stahlberg, Eric, Terauchi, Aimee M., Yang, Pinfen, Ball, Steven, Bowler, Chris, Dieckmann, Carol L., Gladyshev, Vadim N., Green, Pamela, Jorgensen, Richard, Mayfield, Stephen, Mueller-Roeber, Bernd, Rajamani, Sathish, Sayre, Richard T., Brokstein, Peter, Dubchak, Inna, Goodstein, David, Hornick, Leila, Huang, Y. Wayne, Jhaveri, Jinal, Luo, Yigong, Martinez, Diego, Ngau, Wing Chi Abby, Otillar, Bobby, Poliakov, Alexander, Porter, Aaron, Szajkowski, Lukasz, Werner, Gregory, Zhou, Kemin, Grigoriev, Igor V., Rokhsar, Daniel S., and Grossman, Arthur R. “The Chlamydomonas genome reveals the evolution of key animal and plant functions”. &lt;em&gt;Science&lt;/em&gt; 318.5848 (2007): 245-250.</mla>
+<ieee>S.S. Merchant, et al., “The Chlamydomonas genome reveals the evolution of key animal and plant functions”, &lt;em&gt;Science&lt;/em&gt;,  vol. 318, 2007,  pp. 245-250.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1631976</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:06:02Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-01-08T14:40:08Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1631976</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1631976</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,100 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Zur Mengenbehandlung im 1. Schuljahr</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Sigrid</namePart>
+  <namePart type="family">Graumann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Günter</namePart>
+  <namePart type="family">Graumann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10520</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Graumann_007.pdf">https://pub.uni-bielefeld.de/download/1776176/2312084</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1972</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Westermanns Pädagogische Beiträge</title></titleInfo>
+  <identifier type="issn">0043-3446</identifier><identifier type="urn">urn:nbn:de:0070-bipr-11271</identifier>
+<part><detail type="volume"><number>24</number></detail><detail type="issue"><number>5</number></detail><extent unit="pages">279-282</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Graumann S, Graumann G (1972) &lt;br /&gt;Westermanns Pädagogische Beiträge 24(5): 279-282.</default>
+<wels>Graumann, S.; Graumann, G. (1972): Zur Mengenbehandlung im 1. Schuljahr &lt;em&gt;Westermanns Pädagogische Beiträge&lt;/em&gt;,24:(5): 279-282.</wels>
+<aps>S.  Graumann and G.  Graumann, Zur Mengenbehandlung im 1. Schuljahr, Westermanns Pädagogische Beiträge &lt;strong&gt;24&lt;/strong&gt;, 279-282 (1972).</aps>
+<bio1>Graumann S, Graumann G (1972) &lt;br /&gt;Zur Mengenbehandlung im 1. Schuljahr.&lt;br /&gt;Westermanns Pädagogische Beiträge 24(5): 279-282.</bio1>
+<ama>Graumann S, Graumann G. Zur Mengenbehandlung im 1. Schuljahr. &lt;em&gt;Westermanns Pädagogische Beiträge&lt;/em&gt;. 1972;24(5):279-282.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Graumann, S. &amp;amp; Graumann, G. (1972). Zur Mengenbehandlung im 1. Schuljahr. &lt;em&gt;Westermanns Pädagogische Beiträge&lt;/em&gt;, &lt;em&gt;24&lt;/em&gt;(5), 279-282.&lt;/div&gt;</dgps>
+<harvard1>Graumann, S., &amp;amp; Graumann, G., 1972. Zur Mengenbehandlung im 1. Schuljahr. &lt;em&gt;Westermanns Pädagogische Beiträge&lt;/em&gt;, 24(5), p 279-282.</harvard1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Graumann, Sigrid, and Graumann, Günter. 1972. “Zur Mengenbehandlung im 1. Schuljahr”. &lt;em&gt;Westermanns Pädagogische Beiträge&lt;/em&gt; 24 (5): 279-282.&lt;/div&gt;</chicago>
+<frontiers>Graumann, S., and Graumann, G. (1972). Zur Mengenbehandlung im 1. Schuljahr. &lt;em&gt;Westermanns Pädagogische Beiträge&lt;/em&gt; 24, 279-282.</frontiers>
+<apa>Graumann, S., &amp;amp; Graumann, G. (1972). Zur Mengenbehandlung im 1. Schuljahr. &lt;em&gt;Westermanns Pädagogische Beiträge&lt;/em&gt;, &lt;em&gt;24&lt;/em&gt;(5), 279-282.</apa>
+<angewandte-chemie>S.  Graumann, and G.  Graumann, “Zur Mengenbehandlung im 1. Schuljahr”, &lt;em&gt;Westermanns Pädagogische Beiträge&lt;/em&gt;, &lt;strong&gt;1972&lt;/strong&gt;, &lt;em&gt;24&lt;/em&gt;, 279-282.</angewandte-chemie>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Graumann, S., &amp;amp; Graumann, G. (1972). Zur Mengenbehandlung im 1. Schuljahr. &lt;em&gt;Westermanns Pädagogische Beiträge&lt;/em&gt;, &lt;em&gt;24&lt;/em&gt;(5), 279-282.&lt;/div&gt;</apa_indent>
+<lncs>Graumann, S., Graumann, G.: Zur Mengenbehandlung im 1. Schuljahr. Westermanns Pädagogische Beiträge. 24, 279-282 (1972).</lncs>
+<mla>Graumann, Sigrid, and Graumann, Günter. “Zur Mengenbehandlung im 1. Schuljahr”. &lt;em&gt;Westermanns Pädagogische Beiträge&lt;/em&gt; 24.5 (1972): 279-282.</mla>
+<ieee>S. Graumann and G. Graumann, “Zur Mengenbehandlung im 1. Schuljahr”, &lt;em&gt;Westermanns Pädagogische Beiträge&lt;/em&gt;,  vol. 24, 1972,  pp. 279-282.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776176</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776176</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776176</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,121 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Periodic acceptor excitation spectroscopy of single molecules</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Soren</namePart>
+  <namePart type="family">Doose</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Mike</namePart>
+  <namePart type="family">Heilemann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">4939957</identifier></name>
+<name type="personal">
+  <namePart type="given">Xavier</namePart>
+  <namePart type="family">Michalet</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Shimon</namePart>
+  <namePart type="family">Weiss</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Achillefs N.</namePart>
+  <namePart type="family">Kapanidis</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">2161137</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Alternating-laser excitation (ALEX) spectroscopy has recently been added to the single-molecule spectroscopy toolkit. ALEX monitors interaction and stoichiometry of biomolecules, reports on biomolecular structure by measuring accurate Forster resonance energy transfer (FRET) efficiencies, and allows sorting of subpopulations on the basis of stoichiometry and FRET. Here, we demonstrate that a simple combination of one continuous-wave donor-excitation laser and one directly modulated acceptor-excitation laser (Periodic Acceptor eXcitation) is sufficient to recapitulate the capabilities of ALEX while minimizing the cost and complexity associated with use of modulation techniques.</abstract>
+
+<originInfo><publisher>SPRINGER</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>alternating-laser excitation</topic><topic>single-molecule fluorescence spectroscopy</topic><topic>(ALEX)</topic><topic>Forster resonance energy transfer (FRET)</topic><topic>biomolecular</topic><topic>interactions</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS</title></titleInfo>
+  <identifier type="issn">0175-7571</identifier>
+  <identifier type="eIssn">1432-1017</identifier>
+  <identifier type="MEDLINE">17279362</identifier>
+  <identifier type="ISI">000248085600010</identifier><identifier type="doi">10.1007/s00249-007-0133-7</identifier>
+<part><detail type="volume"><number>36</number></detail><detail type="issue"><number>6</number></detail><extent unit="pages">669-674</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Doose S, Heilemann M, Michalet X, Weiss S, Kapanidis AN. Periodic acceptor excitation spectroscopy of single molecules. &lt;em&gt;EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS&lt;/em&gt;. 2007;36(6):669-674.</ama>
+<harvard1>Doose, S., et al., 2007. Periodic acceptor excitation spectroscopy of single molecules. &lt;em&gt;EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS&lt;/em&gt;, 36(6), p 669-674.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Doose, S., Heilemann, M., Michalet, X., Weiss, S. &amp;amp; Kapanidis, A.N. (2007). Periodic acceptor excitation spectroscopy of single molecules. &lt;em&gt;EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS&lt;/em&gt;, &lt;em&gt;36&lt;/em&gt;(6), 669-674. SPRINGER. doi:10.1007/s00249-007-0133-7.&lt;/div&gt;</dgps>
+<bio1>Doose S, Heilemann M, Michalet X, Weiss S, Kapanidis AN (2007) &lt;br /&gt;Periodic acceptor excitation spectroscopy of single molecules.&lt;br /&gt;EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS 36(6): 669-674.</bio1>
+<aps> S.  Doose, et al., Periodic acceptor excitation spectroscopy of single molecules, EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS &lt;strong&gt;36&lt;/strong&gt;, 669-674 (2007).</aps>
+<wels>Doose, S.; Heilemann, M.; Michalet, X.; Weiss, S.; Kapanidis, A. N. (2007): Periodic acceptor excitation spectroscopy of single molecules &lt;em&gt;EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS&lt;/em&gt;,36:(6): 669-674.</wels>
+<default>Doose S, Heilemann M, Michalet X, Weiss S, Kapanidis AN (2007) &lt;br /&gt;EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS 36(6): 669-674.</default>
+<ieee> S. Doose, et al., “Periodic acceptor excitation spectroscopy of single molecules”, &lt;em&gt;EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS&lt;/em&gt;,  vol. 36, 2007,  pp. 669-674.</ieee>
+<mla>Doose, Soren, Heilemann, Mike, Michalet, Xavier, Weiss, Shimon, and Kapanidis, Achillefs N. “Periodic acceptor excitation spectroscopy of single molecules”. &lt;em&gt;EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS&lt;/em&gt; 36.6 (2007): 669-674.</mla>
+<lncs> Doose, S., Heilemann, M., Michalet, X., Weiss, S., Kapanidis, A.N.: Periodic acceptor excitation spectroscopy of single molecules. EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS. 36, 669-674 (2007).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Doose, S., Heilemann, M., Michalet, X., Weiss, S., &amp;amp; Kapanidis, A. N. (2007). Periodic acceptor excitation spectroscopy of single molecules. &lt;em&gt;EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS&lt;/em&gt;, &lt;em&gt;36&lt;/em&gt;(6), 669-674.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>S.  Doose, M.  Heilemann, X.  Michalet, S.  Weiss, and A. N.  Kapanidis, “Periodic acceptor excitation spectroscopy of single molecules”, &lt;em&gt;EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;36&lt;/em&gt;, 669-674.</angewandte-chemie>
+<apa>Doose, S., Heilemann, M., Michalet, X., Weiss, S., &amp;amp; Kapanidis, A. N. (2007). Periodic acceptor excitation spectroscopy of single molecules. &lt;em&gt;EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS&lt;/em&gt;, &lt;em&gt;36&lt;/em&gt;(6), 669-674.</apa>
+<frontiers>Doose, S., Heilemann, M., Michalet, X., Weiss, S., and Kapanidis, A. N. (2007). Periodic acceptor excitation spectroscopy of single molecules. &lt;em&gt;EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS&lt;/em&gt; 36, 669-674.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Doose, Soren, Heilemann, Mike, Michalet, Xavier, Weiss, Shimon, and Kapanidis, Achillefs N. 2007. “Periodic acceptor excitation spectroscopy of single molecules”. &lt;em&gt;EUROPEAN BIOPHYSICS JOURNAL WITH BIOPHYSICS LETTERS&lt;/em&gt; 36 (6): 669-674.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1593226</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:15:44Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-18T09:16:49Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1593226</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1593226</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

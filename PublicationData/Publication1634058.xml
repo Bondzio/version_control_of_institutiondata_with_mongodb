@@ -1,0 +1,101 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Eye movements of laterally eyed birds are not independent</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Joachim</namePart>
+  <namePart type="family">Voß</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">42379</identifier></name>
+<name type="personal">
+  <namePart type="given">Hans-Joachim</namePart>
+  <namePart type="family">Bischof</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">22137</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Verhaltensforschung</namePart>
+  <identifier type="unibi">2528935</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Most birds have laterally placed eyes with two largely separated visual fields. According to studies in pigeons laterally eyed birds move their eyes independently in most situations, eye coordination just occurred during converging saccades towards frontal stimuli. Here we demonstrate for the first time that laterally eyed zebra finches show coordinated eye movements, regarding direction and amplitude. Spontaneous and visually elicited movements of the two eyes were recorded simultaneously, using a newly developed eye tracking system. We found that, if one eye moves in a certain direction, the other eye simultaneously performs a counter-movement in the opposite direction. Based on these data we developed a hypothesis of how laterally eyed birds cope with the situation in which the left and right eye simultaneously obtain images with different content. We suggest that the counter-movements maintain the spatial relationship of the two visual fields. &apos;Oculospatial constancy&apos;, as we call it, facilitates the combination of the left and right visual percept on the level of peripheral or unattended viewing, and the localization of appearing stimuli within the whole visual field. As soon as two visual stimuli simultaneously appear in the left and right visual field, the birds decide on one stimulus and direct the fovea of the appropriate eye towards it for high resolution analysis, the other eye simultaneously performing a counter-saccade. This leads to the assumption that, in contrast to simultaneous peripheral perception with two eyes, the processing of foveal information is possible only for one eye at one time.</abstract>
+
+<originInfo><publisher>The Company of Biologists</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>vision</topic><topic>birds</topic><topic>eye tracking</topic><topic>oculospatial constancy</topic><topic>eye coordination</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF EXPERIMENTAL BIOLOGY</title></titleInfo>
+  <identifier type="issn">0022-0949</identifier>
+  <identifier type="eIssn">1477-9145</identifier>
+  <identifier type="MEDLINE">19411551</identifier>
+  <identifier type="ISI">000265680000023</identifier><identifier type="doi">10.1242/jeb.024950</identifier>
+<part><detail type="volume"><number>212</number></detail><detail type="issue"><number>10</number></detail><extent unit="pages">1568-1575</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>J.  Voß and H. - J.  Bischof, Eye movements of laterally eyed birds are not independent, JOURNAL OF EXPERIMENTAL BIOLOGY &lt;strong&gt;212&lt;/strong&gt;, 1568-1575 (2009).</aps>
+<bio1>Voß J, Bischof H-J (2009) &lt;br /&gt;Eye movements of laterally eyed birds are not independent.&lt;br /&gt;JOURNAL OF EXPERIMENTAL BIOLOGY 212(10): 1568-1575.</bio1>
+<ama>Voß J, Bischof H-J. Eye movements of laterally eyed birds are not independent. &lt;em&gt;JOURNAL OF EXPERIMENTAL BIOLOGY&lt;/em&gt;. 2009;212(10):1568-1575.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Voß, J. &amp;amp; Bischof, H.-J. (2009). Eye movements of laterally eyed birds are not independent. &lt;em&gt;JOURNAL OF EXPERIMENTAL BIOLOGY&lt;/em&gt;, &lt;em&gt;212&lt;/em&gt;(10), 1568-1575. The Company of Biologists. doi:10.1242/jeb.024950.&lt;/div&gt;</dgps>
+<harvard1>Voß, J., &amp;amp; Bischof, H.-J., 2009. Eye movements of laterally eyed birds are not independent. &lt;em&gt;JOURNAL OF EXPERIMENTAL BIOLOGY&lt;/em&gt;, 212(10), p 1568-1575.</harvard1>
+<default>Voß J, Bischof H-J (2009) &lt;br /&gt;JOURNAL OF EXPERIMENTAL BIOLOGY 212(10): 1568-1575.</default>
+<wels>Voß, J.; Bischof, H. - J. (2009): Eye movements of laterally eyed birds are not independent &lt;em&gt;JOURNAL OF EXPERIMENTAL BIOLOGY&lt;/em&gt;,212:(10): 1568-1575.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Voß, J., &amp;amp; Bischof, H. - J. (2009). Eye movements of laterally eyed birds are not independent. &lt;em&gt;JOURNAL OF EXPERIMENTAL BIOLOGY&lt;/em&gt;, &lt;em&gt;212&lt;/em&gt;(10), 1568-1575.&lt;/div&gt;</apa_indent>
+<mla>Voß, Joachim, and Bischof, Hans-Joachim. “Eye movements of laterally eyed birds are not independent”. &lt;em&gt;JOURNAL OF EXPERIMENTAL BIOLOGY&lt;/em&gt; 212.10 (2009): 1568-1575.</mla>
+<lncs>Voß, J., Bischof, H.-J.: Eye movements of laterally eyed birds are not independent. JOURNAL OF EXPERIMENTAL BIOLOGY. 212, 1568-1575 (2009).</lncs>
+<ieee>J. Voß and H.-J. Bischof, “Eye movements of laterally eyed birds are not independent”, &lt;em&gt;JOURNAL OF EXPERIMENTAL BIOLOGY&lt;/em&gt;,  vol. 212, 2009,  pp. 1568-1575.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Voß, Joachim, and Bischof, Hans-Joachim. 2009. “Eye movements of laterally eyed birds are not independent”. &lt;em&gt;JOURNAL OF EXPERIMENTAL BIOLOGY&lt;/em&gt; 212 (10): 1568-1575.&lt;/div&gt;</chicago>
+<frontiers>Voß, J., and Bischof, H. - J. (2009). Eye movements of laterally eyed birds are not independent. &lt;em&gt;JOURNAL OF EXPERIMENTAL BIOLOGY&lt;/em&gt; 212, 1568-1575.</frontiers>
+<angewandte-chemie>J.  Voß, and H. - J.  Bischof, “Eye movements of laterally eyed birds are not independent”, &lt;em&gt;JOURNAL OF EXPERIMENTAL BIOLOGY&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;212&lt;/em&gt;, 1568-1575.</angewandte-chemie>
+<apa>Voß, J., &amp;amp; Bischof, H. - J. (2009). Eye movements of laterally eyed birds are not independent. &lt;em&gt;JOURNAL OF EXPERIMENTAL BIOLOGY&lt;/em&gt;, &lt;em&gt;212&lt;/em&gt;(10), 1568-1575.</apa>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1634058</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:08Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-12T08:40:37Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1634058</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1634058</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

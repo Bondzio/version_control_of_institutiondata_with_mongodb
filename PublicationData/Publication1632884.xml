@@ -1,0 +1,133 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>FarR, a putative regulator of amino acid metabolism in Corynebacterium glutamicum</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Eva</namePart>
+  <namePart type="family">Haenssler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Tim</namePart>
+  <namePart type="family">Mueller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Nadja</namePart>
+  <namePart type="family">Jessberger</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Anja</namePart>
+  <namePart type="family">Voelzke</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jens</namePart>
+  <namePart type="family">Plassmeier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Jörn</namePart>
+  <namePart type="family">Kalinowski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">147567</identifier></name>
+<name type="personal">
+  <namePart type="given">Reinhard</namePart>
+  <namePart type="family">Kraemer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Burkovski</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Genomforschung und Systembiologie</namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group J. Kalinowski</namePart>
+  <identifier type="unibi">33070724</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">With the publication of the Corynebacterium glutamicum genome sequence, a global characterization of genes controlled by functionally uncharacterized transcriptional regulators became possible. We used DNA microarrays in combination with gel retardation experiments to study gene regulation by FarR, a HutC/FarR-type regulator of the GntR family. Based on our results, FarR seems to be involved in the regulation of amino acid biosynthesis in C. glutamicum. Especially, transcript levels of the arg cluster and the gdh gene are influenced by deletion of farR.</abstract>
+
+<originInfo><publisher>SPRINGER</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>arginine</topic><topic>glutamate dehydrogenase</topic><topic>Corynebacterium</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>APPLIED MICROBIOLOGY AND BIOTECHNOLOGY</title></titleInfo>
+  <identifier type="issn">0175-7598</identifier>
+  <identifier type="eIssn">1432-0614</identifier>
+  <identifier type="MEDLINE">17483938</identifier>
+  <identifier type="ISI">000248893700016</identifier><identifier type="doi">10.1007/s00253-007-0929-5</identifier>
+<part><detail type="volume"><number>76</number></detail><detail type="issue"><number>3</number></detail><extent unit="pages">625-632</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Haenssler, E., Mueller, T., Jessberger, N., Voelzke, A., Plassmeier, J., Kalinowski, J., Kraemer, R., and Burkovski, A. (2007). FarR, a putative regulator of amino acid metabolism in Corynebacterium glutamicum. &lt;em&gt;APPLIED MICROBIOLOGY AND BIOTECHNOLOGY&lt;/em&gt; 76, 625-632.</frontiers>
+<apa>Haenssler, E., Mueller, T., Jessberger, N., Voelzke, A., Plassmeier, J., Kalinowski, J., Kraemer, R., et al. (2007). FarR, a putative regulator of amino acid metabolism in Corynebacterium glutamicum. &lt;em&gt;APPLIED MICROBIOLOGY AND BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;76&lt;/em&gt;(3), 625-632.</apa>
+<angewandte-chemie>E.  Haenssler, T.  Mueller, N.  Jessberger, A.  Voelzke, J.  Plassmeier, J.  Kalinowski, R.  Kraemer, and A.  Burkovski, “FarR, a putative regulator of amino acid metabolism in Corynebacterium glutamicum”, &lt;em&gt;APPLIED MICROBIOLOGY AND BIOTECHNOLOGY&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;76&lt;/em&gt;, 625-632.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Haenssler, Eva, Mueller, Tim, Jessberger, Nadja, Voelzke, Anja, Plassmeier, Jens, Kalinowski, Jörn, Kraemer, Reinhard, and Burkovski, Andreas. 2007. “FarR, a putative regulator of amino acid metabolism in Corynebacterium glutamicum”. &lt;em&gt;APPLIED MICROBIOLOGY AND BIOTECHNOLOGY&lt;/em&gt; 76 (3): 625-632.&lt;/div&gt;</chicago>
+<mla>Haenssler, Eva, Mueller, Tim, Jessberger, Nadja, Voelzke, Anja, Plassmeier, Jens, Kalinowski, Jörn, Kraemer, Reinhard, and Burkovski, Andreas. “FarR, a putative regulator of amino acid metabolism in Corynebacterium glutamicum”. &lt;em&gt;APPLIED MICROBIOLOGY AND BIOTECHNOLOGY&lt;/em&gt; 76.3 (2007): 625-632.</mla>
+<lncs>Haenssler, E., Mueller, T., Jessberger, N., Voelzke, A., Plassmeier, J., Kalinowski, J., Kraemer, R., Burkovski, A.: FarR, a putative regulator of amino acid metabolism in Corynebacterium glutamicum. APPLIED MICROBIOLOGY AND BIOTECHNOLOGY. 76, 625-632 (2007).</lncs>
+<ieee>E. Haenssler, et al., “FarR, a putative regulator of amino acid metabolism in Corynebacterium glutamicum”, &lt;em&gt;APPLIED MICROBIOLOGY AND BIOTECHNOLOGY&lt;/em&gt;,  vol. 76, 2007,  pp. 625-632.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Haenssler, E., Mueller, T., Jessberger, N., Voelzke, A., Plassmeier, J., Kalinowski, J., Kraemer, R., et al. (2007). FarR, a putative regulator of amino acid metabolism in Corynebacterium glutamicum. &lt;em&gt;APPLIED MICROBIOLOGY AND BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;76&lt;/em&gt;(3), 625-632.&lt;/div&gt;</apa_indent>
+<default>Haenssler E, Mueller T, Jessberger N, Voelzke A, Plassmeier J, Kalinowski J, Kraemer R, Burkovski A (2007) &lt;br /&gt;APPLIED MICROBIOLOGY AND BIOTECHNOLOGY 76(3): 625-632.</default>
+<wels>Haenssler, E.; Mueller, T.; Jessberger, N.; Voelzke, A.; Plassmeier, J.; Kalinowski, J.; Kraemer, R.; Burkovski, A. (2007): FarR, a putative regulator of amino acid metabolism in Corynebacterium glutamicum &lt;em&gt;APPLIED MICROBIOLOGY AND BIOTECHNOLOGY&lt;/em&gt;,76:(3): 625-632.</wels>
+<bio1>Haenssler E, Mueller T, Jessberger N, Voelzke A, Plassmeier J, Kalinowski J, Kraemer R, Burkovski A (2007) &lt;br /&gt;FarR, a putative regulator of amino acid metabolism in Corynebacterium glutamicum.&lt;br /&gt;APPLIED MICROBIOLOGY AND BIOTECHNOLOGY 76(3): 625-632.</bio1>
+<aps>E.  Haenssler, et al., FarR, a putative regulator of amino acid metabolism in Corynebacterium glutamicum, APPLIED MICROBIOLOGY AND BIOTECHNOLOGY &lt;strong&gt;76&lt;/strong&gt;, 625-632 (2007).</aps>
+<harvard1>Haenssler, E., et al., 2007. FarR, a putative regulator of amino acid metabolism in Corynebacterium glutamicum. &lt;em&gt;APPLIED MICROBIOLOGY AND BIOTECHNOLOGY&lt;/em&gt;, 76(3), p 625-632.</harvard1>
+<ama>Haenssler E, Mueller T, Jessberger N, et al. FarR, a putative regulator of amino acid metabolism in Corynebacterium glutamicum. &lt;em&gt;APPLIED MICROBIOLOGY AND BIOTECHNOLOGY&lt;/em&gt;. 2007;76(3):625-632.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Haenssler, E., Mueller, T., Jessberger, N., Voelzke, A., Plassmeier, J., Kalinowski, J., Kraemer, R. &amp;amp; Burkovski, A. (2007). FarR, a putative regulator of amino acid metabolism in Corynebacterium glutamicum. &lt;em&gt;APPLIED MICROBIOLOGY AND BIOTECHNOLOGY&lt;/em&gt;, &lt;em&gt;76&lt;/em&gt;(3), 625-632. SPRINGER. doi:10.1007/s00253-007-0929-5.&lt;/div&gt;</dgps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1632884</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:06:23Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-07T16:39:52Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1632884</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1632884</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

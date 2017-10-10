@@ -1,0 +1,122 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Inflationary infrared divergences: geometry of the reheating surface vs. delta N formalism</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">Byrnes</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">16080097</identifier></name>
+<name type="personal">
+  <namePart type="given">M.</namePart>
+  <namePart type="family">Gerstenlauer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">A.</namePart>
+  <namePart type="family">Hebecker</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">S.</namePart>
+  <namePart type="family">Nurmi</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">G.</namePart>
+  <namePart type="family">Tasinato</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Physik</namePart>
+  <identifier type="unibi">10028</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Astroteilchen und Kosmologie</namePart>
+  <identifier type="unibi">23381619</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We describe a simple way of incorporating fluctuations of the Hubble scale during the horizon exit of scalar perturbations into the delta N formalism. The dominant effect comes from the dependence of the Hubble scale on low-frequency modes of the inflaton. This modifies the coefficient of the log-enhanced term appearing in the curvature spectrum at second order in field fluctuations. With this modification, the relevant coefficient turns out to be proportional to the second derivative of the tree-level spectrum with respect to the inflaton. at horizon exit. A logarithm with precisely the same coefficient appears in a calculation of the log-enhancement of the curvature spectrum based purely on the geometry of the reheating surface. We take this agreement as strong support for the proposed implementation of the dN formalism. Moreover, our analysis makes it apparent that the log-enhancement of the inflationary power-spectrum is indeed physical if this quantity is defined using a global coordinate system on the reheating surface (or any other post-inflationary surface of constant energy density). However, it can be avoided by defining the spectrum using invariant distances on this surface.</abstract>
+
+<originInfo><publisher>IOP Publishing</publisher><dateIssued encoding="w3cdtf">2010</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>inflation</topic><topic>cosmological perturbation theory</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JCAP</title></titleInfo>
+  <identifier type="issn">1475-7516</identifier>
+  <identifier type="eIssn">1475-7516</identifier>
+  <identifier type="arXiv">1005.3307</identifier>
+  <identifier type="INSPIRE">855268</identifier>
+  <identifier type="ISI">000283575000034</identifier><identifier type="doi">10.1088/1475-7516/2010/08/006</identifier>
+<part><detail type="volume"><number>2010</number></detail><detail type="issue"><number>08</number></detail><extent unit="pages">006</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ama>Byrnes C, Gerstenlauer M, Hebecker A, Nurmi S, Tasinato G. Inflationary infrared divergences: geometry of the reheating surface vs. delta N formalism. &lt;em&gt;JCAP&lt;/em&gt;. 2010;2010(08).</ama>
+<harvard1>Byrnes, C., et al., 2010. Inflationary infrared divergences: geometry of the reheating surface vs. delta N formalism. &lt;em&gt;JCAP&lt;/em&gt;, 2010(08).</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Byrnes, C., Gerstenlauer, M., Hebecker, A., Nurmi, S. &amp;amp; Tasinato, G. (2010). Inflationary infrared divergences: geometry of the reheating surface vs. delta N formalism. &lt;em&gt;JCAP&lt;/em&gt;, &lt;em&gt;2010&lt;/em&gt;(08). IOP Publishing. doi:10.1088/1475-7516/2010/08/006.&lt;/div&gt;</dgps>
+<aps>C.  Byrnes, et al., Inflationary infrared divergences: geometry of the reheating surface vs. delta N formalism, JCAP &lt;strong&gt;2010&lt;/strong&gt;, (2010).</aps>
+<bio1>Byrnes C, Gerstenlauer M, Hebecker A, Nurmi S, Tasinato G (2010) &lt;br /&gt;Inflationary infrared divergences: geometry of the reheating surface vs. delta N formalism.&lt;br /&gt;JCAP 2010(08).</bio1>
+<wels>Byrnes, C.; Gerstenlauer, M.; Hebecker, A.; Nurmi, S.; Tasinato, G. (2010): Inflationary infrared divergences: geometry of the reheating surface vs. delta N formalism &lt;em&gt;JCAP&lt;/em&gt;,2010:(08)</wels>
+<default>Byrnes C, Gerstenlauer M, Hebecker A, Nurmi S, Tasinato G (2010) &lt;br /&gt;JCAP 2010(08).</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Byrnes, C., Gerstenlauer, M., Hebecker, A., Nurmi, S., &amp;amp; Tasinato, G. (2010). Inflationary infrared divergences: geometry of the reheating surface vs. delta N formalism. &lt;em&gt;JCAP&lt;/em&gt;, &lt;em&gt;2010&lt;/em&gt;(08).&lt;/div&gt;</apa_indent>
+<ieee>C. Byrnes, et al., “Inflationary infrared divergences: geometry of the reheating surface vs. delta N formalism”, &lt;em&gt;JCAP&lt;/em&gt;,  vol. 2010, 2010.</ieee>
+<mla>Byrnes, Christian, Gerstenlauer, M., Hebecker, A., Nurmi, S., and Tasinato, G. “Inflationary infrared divergences: geometry of the reheating surface vs. delta N formalism”. &lt;em&gt;JCAP&lt;/em&gt; 2010.08 (2010).</mla>
+<lncs>Byrnes, C., Gerstenlauer, M., Hebecker, A., Nurmi, S., Tasinato, G.: Inflationary infrared divergences: geometry of the reheating surface vs. delta N formalism. JCAP. 2010, (2010).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Byrnes, Christian, Gerstenlauer, M., Hebecker, A., Nurmi, S., and Tasinato, G. 2010. “Inflationary infrared divergences: geometry of the reheating surface vs. delta N formalism”. &lt;em&gt;JCAP&lt;/em&gt; 2010 (08).&lt;/div&gt;</chicago>
+<apa>Byrnes, C., Gerstenlauer, M., Hebecker, A., Nurmi, S., &amp;amp; Tasinato, G. (2010). Inflationary infrared divergences: geometry of the reheating surface vs. delta N formalism. &lt;em&gt;JCAP&lt;/em&gt;, &lt;em&gt;2010&lt;/em&gt;(08).</apa>
+<angewandte-chemie>C.  Byrnes, M.  Gerstenlauer, A.  Hebecker, S.  Nurmi, and G.  Tasinato, “Inflationary infrared divergences: geometry of the reheating surface vs. delta N formalism”, &lt;em&gt;JCAP&lt;/em&gt;, &lt;strong&gt;2010&lt;/strong&gt;, &lt;em&gt;2010&lt;/em&gt;.</angewandte-chemie>
+<frontiers>Byrnes, C., Gerstenlauer, M., Hebecker, A., Nurmi, S., and Tasinato, G. (2010). Inflationary infrared divergences: geometry of the reheating surface vs. delta N formalism. &lt;em&gt;JCAP&lt;/em&gt; 2010.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1929190</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-12-07T10:47:04Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-07T15:39:48Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1929190</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1929190</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

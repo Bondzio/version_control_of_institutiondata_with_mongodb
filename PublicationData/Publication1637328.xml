@@ -1,0 +1,97 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Numerical electronic structure calculations for atoms .1. Generalized variable transformation and nonrelativistic calculations</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Dirk</namePart>
+  <namePart type="family">Andrae</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20327</identifier></name>
+<name type="personal">
+  <namePart type="given">J</namePart>
+  <namePart type="family">Hinze</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Theoretische Chemie</namePart>
+  <identifier type="unibi">17982</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The radial functions P-i in the nonrelativistic description of the electronic structure of atoms are solutions of eigenvalue equations. These equations are treated as two-point boundary value problems for bound one-electron states and can be solved to high accuracy with finite difference methods. For these numerical techniques the transformation to a suitable new radial variable is essential. The effects and consequences following from an arbitrary suitable variable transformation are studied in the most general way. Important results following from this general analysis are the extension of the range of application of the standard Numerov scheme and the outline for an algorithm of increased overall efficiency and reliability. Especially, the explicit use of transformed solution functions is shown to be unnecessary. Radial functions can be determined for arbitrary effective potentials resulting from the underlying theoretical description. It is demonstrated that all numerical results can be calculated to within a consistent numerical truncation error of order h(4) in the grid point spacing. The approach can be extended to handle unbound one-electron states and is applicable in other fields, where differential equations of similar character occur, e.g., in the description of the vibration of a diatomic molecule. A similar analysis for relativistic electronic structure calculations for atoms will be given in Part II. (C) 1997 John Wiley &amp; Sons, Inc.</abstract>
+
+<originInfo><publisher>JOHN WILEY &amp; SONS INC</publisher><dateIssued encoding="w3cdtf">1997</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY</title></titleInfo>
+  <identifier type="issn">0020-7608</identifier>
+  <identifier type="ISI">A1997WV73500011</identifier>
+<part><detail type="volume"><number>63</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">65-91</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>D. Andrae and J. Hinze, “Numerical electronic structure calculations for atoms .1. Generalized variable transformation and nonrelativistic calculations”, &lt;em&gt;INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY&lt;/em&gt;,  vol. 63, 1997,  pp. 65-91.</ieee>
+<mla>Andrae, Dirk, and Hinze, J. “Numerical electronic structure calculations for atoms .1. Generalized variable transformation and nonrelativistic calculations”. &lt;em&gt;INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY&lt;/em&gt; 63.1 (1997): 65-91.</mla>
+<lncs>Andrae, D., Hinze, J.: Numerical electronic structure calculations for atoms .1. Generalized variable transformation and nonrelativistic calculations. INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY. 63, 65-91 (1997).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Andrae, D., &amp;amp; Hinze, J. (1997). Numerical electronic structure calculations for atoms .1. Generalized variable transformation and nonrelativistic calculations. &lt;em&gt;INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY&lt;/em&gt;, &lt;em&gt;63&lt;/em&gt;(1), 65-91.&lt;/div&gt;</apa_indent>
+<angewandte-chemie>D.  Andrae, and J.  Hinze, “Numerical electronic structure calculations for atoms .1. Generalized variable transformation and nonrelativistic calculations”, &lt;em&gt;INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY&lt;/em&gt;, &lt;strong&gt;1997&lt;/strong&gt;, &lt;em&gt;63&lt;/em&gt;, 65-91.</angewandte-chemie>
+<apa>Andrae, D., &amp;amp; Hinze, J. (1997). Numerical electronic structure calculations for atoms .1. Generalized variable transformation and nonrelativistic calculations. &lt;em&gt;INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY&lt;/em&gt;, &lt;em&gt;63&lt;/em&gt;(1), 65-91.</apa>
+<frontiers>Andrae, D., and Hinze, J. (1997). Numerical electronic structure calculations for atoms .1. Generalized variable transformation and nonrelativistic calculations. &lt;em&gt;INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY&lt;/em&gt; 63, 65-91.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Andrae, Dirk, and Hinze, J. 1997. “Numerical electronic structure calculations for atoms .1. Generalized variable transformation and nonrelativistic calculations”. &lt;em&gt;INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY&lt;/em&gt; 63 (1): 65-91.&lt;/div&gt;</chicago>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Andrae, D. &amp;amp; Hinze, J. (1997). Numerical electronic structure calculations for atoms .1. Generalized variable transformation and nonrelativistic calculations. &lt;em&gt;INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY&lt;/em&gt;, &lt;em&gt;63&lt;/em&gt;(1), 65-91. JOHN WILEY &amp;amp; SONS INC.&lt;/div&gt;</dgps>
+<ama>Andrae D, Hinze J. Numerical electronic structure calculations for atoms .1. Generalized variable transformation and nonrelativistic calculations. &lt;em&gt;INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY&lt;/em&gt;. 1997;63(1):65-91.</ama>
+<harvard1>Andrae, D., &amp;amp; Hinze, J., 1997. Numerical electronic structure calculations for atoms .1. Generalized variable transformation and nonrelativistic calculations. &lt;em&gt;INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY&lt;/em&gt;, 63(1), p 65-91.</harvard1>
+<bio1>Andrae D, Hinze J (1997) &lt;br /&gt;Numerical electronic structure calculations for atoms .1. Generalized variable transformation and nonrelativistic calculations.&lt;br /&gt;INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY 63(1): 65-91.</bio1>
+<aps>D.  Andrae and J.  Hinze, Numerical electronic structure calculations for atoms .1. Generalized variable transformation and nonrelativistic calculations, INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY &lt;strong&gt;63&lt;/strong&gt;, 65-91 (1997).</aps>
+<wels>Andrae, D.; Hinze, J. (1997): Numerical electronic structure calculations for atoms .1. Generalized variable transformation and nonrelativistic calculations &lt;em&gt;INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY&lt;/em&gt;,63:(1): 65-91.</wels>
+<default>Andrae D, Hinze J (1997) &lt;br /&gt;INTERNATIONAL JOURNAL OF QUANTUM CHEMISTRY 63(1): 65-91.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1637328</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:14:12Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-13T15:27:05Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1637328</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1637328</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

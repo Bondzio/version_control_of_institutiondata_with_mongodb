@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Sportpädagogik: eine Disziplin auf der Suche nach ihrem Profil</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Dietrich</namePart>
+  <namePart type="family">Kurz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">120538</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Hartmut</namePart><namePart type="family">Gabler</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Arbeitsbereich IV - Sport und Erziehung</namePart>
+  <identifier type="unibi">28978161</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Kurz_011.pdf">https://pub.uni-bielefeld.de/download/1779206/2312582</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Hofmann</publisher><dateIssued encoding="w3cdtf">1990</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Für einen besseren Sport ...: Festschrift für Ommo Grupe</title></titleInfo>
+  <identifier type="isbn">3-7780-3650-5</identifier><identifier type="urn">urn:nbn:de:0070-bipr-17566</identifier>
+<part><extent unit="pages">236-251</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>D.  Kurz, Sportpädagogik: eine Disziplin auf der Suche nach ihrem Profil, in &lt;em&gt;Für einen besseren Sport ..: Festschrift für Ommo Grupe&lt;/em&gt;, edited by H.  Gabler (Hofmann, Schorndorf, 1990), p. 236-251.</aps>
+<bio1>Kurz D (1990) &lt;br /&gt;Sportpädagogik: eine Disziplin auf der Suche nach ihrem Profil. &lt;br /&gt;In:  Für einen besseren Sport ..: Festschrift für Ommo Grupe. Gabler H (Ed); Schorndorf: Hofmann:  236-251.</bio1>
+<ama>Kurz D. Sportpädagogik: eine Disziplin auf der Suche nach ihrem Profil. In: Gabler H, ed. &lt;em&gt;Für einen besseren Sport ..: Festschrift für Ommo Grupe&lt;/em&gt;. Schorndorf: Hofmann;  1990: 236-251.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kurz, D. (1990). Sportpädagogik: eine Disziplin auf der Suche nach ihrem Profil. &lt;em&gt;Für einen besseren Sport ..: Festschrift für Ommo Grupe&lt;/em&gt; (S. 236-251). Schorndorf: Hofmann.&lt;/div&gt;</dgps>
+<harvard1>Kurz, D., 1990. Sportpädagogik: eine Disziplin auf der Suche nach ihrem Profil. In H.  Gabler, ed. &lt;em&gt;Für einen besseren Sport ..: Festschrift für Ommo Grupe&lt;/em&gt;.  Schorndorf: Hofmann, pp. 236-251.</harvard1>
+<default>Kurz D (1990)  &lt;br /&gt;In:  Für einen besseren Sport ..: Festschrift für Ommo Grupe. Gabler H (Ed);Schorndorf: Hofmann:  236-251.</default>
+<wels>Kurz, D. (1990): Sportpädagogik: eine Disziplin auf der Suche nach ihrem Profil. In: Hartmut Gabler (Hrsg.):  Für einen besseren Sport ..: Festschrift für Ommo Grupe. Schorndorf: Hofmann.  S. 236-251.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kurz, D. (1990). Sportpädagogik: eine Disziplin auf der Suche nach ihrem Profil. In H.  Gabler (Ed.), &lt;em&gt;Für einen besseren Sport ..: Festschrift für Ommo Grupe&lt;/em&gt; (pp. 236-251). Schorndorf: Hofmann.&lt;/div&gt;</apa_indent>
+<lncs>Kurz, D.: Sportpädagogik: eine Disziplin auf der Suche nach ihrem Profil. In: Gabler, H. (ed.) Für einen besseren Sport ..: Festschrift für Ommo Grupe. p. 236-251. Hofmann, Schorndorf (1990).</lncs>
+<mla>Kurz, Dietrich. “Sportpädagogik: eine Disziplin auf der Suche nach ihrem Profil”. &lt;em&gt;Für einen besseren Sport ..: Festschrift für Ommo Grupe&lt;/em&gt;. Ed. Hartmut Gabler. Schorndorf: Hofmann, 1990. 236-251.</mla>
+<ieee>D. Kurz, “Sportpädagogik: eine Disziplin auf der Suche nach ihrem Profil”, &lt;em&gt;Für einen besseren Sport ..: Festschrift für Ommo Grupe&lt;/em&gt;, H. Gabler, ed.,  Schorndorf: Hofmann, 1990,  pp.236-251.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kurz, Dietrich. 1990. “Sportpädagogik: eine Disziplin auf der Suche nach ihrem Profil”. In &lt;em&gt;Für einen besseren Sport ..: Festschrift für Ommo Grupe&lt;/em&gt;, ed. Hartmut Gabler, 236-251. Schorndorf: Hofmann.&lt;/div&gt;</chicago>
+<frontiers>Kurz, D. (1990). “Sportpädagogik: eine Disziplin auf der Suche nach ihrem Profil” in &lt;em&gt;Für einen besseren Sport ..: Festschrift für Ommo Grupe&lt;/em&gt;, ed. H.  Gabler (Schorndorf: Hofmann), 236-251.</frontiers>
+<apa>Kurz, D. (1990). Sportpädagogik: eine Disziplin auf der Suche nach ihrem Profil. In H.  Gabler (Ed.), &lt;em&gt;Für einen besseren Sport ..: Festschrift für Ommo Grupe&lt;/em&gt; (pp. 236-251). Schorndorf: Hofmann.</apa>
+<angewandte-chemie>D.  Kurz, in &lt;em&gt;Für einen besseren Sport ..: Festschrift für Ommo Grupe&lt;/em&gt; (Ed.: H. Gabler), Hofmann, Schorndorf, &lt;strong&gt;1990&lt;/strong&gt;, p. 236-251.</angewandte-chemie>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1779206</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1779206</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1779206</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

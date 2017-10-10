@@ -1,0 +1,124 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Chromosomal high mobility group (HMG) proteins of the HMGB-type occurring in the moss Physcomitrella patens</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Bruno</namePart>
+  <namePart type="family">Kiilerich</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">Stemmer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Thomas</namePart>
+  <namePart type="family">Merkle</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">108333</identifier></name>
+<name type="personal">
+  <namePart type="given">Dorte</namePart>
+  <namePart type="family">Launholt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Gilbert</namePart>
+  <namePart type="family">Gorr</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Klaus D.</namePart>
+  <namePart type="family">Grasser</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Genomforschung und Systembiologie</namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Genomforschung</namePart>
+  <identifier type="unibi">2684836</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">High mobility group (HMG) proteins of the HMGB family are chromatin-associated proteins that act as architectural factors in nucleoprotein structures, which regulate DNA-dependent processes including transcription. Members of the HMGB family have been characterised from various mono-and dicot plants, but not from lower plant species. Here, we have identified three candidate HMGB proteins encoded in the genome of the moss Physcomitrella patens. The structurally similar HMGB2 and HMGB3 proteins display the typical overall structure of higher plant HMGB proteins consisting of a central HMG-box DNA-binding domain that is flanked by a basic N-terminal and an acidic C-terminal domain. The HMGB1 protein differs from higher plant HMGB proteins by having a very extensive N-terminal domain and by lacking the acidic C-terminal domain. Like higher plant HMGB proteins, HMGB3 localises to the cell nucleus, but HMGB I is targeted to plastids. Analysis of the HMG-box domains of HMGB1 and HMGB3 by CD revealed that HMGB1box and the HMGB3box have an alpha-helical structure. While the HMGB3box interacts with DNA comparable to typical higher plant counterparts, the HMGB I box has only a low affinity for DNA. Cotransformation assays in Physcomitrella protoplasts demonstrated that expression of HMGB3 resulted in repression of reporter gene expression. In summary, our data show that functional HMGB-type proteins occur in Physcomitrella and most likely in other lower plant species. (c) 2007 Elsevier B.V All rights reserved.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>HMG-box domain</topic><topic>DNA ligation assay</topic><topic>cotransformation assay</topic><topic>subcellular localization</topic><topic>structure-specific DNA interaction</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Gene</title></titleInfo>
+  <identifier type="issn">0378-1119</identifier>
+  <identifier type="MEDLINE">17980517</identifier>
+  <identifier type="ISI">000252917700009</identifier><identifier type="doi">10.1016/j.gene.2007.09.025</identifier>
+<part><detail type="volume"><number>407</number></detail><detail type="issue"><number>1-2</number></detail><extent unit="pages">86-97</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kiilerich, B., Stemmer, C., Merkle, T., Launholt, D., Gorr, G., &amp;amp; Grasser, K. D. (2008). Chromosomal high mobility group (HMG) proteins of the HMGB-type occurring in the moss Physcomitrella patens. &lt;em&gt;Gene&lt;/em&gt;, &lt;em&gt;407&lt;/em&gt;(1-2), 86-97.&lt;/div&gt;</apa_indent>
+<ieee>B. Kiilerich, et al., “Chromosomal high mobility group (HMG) proteins of the HMGB-type occurring in the moss Physcomitrella patens”, &lt;em&gt;Gene&lt;/em&gt;,  vol. 407, 2008,  pp. 86-97.</ieee>
+<lncs>Kiilerich, B., Stemmer, C., Merkle, T., Launholt, D., Gorr, G., Grasser, K.D.: Chromosomal high mobility group (HMG) proteins of the HMGB-type occurring in the moss Physcomitrella patens. Gene. 407, 86-97 (2008).</lncs>
+<mla>Kiilerich, Bruno, Stemmer, Christian, Merkle, Thomas, Launholt, Dorte, Gorr, Gilbert, and Grasser, Klaus D. “Chromosomal high mobility group (HMG) proteins of the HMGB-type occurring in the moss Physcomitrella patens”. &lt;em&gt;Gene&lt;/em&gt; 407.1-2 (2008): 86-97.</mla>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kiilerich, Bruno, Stemmer, Christian, Merkle, Thomas, Launholt, Dorte, Gorr, Gilbert, and Grasser, Klaus D. 2008. “Chromosomal high mobility group (HMG) proteins of the HMGB-type occurring in the moss Physcomitrella patens”. &lt;em&gt;Gene&lt;/em&gt; 407 (1-2): 86-97.&lt;/div&gt;</chicago>
+<apa>Kiilerich, B., Stemmer, C., Merkle, T., Launholt, D., Gorr, G., &amp;amp; Grasser, K. D. (2008). Chromosomal high mobility group (HMG) proteins of the HMGB-type occurring in the moss Physcomitrella patens. &lt;em&gt;Gene&lt;/em&gt;, &lt;em&gt;407&lt;/em&gt;(1-2), 86-97.</apa>
+<angewandte-chemie>B.  Kiilerich, C.  Stemmer, T.  Merkle, D.  Launholt, G.  Gorr, and K. D.  Grasser, “Chromosomal high mobility group (HMG) proteins of the HMGB-type occurring in the moss Physcomitrella patens”, &lt;em&gt;Gene&lt;/em&gt;, &lt;strong&gt;2008&lt;/strong&gt;, &lt;em&gt;407&lt;/em&gt;, 86-97.</angewandte-chemie>
+<frontiers>Kiilerich, B., Stemmer, C., Merkle, T., Launholt, D., Gorr, G., and Grasser, K. D. (2008). Chromosomal high mobility group (HMG) proteins of the HMGB-type occurring in the moss Physcomitrella patens. &lt;em&gt;Gene&lt;/em&gt; 407, 86-97.</frontiers>
+<ama>Kiilerich B, Stemmer C, Merkle T, Launholt D, Gorr G, Grasser KD. Chromosomal high mobility group (HMG) proteins of the HMGB-type occurring in the moss Physcomitrella patens. &lt;em&gt;Gene&lt;/em&gt;. 2008;407(1-2):86-97.</ama>
+<harvard1>Kiilerich, B., et al., 2008. Chromosomal high mobility group (HMG) proteins of the HMGB-type occurring in the moss Physcomitrella patens. &lt;em&gt;Gene&lt;/em&gt;, 407(1-2), p 86-97.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kiilerich, B., Stemmer, C., Merkle, T., Launholt, D., Gorr, G. &amp;amp; Grasser, K.D. (2008). Chromosomal high mobility group (HMG) proteins of the HMGB-type occurring in the moss Physcomitrella patens. &lt;em&gt;Gene&lt;/em&gt;, &lt;em&gt;407&lt;/em&gt;(1-2), 86-97. ELSEVIER SCIENCE BV. doi:10.1016/j.gene.2007.09.025.&lt;/div&gt;</dgps>
+<aps>B.  Kiilerich, et al., Chromosomal high mobility group (HMG) proteins of the HMGB-type occurring in the moss Physcomitrella patens, Gene &lt;strong&gt;407&lt;/strong&gt;, 86-97 (2008).</aps>
+<bio1>Kiilerich B, Stemmer C, Merkle T, Launholt D, Gorr G, Grasser KD (2008) &lt;br /&gt;Chromosomal high mobility group (HMG) proteins of the HMGB-type occurring in the moss Physcomitrella patens.&lt;br /&gt;Gene 407(1-2): 86-97.</bio1>
+<wels>Kiilerich, B.; Stemmer, C.; Merkle, T.; Launholt, D.; Gorr, G.; Grasser, K. D. (2008): Chromosomal high mobility group (HMG) proteins of the HMGB-type occurring in the moss Physcomitrella patens &lt;em&gt;Gene&lt;/em&gt;,407:(1-2): 86-97.</wels>
+<default>Kiilerich B, Stemmer C, Merkle T, Launholt D, Gorr G, Grasser KD (2008) &lt;br /&gt;Gene 407(1-2): 86-97.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1592809</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T11:50:53Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-05-10T13:54:10Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1592809</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1592809</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

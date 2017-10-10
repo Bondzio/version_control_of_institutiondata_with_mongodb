@@ -1,0 +1,108 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Attendance behavior of Galápagos fur seals</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Fritz</namePart>
+  <namePart type="family">Trillmich</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21949</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Roger L.</namePart><namePart type="family">Gentry</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+<name type="personal"><namePart type="given">Gerald L.</namePart><namePart type="family">Kooyman</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Biologie</namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Verhaltensforschung</namePart>
+  <identifier type="unibi">2528935</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="OCT2865.pdf">https://pub.uni-bielefeld.de/download/1781982/2313595</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Princeton Univ. Pr.</publisher><dateIssued encoding="w3cdtf">1986</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Fur seals</title></titleInfo>
+  <identifier type="isbn">0-691-08400-9</identifier><identifier type="urn">urn:nbn:de:0070-bipr-28655</identifier>
+<part><extent unit="pages">168-185</extent>
+</part>
+</relatedItem>
+
+<note type="nonBielefeld">yes</note>
+<extension>
+<bibliographicCitation>
+<wels>Trillmich, F. (1986): Attendance behavior of Galápagos fur seals. In: Roger L. Gentry; Gerald L. Kooyman (Hrsg.):  Fur seals. Princeton, NJ: Princeton Univ. Pr.  S. 168-185.</wels>
+<default>Trillmich F (1986)  &lt;br /&gt;In:  Fur seals. Gentry RL, Kooyman GL (Eds);Princeton, NJ: Princeton Univ. Pr.:  168-185.</default>
+<ama>Trillmich F. Attendance behavior of Galápagos fur seals. In: Gentry RL, Kooyman GL, eds. &lt;em&gt;Fur seals&lt;/em&gt;. Princeton, NJ: Princeton Univ. Pr.;  1986: 168-185.</ama>
+<harvard1>Trillmich, F., 1986. Attendance behavior of Galápagos fur seals. In R. L.  Gentry &amp;amp; G. L.  Kooyman, eds. &lt;em&gt;Fur seals&lt;/em&gt;.  Princeton, NJ: Princeton Univ. Pr., pp. 168-185.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Trillmich, F. (1986). Attendance behavior of Galápagos fur seals. &lt;em&gt;Fur seals&lt;/em&gt; (S. 168-185). Princeton, NJ: Princeton Univ. Pr.&lt;/div&gt;</dgps>
+<aps>F.  Trillmich, Attendance behavior of Galápagos fur seals, in &lt;em&gt;Fur seals&lt;/em&gt;, edited by R. L.  Gentry and G. L.  Kooyman (Princeton Univ. Pr., Princeton, Nj, 1986), p. 168-185.</aps>
+<bio1>Trillmich F (1986) &lt;br /&gt;Attendance behavior of Galápagos fur seals. &lt;br /&gt;In:  Fur seals. Gentry RL, Kooyman GL (Eds); Princeton, NJ: Princeton Univ. Pr.:  168-185.</bio1>
+<angewandte-chemie>F.  Trillmich, in &lt;em&gt;Fur seals&lt;/em&gt; (Eds.: R.L. Gentry, G.L. Kooyman), Princeton Univ. Pr., Princeton, NJ, &lt;strong&gt;1986&lt;/strong&gt;, p. 168-185.</angewandte-chemie>
+<apa>Trillmich, F. (1986). Attendance behavior of Galápagos fur seals. In R. L.  Gentry &amp;amp; G. L.  Kooyman (Eds.), &lt;em&gt;Fur seals&lt;/em&gt; (pp. 168-185). Princeton, NJ: Princeton Univ. Pr.</apa>
+<frontiers>Trillmich, F. (1986). “Attendance behavior of Galápagos fur seals” in &lt;em&gt;Fur seals&lt;/em&gt;, ed. R. L.  Gentry and G. L.  Kooyman (Princeton, NJ: Princeton Univ. Pr.), 168-185.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Trillmich, Fritz. 1986. “Attendance behavior of Galápagos fur seals”. In &lt;em&gt;Fur seals&lt;/em&gt;, ed. Roger L. Gentry and Gerald L. Kooyman, 168-185. Princeton, NJ: Princeton Univ. Pr.&lt;/div&gt;</chicago>
+<ieee>F. Trillmich, “Attendance behavior of Galápagos fur seals”, &lt;em&gt;Fur seals&lt;/em&gt;, R.L. Gentry and G.L. Kooyman, eds.,  Princeton, NJ: Princeton Univ. Pr., 1986,  pp.168-185.</ieee>
+<lncs>Trillmich, F.: Attendance behavior of Galápagos fur seals. In: Gentry, R.L. and Kooyman, G.L. (eds.) Fur seals. p. 168-185. Princeton Univ. Pr., Princeton, NJ (1986).</lncs>
+<mla>Trillmich, Fritz. “Attendance behavior of Galápagos fur seals”. &lt;em&gt;Fur seals&lt;/em&gt;. Ed. Roger L. Gentry and Gerald L. Kooyman. Princeton, NJ: Princeton Univ. Pr., 1986. 168-185.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Trillmich, F. (1986). Attendance behavior of Galápagos fur seals. In R. L.  Gentry &amp;amp; G. L.  Kooyman (Eds.), &lt;em&gt;Fur seals&lt;/em&gt; (pp. 168-185). Princeton, NJ: Princeton Univ. Pr.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781982</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781982</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781982</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

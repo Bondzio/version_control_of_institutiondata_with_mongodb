@@ -1,0 +1,133 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>AUDENS: A tool for automated peptide de novo sequencing</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">J</namePart>
+  <namePart type="family">Grossmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">FF</namePart>
+  <namePart type="family">Roos</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Cieliebak</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Zsuzsanna</namePart>
+  <namePart type="family">Lipták</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">164350</identifier></name>
+<name type="personal">
+  <namePart type="given">LK</namePart>
+  <namePart type="family">Mathis</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Muller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">W</namePart>
+  <namePart type="family">Gruissem</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">S</namePart>
+  <namePart type="family">Baginsky</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Genominformatik</namePart>
+  <identifier type="unibi">66100</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Centrum für Biotechnologie</namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We present AUDENS, a new platform-independent open source tool for automated de novo sequencing of peptides from MS/MS data. We implemented a dynamic programming algorithm and combined it with a flexible preprocessing module which is designed to distinguish between signal and other peaks. By applying a user-defined set of heuristics, AUDENS screens through the spectrum and assigns high relevance values to putative signal peaks. The algorithm constructs a sequence path through the MS/MS spectrum using the peak relevances to score each suggested sequence path, i.e., the corresponding amino acid sequence. At present, we consider AUDENS a prototype that unfolds its biggest potential if used in parallel with other de novo sequencing tools. AUDENS is available open source and can be downloaded with further documentation at http://www.ti.inf.ethz.ch/pw/software/audens/.</abstract>
+
+<originInfo><publisher>AMER CHEMICAL SOC</publisher><dateIssued encoding="w3cdtf">2005</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>de novo sequencing</topic><topic>spectra preprocessing</topic><topic>mass spectrometry</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF PROTEOME RESEARCH</title></titleInfo>
+  <identifier type="issn">1535-3893</identifier>
+  <identifier type="eIssn">1535-3907</identifier>
+  <identifier type="MEDLINE">16212431</identifier>
+  <identifier type="ISI">000232579100040</identifier><identifier type="doi">10.1021/pr050070a</identifier>
+<part><detail type="volume"><number>4</number></detail><detail type="issue"><number>5</number></detail><extent unit="pages">1768-1774</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Grossmann, J.; Roos, F. F.; Cieliebak, M.; Lipták, Z.; Mathis, L. K.; Muller, M.; Gruissem, W.; Baginsky, S. (2005): AUDENS: A tool for automated peptide de novo sequencing &lt;em&gt;JOURNAL OF PROTEOME RESEARCH&lt;/em&gt;,4:(5): 1768-1774.</wels>
+<default>Grossmann J, Roos FF, Cieliebak M, Lipták Z, Mathis LK, Muller M, Gruissem W, Baginsky S (2005) &lt;br /&gt;JOURNAL OF PROTEOME RESEARCH 4(5): 1768-1774.</default>
+<ama>Grossmann J, Roos FF, Cieliebak M, et al. AUDENS: A tool for automated peptide de novo sequencing. &lt;em&gt;JOURNAL OF PROTEOME RESEARCH&lt;/em&gt;. 2005;4(5):1768-1774.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Grossmann, J., Roos, F.F., Cieliebak, M., Lipták, Z., Mathis, L.K., Muller, M., Gruissem, W. &amp;amp; Baginsky, S. (2005). AUDENS: A tool for automated peptide de novo sequencing. &lt;em&gt;JOURNAL OF PROTEOME RESEARCH&lt;/em&gt;, &lt;em&gt;4&lt;/em&gt;(5), 1768-1774. AMER CHEMICAL SOC. doi:10.1021/pr050070a.&lt;/div&gt;</dgps>
+<harvard1>Grossmann, J., et al., 2005. AUDENS: A tool for automated peptide de novo sequencing. &lt;em&gt;JOURNAL OF PROTEOME RESEARCH&lt;/em&gt;, 4(5), p 1768-1774.</harvard1>
+<bio1>Grossmann J, Roos FF, Cieliebak M, Lipták Z, Mathis LK, Muller M, Gruissem W, Baginsky S (2005) &lt;br /&gt;AUDENS: A tool for automated peptide de novo sequencing.&lt;br /&gt;JOURNAL OF PROTEOME RESEARCH 4(5): 1768-1774.</bio1>
+<aps>J.  Grossmann, et al., AUDENS: A tool for automated peptide de novo sequencing, JOURNAL OF PROTEOME RESEARCH &lt;strong&gt;4&lt;/strong&gt;, 1768-1774 (2005).</aps>
+<apa>Grossmann, J., Roos, F. F., Cieliebak, M., Lipták, Z., Mathis, L. K., Muller, M., Gruissem, W., et al. (2005). AUDENS: A tool for automated peptide de novo sequencing. &lt;em&gt;JOURNAL OF PROTEOME RESEARCH&lt;/em&gt;, &lt;em&gt;4&lt;/em&gt;(5), 1768-1774.</apa>
+<angewandte-chemie>J.  Grossmann, F. F.  Roos, M.  Cieliebak, Z.  Lipták, L. K.  Mathis, M.  Muller, W.  Gruissem, and S.  Baginsky, “AUDENS: A tool for automated peptide de novo sequencing”, &lt;em&gt;JOURNAL OF PROTEOME RESEARCH&lt;/em&gt;, &lt;strong&gt;2005&lt;/strong&gt;, &lt;em&gt;4&lt;/em&gt;, 1768-1774.</angewandte-chemie>
+<frontiers>Grossmann, J., Roos, F. F., Cieliebak, M., Lipták, Z., Mathis, L. K., Muller, M., Gruissem, W., and Baginsky, S. (2005). AUDENS: A tool for automated peptide de novo sequencing. &lt;em&gt;JOURNAL OF PROTEOME RESEARCH&lt;/em&gt; 4, 1768-1774.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Grossmann, J, Roos, FF, Cieliebak, M, Lipták, Zsuzsanna, Mathis, LK, Muller, M, Gruissem, W, and Baginsky, S. 2005. “AUDENS: A tool for automated peptide de novo sequencing”. &lt;em&gt;JOURNAL OF PROTEOME RESEARCH&lt;/em&gt; 4 (5): 1768-1774.&lt;/div&gt;</chicago>
+<ieee>J. Grossmann, et al., “AUDENS: A tool for automated peptide de novo sequencing”, &lt;em&gt;JOURNAL OF PROTEOME RESEARCH&lt;/em&gt;,  vol. 4, 2005,  pp. 1768-1774.</ieee>
+<lncs>Grossmann, J., Roos, F.F., Cieliebak, M., Lipták, Z., Mathis, L.K., Muller, M., Gruissem, W., Baginsky, S.: AUDENS: A tool for automated peptide de novo sequencing. JOURNAL OF PROTEOME RESEARCH. 4, 1768-1774 (2005).</lncs>
+<mla>Grossmann, J, Roos, FF, Cieliebak, M, Lipták, Zsuzsanna, Mathis, LK, Muller, M, Gruissem, W, and Baginsky, S. “AUDENS: A tool for automated peptide de novo sequencing”. &lt;em&gt;JOURNAL OF PROTEOME RESEARCH&lt;/em&gt; 4.5 (2005): 1768-1774.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Grossmann, J., Roos, F. F., Cieliebak, M., Lipták, Z., Mathis, L. K., Muller, M., Gruissem, W., et al. (2005). AUDENS: A tool for automated peptide de novo sequencing. &lt;em&gt;JOURNAL OF PROTEOME RESEARCH&lt;/em&gt;, &lt;em&gt;4&lt;/em&gt;(5), 1768-1774.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1601941</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:32:02Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2012-06-01T14:58:42Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1601941</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1601941</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

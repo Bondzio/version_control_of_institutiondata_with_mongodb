@@ -1,0 +1,126 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Quantitative mass analysis of N2, CO2 and N2O reaction products in the NO-CO reaction at Pt (100)</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Gunther</namePart>
+  <namePart type="family">Zagatta</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">H.</namePart>
+  <namePart type="family">Müller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">O.</namePart>
+  <namePart type="family">Wehmeyer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M.</namePart>
+  <namePart type="family">Brandt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">N.</namePart>
+  <namePart type="family">Böwering</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Ulrich</namePart>
+  <namePart type="family">Heinzmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40276</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Lehrstuhl für Molekül- und Oberflächenphysik</namePart>
+  <identifier type="unibi">29133467</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Centrum für Biotechnologie</namePart>
+  <identifier type="unibi">89815</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The NO-CO reaction on Pt(100) was examined using temperature programmed reaction methods. The platinum surface was precovered at -80°C with various amounts of both NO and CO and then heated to 370°C. In this case the reaction occurs within a very narrow temperature range around 120°C exhibiting sharp reaction peaks at the mass numbers 28 (N2/CO) and 44 (CO2/N2O). The reaction products were detected by a quadrupole mass analyzer scanning complete mass spectra of 50 amu width at a speed of 15 spectra per second. Thus the course of the reaction was recorded within a single measurement. A subsequent analysis of the data using a modified least-squares fit method was applied to the mass spectra in order to gain information on the true composition of the desorbing gas mixture. To this end isotope and cracking patterns were evaluated. This analysis revealed that beside the major reaction products N2 and CO2 also minor amounts of N2O appear on Pt(100).</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Heinzmann_136.pdf">https://pub.uni-bielefeld.de/download/1775925/2312047</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1994</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Surface Science</title></titleInfo>
+  <identifier type="issn">0039-6028</identifier>
+  <identifier type="ISI">A1994NH82400035</identifier><identifier type="urn">urn:nbn:de:0070-pub-17759254</identifier><identifier type="doi">10.1016/0039-6028(94)90394-8</identifier>
+<part><detail type="volume"><number>307-309</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">199-204</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Zagatta, G., Müller, H., Wehmeyer, O., Brandt, M., Böwering, N., &amp;amp; Heinzmann, U. (1994). Quantitative mass analysis of N2, CO2 and N2O reaction products in the NO-CO reaction at Pt (100). &lt;em&gt;Surface Science&lt;/em&gt;, &lt;em&gt;307-309&lt;/em&gt;(1), 199-204.&lt;/div&gt;</apa_indent>
+<lncs>Zagatta, G., Müller, H., Wehmeyer, O., Brandt, M., Böwering, N., Heinzmann, U.: Quantitative mass analysis of N2, CO2 and N2O reaction products in the NO-CO reaction at Pt (100). Surface Science. 307-309, 199-204 (1994).</lncs>
+<mla>Zagatta, Gunther, Müller, H., Wehmeyer, O., Brandt, M., Böwering, N., and Heinzmann, Ulrich. “Quantitative mass analysis of N2, CO2 and N2O reaction products in the NO-CO reaction at Pt (100)”. &lt;em&gt;Surface Science&lt;/em&gt; 307-309.1 (1994): 199-204.</mla>
+<ieee>G. Zagatta, et al., “Quantitative mass analysis of N2, CO2 and N2O reaction products in the NO-CO reaction at Pt (100)”, &lt;em&gt;Surface Science&lt;/em&gt;,  vol. 307-309, 1994,  pp. 199-204.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Zagatta, Gunther, Müller, H., Wehmeyer, O., Brandt, M., Böwering, N., and Heinzmann, Ulrich. 1994. “Quantitative mass analysis of N2, CO2 and N2O reaction products in the NO-CO reaction at Pt (100)”. &lt;em&gt;Surface Science&lt;/em&gt; 307-309 (1): 199-204.&lt;/div&gt;</chicago>
+<frontiers>Zagatta, G., Müller, H., Wehmeyer, O., Brandt, M., Böwering, N., and Heinzmann, U. (1994). Quantitative mass analysis of N2, CO2 and N2O reaction products in the NO-CO reaction at Pt (100). &lt;em&gt;Surface Science&lt;/em&gt; 307-309, 199-204.</frontiers>
+<apa>Zagatta, G., Müller, H., Wehmeyer, O., Brandt, M., Böwering, N., &amp;amp; Heinzmann, U. (1994). Quantitative mass analysis of N2, CO2 and N2O reaction products in the NO-CO reaction at Pt (100). &lt;em&gt;Surface Science&lt;/em&gt;, &lt;em&gt;307-309&lt;/em&gt;(1), 199-204.</apa>
+<angewandte-chemie>G.  Zagatta, H.  Müller, O.  Wehmeyer, M.  Brandt, N.  Böwering, and U.  Heinzmann, “Quantitative mass analysis of N2, CO2 and N2O reaction products in the NO-CO reaction at Pt (100)”, &lt;em&gt;Surface Science&lt;/em&gt;, &lt;strong&gt;1994&lt;/strong&gt;, &lt;em&gt;307-309&lt;/em&gt;, 199-204.</angewandte-chemie>
+<aps>G.  Zagatta, et al., Quantitative mass analysis of N2, CO2 and N2O reaction products in the NO-CO reaction at Pt (100), Surface Science &lt;strong&gt;307-309&lt;/strong&gt;, 199-204 (1994).</aps>
+<bio1>Zagatta G, Müller H, Wehmeyer O, Brandt M, Böwering N, Heinzmann U (1994) &lt;br /&gt;Quantitative mass analysis of N2, CO2 and N2O reaction products in the NO-CO reaction at Pt (100).&lt;br /&gt;Surface Science 307-309(1): 199-204.</bio1>
+<harvard1>Zagatta, G., et al., 1994. Quantitative mass analysis of N2, CO2 and N2O reaction products in the NO-CO reaction at Pt (100). &lt;em&gt;Surface Science&lt;/em&gt;, 307-309(1), p 199-204.</harvard1>
+<ama>Zagatta G, Müller H, Wehmeyer O, Brandt M, Böwering N, Heinzmann U. Quantitative mass analysis of N2, CO2 and N2O reaction products in the NO-CO reaction at Pt (100). &lt;em&gt;Surface Science&lt;/em&gt;. 1994;307-309(1):199-204.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Zagatta, G., Müller, H., Wehmeyer, O., Brandt, M., Böwering, N. &amp;amp; Heinzmann, U. (1994). Quantitative mass analysis of N2, CO2 and N2O reaction products in the NO-CO reaction at Pt (100). &lt;em&gt;Surface Science&lt;/em&gt;, &lt;em&gt;307-309&lt;/em&gt;(1), 199-204. doi:10.1016/0039-6028(94)90394-8.&lt;/div&gt;</dgps>
+<default>Zagatta G, Müller H, Wehmeyer O, Brandt M, Böwering N, Heinzmann U (1994) &lt;br /&gt;Surface Science 307-309(1): 199-204.</default>
+<wels>Zagatta, G.; Müller, H.; Wehmeyer, O.; Brandt, M.; Böwering, N.; Heinzmann, U. (1994): Quantitative mass analysis of N2, CO2 and N2O reaction products in the NO-CO reaction at Pt (100) &lt;em&gt;Surface Science&lt;/em&gt;,307-309:(1): 199-204.</wels>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1775925</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1775925</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1775925</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

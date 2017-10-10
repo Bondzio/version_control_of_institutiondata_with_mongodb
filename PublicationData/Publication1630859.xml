@@ -1,0 +1,107 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Pentagon diagrams of Bhabha scattering</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Jochem</namePart>
+  <namePart type="family">Fleischer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40323</identifier></name>
+<name type="personal">
+  <namePart type="given">J.</namePart>
+  <namePart type="family">Gluza</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">K.</namePart>
+  <namePart type="family">Kajda</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">T.</namePart>
+  <namePart type="family">Riemann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">23470617</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We report on tensor reduction of five point integrals needed for the evaluation of loop-by-loop corrections to Bhabha scattering. As an example we demonstrate the calculation of the rank two tensor integral with cancellation of the spurious Gram determinant in the denominator. The reduction scheme is worked out for arbitrary five point processes.</abstract>
+
+<originInfo><publisher>ACTA PHYSICA POLONICA B, JAGELLONIAN UNIV, INST PHYSICS</publisher><dateIssued encoding="w3cdtf">2007</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host">
+  <identifier type="issn">0587-4254</identifier>
+  <identifier type="arXiv">0710.5100</identifier>
+  <identifier type="INSPIRE">765568</identifier>
+  <identifier type="ISI">000252187200025</identifier>
+<part><detail type="volume"><number>38</number></detail><detail type="issue"><number>11</number></detail><extent unit="pages">3529-3536</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<angewandte-chemie>J.  Fleischer, J.  Gluza, K.  Kajda, and T.  Riemann, Acta Physica Polonica B, Jagellonian Univ, Inst Physics, &lt;strong&gt;2007&lt;/strong&gt;, p. 3529-3536.</angewandte-chemie>
+<apa>Fleischer, J., Gluza, J., Kajda, K., &amp;amp; Riemann, T. (2007). &lt;em&gt;Pentagon diagrams of Bhabha scattering&lt;/em&gt;. Presented at the .</apa>
+<frontiers>Fleischer, J., Gluza, J., Kajda, K., and Riemann, T. (2007).“Pentagon diagrams of Bhabha scattering”.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fleischer, Jochem, Gluza, J., Kajda, K., and Riemann, T. 2007. “Pentagon diagrams of Bhabha scattering”. Presented at the , 38:3529-3536. ACTA PHYSICA POLONICA B. ACTA PHYSICA POLONICA B, JAGELLONIAN UNIV, INST PHYSICS.&lt;/div&gt;</chicago>
+<ieee> J. Fleischer, et al., “Pentagon diagrams of Bhabha scattering”, ACTA PHYSICA POLONICA B, JAGELLONIAN UNIV, INST PHYSICS, 2007.</ieee>
+<mla>Fleischer, Jochem, Gluza, J., Kajda, K., and Riemann, T. “Pentagon diagrams of Bhabha scattering”., ACTA PHYSICA POLONICA B, JAGELLONIAN UNIV, INST PHYSICS, 2007.</mla>
+<lncs> Fleischer, J., Gluza, J., Kajda, K., Riemann, T.: Pentagon diagrams of Bhabha scattering. (2007).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fleischer, J., Gluza, J., Kajda, K., &amp;amp; Riemann, T. (2007). &lt;em&gt;Pentagon diagrams of Bhabha scattering&lt;/em&gt;. Presented at the .&lt;/div&gt;</apa_indent>
+<wels>Fleischer, J.; Gluza, J.; Kajda, K.; Riemann, T. (2007): Pentagon diagrams of Bhabha scattering. ACTA PHYSICA POLONICA B, JAGELLONIAN UNIV, INST PHYSICS. (ACTA PHYSICA POLONICA B, 38).  S. 3529-3536.</wels>
+<default>Fleischer J, Gluza J, Kajda K, Riemann T (2007) .</default>
+<ama>Fleischer J, Gluza J, Kajda K, Riemann T. Pentagon diagrams of Bhabha scattering.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Fleischer, J., Gluza, J., Kajda, K. &amp;amp; Riemann, T. (2007). Pentagon diagrams of Bhabha scattering (ACTA PHYSICA POLONICA B) (S. 3529-3536). ACTA PHYSICA POLONICA B, JAGELLONIAN UNIV, INST PHYSICS.&lt;/div&gt;</dgps>
+<harvard1>Fleischer, J., et al., 2007. Pentagon diagrams of Bhabha scattering.</harvard1>
+<aps> J.  Fleischer, et al., Pentagon diagrams of Bhabha scattering, ACTA PHYSICA POLONICA B, &lt;strong&gt;38&lt;/strong&gt; (ACTA PHYSICA POLONICA B, JAGELLONIAN UNIV, INST PHYSICS, 2007), p. 3529-3536.</aps>
+<bio1>Fleischer J, Gluza J, Kajda K, Riemann T (2007) &lt;br /&gt;Pentagon diagrams of Bhabha scattering.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1630859</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:05:17Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-24T12:51:50Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1630859</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1630859</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

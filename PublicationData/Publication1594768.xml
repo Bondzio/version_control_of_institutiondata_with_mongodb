@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Variants of unsupervised kernel regression: General cost functions</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Stefan</namePart>
+  <namePart type="family">Klanke</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Helge</namePart>
+  <namePart type="family">Ritter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">91130</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10038</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+<name type="conference">
+  <namePart>14th Annual European Symposium on Artificial Neural Networks</namePart>
+</name>
+
+
+
+
+
+
+<abstract lang="eng">We present an extension to unsupervised kernel regression (UKR), a recent method for learning of nonlinear manifolds, which can utilize leave-one-out cross-validation as an automatic complexity control without additional computational cost. Our extension allows us to incorporate general cost functions, by which the UKR algorithm can be made more robust or be tuned to specific noise models. We focus on Huber&apos;s loss and on the E-insensitive loss, which we present together with a practical optimization approach. We demonstrate our method on both toy and real data. (c) 2007 Elsevier B.V. All rights reserved.</abstract>
+
+<originInfo><publisher>Elsevier</publisher><dateIssued encoding="w3cdtf">2007</dateIssued><place><placeTerm type="text">Bruges, Belgium</placeTerm></place>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>nonlinear dimension reduction</topic><topic>epsilon-insensitive loss</topic><topic>Huber&apos;s loss</topic><topic>robust manifold learning</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>Neurocomputing</title></titleInfo>
+  <identifier type="issn">0925-2312</identifier>
+  <identifier type="ISI">000245581600018</identifier><identifier type="doi">10.1016/j.neucom.2006.11.015</identifier>
+<part><detail type="volume"><number>70</number></detail><detail type="issue"><number>7-9</number></detail><extent unit="pages">1289-1303</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<default>Klanke S, Ritter H (2007) &lt;br /&gt;Neurocomputing 70(7-9): 1289-1303.</default>
+<wels>Klanke, S.; Ritter, H. (2007): Variants of unsupervised kernel regression: General cost functions &lt;em&gt;Neurocomputing&lt;/em&gt;,70:(7-9): 1289-1303.</wels>
+<aps>S.  Klanke and H.  Ritter, Variants of unsupervised kernel regression: General cost functions, Neurocomputing &lt;strong&gt;70&lt;/strong&gt;, 1289-1303 (2007).</aps>
+<bio1>Klanke S, Ritter H (2007) &lt;br /&gt;Variants of unsupervised kernel regression: General cost functions.&lt;br /&gt;Neurocomputing 70(7-9): 1289-1303.</bio1>
+<ama>Klanke S, Ritter H. Variants of unsupervised kernel regression: General cost functions. &lt;em&gt;Neurocomputing&lt;/em&gt;. 2007;70(7-9):1289-1303.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Klanke, S. &amp;amp; Ritter, H. (2007). Variants of unsupervised kernel regression: General cost functions. &lt;em&gt;Neurocomputing&lt;/em&gt;, &lt;em&gt;70&lt;/em&gt;(7-9), 1289-1303. Gehalten auf der 14th Annual European Symposium on Artificial Neural Networks, Elsevier. doi:10.1016/j.neucom.2006.11.015.&lt;/div&gt;</dgps>
+<harvard1>Klanke, S., &amp;amp; Ritter, H., 2007. Variants of unsupervised kernel regression: General cost functions. &lt;em&gt;Neurocomputing&lt;/em&gt;, 70(7-9), p 1289-1303.</harvard1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Klanke, Stefan, and Ritter, Helge. 2007. “Variants of unsupervised kernel regression: General cost functions”. &lt;em&gt;Neurocomputing&lt;/em&gt; 70 (7-9): 1289-1303.&lt;/div&gt;</chicago>
+<frontiers>Klanke, S., and Ritter, H. (2007). Variants of unsupervised kernel regression: General cost functions. &lt;em&gt;Neurocomputing&lt;/em&gt; 70, 1289-1303.</frontiers>
+<angewandte-chemie>S.  Klanke, and H.  Ritter, “Variants of unsupervised kernel regression: General cost functions”, &lt;em&gt;Neurocomputing&lt;/em&gt;, &lt;strong&gt;2007&lt;/strong&gt;, &lt;em&gt;70&lt;/em&gt;, 1289-1303.</angewandte-chemie>
+<apa>Klanke, S., &amp;amp; Ritter, H. (2007). Variants of unsupervised kernel regression: General cost functions. &lt;em&gt;Neurocomputing&lt;/em&gt;, &lt;em&gt;70&lt;/em&gt;(7-9), 1289-1303.</apa>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Klanke, S., &amp;amp; Ritter, H. (2007). Variants of unsupervised kernel regression: General cost functions. &lt;em&gt;Neurocomputing&lt;/em&gt;, &lt;em&gt;70&lt;/em&gt;(7-9), 1289-1303.&lt;/div&gt;</apa_indent>
+<mla>Klanke, Stefan, and Ritter, Helge. “Variants of unsupervised kernel regression: General cost functions”. &lt;em&gt;Neurocomputing&lt;/em&gt; 70.7-9 (2007): 1289-1303.</mla>
+<lncs>Klanke, S., Ritter, H.: Variants of unsupervised kernel regression: General cost functions. Neurocomputing. 70, 1289-1303 (2007).</lncs>
+<ieee>S. Klanke and H. Ritter, “Variants of unsupervised kernel regression: General cost functions”, &lt;em&gt;Neurocomputing&lt;/em&gt;,  vol. 70, 2007,  pp. 1289-1303.</ieee>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1594768</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:16:24Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-04-27T17:09:07Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1594768</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1594768</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

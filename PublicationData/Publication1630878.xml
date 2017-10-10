@@ -1,0 +1,111 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Non-parametric small area estimation using penalized spline regression</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">J. D.</namePart>
+  <namePart type="family">Opsomer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">G.</namePart>
+  <namePart type="family">Claeskens</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">M. G.</namePart>
+  <namePart type="family">Ranalli</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Göran</namePart>
+  <namePart type="family">Kauermann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">91009</identifier></name>
+<name type="personal">
+  <namePart type="given">F. J.</namePart>
+  <namePart type="family">Breidt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Wirtschaftswissenschaften</namePart>
+  <identifier type="unibi">10031</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The paper proposes a small area estimation approach that combines small area random effects with a smooth, non-parametrically specified trend. By using penalized splines as the representation for the non-parametric trend, it is possible to express the non-parametric small area estimation problem as a mixed effect model regression. The resulting model is readily fitted by using existing model fitting approaches such as restricted maximum likelihood. We present theoretical results on the prediction mean-squared error of the estimator proposed and on likelihood ratio tests for random effects, and we propose a simple non-parametric bootstrap approach for model inference and estimation of the small area prediction mean-squared error. The applicability of the method is demonstrated on a survey of lakes in north-eastern USA.</abstract>
+
+<originInfo><publisher>BLACKWELL PUBLISHING</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>best linear unbiased prediction</topic><topic>mixed model</topic><topic>natural resource survey</topic><topic>bootstrap inference</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY</title></titleInfo>
+  <identifier type="issn">1369-7412</identifier>
+  <identifier type="ISI">000252122500015</identifier><identifier type="doi">10.1111/j.1467-9868.2007.00635.x</identifier>
+<part><detail type="volume"><number>70</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">265-286</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>J. D.  Opsomer, et al., Non-parametric small area estimation using penalized spline regression, JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY &lt;strong&gt;70&lt;/strong&gt;, 265-286 (2008).</aps>
+<bio1>Opsomer JD, Claeskens G, Ranalli MG, Kauermann G, Breidt FJ (2008) &lt;br /&gt;Non-parametric small area estimation using penalized spline regression.&lt;br /&gt;JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY 70(1): 265-286.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Opsomer, J.D., Claeskens, G., Ranalli, M.G., Kauermann, G. &amp;amp; Breidt, F.J. (2008). Non-parametric small area estimation using penalized spline regression. &lt;em&gt;JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY&lt;/em&gt;, &lt;em&gt;70&lt;/em&gt;(1), 265-286. BLACKWELL PUBLISHING. doi:10.1111/j.1467-9868.2007.00635.x.&lt;/div&gt;</dgps>
+<harvard1>Opsomer, J.D., et al., 2008. Non-parametric small area estimation using penalized spline regression. &lt;em&gt;JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY&lt;/em&gt;, 70(1), p 265-286.</harvard1>
+<ama>Opsomer JD, Claeskens G, Ranalli MG, Kauermann G, Breidt FJ. Non-parametric small area estimation using penalized spline regression. &lt;em&gt;JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY&lt;/em&gt;. 2008;70(1):265-286.</ama>
+<default>Opsomer JD, Claeskens G, Ranalli MG, Kauermann G, Breidt FJ (2008) &lt;br /&gt;JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY 70(1): 265-286.</default>
+<wels>Opsomer, J. D.; Claeskens, G.; Ranalli, M. G.; Kauermann, G.; Breidt, F. J. (2008): Non-parametric small area estimation using penalized spline regression &lt;em&gt;JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY&lt;/em&gt;,70:(1): 265-286.</wels>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Opsomer, J. D., Claeskens, G., Ranalli, M. G., Kauermann, G., &amp;amp; Breidt, F. J. (2008). Non-parametric small area estimation using penalized spline regression. &lt;em&gt;JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY&lt;/em&gt;, &lt;em&gt;70&lt;/em&gt;(1), 265-286.&lt;/div&gt;</apa_indent>
+<lncs>Opsomer, J.D., Claeskens, G., Ranalli, M.G., Kauermann, G., Breidt, F.J.: Non-parametric small area estimation using penalized spline regression. JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY. 70, 265-286 (2008).</lncs>
+<mla>Opsomer, J. D., Claeskens, G., Ranalli, M. G., Kauermann, Göran, and Breidt, F. J. “Non-parametric small area estimation using penalized spline regression”. &lt;em&gt;JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY&lt;/em&gt; 70.1 (2008): 265-286.</mla>
+<ieee>J.D. Opsomer, et al., “Non-parametric small area estimation using penalized spline regression”, &lt;em&gt;JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY&lt;/em&gt;,  vol. 70, 2008,  pp. 265-286.</ieee>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Opsomer, J. D., Claeskens, G., Ranalli, M. G., Kauermann, Göran, and Breidt, F. J. 2008. “Non-parametric small area estimation using penalized spline regression”. &lt;em&gt;JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY&lt;/em&gt; 70 (1): 265-286.&lt;/div&gt;</chicago>
+<frontiers>Opsomer, J. D., Claeskens, G., Ranalli, M. G., Kauermann, G., and Breidt, F. J. (2008). Non-parametric small area estimation using penalized spline regression. &lt;em&gt;JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY&lt;/em&gt; 70, 265-286.</frontiers>
+<apa>Opsomer, J. D., Claeskens, G., Ranalli, M. G., Kauermann, G., &amp;amp; Breidt, F. J. (2008). Non-parametric small area estimation using penalized spline regression. &lt;em&gt;JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY&lt;/em&gt;, &lt;em&gt;70&lt;/em&gt;(1), 265-286.</apa>
+<angewandte-chemie>J. D.  Opsomer, G.  Claeskens, M. G.  Ranalli, G.  Kauermann, and F. J.  Breidt, “Non-parametric small area estimation using penalized spline regression”, &lt;em&gt;JOURNAL OF THE ROYAL STATISTICAL SOCIETY SERIES B-STATISTICAL METHODOLOGY&lt;/em&gt;, &lt;strong&gt;2008&lt;/strong&gt;, &lt;em&gt;70&lt;/em&gt;, 265-286.</angewandte-chemie>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1630878</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:05:18Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-01-05T11:13:20Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1630878</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1630878</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

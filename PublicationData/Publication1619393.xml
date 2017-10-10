@@ -1,0 +1,99 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Electroporation of curved lipid membranes in ionic strength gradients</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Eberhard</namePart>
+  <namePart type="family">Neumann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20317</identifier></name>
+<name type="personal">
+  <namePart type="given">Sergej</namePart>
+  <namePart type="family">Kakorin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20316</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Physikalische Chemie III</namePart>
+  <identifier type="unibi">17981</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">A thermodynamic theory for the membrane electroporation of curved membranes such as those of lipid vesicles and cylindrical membrane tubes has been developed. The theory covers in particular the observation that electric pore formation and shape deformation of vesicles and cells are dependent on the salt concentration of the suspending solvent. It is shown that transmembrane salt gradients can appreciably modify the electrostatic part of Helfrich&apos;s spontaneous curvature, elastic bending rigidity and Gaussian curvature modulus of charged membranes. The Gibbs reaction energy of membrane electroporation can be explicitely expressed in terms of salt gradient-dependent contributions of bending, the ionic double layers and electric surface potentials and dielectric polarisation of aqueous pores. In order to cover the various physical contribution to the chemical process of electroporation-resealing, we have introduced a generalised chemophysical potential covering all generalised forces and generalised displacements in terms of a transformed Gibbs energy formalism. Comparison with, and analysis of, the data of electrooptical relaxation kinetic studies show that the Gibbs reaction energy terms can be directly determined from turbidity dichroism (Planck&apos;s conservative dichroism). The approach also quantifies the electroporative cross-membrane material exchange such as electrolyte release, electrohaemolysis of red blood cells or uptake of drugs and dyes and finally gene DNA by membrane electroporation. (C) 2000 Elsevier Science B.V. All rights reserved.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">2000</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>transmembrane salt gradient</topic><topic>membrane electroporation</topic><topic>lipid bilayer</topic><topic>membrane elasticity</topic><topic>spontaneous curvature</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>BIOPHYSICAL CHEMISTRY</title></titleInfo>
+  <identifier type="issn">0301-4622</identifier>
+  <identifier type="ISI">000088421200013</identifier><identifier type="doi">10.1016/S0301-4622(00)00112-5</identifier>
+<part><detail type="volume"><number>85</number></detail><detail type="issue"><number>2-3</number></detail><extent unit="pages">249-271</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neumann, E. &amp;amp; Kakorin, S. (2000). Electroporation of curved lipid membranes in ionic strength gradients. &lt;em&gt;BIOPHYSICAL CHEMISTRY&lt;/em&gt;, &lt;em&gt;85&lt;/em&gt;(2-3), 249-271. ELSEVIER SCIENCE BV. doi:10.1016/S0301-4622(00)00112-5.&lt;/div&gt;</dgps>
+<harvard1>Neumann, E., &amp;amp; Kakorin, S., 2000. Electroporation of curved lipid membranes in ionic strength gradients. &lt;em&gt;BIOPHYSICAL CHEMISTRY&lt;/em&gt;, 85(2-3), p 249-271.</harvard1>
+<ama>Neumann E, Kakorin S. Electroporation of curved lipid membranes in ionic strength gradients. &lt;em&gt;BIOPHYSICAL CHEMISTRY&lt;/em&gt;. 2000;85(2-3):249-271.</ama>
+<aps>E.  Neumann and S.  Kakorin, Electroporation of curved lipid membranes in ionic strength gradients, BIOPHYSICAL CHEMISTRY &lt;strong&gt;85&lt;/strong&gt;, 249-271 (2000).</aps>
+<bio1>Neumann E, Kakorin S (2000) &lt;br /&gt;Electroporation of curved lipid membranes in ionic strength gradients.&lt;br /&gt;BIOPHYSICAL CHEMISTRY 85(2-3): 249-271.</bio1>
+<wels>Neumann, E.; Kakorin, S. (2000): Electroporation of curved lipid membranes in ionic strength gradients &lt;em&gt;BIOPHYSICAL CHEMISTRY&lt;/em&gt;,85:(2-3): 249-271.</wels>
+<default>Neumann E, Kakorin S (2000) &lt;br /&gt;BIOPHYSICAL CHEMISTRY 85(2-3): 249-271.</default>
+<ieee>E. Neumann and S. Kakorin, “Electroporation of curved lipid membranes in ionic strength gradients”, &lt;em&gt;BIOPHYSICAL CHEMISTRY&lt;/em&gt;,  vol. 85, 2000,  pp. 249-271.</ieee>
+<mla>Neumann, Eberhard, and Kakorin, Sergej. “Electroporation of curved lipid membranes in ionic strength gradients”. &lt;em&gt;BIOPHYSICAL CHEMISTRY&lt;/em&gt; 85.2-3 (2000): 249-271.</mla>
+<lncs>Neumann, E., Kakorin, S.: Electroporation of curved lipid membranes in ionic strength gradients. BIOPHYSICAL CHEMISTRY. 85, 249-271 (2000).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neumann, E., &amp;amp; Kakorin, S. (2000). Electroporation of curved lipid membranes in ionic strength gradients. &lt;em&gt;BIOPHYSICAL CHEMISTRY&lt;/em&gt;, &lt;em&gt;85&lt;/em&gt;(2-3), 249-271.&lt;/div&gt;</apa_indent>
+<apa>Neumann, E., &amp;amp; Kakorin, S. (2000). Electroporation of curved lipid membranes in ionic strength gradients. &lt;em&gt;BIOPHYSICAL CHEMISTRY&lt;/em&gt;, &lt;em&gt;85&lt;/em&gt;(2-3), 249-271.</apa>
+<angewandte-chemie>E.  Neumann, and S.  Kakorin, “Electroporation of curved lipid membranes in ionic strength gradients”, &lt;em&gt;BIOPHYSICAL CHEMISTRY&lt;/em&gt;, &lt;strong&gt;2000&lt;/strong&gt;, &lt;em&gt;85&lt;/em&gt;, 249-271.</angewandte-chemie>
+<frontiers>Neumann, E., and Kakorin, S. (2000). Electroporation of curved lipid membranes in ionic strength gradients. &lt;em&gt;BIOPHYSICAL CHEMISTRY&lt;/em&gt; 85, 249-271.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Neumann, Eberhard, and Kakorin, Sergej. 2000. “Electroporation of curved lipid membranes in ionic strength gradients”. &lt;em&gt;BIOPHYSICAL CHEMISTRY&lt;/em&gt; 85 (2-3): 249-271.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1619393</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:04:21Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-14T13:58:06Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1619393</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1619393</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

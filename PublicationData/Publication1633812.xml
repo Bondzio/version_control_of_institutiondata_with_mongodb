@@ -1,0 +1,147 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Genetic makeup of the Corynebacterium glutamicum LexA regulon deduced from comparative transcriptomics and in vitro DNA band shift assays</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Nina</namePart>
+  <namePart type="family">Jochmann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Anna-Katharina</namePart>
+  <namePart type="family">Kurze</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Lisa F.</namePart>
+  <namePart type="family">Czaja</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Karina</namePart>
+  <namePart type="family">Brinkrolf</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Iris</namePart>
+  <namePart type="family">Brune</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andrea T.</namePart>
+  <namePart type="family">Hueser</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Nicole</namePart>
+  <namePart type="family">Hansmeier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alfred</namePart>
+  <namePart type="family">Pühler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21937</identifier></name>
+<name type="personal">
+  <namePart type="given">Ilya</namePart>
+  <namePart type="family">Borovok</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Tauch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">22082</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Genomforschung und Systembiologie</namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  A. Tauch</namePart>
+  <identifier type="unibi">33070741</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Research Group  A. Pühler</namePart>
+  <identifier type="unibi">33070639</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The lexA gene of Corynebacterium glutamicum ATCC 13032 was deleted to create the mutant strain C. glutamicum NJ2114, which has an elongated cell morphology and an increased doubling time. To characterize the SOS regulon in C. glutamicum, the transcriptomes of NJ2114 and a DNA-damage-induced wild-type strain were compared with that of a wild-type control using DNA microarray hybridization. The expression data were combined with bioinformatic pattern searches for LexA binding sites, leading to the detection of 46 potential SOS boxes located upstream of differentially expressed transcription units. Binding of a hexahistidyl-tagged LexA protein to 40 double-stranded oligonucleotides containing the potential SOS boxes was demonstrated in vitro by DNA band shift assays. It turned out that LexA binds not only to SOS boxes in the promoter-operator region of upregulated genes, but also to SOS boxes detected upstream of downregulated genes. These results demonstrated that LexA controls directly the expression of at least 48 SOS genes organized in 36 transcription units. The deduced genes encode a variety of physiological functions, many of them involved in DNA repair and survival after DNA damage, but nearly half of them have hitherto unknown functions. Alignment of the LexA binding sites allowed the corynebacterial SOS box consensus sequence TcGAA(a/c)AnnTGTtCGA to be deduced. Furthermore, the common intergenic region of lexA and the differentially expressed divS-nrdR operon, encoding a cell division suppressor and a regulator of deoxyribonucleotide biosynthesis, was characterized in detail. Promoter mapping revealed differences in divS-nrdR expression during SOS response and normal growth conditions. One of the four LexA binding sites detected in the intergenic region is involved in regulating divS-nrdR transcription, whereas the other sites are apparently used for negative autoregulation of lexA expression.</abstract>
+
+<originInfo><publisher>Society for General Microbiology</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>MICROBIOLOGY</title></titleInfo>
+  <identifier type="issn">1350-0872</identifier>
+  <identifier type="eIssn">1465-2080</identifier>
+  <identifier type="MEDLINE">19372162</identifier>
+  <identifier type="ISI">000266151900009</identifier><identifier type="doi">10.1099/mic.0.025841-0</identifier>
+<part><detail type="volume"><number>155</number></detail><detail type="issue"><number>5</number></detail><extent unit="pages">1459-1477</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Jochmann, N., Kurze, A. - K., Czaja, L. F., Brinkrolf, K., Brune, I., Hueser, A. T., Hansmeier, N., Pühler, A., Borovok, I., and Tauch, A. (2009). Genetic makeup of the Corynebacterium glutamicum LexA regulon deduced from comparative transcriptomics and in vitro DNA band shift assays. &lt;em&gt;MICROBIOLOGY&lt;/em&gt; 155, 1459-1477.</frontiers>
+<apa>Jochmann, N., Kurze, A. - K., Czaja, L. F., Brinkrolf, K., Brune, I., Hueser, A. T., Hansmeier, N., et al. (2009). Genetic makeup of the Corynebacterium glutamicum LexA regulon deduced from comparative transcriptomics and in vitro DNA band shift assays. &lt;em&gt;MICROBIOLOGY&lt;/em&gt;, &lt;em&gt;155&lt;/em&gt;(5), 1459-1477.</apa>
+<angewandte-chemie>N.  Jochmann, A. - K.  Kurze, L. F.  Czaja, K.  Brinkrolf, I.  Brune, A. T.  Hueser, N.  Hansmeier, A.  Pühler, I.  Borovok, and A.  Tauch, “Genetic makeup of the Corynebacterium glutamicum LexA regulon deduced from comparative transcriptomics and in vitro DNA band shift assays”, &lt;em&gt;MICROBIOLOGY&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;155&lt;/em&gt;, 1459-1477.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Jochmann, Nina, Kurze, Anna-Katharina, Czaja, Lisa F., Brinkrolf, Karina, Brune, Iris, Hueser, Andrea T., Hansmeier, Nicole, Pühler, Alfred, Borovok, Ilya, and Tauch, Andreas. 2009. “Genetic makeup of the Corynebacterium glutamicum LexA regulon deduced from comparative transcriptomics and in vitro DNA band shift assays”. &lt;em&gt;MICROBIOLOGY&lt;/em&gt; 155 (5): 1459-1477.&lt;/div&gt;</chicago>
+<mla>Jochmann, Nina, Kurze, Anna-Katharina, Czaja, Lisa F., Brinkrolf, Karina, Brune, Iris, Hueser, Andrea T., Hansmeier, Nicole, Pühler, Alfred, Borovok, Ilya, and Tauch, Andreas. “Genetic makeup of the Corynebacterium glutamicum LexA regulon deduced from comparative transcriptomics and in vitro DNA band shift assays”. &lt;em&gt;MICROBIOLOGY&lt;/em&gt; 155.5 (2009): 1459-1477.</mla>
+<lncs>Jochmann, N., Kurze, A.-K., Czaja, L.F., Brinkrolf, K., Brune, I., Hueser, A.T., Hansmeier, N., Pühler, A., Borovok, I., Tauch, A.: Genetic makeup of the Corynebacterium glutamicum LexA regulon deduced from comparative transcriptomics and in vitro DNA band shift assays. MICROBIOLOGY. 155, 1459-1477 (2009).</lncs>
+<ieee>N. Jochmann, et al., “Genetic makeup of the Corynebacterium glutamicum LexA regulon deduced from comparative transcriptomics and in vitro DNA band shift assays”, &lt;em&gt;MICROBIOLOGY&lt;/em&gt;,  vol. 155, 2009,  pp. 1459-1477.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Jochmann, N., Kurze, A. - K., Czaja, L. F., Brinkrolf, K., Brune, I., Hueser, A. T., Hansmeier, N., et al. (2009). Genetic makeup of the Corynebacterium glutamicum LexA regulon deduced from comparative transcriptomics and in vitro DNA band shift assays. &lt;em&gt;MICROBIOLOGY&lt;/em&gt;, &lt;em&gt;155&lt;/em&gt;(5), 1459-1477.&lt;/div&gt;</apa_indent>
+<default>Jochmann N, Kurze A-K, Czaja LF, Brinkrolf K, Brune I, Hueser AT, Hansmeier N, Pühler A, Borovok I, Tauch A (2009) &lt;br /&gt;MICROBIOLOGY 155(5): 1459-1477.</default>
+<wels>Jochmann, N.; Kurze, A. - K.; Czaja, L. F.; Brinkrolf, K.; Brune, I.; Hueser, A. T.; Hansmeier, N.; Pühler, A.; Borovok, I.; Tauch, A. (2009): Genetic makeup of the Corynebacterium glutamicum LexA regulon deduced from comparative transcriptomics and in vitro DNA band shift assays &lt;em&gt;MICROBIOLOGY&lt;/em&gt;,155:(5): 1459-1477.</wels>
+<aps>N.  Jochmann, et al., Genetic makeup of the Corynebacterium glutamicum LexA regulon deduced from comparative transcriptomics and in vitro DNA band shift assays, MICROBIOLOGY &lt;strong&gt;155&lt;/strong&gt;, 1459-1477 (2009).</aps>
+<bio1>Jochmann N, Kurze A-K, Czaja LF, Brinkrolf K, Brune I, Hueser AT, Hansmeier N, Pühler A, Borovok I, Tauch A (2009) &lt;br /&gt;Genetic makeup of the Corynebacterium glutamicum LexA regulon deduced from comparative transcriptomics and in vitro DNA band shift assays.&lt;br /&gt;MICROBIOLOGY 155(5): 1459-1477.</bio1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Jochmann, N., Kurze, A.-K., Czaja, L.F., Brinkrolf, K., Brune, I., Hueser, A.T., Hansmeier, N., Pühler, A., Borovok, I. &amp;amp; Tauch, A. (2009). Genetic makeup of the Corynebacterium glutamicum LexA regulon deduced from comparative transcriptomics and in vitro DNA band shift assays. &lt;em&gt;MICROBIOLOGY&lt;/em&gt;, &lt;em&gt;155&lt;/em&gt;(5), 1459-1477. Society for General Microbiology. doi:10.1099/mic.0.025841-0.&lt;/div&gt;</dgps>
+<harvard1>Jochmann, N., et al., 2009. Genetic makeup of the Corynebacterium glutamicum LexA regulon deduced from comparative transcriptomics and in vitro DNA band shift assays. &lt;em&gt;MICROBIOLOGY&lt;/em&gt;, 155(5), p 1459-1477.</harvard1>
+<ama>Jochmann N, Kurze A-K, Czaja LF, et al. Genetic makeup of the Corynebacterium glutamicum LexA regulon deduced from comparative transcriptomics and in vitro DNA band shift assays. &lt;em&gt;MICROBIOLOGY&lt;/em&gt;. 2009;155(5):1459-1477.</ama>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1633812</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:01Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2013-12-06T13:57:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1633812</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1633812</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

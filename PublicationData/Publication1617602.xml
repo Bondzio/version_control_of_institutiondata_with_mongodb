@@ -1,0 +1,105 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Critical reading of epidemiological papers - A guide</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Blettner</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">C</namePart>
+  <namePart type="family">Heuer</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Oliver</namePart>
+  <namePart type="family">Razum</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">134970</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG 3 Epidemiologie &amp; International Public Health</namePart>
+  <identifier type="unibi">21333</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Many clinicians, medical practitioners and decision makers have no formal training in epidemiology but need to understand and sometimes evaluate results in epidemiologic studies. This paper attempts to give guidance to non-epidemiologists on how to read and evaluate the quality of epidemiologic studies and their results critically, Different methodological issues for evaluating whether the results of a study are causal or by bias, chance or confounding are given. This includes criteria for the choice of an appropriate study design followed by problems of the definition of the study population and the sample selection, We will also point to potential sources of bias in the data collection procedure and list some principles for statistical analysis. Finally, we include comments on how the results should be presented and issues which are related to public health and ethical questions. Although it is not usually possible to perform a perfect study and the correct approach to study design and analysis is often highly dependent on specific features of the population and the surroundings, our paper should help to distinguish between weak and strong investigations and papers.</abstract>
+
+<originInfo><publisher>OXFORD UNIV PRESS</publisher><dateIssued encoding="w3cdtf">2001</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>criticism</topic><topic>reading</topic><topic>epidemiology</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>EUROPEAN JOURNAL OF PUBLIC HEALTH</title></titleInfo>
+  <identifier type="issn">1101-1262</identifier>
+  <identifier type="eIssn">1464-360X</identifier>
+  <identifier type="MEDLINE">11276580</identifier>
+  <identifier type="ISI">000167876800018</identifier><identifier type="doi">10.1093/eurpub/11.1.97</identifier>
+<part><detail type="volume"><number>11</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">97-101</extent>
+</part>
+</relatedItem>
+
+<note type="nonBielefeld">yes</note>
+<extension>
+<bibliographicCitation>
+<wels>Blettner, M.; Heuer, C.; Razum, O. (2001): Critical reading of epidemiological papers - A guide &lt;em&gt;EUROPEAN JOURNAL OF PUBLIC HEALTH&lt;/em&gt;,11:(1): 97-101.</wels>
+<default>Blettner M, Heuer C, Razum O (2001) &lt;br /&gt;EUROPEAN JOURNAL OF PUBLIC HEALTH 11(1): 97-101.</default>
+<ama>Blettner M, Heuer C, Razum O. Critical reading of epidemiological papers - A guide. &lt;em&gt;EUROPEAN JOURNAL OF PUBLIC HEALTH&lt;/em&gt;. 2001;11(1):97-101.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Blettner, M., Heuer, C. &amp;amp; Razum, O. (2001). Critical reading of epidemiological papers - A guide. &lt;em&gt;EUROPEAN JOURNAL OF PUBLIC HEALTH&lt;/em&gt;, &lt;em&gt;11&lt;/em&gt;(1), 97-101. OXFORD UNIV PRESS. doi:10.1093/eurpub/11.1.97.&lt;/div&gt;</dgps>
+<harvard1>Blettner, M., Heuer, C., &amp;amp; Razum, O., 2001. Critical reading of epidemiological papers - A guide. &lt;em&gt;EUROPEAN JOURNAL OF PUBLIC HEALTH&lt;/em&gt;, 11(1), p 97-101.</harvard1>
+<bio1>Blettner M, Heuer C, Razum O (2001) &lt;br /&gt;Critical reading of epidemiological papers - A guide.&lt;br /&gt;EUROPEAN JOURNAL OF PUBLIC HEALTH 11(1): 97-101.</bio1>
+<aps>M.  Blettner, C.  Heuer, and O.  Razum, Critical reading of epidemiological papers - A guide, EUROPEAN JOURNAL OF PUBLIC HEALTH &lt;strong&gt;11&lt;/strong&gt;, 97-101 (2001).</aps>
+<angewandte-chemie>M.  Blettner, C.  Heuer, and O.  Razum, “Critical reading of epidemiological papers - A guide”, &lt;em&gt;EUROPEAN JOURNAL OF PUBLIC HEALTH&lt;/em&gt;, &lt;strong&gt;2001&lt;/strong&gt;, &lt;em&gt;11&lt;/em&gt;, 97-101.</angewandte-chemie>
+<apa>Blettner, M., Heuer, C., &amp;amp; Razum, O. (2001). Critical reading of epidemiological papers - A guide. &lt;em&gt;EUROPEAN JOURNAL OF PUBLIC HEALTH&lt;/em&gt;, &lt;em&gt;11&lt;/em&gt;(1), 97-101.</apa>
+<frontiers>Blettner, M., Heuer, C., and Razum, O. (2001). Critical reading of epidemiological papers - A guide. &lt;em&gt;EUROPEAN JOURNAL OF PUBLIC HEALTH&lt;/em&gt; 11, 97-101.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Blettner, M, Heuer, C, and Razum, Oliver. 2001. “Critical reading of epidemiological papers - A guide”. &lt;em&gt;EUROPEAN JOURNAL OF PUBLIC HEALTH&lt;/em&gt; 11 (1): 97-101.&lt;/div&gt;</chicago>
+<ieee>M. Blettner, C. Heuer, and O. Razum, “Critical reading of epidemiological papers - A guide”, &lt;em&gt;EUROPEAN JOURNAL OF PUBLIC HEALTH&lt;/em&gt;,  vol. 11, 2001,  pp. 97-101.</ieee>
+<lncs>Blettner, M., Heuer, C., Razum, O.: Critical reading of epidemiological papers - A guide. EUROPEAN JOURNAL OF PUBLIC HEALTH. 11, 97-101 (2001).</lncs>
+<mla>Blettner, M, Heuer, C, and Razum, Oliver. “Critical reading of epidemiological papers - A guide”. &lt;em&gt;EUROPEAN JOURNAL OF PUBLIC HEALTH&lt;/em&gt; 11.1 (2001): 97-101.</mla>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Blettner, M., Heuer, C., &amp;amp; Razum, O. (2001). Critical reading of epidemiological papers - A guide. &lt;em&gt;EUROPEAN JOURNAL OF PUBLIC HEALTH&lt;/em&gt;, &lt;em&gt;11&lt;/em&gt;(1), 97-101.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1617602</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:03:18Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2013-07-02T13:24:20Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1617602</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1617602</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

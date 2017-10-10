@@ -1,0 +1,123 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Mobilizable IncQ-related plasmid carrying a new quinolone resistance gene, qnrS2, isolated from the bacterial community of a wastewater treatment plant</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Gabriele</namePart>
+  <namePart type="family">Bönemann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Michael</namePart>
+  <namePart type="family">Stiens</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alfred</namePart>
+  <namePart type="family">Pühler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21937</identifier></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Schlüter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">55545</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0003-4830-310X</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070639</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">Plasmid-encoded quinolone resistance was previously reported for different bacteria isolated from patients not only in the United States and Asia but also in Europe. Here we describe the isolation, by applying a new selection strategy, of the quinolone resistance plasmid pGNB2 from an activated sludge bacterial community of a wastewater treatment plant in Germany. The hypersensitive Escherichia coli strain KAM3 carrying a mutation in the multidrug efflux system genes acrAB was transformed with total plasmid DNA preparations isolated from activated sludge bacteria and subsequently selected on medium containing the fluoroquinolone norfloxacin. This approach resulted in the isolation of plasmid pGNB2 conferring decreased susceptibility to nalidixic acid and to different fluoroquinolones. Analysis of the pGNB2 nucleotide sequence revealed that it is 8,469 bp in size and has a G+C content of 58.2%. The plasmid backbone is composed of a replication initiation module (repA-repC) belonging to the IncQ-family and a two-component mobilization module that confers horizontal mobility to the plasmid. In addition, plasmid pGNB2 carries an accessory module consisting of a transposon Tn1721 remnant and the quinolone resistance gene, qnrS2, that is 92% identical to the qnrS gene located on plasmid pAH0376 from Shigella flexneri 2b. QnrS2 belongs to the pentapeptide repeat protein family and is predicted to protect DNA-gyrase activity against quinolones. This is not only the first report on a completely sequenced plasmid mediating quinolone resistance isolated from an environmental sample but also on the first qnrS-like gene detected in Europe.</abstract>
+
+<originInfo><publisher>AMER SOC MICROBIOLOGY</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>ANTIMICROBIAL AGENTS AND CHEMOTHERAPY</title></titleInfo>
+  <identifier type="issn">0066-4804</identifier>
+  <identifier type="eIssn">1098-6596</identifier>
+  <identifier type="MEDLINE">16940104</identifier>
+  <identifier type="ISI">000240297000025</identifier><identifier type="doi">10.1128/AAC.00378-06</identifier>
+<part><detail type="volume"><number>50</number></detail><detail type="issue"><number>9</number></detail><extent unit="pages">3075-3080</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bönemann, G., Stiens, M., Pühler, A. &amp;amp; Schlüter, A. (2006). Mobilizable IncQ-related plasmid carrying a new quinolone resistance gene, qnrS2, isolated from the bacterial community of a wastewater treatment plant. &lt;em&gt;ANTIMICROBIAL AGENTS AND CHEMOTHERAPY&lt;/em&gt;, &lt;em&gt;50&lt;/em&gt;(9), 3075-3080. AMER SOC MICROBIOLOGY. doi:10.1128/AAC.00378-06.&lt;/div&gt;</dgps>
+<harvard1>Bönemann, G., et al., 2006. Mobilizable IncQ-related plasmid carrying a new quinolone resistance gene, qnrS2, isolated from the bacterial community of a wastewater treatment plant. &lt;em&gt;ANTIMICROBIAL AGENTS AND CHEMOTHERAPY&lt;/em&gt;, 50(9), p 3075-3080.</harvard1>
+<ama>Bönemann G, Stiens M, Pühler A, Schlüter A. Mobilizable IncQ-related plasmid carrying a new quinolone resistance gene, qnrS2, isolated from the bacterial community of a wastewater treatment plant. &lt;em&gt;ANTIMICROBIAL AGENTS AND CHEMOTHERAPY&lt;/em&gt;. 2006;50(9):3075-3080.</ama>
+<bio1>Bönemann G, Stiens M, Pühler A, Schlüter A (2006) &lt;br /&gt;Mobilizable IncQ-related plasmid carrying a new quinolone resistance gene, qnrS2, isolated from the bacterial community of a wastewater treatment plant.&lt;br /&gt;ANTIMICROBIAL AGENTS AND CHEMOTHERAPY 50(9): 3075-3080.</bio1>
+<aps> G.  Bönemann, et al., Mobilizable IncQ-related plasmid carrying a new quinolone resistance gene, qnrS2, isolated from the bacterial community of a wastewater treatment plant, ANTIMICROBIAL AGENTS AND CHEMOTHERAPY &lt;strong&gt;50&lt;/strong&gt;, 3075-3080 (2006).</aps>
+<wels>Bönemann, G.; Stiens, M.; Pühler, A.; Schlüter, A. (2006): Mobilizable IncQ-related plasmid carrying a new quinolone resistance gene, qnrS2, isolated from the bacterial community of a wastewater treatment plant &lt;em&gt;ANTIMICROBIAL AGENTS AND CHEMOTHERAPY&lt;/em&gt;,50:(9): 3075-3080.</wels>
+<default>Bönemann G, Stiens M, Pühler A, Schlüter A (2006) &lt;br /&gt;ANTIMICROBIAL AGENTS AND CHEMOTHERAPY 50(9): 3075-3080.</default>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bönemann, G., Stiens, M., Pühler, A., &amp;amp; Schlüter, A. (2006). Mobilizable IncQ-related plasmid carrying a new quinolone resistance gene, qnrS2, isolated from the bacterial community of a wastewater treatment plant. &lt;em&gt;ANTIMICROBIAL AGENTS AND CHEMOTHERAPY&lt;/em&gt;, &lt;em&gt;50&lt;/em&gt;(9), 3075-3080.&lt;/div&gt;</apa_indent>
+<ieee> G. Bönemann, et al., “Mobilizable IncQ-related plasmid carrying a new quinolone resistance gene, qnrS2, isolated from the bacterial community of a wastewater treatment plant”, &lt;em&gt;ANTIMICROBIAL AGENTS AND CHEMOTHERAPY&lt;/em&gt;,  vol. 50, 2006,  pp. 3075-3080.</ieee>
+<mla>Bönemann, Gabriele, Stiens, Michael, Pühler, Alfred, and Schlüter, Andreas. “Mobilizable IncQ-related plasmid carrying a new quinolone resistance gene, qnrS2, isolated from the bacterial community of a wastewater treatment plant”. &lt;em&gt;ANTIMICROBIAL AGENTS AND CHEMOTHERAPY&lt;/em&gt; 50.9 (2006): 3075-3080.</mla>
+<lncs> Bönemann, G., Stiens, M., Pühler, A., Schlüter, A.: Mobilizable IncQ-related plasmid carrying a new quinolone resistance gene, qnrS2, isolated from the bacterial community of a wastewater treatment plant. ANTIMICROBIAL AGENTS AND CHEMOTHERAPY. 50, 3075-3080 (2006).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bönemann, Gabriele, Stiens, Michael, Pühler, Alfred, and Schlüter, Andreas. 2006. “Mobilizable IncQ-related plasmid carrying a new quinolone resistance gene, qnrS2, isolated from the bacterial community of a wastewater treatment plant”. &lt;em&gt;ANTIMICROBIAL AGENTS AND CHEMOTHERAPY&lt;/em&gt; 50 (9): 3075-3080.&lt;/div&gt;</chicago>
+<apa>Bönemann, G., Stiens, M., Pühler, A., &amp;amp; Schlüter, A. (2006). Mobilizable IncQ-related plasmid carrying a new quinolone resistance gene, qnrS2, isolated from the bacterial community of a wastewater treatment plant. &lt;em&gt;ANTIMICROBIAL AGENTS AND CHEMOTHERAPY&lt;/em&gt;, &lt;em&gt;50&lt;/em&gt;(9), 3075-3080.</apa>
+<angewandte-chemie>G.  Bönemann, M.  Stiens, A.  Pühler, and A.  Schlüter, “Mobilizable IncQ-related plasmid carrying a new quinolone resistance gene, qnrS2, isolated from the bacterial community of a wastewater treatment plant”, &lt;em&gt;ANTIMICROBIAL AGENTS AND CHEMOTHERAPY&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;50&lt;/em&gt;, 3075-3080.</angewandte-chemie>
+<frontiers>Bönemann, G., Stiens, M., Pühler, A., and Schlüter, A. (2006). Mobilizable IncQ-related plasmid carrying a new quinolone resistance gene, qnrS2, isolated from the bacterial community of a wastewater treatment plant. &lt;em&gt;ANTIMICROBIAL AGENTS AND CHEMOTHERAPY&lt;/em&gt; 50, 3075-3080.</frontiers>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1598081</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:19:13Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-11T10:02:09Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1598081</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1598081</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

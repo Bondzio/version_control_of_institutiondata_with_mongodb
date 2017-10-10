@@ -1,0 +1,97 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Reflection functors for hereditary algebras</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Claus Michael</namePart>
+  <namePart type="family">Ringel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10583</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Fakultät für Mathematik</namePart>
+  <identifier type="unibi">10020</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Ringel_048.pdf">https://pub.uni-bielefeld.de/download/1781915/2313575</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1980</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Journal of the London Mathematical Society : Ser. 2</title></titleInfo>
+  <identifier type="issn">1469-7750</identifier>
+  <identifier type="ISI">A1980KC02800009</identifier><identifier type="urn">urn:nbn:de:0070-bipr-28452</identifier>
+<part><detail type="volume"><number>21</number></detail><detail type="issue"><number>Jun</number></detail><extent unit="pages">465-479</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ringel, C. M. (1980). Reflection functors for hereditary algebras. &lt;em&gt;Journal of the London Mathematical Society : Ser. 2&lt;/em&gt;, &lt;em&gt;21&lt;/em&gt;(Jun), 465-479.&lt;/div&gt;</apa_indent>
+<ieee>C.M. Ringel, “Reflection functors for hereditary algebras”, &lt;em&gt;Journal of the London Mathematical Society : Ser. 2&lt;/em&gt;,  vol. 21, 1980,  pp. 465-479.</ieee>
+<mla>Ringel, Claus Michael. “Reflection functors for hereditary algebras”. &lt;em&gt;Journal of the London Mathematical Society : Ser. 2&lt;/em&gt; 21.Jun (1980): 465-479.</mla>
+<lncs>Ringel, C.M.: Reflection functors for hereditary algebras. Journal of the London Mathematical Society : Ser. 2. 21, 465-479 (1980).</lncs>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ringel, Claus Michael. 1980. “Reflection functors for hereditary algebras”. &lt;em&gt;Journal of the London Mathematical Society : Ser. 2&lt;/em&gt; 21 (Jun): 465-479.&lt;/div&gt;</chicago>
+<apa>Ringel, C. M. (1980). Reflection functors for hereditary algebras. &lt;em&gt;Journal of the London Mathematical Society : Ser. 2&lt;/em&gt;, &lt;em&gt;21&lt;/em&gt;(Jun), 465-479.</apa>
+<angewandte-chemie>C. M.  Ringel, “Reflection functors for hereditary algebras”, &lt;em&gt;Journal of the London Mathematical Society : Ser. 2&lt;/em&gt;, &lt;strong&gt;1980&lt;/strong&gt;, &lt;em&gt;21&lt;/em&gt;, 465-479.</angewandte-chemie>
+<frontiers>Ringel, C. M. (1980). Reflection functors for hereditary algebras. &lt;em&gt;Journal of the London Mathematical Society : Ser. 2&lt;/em&gt; 21, 465-479.</frontiers>
+<ama>Ringel CM. Reflection functors for hereditary algebras. &lt;em&gt;Journal of the London Mathematical Society : Ser. 2&lt;/em&gt;. 1980;21(Jun):465-479.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ringel, C.M. (1980). Reflection functors for hereditary algebras. &lt;em&gt;Journal of the London Mathematical Society : Ser. 2&lt;/em&gt;, &lt;em&gt;21&lt;/em&gt;(Jun), 465-479.&lt;/div&gt;</dgps>
+<harvard1>Ringel, C.M., 1980. Reflection functors for hereditary algebras. &lt;em&gt;Journal of the London Mathematical Society : Ser. 2&lt;/em&gt;, 21(Jun), p 465-479.</harvard1>
+<bio1>Ringel CM (1980) &lt;br /&gt;Reflection functors for hereditary algebras.&lt;br /&gt;Journal of the London Mathematical Society : Ser. 2 21(Jun): 465-479.</bio1>
+<aps>C. M.  Ringel, Reflection functors for hereditary algebras, Journal of the London Mathematical Society : Ser. 2 &lt;strong&gt;21&lt;/strong&gt;, 465-479 (1980).</aps>
+<wels>Ringel, C. M. (1980): Reflection functors for hereditary algebras &lt;em&gt;Journal of the London Mathematical Society : Ser. 2&lt;/em&gt;,21:(Jun): 465-479.</wels>
+<default>Ringel CM (1980) &lt;br /&gt;Journal of the London Mathematical Society : Ser. 2 21(Jun): 465-479.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781915</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781915</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781915</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

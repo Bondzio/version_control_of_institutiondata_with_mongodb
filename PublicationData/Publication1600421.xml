@@ -1,0 +1,135 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>RNAshapes: an integrated RNA analysis package based on abstract shapes</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Peter</namePart>
+  <namePart type="family">Steffen</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">65488</identifier></name>
+<name type="personal">
+  <namePart type="given">Björn</namePart>
+  <namePart type="family">Voss</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Marc</namePart>
+  <namePart type="family">Rehmsmeier</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">11601931</identifier></name>
+<name type="personal">
+  <namePart type="given">Jens</namePart>
+  <namePart type="family">Reeder</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Robert</namePart>
+  <namePart type="family">Giegerich</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">147565</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Research Group R. Giegerich</namePart>
+  <identifier type="unibi">33067120</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Praktische Informatik</namePart>
+  <identifier type="unibi">10039</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Institut für Bioinformatik</namePart>
+  <identifier type="unibi">441317</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>Graduate Center</namePart>
+  <identifier type="unibi">16941123</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We introduce RNAshapes, a new software package that integrates three RNA analysis tools based on the abstract shapes approach: the analysis of shape representatives, the calculation of shape probabilities and the consensus shapes approach. This new package is completely reimplemented in C and outruns the original implementations significantly in runtime and memory requirements. Additionally, we added a number of useful features like suboptimal folding with correct dangling energies, structure graph output, shape matching and a sliding window approach.</abstract>
+
+<originInfo><publisher>Oxford Univ. Press</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Bioinformatics</title></titleInfo>
+  <identifier type="issn">1367-4803</identifier>
+  <identifier type="eIssn">1460-2059</identifier>
+  <identifier type="MEDLINE">16357029</identifier>
+  <identifier type="ISI">000235277300019</identifier><identifier type="doi">10.1093/bioinformatics/btk010</identifier>
+<part><detail type="volume"><number>22</number></detail><detail type="issue"><number>4</number></detail><extent unit="pages">500-503</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<ieee>P. Steffen, et al., “RNAshapes: an integrated RNA analysis package based on abstract shapes”, &lt;em&gt;Bioinformatics&lt;/em&gt;,  vol. 22, 2006,  pp. 500-503.</ieee>
+<mla>Steffen, Peter, Voss, Björn, Rehmsmeier, Marc, Reeder, Jens, and Giegerich, Robert. “RNAshapes: an integrated RNA analysis package based on abstract shapes”. &lt;em&gt;Bioinformatics&lt;/em&gt; 22.4 (2006): 500-503.</mla>
+<lncs>Steffen, P., Voss, B., Rehmsmeier, M., Reeder, J., Giegerich, R.: RNAshapes: an integrated RNA analysis package based on abstract shapes. Bioinformatics. 22, 500-503 (2006).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Steffen, P., Voss, B., Rehmsmeier, M., Reeder, J., &amp;amp; Giegerich, R. (2006). RNAshapes: an integrated RNA analysis package based on abstract shapes. &lt;em&gt;Bioinformatics&lt;/em&gt;, &lt;em&gt;22&lt;/em&gt;(4), 500-503.&lt;/div&gt;</apa_indent>
+<apa>Steffen, P., Voss, B., Rehmsmeier, M., Reeder, J., &amp;amp; Giegerich, R. (2006). RNAshapes: an integrated RNA analysis package based on abstract shapes. &lt;em&gt;Bioinformatics&lt;/em&gt;, &lt;em&gt;22&lt;/em&gt;(4), 500-503.</apa>
+<angewandte-chemie>P.  Steffen, B.  Voss, M.  Rehmsmeier, J.  Reeder, and R.  Giegerich, “RNAshapes: an integrated RNA analysis package based on abstract shapes”, &lt;em&gt;Bioinformatics&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;22&lt;/em&gt;, 500-503.</angewandte-chemie>
+<frontiers>Steffen, P., Voss, B., Rehmsmeier, M., Reeder, J., and Giegerich, R. (2006). RNAshapes: an integrated RNA analysis package based on abstract shapes. &lt;em&gt;Bioinformatics&lt;/em&gt; 22, 500-503.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Steffen, Peter, Voss, Björn, Rehmsmeier, Marc, Reeder, Jens, and Giegerich, Robert. 2006. “RNAshapes: an integrated RNA analysis package based on abstract shapes”. &lt;em&gt;Bioinformatics&lt;/em&gt; 22 (4): 500-503.&lt;/div&gt;</chicago>
+<ama>Steffen P, Voss B, Rehmsmeier M, Reeder J, Giegerich R. RNAshapes: an integrated RNA analysis package based on abstract shapes. &lt;em&gt;Bioinformatics&lt;/em&gt;. 2006;22(4):500-503.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Steffen, P., Voss, B., Rehmsmeier, M., Reeder, J. &amp;amp; Giegerich, R. (2006). RNAshapes: an integrated RNA analysis package based on abstract shapes. &lt;em&gt;Bioinformatics&lt;/em&gt;, &lt;em&gt;22&lt;/em&gt;(4), 500-503. Oxford Univ. Press. doi:10.1093/bioinformatics/btk010.&lt;/div&gt;</dgps>
+<harvard1>Steffen, P., et al., 2006. RNAshapes: an integrated RNA analysis package based on abstract shapes. &lt;em&gt;Bioinformatics&lt;/em&gt;, 22(4), p 500-503.</harvard1>
+<aps>P.  Steffen, et al., RNAshapes: an integrated RNA analysis package based on abstract shapes, Bioinformatics &lt;strong&gt;22&lt;/strong&gt;, 500-503 (2006).</aps>
+<bio1>Steffen P, Voss B, Rehmsmeier M, Reeder J, Giegerich R (2006) &lt;br /&gt;RNAshapes: an integrated RNA analysis package based on abstract shapes.&lt;br /&gt;Bioinformatics 22(4): 500-503.</bio1>
+<wels>Steffen, P.; Voss, B.; Rehmsmeier, M.; Reeder, J.; Giegerich, R. (2006): RNAshapes: an integrated RNA analysis package based on abstract shapes &lt;em&gt;Bioinformatics&lt;/em&gt;,22:(4): 500-503.</wels>
+<default>Steffen P, Voss B, Rehmsmeier M, Reeder J, Giegerich R (2006) &lt;br /&gt;Bioinformatics 22(4): 500-503.</default>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1600421</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:31:17Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-10-06T14:15:59Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1600421</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1600421</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

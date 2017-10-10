@@ -1,0 +1,119 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>High temperature SU(2) gluon matter of the lattice</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Jürgen</namePart>
+  <namePart type="family">Engels</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40338</identifier></name>
+<name type="personal">
+  <namePart type="given">Frithjof</namePart>
+  <namePart type="family">Karsch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40326</identifier></name>
+<name type="personal">
+  <namePart type="given">Helmut</namePart>
+  <namePart type="family">Satz</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">40339</identifier></name>
+<name type="personal">
+  <namePart type="given">I.</namePart>
+  <namePart type="family">Montvay</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>AG Phänomenologie von Schwerionenkollisionen</namePart>
+  <identifier type="unibi">23470601</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart>AG Computersimulationen und Gitterfeldtheorie</namePart>
+  <identifier type="unibi">23470456</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We calculate by Monte Carlo simulation on the lattice the energy density [epsilon] of an SU(2) Yang-Mills system at finite physical temperature. First, we study the high temperature form of [epsilon], showing that the conventional euclidean lattice formulation converges to the parameter-free Stefan-Boltzmann limit of a free gluon gas in the continuum. Secondly, we show that the specific heat of gluon matter exhibits a sharp peak at the transition point from the confined phase to the color-screened gluon gas. The resulting transition temperature is found to be 210 ± 10 MeV.</abstract>
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Engels_032.pdf">https://pub.uni-bielefeld.de/download/1776330/2312148</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><dateIssued encoding="w3cdtf">1981</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Physics Letters, B</title></titleInfo>
+  <identifier type="issn">0370-2693</identifier>
+  <identifier type="INSPIRE">156616</identifier>
+  <identifier type="ISI">A1981LP61000022</identifier><identifier type="urn">urn:nbn:de:0070-pub-17763301</identifier><identifier type="doi">10.1016/0370-2693(81)90497-4</identifier>
+<part><detail type="volume"><number>101</number></detail><detail type="issue"><number>1-2</number></detail><extent unit="pages">89-94</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, Jürgen, Karsch, Frithjof, Satz, Helmut, and Montvay, I. 1981. “High temperature SU(2) gluon matter of the lattice”. &lt;em&gt;Physics Letters, B&lt;/em&gt; 101 (1-2): 89-94.&lt;/div&gt;</chicago>
+<apa>Engels, J., Karsch, F., Satz, H., &amp;amp; Montvay, I. (1981). High temperature SU(2) gluon matter of the lattice. &lt;em&gt;Physics Letters, B&lt;/em&gt;, &lt;em&gt;101&lt;/em&gt;(1-2), 89-94.</apa>
+<angewandte-chemie>J.  Engels, F.  Karsch, H.  Satz, and I.  Montvay, “High temperature SU(2) gluon matter of the lattice”, &lt;em&gt;Physics Letters, B&lt;/em&gt;, &lt;strong&gt;1981&lt;/strong&gt;, &lt;em&gt;101&lt;/em&gt;, 89-94.</angewandte-chemie>
+<frontiers>Engels, J., Karsch, F., Satz, H., and Montvay, I. (1981). High temperature SU(2) gluon matter of the lattice. &lt;em&gt;Physics Letters, B&lt;/em&gt; 101, 89-94.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, J., Karsch, F., Satz, H., &amp;amp; Montvay, I. (1981). High temperature SU(2) gluon matter of the lattice. &lt;em&gt;Physics Letters, B&lt;/em&gt;, &lt;em&gt;101&lt;/em&gt;(1-2), 89-94.&lt;/div&gt;</apa_indent>
+<ieee>J. Engels, et al., “High temperature SU(2) gluon matter of the lattice”, &lt;em&gt;Physics Letters, B&lt;/em&gt;,  vol. 101, 1981,  pp. 89-94.</ieee>
+<mla>Engels, Jürgen, Karsch, Frithjof, Satz, Helmut, and Montvay, I. “High temperature SU(2) gluon matter of the lattice”. &lt;em&gt;Physics Letters, B&lt;/em&gt; 101.1-2 (1981): 89-94.</mla>
+<lncs>Engels, J., Karsch, F., Satz, H., Montvay, I.: High temperature SU(2) gluon matter of the lattice. Physics Letters, B. 101, 89-94 (1981).</lncs>
+<wels>Engels, J.; Karsch, F.; Satz, H.; Montvay, I. (1981): High temperature SU(2) gluon matter of the lattice &lt;em&gt;Physics Letters, B&lt;/em&gt;,101:(1-2): 89-94.</wels>
+<default>Engels J, Karsch F, Satz H, Montvay I (1981) &lt;br /&gt;Physics Letters, B 101(1-2): 89-94.</default>
+<ama>Engels J, Karsch F, Satz H, Montvay I. High temperature SU(2) gluon matter of the lattice. &lt;em&gt;Physics Letters, B&lt;/em&gt;. 1981;101(1-2):89-94.</ama>
+<harvard1>Engels, J., et al., 1981. High temperature SU(2) gluon matter of the lattice. &lt;em&gt;Physics Letters, B&lt;/em&gt;, 101(1-2), p 89-94.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Engels, J., Karsch, F., Satz, H. &amp;amp; Montvay, I. (1981). High temperature SU(2) gluon matter of the lattice. &lt;em&gt;Physics Letters, B&lt;/em&gt;, &lt;em&gt;101&lt;/em&gt;(1-2), 89-94. doi:10.1016/0370-2693(81)90497-4.&lt;/div&gt;</dgps>
+<aps>J.  Engels, et al., High temperature SU(2) gluon matter of the lattice, Physics Letters, B &lt;strong&gt;101&lt;/strong&gt;, 89-94 (1981).</aps>
+<bio1>Engels J, Karsch F, Satz H, Montvay I (1981) &lt;br /&gt;High temperature SU(2) gluon matter of the lattice.&lt;br /&gt;Physics Letters, B 101(1-2): 89-94.</bio1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776330</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776330</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776330</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

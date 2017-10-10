@@ -1,0 +1,96 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>The representation type of local algebras</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Claus Michael</namePart>
+  <namePart type="family">Ringel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">10583</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>SFB 701 Spectral Structures and Topological Methods in Mathematics</namePart>
+  <identifier type="unibi">435978</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Ringel_027.pdf">https://pub.uni-bielefeld.de/download/1781787/2313511</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Springer</publisher><dateIssued encoding="w3cdtf">1975</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>ICRA 1974 [International Conference on Robotics and Automation]</title></titleInfo>
+  <identifier type="isbn">978-3-540-07406-9</identifier><identifier type="urn">urn:nbn:de:0070-pub-17817871</identifier><identifier type="doi">10.1007/BFb0081230</identifier>
+<part><extent unit="pages">282-305</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<frontiers>Ringel, C. M. (1975). “The representation type of local algebras” in &lt;em&gt;ICRA 1974 [International Conference on Robotics and Automation]&lt;/em&gt; Lecture Notes in Mathematics ; 488 (Berlin, Heidelberg: Springer), 282-305.</frontiers>
+<apa>Ringel, C. M. (1975). The representation type of local algebras. &lt;em&gt;ICRA 1974 [International Conference on Robotics and Automation]&lt;/em&gt;, 282-305.</apa>
+<angewandte-chemie>C. M.  Ringel, in &lt;em&gt;ICRA 1974 [International Conference on Robotics and Automation]&lt;/em&gt;, Springer, Berlin, Heidelberg, &lt;strong&gt;1975&lt;/strong&gt;, p. 282-305.</angewandte-chemie>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ringel, Claus Michael. 1975. “The representation type of local algebras”. In &lt;em&gt;ICRA 1974 [International Conference on Robotics and Automation]&lt;/em&gt;, 282-305. Lecture Notes in Mathematics ; 488. Berlin, Heidelberg: Springer.&lt;/div&gt;</chicago>
+<mla>Ringel, Claus Michael. “The representation type of local algebras”. &lt;em&gt;ICRA 1974 [International Conference on Robotics and Automation]&lt;/em&gt;. Berlin, Heidelberg: Springer, 1975. Lecture Notes in Mathematics ; 488. 282-305.</mla>
+<lncs>Ringel, C.M.: The representation type of local algebras. ICRA 1974 [International Conference on Robotics and Automation]. Lecture Notes in Mathematics ; 488. p. 282-305. Springer, Berlin, Heidelberg (1975).</lncs>
+<ieee>C.M. Ringel, “The representation type of local algebras”, &lt;em&gt;ICRA 1974 [International Conference on Robotics and Automation]&lt;/em&gt;, Lecture Notes in Mathematics ; 488,  Berlin, Heidelberg: Springer, 1975,  pp.282-305.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ringel, C. M. (1975). The representation type of local algebras. &lt;em&gt;ICRA 1974 [International Conference on Robotics and Automation]&lt;/em&gt;, 282-305.&lt;/div&gt;</apa_indent>
+<default>Ringel CM (1975)  &lt;br /&gt;In:  ICRA 1974 [International Conference on Robotics and Automation].  Lecture Notes in Mathematics ; 488, . Berlin, Heidelberg: Springer:  282-305.</default>
+<wels>Ringel, C. M. (1975): The representation type of local algebras. In: ICRA 1974 [International Conference on Robotics and Automation]. Berlin, Heidelberg: Springer. (Lecture Notes in Mathematics ; 488, ).  S. 282-305.</wels>
+<bio1>Ringel CM (1975) &lt;br /&gt;The representation type of local algebras. &lt;br /&gt;In:  ICRA 1974 [International Conference on Robotics and Automation].  Lecture Notes in Mathematics ; 488,  Berlin, Heidelberg: Springer:  282-305.</bio1>
+<aps>C. M.  Ringel, The representation type of local algebras, in &lt;em&gt;ICRA 1974 [International Conference on Robotics and Automation]&lt;/em&gt;, Lecture Notes in Mathematics ; 488 (Springer, Berlin, Heidelberg, 1975), p. 282-305.</aps>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Ringel, C.M. (1975). The representation type of local algebras (Lecture Notes in Mathematics ; 488). &lt;em&gt;ICRA 1974 [International Conference on Robotics and Automation]&lt;/em&gt; (S. 282-305). Berlin, Heidelberg: Springer. doi:10.1007/BFb0081230.&lt;/div&gt;</dgps>
+<ama>Ringel CM. The representation type of local algebras. In:  &lt;em&gt;ICRA 1974 [International Conference on Robotics and Automation]&lt;/em&gt;. Lecture Notes in Mathematics ; 488. Berlin, Heidelberg: Springer;  1975: 282-305.</ama>
+<harvard1>Ringel, C.M., 1975. The representation type of local algebras. In &lt;em&gt;ICRA 1974 [International Conference on Robotics and Automation]&lt;/em&gt;. Lecture Notes in Mathematics ; 488.  Berlin, Heidelberg: Springer, pp. 282-305.</harvard1>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1781787</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1781787</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1781787</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

@@ -1,0 +1,96 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Einführung</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Jost</namePart>
+  <namePart type="family">Reinecke</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">182452</identifier></name>
+<name type="personal">
+  <namePart type="given">Christian</namePart>
+  <namePart type="family">Tarnai</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+<name type="personal"><namePart type="given">Jost</namePart><namePart type="family">Reinecke</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">5656025</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<originInfo><publisher>Waxmann</publisher><dateIssued encoding="w3cdtf">2008</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Klassifikationsanalysen in Theorie und Praxis</title></titleInfo>
+  <identifier type="isbn">978-3-8309-2083-0</identifier>
+<part><extent unit="pages">13-18</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Reinecke, J.; Tarnai, C. (2008): Einführung. In: Jost Reinecke (Hrsg.):  Klassifikationsanalysen in Theorie und Praxis. Münster, New York: Waxmann.  S. 13-18.</wels>
+<default>Reinecke J, Tarnai C (2008)  &lt;br /&gt;In:  Klassifikationsanalysen in Theorie und Praxis. Reinecke J (Ed);Münster, New York: Waxmann:  13-18.</default>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Reinecke, J. &amp;amp; Tarnai, C. (2008). Einführung. &lt;em&gt;Klassifikationsanalysen in Theorie und Praxis&lt;/em&gt; (S. 13-18). Münster, New York: Waxmann.&lt;/div&gt;</dgps>
+<ama>Reinecke J, Tarnai C. Einführung. In: Reinecke J, ed. &lt;em&gt;Klassifikationsanalysen in Theorie und Praxis&lt;/em&gt;. Münster, New York: Waxmann;  2008: 13-18.</ama>
+<harvard1>Reinecke, J., &amp;amp; Tarnai, C., 2008. Einführung. In J.  Reinecke, ed. &lt;em&gt;Klassifikationsanalysen in Theorie und Praxis&lt;/em&gt;.  Münster, New York: Waxmann, pp. 13-18.</harvard1>
+<aps>J.  Reinecke and C.  Tarnai, Einführung, in &lt;em&gt;Klassifikationsanalysen in Theorie und Praxis&lt;/em&gt;, edited by J.  Reinecke (Waxmann, Münster, New York, 2008), p. 13-18.</aps>
+<bio1>Reinecke J, Tarnai C (2008) &lt;br /&gt;Einführung. &lt;br /&gt;In:  Klassifikationsanalysen in Theorie und Praxis. Reinecke J (Ed); Münster, New York: Waxmann:  13-18.</bio1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Reinecke, Jost, and Tarnai, Christian. 2008. “Einführung”. In &lt;em&gt;Klassifikationsanalysen in Theorie und Praxis&lt;/em&gt;, ed. Jost Reinecke, 13-18. Münster, New York: Waxmann.&lt;/div&gt;</chicago>
+<apa>Reinecke, J., &amp;amp; Tarnai, C. (2008). Einführung. In J.  Reinecke (Ed.), &lt;em&gt;Klassifikationsanalysen in Theorie und Praxis&lt;/em&gt; (pp. 13-18). Münster, New York: Waxmann.</apa>
+<angewandte-chemie>J.  Reinecke, and C.  Tarnai, in &lt;em&gt;Klassifikationsanalysen in Theorie und Praxis&lt;/em&gt; (Ed.: J. Reinecke), Waxmann, Münster, New York, &lt;strong&gt;2008&lt;/strong&gt;, p. 13-18.</angewandte-chemie>
+<frontiers>Reinecke, J., and Tarnai, C. (2008). “Einführung” in &lt;em&gt;Klassifikationsanalysen in Theorie und Praxis&lt;/em&gt;, ed. J.  Reinecke (Münster, New York: Waxmann), 13-18.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Reinecke, J., &amp;amp; Tarnai, C. (2008). Einführung. In J.  Reinecke (Ed.), &lt;em&gt;Klassifikationsanalysen in Theorie und Praxis&lt;/em&gt; (pp. 13-18). Münster, New York: Waxmann.&lt;/div&gt;</apa_indent>
+<ieee>J. Reinecke and C. Tarnai, “Einführung”, &lt;em&gt;Klassifikationsanalysen in Theorie und Praxis&lt;/em&gt;, J. Reinecke, ed.,  Münster, New York: Waxmann, 2008,  pp.13-18.</ieee>
+<mla>Reinecke, Jost, and Tarnai, Christian. “Einführung”. &lt;em&gt;Klassifikationsanalysen in Theorie und Praxis&lt;/em&gt;. Ed. Jost Reinecke. Münster, New York: Waxmann, 2008. 13-18.</mla>
+<lncs>Reinecke, J., Tarnai, C.: Einführung. In: Reinecke, J. (ed.) Klassifikationsanalysen in Theorie und Praxis. p. 13-18. Waxmann, Münster, New York (2008).</lncs>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1922194</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-11-30T10:53:21Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-02-15T13:27:15Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1922194</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1922194</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

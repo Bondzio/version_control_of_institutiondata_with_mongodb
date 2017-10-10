@@ -1,0 +1,104 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>conference paper</genre>
+
+<titleInfo><title>Electro-optics of membrane electroporation in diphenylhexatriene-doped lipid bilayer vesicles</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Sergej</namePart>
+  <namePart type="family">Kakorin</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20316</identifier></name>
+<name type="personal">
+  <namePart type="given">SP</namePart>
+  <namePart type="family">Stoylov</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Eberhard</namePart>
+  <namePart type="family">Neumann</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">20317</identifier></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Physikalische Chemie III</namePart>
+  <identifier type="unibi">17981</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The electric (linear) dichroisms observed in the membrane electroporation of salt-filled lipid bilayer vesicles (diameter O = 2a = 0.32 mu m; inside [NaCl] = 0.2 M) in isotonic aqueous 0.284 M sucrose-0.2 mM NaCl solution indicate orientation changes of the anisotropic light scattering centers (lipid head groups) and of the optical transition moments of the membrane-inserted probe 1,6-diphenyl-1,3,5-hexatriene (DPH). Both the turbidity dichroism and DPH absorbance dichroism show peculiar features: (1) at external electric fields E greater than or equal to E(sat) the time course of the dichroism shows a maximum value (reversal): E(sat) = 4.0 (+/- 0.2) MV m(-1), T = 293 K (20 degrees C), (2) this reversal value is independent of the field strength for E greater than or equal to E(sat), (3) the dichroism amplitudes exhibit a maximum value E(max) = 3.0 (+/- 0.5) MV m(-1), (4) for the pulse duration of 10 mu s there is one dominant visible normal mode, the relaxation rate increases up to tau(-1) approximate to 0.6 X 10(6) s(-1) at E(sat) and then decreases for E &gt; E(sat). The data can be described in terms of local lipid phase transitions involving clusters L(n) of n lipids in the pore edges according to the three-state scheme C reversible arrow HO = HI, C being the closed bilayer state, HO the hydrophobic pore state and HI the hydrophilic or inverted pore state with rotated lipid and DPH molecules. At E greater than or equal to E(sat) further transitions HO reversible arrow HO* and HI reversible arrow HI* are rapidly coupled to the C reversible arrow HO transition, which is rate-limiting. The vesicle geometry conditions a cos theta dependence of the local membrane field effects relative to the (E) over right arrow direction and the data reflect cos theta averages. The stationary induced transmembrane voltage Delta phi(theta, lambda(m)) = - 1.5aEf(lambda(m))/cos theta/ does not exceed the limiting value Delta phi(sat) = - 0.53 V, corresponding to the field strength E(m),(sat) = - Delta phi(sat)/d = 100 MV m(-1) (10(3) kV cm(-1)), due to increasing membrane conductivity lambda(m). At E = E(sat), f(lambda(m)) = 0.55, lambda(m) = 0.11 mS m(-1). The lipid cluster phase transition model yields an average pore radius of (r) over bar(p) = 0.35 (+/- 0.05) nm of the assumed cylindrical pore of thickness d = 5 nm, suggesting an average cluster size of [n] = 12 (+/-2) lipids per pore edge. For E &gt; E(sat) the total number of DPH molecules in pore states approaches a saturation value; the fraction of DPH molecules in HI pores is 12 (+/-2)% and that in HO pores is 48 (+/-2)%. The percentage of membrane area P approximate to (lambda(m)/lambda(i)) X 100% of conductive openings filled with the intravesicular medium of conductance lambda(i) = 2.2 S m(-1) linearly increases from P approximate to O% (E = 1.8 MV m(-1)) to P = 0.017% (E = 8.5 MV m(-1)). Analogous estimations made by Kinosita et al. (1993) on the basis of fluorescence imaging data for sea urchin eggs give the same order of magnitude for P (0.02 - 0.2%). The increase in P with the field strength is collinear with the increase in concentration of HI and HI* states with the field strength, whereas the HO and HO* states exhibit a sigmoid field dependence. Therefore our data suggest that it is only the HI and HI* pore states which are conductive. It is noted that the various peculiar features of the dichroism data cannot be described by simple whole particle deformation.</abstract>
+
+<originInfo><publisher>ELSEVIER SCIENCE BV</publisher><dateIssued encoding="w3cdtf">1996</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+<subject><topic>diphenylhexatriene</topic><topic>lipids</topic><topic>turbidity dichroism</topic><topic>vesicles</topic><topic>electroporation</topic><topic>membranes</topic>
+</subject>
+
+
+<relatedItem type="host"><titleInfo><title>BIOPHYSICAL CHEMISTRY</title></titleInfo>
+  <identifier type="issn">0301-4622</identifier>
+  <identifier type="MEDLINE">8679914</identifier>
+  <identifier type="ISI">A1996TU16600012</identifier><identifier type="doi">10.1016/0301-4622(95)00090-9</identifier>
+<part><detail type="volume"><number>58</number></detail><detail type="issue"><number>1-2</number></detail><extent unit="pages">109-116</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Kakorin, S.; Stoylov, S. P.; Neumann, E. (1996): Electro-optics of membrane electroporation in diphenylhexatriene-doped lipid bilayer vesicles. In: BIOPHYSICAL CHEMISTRY. ELSEVIER SCIENCE BV. (58).  S. 109-116.</wels>
+<default>Kakorin S, Stoylov SP, Neumann E (1996)  &lt;br /&gt;In:  BIOPHYSICAL CHEMISTRY. 58. ELSEVIER SCIENCE BV:  109-116.</default>
+<ama>Kakorin S, Stoylov SP, Neumann E. Electro-optics of membrane electroporation in diphenylhexatriene-doped lipid bilayer vesicles. In:  &lt;em&gt;BIOPHYSICAL CHEMISTRY&lt;/em&gt;. Vol 58. ELSEVIER SCIENCE BV;  1996: 109-116.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kakorin, S., Stoylov, S.P. &amp;amp; Neumann, E. (1996). Electro-optics of membrane electroporation in diphenylhexatriene-doped lipid bilayer vesicles. &lt;em&gt;BIOPHYSICAL CHEMISTRY&lt;/em&gt; (S. 109-116). ELSEVIER SCIENCE BV. doi:10.1016/0301-4622(95)00090-9.&lt;/div&gt;</dgps>
+<harvard1>Kakorin, S., Stoylov, S.P., &amp;amp; Neumann, E., 1996. Electro-optics of membrane electroporation in diphenylhexatriene-doped lipid bilayer vesicles. In &lt;em&gt;BIOPHYSICAL CHEMISTRY&lt;/em&gt;. no.58  ELSEVIER SCIENCE BV, pp. 109-116.</harvard1>
+<aps>S.  Kakorin, S. P.  Stoylov, and E.  Neumann, Electro-optics of membrane electroporation in diphenylhexatriene-doped lipid bilayer vesicles, in &lt;em&gt;BIOPHYSICAL CHEMISTRY&lt;/em&gt;, &lt;strong&gt;58&lt;/strong&gt; (ELSEVIER SCIENCE BV, 1996), p. 109-116.</aps>
+<bio1>Kakorin S, Stoylov SP, Neumann E (1996) &lt;br /&gt;Electro-optics of membrane electroporation in diphenylhexatriene-doped lipid bilayer vesicles. &lt;br /&gt;In:  BIOPHYSICAL CHEMISTRY. 58. ELSEVIER SCIENCE BV:  109-116.</bio1>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kakorin, Sergej, Stoylov, SP, and Neumann, Eberhard. 1996. “Electro-optics of membrane electroporation in diphenylhexatriene-doped lipid bilayer vesicles”. In &lt;em&gt;BIOPHYSICAL CHEMISTRY&lt;/em&gt;, 58:109-116. ELSEVIER SCIENCE BV.&lt;/div&gt;</chicago>
+<angewandte-chemie>S.  Kakorin, S. P.  Stoylov, and E.  Neumann, in &lt;em&gt;BIOPHYSICAL CHEMISTRY&lt;/em&gt;, Elsevier Science Bv, &lt;strong&gt;1996&lt;/strong&gt;, p. 109-116.</angewandte-chemie>
+<apa>Kakorin, S., Stoylov, S. P., &amp;amp; Neumann, E. (1996). Electro-optics of membrane electroporation in diphenylhexatriene-doped lipid bilayer vesicles. &lt;em&gt;BIOPHYSICAL CHEMISTRY&lt;/em&gt;, &lt;em&gt;58&lt;/em&gt;(1-2), 109-116.</apa>
+<frontiers>Kakorin, S., Stoylov, S. P., and Neumann, E. (1996). “Electro-optics of membrane electroporation in diphenylhexatriene-doped lipid bilayer vesicles” in &lt;em&gt;BIOPHYSICAL CHEMISTRY&lt;/em&gt;, vol. 58, (ELSEVIER SCIENCE BV), 109-116.</frontiers>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Kakorin, S., Stoylov, S. P., &amp;amp; Neumann, E. (1996). Electro-optics of membrane electroporation in diphenylhexatriene-doped lipid bilayer vesicles. &lt;em&gt;BIOPHYSICAL CHEMISTRY&lt;/em&gt;, &lt;em&gt;58&lt;/em&gt;(1-2), 109-116.&lt;/div&gt;</apa_indent>
+<ieee>S. Kakorin, S.P. Stoylov, and E. Neumann, “Electro-optics of membrane electroporation in diphenylhexatriene-doped lipid bilayer vesicles”, &lt;em&gt;BIOPHYSICAL CHEMISTRY&lt;/em&gt;, vol. 58, ELSEVIER SCIENCE BV, 1996,  pp.109-116.</ieee>
+<mla>Kakorin, Sergej, Stoylov, SP, and Neumann, Eberhard. “Electro-optics of membrane electroporation in diphenylhexatriene-doped lipid bilayer vesicles”. &lt;em&gt;BIOPHYSICAL CHEMISTRY&lt;/em&gt;. ELSEVIER SCIENCE BV, 1996.Vol. 58. 109-116.</mla>
+<lncs>Kakorin, S., Stoylov, S.P., Neumann, E.: Electro-optics of membrane electroporation in diphenylhexatriene-doped lipid bilayer vesicles. BIOPHYSICAL CHEMISTRY. 58, p. 109-116. ELSEVIER SCIENCE BV (1996).</lncs>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1628948</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T13:26:37Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2010-12-14T14:02:34Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1628948</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1628948</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

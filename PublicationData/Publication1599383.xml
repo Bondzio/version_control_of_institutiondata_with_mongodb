@@ -1,0 +1,130 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>Sequence analysis of the 144-kilobase accessory plasmid pSmeSM11a, isolated from a dominant Sinorhizobium meliloti strain identified during a long-term field release experimerit</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Stiens</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Susanne</namePart>
+  <namePart type="family">Schneiker-Bekel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">113931</identifier></name>
+<name type="personal">
+  <namePart type="given">M</namePart>
+  <namePart type="family">Keller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">S</namePart>
+  <namePart type="family">Kuhn</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alfred</namePart>
+  <namePart type="family">Pühler</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">21937</identifier></name>
+<name type="personal">
+  <namePart type="given">Andreas</namePart>
+  <namePart type="family">Schlüter</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">55545</identifier><description xsi:type="identifierDefinition" type="orcid">0000-0003-4830-310X</description></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">33070639</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+<name type="corporate">
+  <namePart></namePart>
+  <identifier type="unibi">10017</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">The genome of Sinorhizobium meliloti type strain Rm1021 consists of three replicons: the chromosome and two megaplasmids, pSymA and pSymB. Additionally, many indigenous S. meliloti strains possess one or more smaller plasmids, which represent the accessory genome of this species. Here we describe the complete nucleotide sequence of an accessory plasmid, designated pSmeSM11a, that was isolated from a dominant indigenous S. meliloti subpopulation in the context of a long-term field release experiment with genetically modified S. meliloti strains. Sequence analysis of plasmid pSmeSM11a revealed that it is 144,170 bp long and has a mean G+C content of 59.5 mol%. Annotation of the sequence resulted in a total of 160 coding sequences. Functional predictions could be made for 43% of the genes, whereas 57% of the genes encode hypothetical or unknown gene products. Two plasmid replication modules, one belonging to the repABC replicon family and the other belonging to the plasmid type A replicator region family were identified. Plasmid pSmeSM11a contains a mobilization (mob) module composed of the type IV secretion system-related genes traG and traA and a putative mobC gene. A large continuous region that is about 42 kb long is very similar to a corresponding region located on S. meliloti Rm1021 megaplasmid pSymA. Single-base-pair deletions in the homologous regions are responsible for frameshifts that result in nonparalogous coding sequences. Plasmid pSmeSM11a carries additional copies of the nodulation genes nodP and nodQ that are responsible for Nod factor sulfation. Furthermore, a tauD gene encoding a putative taurine dioxygenase was identified on pSmeSM11a. An acdS gene located on pSmeSM11a is the first example of such a gene in S. meliloti. The deduced acdS gene product is able to deaminate 1-aminocyclopropane-1-carboxylate and is proposed to be involved in reducing the phytohormone ethylene, thus influencing nodulation events. The presence of numerous insertion sequences suggests that these elements mediated acquisition of accessory plasmid modules.</abstract>
+
+<originInfo><publisher>AMER SOC MICROBIOLOGY</publisher><dateIssued encoding="w3cdtf">2006</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Appl Environ Microbiol</title></titleInfo>
+  <identifier type="issn">0099-2240</identifier>
+  <identifier type="MEDLINE">16672515</identifier>
+  <identifier type="ISI">000237491200071</identifier><identifier type="doi">10.1128/AEM.72.5.3662-3672.2006</identifier>
+<part><detail type="volume"><number>72</number></detail><detail type="issue"><number>5</number></detail><extent unit="pages">3662-3672</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<angewandte-chemie>M.  Stiens, S.  Schneiker-Bekel, M.  Keller, S.  Kuhn, A.  Pühler, and A.  Schlüter, “Sequence analysis of the 144-kilobase accessory plasmid pSmeSM11a, isolated from a dominant Sinorhizobium meliloti strain identified during a long-term field release experimerit”, &lt;em&gt;Appl Environ Microbiol&lt;/em&gt;, &lt;strong&gt;2006&lt;/strong&gt;, &lt;em&gt;72&lt;/em&gt;, 3662-3672.</angewandte-chemie>
+<apa>Stiens, M., Schneiker-Bekel, S., Keller, M., Kuhn, S., Pühler, A., &amp;amp; Schlüter, A. (2006). Sequence analysis of the 144-kilobase accessory plasmid pSmeSM11a, isolated from a dominant Sinorhizobium meliloti strain identified during a long-term field release experimerit. &lt;em&gt;Appl Environ Microbiol&lt;/em&gt;, &lt;em&gt;72&lt;/em&gt;(5), 3662-3672.</apa>
+<frontiers>Stiens, M., Schneiker-Bekel, S., Keller, M., Kuhn, S., Pühler, A., and Schlüter, A. (2006). Sequence analysis of the 144-kilobase accessory plasmid pSmeSM11a, isolated from a dominant Sinorhizobium meliloti strain identified during a long-term field release experimerit. &lt;em&gt;Appl Environ Microbiol&lt;/em&gt; 72, 3662-3672.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Stiens, M, Schneiker-Bekel, Susanne, Keller, M, Kuhn, S, Pühler, Alfred, and Schlüter, Andreas. 2006. “Sequence analysis of the 144-kilobase accessory plasmid pSmeSM11a, isolated from a dominant Sinorhizobium meliloti strain identified during a long-term field release experimerit”. &lt;em&gt;Appl Environ Microbiol&lt;/em&gt; 72 (5): 3662-3672.&lt;/div&gt;</chicago>
+<ieee> M. Stiens, et al., “Sequence analysis of the 144-kilobase accessory plasmid pSmeSM11a, isolated from a dominant Sinorhizobium meliloti strain identified during a long-term field release experimerit”, &lt;em&gt;Appl Environ Microbiol&lt;/em&gt;,  vol. 72, 2006,  pp. 3662-3672.</ieee>
+<mla>Stiens, M, Schneiker-Bekel, Susanne, Keller, M, Kuhn, S, Pühler, Alfred, and Schlüter, Andreas. “Sequence analysis of the 144-kilobase accessory plasmid pSmeSM11a, isolated from a dominant Sinorhizobium meliloti strain identified during a long-term field release experimerit”. &lt;em&gt;Appl Environ Microbiol&lt;/em&gt; 72.5 (2006): 3662-3672.</mla>
+<lncs> Stiens, M., Schneiker-Bekel, S., Keller, M., Kuhn, S., Pühler, A., Schlüter, A.: Sequence analysis of the 144-kilobase accessory plasmid pSmeSM11a, isolated from a dominant Sinorhizobium meliloti strain identified during a long-term field release experimerit. Appl Environ Microbiol. 72, 3662-3672 (2006).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Stiens, M., Schneiker-Bekel, S., Keller, M., Kuhn, S., Pühler, A., &amp;amp; Schlüter, A. (2006). Sequence analysis of the 144-kilobase accessory plasmid pSmeSM11a, isolated from a dominant Sinorhizobium meliloti strain identified during a long-term field release experimerit. &lt;em&gt;Appl Environ Microbiol&lt;/em&gt;, &lt;em&gt;72&lt;/em&gt;(5), 3662-3672.&lt;/div&gt;</apa_indent>
+<wels>Stiens, M.; Schneiker-Bekel, S.; Keller, M.; Kuhn, S.; Pühler, A.; Schlüter, A. (2006): Sequence analysis of the 144-kilobase accessory plasmid pSmeSM11a, isolated from a dominant Sinorhizobium meliloti strain identified during a long-term field release experimerit &lt;em&gt;Appl Environ Microbiol&lt;/em&gt;,72:(5): 3662-3672.</wels>
+<default>Stiens M, Schneiker-Bekel S, Keller M, Kuhn S, Pühler A, Schlüter A (2006) &lt;br /&gt;Appl Environ Microbiol 72(5): 3662-3672.</default>
+<ama>Stiens M, Schneiker-Bekel S, Keller M, Kuhn S, Pühler A, Schlüter A. Sequence analysis of the 144-kilobase accessory plasmid pSmeSM11a, isolated from a dominant Sinorhizobium meliloti strain identified during a long-term field release experimerit. &lt;em&gt;Appl Environ Microbiol&lt;/em&gt;. 2006;72(5):3662-3672.</ama>
+<harvard1>Stiens, M., et al., 2006. Sequence analysis of the 144-kilobase accessory plasmid pSmeSM11a, isolated from a dominant Sinorhizobium meliloti strain identified during a long-term field release experimerit. &lt;em&gt;Appl Environ Microbiol&lt;/em&gt;, 72(5), p 3662-3672.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Stiens, M., Schneiker-Bekel, S., Keller, M., Kuhn, S., Pühler, A. &amp;amp; Schlüter, A. (2006). Sequence analysis of the 144-kilobase accessory plasmid pSmeSM11a, isolated from a dominant Sinorhizobium meliloti strain identified during a long-term field release experimerit. &lt;em&gt;Appl Environ Microbiol&lt;/em&gt;, &lt;em&gt;72&lt;/em&gt;(5), 3662-3672. AMER SOC MICROBIOLOGY. doi:10.1128/AEM.72.5.3662-3672.2006.&lt;/div&gt;</dgps>
+<bio1>Stiens M, Schneiker-Bekel S, Keller M, Kuhn S, Pühler A, Schlüter A (2006) &lt;br /&gt;Sequence analysis of the 144-kilobase accessory plasmid pSmeSM11a, isolated from a dominant Sinorhizobium meliloti strain identified during a long-term field release experimerit.&lt;br /&gt;Appl Environ Microbiol 72(5): 3662-3672.</bio1>
+<aps> M.  Stiens, et al., Sequence analysis of the 144-kilobase accessory plasmid pSmeSM11a, isolated from a dominant Sinorhizobium meliloti strain identified during a long-term field release experimerit, Appl Environ Microbiol &lt;strong&gt;72&lt;/strong&gt;, 3662-3672 (2006).</aps>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1599383</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-28T12:19:54Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2016-10-04T13:28:11Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1599383</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1599383</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

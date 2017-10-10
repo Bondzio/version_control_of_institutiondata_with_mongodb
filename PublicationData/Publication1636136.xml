@@ -1,0 +1,143 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>article</genre>
+
+<titleInfo><title>ADP-Glucose Pyrophosphorylase-Deficient Pea Embryos Reveal Specific Transcriptional and Metabolic Changes of Carbon-Nitrogen Metabolism and Stress Responses</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+<note type="qualityControlled">yes</note>
+
+<name type="personal">
+  <namePart type="given">Kathleen</namePart>
+  <namePart type="family">Weigelt</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Helge</namePart>
+  <namePart type="family">Kuester</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Twan</namePart>
+  <namePart type="family">Rutten</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Aaron</namePart>
+  <namePart type="family">Fait</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Alisdair R.</namePart>
+  <namePart type="family">Fernie</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Otto</namePart>
+  <namePart type="family">Miersch</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Claus</namePart>
+  <namePart type="family">Wasternack</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">R. J. Neil</namePart>
+  <namePart type="family">Emery</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Christine</namePart>
+  <namePart type="family">Desel</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Felicia</namePart>
+  <namePart type="family">Hosein</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Martin</namePart>
+  <namePart type="family">Mueller</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Isolde</namePart>
+  <namePart type="family">Saalbach</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+<name type="personal">
+  <namePart type="given">Hans</namePart>
+  <namePart type="family">Weber</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role></name>
+
+
+
+
+
+
+
+<name type="corporate">
+  <namePart>Institut für Genomforschung und Systembiologie</namePart>
+  <identifier type="unibi">441929</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+<abstract lang="eng">We present a comprehensive analysis of ADP-glucose pyrophosphorylase (AGP)-repressed pea (Pisum sativum) seeds using transcript and metabolite profiling to monitor the effects that reduced carbon flow into starch has on carbon-nitrogen metabolism and related pathways. Changed patterns of transcripts and metabolites suggest that AGP repression causes sugar accumulation and stimulates carbohydrate oxidation via glycolysis, tricarboxylic acid cycle, and mitochondrial respiration. Enhanced provision of precursors such as acetyl-coenzyme A and organic acids apparently support other pathways and activate amino acid and storage protein biosynthesis as well as pathways fed by cytosolic acetyl-coenzyme A, such as cysteine biosynthesis and fatty acid elongation/metabolism. As a consequence, the resulting higher nitrogen (N) demand depletes transient N storage pools, specifically asparagine and arginine, and leads to N limitation. Moreover, increased sugar accumulation appears to stimulate cytokinin-mediated cell proliferation pathways. In addition, the deregulation of starch biosynthesis resulted in indirect changes, such as increased mitochondrial metabolism and osmotic stress. The combined effect of these changes is an enhanced generation of reactive oxygen species coupled with an up-regulation of energy-dissipating, reactive oxygen species protection, and defense genes. Transcriptional activation of mitogen-activated protein kinase pathways and oxylipin synthesis indicates an additional activation of stress signaling pathways. AGP-repressed embryos contain higher levels of jasmonate derivatives; however, this increase is preferentially in nonactive forms. The results suggest that, although metabolic/osmotic alterations in iAGP pea seeds result in multiple stress responses, pea seeds have effective mechanisms to circumvent stress signaling under conditions in which excessive stress responses and/or cellular damage could prematurely initiate senescence or apoptosis.</abstract>
+
+<originInfo><publisher>American Society of Plant Biologists (ASPB)</publisher><dateIssued encoding="w3cdtf">2009</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>PLANT PHYSIOLOGY</title></titleInfo>
+  <identifier type="issn">0032-0889</identifier>
+  <identifier type="eIssn">1532-2548</identifier>
+  <identifier type="MEDLINE">18987213</identifier>
+  <identifier type="ISI">000262261500043</identifier><identifier type="doi">10.1104/pp.108.129940</identifier>
+<part><detail type="volume"><number>149</number></detail><detail type="issue"><number>1</number></detail><extent unit="pages">395-411</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<aps>K.  Weigelt, et al., ADP-Glucose Pyrophosphorylase-Deficient Pea Embryos Reveal Specific Transcriptional and Metabolic Changes of Carbon-Nitrogen Metabolism and Stress Responses, PLANT PHYSIOLOGY &lt;strong&gt;149&lt;/strong&gt;, 395-411 (2009).</aps>
+<bio1>Weigelt K, Kuester H, Rutten T, Fait A, Fernie AR, Miersch O, Wasternack C, Emery RJN, Desel C, Hosein F, Mueller M, Saalbach I, Weber H (2009) &lt;br /&gt;ADP-Glucose Pyrophosphorylase-Deficient Pea Embryos Reveal Specific Transcriptional and Metabolic Changes of Carbon-Nitrogen Metabolism and Stress Responses.&lt;br /&gt;PLANT PHYSIOLOGY 149(1): 395-411.</bio1>
+<ama>Weigelt K, Kuester H, Rutten T, et al. ADP-Glucose Pyrophosphorylase-Deficient Pea Embryos Reveal Specific Transcriptional and Metabolic Changes of Carbon-Nitrogen Metabolism and Stress Responses. &lt;em&gt;PLANT PHYSIOLOGY&lt;/em&gt;. 2009;149(1):395-411.</ama>
+<harvard1>Weigelt, K., et al., 2009. ADP-Glucose Pyrophosphorylase-Deficient Pea Embryos Reveal Specific Transcriptional and Metabolic Changes of Carbon-Nitrogen Metabolism and Stress Responses. &lt;em&gt;PLANT PHYSIOLOGY&lt;/em&gt;, 149(1), p 395-411.</harvard1>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Weigelt, K., Kuester, H., Rutten, T., Fait, A., Fernie, A.R., Miersch, O., Wasternack, C., Emery, R.J.N., Desel, C., Hosein, F., Mueller, M., Saalbach, I. &amp;amp; Weber, H. (2009). ADP-Glucose Pyrophosphorylase-Deficient Pea Embryos Reveal Specific Transcriptional and Metabolic Changes of Carbon-Nitrogen Metabolism and Stress Responses. &lt;em&gt;PLANT PHYSIOLOGY&lt;/em&gt;, &lt;em&gt;149&lt;/em&gt;(1), 395-411. American Society of Plant Biologists (ASPB). doi:10.1104/pp.108.129940.&lt;/div&gt;</dgps>
+<default>Weigelt K, Kuester H, Rutten T, Fait A, Fernie AR, Miersch O, Wasternack C, Emery RJN, Desel C, Hosein F, Mueller M, et al. (2009) &lt;br /&gt;PLANT PHYSIOLOGY 149(1): 395-411.</default>
+<wels>Weigelt, K.; Kuester, H.; Rutten, T.; Fait, A.; Fernie, A. R.; Miersch, O.; Wasternack, C.; Emery, R. J. N.; Desel, C.; Hosein, F.; Mueller, M.; Saalbach, I.; Weber, H. (2009): ADP-Glucose Pyrophosphorylase-Deficient Pea Embryos Reveal Specific Transcriptional and Metabolic Changes of Carbon-Nitrogen Metabolism and Stress Responses &lt;em&gt;PLANT PHYSIOLOGY&lt;/em&gt;,149:(1): 395-411.</wels>
+<lncs>Weigelt, K., Kuester, H., Rutten, T., Fait, A., Fernie, A.R., Miersch, O., Wasternack, C., Emery, R.J.N., Desel, C., Hosein, F., Mueller, M., Saalbach, I., Weber, H.: ADP-Glucose Pyrophosphorylase-Deficient Pea Embryos Reveal Specific Transcriptional and Metabolic Changes of Carbon-Nitrogen Metabolism and Stress Responses. PLANT PHYSIOLOGY. 149, 395-411 (2009).</lncs>
+<mla>Weigelt, Kathleen, Kuester, Helge, Rutten, Twan, Fait, Aaron, Fernie, Alisdair R., Miersch, Otto, Wasternack, Claus, Emery, R. J. Neil, Desel, Christine, Hosein, Felicia, Mueller, Martin, Saalbach, Isolde, and Weber, Hans. “ADP-Glucose Pyrophosphorylase-Deficient Pea Embryos Reveal Specific Transcriptional and Metabolic Changes of Carbon-Nitrogen Metabolism and Stress Responses”. &lt;em&gt;PLANT PHYSIOLOGY&lt;/em&gt; 149.1 (2009): 395-411.</mla>
+<ieee>K. Weigelt, et al., “ADP-Glucose Pyrophosphorylase-Deficient Pea Embryos Reveal Specific Transcriptional and Metabolic Changes of Carbon-Nitrogen Metabolism and Stress Responses”, &lt;em&gt;PLANT PHYSIOLOGY&lt;/em&gt;,  vol. 149, 2009,  pp. 395-411.</ieee>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Weigelt, K., Kuester, H., Rutten, T., Fait, A., Fernie, A. R., Miersch, O., Wasternack, C., et al. (2009). ADP-Glucose Pyrophosphorylase-Deficient Pea Embryos Reveal Specific Transcriptional and Metabolic Changes of Carbon-Nitrogen Metabolism and Stress Responses. &lt;em&gt;PLANT PHYSIOLOGY&lt;/em&gt;, &lt;em&gt;149&lt;/em&gt;(1), 395-411.&lt;/div&gt;</apa_indent>
+<frontiers>Weigelt, K., Kuester, H., Rutten, T., Fait, A., Fernie, A. R., Miersch, O., Wasternack, C., Emery, R. J. N., Desel, C., Hosein, F., et al. (2009). ADP-Glucose Pyrophosphorylase-Deficient Pea Embryos Reveal Specific Transcriptional and Metabolic Changes of Carbon-Nitrogen Metabolism and Stress Responses. &lt;em&gt;PLANT PHYSIOLOGY&lt;/em&gt; 149, 395-411.</frontiers>
+<angewandte-chemie>K.  Weigelt, H.  Kuester, T.  Rutten, A.  Fait, A. R.  Fernie, O.  Miersch, C.  Wasternack, R. J. N.  Emery, C.  Desel, F.  Hosein, et al., “ADP-Glucose Pyrophosphorylase-Deficient Pea Embryos Reveal Specific Transcriptional and Metabolic Changes of Carbon-Nitrogen Metabolism and Stress Responses”, &lt;em&gt;PLANT PHYSIOLOGY&lt;/em&gt;, &lt;strong&gt;2009&lt;/strong&gt;, &lt;em&gt;149&lt;/em&gt;, 395-411.</angewandte-chemie>
+<apa>Weigelt, K., Kuester, H., Rutten, T., Fait, A., Fernie, A. R., Miersch, O., Wasternack, C., et al. (2009). ADP-Glucose Pyrophosphorylase-Deficient Pea Embryos Reveal Specific Transcriptional and Metabolic Changes of Carbon-Nitrogen Metabolism and Stress Responses. &lt;em&gt;PLANT PHYSIOLOGY&lt;/em&gt;, &lt;em&gt;149&lt;/em&gt;(1), 395-411.</apa>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Weigelt, Kathleen, Kuester, Helge, Rutten, Twan, Fait, Aaron, Fernie, Alisdair R., Miersch, Otto, Wasternack, Claus, et al. 2009. “ADP-Glucose Pyrophosphorylase-Deficient Pea Embryos Reveal Specific Transcriptional and Metabolic Changes of Carbon-Nitrogen Metabolism and Stress Responses”. &lt;em&gt;PLANT PHYSIOLOGY&lt;/em&gt; 149 (1): 395-411.&lt;/div&gt;</chicago>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1636136</recordIdentifier><recordCreationDate encoding="w3cdtf">2010-04-29T13:07:57Z</recordCreationDate><recordChangeDate encoding="w3cdtf">2011-09-28T14:10:44Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1636136</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1636136</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

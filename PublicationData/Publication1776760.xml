@@ -1,0 +1,98 @@
+<?xml version='1.0'?>
+
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<numberOfRecords>1</numberOfRecords>
+<records>
+<record><recordSchema>info:srw/schema/1/mods-v3.3</recordSchema><recordPacking>xml</recordPacking><recordData>
+<mods version="3.3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/mods/v3"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<genre>book chapter</genre>
+
+<titleInfo><title>Influence of developmental factors on imprinting</title></titleInfo>
+
+
+<note type="publicationStatus">published</note>
+
+
+
+<name type="personal">
+  <namePart type="given">Hans-Joachim</namePart>
+  <namePart type="family">Bischof</namePart>
+  <role><roleTerm type="text">author</roleTerm> </role><identifier type="unibi">22137</identifier></name>
+
+
+
+<name type="personal"><namePart type="given">Bruno E.</namePart><namePart type="family">Will</namePart>
+  <role> <roleTerm type="text">editor</roleTerm> </role></name>
+
+
+
+
+<name type="corporate">
+  <namePart>Verhaltensforschung</namePart>
+  <identifier type="unibi">2528935</identifier>
+  <role>
+    <roleTerm type="text">department</roleTerm>
+  </role>
+</name>
+
+
+
+
+
+
+
+
+
+<relatedItem type="constituent">
+  <location>
+    <url displayLabel="Bischof_15.pdf">https://pub.uni-bielefeld.de/download/1776760/2312224</url>
+  </location>
+  <physicalDescription><internetMediaType>application/pdf</internetMediaType></physicalDescription><accessCondition type="restrictionOnAccess">no</accessCondition>
+</relatedItem>
+<originInfo><publisher>Plenum Press</publisher><dateIssued encoding="w3cdtf">1985</dateIssued>
+</originInfo>
+<language><languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+</language>
+
+
+
+<relatedItem type="host"><titleInfo><title>Brain plasticity, learning, and memory: proceedings of an EBBS-SFECA Workshop on Brain Plasticity, Learning, and Memory, held Aug. 30 - Sept. 1, 1984, in Strasbourg, France</title></titleInfo>
+  <identifier type="isbn">0-306-42063-5</identifier><identifier type="urn">urn:nbn:de:0070-bipr-12914</identifier>
+<part><extent unit="pages">51-59</extent>
+</part>
+</relatedItem>
+
+
+<extension>
+<bibliographicCitation>
+<wels>Bischof, H. - J. (1985): Influence of developmental factors on imprinting. In: Bruno E. Will (Hrsg.):  Brain plasticity, learning, and memory: proceedings of an EBBS-SFECA Workshop on Brain Plasticity, Learning, and Memory, held Aug. 30 - Sept. 1, 1984, in Strasbourg, France. New York: Plenum Press. (Advances in behavioral biology ; 28, ).  S. 51-59.</wels>
+<default>Bischof H-J (1985)  &lt;br /&gt;In:  Brain plasticity, learning, and memory: proceedings of an EBBS-SFECA Workshop on Brain Plasticity, Learning, and Memory, held Aug. 30 - Sept. 1, 1984, in Strasbourg, France. Will BE (Ed); Advances in behavioral biology ; 28, . New York: Plenum Press:  51-59.</default>
+<ama>Bischof H-J. Influence of developmental factors on imprinting. In: Will BE, ed. &lt;em&gt;Brain plasticity, learning, and memory: proceedings of an EBBS-SFECA Workshop on Brain Plasticity, Learning, and Memory, held Aug. 30 - Sept. 1, 1984, in Strasbourg, France&lt;/em&gt;. Advances in behavioral biology ; 28. New York: Plenum Press;  1985: 51-59.</ama>
+<dgps>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bischof, H.-J. (1985). Influence of developmental factors on imprinting (Advances in behavioral biology ; 28). &lt;em&gt;Brain plasticity, learning, and memory: proceedings of an EBBS-SFECA Workshop on Brain Plasticity, Learning, and Memory, held Aug. 30 - Sept. 1, 1984, in Strasbourg, France&lt;/em&gt; (S. 51-59). New York: Plenum Press.&lt;/div&gt;</dgps>
+<harvard1>Bischof, H.-J., 1985. Influence of developmental factors on imprinting. In B. E.  Will, ed. &lt;em&gt;Brain plasticity, learning, and memory: proceedings of an EBBS-SFECA Workshop on Brain Plasticity, Learning, and Memory, held Aug. 30 - Sept. 1, 1984, in Strasbourg, France&lt;/em&gt;. Advances in behavioral biology ; 28.  New York: Plenum Press, pp. 51-59.</harvard1>
+<aps>H. - J.  Bischof, Influence of developmental factors on imprinting, in &lt;em&gt;Brain plasticity, learning, and memory: proceedings of an EBBS-SFECA Workshop on Brain Plasticity, Learning, and Memory, held Aug. 30 - Sept. 1, 1984, in Strasbourg, France&lt;/em&gt;, edited by B. E.  Will, Advances in behavioral biology ; 28 (Plenum Press, New York, 1985), p. 51-59.</aps>
+<bio1>Bischof H-J (1985) &lt;br /&gt;Influence of developmental factors on imprinting. &lt;br /&gt;In:  Brain plasticity, learning, and memory: proceedings of an EBBS-SFECA Workshop on Brain Plasticity, Learning, and Memory, held Aug. 30 - Sept. 1, 1984, in Strasbourg, France. Will BE (Ed); Advances in behavioral biology ; 28,  New York: Plenum Press:  51-59.</bio1>
+<angewandte-chemie>H. - J.  Bischof, in &lt;em&gt;Brain plasticity, learning, and memory: proceedings of an EBBS-SFECA Workshop on Brain Plasticity, Learning, and Memory, held Aug. 30 - Sept. 1, 1984, in Strasbourg, France&lt;/em&gt; (Ed.: B.E. Will), Plenum Press, New York, &lt;strong&gt;1985&lt;/strong&gt;, p. 51-59.</angewandte-chemie>
+<apa>Bischof, H. - J. (1985). Influence of developmental factors on imprinting. In B. E.  Will (Ed.), &lt;em&gt;Advances in behavioral biology ; 28&lt;/em&gt;&lt;em&gt;. Brain plasticity, learning, and memory: proceedings of an EBBS-SFECA Workshop on Brain Plasticity, Learning, and Memory, held Aug. 30 - Sept. 1, 1984, in Strasbourg, France&lt;/em&gt; (pp. 51-59). New York: Plenum Press.</apa>
+<frontiers>Bischof, H. - J. (1985). “Influence of developmental factors on imprinting” in &lt;em&gt;Brain plasticity, learning, and memory: proceedings of an EBBS-SFECA Workshop on Brain Plasticity, Learning, and Memory, held Aug. 30 - Sept. 1, 1984, in Strasbourg, France&lt;/em&gt;, ed. B. E.  Will Advances in behavioral biology ; 28 (New York: Plenum Press), 51-59.</frontiers>
+<chicago>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bischof, Hans-Joachim. 1985. “Influence of developmental factors on imprinting”. In &lt;em&gt;Brain plasticity, learning, and memory: proceedings of an EBBS-SFECA Workshop on Brain Plasticity, Learning, and Memory, held Aug. 30 - Sept. 1, 1984, in Strasbourg, France&lt;/em&gt;, ed. Bruno E. Will, 51-59. Advances in behavioral biology ; 28. New York: Plenum Press.&lt;/div&gt;</chicago>
+<ieee>H.-J. Bischof, “Influence of developmental factors on imprinting”, &lt;em&gt;Brain plasticity, learning, and memory: proceedings of an EBBS-SFECA Workshop on Brain Plasticity, Learning, and Memory, held Aug. 30 - Sept. 1, 1984, in Strasbourg, France&lt;/em&gt;, B.E. Will, ed., Advances in behavioral biology ; 28,  New York: Plenum Press, 1985,  pp.51-59.</ieee>
+<mla>Bischof, Hans-Joachim. “Influence of developmental factors on imprinting”. &lt;em&gt;Brain plasticity, learning, and memory: proceedings of an EBBS-SFECA Workshop on Brain Plasticity, Learning, and Memory, held Aug. 30 - Sept. 1, 1984, in Strasbourg, France&lt;/em&gt;. Ed. Bruno E. Will. New York: Plenum Press, 1985. Advances in behavioral biology ; 28. 51-59.</mla>
+<lncs>Bischof, H.-J.: Influence of developmental factors on imprinting. In: Will, B.E. (ed.) Brain plasticity, learning, and memory: proceedings of an EBBS-SFECA Workshop on Brain Plasticity, Learning, and Memory, held Aug. 30 - Sept. 1, 1984, in Strasbourg, France. Advances in behavioral biology ; 28. p. 51-59. Plenum Press, New York (1985).</lncs>
+<apa_indent>&lt;div style=&quot;text-indent:-25px; padding-left:25px;padding-bottom:0px;&quot;&gt;Bischof, H. - J. (1985). Influence of developmental factors on imprinting. In B. E.  Will (Ed.), &lt;em&gt;Advances in behavioral biology ; 28&lt;/em&gt;&lt;em&gt;. Brain plasticity, learning, and memory: proceedings of an EBBS-SFECA Workshop on Brain Plasticity, Learning, and Memory, held Aug. 30 - Sept. 1, 1984, in Strasbourg, France&lt;/em&gt; (pp. 51-59). New York: Plenum Press.&lt;/div&gt;</apa_indent>
+</bibliographicCitation>
+</extension>
+<recordInfo><recordIdentifier>1776760</recordIdentifier><recordChangeDate encoding="w3cdtf">2012-01-26T08:38:18Z</recordChangeDate>
+</recordInfo>
+</mods>
+</recordData><recordPosition>1</recordPosition></record>
+</records>
+
+<extraResponseData></extraResponseData> 
+<echoedSearchRetrieveRequest><version>1.1</version><query>id=1776760</query><xQuery><searchClause xmlns="http://www.loc.gov/zing/cql/xcql/"><index>id</index><relation><value>=</value></relation><term>1776760</term></searchClause></xQuery></echoedSearchRetrieveRequest>
+</searchRetrieveResponse>
